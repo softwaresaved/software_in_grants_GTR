@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/1109E202-4FE3-40AC-B73E-7B37EF45241A"><gtr:id>1109E202-4FE3-40AC-B73E-7B37EF45241A</gtr:id><gtr:name>University of East London</gtr:name><gtr:address><gtr:line1>Docklands Campus</gtr:line1><gtr:line2>4-6 University Way</gtr:line2><gtr:line4>London</gtr:line4><gtr:postCode>E16 2RD</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9"><gtr:id>3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9</gtr:id><gtr:name>University of Oxford</gtr:name><gtr:address><gtr:line1>University Chest</gtr:line1><gtr:line2>Wellington Square</gtr:line2><gtr:line4>Oxford</gtr:line4><gtr:postCode>OX1 2JD</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/B6FB652A-60C3-48DD-9A33-075D1F759B48"><gtr:id>B6FB652A-60C3-48DD-9A33-075D1F759B48</gtr:id><gtr:name>University of Warwick</gtr:name><gtr:address><gtr:line1>Warwickshire</gtr:line1><gtr:line4>Coventry</gtr:line4><gtr:line5>West Midlands</gtr:line5><gtr:postCode>CV4 7AL</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/90364D97-9CDC-4CA3-9C23-CF20BB56F61A"><gtr:id>90364D97-9CDC-4CA3-9C23-CF20BB56F61A</gtr:id><gtr:name>Royal United Services Institute</gtr:name><gtr:address><gtr:line1>61 Whitehall</gtr:line1><gtr:line4>London</gtr:line4><gtr:postCode>SW1A 2ET</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/53944FC7-FD00-407E-A4F1-F22812C85420"><gtr:id>53944FC7-FD00-407E-A4F1-F22812C85420</gtr:id><gtr:name>University of Buckingham</gtr:name><gtr:address><gtr:line1>Hunter Street</gtr:line1><gtr:line4>Buckingham</gtr:line4><gtr:line5>Buckinghamshire</gtr:line5><gtr:postCode>MK18 1EG</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/7368D23B-C1FC-4135-A3C2-50BAA752F6B3"><gtr:id>7368D23B-C1FC-4135-A3C2-50BAA752F6B3</gtr:id><gtr:name>Washington College</gtr:name></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/EAAD4D43-BD15-432B-9385-2DBD0C65958D"><gtr:id>EAAD4D43-BD15-432B-9385-2DBD0C65958D</gtr:id><gtr:name>University of Bath</gtr:name><gtr:address><gtr:line1>University of Bath</gtr:line1><gtr:line2>Claverton Down</gtr:line2><gtr:line4>Bath</gtr:line4><gtr:line5>Avon</gtr:line5><gtr:postCode>BA2 7AY</gtr:postCode><gtr:region>South West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator></gtr:collaborations><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9"><gtr:id>3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9</gtr:id><gtr:name>University of Oxford</gtr:name><gtr:department>Education</gtr:department><gtr:address><gtr:line1>University Chest</gtr:line1><gtr:line2>Wellington Square</gtr:line2><gtr:line4>Oxford</gtr:line4><gtr:postCode>OX1 2JD</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9"><gtr:id>3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9</gtr:id><gtr:name>University of Oxford</gtr:name><gtr:address><gtr:line1>University Chest</gtr:line1><gtr:line2>Wellington Square</gtr:line2><gtr:line4>Oxford</gtr:line4><gtr:postCode>OX1 2JD</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/1109E202-4FE3-40AC-B73E-7B37EF45241A"><gtr:id>1109E202-4FE3-40AC-B73E-7B37EF45241A</gtr:id><gtr:name>University of East London</gtr:name><gtr:address><gtr:line1>Docklands Campus</gtr:line1><gtr:line2>4-6 University Way</gtr:line2><gtr:line4>London</gtr:line4><gtr:postCode>E16 2RD</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/B6FB652A-60C3-48DD-9A33-075D1F759B48"><gtr:id>B6FB652A-60C3-48DD-9A33-075D1F759B48</gtr:id><gtr:name>University of Warwick</gtr:name><gtr:address><gtr:line1>Warwickshire</gtr:line1><gtr:line4>Coventry</gtr:line4><gtr:line5>West Midlands</gtr:line5><gtr:postCode>CV4 7AL</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/90364D97-9CDC-4CA3-9C23-CF20BB56F61A"><gtr:id>90364D97-9CDC-4CA3-9C23-CF20BB56F61A</gtr:id><gtr:name>Royal United Services Institute</gtr:name><gtr:address><gtr:line1>61 Whitehall</gtr:line1><gtr:line4>London</gtr:line4><gtr:postCode>SW1A 2ET</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/53944FC7-FD00-407E-A4F1-F22812C85420"><gtr:id>53944FC7-FD00-407E-A4F1-F22812C85420</gtr:id><gtr:name>University of Buckingham</gtr:name><gtr:address><gtr:line1>Hunter Street</gtr:line1><gtr:line4>Buckingham</gtr:line4><gtr:line5>Buckinghamshire</gtr:line5><gtr:postCode>MK18 1EG</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/7368D23B-C1FC-4135-A3C2-50BAA752F6B3"><gtr:id>7368D23B-C1FC-4135-A3C2-50BAA752F6B3</gtr:id><gtr:name>Washington College</gtr:name><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/EAAD4D43-BD15-432B-9385-2DBD0C65958D"><gtr:id>EAAD4D43-BD15-432B-9385-2DBD0C65958D</gtr:id><gtr:name>University of Bath</gtr:name><gtr:address><gtr:line1>University of Bath</gtr:line1><gtr:line2>Claverton Down</gtr:line2><gtr:line4>Bath</gtr:line4><gtr:line5>Avon</gtr:line5><gtr:postCode>BA2 7AY</gtr:postCode><gtr:region>South West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/D0EEE618-522A-4A81-A891-EB2F60B5F585"><gtr:id>D0EEE618-522A-4A81-A891-EB2F60B5F585</gtr:id><gtr:firstName>Liam</gtr:firstName><gtr:otherNames>Francis</gtr:otherNames><gtr:surname>Gearon</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=AH%2FH008543%2F2"><gtr:id>56AA540C-E99A-4768-8870-570AB60FA4FA</gtr:id><gtr:title>Political Theologies:Responses of Religious Leaders and Authority Figures In England to Contemporary Issues of Freedom of Expression</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>AH/H008543/2</gtr:grantReference><gtr:abstractText>If the European Enlightenment marginalized the political role of religion, current evidence shows a renewed importance for religion in global governance (Casanova, 1994; Gearon, 2002; Haynes, 2006; Hanson, 2006), increased interest in political theology (de Vries and Sullivan, 2006; Scott and Cavanaugh, 2007), and concentrated academic enquiry on the role of religion in public life (http://centres.exeter.ac.uk/nrpl/). The events of 11 September 2001 have further heightened though an often negatively perceived role of religion in world governance (Hanson, 2006). In terms of freedom of expression, the 'Danish cartoons' in Jyllands-Posten and Pope Benedict XVI's Regensburg address have all reinforced in the popular imagination religion's, and specifically Islam's, perceived role in the repression of freedom of expression (Schall, 2007). Such perceptions highlight how little comparative work has been done to examine the range of religious responses to issues of freedom of expression. Focused on responses of religious leaders and authority figures in England to contemporary issues of freedom of expression, Political Theologies will investigate, map and conceptualise notions of authority and leadership within disparate religious traditions in England, and thus advance our knowledge of contemporary relationships between religious and secular authority, with specific regard to issues of freedom of expression. The research will be of direct relevance to wider international debates around freedom of religion and freedom of thought, opinion and expression. AHRC here commented on the need to distinguish between freedom of expression and freedom of the press. Political Theologies will address this but is likely to demonstrate the difficulty of separating one from the other (Alexander, 2005; Appignanesi, 2006). In contemporary political philosophy, where authority is conceptually fundamental to understanding and justifying polity, governance and law (Christiano, 2004; Raz, 1990; Shapiro, 2002; cf. Waldron, 1999), the research will produce a new, fresh and original empirical/ theoretical contribution to debates in which the political realities of contemporary religious authority and leadership have arguably been underplayed (Rawls, 2001; Dombrowski, 2001; Taylor, 2007). These 'political theologies' will provide new conceptualisations of religious authority and leadership in contemporary England through grounded, empirical evidence from the traditions themselves. This new, rich source of data will form the basis of further theoretical analysis, and a major contribution to the emergent field of political theology itself, and should satisfy the AHRC request that the re-submission develop a theoretical framework for authority, distinguishing between religious leaders and authority figures. (Refining these theoretical perspectives, including the distinction between religious leaders and authority figures, will also be further, directly and explicitly, addressed now in the interview schedule.) This research is strongly speculative in making inroads into untrammelled territory, namely regarding our limited empirical knowledge of religious authority and leadership in relation in moments of 'cultural crisis'. More widely the research will here provide new knowledge and understanding of religious attitudes to secular authority, especially legal, and particularly human rights frameworks. The research will thus broadly enhance our knowledge of the nature, scope and influence of religious authority and leadership in England today. The Department of Theology, University of Exeter, will now act as a Project Partner, facilitating dissemination of findings through the Network for Religion in Public Life, http://centres.exeter.ac.uk/nrpl/.</gtr:abstractText><gtr:potentialImpactText>Political Theologies will closely correlate academic beneficiaries with social and economic impacts, including: fostering global economic performance, particularly in the creative industries; increasing effectiveness of public service and policy - community cohesion; enhancing quality of life, health and creative output. Who will benefit? Policy makers, governments (at regional, devolved, national and or transnational levels) National\nDepartment of Children, Schools and Families (DCSF), http://www.dcsf.gov.uk/index.htm Qualifications and Curriculum Authority (QCA, UK), www.qca.org.uk Religious Education Council of England and Wales Chttp://www.religiouseducationcouncil.org/\nTransnational\nCEC (Conference of European Churches), http://www.cec-kek.org/content/history.shtml\nCouncil of Europe, http://www.coe.int/\nIARF (International Association for Religious Freedom) http://www.iarf.net/\nInterfaith Education Project, WCC in cooperation with Hartford Seminary, USA, http://www.hartsem.edu/EVENTS/news_HSWCCprogram.htm\nIRLA (International Religious Liberty Association), http://www.irla.org/\nISESCO (Islamic Educational, Scientific and Cultural Organization), http://www.isesco.org.ma/\nOslo Coalition on Freedom of Religion or Belief, http://www.oslocoalition.org/\nUNESCO (United Nations Educational, Scientific and Cultural Organization), http://portal.unesco.org/en/ev.php-URL_ID=29008&amp;amp;URL_DO=DO_TOPIC&amp;amp;URL_SECTION=201.html\nWCC (World Council of Churches), http://www.oikoumene.org/ Public sector agencies or bodies Citized www.citized.info Citizenship Foundation, www.citizenshipfoundation.org.uk\nProfessional Association of Citizenship Teachers, http://www.teachingcitizenship.org.uk/ Institute of Citizenship, http://www.citizen.org.uk/ ; National Association for Standing Advisory Councils for Religious Education (NASACRE), http://www.nasacre.org.uk/ International organisations As above. The third sector, including charities, museum and galleries, organisations and individuals in the creative arts English PEN, http://www.englishpen.org/; IFEX, International Freedom of Expression eXchange, http://www.ifex.org/ The media Independent film-making, http://www.essex.ac.uk/events/event.aspx?e_id=128 (Professor Gearon has acted as consultant for the awarding winning documentary film-maker Rex Bloomstein] Local communities or the wider public in general The Religious Education Council of England and Wales http://www.religiouseducationcouncil.org/ How will they benefit? The research will provide a rich and valuable source of evidence to inform public debate around freedom of expression, linking academic scholarship and research with informing public opinion. The research will contribute to inter-faith dialogue, debates between religious and secular perspectives, and contribute to wider debate and policy, especially in community cohesion, for example: http://www.neighbourhood.gov.uk/page.asp?id=519\n Political Theologies fulfils AHRC's KT Strategy 2008-2011 in all four key areas of KT activity: 1. In policy development and advocacy through outreach to religious communities; 2. In building and sustaining strategic partnerships by collaborations within and beyond the Academy; 3. In connecting partners across academic disciplines with policy makers at national and international levels but also through the third sector, including religious communities and non-government organisations concerned with freedom of religion or belief and freedom of expression; 4. In developing new models of how research can outreach from the Academy into the wider community, locally, nationally and internationally. What will be done to ensure that they benefit? Listed dissemination plans will be supplemented by using the mainstream media, press releases and interviews. A wide range of governmental, inter-governmental and non-g</gtr:potentialImpactText><gtr:fund><gtr:end>2011-11-30</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/1291772D-DFCE-493A-AEE7-24F7EEAFE0E9"><gtr:id>1291772D-DFCE-493A-AEE7-24F7EEAFE0E9</gtr:id><gtr:name>AHRC</gtr:name></gtr:funder><gtr:start>2010-09-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>35237</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Oxford</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:department>Nuffield College Oxford</gtr:department><gtr:description>Society for Educational Studies, Education, Security and Intelligence Studies seminar series grant</gtr:description><gtr:id>574C5986-C76D-4FF9-9C84-5F134259954F</gtr:id><gtr:impact>Education, Security and Intelligence Studies
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/1109E202-4FE3-40AC-B73E-7B37EF45241A"><gtr:id>1109E202-4FE3-40AC-B73E-7B37EF45241A</gtr:id><gtr:name>University of East London</gtr:name><gtr:address><gtr:line1>Docklands Campus</gtr:line1><gtr:line2>4-6 University Way</gtr:line2><gtr:line4>London</gtr:line4><gtr:postCode>E16 2RD</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9"><gtr:id>3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9</gtr:id><gtr:name>University of Oxford</gtr:name><gtr:address><gtr:line1>University Chest</gtr:line1><gtr:line2>Wellington Square</gtr:line2><gtr:line4>Oxford</gtr:line4><gtr:postCode>OX1 2JD</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/90364D97-9CDC-4CA3-9C23-CF20BB56F61A"><gtr:id>90364D97-9CDC-4CA3-9C23-CF20BB56F61A</gtr:id><gtr:name>Royal United Services Institute</gtr:name><gtr:address><gtr:line1>61 Whitehall</gtr:line1><gtr:line4>London</gtr:line4><gtr:postCode>SW1A 2ET</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/B6FB652A-60C3-48DD-9A33-075D1F759B48"><gtr:id>B6FB652A-60C3-48DD-9A33-075D1F759B48</gtr:id><gtr:name>University of Warwick</gtr:name><gtr:address><gtr:line1>Warwickshire</gtr:line1><gtr:line4>Coventry</gtr:line4><gtr:line5>West Midlands</gtr:line5><gtr:postCode>CV4 7AL</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/53944FC7-FD00-407E-A4F1-F22812C85420"><gtr:id>53944FC7-FD00-407E-A4F1-F22812C85420</gtr:id><gtr:name>University of Buckingham</gtr:name><gtr:address><gtr:line1>Hunter Street</gtr:line1><gtr:line4>Buckingham</gtr:line4><gtr:line5>Buckinghamshire</gtr:line5><gtr:postCode>MK18 1EG</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/7368D23B-C1FC-4135-A3C2-50BAA752F6B3"><gtr:id>7368D23B-C1FC-4135-A3C2-50BAA752F6B3</gtr:id><gtr:name>Washington College</gtr:name></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/EAAD4D43-BD15-432B-9385-2DBD0C65958D"><gtr:id>EAAD4D43-BD15-432B-9385-2DBD0C65958D</gtr:id><gtr:name>University of Bath</gtr:name><gtr:address><gtr:line1>University of Bath</gtr:line1><gtr:line2>Claverton Down</gtr:line2><gtr:line4>Bath</gtr:line4><gtr:line5>Avon</gtr:line5><gtr:postCode>BA2 7AY</gtr:postCode><gtr:region>South West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator></gtr:collaborations><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9"><gtr:id>3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9</gtr:id><gtr:name>University of Oxford</gtr:name><gtr:department>Education</gtr:department><gtr:address><gtr:line1>University Chest</gtr:line1><gtr:line2>Wellington Square</gtr:line2><gtr:line4>Oxford</gtr:line4><gtr:postCode>OX1 2JD</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9"><gtr:id>3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9</gtr:id><gtr:name>University of Oxford</gtr:name><gtr:address><gtr:line1>University Chest</gtr:line1><gtr:line2>Wellington Square</gtr:line2><gtr:line4>Oxford</gtr:line4><gtr:postCode>OX1 2JD</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/1109E202-4FE3-40AC-B73E-7B37EF45241A"><gtr:id>1109E202-4FE3-40AC-B73E-7B37EF45241A</gtr:id><gtr:name>University of East London</gtr:name><gtr:address><gtr:line1>Docklands Campus</gtr:line1><gtr:line2>4-6 University Way</gtr:line2><gtr:line4>London</gtr:line4><gtr:postCode>E16 2RD</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/90364D97-9CDC-4CA3-9C23-CF20BB56F61A"><gtr:id>90364D97-9CDC-4CA3-9C23-CF20BB56F61A</gtr:id><gtr:name>Royal United Services Institute</gtr:name><gtr:address><gtr:line1>61 Whitehall</gtr:line1><gtr:line4>London</gtr:line4><gtr:postCode>SW1A 2ET</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/B6FB652A-60C3-48DD-9A33-075D1F759B48"><gtr:id>B6FB652A-60C3-48DD-9A33-075D1F759B48</gtr:id><gtr:name>University of Warwick</gtr:name><gtr:address><gtr:line1>Warwickshire</gtr:line1><gtr:line4>Coventry</gtr:line4><gtr:line5>West Midlands</gtr:line5><gtr:postCode>CV4 7AL</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/53944FC7-FD00-407E-A4F1-F22812C85420"><gtr:id>53944FC7-FD00-407E-A4F1-F22812C85420</gtr:id><gtr:name>University of Buckingham</gtr:name><gtr:address><gtr:line1>Hunter Street</gtr:line1><gtr:line4>Buckingham</gtr:line4><gtr:line5>Buckinghamshire</gtr:line5><gtr:postCode>MK18 1EG</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/7368D23B-C1FC-4135-A3C2-50BAA752F6B3"><gtr:id>7368D23B-C1FC-4135-A3C2-50BAA752F6B3</gtr:id><gtr:name>Washington College</gtr:name><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/EAAD4D43-BD15-432B-9385-2DBD0C65958D"><gtr:id>EAAD4D43-BD15-432B-9385-2DBD0C65958D</gtr:id><gtr:name>University of Bath</gtr:name><gtr:address><gtr:line1>University of Bath</gtr:line1><gtr:line2>Claverton Down</gtr:line2><gtr:line4>Bath</gtr:line4><gtr:line5>Avon</gtr:line5><gtr:postCode>BA2 7AY</gtr:postCode><gtr:region>South West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/D0EEE618-522A-4A81-A891-EB2F60B5F585"><gtr:id>D0EEE618-522A-4A81-A891-EB2F60B5F585</gtr:id><gtr:firstName>Liam</gtr:firstName><gtr:otherNames>Francis</gtr:otherNames><gtr:surname>Gearon</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=AH%2FH008543%2F2"><gtr:id>56AA540C-E99A-4768-8870-570AB60FA4FA</gtr:id><gtr:title>Political Theologies:Responses of Religious Leaders and Authority Figures In England to Contemporary Issues of Freedom of Expression</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>AH/H008543/2</gtr:grantReference><gtr:abstractText>If the European Enlightenment marginalized the political role of religion, current evidence shows a renewed importance for religion in global governance (Casanova, 1994; Gearon, 2002; Haynes, 2006; Hanson, 2006), increased interest in political theology (de Vries and Sullivan, 2006; Scott and Cavanaugh, 2007), and concentrated academic enquiry on the role of religion in public life (http://centres.exeter.ac.uk/nrpl/). The events of 11 September 2001 have further heightened though an often negatively perceived role of religion in world governance (Hanson, 2006). In terms of freedom of expression, the 'Danish cartoons' in Jyllands-Posten and Pope Benedict XVI's Regensburg address have all reinforced in the popular imagination religion's, and specifically Islam's, perceived role in the repression of freedom of expression (Schall, 2007). Such perceptions highlight how little comparative work has been done to examine the range of religious responses to issues of freedom of expression. Focused on responses of religious leaders and authority figures in England to contemporary issues of freedom of expression, Political Theologies will investigate, map and conceptualise notions of authority and leadership within disparate religious traditions in England, and thus advance our knowledge of contemporary relationships between religious and secular authority, with specific regard to issues of freedom of expression. The research will be of direct relevance to wider international debates around freedom of religion and freedom of thought, opinion and expression. AHRC here commented on the need to distinguish between freedom of expression and freedom of the press. Political Theologies will address this but is likely to demonstrate the difficulty of separating one from the other (Alexander, 2005; Appignanesi, 2006). In contemporary political philosophy, where authority is conceptually fundamental to understanding and justifying polity, governance and law (Christiano, 2004; Raz, 1990; Shapiro, 2002; cf. Waldron, 1999), the research will produce a new, fresh and original empirical/ theoretical contribution to debates in which the political realities of contemporary religious authority and leadership have arguably been underplayed (Rawls, 2001; Dombrowski, 2001; Taylor, 2007). These 'political theologies' will provide new conceptualisations of religious authority and leadership in contemporary England through grounded, empirical evidence from the traditions themselves. This new, rich source of data will form the basis of further theoretical analysis, and a major contribution to the emergent field of political theology itself, and should satisfy the AHRC request that the re-submission develop a theoretical framework for authority, distinguishing between religious leaders and authority figures. (Refining these theoretical perspectives, including the distinction between religious leaders and authority figures, will also be further, directly and explicitly, addressed now in the interview schedule.) This research is strongly speculative in making inroads into untrammelled territory, namely regarding our limited empirical knowledge of religious authority and leadership in relation in moments of 'cultural crisis'. More widely the research will here provide new knowledge and understanding of religious attitudes to secular authority, especially legal, and particularly human rights frameworks. The research will thus broadly enhance our knowledge of the nature, scope and influence of religious authority and leadership in England today. The Department of Theology, University of Exeter, will now act as a Project Partner, facilitating dissemination of findings through the Network for Religion in Public Life, http://centres.exeter.ac.uk/nrpl/.</gtr:abstractText><gtr:potentialImpactText>Political Theologies will closely correlate academic beneficiaries with social and economic impacts, including: fostering global economic performance, particularly in the creative industries; increasing effectiveness of public service and policy - community cohesion; enhancing quality of life, health and creative output. Who will benefit? Policy makers, governments (at regional, devolved, national and or transnational levels) National\nDepartment of Children, Schools and Families (DCSF), http://www.dcsf.gov.uk/index.htm Qualifications and Curriculum Authority (QCA, UK), www.qca.org.uk Religious Education Council of England and Wales Chttp://www.religiouseducationcouncil.org/\nTransnational\nCEC (Conference of European Churches), http://www.cec-kek.org/content/history.shtml\nCouncil of Europe, http://www.coe.int/\nIARF (International Association for Religious Freedom) http://www.iarf.net/\nInterfaith Education Project, WCC in cooperation with Hartford Seminary, USA, http://www.hartsem.edu/EVENTS/news_HSWCCprogram.htm\nIRLA (International Religious Liberty Association), http://www.irla.org/\nISESCO (Islamic Educational, Scientific and Cultural Organization), http://www.isesco.org.ma/\nOslo Coalition on Freedom of Religion or Belief, http://www.oslocoalition.org/\nUNESCO (United Nations Educational, Scientific and Cultural Organization), http://portal.unesco.org/en/ev.php-URL_ID=29008&amp;amp;URL_DO=DO_TOPIC&amp;amp;URL_SECTION=201.html\nWCC (World Council of Churches), http://www.oikoumene.org/ Public sector agencies or bodies Citized www.citized.info Citizenship Foundation, www.citizenshipfoundation.org.uk\nProfessional Association of Citizenship Teachers, http://www.teachingcitizenship.org.uk/ Institute of Citizenship, http://www.citizen.org.uk/ ; National Association for Standing Advisory Councils for Religious Education (NASACRE), http://www.nasacre.org.uk/ International organisations As above. The third sector, including charities, museum and galleries, organisations and individuals in the creative arts English PEN, http://www.englishpen.org/; IFEX, International Freedom of Expression eXchange, http://www.ifex.org/ The media Independent film-making, http://www.essex.ac.uk/events/event.aspx?e_id=128 (Professor Gearon has acted as consultant for the awarding winning documentary film-maker Rex Bloomstein] Local communities or the wider public in general The Religious Education Council of England and Wales http://www.religiouseducationcouncil.org/ How will they benefit? The research will provide a rich and valuable source of evidence to inform public debate around freedom of expression, linking academic scholarship and research with informing public opinion. The research will contribute to inter-faith dialogue, debates between religious and secular perspectives, and contribute to wider debate and policy, especially in community cohesion, for example: http://www.neighbourhood.gov.uk/page.asp?id=519\n Political Theologies fulfils AHRC's KT Strategy 2008-2011 in all four key areas of KT activity: 1. In policy development and advocacy through outreach to religious communities; 2. In building and sustaining strategic partnerships by collaborations within and beyond the Academy; 3. In connecting partners across academic disciplines with policy makers at national and international levels but also through the third sector, including religious communities and non-government organisations concerned with freedom of religion or belief and freedom of expression; 4. In developing new models of how research can outreach from the Academy into the wider community, locally, nationally and internationally. What will be done to ensure that they benefit? Listed dissemination plans will be supplemented by using the mainstream media, press releases and interviews. A wide range of governmental, inter-governmental and non-g</gtr:potentialImpactText><gtr:fund><gtr:end>2011-11-30</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/1291772D-DFCE-493A-AEE7-24F7EEAFE0E9"><gtr:id>1291772D-DFCE-493A-AEE7-24F7EEAFE0E9</gtr:id><gtr:name>AHRC</gtr:name></gtr:funder><gtr:start>2010-09-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>35237</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs><gtr:collaborationOutput><gtr:collaboratingOrganisation>Royal United Services Institute</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Society for Educational Studies, Education, Security and Intelligence Studies seminar series grant</gtr:description><gtr:id>FD0E9BB9-B720-410B-85FC-FA240E2E54D6</gtr:id><gtr:impact>Education, Security and Intelligence Studies
 Society for Education Studies
 Seminar Series co-ordinated and facilitated by Dr Liam Gearon
 
@@ -233,475 +233,7 @@ Securitising Education to Prevent Terrorism?
 Freedom of Speech and National Security 
 
 Venue: University of Bath
-Institutions collaborating: University of Bath - Department of Politics, Languages and International Studies with Department of Education</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2015-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>Royal United Services Institute</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Society for Educational Studies, Education, Security and Intelligence Studies seminar series grant</gtr:description><gtr:id>FD0E9BB9-B720-410B-85FC-FA240E2E54D6</gtr:id><gtr:impact>Education, Security and Intelligence Studies
-Society for Education Studies
-Seminar Series co-ordinated and facilitated by Dr Liam Gearon
-
-Seminar 1
-Theme
-Education, Security and Intelligence Studies: Context-setting
-
-Venue/ Date: Department of Education, University of Oxford, May 2016
-Institution collaborating: University of Oxford 
-Lead: Dr Liam Gearon, Associate Professor, Department of Education, and Senior Research Fellow, Harris Manchester College, University of Oxford
-
-Rationale 
-This opening seminar of the series will frame the interface of the seminar theme by (i) drawing upon special issue of the British Journal of Educational Studies on Education, Security and Intelligence Studies; and (ii) directly referencing the relationship between the Annual Seminar at the British Academy and the Seminar Series. 
- It will draw on UK and US perspectives: in the UK focusing on the implications of an emergent relationship between education, security and intelligence: in the UK by looking at issues such as Prevent, radicalisation and the responsibilities of educational institutions under the 2015 Counter-Terrorism and the Security Act; in the US, examination of the interface will focus on the rise of intelligence education in universities and the emergent International Association of Intelligence Education (IAIE). 
-
-
-Seminar 2
-Theme
-Forensic and Open Source Intelligence
-
-Venue/ Date: Nuffield College, University of Oxford/ June 2016 
-Collaborating Institutions: Oxford Intelligence Group (OIG), Nuffield College, University of Oxford in association with Cranfield Defence and Security, Shrivenham
-
-Dissemination, Marketing and Publication
-? The seminar will be open to the host institution's student and staff body and external members of the seminar series 
-? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
-? Publication of proceedings: Co-edited volume Intelligence Education and International Security 
-
-Rationale 
-The work of the OIG is largely focused on bringing an interdisciplinary, social science approach to intelligence studies. Previous workshops convened by the OIG have included:
-? 'Decoding the Human: Social Science Approaches to Cyber Security and Cyber Crime' (2015)
-? 'Intelligence and Snowden - the consequences' (2014)
-? 'Intelligence in Neutral Countries'(2013)
-? 'Cyber Security and Social Science' (2012)
-? 'The Ethics of National Security Intelligence' (2011)
-As can be seen from these examples, the OIG is often at the forefront of new approaches in intelligence studies and, in keeping with this track record, the proposed workshop will make an early foray into the common themes that are to be found in forensic and open source intelligence, bringing sociology and forensic genetics research into the discussion. This would almost certainly be the first time such connections have been expressly made.
-
-Dissemination, Marketing and Publication
-? The seminar will be open to the host institution's student and staff body and external members of the seminar series 
-? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
-? Publication of proceedings: Co-edited volume Intelligence Education and International Security 
-
-Seminar 3
-Security and Intelligence Studies and Higher Education
-
-Venues/ Dates: University of Buckingham/ University of East London, July 2016
-Institutions collaborating: University of Buckingham and University of East London
-
-Rationale 
-These linked seminars at the University of East London and the University of Buckingham consider the relationship between universities and national security. They draw on experts from the UK and Germany and across academic and security services.
-
-Seminar 3a: University of Buckingham
-Security and Intelligence Studies and Higher Education
-This seminar will attempt to initiate an assessment of how security issues may in part be framing the culture of HE in the UK in three areas: (i) Research and teaching into security-related questions in HE: disciplinary challenges to social science research (ii) The practical consequences of government 'Prevent' policy for teaching and learning culture in UK HEIs (whether 'Prevent' inhibits the teaching of modules on terrorism and extremism, for example, and the extent to which HEIs should feel oblige to host non-academic political or religious events (iii) The impact of government security policy on HE culture in the UK: that, for example, the unintended consequences of legislation to contain Islamist jihadism may be the breeding a new kind of anti-government culture amongst academics and their students, bringing together groups with different and often conflicting aims (e.g. 'conservative' Islamic thinking with gender extremism), united in their opposition to being squeezed out of HE culture. 
- 
-
-Seminar 3b: University of East London
-Universities and security research: a fragile relationship?
-
-Universities are implicated in the business of National Security. As producers of security research and technologies, centres of student and academic debate and repositories of knowledge, Higher Education Institutions are sometimes seen to be key to this endeavour. At certain times in history the link between Universities and National Security institutions has been strong but there are always tensions in this relationship. These joint seminars will consider the fragility of the relationship between universities and national security considering the relation between academic expertise and the security state, student radicalisation and freedom of speech, the politicisation of campus life and the agenda of research funders. They draw on experts from the UK and Germany
-
-
-Dissemination, Marketing and Publication
-? The seminar will be open to the host institutions' student and staff body and external members of the seminar series 
-? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
-? Publication of proceedings: Co-edited volume Intelligence Education and International Security 
-
-Seminar 4
-Theme
-Security Studies and the Humanities
-
-Venue/ Date: Royal United Service Institute, Westminster, London, September 2016
-Institutions collaborating: Royal United Service Institute (RUSI)
-
-Rationale 
-The field of security studies has widened and diversified in recent years to incorporate disciplines from the 'hard' sciences and the social sciences. In sub-fields such as terrorism studies, social science disciplines such as psychology and political science have made particularly strong contributions - so strong that the humanities are in danger of being eclipsed. This seminar would seek to explore and promote the contribution being made by researchers and teachers in three disciplines - history, literary studies, and cultural studies. It will aim to encourage a greater and more confident contribution from the humanities to 'real world' security problems. 
-
-Dissemination, Marketing and Publication
-? The seminar will be open to the host institution's student and staff body and external members of the seminar series 
-? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
-? Publication of proceedings: Co-edited volume Intelligence Education and International Security 
-
-Seminar 5
-Theme
-Securitising Education to Prevent Terrorism?
-Freedom of Speech and National Security 
-
-Venue/ Date: University of Bath, October 2016
-Institutions collaborating: University of Bath - Department of Politics, Languages and International Studies with Department of Education 
-
-Rationale 
-This seminar examines the growing relationship between security and education, particularly in the light of the UK government's Prevent Duty that seeks to tackle radicalisation in a variety of milieus, including universities. However, rather than seeing this process as being merely one-way, through a so-called securitisation of education (in the parlance of the Copenhagen School of International Relations), what is explored here is the dialectic between these two spheres.
- Dissemination, Marketing and Publication
-? The seminar will be open to the host institution's student and staff body and external members of the seminar series 
-? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
-? Publication of proceedings: Co-edited volume Intelligence Education and International Security</gtr:impact><gtr:partnerContribution>Education, Security and Intelligence Studies
-Society for Education Studies
-Seminar Series co-ordinated and facilitated by Dr Liam Gearon
-
-Seminar 1
-Theme
-Education, Security and Intelligence Studies: Context-setting
-
-Venue/ Date: Department of Education, University of Oxford, May 2016
-Institution collaborating: University of Oxford 
-Lead: Dr Liam Gearon, Associate Professor, Department of Education, and Senior Research Fellow, Harris Manchester College, University of Oxford
-
-Rationale 
-This opening seminar of the series will frame the interface of the seminar theme by (i) drawing upon special issue of the British Journal of Educational Studies on Education, Security and Intelligence Studies; and (ii) directly referencing the relationship between the Annual Seminar at the British Academy and the Seminar Series. 
- It will draw on UK and US perspectives: in the UK focusing on the implications of an emergent relationship between education, security and intelligence: in the UK by looking at issues such as Prevent, radicalisation and the responsibilities of educational institutions under the 2015 Counter-Terrorism and the Security Act; in the US, examination of the interface will focus on the rise of intelligence education in universities and the emergent International Association of Intelligence Education (IAIE). 
-
-
-Seminar 2
-Theme
-Forensic and Open Source Intelligence
-
-Venue/ Date: Nuffield College, University of Oxford/ June 2016 
-Collaborating Institutions: Oxford Intelligence Group (OIG), Nuffield College, University of Oxford in association with Cranfield Defence and Security, Shrivenham
-
-Dissemination, Marketing and Publication
-? The seminar will be open to the host institution's student and staff body and external members of the seminar series 
-? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
-? Publication of proceedings: Co-edited volume Intelligence Education and International Security 
-
-Rationale 
-The work of the OIG is largely focused on bringing an interdisciplinary, social science approach to intelligence studies. Previous workshops convened by the OIG have included:
-? 'Decoding the Human: Social Science Approaches to Cyber Security and Cyber Crime' (2015)
-? 'Intelligence and Snowden - the consequences' (2014)
-? 'Intelligence in Neutral Countries'(2013)
-? 'Cyber Security and Social Science' (2012)
-? 'The Ethics of National Security Intelligence' (2011)
-As can be seen from these examples, the OIG is often at the forefront of new approaches in intelligence studies and, in keeping with this track record, the proposed workshop will make an early foray into the common themes that are to be found in forensic and open source intelligence, bringing sociology and forensic genetics research into the discussion. This would almost certainly be the first time such connections have been expressly made.
-
-Dissemination, Marketing and Publication
-? The seminar will be open to the host institution's student and staff body and external members of the seminar series 
-? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
-? Publication of proceedings: Co-edited volume Intelligence Education and International Security 
-
-Seminar 3
-Security and Intelligence Studies and Higher Education
-
-Venues/ Dates: University of Buckingham/ University of East London, July 2016
-Institutions collaborating: University of Buckingham and University of East London
-
-Rationale 
-These linked seminars at the University of East London and the University of Buckingham consider the relationship between universities and national security. They draw on experts from the UK and Germany and across academic and security services.
-
-Seminar 3a: University of Buckingham
-Security and Intelligence Studies and Higher Education
-This seminar will attempt to initiate an assessment of how security issues may in part be framing the culture of HE in the UK in three areas: (i) Research and teaching into security-related questions in HE: disciplinary challenges to social science research (ii) The practical consequences of government 'Prevent' policy for teaching and learning culture in UK HEIs (whether 'Prevent' inhibits the teaching of modules on terrorism and extremism, for example, and the extent to which HEIs should feel oblige to host non-academic political or religious events (iii) The impact of government security policy on HE culture in the UK: that, for example, the unintended consequences of legislation to contain Islamist jihadism may be the breeding a new kind of anti-government culture amongst academics and their students, bringing together groups with different and often conflicting aims (e.g. 'conservative' Islamic thinking with gender extremism), united in their opposition to being squeezed out of HE culture. 
- 
-
-Seminar 3b: University of East London
-Universities and security research: a fragile relationship?
-
-Universities are implicated in the business of National Security. As producers of security research and technologies, centres of student and academic debate and repositories of knowledge, Higher Education Institutions are sometimes seen to be key to this endeavour. At certain times in history the link between Universities and National Security institutions has been strong but there are always tensions in this relationship. These joint seminars will consider the fragility of the relationship between universities and national security considering the relation between academic expertise and the security state, student radicalisation and freedom of speech, the politicisation of campus life and the agenda of research funders. They draw on experts from the UK and Germany
-
-
-Dissemination, Marketing and Publication
-? The seminar will be open to the host institutions' student and staff body and external members of the seminar series 
-? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
-? Publication of proceedings: Co-edited volume Intelligence Education and International Security 
-
-Seminar 4
-Theme
-Security Studies and the Humanities
-
-Venue/ Date: Royal United Service Institute, Westminster, London, September 2016
-Institutions collaborating: Royal United Service Institute (RUSI)
-
-Rationale 
-The field of security studies has widened and diversified in recent years to incorporate disciplines from the 'hard' sciences and the social sciences. In sub-fields such as terrorism studies, social science disciplines such as psychology and political science have made particularly strong contributions - so strong that the humanities are in danger of being eclipsed. This seminar would seek to explore and promote the contribution being made by researchers and teachers in three disciplines - history, literary studies, and cultural studies. It will aim to encourage a greater and more confident contribution from the humanities to 'real world' security problems. 
-
-Dissemination, Marketing and Publication
-? The seminar will be open to the host institution's student and staff body and external members of the seminar series 
-? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
-? Publication of proceedings: Co-edited volume Intelligence Education and International Security 
-
-Seminar 5
-Theme
-Securitising Education to Prevent Terrorism?
-Freedom of Speech and National Security 
-
-Venue/ Date: University of Bath, October 2016
-Institutions collaborating: University of Bath - Department of Politics, Languages and International Studies with Department of Education 
-
-Rationale 
-This seminar examines the growing relationship between security and education, particularly in the light of the UK government's Prevent Duty that seeks to tackle radicalisation in a variety of milieus, including universities. However, rather than seeing this process as being merely one-way, through a so-called securitisation of education (in the parlance of the Copenhagen School of International Relations), what is explored here is the dialectic between these two spheres.
- Dissemination, Marketing and Publication
-? The seminar will be open to the host institution's student and staff body and external members of the seminar series 
-? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
-? Publication of proceedings: Co-edited volume Intelligence Education and International Security</gtr:partnerContribution><gtr:piContribution>Education, Security and Intelligence Studies
-Society for Education Studies Seminar Series 
- 
-This grant builds on the successful event I convened at the British Academy in November 2015 on Education, Security and Intelligence Studies, following publication of the Guest Edited Special Issue of the British Journal of Educational Studies on Education, Security and Intelligence Studies. 
-
-The seminar series, which incorporates a strong multi-disciplinary element from the AHRC political theologies grant, provides an opportunity for a network of interested and interdisciplinary partners to provide a coherent programme of nationwide seminars on the theme of education, security and intelligence studies.
-
-The lead institutions involved, linked to their seminars, are in summary:
-
-Seminar 1
-Theme
-Education, Security and Intelligence: 
-National and international contexts 
-
-Department of Education, University of Oxford
-Institutions collaborating: Department of Education, University of Oxford; Oxford Centre for Intelligence Studies, Nuffield College, University of Oxford; University of Buckingham, University of East London; University of Bath. 
-
-Seminar 2
-Theme
-Forensic and Open Source Intelligence
-
-Venue: Nuffield College, University of Oxford
-Collaborating Institutions: Oxford Intelligence Group (OIG), Nuffield College, University of Oxford in association with Cranfield Defence and Security, Shrivenham
-
-Seminar 3
-Security and Intelligence Studies and Higher Education
-
-Venues: University of Buckingham/ University of East London
-Institutions collaborating: University of Buckingham and University of East London
-
-Seminar 4
-Theme
-Security Studies and the Humanities
-
-Venue: Royal United Service Institute, Westminster, London
-
-Seminar 5
-Theme
-Securitising Education to Prevent Terrorism?
-Freedom of Speech and National Security 
-
-Venue: University of Bath
-Institutions collaborating: University of Bath - Department of Politics, Languages and International Studies with Department of Education</gtr:piContribution><gtr:sector>Charity/Non Profit</gtr:sector><gtr:start>2015-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Bath</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Society for Educational Studies, Education, Security and Intelligence Studies seminar series grant</gtr:description><gtr:id>6EAB81B7-B0F7-45E3-B635-97601A1F2775</gtr:id><gtr:impact>Education, Security and Intelligence Studies
-Society for Education Studies
-Seminar Series co-ordinated and facilitated by Dr Liam Gearon
-
-Seminar 1
-Theme
-Education, Security and Intelligence Studies: Context-setting
-
-Venue/ Date: Department of Education, University of Oxford, May 2016
-Institution collaborating: University of Oxford 
-Lead: Dr Liam Gearon, Associate Professor, Department of Education, and Senior Research Fellow, Harris Manchester College, University of Oxford
-
-Rationale 
-This opening seminar of the series will frame the interface of the seminar theme by (i) drawing upon special issue of the British Journal of Educational Studies on Education, Security and Intelligence Studies; and (ii) directly referencing the relationship between the Annual Seminar at the British Academy and the Seminar Series. 
- It will draw on UK and US perspectives: in the UK focusing on the implications of an emergent relationship between education, security and intelligence: in the UK by looking at issues such as Prevent, radicalisation and the responsibilities of educational institutions under the 2015 Counter-Terrorism and the Security Act; in the US, examination of the interface will focus on the rise of intelligence education in universities and the emergent International Association of Intelligence Education (IAIE). 
-
-
-Seminar 2
-Theme
-Forensic and Open Source Intelligence
-
-Venue/ Date: Nuffield College, University of Oxford/ June 2016 
-Collaborating Institutions: Oxford Intelligence Group (OIG), Nuffield College, University of Oxford in association with Cranfield Defence and Security, Shrivenham
-
-Dissemination, Marketing and Publication
-? The seminar will be open to the host institution's student and staff body and external members of the seminar series 
-? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
-? Publication of proceedings: Co-edited volume Intelligence Education and International Security 
-
-Rationale 
-The work of the OIG is largely focused on bringing an interdisciplinary, social science approach to intelligence studies. Previous workshops convened by the OIG have included:
-? 'Decoding the Human: Social Science Approaches to Cyber Security and Cyber Crime' (2015)
-? 'Intelligence and Snowden - the consequences' (2014)
-? 'Intelligence in Neutral Countries'(2013)
-? 'Cyber Security and Social Science' (2012)
-? 'The Ethics of National Security Intelligence' (2011)
-As can be seen from these examples, the OIG is often at the forefront of new approaches in intelligence studies and, in keeping with this track record, the proposed workshop will make an early foray into the common themes that are to be found in forensic and open source intelligence, bringing sociology and forensic genetics research into the discussion. This would almost certainly be the first time such connections have been expressly made.
-
-Dissemination, Marketing and Publication
-? The seminar will be open to the host institution's student and staff body and external members of the seminar series 
-? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
-? Publication of proceedings: Co-edited volume Intelligence Education and International Security 
-
-Seminar 3
-Security and Intelligence Studies and Higher Education
-
-Venues/ Dates: University of Buckingham/ University of East London, July 2016
-Institutions collaborating: University of Buckingham and University of East London
-
-Rationale 
-These linked seminars at the University of East London and the University of Buckingham consider the relationship between universities and national security. They draw on experts from the UK and Germany and across academic and security services.
-
-Seminar 3a: University of Buckingham
-Security and Intelligence Studies and Higher Education
-This seminar will attempt to initiate an assessment of how security issues may in part be framing the culture of HE in the UK in three areas: (i) Research and teaching into security-related questions in HE: disciplinary challenges to social science research (ii) The practical consequences of government 'Prevent' policy for teaching and learning culture in UK HEIs (whether 'Prevent' inhibits the teaching of modules on terrorism and extremism, for example, and the extent to which HEIs should feel oblige to host non-academic political or religious events (iii) The impact of government security policy on HE culture in the UK: that, for example, the unintended consequences of legislation to contain Islamist jihadism may be the breeding a new kind of anti-government culture amongst academics and their students, bringing together groups with different and often conflicting aims (e.g. 'conservative' Islamic thinking with gender extremism), united in their opposition to being squeezed out of HE culture. 
- 
-
-Seminar 3b: University of East London
-Universities and security research: a fragile relationship?
-
-Universities are implicated in the business of National Security. As producers of security research and technologies, centres of student and academic debate and repositories of knowledge, Higher Education Institutions are sometimes seen to be key to this endeavour. At certain times in history the link between Universities and National Security institutions has been strong but there are always tensions in this relationship. These joint seminars will consider the fragility of the relationship between universities and national security considering the relation between academic expertise and the security state, student radicalisation and freedom of speech, the politicisation of campus life and the agenda of research funders. They draw on experts from the UK and Germany
-
-
-Dissemination, Marketing and Publication
-? The seminar will be open to the host institutions' student and staff body and external members of the seminar series 
-? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
-? Publication of proceedings: Co-edited volume Intelligence Education and International Security 
-
-Seminar 4
-Theme
-Security Studies and the Humanities
-
-Venue/ Date: Royal United Service Institute, Westminster, London, September 2016
-Institutions collaborating: Royal United Service Institute (RUSI)
-
-Rationale 
-The field of security studies has widened and diversified in recent years to incorporate disciplines from the 'hard' sciences and the social sciences. In sub-fields such as terrorism studies, social science disciplines such as psychology and political science have made particularly strong contributions - so strong that the humanities are in danger of being eclipsed. This seminar would seek to explore and promote the contribution being made by researchers and teachers in three disciplines - history, literary studies, and cultural studies. It will aim to encourage a greater and more confident contribution from the humanities to 'real world' security problems. 
-
-Dissemination, Marketing and Publication
-? The seminar will be open to the host institution's student and staff body and external members of the seminar series 
-? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
-? Publication of proceedings: Co-edited volume Intelligence Education and International Security 
-
-Seminar 5
-Theme
-Securitising Education to Prevent Terrorism?
-Freedom of Speech and National Security 
-
-Venue/ Date: University of Bath, October 2016
-Institutions collaborating: University of Bath - Department of Politics, Languages and International Studies with Department of Education 
-
-Rationale 
-This seminar examines the growing relationship between security and education, particularly in the light of the UK government's Prevent Duty that seeks to tackle radicalisation in a variety of milieus, including universities. However, rather than seeing this process as being merely one-way, through a so-called securitisation of education (in the parlance of the Copenhagen School of International Relations), what is explored here is the dialectic between these two spheres.
- Dissemination, Marketing and Publication
-? The seminar will be open to the host institution's student and staff body and external members of the seminar series 
-? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
-? Publication of proceedings: Co-edited volume Intelligence Education and International Security</gtr:impact><gtr:partnerContribution>Education, Security and Intelligence Studies
-Society for Education Studies
-Seminar Series co-ordinated and facilitated by Dr Liam Gearon
-
-Seminar 1
-Theme
-Education, Security and Intelligence Studies: Context-setting
-
-Venue/ Date: Department of Education, University of Oxford, May 2016
-Institution collaborating: University of Oxford 
-Lead: Dr Liam Gearon, Associate Professor, Department of Education, and Senior Research Fellow, Harris Manchester College, University of Oxford
-
-Rationale 
-This opening seminar of the series will frame the interface of the seminar theme by (i) drawing upon special issue of the British Journal of Educational Studies on Education, Security and Intelligence Studies; and (ii) directly referencing the relationship between the Annual Seminar at the British Academy and the Seminar Series. 
- It will draw on UK and US perspectives: in the UK focusing on the implications of an emergent relationship between education, security and intelligence: in the UK by looking at issues such as Prevent, radicalisation and the responsibilities of educational institutions under the 2015 Counter-Terrorism and the Security Act; in the US, examination of the interface will focus on the rise of intelligence education in universities and the emergent International Association of Intelligence Education (IAIE). 
-
-
-Seminar 2
-Theme
-Forensic and Open Source Intelligence
-
-Venue/ Date: Nuffield College, University of Oxford/ June 2016 
-Collaborating Institutions: Oxford Intelligence Group (OIG), Nuffield College, University of Oxford in association with Cranfield Defence and Security, Shrivenham
-
-Dissemination, Marketing and Publication
-? The seminar will be open to the host institution's student and staff body and external members of the seminar series 
-? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
-? Publication of proceedings: Co-edited volume Intelligence Education and International Security 
-
-Rationale 
-The work of the OIG is largely focused on bringing an interdisciplinary, social science approach to intelligence studies. Previous workshops convened by the OIG have included:
-? 'Decoding the Human: Social Science Approaches to Cyber Security and Cyber Crime' (2015)
-? 'Intelligence and Snowden - the consequences' (2014)
-? 'Intelligence in Neutral Countries'(2013)
-? 'Cyber Security and Social Science' (2012)
-? 'The Ethics of National Security Intelligence' (2011)
-As can be seen from these examples, the OIG is often at the forefront of new approaches in intelligence studies and, in keeping with this track record, the proposed workshop will make an early foray into the common themes that are to be found in forensic and open source intelligence, bringing sociology and forensic genetics research into the discussion. This would almost certainly be the first time such connections have been expressly made.
-
-Dissemination, Marketing and Publication
-? The seminar will be open to the host institution's student and staff body and external members of the seminar series 
-? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
-? Publication of proceedings: Co-edited volume Intelligence Education and International Security 
-
-Seminar 3
-Security and Intelligence Studies and Higher Education
-
-Venues/ Dates: University of Buckingham/ University of East London, July 2016
-Institutions collaborating: University of Buckingham and University of East London
-
-Rationale 
-These linked seminars at the University of East London and the University of Buckingham consider the relationship between universities and national security. They draw on experts from the UK and Germany and across academic and security services.
-
-Seminar 3a: University of Buckingham
-Security and Intelligence Studies and Higher Education
-This seminar will attempt to initiate an assessment of how security issues may in part be framing the culture of HE in the UK in three areas: (i) Research and teaching into security-related questions in HE: disciplinary challenges to social science research (ii) The practical consequences of government 'Prevent' policy for teaching and learning culture in UK HEIs (whether 'Prevent' inhibits the teaching of modules on terrorism and extremism, for example, and the extent to which HEIs should feel oblige to host non-academic political or religious events (iii) The impact of government security policy on HE culture in the UK: that, for example, the unintended consequences of legislation to contain Islamist jihadism may be the breeding a new kind of anti-government culture amongst academics and their students, bringing together groups with different and often conflicting aims (e.g. 'conservative' Islamic thinking with gender extremism), united in their opposition to being squeezed out of HE culture. 
- 
-
-Seminar 3b: University of East London
-Universities and security research: a fragile relationship?
-
-Universities are implicated in the business of National Security. As producers of security research and technologies, centres of student and academic debate and repositories of knowledge, Higher Education Institutions are sometimes seen to be key to this endeavour. At certain times in history the link between Universities and National Security institutions has been strong but there are always tensions in this relationship. These joint seminars will consider the fragility of the relationship between universities and national security considering the relation between academic expertise and the security state, student radicalisation and freedom of speech, the politicisation of campus life and the agenda of research funders. They draw on experts from the UK and Germany
-
-
-Dissemination, Marketing and Publication
-? The seminar will be open to the host institutions' student and staff body and external members of the seminar series 
-? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
-? Publication of proceedings: Co-edited volume Intelligence Education and International Security 
-
-Seminar 4
-Theme
-Security Studies and the Humanities
-
-Venue/ Date: Royal United Service Institute, Westminster, London, September 2016
-Institutions collaborating: Royal United Service Institute (RUSI)
-
-Rationale 
-The field of security studies has widened and diversified in recent years to incorporate disciplines from the 'hard' sciences and the social sciences. In sub-fields such as terrorism studies, social science disciplines such as psychology and political science have made particularly strong contributions - so strong that the humanities are in danger of being eclipsed. This seminar would seek to explore and promote the contribution being made by researchers and teachers in three disciplines - history, literary studies, and cultural studies. It will aim to encourage a greater and more confident contribution from the humanities to 'real world' security problems. 
-
-Dissemination, Marketing and Publication
-? The seminar will be open to the host institution's student and staff body and external members of the seminar series 
-? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
-? Publication of proceedings: Co-edited volume Intelligence Education and International Security 
-
-Seminar 5
-Theme
-Securitising Education to Prevent Terrorism?
-Freedom of Speech and National Security 
-
-Venue/ Date: University of Bath, October 2016
-Institutions collaborating: University of Bath - Department of Politics, Languages and International Studies with Department of Education 
-
-Rationale 
-This seminar examines the growing relationship between security and education, particularly in the light of the UK government's Prevent Duty that seeks to tackle radicalisation in a variety of milieus, including universities. However, rather than seeing this process as being merely one-way, through a so-called securitisation of education (in the parlance of the Copenhagen School of International Relations), what is explored here is the dialectic between these two spheres.
- Dissemination, Marketing and Publication
-? The seminar will be open to the host institution's student and staff body and external members of the seminar series 
-? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
-? Publication of proceedings: Co-edited volume Intelligence Education and International Security</gtr:partnerContribution><gtr:piContribution>Education, Security and Intelligence Studies
-Society for Education Studies Seminar Series 
- 
-This grant builds on the successful event I convened at the British Academy in November 2015 on Education, Security and Intelligence Studies, following publication of the Guest Edited Special Issue of the British Journal of Educational Studies on Education, Security and Intelligence Studies. 
-
-The seminar series, which incorporates a strong multi-disciplinary element from the AHRC political theologies grant, provides an opportunity for a network of interested and interdisciplinary partners to provide a coherent programme of nationwide seminars on the theme of education, security and intelligence studies.
-
-The lead institutions involved, linked to their seminars, are in summary:
-
-Seminar 1
-Theme
-Education, Security and Intelligence: 
-National and international contexts 
-
-Department of Education, University of Oxford
-Institutions collaborating: Department of Education, University of Oxford; Oxford Centre for Intelligence Studies, Nuffield College, University of Oxford; University of Buckingham, University of East London; University of Bath. 
-
-Seminar 2
-Theme
-Forensic and Open Source Intelligence
-
-Venue: Nuffield College, University of Oxford
-Collaborating Institutions: Oxford Intelligence Group (OIG), Nuffield College, University of Oxford in association with Cranfield Defence and Security, Shrivenham
-
-Seminar 3
-Security and Intelligence Studies and Higher Education
-
-Venues: University of Buckingham/ University of East London
-Institutions collaborating: University of Buckingham and University of East London
-
-Seminar 4
-Theme
-Security Studies and the Humanities
-
-Venue: Royal United Service Institute, Westminster, London
-
-Seminar 5
-Theme
-Securitising Education to Prevent Terrorism?
-Freedom of Speech and National Security 
-
-Venue: University of Bath
-Institutions collaborating: University of Bath - Department of Politics, Languages and International Studies with Department of Education</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2015-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Buckingham</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Society for Educational Studies, Education, Security and Intelligence Studies seminar series grant</gtr:description><gtr:id>69D1C083-2D1E-44DF-9EF1-45533A8DF3D9</gtr:id><gtr:impact>Education, Security and Intelligence Studies
+Institutions collaborating: University of Bath - Department of Politics, Languages and International Studies with Department of Education</gtr:piContribution><gtr:sector>Charity/Non Profit</gtr:sector><gtr:start>2015-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>Washington College</gtr:collaboratingOrganisation><gtr:country>United States of America</gtr:country><gtr:description>Washington College, Maryland, including contribution to the Washington College Studies in Religion, Politics, and Culture - Volume 5</gtr:description><gtr:id>227B5B3A-C3FE-4258-8064-1422FA6B0076</gtr:id><gtr:impact>Gearon, L.F. (2015) Religious Authority and the Arts: Conversations in Political Theology, Washington College Studies in Religion, Politics, and Culture - Volume 5 (New York: Peter Lang).</gtr:impact><gtr:partnerContribution>Washington College Studies in Religion, Politics, and Culture - Volume 5</gtr:partnerContribution><gtr:piContribution>Contributions to the Washington College summer schools hosted by Oriel College, and Regent's Park College, University of Oxford</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2012-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Oxford</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:department>Nuffield College Oxford</gtr:department><gtr:description>Society for Educational Studies, Education, Security and Intelligence Studies seminar series grant</gtr:description><gtr:id>574C5986-C76D-4FF9-9C84-5F134259954F</gtr:id><gtr:impact>Education, Security and Intelligence Studies
 Society for Education Studies
 Seminar Series co-ordinated and facilitated by Dr Liam Gearon
 
@@ -1169,7 +701,7 @@ Securitising Education to Prevent Terrorism?
 Freedom of Speech and National Security 
 
 Venue: University of Bath
-Institutions collaborating: University of Bath - Department of Politics, Languages and International Studies with Department of Education</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2015-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>Washington College</gtr:collaboratingOrganisation><gtr:country>United States of America</gtr:country><gtr:description>Washington College, Maryland, including contribution to the Washington College Studies in Religion, Politics, and Culture - Volume 5</gtr:description><gtr:id>227B5B3A-C3FE-4258-8064-1422FA6B0076</gtr:id><gtr:impact>Gearon, L.F. (2015) Religious Authority and the Arts: Conversations in Political Theology, Washington College Studies in Religion, Politics, and Culture - Volume 5 (New York: Peter Lang).</gtr:impact><gtr:partnerContribution>Washington College Studies in Religion, Politics, and Culture - Volume 5</gtr:partnerContribution><gtr:piContribution>Contributions to the Washington College summer schools hosted by Oriel College, and Regent's Park College, University of Oxford</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2012-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Warwick</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Philosophy of Education Society of Great Britain major grant award in Philosophy, Literature and Education</gtr:description><gtr:id>70B7F88D-3EA0-4389-974B-F76A2567D41A</gtr:id><gtr:impact>The Philosophy of Education Society of Great Britain already provides a counter-balance to social science perspectives in educational scholarship and research - and thus a critical and central aim of the Seminar Series will be to establish and embed distinctive arts and humanities foci within the Society through the interface of philosophy, literature and education.
+Institutions collaborating: University of Bath - Department of Politics, Languages and International Studies with Department of Education</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2015-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Warwick</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Philosophy of Education Society of Great Britain major grant award in Philosophy, Literature and Education</gtr:description><gtr:id>70B7F88D-3EA0-4389-974B-F76A2567D41A</gtr:id><gtr:impact>The Philosophy of Education Society of Great Britain already provides a counter-balance to social science perspectives in educational scholarship and research - and thus a critical and central aim of the Seminar Series will be to establish and embed distinctive arts and humanities foci within the Society through the interface of philosophy, literature and education.
  The Philosophy, Literature, Education Seminar Series will therefore:
 1. Give a platform, provide prominence and shape an intellectual context for scholars with interests in the interface of philosophy, literature and education;
 2. Provide a justification for the cultural value of philosophy of education; 
@@ -1223,11 +755,480 @@ With the University of Oxford (lead) and the University of Warwick, the collabor
 The Seminars 
 These seminars revisit then and give extended consideration to the ambiguously symbiotic relationship between philosophy and literature and argue for an intensified re-examination of its relevance today for philosophy of education. The series composes three interrelated strands, the first two seminars explore distinct theoretical issues and curriculum applications, the third takes a specific aspect of the interface of political philosophy, literature and citizenship education to explore the philosophical and educational potential of the 'political' novel, along with other genres, to citizenship education. 
 
-The seminars are hosted at Harris Manchester College, University of Oxford, the University of Warwick and the British Academy.</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2015-01-01</gtr:start></gtr:collaborationOutput></gtr:collaborationOutputs><gtr:disseminationOutputs><gtr:disseminationOutput><gtr:description>Education for democratic citizenship - a role for the churches?</gtr:description><gtr:form>A formal working group, expert panel or dialogue</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>F9AB7B1C-A12E-40E8-B21E-BC2810552F41</gtr:id><gtr:impact>Keynote lecture, Conference of European Churches, Strasbourg, including collaboration with the Council of Europe
+The seminars are hosted at Harris Manchester College, University of Oxford, the University of Warwick and the British Academy.</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2015-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Buckingham</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Society for Educational Studies, Education, Security and Intelligence Studies seminar series grant</gtr:description><gtr:id>69D1C083-2D1E-44DF-9EF1-45533A8DF3D9</gtr:id><gtr:impact>Education, Security and Intelligence Studies
+Society for Education Studies
+Seminar Series co-ordinated and facilitated by Dr Liam Gearon
+
+Seminar 1
+Theme
+Education, Security and Intelligence Studies: Context-setting
+
+Venue/ Date: Department of Education, University of Oxford, May 2016
+Institution collaborating: University of Oxford 
+Lead: Dr Liam Gearon, Associate Professor, Department of Education, and Senior Research Fellow, Harris Manchester College, University of Oxford
+
+Rationale 
+This opening seminar of the series will frame the interface of the seminar theme by (i) drawing upon special issue of the British Journal of Educational Studies on Education, Security and Intelligence Studies; and (ii) directly referencing the relationship between the Annual Seminar at the British Academy and the Seminar Series. 
+ It will draw on UK and US perspectives: in the UK focusing on the implications of an emergent relationship between education, security and intelligence: in the UK by looking at issues such as Prevent, radicalisation and the responsibilities of educational institutions under the 2015 Counter-Terrorism and the Security Act; in the US, examination of the interface will focus on the rise of intelligence education in universities and the emergent International Association of Intelligence Education (IAIE). 
+
+
+Seminar 2
+Theme
+Forensic and Open Source Intelligence
+
+Venue/ Date: Nuffield College, University of Oxford/ June 2016 
+Collaborating Institutions: Oxford Intelligence Group (OIG), Nuffield College, University of Oxford in association with Cranfield Defence and Security, Shrivenham
+
+Dissemination, Marketing and Publication
+? The seminar will be open to the host institution's student and staff body and external members of the seminar series 
+? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
+? Publication of proceedings: Co-edited volume Intelligence Education and International Security 
+
+Rationale 
+The work of the OIG is largely focused on bringing an interdisciplinary, social science approach to intelligence studies. Previous workshops convened by the OIG have included:
+? 'Decoding the Human: Social Science Approaches to Cyber Security and Cyber Crime' (2015)
+? 'Intelligence and Snowden - the consequences' (2014)
+? 'Intelligence in Neutral Countries'(2013)
+? 'Cyber Security and Social Science' (2012)
+? 'The Ethics of National Security Intelligence' (2011)
+As can be seen from these examples, the OIG is often at the forefront of new approaches in intelligence studies and, in keeping with this track record, the proposed workshop will make an early foray into the common themes that are to be found in forensic and open source intelligence, bringing sociology and forensic genetics research into the discussion. This would almost certainly be the first time such connections have been expressly made.
+
+Dissemination, Marketing and Publication
+? The seminar will be open to the host institution's student and staff body and external members of the seminar series 
+? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
+? Publication of proceedings: Co-edited volume Intelligence Education and International Security 
+
+Seminar 3
+Security and Intelligence Studies and Higher Education
+
+Venues/ Dates: University of Buckingham/ University of East London, July 2016
+Institutions collaborating: University of Buckingham and University of East London
+
+Rationale 
+These linked seminars at the University of East London and the University of Buckingham consider the relationship between universities and national security. They draw on experts from the UK and Germany and across academic and security services.
+
+Seminar 3a: University of Buckingham
+Security and Intelligence Studies and Higher Education
+This seminar will attempt to initiate an assessment of how security issues may in part be framing the culture of HE in the UK in three areas: (i) Research and teaching into security-related questions in HE: disciplinary challenges to social science research (ii) The practical consequences of government 'Prevent' policy for teaching and learning culture in UK HEIs (whether 'Prevent' inhibits the teaching of modules on terrorism and extremism, for example, and the extent to which HEIs should feel oblige to host non-academic political or religious events (iii) The impact of government security policy on HE culture in the UK: that, for example, the unintended consequences of legislation to contain Islamist jihadism may be the breeding a new kind of anti-government culture amongst academics and their students, bringing together groups with different and often conflicting aims (e.g. 'conservative' Islamic thinking with gender extremism), united in their opposition to being squeezed out of HE culture. 
+ 
+
+Seminar 3b: University of East London
+Universities and security research: a fragile relationship?
+
+Universities are implicated in the business of National Security. As producers of security research and technologies, centres of student and academic debate and repositories of knowledge, Higher Education Institutions are sometimes seen to be key to this endeavour. At certain times in history the link between Universities and National Security institutions has been strong but there are always tensions in this relationship. These joint seminars will consider the fragility of the relationship between universities and national security considering the relation between academic expertise and the security state, student radicalisation and freedom of speech, the politicisation of campus life and the agenda of research funders. They draw on experts from the UK and Germany
+
+
+Dissemination, Marketing and Publication
+? The seminar will be open to the host institutions' student and staff body and external members of the seminar series 
+? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
+? Publication of proceedings: Co-edited volume Intelligence Education and International Security 
+
+Seminar 4
+Theme
+Security Studies and the Humanities
+
+Venue/ Date: Royal United Service Institute, Westminster, London, September 2016
+Institutions collaborating: Royal United Service Institute (RUSI)
+
+Rationale 
+The field of security studies has widened and diversified in recent years to incorporate disciplines from the 'hard' sciences and the social sciences. In sub-fields such as terrorism studies, social science disciplines such as psychology and political science have made particularly strong contributions - so strong that the humanities are in danger of being eclipsed. This seminar would seek to explore and promote the contribution being made by researchers and teachers in three disciplines - history, literary studies, and cultural studies. It will aim to encourage a greater and more confident contribution from the humanities to 'real world' security problems. 
+
+Dissemination, Marketing and Publication
+? The seminar will be open to the host institution's student and staff body and external members of the seminar series 
+? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
+? Publication of proceedings: Co-edited volume Intelligence Education and International Security 
+
+Seminar 5
+Theme
+Securitising Education to Prevent Terrorism?
+Freedom of Speech and National Security 
+
+Venue/ Date: University of Bath, October 2016
+Institutions collaborating: University of Bath - Department of Politics, Languages and International Studies with Department of Education 
+
+Rationale 
+This seminar examines the growing relationship between security and education, particularly in the light of the UK government's Prevent Duty that seeks to tackle radicalisation in a variety of milieus, including universities. However, rather than seeing this process as being merely one-way, through a so-called securitisation of education (in the parlance of the Copenhagen School of International Relations), what is explored here is the dialectic between these two spheres.
+ Dissemination, Marketing and Publication
+? The seminar will be open to the host institution's student and staff body and external members of the seminar series 
+? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
+? Publication of proceedings: Co-edited volume Intelligence Education and International Security</gtr:impact><gtr:partnerContribution>Education, Security and Intelligence Studies
+Society for Education Studies
+Seminar Series co-ordinated and facilitated by Dr Liam Gearon
+
+Seminar 1
+Theme
+Education, Security and Intelligence Studies: Context-setting
+
+Venue/ Date: Department of Education, University of Oxford, May 2016
+Institution collaborating: University of Oxford 
+Lead: Dr Liam Gearon, Associate Professor, Department of Education, and Senior Research Fellow, Harris Manchester College, University of Oxford
+
+Rationale 
+This opening seminar of the series will frame the interface of the seminar theme by (i) drawing upon special issue of the British Journal of Educational Studies on Education, Security and Intelligence Studies; and (ii) directly referencing the relationship between the Annual Seminar at the British Academy and the Seminar Series. 
+ It will draw on UK and US perspectives: in the UK focusing on the implications of an emergent relationship between education, security and intelligence: in the UK by looking at issues such as Prevent, radicalisation and the responsibilities of educational institutions under the 2015 Counter-Terrorism and the Security Act; in the US, examination of the interface will focus on the rise of intelligence education in universities and the emergent International Association of Intelligence Education (IAIE). 
+
+
+Seminar 2
+Theme
+Forensic and Open Source Intelligence
+
+Venue/ Date: Nuffield College, University of Oxford/ June 2016 
+Collaborating Institutions: Oxford Intelligence Group (OIG), Nuffield College, University of Oxford in association with Cranfield Defence and Security, Shrivenham
+
+Dissemination, Marketing and Publication
+? The seminar will be open to the host institution's student and staff body and external members of the seminar series 
+? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
+? Publication of proceedings: Co-edited volume Intelligence Education and International Security 
+
+Rationale 
+The work of the OIG is largely focused on bringing an interdisciplinary, social science approach to intelligence studies. Previous workshops convened by the OIG have included:
+? 'Decoding the Human: Social Science Approaches to Cyber Security and Cyber Crime' (2015)
+? 'Intelligence and Snowden - the consequences' (2014)
+? 'Intelligence in Neutral Countries'(2013)
+? 'Cyber Security and Social Science' (2012)
+? 'The Ethics of National Security Intelligence' (2011)
+As can be seen from these examples, the OIG is often at the forefront of new approaches in intelligence studies and, in keeping with this track record, the proposed workshop will make an early foray into the common themes that are to be found in forensic and open source intelligence, bringing sociology and forensic genetics research into the discussion. This would almost certainly be the first time such connections have been expressly made.
+
+Dissemination, Marketing and Publication
+? The seminar will be open to the host institution's student and staff body and external members of the seminar series 
+? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
+? Publication of proceedings: Co-edited volume Intelligence Education and International Security 
+
+Seminar 3
+Security and Intelligence Studies and Higher Education
+
+Venues/ Dates: University of Buckingham/ University of East London, July 2016
+Institutions collaborating: University of Buckingham and University of East London
+
+Rationale 
+These linked seminars at the University of East London and the University of Buckingham consider the relationship between universities and national security. They draw on experts from the UK and Germany and across academic and security services.
+
+Seminar 3a: University of Buckingham
+Security and Intelligence Studies and Higher Education
+This seminar will attempt to initiate an assessment of how security issues may in part be framing the culture of HE in the UK in three areas: (i) Research and teaching into security-related questions in HE: disciplinary challenges to social science research (ii) The practical consequences of government 'Prevent' policy for teaching and learning culture in UK HEIs (whether 'Prevent' inhibits the teaching of modules on terrorism and extremism, for example, and the extent to which HEIs should feel oblige to host non-academic political or religious events (iii) The impact of government security policy on HE culture in the UK: that, for example, the unintended consequences of legislation to contain Islamist jihadism may be the breeding a new kind of anti-government culture amongst academics and their students, bringing together groups with different and often conflicting aims (e.g. 'conservative' Islamic thinking with gender extremism), united in their opposition to being squeezed out of HE culture. 
+ 
+
+Seminar 3b: University of East London
+Universities and security research: a fragile relationship?
+
+Universities are implicated in the business of National Security. As producers of security research and technologies, centres of student and academic debate and repositories of knowledge, Higher Education Institutions are sometimes seen to be key to this endeavour. At certain times in history the link between Universities and National Security institutions has been strong but there are always tensions in this relationship. These joint seminars will consider the fragility of the relationship between universities and national security considering the relation between academic expertise and the security state, student radicalisation and freedom of speech, the politicisation of campus life and the agenda of research funders. They draw on experts from the UK and Germany
+
+
+Dissemination, Marketing and Publication
+? The seminar will be open to the host institutions' student and staff body and external members of the seminar series 
+? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
+? Publication of proceedings: Co-edited volume Intelligence Education and International Security 
+
+Seminar 4
+Theme
+Security Studies and the Humanities
+
+Venue/ Date: Royal United Service Institute, Westminster, London, September 2016
+Institutions collaborating: Royal United Service Institute (RUSI)
+
+Rationale 
+The field of security studies has widened and diversified in recent years to incorporate disciplines from the 'hard' sciences and the social sciences. In sub-fields such as terrorism studies, social science disciplines such as psychology and political science have made particularly strong contributions - so strong that the humanities are in danger of being eclipsed. This seminar would seek to explore and promote the contribution being made by researchers and teachers in three disciplines - history, literary studies, and cultural studies. It will aim to encourage a greater and more confident contribution from the humanities to 'real world' security problems. 
+
+Dissemination, Marketing and Publication
+? The seminar will be open to the host institution's student and staff body and external members of the seminar series 
+? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
+? Publication of proceedings: Co-edited volume Intelligence Education and International Security 
+
+Seminar 5
+Theme
+Securitising Education to Prevent Terrorism?
+Freedom of Speech and National Security 
+
+Venue/ Date: University of Bath, October 2016
+Institutions collaborating: University of Bath - Department of Politics, Languages and International Studies with Department of Education 
+
+Rationale 
+This seminar examines the growing relationship between security and education, particularly in the light of the UK government's Prevent Duty that seeks to tackle radicalisation in a variety of milieus, including universities. However, rather than seeing this process as being merely one-way, through a so-called securitisation of education (in the parlance of the Copenhagen School of International Relations), what is explored here is the dialectic between these two spheres.
+ Dissemination, Marketing and Publication
+? The seminar will be open to the host institution's student and staff body and external members of the seminar series 
+? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
+? Publication of proceedings: Co-edited volume Intelligence Education and International Security</gtr:partnerContribution><gtr:piContribution>Education, Security and Intelligence Studies
+Society for Education Studies Seminar Series 
+ 
+This grant builds on the successful event I convened at the British Academy in November 2015 on Education, Security and Intelligence Studies, following publication of the Guest Edited Special Issue of the British Journal of Educational Studies on Education, Security and Intelligence Studies. 
+
+The seminar series, which incorporates a strong multi-disciplinary element from the AHRC political theologies grant, provides an opportunity for a network of interested and interdisciplinary partners to provide a coherent programme of nationwide seminars on the theme of education, security and intelligence studies.
+
+The lead institutions involved, linked to their seminars, are in summary:
+
+Seminar 1
+Theme
+Education, Security and Intelligence: 
+National and international contexts 
+
+Department of Education, University of Oxford
+Institutions collaborating: Department of Education, University of Oxford; Oxford Centre for Intelligence Studies, Nuffield College, University of Oxford; University of Buckingham, University of East London; University of Bath. 
+
+Seminar 2
+Theme
+Forensic and Open Source Intelligence
+
+Venue: Nuffield College, University of Oxford
+Collaborating Institutions: Oxford Intelligence Group (OIG), Nuffield College, University of Oxford in association with Cranfield Defence and Security, Shrivenham
+
+Seminar 3
+Security and Intelligence Studies and Higher Education
+
+Venues: University of Buckingham/ University of East London
+Institutions collaborating: University of Buckingham and University of East London
+
+Seminar 4
+Theme
+Security Studies and the Humanities
+
+Venue: Royal United Service Institute, Westminster, London
+
+Seminar 5
+Theme
+Securitising Education to Prevent Terrorism?
+Freedom of Speech and National Security 
+
+Venue: University of Bath
+Institutions collaborating: University of Bath - Department of Politics, Languages and International Studies with Department of Education</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2015-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Bath</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Society for Educational Studies, Education, Security and Intelligence Studies seminar series grant</gtr:description><gtr:id>6EAB81B7-B0F7-45E3-B635-97601A1F2775</gtr:id><gtr:impact>Education, Security and Intelligence Studies
+Society for Education Studies
+Seminar Series co-ordinated and facilitated by Dr Liam Gearon
+
+Seminar 1
+Theme
+Education, Security and Intelligence Studies: Context-setting
+
+Venue/ Date: Department of Education, University of Oxford, May 2016
+Institution collaborating: University of Oxford 
+Lead: Dr Liam Gearon, Associate Professor, Department of Education, and Senior Research Fellow, Harris Manchester College, University of Oxford
+
+Rationale 
+This opening seminar of the series will frame the interface of the seminar theme by (i) drawing upon special issue of the British Journal of Educational Studies on Education, Security and Intelligence Studies; and (ii) directly referencing the relationship between the Annual Seminar at the British Academy and the Seminar Series. 
+ It will draw on UK and US perspectives: in the UK focusing on the implications of an emergent relationship between education, security and intelligence: in the UK by looking at issues such as Prevent, radicalisation and the responsibilities of educational institutions under the 2015 Counter-Terrorism and the Security Act; in the US, examination of the interface will focus on the rise of intelligence education in universities and the emergent International Association of Intelligence Education (IAIE). 
+
+
+Seminar 2
+Theme
+Forensic and Open Source Intelligence
+
+Venue/ Date: Nuffield College, University of Oxford/ June 2016 
+Collaborating Institutions: Oxford Intelligence Group (OIG), Nuffield College, University of Oxford in association with Cranfield Defence and Security, Shrivenham
+
+Dissemination, Marketing and Publication
+? The seminar will be open to the host institution's student and staff body and external members of the seminar series 
+? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
+? Publication of proceedings: Co-edited volume Intelligence Education and International Security 
+
+Rationale 
+The work of the OIG is largely focused on bringing an interdisciplinary, social science approach to intelligence studies. Previous workshops convened by the OIG have included:
+? 'Decoding the Human: Social Science Approaches to Cyber Security and Cyber Crime' (2015)
+? 'Intelligence and Snowden - the consequences' (2014)
+? 'Intelligence in Neutral Countries'(2013)
+? 'Cyber Security and Social Science' (2012)
+? 'The Ethics of National Security Intelligence' (2011)
+As can be seen from these examples, the OIG is often at the forefront of new approaches in intelligence studies and, in keeping with this track record, the proposed workshop will make an early foray into the common themes that are to be found in forensic and open source intelligence, bringing sociology and forensic genetics research into the discussion. This would almost certainly be the first time such connections have been expressly made.
+
+Dissemination, Marketing and Publication
+? The seminar will be open to the host institution's student and staff body and external members of the seminar series 
+? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
+? Publication of proceedings: Co-edited volume Intelligence Education and International Security 
+
+Seminar 3
+Security and Intelligence Studies and Higher Education
+
+Venues/ Dates: University of Buckingham/ University of East London, July 2016
+Institutions collaborating: University of Buckingham and University of East London
+
+Rationale 
+These linked seminars at the University of East London and the University of Buckingham consider the relationship between universities and national security. They draw on experts from the UK and Germany and across academic and security services.
+
+Seminar 3a: University of Buckingham
+Security and Intelligence Studies and Higher Education
+This seminar will attempt to initiate an assessment of how security issues may in part be framing the culture of HE in the UK in three areas: (i) Research and teaching into security-related questions in HE: disciplinary challenges to social science research (ii) The practical consequences of government 'Prevent' policy for teaching and learning culture in UK HEIs (whether 'Prevent' inhibits the teaching of modules on terrorism and extremism, for example, and the extent to which HEIs should feel oblige to host non-academic political or religious events (iii) The impact of government security policy on HE culture in the UK: that, for example, the unintended consequences of legislation to contain Islamist jihadism may be the breeding a new kind of anti-government culture amongst academics and their students, bringing together groups with different and often conflicting aims (e.g. 'conservative' Islamic thinking with gender extremism), united in their opposition to being squeezed out of HE culture. 
+ 
+
+Seminar 3b: University of East London
+Universities and security research: a fragile relationship?
+
+Universities are implicated in the business of National Security. As producers of security research and technologies, centres of student and academic debate and repositories of knowledge, Higher Education Institutions are sometimes seen to be key to this endeavour. At certain times in history the link between Universities and National Security institutions has been strong but there are always tensions in this relationship. These joint seminars will consider the fragility of the relationship between universities and national security considering the relation between academic expertise and the security state, student radicalisation and freedom of speech, the politicisation of campus life and the agenda of research funders. They draw on experts from the UK and Germany
+
+
+Dissemination, Marketing and Publication
+? The seminar will be open to the host institutions' student and staff body and external members of the seminar series 
+? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
+? Publication of proceedings: Co-edited volume Intelligence Education and International Security 
+
+Seminar 4
+Theme
+Security Studies and the Humanities
+
+Venue/ Date: Royal United Service Institute, Westminster, London, September 2016
+Institutions collaborating: Royal United Service Institute (RUSI)
+
+Rationale 
+The field of security studies has widened and diversified in recent years to incorporate disciplines from the 'hard' sciences and the social sciences. In sub-fields such as terrorism studies, social science disciplines such as psychology and political science have made particularly strong contributions - so strong that the humanities are in danger of being eclipsed. This seminar would seek to explore and promote the contribution being made by researchers and teachers in three disciplines - history, literary studies, and cultural studies. It will aim to encourage a greater and more confident contribution from the humanities to 'real world' security problems. 
+
+Dissemination, Marketing and Publication
+? The seminar will be open to the host institution's student and staff body and external members of the seminar series 
+? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
+? Publication of proceedings: Co-edited volume Intelligence Education and International Security 
+
+Seminar 5
+Theme
+Securitising Education to Prevent Terrorism?
+Freedom of Speech and National Security 
+
+Venue/ Date: University of Bath, October 2016
+Institutions collaborating: University of Bath - Department of Politics, Languages and International Studies with Department of Education 
+
+Rationale 
+This seminar examines the growing relationship between security and education, particularly in the light of the UK government's Prevent Duty that seeks to tackle radicalisation in a variety of milieus, including universities. However, rather than seeing this process as being merely one-way, through a so-called securitisation of education (in the parlance of the Copenhagen School of International Relations), what is explored here is the dialectic between these two spheres.
+ Dissemination, Marketing and Publication
+? The seminar will be open to the host institution's student and staff body and external members of the seminar series 
+? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
+? Publication of proceedings: Co-edited volume Intelligence Education and International Security</gtr:impact><gtr:partnerContribution>Education, Security and Intelligence Studies
+Society for Education Studies
+Seminar Series co-ordinated and facilitated by Dr Liam Gearon
+
+Seminar 1
+Theme
+Education, Security and Intelligence Studies: Context-setting
+
+Venue/ Date: Department of Education, University of Oxford, May 2016
+Institution collaborating: University of Oxford 
+Lead: Dr Liam Gearon, Associate Professor, Department of Education, and Senior Research Fellow, Harris Manchester College, University of Oxford
+
+Rationale 
+This opening seminar of the series will frame the interface of the seminar theme by (i) drawing upon special issue of the British Journal of Educational Studies on Education, Security and Intelligence Studies; and (ii) directly referencing the relationship between the Annual Seminar at the British Academy and the Seminar Series. 
+ It will draw on UK and US perspectives: in the UK focusing on the implications of an emergent relationship between education, security and intelligence: in the UK by looking at issues such as Prevent, radicalisation and the responsibilities of educational institutions under the 2015 Counter-Terrorism and the Security Act; in the US, examination of the interface will focus on the rise of intelligence education in universities and the emergent International Association of Intelligence Education (IAIE). 
+
+
+Seminar 2
+Theme
+Forensic and Open Source Intelligence
+
+Venue/ Date: Nuffield College, University of Oxford/ June 2016 
+Collaborating Institutions: Oxford Intelligence Group (OIG), Nuffield College, University of Oxford in association with Cranfield Defence and Security, Shrivenham
+
+Dissemination, Marketing and Publication
+? The seminar will be open to the host institution's student and staff body and external members of the seminar series 
+? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
+? Publication of proceedings: Co-edited volume Intelligence Education and International Security 
+
+Rationale 
+The work of the OIG is largely focused on bringing an interdisciplinary, social science approach to intelligence studies. Previous workshops convened by the OIG have included:
+? 'Decoding the Human: Social Science Approaches to Cyber Security and Cyber Crime' (2015)
+? 'Intelligence and Snowden - the consequences' (2014)
+? 'Intelligence in Neutral Countries'(2013)
+? 'Cyber Security and Social Science' (2012)
+? 'The Ethics of National Security Intelligence' (2011)
+As can be seen from these examples, the OIG is often at the forefront of new approaches in intelligence studies and, in keeping with this track record, the proposed workshop will make an early foray into the common themes that are to be found in forensic and open source intelligence, bringing sociology and forensic genetics research into the discussion. This would almost certainly be the first time such connections have been expressly made.
+
+Dissemination, Marketing and Publication
+? The seminar will be open to the host institution's student and staff body and external members of the seminar series 
+? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
+? Publication of proceedings: Co-edited volume Intelligence Education and International Security 
+
+Seminar 3
+Security and Intelligence Studies and Higher Education
+
+Venues/ Dates: University of Buckingham/ University of East London, July 2016
+Institutions collaborating: University of Buckingham and University of East London
+
+Rationale 
+These linked seminars at the University of East London and the University of Buckingham consider the relationship between universities and national security. They draw on experts from the UK and Germany and across academic and security services.
+
+Seminar 3a: University of Buckingham
+Security and Intelligence Studies and Higher Education
+This seminar will attempt to initiate an assessment of how security issues may in part be framing the culture of HE in the UK in three areas: (i) Research and teaching into security-related questions in HE: disciplinary challenges to social science research (ii) The practical consequences of government 'Prevent' policy for teaching and learning culture in UK HEIs (whether 'Prevent' inhibits the teaching of modules on terrorism and extremism, for example, and the extent to which HEIs should feel oblige to host non-academic political or religious events (iii) The impact of government security policy on HE culture in the UK: that, for example, the unintended consequences of legislation to contain Islamist jihadism may be the breeding a new kind of anti-government culture amongst academics and their students, bringing together groups with different and often conflicting aims (e.g. 'conservative' Islamic thinking with gender extremism), united in their opposition to being squeezed out of HE culture. 
+ 
+
+Seminar 3b: University of East London
+Universities and security research: a fragile relationship?
+
+Universities are implicated in the business of National Security. As producers of security research and technologies, centres of student and academic debate and repositories of knowledge, Higher Education Institutions are sometimes seen to be key to this endeavour. At certain times in history the link between Universities and National Security institutions has been strong but there are always tensions in this relationship. These joint seminars will consider the fragility of the relationship between universities and national security considering the relation between academic expertise and the security state, student radicalisation and freedom of speech, the politicisation of campus life and the agenda of research funders. They draw on experts from the UK and Germany
+
+
+Dissemination, Marketing and Publication
+? The seminar will be open to the host institutions' student and staff body and external members of the seminar series 
+? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
+? Publication of proceedings: Co-edited volume Intelligence Education and International Security 
+
+Seminar 4
+Theme
+Security Studies and the Humanities
+
+Venue/ Date: Royal United Service Institute, Westminster, London, September 2016
+Institutions collaborating: Royal United Service Institute (RUSI)
+
+Rationale 
+The field of security studies has widened and diversified in recent years to incorporate disciplines from the 'hard' sciences and the social sciences. In sub-fields such as terrorism studies, social science disciplines such as psychology and political science have made particularly strong contributions - so strong that the humanities are in danger of being eclipsed. This seminar would seek to explore and promote the contribution being made by researchers and teachers in three disciplines - history, literary studies, and cultural studies. It will aim to encourage a greater and more confident contribution from the humanities to 'real world' security problems. 
+
+Dissemination, Marketing and Publication
+? The seminar will be open to the host institution's student and staff body and external members of the seminar series 
+? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
+? Publication of proceedings: Co-edited volume Intelligence Education and International Security 
+
+Seminar 5
+Theme
+Securitising Education to Prevent Terrorism?
+Freedom of Speech and National Security 
+
+Venue/ Date: University of Bath, October 2016
+Institutions collaborating: University of Bath - Department of Politics, Languages and International Studies with Department of Education 
+
+Rationale 
+This seminar examines the growing relationship between security and education, particularly in the light of the UK government's Prevent Duty that seeks to tackle radicalisation in a variety of milieus, including universities. However, rather than seeing this process as being merely one-way, through a so-called securitisation of education (in the parlance of the Copenhagen School of International Relations), what is explored here is the dialectic between these two spheres.
+ Dissemination, Marketing and Publication
+? The seminar will be open to the host institution's student and staff body and external members of the seminar series 
+? University website of host institution, other institutions involved in the seminar series and the Society for Educational Studies 
+? Publication of proceedings: Co-edited volume Intelligence Education and International Security</gtr:partnerContribution><gtr:piContribution>Education, Security and Intelligence Studies
+Society for Education Studies Seminar Series 
+ 
+This grant builds on the successful event I convened at the British Academy in November 2015 on Education, Security and Intelligence Studies, following publication of the Guest Edited Special Issue of the British Journal of Educational Studies on Education, Security and Intelligence Studies. 
+
+The seminar series, which incorporates a strong multi-disciplinary element from the AHRC political theologies grant, provides an opportunity for a network of interested and interdisciplinary partners to provide a coherent programme of nationwide seminars on the theme of education, security and intelligence studies.
+
+The lead institutions involved, linked to their seminars, are in summary:
+
+Seminar 1
+Theme
+Education, Security and Intelligence: 
+National and international contexts 
+
+Department of Education, University of Oxford
+Institutions collaborating: Department of Education, University of Oxford; Oxford Centre for Intelligence Studies, Nuffield College, University of Oxford; University of Buckingham, University of East London; University of Bath. 
+
+Seminar 2
+Theme
+Forensic and Open Source Intelligence
+
+Venue: Nuffield College, University of Oxford
+Collaborating Institutions: Oxford Intelligence Group (OIG), Nuffield College, University of Oxford in association with Cranfield Defence and Security, Shrivenham
+
+Seminar 3
+Security and Intelligence Studies and Higher Education
+
+Venues: University of Buckingham/ University of East London
+Institutions collaborating: University of Buckingham and University of East London
+
+Seminar 4
+Theme
+Security Studies and the Humanities
+
+Venue: Royal United Service Institute, Westminster, London
+
+Seminar 5
+Theme
+Securitising Education to Prevent Terrorism?
+Freedom of Speech and National Security 
+
+Venue: University of Bath
+Institutions collaborating: University of Bath - Department of Politics, Languages and International Studies with Department of Education</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2015-01-01</gtr:start></gtr:collaborationOutput></gtr:collaborationOutputs><gtr:disseminationOutputs><gtr:disseminationOutput><gtr:description>Education for democratic citizenship - a role for the churches?</gtr:description><gtr:form>A formal working group, expert panel or dialogue</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>24107A20-DF81-4986-8B26-BFD9032D187E</gtr:id><gtr:impact>Keynote lecture, Conference of European Churches, Strasbourg, including collaboration with the Council of Europe
 
 http://csc.ceceurope.org/issues/education/
 
-The Conference on Education for Democratic Citizenship, October 5-7, Strasbourg, organised by the Church and Society Commission (CSC) of the Conference of European Churches (CEC), brought together members of churches and church organisations, clergy, lay,</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Policymakers/parliamentarians</gtr:primaryAudience><gtr:year>2011</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>October 2016: Invited and funded presentation at the International Nuremberg Forum, The Politicisation and Securitisation of Religion in Education: A Response to a Rejoinder', the Friedrich-Alexander-University of Erlangen-Nuremberg.</gtr:description><gtr:form>A formal working group, expert panel or dialogue</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>A79D0138-A754-4832-83FA-578FA8B8060F</gtr:id><gtr:impact>12th Nuremberg Forum 2016 (Oct 3-6)
+Widespread international distribution to churches across Europe.</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Public/other audiences</gtr:primaryAudience><gtr:year>2011</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Society for Educational Studies</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>9D907EA4-B9B6-49DF-B5E5-D0D17F06BAA0</gtr:id><gtr:impact>Based on the security and intelligence ramification of the Political Theologies AHRC grant (the book was completed in the year of Charlie Hebdo) much of my recent work has drawn me into some major public-facing - multi-institution/ sector and cross-disciplinary - debate around the interface of education, security and intelligence studies. The event I convened at the British Academy in November 2015 - the Annual Seminar of the Society of Educational Studies - was one such event, the URL for which is below. The event coincided and marked the recent publication of my guest edited special issue of the British Journal of Educational Studies on Education, Security and Intelligence Studies, and has led to a major, innovative collaboration between several UK universities, defence organisations (Cranfield) and think tanks (for example the Royal United Services Institute). The AHRC research grant was speculative and high risk, with at the time of application, unknown or unpredictable results and in the five years since the award has produced a surprising and certainly unexpected results, innovations and findings of relevance to informing public debate as well as shaping new directions in inter- and cross-disciplinary research at the interface of politics, theology and aesthetics. 
+ The British Academy event also marked the award of my second prize in the national book awards for the Society of Educational Studies, for On Holy Ground - a book which has provoked formal and informal responses from scholars across Europe and North America debating the role of religion in contemporary public life.</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Media (as a channel to the public)</gtr:primaryAudience><gtr:url>http://www.soc-for-ed-studies.org.uk/</gtr:url><gtr:year>2015</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>October 2016: Invited and funded presentation at the International Nuremberg Forum, The Politicisation and Securitisation of Religion in Education: A Response to a Rejoinder', the Friedrich-Alexander-University of Erlangen-Nuremberg.</gtr:description><gtr:form>A formal working group, expert panel or dialogue</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>A79D0138-A754-4832-83FA-578FA8B8060F</gtr:id><gtr:impact>12th Nuremberg Forum 2016 (Oct 3-6)
 
 Public Theology - Religion - Education. Interreligious Perspectives
 
@@ -1242,12 +1243,7 @@ In the Christian context, the calling to contribute to the common good has come 
 
 Thus, the Nuremberg Forum 2016 intends to draw attention to the contribution of religions to the common good, with a focus on educational aspects and stimulated by the Christian concept of 'public theology'. By promoting interdisciplinary and interreligious academic and social discourse it aims to strengthen the religions' public responsibility, especially with respect to public education, and their public visibility as resources for the humanization of societies. This aim is in line with the now 30-year-old tradition of the Nuremberg Forums to facilitate intercultural and interreligious dialogue and learning in a pluralistic society. The Nuremberg Forum is organized by the Chair of Religious Education at the Friedrich-Alexander-University of Erlangen-Nuremberg (Professor Manfred L. Pirner, Professor Johannes L&amp;auml;hnemann, and Dr Werner Hau&amp;szlig;mann) together with Professor Peter Bubmann (Practical Theology, Erlangen), Dr Florian H&amp;ouml;hne (Systematic Theology, University of Bamberg), Professor Andreas Nehring (Religious Studies, Erlangen), Professor Henrik Simojoki (Protestant Theology/Religious Education, University of Bamberg) and Professor Thomas Wabel (Systematic Theology and director of the Dietrich Bonhoeffer Research Center of Public Theology, University of Bamberg), in co-operation with the Global Network of Public Theology, GNPT (chairperson: Professor Elaine Graham, University of Chester, UK) and in connection with the Office of the Protestant Church in Germany (EKD).
 
-The conference is supported by the German Research Foundation (DFG), the Protestant-Lutheran Church of Bavaria (ELKB), the Roman-Catholic Archbishop of Bamberg, the City of Nuremberg (Kost-Pocher Foundation and Human Rights Foundation), Religions for Peace Germany (RfP), the Institute for Anthropology of Religions (ZAR) and the Centre for Human Rights Erlangen-Nuremberg (CHREN), the latter two at the Friedrich-Alexander-University Erlangen-Nuremberg.</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Public/other audiences</gtr:primaryAudience><gtr:url>http://www.nuernberger-forum.uni-erlangen.org/introduction.shtml</gtr:url><gtr:year>2016</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Society for Educational Studies</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>9D907EA4-B9B6-49DF-B5E5-D0D17F06BAA0</gtr:id><gtr:impact>Based on the security and intelligence ramification of the Political Theologies AHRC grant (the book was completed in the year of Charlie Hebdo) much of my recent work has drawn me into some major public-facing - multi-institution/ sector and cross-disciplinary - debate around the interface of education, security and intelligence studies. The event I convened at the British Academy in November 2015 - the Annual Seminar of the Society of Educational Studies - was one such event, the URL for which is below. The event coincided and marked the recent publication of my guest edited special issue of the British Journal of Educational Studies on Education, Security and Intelligence Studies, and has led to a major, innovative collaboration between several UK universities, defence organisations (Cranfield) and think tanks (for example the Royal United Services Institute). The AHRC research grant was speculative and high risk, with at the time of application, unknown or unpredictable results and in the five years since the award has produced a surprising and certainly unexpected results, innovations and findings of relevance to informing public debate as well as shaping new directions in inter- and cross-disciplinary research at the interface of politics, theology and aesthetics. 
- The British Academy event also marked the award of my second prize in the national book awards for the Society of Educational Studies, for On Holy Ground - a book which has provoked formal and informal responses from scholars across Europe and North America debating the role of religion in contemporary public life.</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Media (as a channel to the public)</gtr:primaryAudience><gtr:url>http://www.soc-for-ed-studies.org.uk/</gtr:url><gtr:year>2015</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Education for democratic citizenship - a role for the churches?</gtr:description><gtr:form>A formal working group, expert panel or dialogue</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>24107A20-DF81-4986-8B26-BFD9032D187E</gtr:id><gtr:impact>Keynote lecture, Conference of European Churches, Strasbourg, including collaboration with the Council of Europe
-
-http://csc.ceceurope.org/issues/education/
-
-Widespread international distribution to churches across Europe.</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Public/other audiences</gtr:primaryAudience><gtr:year>2011</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>European Civil Religion and European Religious Education</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>16B43E91-4D40-47BF-A70B-26BBD25C6681</gtr:id><gtr:impact>http://www.gla.ac.uk/media/media_222306_en.pdf 
+The conference is supported by the German Research Foundation (DFG), the Protestant-Lutheran Church of Bavaria (ELKB), the Roman-Catholic Archbishop of Bamberg, the City of Nuremberg (Kost-Pocher Foundation and Human Rights Foundation), Religions for Peace Germany (RfP), the Institute for Anthropology of Religions (ZAR) and the Centre for Human Rights Erlangen-Nuremberg (CHREN), the latter two at the Friedrich-Alexander-University Erlangen-Nuremberg.</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Public/other audiences</gtr:primaryAudience><gtr:url>http://www.nuernberger-forum.uni-erlangen.org/introduction.shtml</gtr:url><gtr:year>2016</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>European Civil Religion and European Religious Education</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>16B43E91-4D40-47BF-A70B-26BBD25C6681</gtr:id><gtr:impact>http://www.gla.ac.uk/media/media_222306_en.pdf 
 
 
 
@@ -1255,7 +1251,11 @@ This paper challenges a foundational conjecture of the Religion in Education Dia
 
 This was a public lecture, high profile annual keynote lecture, the Cardinal Winning Lecture, hosted by the University of Glasgow. 
 
-Previous lecturers have included (in 2008) First Minister Alex Salmond.</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Public/other audiences</gtr:primaryAudience><gtr:year>2012</gtr:year></gtr:disseminationOutput></gtr:disseminationOutputs><gtr:exploitationOutputs/><gtr:furtherFundingOutputs><gtr:furtherFundingOutput><gtr:amountPounds>10000</gtr:amountPounds><gtr:country>Unknown</gtr:country><gtr:currCode>GBP</gtr:currCode><gtr:currCountryCode>United Kingdom</gtr:currCountryCode><gtr:currLang>en_GB</gtr:currLang><gtr:description>Philosophy of Education Society of Great Britain (PESGB) major grant award, seminar series on Philosophy, Literature and Education</gtr:description><gtr:end>2016-04-02</gtr:end><gtr:fundingOrg>Philosophy of Education Society of Great Britain (PESGB)</gtr:fundingOrg><gtr:id>66FB75EB-EFDA-478B-822F-65B970FA152B</gtr:id><gtr:sector>Learned Society</gtr:sector><gtr:start>2015-03-01</gtr:start></gtr:furtherFundingOutput><gtr:furtherFundingOutput><gtr:amountPounds>15500</gtr:amountPounds><gtr:country>Unknown</gtr:country><gtr:currCode>GBP</gtr:currCode><gtr:currCountryCode>United Kingdom</gtr:currCountryCode><gtr:currLang>en_GB</gtr:currLang><gtr:description>Society for Educational Studies, Education, Security and Intelligence Studies seminar series grant</gtr:description><gtr:end>2017-03-02</gtr:end><gtr:fundingOrg>Society for Educational Sudies</gtr:fundingOrg><gtr:id>7504FB7D-D9C2-48B5-9A0C-D23D364AE4B0</gtr:id><gtr:sector>Learned Society</gtr:sector><gtr:start>2016-02-01</gtr:start></gtr:furtherFundingOutput><gtr:furtherFundingOutput><gtr:amountPounds>37000</gtr:amountPounds><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:currCode>GBP</gtr:currCode><gtr:currCountryCode>United Kingdom</gtr:currCountryCode><gtr:currLang>en_GB</gtr:currLang><gtr:description>Leverhulme Research Fellowship</gtr:description><gtr:end>2013-03-02</gtr:end><gtr:fundingOrg>The Leverhulme Trust</gtr:fundingOrg><gtr:fundingRef>https://www.leverhulme.ac.uk/sites/default/files/Awards_made/2010.pdf</gtr:fundingRef><gtr:id>E9C4640F-21BC-45C9-BE45-D485702CBE4B</gtr:id><gtr:sector>Academic/University</gtr:sector><gtr:start>2010-01-01</gtr:start></gtr:furtherFundingOutput></gtr:furtherFundingOutputs><gtr:impactSummaryOutputs><gtr:impactSummaryOutput><gtr:description>This is still to become apparent following the recent (late 2015) publication of the substantial single-authored book, Religious Authority and the Arts: Conversations in Political Theology. 
+Previous lecturers have included (in 2008) First Minister Alex Salmond.</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Public/other audiences</gtr:primaryAudience><gtr:year>2012</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Education for democratic citizenship - a role for the churches?</gtr:description><gtr:form>A formal working group, expert panel or dialogue</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>F9AB7B1C-A12E-40E8-B21E-BC2810552F41</gtr:id><gtr:impact>Keynote lecture, Conference of European Churches, Strasbourg, including collaboration with the Council of Europe
+
+http://csc.ceceurope.org/issues/education/
+
+The Conference on Education for Democratic Citizenship, October 5-7, Strasbourg, organised by the Church and Society Commission (CSC) of the Conference of European Churches (CEC), brought together members of churches and church organisations, clergy, lay,</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Policymakers/parliamentarians</gtr:primaryAudience><gtr:year>2011</gtr:year></gtr:disseminationOutput></gtr:disseminationOutputs><gtr:exploitationOutputs/><gtr:furtherFundingOutputs><gtr:furtherFundingOutput><gtr:amountPounds>15500</gtr:amountPounds><gtr:country>Unknown</gtr:country><gtr:currCode>GBP</gtr:currCode><gtr:currCountryCode>United Kingdom</gtr:currCountryCode><gtr:currLang>en_GB</gtr:currLang><gtr:description>Society for Educational Studies, Education, Security and Intelligence Studies seminar series grant</gtr:description><gtr:end>2017-03-02</gtr:end><gtr:fundingOrg>Society for Educational Sudies</gtr:fundingOrg><gtr:id>7504FB7D-D9C2-48B5-9A0C-D23D364AE4B0</gtr:id><gtr:sector>Learned Society</gtr:sector><gtr:start>2016-02-01</gtr:start></gtr:furtherFundingOutput><gtr:furtherFundingOutput><gtr:amountPounds>37000</gtr:amountPounds><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:currCode>GBP</gtr:currCode><gtr:currCountryCode>United Kingdom</gtr:currCountryCode><gtr:currLang>en_GB</gtr:currLang><gtr:description>Leverhulme Research Fellowship</gtr:description><gtr:end>2013-03-02</gtr:end><gtr:fundingOrg>The Leverhulme Trust</gtr:fundingOrg><gtr:fundingRef>https://www.leverhulme.ac.uk/sites/default/files/Awards_made/2010.pdf</gtr:fundingRef><gtr:id>E9C4640F-21BC-45C9-BE45-D485702CBE4B</gtr:id><gtr:sector>Academic/University</gtr:sector><gtr:start>2010-01-01</gtr:start></gtr:furtherFundingOutput><gtr:furtherFundingOutput><gtr:amountPounds>10000</gtr:amountPounds><gtr:country>Unknown</gtr:country><gtr:currCode>GBP</gtr:currCode><gtr:currCountryCode>United Kingdom</gtr:currCountryCode><gtr:currLang>en_GB</gtr:currLang><gtr:description>Philosophy of Education Society of Great Britain (PESGB) major grant award, seminar series on Philosophy, Literature and Education</gtr:description><gtr:end>2016-04-02</gtr:end><gtr:fundingOrg>Philosophy of Education Society of Great Britain (PESGB)</gtr:fundingOrg><gtr:id>66FB75EB-EFDA-478B-822F-65B970FA152B</gtr:id><gtr:sector>Learned Society</gtr:sector><gtr:start>2015-03-01</gtr:start></gtr:furtherFundingOutput></gtr:furtherFundingOutputs><gtr:impactSummaryOutputs><gtr:impactSummaryOutput><gtr:description>This is still to become apparent following the recent (late 2015) publication of the substantial single-authored book, Religious Authority and the Arts: Conversations in Political Theology. 
  However, based on the security and intelligence ramifications of the Political Theologies AHRC grant (the book was completed in the year of Charlie Hebdo) much of my recent work has drawn me into some major public-facing - multi-institution/ sector and cross-disciplinary - debate around the interface of education, security and intelligence studies. The event I convened at the British Academy in November 2015 - the Annual Seminar of the Society of Educational Studies - was one such event, the URL for which is below. The event coincided and marked the recent publication of my guest edited special issue of the British Journal of Educational Studies on Education, Security and Intelligence Studies, and has led to a major, innovative collaboration between several UK universities, defence organisations (Cranfield) and think tanks (for example the Royal United Services Institute). The AHRC research grant was speculative and high risk, with at the time of application, unknown or unpredictable results and in the five years since the award has produced a surprising and certainly unexpected results, innovations and findings of relevance to informing public debate as well as shaping new directions in inter- and cross-disciplinary research at the interface of politics, theology and aesthetics. 
  The British Academy event also marked the award of my second prize in the national book awards for the Society of Educational Studies, for On Holy Ground - a book which has provoked formal and informal responses from scholars across Europe and North America debating the role of religion in contemporary public life.</gtr:description><gtr:firstYearOfImpact>2015</gtr:firstYearOfImpact><gtr:id>F7289190-79F7-4BCD-882B-7A447519F667</gtr:id><gtr:impactTypes><gtr:impactType>Cultural,Societal</gtr:impactType></gtr:impactTypes><gtr:sector>Creative Economy,Education,Government, Democracy and Justice,Culture, Heritage, Museums and Collections,Security and Diplomacy</gtr:sector></gtr:impactSummaryOutput></gtr:impactSummaryOutputs><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>Project findings now published in a single-authored book: Liam Gearon (2015) Religious Authority and the Arts (New York, Bern, Berlin, Bruxelles, Frankfurt am Main, Oxford, Wien: Peter Lang). The transcript conversations which represent the substance of this volume are the result of a research project funded by the Arts and Humanities Research Council: Political Theologies: Responses of Religious Leaders and Authority Figures in England to Contemporary Issues of Freedom of Expression. Over nearly three years I interviewed a range of senior religious figures from the considerable diversity of religious traditions represented in England. The small scale project conducted around fifty interviews, and produced nearly half a million words of transcripted interviews, edited down to its present length, with some difficult selection of material which necessarily meant for reasons of space some insightful conversations were omitted. Those that have been included cannot be said to be systematic in its coverage of all religious traditions or even of all the voices within any one of them. What for me became a physical and political-theological journey around England - from metropolitan capital to rural hinterlands - provided nevertheless a snapshot of attitudes and ideas, political and theological responses to contemporary issues of freedom of expression. It was an extraordinary journey, physically and intellectually, and I have tried to capture the essence of the exchanges for as wide an audience as possible.</gtr:description><gtr:exploitationPathways>The most striking finding was the range of differing responses of religious authority figures to contemporary issues of freedom of expression. These I framed into a typology (of political-theological responses) which forms the structure of my forthcoming book, Religious Authority and the Arts: Conversations in Political Theology. Thus: Chapter 1 Political-Theological Convergence: The Church of England Chapter 2 Political-Theological Conservatism: Catholicism, Orthodox Christianity and Evangelical Protestantism Chapter 3 Political-Theological Crisis: Judaism Chapter 4 Political-Theological Conflict: Islam Chapter 5 Political-Theological (Re-) Construal (I): Hinduism Chapter 6 Political-Theological (Re-) Construal (II): Buddhism Chapter 7 Political-Theological Condemnation: What the secular humanists say Chapter 8 Political-Theological Critique: What the writers say In short, then, The topic of freedom of expression, which was the main focus of discussions, remains much in the public eye, and for some significant reasons. The research uncovered however some far deeper faultlines in the contemporary debate. A review of the literature on freedom of expression revealed a prevailing and still unfolding aetiology at the interface of aesthetics, politics and theology. This came later, only as the project developed. The initial and main concern was to provide some comparative understanding of how different religious traditions and not simply the one that seemed to be most often in the news related to these contemporary issues of freedom of expression. Here the interviewees brought a diverse series of reflections on historically rooted and conditioned responses, responses in other words conditioned that is by their traditions, their theology, to the contemporary context. It was this contemporary context which provided an acute focus to an issue perennial since antiquity. THE most important theoretical findings, which is leading to further work is the intensely contested space at the interface of politics, theology and aesthetics. 
  The work continues to be very timely - I was completing the introduction to the volume prior to publication when the events of Charlie Hebdo occurred in Paris, 2015. 

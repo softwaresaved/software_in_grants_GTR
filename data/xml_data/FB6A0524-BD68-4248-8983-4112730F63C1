@@ -21,7 +21,79 @@ In particular, this project will support UK universities' drive to be among the 
 
 Expertise in number theory is sought after by a number of employers outside academia including government agencies. Our workshop NGC and the linked summer school will help raise awareness of such career opportunities among both mathematicians and computer scientists in the UK.
 
-Within mathematics, number theory is a subject area that is much easier to popularize than many other areas. Many of the basic problems can be grasped by a GCSE mathematics student, even if the methods for resolving these demand many years of dedicated study. During the symposium year we plan to provide two talks aimed at the general public, by internationally renowned speakers, to raise public awareness and stimulate interest in this fascinating branch of science.</gtr:potentialImpactText><gtr:fund><gtr:end>2013-08-31</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2012-09-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>135359</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs><gtr:disseminationOutput><gtr:description>Number Theory, Geometry and Cryptography</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>C6E72B36-AEC2-43D5-BB4C-9AF9C3FC24E4</gtr:id><gtr:impact>Conference held at the University of Warwick, 1-5 July 2013
+Within mathematics, number theory is a subject area that is much easier to popularize than many other areas. Many of the basic problems can be grasped by a GCSE mathematics student, even if the methods for resolving these demand many years of dedicated study. During the symposium year we plan to provide two talks aimed at the general public, by internationally renowned speakers, to raise public awareness and stimulate interest in this fascinating branch of science.</gtr:potentialImpactText><gtr:fund><gtr:end>2013-08-31</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2012-09-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>135359</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs><gtr:disseminationOutput><gtr:description>Summer School - Number Theory for Cryptography</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>BD71BE31-F005-48F8-841B-9930E96A03D8</gtr:id><gtr:impact>A summer school held at the University of Warwick, 24-28 June 2013.
+Organizers: John Cremona (Warwick) and Samir Siksek (Warwick)
+
+Lecturers:
+Dan Bernstein, University of Illinois at Chicago
+Andreas Enge, Bordeaux
+Tanja Lange, Eindhoven
+Francois Morain, Ecole Polytechnique, Paris
+.</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Postgraduate students</gtr:primaryAudience><gtr:url>http://www2.warwick.ac.uk/fac/sci/maths/research/events/2012-2013/numbertheory/summerschool/</gtr:url><gtr:year>2013</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Iwasawa Theory and Galois Representations</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>9AEE69F5-D4C5-418A-B26B-5FE83C8A93A6</gtr:id><gtr:impact>Conference held at the University of Warwick, 8-12 April 2013
+
+
+
+Organizers: John Cremona (Warwick), John Coates (Cambridge), Samir Siksek (Warwick), Chris Wuthrich (Nottingham), Sarah Zerbes (UCL)
+
+
+
+Invited speakers:
+
+
+
+Konstantin Ardakov (QMUL)
+
+Denis Benois (Bordeaux)
+
+Laurent Berger (Lyon)
+
+Thanasis Bouganis (Heidelberg)
+
+Kevin Buzzard (Imperial)
+
+Xavier Caruso (Rennes)
+
+John Coates (Cambridge)
+
+Takako Fukaya (Chicago)
+
+Henri Johnston (Cambridge)
+
+Mahesh Kakde (KCL)
+
+Jack Lamplugh (Cambridge)
+
+David Loeffler (Warwick)
+
+Jan Nekov&amp;aacute;_ (Jussieu)
+
+Andreas Nickel (Bielefeld)
+
+Romyar Sharifi (Arizona)
+
+Sujatha Ramdorai (UBC).</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www2.warwick.ac.uk/fac/sci/maths/research/events/2012-2013/numbertheory/gal/</gtr:url><gtr:year>2013</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Rational Points - Geometric, Analytic and Explicit Approaches (University of Warwick)</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>2B31EC33-E3FB-4AA6-BD7C-7BCB034CA403</gtr:id><gtr:impact>Conference held at the University of Warwick, 27-31 May 2013
+Organizers: Roger Heath-Brown, John Cremona, Samir Siksek, Michael Stoll, Damiano Testa
+
+Invited Speakers:
+Martin Bright (American University of Beirut)
+Tim Browning (Bristol)
+Nils Bruin (Simon Fraser)
+Jean-Louis Colliot-Th&amp;eacute;l&amp;egrave;ne (CNRS/Universit&amp;eacute; Paris-Sud)
+Ulrich Derenthal (M&amp;uuml;nchen)
+Tim Dokchitser (Bristol)
+Tom Fisher (Cambridge)
+David Harari (Orsay)
+David Holmes (Leiden)
+David McKinnon (Waterloo)
+Jan Steffen M&amp;uuml;ller (Hamburg)
+Jonathan Pila (Oxford)
+Jeroen Sijsling (Warwick)
+Alexei Skorobogatov (Imperial)
+Maciej Ulas (Jagellonian)
+Ronald van Luijk (Leiden)
+Bianca Viray (Brown)
+Olivier Wittenberg (CNRS/ENS)
+Trevor Wooley (Bristol).</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www2.warwick.ac.uk/fac/sci/maths/research/events/2012-2013/numbertheory/rationalpoints/</gtr:url><gtr:year>2013</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Number Theory, Geometry and Cryptography</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>C6E72B36-AEC2-43D5-BB4C-9AF9C3FC24E4</gtr:id><gtr:impact>Conference held at the University of Warwick, 1-5 July 2013
 Organizers: John Cremona, Kenny Paterson, Samir Siksek, Nigel Smart
 Invited Speakers:
 
@@ -84,49 +156,7 @@ Jacques Tilouine (Paris 13)
 
 Lynne Walling (Bristol)
 
-Teruyoshi Yoshida (Cambridge).</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www2.warwick.ac.uk/fac/sci/maths/research/events/2012-2013/numbertheory/aut/</gtr:url><gtr:year>2013</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Iwasawa Theory and Galois Representations</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>9AEE69F5-D4C5-418A-B26B-5FE83C8A93A6</gtr:id><gtr:impact>Conference held at the University of Warwick, 8-12 April 2013
-
-
-
-Organizers: John Cremona (Warwick), John Coates (Cambridge), Samir Siksek (Warwick), Chris Wuthrich (Nottingham), Sarah Zerbes (UCL)
-
-
-
-Invited speakers:
-
-
-
-Konstantin Ardakov (QMUL)
-
-Denis Benois (Bordeaux)
-
-Laurent Berger (Lyon)
-
-Thanasis Bouganis (Heidelberg)
-
-Kevin Buzzard (Imperial)
-
-Xavier Caruso (Rennes)
-
-John Coates (Cambridge)
-
-Takako Fukaya (Chicago)
-
-Henri Johnston (Cambridge)
-
-Mahesh Kakde (KCL)
-
-Jack Lamplugh (Cambridge)
-
-David Loeffler (Warwick)
-
-Jan Nekov&amp;aacute;_ (Jussieu)
-
-Andreas Nickel (Bielefeld)
-
-Romyar Sharifi (Arizona)
-
-Sujatha Ramdorai (UBC).</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www2.warwick.ac.uk/fac/sci/maths/research/events/2012-2013/numbertheory/gal/</gtr:url><gtr:year>2013</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Selmer Groups, Descent and the Distribution of Ranks</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>3C83AAA3-12E5-4177-9289-1BBA1C34568C</gtr:id><gtr:impact>Conference held at Warwick, 24--28 September 2012.
+Teruyoshi Yoshida (Cambridge).</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www2.warwick.ac.uk/fac/sci/maths/research/events/2012-2013/numbertheory/aut/</gtr:url><gtr:year>2013</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Selmer Groups, Descent and the Distribution of Ranks</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>3C83AAA3-12E5-4177-9289-1BBA1C34568C</gtr:id><gtr:impact>Conference held at Warwick, 24--28 September 2012.
 
 
 
@@ -170,37 +200,7 @@ Christian Wuthrich, Nottingham
 
 
 
-There were over 60 international participants.</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www2.warwick.ac.uk/fac/sci/maths/research/events/2012-2013/numbertheory/selmergroups/</gtr:url><gtr:year>2012</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Rational Points - Geometric, Analytic and Explicit Approaches (University of Warwick)</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>2B31EC33-E3FB-4AA6-BD7C-7BCB034CA403</gtr:id><gtr:impact>Conference held at the University of Warwick, 27-31 May 2013
-Organizers: Roger Heath-Brown, John Cremona, Samir Siksek, Michael Stoll, Damiano Testa
-
-Invited Speakers:
-Martin Bright (American University of Beirut)
-Tim Browning (Bristol)
-Nils Bruin (Simon Fraser)
-Jean-Louis Colliot-Th&amp;eacute;l&amp;egrave;ne (CNRS/Universit&amp;eacute; Paris-Sud)
-Ulrich Derenthal (M&amp;uuml;nchen)
-Tim Dokchitser (Bristol)
-Tom Fisher (Cambridge)
-David Harari (Orsay)
-David Holmes (Leiden)
-David McKinnon (Waterloo)
-Jan Steffen M&amp;uuml;ller (Hamburg)
-Jonathan Pila (Oxford)
-Jeroen Sijsling (Warwick)
-Alexei Skorobogatov (Imperial)
-Maciej Ulas (Jagellonian)
-Ronald van Luijk (Leiden)
-Bianca Viray (Brown)
-Olivier Wittenberg (CNRS/ENS)
-Trevor Wooley (Bristol).</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www2.warwick.ac.uk/fac/sci/maths/research/events/2012-2013/numbertheory/rationalpoints/</gtr:url><gtr:year>2013</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Summer School - Number Theory for Cryptography</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>BD71BE31-F005-48F8-841B-9930E96A03D8</gtr:id><gtr:impact>A summer school held at the University of Warwick, 24-28 June 2013.
-Organizers: John Cremona (Warwick) and Samir Siksek (Warwick)
-
-Lecturers:
-Dan Bernstein, University of Illinois at Chicago
-Andreas Enge, Bordeaux
-Tanja Lange, Eindhoven
-Francois Morain, Ecole Polytechnique, Paris
-.</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Postgraduate students</gtr:primaryAudience><gtr:url>http://www2.warwick.ac.uk/fac/sci/maths/research/events/2012-2013/numbertheory/summerschool/</gtr:url><gtr:year>2013</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Explicit Methods for Modular Forms</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>90644F1E-D422-4210-A265-D915DDD76A8B</gtr:id><gtr:impact>A conference held at the University of Warwick, 18-22 March 2013.
+There were over 60 international participants.</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www2.warwick.ac.uk/fac/sci/maths/research/events/2012-2013/numbertheory/selmergroups/</gtr:url><gtr:year>2012</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Explicit Methods for Modular Forms</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>90644F1E-D422-4210-A265-D915DDD76A8B</gtr:id><gtr:impact>A conference held at the University of Warwick, 18-22 March 2013.
 
 
 

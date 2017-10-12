@@ -17,6 +17,9 @@ DATAFILENAME = "./data/projectsearch-1507107194469.csv"
 STOREFILENAME = "./output/"
 
 
+
+
+
 def import_csv_to_df(filename):
     """
     Imports a csv file into a Pandas dataframe
@@ -25,6 +28,13 @@ def import_csv_to_df(filename):
     """
     
     return pd.read_csv(filename)
+   
+    
+def drop_non_grants(df):
+
+    df = df[df['ProjectCategory'] == 'Research Grant']
+
+    return df
 
 
 def populate_dataframe(df):
@@ -33,12 +43,17 @@ def populate_dataframe(df):
     Convert XML files into a dataframe
     """
 
+    XML_PREPEND = 'file:///Users/user/Desktop/Git/software_in_grants_GTR/data/xml_data/'
+    XML_NAMESPACE = 'http://gtr.rcuk.ac.uk/gtr/api/project'
+
+
+
     def retrieve_xml_from_url(filename):
         """
         This was copied from Steve Crouch's training set collector repo:
         https://github.com/softwaresaved/training-set-collector
     
-        It's purpuse is to retrieve and return a GtR XML document from a given URL source.
+        It's purpose is to retrieve and return a GtR XML document from a given URL source.
         """
 
         # Initialise
@@ -55,17 +70,24 @@ def populate_dataframe(df):
         # The except part is mainly needed if you're getting the data from the API
         # rather than dragging it in from a file like we're doing in this program
         except (urllib.request.HTTPError, urllib.request.URLError) as err:
-            print(url + ": " + str(err))
+            print(filename + ": " + str(err))
 
         return xml_root
 
-    print(df['ProjectId'])
 
+    # Get list of all files we're looking for
+    all_xml_files = XML_PREPEND + df['ProjectId'].astype(str)
 
+#    print(df['ProjectId'])
+
+    for curr_xml in all_xml_files:
+        print(curr_xml)
+        xml_root = retrieve_xml_from_url(curr_xml)
+        print(xml_root)
+        xml_element = xml_root.find('.//gtr:title', {'gtr': XML_NAMESPACE})
+        print(xml_element)
 
     return df
-
-
 
 
 def find_keywords(df, search_col):
@@ -90,7 +112,11 @@ def find_keywords(df, search_col):
 
 def main():
     
+    # Get GTR summary data
     df = import_csv_to_df(DATAFILENAME)
+
+    # Remove anything that isn't a grant
+    df = drop_non_grants(df)
 
     all_data_df = populate_dataframe(df)
 

@@ -28,101 +28,7 @@ In particular, this project will support UK universities drive to be among the p
 
 Although the primary beneficiaries of this project will be researchers working in mathematics in general, and mathematical statistical mechanics and applied mathematics in particular, we envisage that the symposium will affect some areas of combinatorics, material science, economics, biology, physics, computer science and engineering. Several workshops will indeed explore the connections to these disciplines. In all these areas of research, the threshold phenomena like phase transitions play a central role and can be studied and analysed with the methods and basic principles of mathematical statistical mechanics. 
 
-In computer science, an area where the mathematics of phase transitions to be developed in the framework of the Symposium has a potentially immediate impact is the development of low density parity check codes (LDPC). This is one of the rare success stories where mathematical progress has quite directly had a significant practical commercially successful impact. The second area where this project has a potential practical impact is efficient Satisfiability Problems solving (SAT solving). Message passing algorithms based on statistical mechanics ideas seem to outperform standard methods on various important benchmarks. However, the theoretical understanding of message passing algorithms is currently very limited. To materialise the potential impact, we are going to proactively promote the symposium to the LDPC and SAT solving communities.</gtr:potentialImpactText><gtr:fund><gtr:end>2014-08-31</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2013-09-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>148681</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs><gtr:disseminationOutput><gtr:description>Models from Statistical Mechanics in Applied Sciences (University of Warwick)</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>109F7906-414E-42DD-A5FC-0E93BF8CC2DD</gtr:id><gtr:impact>Conference Held at University of Warwick, 9-13 September 2013
-
-Organisers: Stefan Grosskinsky (Warwick), Ostap Hryniv (Durham), Florian Theil (Warwick)
-
-The talks at the workshop highlighted various links concerning mathematical problems of phase transitions and applications in several branches of science.
-
-Invited speakers:
-
-Tibor Antal (Edingburgh)
-C&amp;eacute;cile Appert-Rolland (Orsay)
-Baruch Barzel (Harvard &amp;amp; Northeastern, Boston)
-Ginestra Bianconi (QM London)
-Richard Blythe (Edinburgh)
-Freddy Bouchet (Lyon)
-Tiziana di Matteo (King's College)
-Eric Vanden-Eijnden (NYU)
-Martin Evans (Edinburgh)
-Tobias Galla (Manchester)
-Alexander N. Gorban (Leicester)
-Malte Henkel (Nancy)
-Vassili Kolokoltsov (Warwick)
-Tobias Kuna (Reading)
-Alan McKane (Manchester)
-Satya Majumdar (Orsay)
-Mauro Mobilia (Leeds)
-David Mukamel (Weizmann Institute)
-Marco Sarich (FU Berlin)
-Andreas Schadschneider (Cologne)
-Gunter M. Sch&amp;uuml;tz (J&amp;uuml;lich)
-Sorin Solomon (Hebrew University Jerusalem)
-Didier Sornette (ETH Zurich)
-Julien Taillieur (Paris 7)
-Victor Yakovenko (Maryland)
-
-New research directions of research were identified and discussed. Future activity was concerning the application of phase transitions in applied sciences was planned.</gtr:impact><gtr:partOfOfficialScheme>true</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www2.warwick.ac.uk/fac/sci/maths/research/events/2013-2014/statmech/GHT</gtr:url><gtr:year>2013</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Gradient random fields (University of Warwick)</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>A63B0CBA-7F53-4A10-9792-05F27C1FC055</gtr:id><gtr:impact>Conference held at University of Warwick, 26-30 May 2014
-
-Organisers: S. Adams (Warwick), J.-D. Deuschel (Berlin), R. Koteck&amp;yacute; (Warwick)
-
-The talks during the workshop clarified various aspects of the theory of gradient fields including its multi-scale aspects and renormalisation group approach.
-
-Invited speakers:
-A. Abdesselam (Virginia); 
-R.Bauerschmidt (IAS Princeton); 
-M. Biskup (Los Angeles); 
-E. Bolthausen (Zurich); 
-D. Brydges (UBC Vancouver); 
-A. Chandra (Virginia), 
-C. Cotar (UCL London); 
-J. Ding (Stanford); 
-M. Disertori (Rouen/Bonn); 
-M. Hairer (Warwick), 
-T. Helmuth (UBC Vancouver); 
-T. Kumagai (Kyoto); 
-R. Rhodes (Paris); 
-H. Shen (Princeton) ; 
-T. Spencer (IAS Princeton); 
-A. Tomberg (UBC Vancouver); 
-V. Vargas (Paris); 
-H. Weber (Warwick); 
-O. Zeitouni (Weizmann; UMN)
-
-New research directions specified, links between renormalisation group approach and new regularity theory of stochastic differential equations were discussed.</gtr:impact><gtr:partOfOfficialScheme>true</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www2.warwick.ac.uk/fac/sci/maths/research/events/2013-2014/statmech/ADK</gtr:url><gtr:year>2014</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Phase transitions in discrete structures and computational problems (University of Warwick)</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>343B69C7-31A5-44BD-9753-605159BA918F</gtr:id><gtr:impact>Conference held at University of Warwick, 5-9 May 2014
-
-Organisers: A. Coja-Oghlan (Frankfurt), M. Jerrum (Queen Mary, University of London), O. Pikhurko (Warwick), G. Sorkin (LSE)
-
-Threshold phenomena in computer science were discussed from the point of view of mathematics of phase transitions.
-
-Invited Speakers:
-Dimitris Achlioptas (UCSC/RACTI)
-Victor Bapst (Frankfurt)
-Ton Coolen (Kings College, London)
-Charilaos Efthymiou (Frankfurt)
-Silvio Franz (Paris Sud)
-David Galvin (Notre Dame)
-David Gamarnik (MIT)
-Leslie Ann Goldberg (Oxford)
-Svante Janson (Uppsala)
-Mihyun Kang (TU-Graz)
-Florent Krzakala (Paris)
-Eyal Lubetzky (Microsoft, Seattle)
-Nicolas Macris (EPFL)
-Marc Mezard (Paris Sud)
-Mike Molloy (Toronto)
-Kosta Panagiotou (Munich)
-Dana Randall (Georgia Tech)
-Oliver Riordan (Oxford)
-Federico Ricci-Tersenghi (La Sapienza)
-David Saad (Aston, Birmingham)
-Guilhem Semerjian (ENS, Paris)
-Perla Sousi (Cambridge)
-Eric Vigoda (Georgia Tech)
-Lutz Warnke (Cambridge)
-Riccardo Zecchina (Torino)
-
-New directions linking research in computer science and mathematical statistical physics identified and discussed.</gtr:impact><gtr:partOfOfficialScheme>true</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www2.warwick.ac.uk/fac/sci/maths/research/events/2013-2014/statmech/CJPS</gtr:url><gtr:year>2014</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Combinatorics and Statistical Mechanics (University of Warwick)</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>3EB49443-2C27-4686-AF55-19618826FE4C</gtr:id><gtr:impact>Conference Held at University of Warwick, 7-11 April 2014
+In computer science, an area where the mathematics of phase transitions to be developed in the framework of the Symposium has a potentially immediate impact is the development of low density parity check codes (LDPC). This is one of the rare success stories where mathematical progress has quite directly had a significant practical commercially successful impact. The second area where this project has a potential practical impact is efficient Satisfiability Problems solving (SAT solving). Message passing algorithms based on statistical mechanics ideas seem to outperform standard methods on various important benchmarks. However, the theoretical understanding of message passing algorithms is currently very limited. To materialise the potential impact, we are going to proactively promote the symposium to the LDPC and SAT solving communities.</gtr:potentialImpactText><gtr:fund><gtr:end>2014-08-31</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2013-09-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>148681</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs><gtr:disseminationOutput><gtr:description>Combinatorics and Statistical Mechanics (University of Warwick)</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>3EB49443-2C27-4686-AF55-19618826FE4C</gtr:id><gtr:impact>Conference Held at University of Warwick, 7-11 April 2014
 
 Organisers: R. Koteck&amp;yacute; (Warwick), A. Sokal (UCL), D. Ueltschi (Warwick)
  
@@ -178,7 +84,101 @@ Stefan Teufel (T&amp;uuml;bingen)
 Simone Warzel (Munich)
 Jakob Yngvason (Vienna)
 
-In addition to the talks during the workshop, open problem sessions were organised where new research directions were identified discussed.</gtr:impact><gtr:partOfOfficialScheme>true</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www2.warwick.ac.uk/fac/sci/maths/research/events/2013-2014/statmech/SU</gtr:url><gtr:year>2014</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Computational coarse-graining of many-body systems (University of Warwick)</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>ADDE0C22-B8A3-4224-9032-022CA91D37E0</gtr:id><gtr:impact>Conference Held at University of Warwick, 9-13 December 2013
+In addition to the talks during the workshop, open problem sessions were organised where new research directions were identified discussed.</gtr:impact><gtr:partOfOfficialScheme>true</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www2.warwick.ac.uk/fac/sci/maths/research/events/2013-2014/statmech/SU</gtr:url><gtr:year>2014</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Models from Statistical Mechanics in Applied Sciences (University of Warwick)</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>109F7906-414E-42DD-A5FC-0E93BF8CC2DD</gtr:id><gtr:impact>Conference Held at University of Warwick, 9-13 September 2013
+
+Organisers: Stefan Grosskinsky (Warwick), Ostap Hryniv (Durham), Florian Theil (Warwick)
+
+The talks at the workshop highlighted various links concerning mathematical problems of phase transitions and applications in several branches of science.
+
+Invited speakers:
+
+Tibor Antal (Edingburgh)
+C&amp;eacute;cile Appert-Rolland (Orsay)
+Baruch Barzel (Harvard &amp;amp; Northeastern, Boston)
+Ginestra Bianconi (QM London)
+Richard Blythe (Edinburgh)
+Freddy Bouchet (Lyon)
+Tiziana di Matteo (King's College)
+Eric Vanden-Eijnden (NYU)
+Martin Evans (Edinburgh)
+Tobias Galla (Manchester)
+Alexander N. Gorban (Leicester)
+Malte Henkel (Nancy)
+Vassili Kolokoltsov (Warwick)
+Tobias Kuna (Reading)
+Alan McKane (Manchester)
+Satya Majumdar (Orsay)
+Mauro Mobilia (Leeds)
+David Mukamel (Weizmann Institute)
+Marco Sarich (FU Berlin)
+Andreas Schadschneider (Cologne)
+Gunter M. Sch&amp;uuml;tz (J&amp;uuml;lich)
+Sorin Solomon (Hebrew University Jerusalem)
+Didier Sornette (ETH Zurich)
+Julien Taillieur (Paris 7)
+Victor Yakovenko (Maryland)
+
+New research directions of research were identified and discussed. Future activity was concerning the application of phase transitions in applied sciences was planned.</gtr:impact><gtr:partOfOfficialScheme>true</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www2.warwick.ac.uk/fac/sci/maths/research/events/2013-2014/statmech/GHT</gtr:url><gtr:year>2013</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Phase transitions in discrete structures and computational problems (University of Warwick)</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>343B69C7-31A5-44BD-9753-605159BA918F</gtr:id><gtr:impact>Conference held at University of Warwick, 5-9 May 2014
+
+Organisers: A. Coja-Oghlan (Frankfurt), M. Jerrum (Queen Mary, University of London), O. Pikhurko (Warwick), G. Sorkin (LSE)
+
+Threshold phenomena in computer science were discussed from the point of view of mathematics of phase transitions.
+
+Invited Speakers:
+Dimitris Achlioptas (UCSC/RACTI)
+Victor Bapst (Frankfurt)
+Ton Coolen (Kings College, London)
+Charilaos Efthymiou (Frankfurt)
+Silvio Franz (Paris Sud)
+David Galvin (Notre Dame)
+David Gamarnik (MIT)
+Leslie Ann Goldberg (Oxford)
+Svante Janson (Uppsala)
+Mihyun Kang (TU-Graz)
+Florent Krzakala (Paris)
+Eyal Lubetzky (Microsoft, Seattle)
+Nicolas Macris (EPFL)
+Marc Mezard (Paris Sud)
+Mike Molloy (Toronto)
+Kosta Panagiotou (Munich)
+Dana Randall (Georgia Tech)
+Oliver Riordan (Oxford)
+Federico Ricci-Tersenghi (La Sapienza)
+David Saad (Aston, Birmingham)
+Guilhem Semerjian (ENS, Paris)
+Perla Sousi (Cambridge)
+Eric Vigoda (Georgia Tech)
+Lutz Warnke (Cambridge)
+Riccardo Zecchina (Torino)
+
+New directions linking research in computer science and mathematical statistical physics identified and discussed.</gtr:impact><gtr:partOfOfficialScheme>true</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www2.warwick.ac.uk/fac/sci/maths/research/events/2013-2014/statmech/CJPS</gtr:url><gtr:year>2014</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Gradient random fields (University of Warwick)</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>A63B0CBA-7F53-4A10-9792-05F27C1FC055</gtr:id><gtr:impact>Conference held at University of Warwick, 26-30 May 2014
+
+Organisers: S. Adams (Warwick), J.-D. Deuschel (Berlin), R. Koteck&amp;yacute; (Warwick)
+
+The talks during the workshop clarified various aspects of the theory of gradient fields including its multi-scale aspects and renormalisation group approach.
+
+Invited speakers:
+A. Abdesselam (Virginia); 
+R.Bauerschmidt (IAS Princeton); 
+M. Biskup (Los Angeles); 
+E. Bolthausen (Zurich); 
+D. Brydges (UBC Vancouver); 
+A. Chandra (Virginia), 
+C. Cotar (UCL London); 
+J. Ding (Stanford); 
+M. Disertori (Rouen/Bonn); 
+M. Hairer (Warwick), 
+T. Helmuth (UBC Vancouver); 
+T. Kumagai (Kyoto); 
+R. Rhodes (Paris); 
+H. Shen (Princeton) ; 
+T. Spencer (IAS Princeton); 
+A. Tomberg (UBC Vancouver); 
+V. Vargas (Paris); 
+H. Weber (Warwick); 
+O. Zeitouni (Weizmann; UMN)
+
+New research directions specified, links between renormalisation group approach and new regularity theory of stochastic differential equations were discussed.</gtr:impact><gtr:partOfOfficialScheme>true</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www2.warwick.ac.uk/fac/sci/maths/research/events/2013-2014/statmech/ADK</gtr:url><gtr:year>2014</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Computational coarse-graining of many-body systems (University of Warwick)</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>ADDE0C22-B8A3-4224-9032-022CA91D37E0</gtr:id><gtr:impact>Conference Held at University of Warwick, 9-13 December 2013
 
 Organisers: S. Adams (Warwick), J. Ball (Oxford), C. Le Bris (Paris), C. Ortner (Warwick)
 
