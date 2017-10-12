@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/B6FB652A-60C3-48DD-9A33-075D1F759B48"><gtr:id>B6FB652A-60C3-48DD-9A33-075D1F759B48</gtr:id><gtr:name>University of Warwick</gtr:name><gtr:department>Mathematics</gtr:department><gtr:address><gtr:line1>Warwickshire</gtr:line1><gtr:line4>Coventry</gtr:line4><gtr:line5>West Midlands</gtr:line5><gtr:postCode>CV4 7AL</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/B6FB652A-60C3-48DD-9A33-075D1F759B48"><gtr:id>B6FB652A-60C3-48DD-9A33-075D1F759B48</gtr:id><gtr:name>University of Warwick</gtr:name><gtr:address><gtr:line1>Warwickshire</gtr:line1><gtr:line4>Coventry</gtr:line4><gtr:line5>West Midlands</gtr:line5><gtr:postCode>CV4 7AL</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/AE4F8957-1B3F-4E0C-951A-5B9901A1F96F"><gtr:id>AE4F8957-1B3F-4E0C-951A-5B9901A1F96F</gtr:id><gtr:firstName>Samir</gtr:firstName><gtr:surname>Siksek</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/B042E8B2-047E-4D4C-BB04-35D0A07D34E5"><gtr:id>B042E8B2-047E-4D4C-BB04-35D0A07D34E5</gtr:id><gtr:firstName>Gavin</gtr:firstName><gtr:otherNames>Dennis</gtr:otherNames><gtr:surname>Brown</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/4359A00A-AE52-40E5-A0A2-4260920E3404"><gtr:id>4359A00A-AE52-40E5-A0A2-4260920E3404</gtr:id><gtr:firstName>Miles</gtr:firstName><gtr:surname>Reid</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/E63CA462-B3C1-4B43-BB17-85BE212C9C48"><gtr:id>E63CA462-B3C1-4B43-BB17-85BE212C9C48</gtr:id><gtr:firstName>Alessio</gtr:firstName><gtr:surname>Corti</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=EP%2FE060382%2F1"><gtr:id>FD75232B-6FCF-4BFB-AA13-DA326F4A8324</gtr:id><gtr:title>Warwick Symposium on Algebraic Geometry 2007-08</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/E060382/1</gtr:grantReference><gtr:abstractText>Algebraic geometry studies the solution sets of systems of polynomial equations. These solution sets are called algebraic varieties, and are viewed as geometric locuses, generalising the circle and hyperbola of analytic geometry. Algebraic geometry is a mature subject, and the geometric points of view and the extensive toolbox it provides for studying varieties apply to a great many problem in mathematics and its applications.Algebraic curves occur as the locus f(x,y)=0 in the plane, where f is a polynomial function of x and y; in low degree (conics and cubics) one gets useful conclusions by explicit manipulations of the equation, but as the degree of f increases, the kind of conclusions one hopes for are more abstract, and necessarily involve more theoretical machinery. One eventually learns to stop worrying that the points of the curve are not parametrised in terms of anything more elementary, and to accept the curve as a primary object of nature, possibly complicated, but to be understood in its own terms and used in subsequent constructions.Rather than the degree, a better invariant of an algebraic curve is its genus, that is, the number of handles (donut-like holes) in its topological model. Especially important is the case division between the three cases g=0 (a sphere) or g=1 (a donut) or g&amp;gt;=2 (a surface with many handles); the case g=1 gives the elliptic curves, that played a key role in Wiles' proof of Fermat's last theorem. For algebraic curves or Riemann surfaces, this trichotomy was clearly perceived already in the 19th century, together with its interpretation in terms of positively curved, flat, or hyperbolic non-Euclidean geometry; the picture of the three cases g=0 or g=1 or g&amp;gt;=2 serves as an icon for the whole subject.The same trichotomy was a distant model for Mori theory or the classification of higher dimensional varieties, one of the most intensively developed area of algebraic geometry from the late 1970s; this work led to Mori's 1990 Fields medal. This classification is at present the subject of a major breakthrough, with the recent announcement of the proof of the minimal model program in all dimensions. The first component of the Warwick symposium will develop and disseminate these new result, and exploit its many applications.Algebraic varieties, the solution sets of simultaneous polynomial equations, provide examples and techniques in number theory and in theoretical physics, in algebra and singularity theory and in other branches of geometry. Even in analysis, which mostly deals in infinite dimensional spaces, the ultimate aim is frequently a reduction to a finite dimensional solution set modelled on algebraic geometry. The Warwick symposium will include components on each of these topics, together with applications of algebraic geometry to other areas of mathematics.</gtr:abstractText><gtr:fund><gtr:end>2010-08-14</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2007-08-15</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>164568</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs><gtr:disseminationOutput><gtr:description>Workshop: Commutative algebra, complexes and computer algebra</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>3A29368E-D890-4949-A0CC-04E9FD117EEB</gtr:id><gtr:impact>Tue 27th May-Tue 3rd Jun 2008 Workshop: Commutative algebra, complexes
+and computer algebra
+
+Organised by Gavin Brown, David Eisenbud, Diane Maclagan, Miles Reid and Frank Schreyer
+
+Confirmed participants include: Mats Boij, Martin Bright, Gavin Brown, Nils Bruin, John Cremona, David Eisenbud, Tom Fisher, Gunnar Floystad, Anne Fruehbis-Krueger, Dan Grayson, Mike Harrison, KWAK Sijong, Cristina Lopez-Martin, Dianne Maclagan, David Mond, Stavros Papadakis, Miles Reid, Greg Sankaran, Hans Schoenemann, Frank Schreyer, SHIMADA Ichiro, Greg Smith, Bernd Sturmfels, Jan Tuitman,
+
+Graduate students: Maria Teresa Aranes, Carlos Barros, Martha Bernal, Stephen Couglan, Sarah Davis, Homero Gallegos, HAN Kang Jin, Umar Hayat, Bradford Gary Hovinen, Sohail Iqbal, Almar Kaid, Henning Lohne, Anna Morra. Alvaro Nolla, Muhammad Imran Qureshi, Lisema Rammea, Nils Rasmussen, Thotsaphon Thongjunthug, ZHOU Shengtian,
+
+Program: see
+http://homepages.warwick.ac.uk/~masda/WAG/May27-Jun3COM</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://homepages.warwick.ac.uk/~masda/WAG/May27-Jun3COM</gtr:url><gtr:year>2008</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Spring school on the geometry and integrability of TQFT and string theory</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>40475A44-A258-4E79-90D8-CED1E136C8C4</gtr:id><gtr:impact>Mon 24th Mar--Sat 29th Mar 2008 Spring school on the geometry and
+integrability of TQFT and string theory
+
+Organised by Miles Reid and Katrin Wendland
+
+Spring school
+March 24 - 29, 2008
+The geometric properties of spaces of topological quantum field theories, their origin in mathematics and their impact in string theory are the broad topics of this school. In particular, the meaning, applications, and generalisations of the tt* equations and the holomorphic anomaly equations will be taught. We aim at a graduate and nonspecialist audience with some basic knowledge in algebraic geometry and topological field theory or string theory. The school will consist of at least four lecture courses, comprised of about three lectures each.
+
+Speakers: Boris Dubrovin (SISSA), Claus Hertling (Mannheim), Marcos Mari&amp;ntilde;o (University of Geneva), Johannes Walcher (Zurich).
+
+Program: see
+http://home.mathematik.uni-freiburg.de/mathphys/konf/Warwick_TQFT/school_schedule.html</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://home.mathematik.uni-freiburg.de/mathphys/konf/Warwick_TQFT/school_schedule.html</gtr:url><gtr:year>2008</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Weekend workshop: Algebraic surfaces and symplectic 4-manifolds</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>2823FEC5-16A5-4F5C-B2DC-2103873D4DED</gtr:id><gtr:impact>Thu 7th-Tue 12th Feb 2008 Weekend workshop: Algebraic surfaces and
+symplectic 4-manifolds
+
+This is a weekend workshop on recent progress on algebraic surfaces and symplectic 4-manifolds. Topics include the recent construction of surfaces of general type with pg = 0 by deformation of symplectic fibrations, the geometry of fibred surfaces, commutative algebra and computer algebra methods, etc.
+
+Confirmed participants include
+Mohammed Abouzaid, Ingrid Bauer, Gavin Brown, Fabrizio Catanese, Alessio Corti, Simon Donaldson, KEUM JongHae, LEE Yongnam, Christian Liedtke, Cristina Lopez, Diane Maclagan, Michael Loenne, Margarida Mendes Lopes, Ernesto Mistretta, Jorge Neves, Dmitri Panov, Stavros Papadakis, PARK Jongil, Fabio Perroni, Roberto Pignatelli, Francesco Polizzi, Rares Rasdeaconu, Miles Reid, Ivan Smith, Francesco Zucconi
+
+graduate students 8 or 10 from UK, Stephen Coughlan, Elisa Tenni, Matteo Penegini, Nils Rasmussen, NITTA Yasufumi,
+
+graduate activities Thu 7th Feb
+First conference talk Thu 7th Feb 4-5
+about 12 talks on Fri, Sat and Mon
+Tue 12th Feb 12-1
+
+Program: see
+http://homepages.warwick.ac.uk/~masda/WAG/Feb7th-12th_wknd
+http://www2.warwick.ac.uk/fac/sci/maths/research/events/2007_2008/symposium/w5_7_12_feb_08.pdf</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www2.warwick.ac.uk/fac/sci/maths/research/events/2007_2008/symposium/w5_7_12_feb_08.pdf</gtr:url><gtr:year>2008</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>UK-Japan Winter School: Algebraic and Symplectic Geometry</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>8A9AE03B-8F9A-4C9C-B4F5-9354B12B9B8D</gtr:id><gtr:impact>Mon 7th-Fri 11th Jan 2008 UK-Japan Winter School: Algebraic and
+Symplectic Geometry
+
+Dedicated to the Memory of James Eells (1926-2007) Obituary written by David Elworthy:
+https://nms.kcl.ac.uk/juergen.berndt/conferences/UK-Japan08/Jim.Independent.pdf
+
+Organized by Keio University COE21 and Warwick Mathematics Research Centre
+
+Mini Courses:
+Alessio Corti (Imperial College London)
+Nigel Hitchin (Oxford University)
+Richard Thomas (Imperial College London)
+
+Invited Speakers:
+Tom Bridgeland (Sheffield University)
+Ryushi Goto (Osaka University)
+Daniel Huybrechts (Bonn University and Imperial College London) Frances Kirwan (Oxford University) Toshiki Mabuchi (Osaka University) Tomoo Matsumura (Max Planck Institute for Mathematics) Daisuke Matsushita (Hokkaido University) Andrei Mustata (University College Cork) Yoshinori Namikawa (Osaka University) Yuji Sano (Institut des Hautes tudes Scientifiques) Egor Shelukhin (Tel Aviv University) Bal&amp;aacute;zs Szendroi (Oxford University) Takehiko Yasuda (Kyoto University)
+
+Organizers:
+J&amp;uuml;rgen Berndt (University College Cork), John Bolton (Durham University), Martin Guest (Tokyo Metropolitan University), Yoshiaki Maeda (Keio University), Keiji Oguiso (Keio University), Miles Reid (University of Warwick),
+
+Scientific Committee:
+David Elworthy (University of Warwick), Yuji Ito (Tokai University), Hideki Omori (Tokyo University of Science)
+
+Program: see
+https://nms.kcl.ac.uk/juergen.berndt/conferences/UK-Japan08/ws2008home.html
+https://nms.kcl.ac.uk/juergen.berndt/conferences/UK-Japan08/ws2008time.html</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>https://nms.kcl.ac.uk/juergen.berndt/conferences/UK-Japan08/ws2008home.html</gtr:url><gtr:year>2008</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>WAG Concluding Conference</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>07AE2B9A-447F-46CD-8B48-B8760F06DC8D</gtr:id><gtr:impact>Mon 21st-Fri 25th Jul 2008 WAG Concluding Conference
+
+Confirmed participants include: Gavin Brown, Mirel Caibar, Alessio Corti, Alastair Craw, Mark Gross, ITO Yukari, Anne-Sophie Kaloghiros, KAWAMATA Yujiro, Vlad Lazic, Cristina Lopez, Margarida Mendes Lopes, MIYAOKA Yoichi, Yuri Prokhorov, Miles Reid, Greg Sankaran, Mathias Schulze, SUZUKI Kaori, Ravi Vakil, Michael Wemyss,
+
+Graduate students: Stephen Coughlan, Sarah Davis, Umar Hayat, Sohail Iqbal, Alvaro Nolla, Nils Rasmussen, SEKIYA Yuhi
+
+Program: see
+http://homepages.warwick.ac.uk/~masda/WAG/Jul21-25Final</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://homepages.warwick.ac.uk/~masda/WAG/Jul21-25Final</gtr:url><gtr:year>2008</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Workshop: Toric degenerations, tropical geometry and mirror symmetry</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>784766BC-7DC5-4DB1-9DDB-9E720904F673</gtr:id><gtr:impact>Mon 17th-Wed 19th Sep 2007 Workshop: Toric degenerations, tropical
+geometry and mirror symmetry
+
+The themes will include
+
+1. Understanding mirror symmetry via affine structures on manifolds
+
+2. Tropical geometry and its relations to enumerative geometry
+
+3. Mirror symmetry for Fano manifolds
+
+4. Homological mirror symmetry
+
+5. Other topics: Open Gromov-Witten invariants, cluster varieties, ...
+
+The workshop aims to explain unifying themes underyling recent ideas that are becoming prevalent in the study of mirror symmetry, based around the idea that mirror pairs are controlled by an underlying real affine manifold. This has shown up in various guises: in the work of Gross/Siebert and Kontsevich/Soibelman exploring the B-side of mirror symmetry; in the work of Mikhalkin, Nishinou/Siebert, Gathmann/Markwig and others on enumerative aspects of tropical geometry, in work of Abouzaid on homological mirror symmetry for toric varieties, and so on.
+The intention is to explain some of these ideas in an elementary fashion, accessible to graduate students, as well as to have some more advanced research talks.
+
+Confirmed participants
+Tom Coates, Alessio Corti, Mark Gross, Ilia Itenberg, Ludmil Katsarkov, Melissa Liu, Diane Maclagan, Paul Seidel, Bernd Siebert, (Vladimir Fock?)
+
+(Note that Mark Gross will give colloquial lecture the previous Fri 14th Sep.)
+
+Program: see
+http://homepages.warwick.ac.uk/~masda/WAG/SepWeek3
+http://www2.warwick.ac.uk/fac/sci/maths/research/events/2007_2008/symposium/3_sept_wks07.pdf</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www2.warwick.ac.uk/fac/sci/maths/research/events/2007_2008/symposium/3_sept_wks07.pdf</gtr:url><gtr:year>2007</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Weekend workshop: Explicit methods for 3-folds</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>0C03D98C-BD8E-4B08-9A57-4BAAE42938FC</gtr:id><gtr:impact>Thu 13th-Tue 18th Mar 2008 Weekend workshop: Explicit methods for
+3-folds
+
+A weekend workshop on recent progress in 3-folds
+
+Confirmed participants include Brown, Cheltsov, Corti, Dolgachev, Hacking, Kovacs, Cristina Lopez, LUO Tie, Mella, Mendes Lopes, Nikulin, Papadakis, Pignatelli, Prokhorov, Reid, Sankaran, Shepherd-Barron, Jan Stevens, Szendroi, XU Chenyang, Zucconi
+
+graduate students
+(about 10 locals +) Dimitra Kosta, Andrew Wilson, Brian Jurgelewicz
+
+Program: see
+http://homepages.warwick.ac.uk/~masda/WAG/Mar13th-18th_wknd</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://homepages.warwick.ac.uk/~masda/WAG/Mar13th-18th_wknd</gtr:url><gtr:year>2008</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Conference on Moduli Spaces</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>DB8EA147-BF0F-4B21-BB5D-68DD63792307</gtr:id><gtr:impact>Mon 7th-Fri 11th Jul 2008 Conference on Moduli Spaces
+
+Organised by Farkas, Mukai, Reid, Sankaran and Shepherd-Barron
+
+Confirmed participants include: ABE Takeshi, Fedya Bogomolov, Gavin Brown, Robert Carls, CHOI Youngook, Paolo Cragnolini, Robin de Jong, Dai Evans, Gabi Farkas, Samuel Grushevsky, Klaus Hulek, Israel Moreno-Mejia, Anne-Sophie Kaloghiros, KIM Seonja, KIM Youngrock, Frances Kirwan (Thu only), KONDO Shigeyuki, Adrian Langer, Cristina Lopez-Martin, Diane Maclagan, MUKAI Shigeru, NASU Hirokazu, Miles Reid, Greg Sankaran, Nick Shepherd-Barron, Samir Siksek, Nadya Timofeevna, Sandro Verra, Michael Wemyss,
+
+Hamid Ahmadinezhad, Martha Bernal, Stephen Coughlan, Sarah Davis, Umar Hayat, Homero Gallegos, Umar Hayat, Sohail Iqbal, Paul Larsen (Michigan), Alvaro Nolla, Nils Rasmussen, Elisa Tenni, ZHOU Shengtian,
+
+Program see
+http://www.warwick.ac.uk/~masda/WAG/Jul7th-11thMOD</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www.warwick.ac.uk/~masda/WAG/Jul7th-11thMOD</gtr:url><gtr:year>2008</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>School: Explicit construction of moduli and parameter spaces</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>BFD2DF7F-A4C6-48E8-8CC2-C239AF9D742F</gtr:id><gtr:impact>Mon 3rd-Fri 7th Sep 2007 School: Explicit construction of moduli and
+parameter spaces
+
+Week 1
+
+Mon 3rd-Fri 7th Sep
+&amp;quot;Explicit construction of moduli and parameter spaces&amp;quot;
+Lecturers: Alastair Craw (Glasgow) and Diane Maclagan (Warwick)
+
+The school is organised in collaboration with the long-running Polish September school, with Buczynski, Langer and Wisniewski as coorganisers.
+The plan is to have 2 lecture courses accessible to beginning graduate students in algebraic geometry, together with problem sessions and ample time for discussion. There will be room for a number of invited lectures or contributions from participants.
+
+Overview:
+
+These lectures are intended as an introduction to some of the ways that moduli problems arise in algebraic geometry, with strong emphasis on explicit descriptions of the resulting spaces.
+
+One place where such problems arise is when one is interested in a family of geometric objects, such as subschemes of a projective variety.
+By restricting to objects satisfying a numerical condition, like Hilbert polynomial of a subscheme, one may obtain a moduli space of such objects. One can then expect to improve one's understanding of the objects by studying geometric or topological properties of the moduli space itself, including dimension, connectedness and the structure of its irreducible components.
+
+For a second situation, imagine that one is interested in geometric or topological properties of a given scheme. In this case, it may be possible to introduce a moduli problem for which the underlying moduli space is the scheme in question and, moreover, where the tautological family on the moduli space gives insight into properties of the space.
+For instance, if the tautological family defines a collection of vector bundles on the scheme, do the classes of these bundles freely generate the Grothendieck group of vector bundles, say, or even the bounded derived category of coherent sheaves?
+
+Outline
+
+ Maclagan - Hilbert schemes
+ Lecture 1: Introduction/Hilbert scheme of subschemes of P^n; Lecture 2: Details of constructions/connectedness of the Hilbert scheme; Lecture 3: Hilbert schemes of points on surfaces; Lecture 4: Multigraded Hilbert schemes; Lecture 5: Examples of multigraded Hilbert schemes (GHilb for abelian
+ groups, Hilbert schemes of toric varieties, toric Hilbert
+ schemes, etc), open questions.
+
+ Craw - Quiver representations in toric geometry Lecture 1: Introduction/GIT for torus actions; Lecture 2: Projective toric varieties; Lecture 3: Quivers of sections and multilinear series; Lecture 4: Bound quivers, and toric varieties as fine moduli of algebras; Lecture 5: Bound McKay quiver and the coherent component, open questions.
+
+Program: see
+http://homepages.warwick.ac.uk/~masda/WAG/SepWeek1
+http://www2.warwick.ac.uk/fac/sci/maths/research/events/2007_2008/symposium/3_sept_wks07.pdf</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www2.warwick.ac.uk/fac/sci/maths/research/events/2007_2008/symposium/3_sept_wks07.pdf</gtr:url><gtr:year>2007</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>2007   School: Topics in HD MMP -- an instructional workshop</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>E7A8FD9B-DAB9-4609-9F15-38FB2CD0DEDE</gtr:id><gtr:impact>Mon 10th-Sat 15th Sep 2007 School: Topics in HD MMP -- an
+instructional workshop
+
+The themes will include
+
+1. Explicit Mori theory of 3-folds
+
+2. Criteria for finite generation of graded and multigraded algebra
+
+3. The biregular and birational geometry of Fano varieties
+
+4. Introductory topics in Shokurov's approach to HD MMP and the recent breakthrough of [BCHM]
+
+5. Other topics
+
+The workshop aims to give a first presentation of some of the ideas behind the minimal model program for 3-folds and higher dimensional varieties, in a way designed to be accessible to starting graduate students. The intention is to set up a base camp by introducing the general HD MMP, on which there have been major recent breakthroughs. We also plan regular seminars at Warwick on these topics during the term, and a further introductory workshop over the weekend Thu 1st--Mon 5th Nov to mount a more concerted attack on this material, in preparation for the major research conference Wed 12th--Thu 20th Dec 2007.
+
+Confirmed speakers
+Birkar, Brown, Caibar, Corti, Kaloghiros, Lazic, Reid,
+
+Program: see
+http://homepages.warwick.ac.uk/~masda/WAG/SepWeek2
+http://www2.warwick.ac.uk/fac/sci/maths/research/events/2007_2008/symposium/3_sept_wks07.pdf</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www2.warwick.ac.uk/fac/sci/maths/research/events/2007_2008/symposium/3_sept_wks07.pdf</gtr:url><gtr:year>2007</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Weekend workshop: Introduction to the recent breakthroughs in HD MMP</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>DA270FFD-17D3-42B9-BBFB-44A305344D0D</gtr:id><gtr:impact>Thu 1st-Tue 6th Nov 2007 Weekend workshop: Introduction to the recent
+breakthroughs in HD MMP
+
+&amp;quot;Minimal models in higher dimensions -- an introduction to the recent breakthrough&amp;quot;
+
+The purpose of the weekend meeting it to run an introductory workshop on Shokurov's program for the existence of log flips and minimal models of n-folds, and the recent breakthroughs of Hacon and McKernan and [BCHM], in preparation for the major research conference Wed 12th--Thu 20th Dec 2007.
+
+Confirmed speakers include
+Birkar, Caibar, Corti, Lazic, Reid,
+
+For those who would like some preliminary homework in this technically demanding area, I recommend the MSRI video of lectures by Mustatsa, Corti, Koll\'ar and Hacon Google MSRI hot topic minimal model or dial http://www.msri.org/calendar/workshops/WorkshopInfo/418/show_workshop
+
+Program: see
+http://homepages.warwick.ac.uk/~masda/WAG/Nov1st-6th_wknd
+http://www2.warwick.ac.uk/fac/sci/maths/research/events/2007_2008/symposium/3_4_nov_prog.pdf</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www2.warwick.ac.uk/fac/sci/maths/research/events/2007_2008/symposium/3_4_nov_prog.pdf</gtr:url><gtr:year>2007</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Conference: Geometry and topological field theories</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>DD294BA5-D36B-4909-B213-32EECB8A4A21</gtr:id><gtr:impact>Mon 31st Mar--Sat 5th Apr 2008 Conference: Geometry and topological
+field theories
+
+The conference will be devoted to recent developments in the study of the geometry and integrability of topological QFT and string theory. The spectrum of ideas we will explore range from the physics of string theory, topological QFT, the formalism of tt* equations and their classical limits, to mathematical rigorous notions such as Dubrovin's Frobenius structures on manifolds and Hertling's TERP structures.
+Furthermore, the current developments on extending these structures to open strings, to manifolds with prescribed submanifolds and bundles, the so-called D-branes, will be a focus of the conference.
+
+Confirmed speakers:
+
+Murad Alim (LMU M&amp;uuml;nchen), Giulio Bonelli (SISSA), Vincent Bouchard (Harvard), Andrea Brini (SISSA), Vicente Cort&amp;eacute;s (Hamburg), Duiliu-Emanuel Diaconescu (Rutgers), Ezra Getzler (Northwestern), Victor Ginzburg (Chicago), Manfred Herbst (CERN), Hiroshi Iritani (Imperial College London), Ludmil Katzarkov (Miami and IAS Princeton), Yukiko Konishi (Kyoto), Andrey Losev (ITEP), Andy Neitzke (IAS Princeton), Masa-Hiko Saito (Kobe), Emanuel Scheidegger (Augsburg), Christian Sevenheck (Mannheim), Sergey Shadrin (ETH Z&amp;uuml;rich), Duco van Straten (Mainz), Atsushi Takahashi (Osaka), Johannes Walcher (Zurich)
+
+Program: see
+http://home.mathematik.uni-freiburg.de/mathphys/konf/Warwick_TQFT/conf_schedule.html</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://home.mathematik.uni-freiburg.de/mathphys/konf/Warwick_TQFT/conf_schedule.html</gtr:url><gtr:year>2008</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Conference on Higher dimensional minimal model program</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>F486A32A-44D0-49E7-937A-80E408D16D48</gtr:id><gtr:impact>Wed 12th-Thu 20th Dec 2007 Conference on Higher dimensional minimal
+model program
+
+Conference: Higher dimensional minimal model program (HD MMP) Wed 12th--Thu 20th Dec 2007 Organised by Corti, McKernan and Reid
+
+The subject dates back to work of Mori, Kawamata, Reid, Shokurov and others in the late 1970s, but has seen tremendous progress since the 1990s; it formed a major component of our Newton Institute program in 2002, and is the subject of the forthcoming book of Corti and others.
+This work culminates in the recent announcement in results of [Birkar, Cascini, Hacon, McKernan] of the completion of important components of the (log) minimal model program in all dimensions. We intend to devote the first component of WAG07-08 to the developments and dissemination of these results, which by then should have matured. The solution to this long-standing series of conjectures opens up new research directions within Mori theory, as well as having many potential implications for existing problems of higher dimensional algebraic geometry, singularity theory and Diophantine geometry. This is a rich field of fruit ripe for the picking.
+
+Participants. Confirmed: Birkar, Brown, Corti, Fujino, Hacon, Koll{\'a}r, McKernan, Reid, Takagi, Zucconi
+
+Program: see
+http://www2.warwick.ac.uk/fac/sci/maths/research/events/2007_2008/symposium/sympwks12_19dec07/</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www2.warwick.ac.uk/fac/sci/maths/research/events/2007_2008/symposium/sympwks12_19dec07/</gtr:url><gtr:year>2007</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>2008  Instructional Workshop: Surfaces, geometry and arithmetic</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>0C35E686-3AF6-4970-92EE-25CA57592B3B</gtr:id><gtr:impact>Mon 14th-Fri 18th Apr 2008 Instructional Workshop: Surfaces, geometry and arithmetic
+
+Organizers/Instructors
+Martin Bright, Ronald van Luijk, Samir Siksek, Damiano Testa
+
+Prerequisites. Some familiarity with basic algebraic and arithmetic geometry is assumed, at the level of the first two chapters of Silverman's book &amp;quot;Arithmetic of Elliptic Curves&amp;quot;.
+
+Preliminary Reading. Participants may find it helpful to work through the first few chapters of &amp;quot;Chapters on Algebraic Surfaces&amp;quot; by Miles Reid (available online). Preliminary reading on group cohomology will also be useful, a good reference is chapter 2 of Milne's notes on Class Field Theory.
+
+Particpants from universities belonging to the GTEM network might be able to obtain travel and accommodation expenses from GTEM; please contact your local scientist-in-charge.
+
+This event is part of the April-June Active Period in Arithmetic Geometry and the 2007-2008 Warwick EPSRC Symposium on Algebraic Geometry
+
+Program: see
+http://www.maths.warwick.ac.uk/~siksek/arith/
+http://homepages.warwick.ac.uk/~maseap/arith/surfaces.html</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www.maths.warwick.ac.uk/~siksek/arith/</gtr:url><gtr:year>2008</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>WAG07-08: 2007-08 Warwick EPSRC symposium on Algebraic Geometry</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>C1F60755-3A74-4CB4-920F-DF5F4CADCF54</gtr:id><gtr:impact>WAG07-08: 2007-08 Warwick EPSRC symposium on Algebraic Geometry Main organisers: Miles Reid, Alessio Corti (Imperial)
+Co-organisers: Gavin Brown (Kent), Gavril Farkas (Austin Texas and Humboldt U Berlin), Frank Schreyer (Saarbruecken), Samir Siksek (Warwick), Katrin Wendland (Augsburg) and many others
+
+There have been 3 previous Warwick EPSRC symposia devoted to algebraic geometry, in 1970-71 (led by David Mumford) and in 1982-83 and 1995-96 (led by me). WAG07-08 also follows the Nute program HDG02.
+
+Calendar of events
+
+Mon 3rd-Fri 7th Sep 2007 School: Explicit construction of moduli and
+parameter spaces
+Mon 10th-Sat 15th Sep 2007 School: Topics in HD MMP -- an
+instructional workshop
+Mon 17th-Wed 19th Sep 2007 Workshop: Toric degenerations, tropical
+geometry and mirror symmetry
+Thu 1st-Tue 6th Nov 2007 Weekend workshop: Introduction to the recent
+breakthroughs in HD MMP
+Wed 12th-Thu 20th Dec 2007 Conference on Higher dimensional minimal
+model program
+Mon 7th-Fri 11th Jan 2008 UK-Japan Winter School: Algebraic and
+Symplectic Geometry
+Thu 7th-Tue 12th Feb 2008 Weekend workshop: Algebraic surfaces and
+symplectic 4-manifolds
+Thu 13th-Tue 18th Mar 2008 Weekend workshop: Explicit methods for
+3-folds
+Mon 24th Mar--Sat 29th Mar 2008 Spring school on the geometry and
+integrability of TQFT and string theory
+Mon 31st Mar--Sat 5th Apr 2008 Conference: Geometry and topological
+field theories
+Mon 14th-Fri 18th Apr 2008 School: Surfaces, geometry and arithmetic
+Tue 27th May-Tue 3rd Jun 2008 Workshop: Commutative algebra, complexes
+and computer algebra
+Mon 16th-Sat 21st Jun 2008 Rational points on curves and HD varieties
+Mon 7th-Fri 11th Jul 2008 Conference on Moduli Spaces
+Mon 21st-Fri 25th Jul 2008 WAG Concluding Conference
+
+For more detail, see:
+http://homepages.warwick.ac.uk/staff/Miles.Reid/WAG/
+http://www2.warwick.ac.uk/fac/sci/maths/research/events/2007_2008/symposium/</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www2.warwick.ac.uk/fac/sci/maths/research/events/2007_2008/symposium/</gtr:url><gtr:year>2007,2008</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Rational points on curves and HD varieties</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>8E29E28F-AD98-48F3-AAB1-F63E505D16ED</gtr:id><gtr:impact>Mon 16th-Sat 21st Jun 2008 Rational points on curves and HD varieties
+
+organisers: Jean-Louis Colliot-Th&amp;eacute;l&amp;egrave;ne, Samir Siksek, Alexei Skorobogatov, Michael Stoll
+
+Background: Suppose X is a curve defined over Q with X(Q) non-empty.
+Then it known that X(Q) is either parametrizable or a finitely-generated abelian group or a finite set according to whether the genus of X is 0, 1, or at least 2. This is an example of how geometry determines arithmetic.
+
+Yet, there is still no algorithm, which given a curve X of genus at least 1, is guaranteed to determine whether X(Q) is non-empty. Moreover, even if X(Q) is non-empty, there is no known algorithm guaranteed to determine the basis of the Mordell-Weil group in genus 1, or the set itself in genus 2. Despite this seemingly bleak outlook, the last few years have seen the development and refinement of many viable strategies, which although not guaranteed to answer these questions in each instance, are likely to be successful in doing so.
+
+For varieties of higher dimension, much less is known about how the geometry determines the arithmetic, although this has become a subject of intensive research. Here experimentation is likely to provide conjectural partial answers to this fundamental question.
+
+Aims: We bring together many leading experts in the subject and aim to give them an opportunity to present their latest results and insights.
+To create a situation that leads to fruitful exchange, the participants include both people working on the theoretical side of the subject, and those working on the explicit or experimental side. Through this we hope to achieve a better understanding of the current state of the art and to provide the basis for animated discussions. More importantly, we aim to identify and explore the most promising directions for future work.
+
+Format: The conference will start on Monday morning and finish on Friday at about midday. There will be at most four lectures per day, to give the participants enough time for discussions and collaborations.
+
+Participants: Maria Aranes (Warwick), Carlos Barros (Warwick), Alex Bartel (Cambridge), Martha Bernal (Warwick), Nicolas Billerey (jussieu), Martin Bright (Bristol), Tim Browning (Bristol), Nils Bruin (Simon Fraser), Jean-Louis Colliot-Th&amp;eacute;l&amp;egrave;ne (Orsay), Stephen Coughlan (Warwick), John Cremona (Warwick), Brendan Creutz (Bremen), Sarah Davis (Warwick), Cyril Demarche (Orsay), Jamshid Derakhshan (Oxford), Ulrich Derenthal (Zurich), Tim Dokchitser (Cambridge), Noam Elkies (Harvard), Tom Fisher (Cambridge), Victor Flynn (Oxford), Homero Gallegos (Warwick), Jean Gillibert (Bordeaux), David Harari (Orsay), Michael Harrison (Sydney), William Hart (Warwick), Michael Harvey (Bristol), Umar Hayat (Warwick), Roger Heath-Brown (Oxford), Mostafa Ibrahim (Warwick), Evis Ieronymou (Imperial), Sohail Iqbal (Warwick), Kamal Khuri-Makdisi (American University Beirut), Minhyong Kim (University College London), Ronald van Luijk (Warwick), Odile Lecacheux (Paris 6), Daniel Loughran (Bristol), Valery Mahe (East Anglia), Gihan Marasingha (Oxford), Tzanko Matev (Bremen), Anna Morra (Bordeaux), Jan Mueller (Bremen), Nic Niedermowwe (Oxford), Ambrus Pal (Imperial), Emmanuel Peyre (Universit&amp;eacute; Joseph Fourier), Bjorn Poonen (Berkeley), Thomas Preu (Zurich), Miles Reid (Warwick), Mohammad Sadek (Cambridge), Edward Schaefer (Santa Clara), Samir Siksek (Warwick), Graham Sills (Cambridge), Denis Simon (Caen), Alexei Skorobogatov (Imperial), Michael Stoll (Bremen), Peter Swinnerton-Dyer (Cambridge), Damiano Testa (Bremen), Thotsaphon Thongjunthug (Warwick), Jan Tuitman (Leuven), Yukihiro Uchida (Nagoya), Tony Varilly (Berkeley), Bianca Viray (Berkeley), Mark Watkins (Bristol), Olivier Wittenberg (Strasbourg), Trevor Wooley (Bristol), Christian Wuthrich (Nottingham), Andrei Yafaev (University College
+London) Shengtian Zhou (Warwick).
+
+This event is part of the April-June Active Period in Arithmetic Geometry and the 2007-2008 Warwick EPSRC Symposium on Algebraic Geometry
+
+Program (pdf)
+http://homepages.warwick.ac.uk/~maseap/arith/ratpoints.html
+http://homepages.warwick.ac.uk/~maseap/arith/ratprog.pdf</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://homepages.warwick.ac.uk/~maseap/arith/ratpoints.html</gtr:url><gtr:year>2008</gtr:year></gtr:disseminationOutput></gtr:disseminationOutputs><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>The 2007-2008 Warwick EPSRC Symposium on Algebraic Geometry ran an extended program of workshops and research activities involving many UK, European and world experts. One of the main highlights was the recent breakthrough on the Higher Dimensional Minimal Model Program based around finite generation of canonical rings. This topic formed the backdrop to several of the workshops, but the symposium also contained periods promoting explicit methods in algebraic geometry, arithmetic algebraic geometry, commutative algebra methods, moduli theory, and other topics in modern algebraic geometry.</gtr:description><gtr:id>80C6EF85-3678-4BA5-BD36-294342FC4E3C</gtr:id><gtr:sectors/><gtr:url>http://www2.warwick.ac.uk/fac/sci/maths/research/events/2007_2008/symposium</gtr:url></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/06924EC9-518F-43DC-B1DA-407C8EB5C9EC"><gtr:id>06924EC9-518F-43DC-B1DA-407C8EB5C9EC</gtr:id><gtr:title>New outlook on Mori theory, II</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/ab92df628cf23b68d6569ace739305f1"><gtr:id>ab92df628cf23b68d6569ace739305f1</gtr:id><gtr:otherNames>Alessio Corti</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2010-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/EB4CA127-7B1F-4870-8EBB-3685DF3D1C98"><gtr:id>EB4CA127-7B1F-4870-8EBB-3685DF3D1C98</gtr:id><gtr:title>Fano 3-folds in codimension 4, Tom and Jerry. Part I</gtr:title><gtr:parentPublicationTitle>Compositio Mathematica</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/26abd53b6933c80866a7eb492ea6efa6"><gtr:id>26abd53b6933c80866a7eb492ea6efa6</gtr:id><gtr:otherNames>Brown G</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/0AB8A307-A7C6-4E68-9867-3168157C27F5"><gtr:id>0AB8A307-A7C6-4E68-9867-3168157C27F5</gtr:id><gtr:title>Campedelli surfaces with fundamental group of order 8</gtr:title><gtr:parentPublicationTitle>Geometriae Dedicata</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/f0557d29ef8d41f34f62483f0974b385"><gtr:id>f0557d29ef8d41f34f62483f0974b385</gtr:id><gtr:otherNames>Mendes Lopes M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2008-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/2AB975C4-8242-4F37-A643-CD08D046AF36"><gtr:id>2AB975C4-8242-4F37-A643-CD08D046AF36</gtr:id><gtr:title>Diptych varieties, I</gtr:title><gtr:parentPublicationTitle>Proceedings of the London Mathematical Society</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/26abd53b6933c80866a7eb492ea6efa6"><gtr:id>26abd53b6933c80866a7eb492ea6efa6</gtr:id><gtr:otherNames>Brown G</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2013-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/1094BEC3-D466-4797-846C-39254D5A13F3"><gtr:id>1094BEC3-D466-4797-846C-39254D5A13F3</gtr:id><gtr:title>On the geometry of singularities in quantum field theory</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/acbd6846c99f1ef64f17c9c13d4ce793"><gtr:id>acbd6846c99f1ef64f17c9c13d4ce793</gtr:id><gtr:otherNames>Katrin Wendland</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2010-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/B5E4DF2F-9C3B-4E6D-86E8-CB6FAF491356"><gtr:id>B5E4DF2F-9C3B-4E6D-86E8-CB6FAF491356</gtr:id><gtr:title>Fano 3-folds in codimension 4, Tom and Jerry. Part I</gtr:title><gtr:parentPublicationTitle>Compositio Mathematica</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/26abd53b6933c80866a7eb492ea6efa6"><gtr:id>26abd53b6933c80866a7eb492ea6efa6</gtr:id><gtr:otherNames>Brown G</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/BF0A75A7-8094-4557-A059-0924F0B97E94"><gtr:id>BF0A75A7-8094-4557-A059-0924F0B97E94</gtr:id><gtr:title>New outlook on Mori theory, I</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/506d8794d0bbc465119930f8c15d5239"><gtr:id>506d8794d0bbc465119930f8c15d5239</gtr:id><gtr:otherNames>Paolo Cascini</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2010-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/2FBC4C4E-2A96-48B1-B22D-ED78CF152D99"><gtr:id>2FBC4C4E-2A96-48B1-B22D-ED78CF152D99</gtr:id><gtr:title>Ice cream and orbifold Riemann-Roch</gtr:title><gtr:parentPublicationTitle>Izvestiya: Mathematics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/30f75ae8dd9ef3300738c216b2cdf60f"><gtr:id>30f75ae8dd9ef3300738c216b2cdf60f</gtr:id><gtr:otherNames>Buckley A</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2013-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/A1B85E16-362A-41E1-A09D-EE792E8C1F18"><gtr:id>A1B85E16-362A-41E1-A09D-EE792E8C1F18</gtr:id><gtr:title>Smoothable del Pezzo surfaces with quotient singularities</gtr:title><gtr:parentPublicationTitle>Compositio Mathematica</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/da1f18b967981a79c719ea4395c88082"><gtr:id>da1f18b967981a79c719ea4395c88082</gtr:id><gtr:otherNames>Hacking P</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2009-01-01</gtr:date></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">EP/E060382/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>DEA11FBC-BEED-4EDD-890B-97D728462D26</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Mathematical sciences</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>27F853CB-FB22-4B9D-82D7-542648D097F0</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Algebra &amp; Geometry</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

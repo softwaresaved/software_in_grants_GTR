@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/46387D84-F71E-4B7D-8C7D-9C288F113510"><gtr:id>46387D84-F71E-4B7D-8C7D-9C288F113510</gtr:id><gtr:name>Imperial College London</gtr:name><gtr:department>Dept of Aeronautics</gtr:department><gtr:address><gtr:line1>South Kensington Campus</gtr:line1><gtr:line2>Exhibition Road</gtr:line2><gtr:line4>London</gtr:line4><gtr:postCode>SW7 2AZ</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/46387D84-F71E-4B7D-8C7D-9C288F113510"><gtr:id>46387D84-F71E-4B7D-8C7D-9C288F113510</gtr:id><gtr:name>Imperial College London</gtr:name><gtr:address><gtr:line1>South Kensington Campus</gtr:line1><gtr:line2>Exhibition Road</gtr:line2><gtr:line4>London</gtr:line4><gtr:postCode>SW7 2AZ</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/42590CA6-FD32-47F1-809E-C950A1BB11FB"><gtr:id>42590CA6-FD32-47F1-809E-C950A1BB11FB</gtr:id><gtr:firstName>Colin</gtr:firstName><gtr:surname>Cotter</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=NE%2FG000212%2F1"><gtr:id>E3629E3F-3826-4770-BB9C-CB84D2C3E327</gtr:id><gtr:title>Diagnosing multiscale entrainment in density-driven flows in the ocean</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>NE/G000212/1</gtr:grantReference><gtr:abstractText>It is well-known in ocean modelling that small scale mixing processes in density-driven flows that take place in the ocean are crucial for the global ocean circulation (and hence climate), but the scale of mixing is much smaller than one grid cell in global ocean circulation models (where the number of cells is constrained by the limits of computer power). These processes include the rapid sinking of dense (cold/salty) water due to storms and ice formation at the ocean surface (such as takes place in the Labrador Sea), and the flow of dense water over steep slopes in the ocean floor. The solution to this is to apply physical knowledge of these processes so that their effects can be prescribed in the global models (this is called parameterisation). A key quantity which must be accurately predicted is the entrainment into these flows. If one considers hot air rising from a factor chimney, then it is possible to predict how high and how fast the air will rise based on the difference between the density of the hot air and the lower density of the surroundings. As the air rises, the flow becomes turbulent, and air from the surroundings is mixing into the hot air, changing the density: this is called entrainment. In the case of many small scale mixing processes in the ocean, it is hard to predict the entrainment (because the effect of the rotation of the Earth is important, and the dynamics is rather complicated). The aim of this project is to build up a complete picture of small scale mixing in these density-driven flows by studying data from idealised models of these flows. We will use data obtained from the Imperial College Ocean Model (ICOM), which has a dynamically changing grid that is very suitable for studying these problems. The key concept will be Lagrangian particle trajectories: the paths that fluid particles take as they move with the flow. Following these paths reveals how water from the surroundings is mixed into the flow. The first part of the project will be to build a computational tool for computing Lagrangian particle trajectories on large datasets obtained from ocean models. The main challenge is to produce a code which can be run on a computer with many processors, although the basic strategy for this is well-developed and so one can make use of existing software to take care of the parallel aspects. The second part of the project is to apply a range of techniques to studying the particle trajectories to identify the key mixing processes in the density-driven flows. A complete picture of the mixing will be produced which can then be used to develop parameterisations for use in global ocean models.</gtr:abstractText><gtr:fund><gtr:end>2011-06-19</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/8A03ED41-E67D-4F4A-B5DD-AAFB272B6471"><gtr:id>8A03ED41-E67D-4F4A-B5DD-AAFB272B6471</gtr:id><gtr:name>NERC</gtr:name></gtr:funder><gtr:start>2009-03-20</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>57344</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs><gtr:furtherFundingOutput><gtr:amountPounds>128254</gtr:amountPounds><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:currCode>GBP</gtr:currCode><gtr:currCountryCode>United Kingdom</gtr:currCountryCode><gtr:currLang>en_GB</gtr:currLang><gtr:description>Standard Grant: Moving meshes for global atmospheric modelling</gtr:description><gtr:end>2018-08-02</gtr:end><gtr:fundingOrg>Natural Environment Research Council (NERC)</gtr:fundingOrg><gtr:fundingRef>	NE/M013634/1</gtr:fundingRef><gtr:id>8874B7E2-22AA-4BDA-B656-86EF4AABC1CB</gtr:id><gtr:sector>Public</gtr:sector><gtr:start>2015-09-01</gtr:start></gtr:furtherFundingOutput><gtr:furtherFundingOutput><gtr:amountPounds>379737</gtr:amountPounds><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:currCode>GBP</gtr:currCode><gtr:currCountryCode>United Kingdom</gtr:currCountryCode><gtr:currLang>en_GB</gtr:currLang><gtr:description>Standard Grant: Improving Prediction of Fronts</gtr:description><gtr:end>2017-01-02</gtr:end><gtr:fundingOrg>Natural Environment Research Council (NERC)</gtr:fundingOrg><gtr:fundingRef>NE/K012533/1</gtr:fundingRef><gtr:id>30CB382B-CF69-421E-9365-4E2D27C4CF62</gtr:id><gtr:sector>Public</gtr:sector><gtr:start>2014-01-01</gtr:start></gtr:furtherFundingOutput></gtr:furtherFundingOutputs><gtr:impactSummaryOutputs><gtr:impactSummaryOutput><gtr:description>This project was blue skies research that has led to software tools which are in use in many applied projects within the Fluidity Project (http://fluidityproject.github.io), including applications in coastal oceanography and chemical engineering.</gtr:description><gtr:firstYearOfImpact>2008</gtr:firstYearOfImpact><gtr:id>5BCEE8C8-BEB4-455D-9BE1-34E54E9E8739</gtr:id><gtr:impactTypes><gtr:impactType>Policy &amp; public services</gtr:impactType></gtr:impactTypes><gtr:sector>Environment</gtr:sector></gtr:impactSummaryOutput></gtr:impactSummaryOutputs><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>The aim of this project was to develop new tools for diagnosing mixing
+
+and entrainment in the ocean. These tools can be used to further our
+
+understanding of the contribution to the global circulation of
+
+multiscale processes and flows. These multiscale processes are known
+
+to be crucial in determining the large scale ocean circulation and
+
+hence the response to global warming. This project focussed on the use
+
+of Lagrangian particles, particles that move passively with the fluid
+
+flow, to characterise mixing by small scale processes that can then be
+
+used to guide parameterisations of these processes in coarse-grained
+
+ocean and climate models. The project concentrated on two aspects:
+
+
+
+(1) Delivery of software for computing Lagrangian trajectories from
+
+ adaptive unstructured mesh computational fluid dynamics simulations.
+
+(2) Techniques for extracting information from these Lagrangian
+
+ trajectories that can be used to develop and inform
+
+ parameterisations in ocean models.
+
+ Computing Lagrangian trajectories on adaptive unstructured
+
+ meshes: The key technical challenge in producing such a tool is
+
+that unstructured mesh data uses indirect addressing. This means that
+
+there is no natural ordering of the mesh points as there is for a
+
+structured mesh and the flow data may be stored in an arbitrary
+
+order. Hence, searching for the element that contains a Lagrangian
+
+particle with given coordinates is an expensive process, and should
+
+only be done infrequently. This is particularly the case in parallel
+
+simulations, which are required for high fidelity large scale
+
+simulations, such as those facilitated by Kramer, Cotter and Pain,
+
+Ocean. Modell. (2010), where it is also necessary to determine which
+
+processor owns the element containing the Lagrangian particle. In this
+
+project we developed a new algorithm for solving this problem, which
+
+is a modification of the guided search algorithm developed for
+
+high-order finite element methods by Coppola, Sherwin and Peiro,
+
+J. Comp. Phys. (2001). Our version of the algorithm locates the next
+
+stage of the explicit Runge Kutta algorithm iteratively by searching
+
+through neighbouring elements, handing off the particle to another
+
+processor when the particle leaves the domain from a halo element that
+
+is owned by the other processor. This is a robust and scalable
+
+algorithm that does not depend on determining element ownership from
+
+floating point conditions where the two processors may disagree. This
+
+algorithm is being documented in a paper in preparation which also
+
+applies the algorithm to diagnosing mixing in a density driven lock
+
+exchange problem. The algorithm has been implemented as software as
+
+part of the Fluidity/ICOM suite (from where it can be applied to data
+
+obtained from any model output as prescribed velocity data), and has
+
+already been adopted as the coupling engine between Fluidity/ICOM and
+
+the Virtual Ecology Workbench plankton modelling project at Imperial
+
+College.
+
+
+
+Extracting information from Lagrangian trajectories: In
+
+this project we developed a new approach to designing
+
+parameterisations of mixing and entrainment in coarse-grained ocean
+
+models. Instead of building the parameterisation from first
+
+principles, homogenisation theory is used to establish the form of a
+
+coarse-grained stochastic model, for which it is necessary to estimate
+
+parameters. These parameters can be estimated from observational data,
+
+or in the case of this project, from high-resolution numerical
+
+simulations. We call this approach ``data-driven coarse-graining''. In
+
+Cotter and Pavliotis, Comm. Math. Sci (2009), we showed that this
+
+approach can be used to estimate coarse-grained models of Lagrangian
+
+particle motion, which can then be used to model transport of
+
+temperature, salinity and potential vorticity in the ocean, from
+
+Lagrangian trajectories calculated from multiscale flows. The
+
+calculation of the parameters (in this case the eddy diffusivity
+
+parameter) by maximum likelihood estimators was shown (theoretically
+
+and through numerical experiments) to converge statistically provided
+
+that the data is subsampled (i.e. most of the data is
+
+discarded). The advantage of this approach is that it can be computed
+
+for single Lagrangian trajectories and then averaged, and that it only
+
+requires forward model runs. In further work presented at EGU 2011, it
+
+was shown (through numerical experiments) that under fairly broad
+
+conditions it is not possible to improve the estimates by trying to
+
+reuse the discarded data; all the relevant information is in the
+
+subsampled data. This work led to the Imperial College London Grantham
+
+Institute for Climate Change funding a PhD studentship on stochastic
+
+modelling of eddy subgrid motion in collaboration with Dr Pavel
+
+Berloff.</gtr:description><gtr:exploitationPathways>This project produced a parallel Lagrangian trajectory calculation tool
+
+which is now the main tool for this purpose used in the Imperial
+
+College Fluidity code which is open source and has hundreds of
+
+uses across geosciences and forms part of the Imperial College
+
+Ocean Model in particular.</gtr:exploitationPathways><gtr:id>C8316CB1-88B0-4B99-93D9-DD89C1E76102</gtr:id><gtr:sectors><gtr:sector>Environment</gtr:sector></gtr:sectors></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/DFA36739-2DD0-4355-BAEF-12169295E6F6"><gtr:id>DFA36739-2DD0-4355-BAEF-12169295E6F6</gtr:id><gtr:title>ESTIMATING EDDY DIFFUSIVITIES FROM NOISY LAGRANGIAN OBSERVATIONS</gtr:title><gtr:parentPublicationTitle>COMMUNICATIONS IN MATHEMATICAL SCIENCES</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/f2499d9604ab38c9f8e3e808a012e64a"><gtr:id>f2499d9604ab38c9f8e3e808a012e64a</gtr:id><gtr:otherNames>Cotter C. J.</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2009-01-01</gtr:date><gtr:issn>1539-6746</gtr:issn></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/ED9781E2-F479-4444-9384-4798E5728A53"><gtr:id>ED9781E2-F479-4444-9384-4798E5728A53</gtr:id><gtr:title>Solving the Poisson equation on small aspect ratio domains using unstructured meshes</gtr:title><gtr:parentPublicationTitle>Ocean Modelling</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/1e5163669a114fc802ff541c58bc2800"><gtr:id>1e5163669a114fc802ff541c58bc2800</gtr:id><gtr:otherNames>Kramer S</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2010-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/52D45BAD-A3C3-4FFE-8715-F2F61AF8A4E6"><gtr:id>52D45BAD-A3C3-4FFE-8715-F2F61AF8A4E6</gtr:id><gtr:title>Solving the Poisson equation on small aspect ratio domains using unstructured meshes</gtr:title><gtr:parentPublicationTitle>Ocean Modelling</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/1e5163669a114fc802ff541c58bc2800"><gtr:id>1e5163669a114fc802ff541c58bc2800</gtr:id><gtr:otherNames>Kramer S</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2010-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/EDE8CEE5-22A7-4040-982F-E0368793C182"><gtr:id>EDE8CEE5-22A7-4040-982F-E0368793C182</gtr:id><gtr:title>Estimating eddy diffusivities from noisy Lagrangian observations</gtr:title><gtr:parentPublicationTitle>Communications in Mathematical Sciences</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/6062363653c3fe173b99152d5509bee8"><gtr:id>6062363653c3fe173b99152d5509bee8</gtr:id><gtr:otherNames>Cotter C</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2009-01-01</gtr:date></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">NE/G000212/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>E05CFC1B-8264-49AB-8A54-E3A86F404707</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Marine environments</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>723BA0F8-3ECD-4E2A-A39E-44936EAC1517</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Ocean Circulation</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/B6FB652A-60C3-48DD-9A33-075D1F759B48"><gtr:id>B6FB652A-60C3-48DD-9A33-075D1F759B48</gtr:id><gtr:name>University of Warwick</gtr:name><gtr:department>Physics</gtr:department><gtr:address><gtr:line1>Warwickshire</gtr:line1><gtr:line4>Coventry</gtr:line4><gtr:line5>West Midlands</gtr:line5><gtr:postCode>CV4 7AL</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/B6FB652A-60C3-48DD-9A33-075D1F759B48"><gtr:id>B6FB652A-60C3-48DD-9A33-075D1F759B48</gtr:id><gtr:name>University of Warwick</gtr:name><gtr:address><gtr:line1>Warwickshire</gtr:line1><gtr:line4>Coventry</gtr:line4><gtr:line5>West Midlands</gtr:line5><gtr:postCode>CV4 7AL</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/4FEC4F5E-B999-4DA3-8335-920758EBC3E4"><gtr:id>4FEC4F5E-B999-4DA3-8335-920758EBC3E4</gtr:id><gtr:firstName>Yorck</gtr:firstName><gtr:otherNames>Alexander</gtr:otherNames><gtr:surname>Ramachers</gtr:surname><gtr:orcidId>0000-0002-7403-775X</gtr:orcidId><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=ST%2FK002864%2F1"><gtr:id>6FBF5F0D-84ED-4D90-B27C-ECF2826E8335</gtr:id><gtr:title>SuperNEMO Commissioning and Sensitivity Demonstration</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>ST/K002864/1</gtr:grantReference><gtr:abstractText>Neutrinos are the most abundant matter particle in the universe, and yet 
+our knowledge of them is still lacking in fundamental respects. We do not 
+know whether neutrinos and anti-neutrinos are really distinct particles, or 
+just different versions of the same underlying particle, which is possible 
+since they do not carry any charge. In recent decades neutrino oscillation 
+experiments have shed considerable light on the flavour structure of neutrinos, 
+and in particular how neutrinos may turn from one flavour into another due to
+their tiny mass differences. However, despite knowing rather precisely these 
+mass differences, we still do not know what the absolute mass scale of the
+neutrino is. One of the highest priorities in particle physics today is to 
+elucidate some of these mysteries surrounding the neutrino. This may
+give us further insight into such fundamental questions as the nature of
+physics at the extremely high energies associated with Grand Unification,
+and the source of the matter-antimatter asymmetry which we observe in the
+universe today.
+
+Beta decay is a familiar radioactive process whereby a parent nucleus
+decays into a daughter nucleus with the emission of an electron and
+an (unseen) anti-neutrino. In certain nuclei beta decay is forbidden but,
+very rarely, two simultaneous beta decays may occur. The distinctive
+signature of two electrons being emitted has been observed in several
+isotopes. We are searching for a distinct form of double-beta decay
+in which no neutrinos are emitted alongside the electrons, resulting in
+the electrons carrying away the full energy of the associated nuclear
+decay. This &amp;quot;neutrinoless&amp;quot; process can only occur if neutrinos and 
+anti-neutrinos are the same fundamental particle. Moreover, by measuring 
+the rate of such decays we can effectively measure the absolute mass of 
+the neutrino.
+
+In order to search for neutrinoless double-beta decay with greater
+sensitivity then ever before, we have built what is essentially the 
+largest Geiger counter in the world. This so-called &amp;quot;tracker&amp;quot; for the 
+SuperNEMO experiment records ionisation left by the electrons from the 
+double-beta decay and allows us to visualise the tracks that they leave
+in the detector. UK groups have been building this tracking detector
+for the last 3 years, based on extensive R&amp;amp;D that took place before that.
+
+The next phase for SuperNEMO is to take the UK-built tracker to an
+underground laboratory located under the Alps between France and Italy
+in order to shield the experiment from cosmic rays. There, we will 
+marry the tracker with the other components of the detector that 
+are being assembled by colleagues in France, Russia, the Czech Republic and
+the US. Extensive work will be required to carefully assemble the
+first module of SuperNEMO, called the &amp;quot;Demonstrator Module&amp;quot;, such that
+it works as expected and that no radioactive contamination is allowed to enter 
+the detector. Even trace contamination, far below the level of radioactivity
+in ordinary materials, could completely swamp the very rare processes that
+we are searching for.
+
+By the end of this project, the SuperNEMO Demonstrator Module will be
+up and running and launching into an exciting physics program to try
+to address some of the fundamental questions outlined above.</gtr:abstractText><gtr:potentialImpactText>See Lead-institute, UCL</gtr:potentialImpactText><gtr:fund><gtr:end>2017-12-31</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/D7F4F462-0518-4784-908A-D12633C139B3"><gtr:id>D7F4F462-0518-4784-908A-D12633C139B3</gtr:id><gtr:name>STFC</gtr:name></gtr:funder><gtr:start>2013-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>43632</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/635AA218-4557-4CD8-ABFF-FAFD2F91165A"><gtr:id>635AA218-4557-4CD8-ABFF-FAFD2F91165A</gtr:id><gtr:title>Investigation of double beta decay of 100Mo to excited states of 100Ru</gtr:title><gtr:parentPublicationTitle>Nuclear Physics A</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/a976211a41b4da804fa5f9fc433b68f4"><gtr:id>a976211a41b4da804fa5f9fc433b68f4</gtr:id><gtr:otherNames>Arnold R</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2014-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/A78E9C6D-3E83-4745-AFAF-42C63591EDDD"><gtr:id>A78E9C6D-3E83-4745-AFAF-42C63591EDDD</gtr:id><gtr:title>Measurement of the2???decay half-life ofNd150and a search for0???decay processes with the full exposure from the NEMO-3 detector</gtr:title><gtr:parentPublicationTitle>Physical Review D</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/a976211a41b4da804fa5f9fc433b68f4"><gtr:id>a976211a41b4da804fa5f9fc433b68f4</gtr:id><gtr:otherNames>Arnold R</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/24C03E16-7F50-47E8-A034-018D3C65582F"><gtr:id>24C03E16-7F50-47E8-A034-018D3C65582F</gtr:id><gtr:title>Measurement of the double-beta decay half-life and search for the neutrinoless double-beta decay ofCa48with the NEMO-3 detector</gtr:title><gtr:parentPublicationTitle>Physical Review D</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/a976211a41b4da804fa5f9fc433b68f4"><gtr:id>a976211a41b4da804fa5f9fc433b68f4</gtr:id><gtr:otherNames>Arnold R</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/01E717C8-FBE3-40F5-9ABB-AFD5AE69FB3A"><gtr:id>01E717C8-FBE3-40F5-9ABB-AFD5AE69FB3A</gtr:id><gtr:title>Search for neutrinoless double-beta decay ofMo100with the NEMO-3 detector</gtr:title><gtr:parentPublicationTitle>Physical Review D</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/a976211a41b4da804fa5f9fc433b68f4"><gtr:id>a976211a41b4da804fa5f9fc433b68f4</gtr:id><gtr:otherNames>Arnold R</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2014-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/B22ADB19-018C-4AC2-B51F-1EF0C1C88AC0"><gtr:id>B22ADB19-018C-4AC2-B51F-1EF0C1C88AC0</gtr:id><gtr:title>Results of the search for neutrinoless double-?decay inMo100with the NEMO-3 experiment</gtr:title><gtr:parentPublicationTitle>Physical Review D</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/a976211a41b4da804fa5f9fc433b68f4"><gtr:id>a976211a41b4da804fa5f9fc433b68f4</gtr:id><gtr:otherNames>Arnold R</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/8E5C3D7B-E9C2-4656-8B4D-11169D513F19"><gtr:id>8E5C3D7B-E9C2-4656-8B4D-11169D513F19</gtr:id><gtr:title>Measurement of the 
+2???
+ decay half-life and search for the 
+0???
+ decay of 
+Cd116
+ with the NEMO-3 detector</gtr:title><gtr:parentPublicationTitle>Physical Review D</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/a976211a41b4da804fa5f9fc433b68f4"><gtr:id>a976211a41b4da804fa5f9fc433b68f4</gtr:id><gtr:otherNames>Arnold R</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">ST/K002864/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>6BF947B0-8E6E-48DB-AB68-7130938F2DF2</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Instrument. sensor &amp; detectors</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>C2898760-D7E5-4B25-A236-E7869CD74F88</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Particle physics - experiment</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>DB4948F7-4829-4191-8416-208CE0FBE9D2</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Neutrino Physics</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>00E432A0-CF0E-42D0-BAF1-6872995B42EF</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Part. Phys/Astron. Instrument.</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

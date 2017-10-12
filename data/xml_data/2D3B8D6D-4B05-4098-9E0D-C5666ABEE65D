@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/5BB4F8BF-B4E0-4EAF-9AF5-885E19D64850"><gtr:id>5BB4F8BF-B4E0-4EAF-9AF5-885E19D64850</gtr:id><gtr:name>University of Strathclyde</gtr:name><gtr:department>Inst of Pharmacy and Biomedical Sci</gtr:department><gtr:address><gtr:line1>16 Richmond Street</gtr:line1><gtr:line4>Glasgow</gtr:line4><gtr:postCode>G1 1XQ</gtr:postCode><gtr:region>Scotland</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/5BB4F8BF-B4E0-4EAF-9AF5-885E19D64850"><gtr:id>5BB4F8BF-B4E0-4EAF-9AF5-885E19D64850</gtr:id><gtr:name>University of Strathclyde</gtr:name><gtr:address><gtr:line1>16 Richmond Street</gtr:line1><gtr:line4>Glasgow</gtr:line4><gtr:postCode>G1 1XQ</gtr:postCode><gtr:region>Scotland</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/5728CD9E-C054-4345-8BE1-2541441351C3"><gtr:id>5728CD9E-C054-4345-8BE1-2541441351C3</gtr:id><gtr:firstName>Alastair</gtr:firstName><gtr:otherNames>James</gtr:otherNames><gtr:surname>Florence</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=EP%2FK504117%2F1"><gtr:id>2D3B8D6D-4B05-4098-9E0D-C5666ABEE65D</gtr:id><gtr:title>Development of an Innovative Modular System for Continuous Chemical Processing</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/K504117/1</gtr:grantReference><gtr:abstractText>The project, lead by Syrris, in collaboration with GSK, AMRI UK and the EPSRC Centre for Innovative Manufacturing in
+Continuous Manufacturing and Crystallisation will develop an innovative modular system for continuous chemical
+processing. It will develop modules that can be used by any chemical industry to perform unit operations such as liquidliquid,
+liquid-solid and liquid-solid-gas phase reactions, crystallisations and aqueous work-up in a continuous process, with
+analysis. The modules will be scalable, easy to use, automatable and able to be quickly reconfigured into hundreds of
+conceivable single or multi step process systems. Within the project lifetime, this will enable GSK and AMRI to operate
+more efficient, high quality and sustainable processes with easier scale-up. After the project, commercialisation of these
+modules will enable the wider chemical process industry to benefit from the same advantages and generate significant
+exports for the UK.</gtr:abstractText><gtr:potentialImpactText>This project will initially focus on the R&amp;amp;D of truly innovative manufacturing equipment to enable the benefits of continuous
+chemical processing to be easily accessed. It will then focus on the development of GSK and AMRI processes into
+continuous processes using this equipment. It will bring innovation in the small scale flexible manufacture of chemicals by
+providing a range of modular units with the potential of operations to the standards expected in the pharmaceutical industry
+(GMP). This will allow a more sustainable and affordable approach to high value manufacture by allowing safer
+manufacture and alternative synthetic routes. This is something that currently does not exist. Examples of the unit
+operations amenable are: reactors allowing highly reactive chemistry, heterogeneous catalysed reactions; isolation
+processes, including aqueous work-up and crystallisation and real time on-line analysis. The common principle behind this
+project is to be able to utilise these processing steps, in a flexible way, for manufacture through a supporting control
+philosophy that recognises the units deployed and brings the individual units together to perform a given synthesis.
+The business led collaboration will bring together an equipment manufacturer and an EPSRC Centre, both focussed on
+continuous processing with two chemical manufactures keen to exploit and demonstrate the benefits of an easy to use,
+modular continuous processing system. Adoption of continuous processing at pilot scale manufacture will have a significant
+impact on the sustainability of the UK's manufacturing industry and, with improved efficiency, there will be a positive
+environmental impact through reduced wastage of raw materials, solvents and energy. The nature of the equipment
+specification means that the result will not only be useful to the processes and industries of GSK (pharmaceutical and
+consumer healthcare) and AMRI (API and speciality chemical) but will also be applicable to a wide range of chemical
+reactions in all industries such as agrochemical, bulk and fine chemical, oil and fuel, etc. This project will develop the
+continuous process equipment to a one-off or prototype level. However, after completion of the project it is planned that
+Syrris will commercialise the products and export them through its worldwide sales and marketing channels (Syrris
+currently exports over 90% of its products outside the UK).</gtr:potentialImpactText><gtr:fund><gtr:end>2016-09-30</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2013-04-29</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>79429</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs><gtr:impactSummaryOutput><gtr:description>Commercial development of a range of flow processing equipment. See http://syrris.com/flow-products/titan-systems for full details
+
+The commercial and societal impact is best exemplified through the following case study:-
+Introduction
+Continuous chemical processing is a rapidly developing field that offers significant benefits over batch processing, including rapid process optimisation, a safer working environment, cheaper production, cleaner products, reduced environmental impact, and better product consistency. There is a very significant need for a flexible, easy to use, reliable, compliant and modular continuous chemical processing system at the 10s to 100s kg scale that can be easily rearranged to perform different processes.
+Objective
+The ambition of this project was to deliver equipment solutions that meet the challenge of operating at small pilot scale, with the exacting requirement for reliability and quality that industry expects, at a low unit cost to make the business case tenable. Seven modules developed in this project would help propel the future development of an entire, new product line.
+Strategy
+Tasks included definition of user and functional requirement specifications, prioritisation of modules to develop, identification of key areas of technical risk, brainstorming and evaluation of technical solutions, concept generation, proof of concept, detailed design, procurement, assembly and engineering testing.
+Results
+Seven modules were designed to operate in both laboratory and manufacturing environments rather than designing separate versions for lab and industrial areas. The modules can be combined seamlessly to make complete pilot scale reactor systems.
+Passive Valve Syringe Pump
+Active Valve Syringe Pump
+Fast Mixing Injector (64 and 250-mL variants)
+Pre-Reaction Heat Exchanger 
+Residence Time Unit (64 and 250-mL variants)
+Framework (multiple sub-modules) 
+Reactor Controller.
+
+For example: Residence Time Distribution studies of the 64ml RTUs Units demonstrates good plug flow across all tested flow rates (right). 
+Good plug flow mean all molecules experience the same conditions leading to higher quality, more consistent product. Flow accuracy analysis of the Titan Syringe Pump beta unit indicated that the flow was accurate, especially at higher flow rates. Later beta prototypes have been constructed to further enhance this accuracy and will be tested soon. 
+Advantages
+A complete turn-key system designed and manufactured in the UK: A wide selection of modules that integrate seamlessly, all designed specifically for flow chemistry at a larger scale
+High performance: High mass transfer and heat transfer reactors
+Extremely high chemical resistance: Glass, PTFE, Hastelloy, and Elgiloy wetted parts
+Easily reconfigurable: Modules can be rearranged in minutes to perform entirely different chemical processes 
+Reliable and robust: Designed for long term use in demanding manufacturing environments
+Easy to use: Modules connect together in seconds and clip onto state of the art, intelligent floor standing skid systems or, for smaller systems, bench top stands
+Easy to service: Service made easy by innovative design features
+Optional automation: Control process parameters for the modules via Titan software or via pre-existing PLC or plant software
+Scalable production rates: Lab scale to a tonne per day
+Scalable functionality: Modules can be trivially added to modify scale or process type/complexity or to combine multiple processes into one system
+Safe: Enjoy the inherent safety benefits of continuous processing with Titan's designed-in safety features including interlocks, anti-tamper, pressure detection, and auto shut down features
+
+
+PhD students at CMAC using the equipment developed in their resrach and will write papers and application notes on this.
+
+Case Studies / Application Notes
+ A continuous antisolvent crystallisation (in collaboration with Vaclav Svoboda and Prof Jan Sefcik, CMAC, University of Strathclyde)
+ Studies of formation and stability of emulsions in the Titan chips and RTUs (in collaboration with Antonia Ngama, Dr Alison Nordon, CMAC, University of Strathclyde)
+
+Presentations
+ EPSRC Centre for Continuous Manufacturing and Crystallisation group meeting May and August 2016
+ Development of modular platform, CMAC Technical Committee (representatives from AstraZeneca, GSK, Bayer and Novartis) meeting 14th May 2016 
+ Joint presentation with Blacktrace at EPSRC centre open day 2017 
+It is fully expected that the work described here will be used in presentations by Prof Alastair Florence and Dr Humera Siddique, but no specific talks/conferences have been identified at this stage.
+Papers for Publication in Peer Reviewed Journal
+ Characterisation of continuous modular platform and investigation of the platform for biphasic chemistry and antisolvent crystallisation. Manuscript in preparation, expected submission date 
+Supporting Information for Marketing Materials has been provided by CMAC
+
+? Presentations to companies by Blacktrace Ltd:
+o Titan Syringe Pump - presented to many commercial leads (&amp;gt;30)
+o Titan System - presented to several leads (&amp;gt;15)
+
+? Tradeshows, Conferences, Workshops, and Roadshows:
+o CPhI Europe - Feb 2016
+o Flow Chemistry Workshop, Royston - May 2016
+o ACS - Aug 2016
+o FCS Miami - Nov 2016
+o 8th Symposium on Flow Chemistry, Delft - Nov 2016
+o Japan Flow Workshop - Nov 2016
+o Germany Flow Workshop - Nov 2016
+o EU Roadshow - Feb 2017
+o FCS Cambridge - Feb 2017
+
+? Upcoming Tradeshows, Conferences, Workshops, and Roadshows:
+o Flow Chemistry Workshop, Royston - Mar 2017
+o ORPD USA - Mar 2017
+o ACS - Apr 2017
+o CPhI USA - May 2017
+o US Roadshow - May 2017
+o EU Roadshow - June 2017</gtr:description><gtr:firstYearOfImpact>2016</gtr:firstYearOfImpact><gtr:id>7912A050-9E4F-45BE-A374-F7ECD48890F5</gtr:id><gtr:impactTypes><gtr:impactType>Societal,Economic</gtr:impactType></gtr:impactTypes><gtr:sector>Agriculture, Food and Drink,Chemicals,Healthcare,Manufacturing, including Industrial Biotechology,Pharmaceuticals and Medical Biotechnology</gtr:sector></gtr:impactSummaryOutput></gtr:impactSummaryOutputs><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>The project, led by Blacktrace, in collaboration with GSK, AMRI UK, and the EPSRC Centre for Innovative Manufacturing in Continuous Manufacturing and Crystallisation (CMAC) planned to develop an innovative modular system for continuous chemical processing at the 10s to 100s kg scale. We wanted to develop modules that could be used by any chemical industry to perform unit operations such as liquid-liquid, liquid-solid and liquid-solid-gas phase reactions, crystallisations, and aqueous work-up in a continuous process, with analysis. We planned for the modules to be scalable, easy to use, automatable and able to be quickly reconfigured into hundreds of conceivable single or multi step process systems. It was planned that, within the project lifetime, this equipment would enable GSK and AMRI to operate more efficient, high quality and sustainable processes with easier scale-up.
+All but the last of these goals were achieved during the project; AMRI UK has ceased operations and GSK has only thus far tested a selection of the modules. GSK has carried out further testing with the equipment following the end of the project through and another ongoing project (REMEDIES, https://remediesproject.com/ ) to expand the product line. 
+The project has had a huge impact on the development of the modules, and we consider the project a success. Blacktrace is now capable of manufacturing a modular system for the continuous chemical processing industry at the 10s to100s kg scale. The project brought together scientific and industrial experts that might not necessarily have had the opportunity to work together on this important development project. 
+
+By the end of the project, CMAC and Blacktrace will have successfully characterised the heat and mass transfer of the two residence time units designed and built as part of this project in line with the original Work Package scope. An extension to the scope was agreed between the partners to carry out CFD modelling of the FMI and RTUs as this would add significant scientific impact and commercial value to the proucts.
+? Heat transfer: both residence time units were characterised to allow users to calculate the potential heat spikes occurring during a reaction once the process calorimetry and kinetics are known.
+? Flow behaviour: The 64ml residence time unit delivers good plug flow (axial dispersion values below 0.01) at all flow rates tested that cover the operating range of the system. The larger 250ml RTU only showed good plug flow behaviours at flow rates above ~110ml/min. The characterisation allows users to calculate residence time distribution for the process conditions they are running and understand the impact this may have on their processes.
+
+The Computational Fluid Dynamics (CFD) analysis and mixing characterisation of the fast mixing injector and CFD of the residence time units is being carried out at the time of writing this interim report. They will be reported in the final report which will be circulated by the end of November 2016.
+
+Through the cooperative efforts of the consortium and with the financial backing of Innovate UK, we have met all the technical challenges we set out to address, and we are now poised to commercialise the UK-designed and manufactured products. The equipment developed with have significant impact on reduction of raw materials, energy and waste through more efficient reactions with higher yields, better selectivity and consequently, improved quality.</gtr:description><gtr:exploitationPathways>Commercial products will be manufactured as a result of this research. Equipment has been characterised and tested at GSK, AMRI and University of Strathclyde. This will extend Syrris's portfolio of flow chemistry equipment for commercial sale. It is expected several publications and application notes will arise from this work as reserachers at CMAC continue to use the equipment developed during this project.
+
+The protfolio of flow procesisng equipment is being expanded further through the REMEDIES project in which GSK, Blacktrace and CMAC are involved.</gtr:exploitationPathways><gtr:id>090EB17F-102E-478A-B87F-B54CCAEC9884</gtr:id><gtr:sectors><gtr:sector>Agriculture, Food and Drink,Chemicals,Healthcare,Manufacturing, including Industrial Biotechology,Pharmaceuticals and Medical Biotechnology</gtr:sector></gtr:sectors><gtr:url>http://syrris.com/flow-products/titan-systems</gtr:url></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">EP/K504117/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/D5337A10-AC8A-402A-8164-C5F9CC6B0140"><gtr:id>D5337A10-AC8A-402A-8164-C5F9CC6B0140</gtr:id><gtr:name>Queen Mary, University of London</gtr:name><gtr:department>Sch of Biological and Chemical Sciences</gtr:department><gtr:address><gtr:line1>Mile End Road</gtr:line1><gtr:line4>London</gtr:line4><gtr:postCode>E1 4NS</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/D5337A10-AC8A-402A-8164-C5F9CC6B0140"><gtr:id>D5337A10-AC8A-402A-8164-C5F9CC6B0140</gtr:id><gtr:name>Queen Mary, University of London</gtr:name><gtr:address><gtr:line1>Mile End Road</gtr:line1><gtr:line4>London</gtr:line4><gtr:postCode>E1 4NS</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/676B25B4-F048-4954-BFBD-D8F43F3F52AA"><gtr:id>676B25B4-F048-4954-BFBD-D8F43F3F52AA</gtr:id><gtr:name>ADAS UK Ltd</gtr:name><gtr:address><gtr:line1>Woodthorne</gtr:line1><gtr:line2>Wergs Road</gtr:line2><gtr:postCode>WV6 8TQ</gtr:postCode><gtr:region>Unknown</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/0E32B0EF-B4B2-443D-91A9-E343A70F9B83"><gtr:id>0E32B0EF-B4B2-443D-91A9-E343A70F9B83</gtr:id><gtr:name>Wessex Water Services Ltd</gtr:name><gtr:address><gtr:line1>Operations Centre  Claverton Down Road</gtr:line1><gtr:line3>Claverton Down</gtr:line3><gtr:line4>Bath</gtr:line4><gtr:postCode>BA2 7WW</gtr:postCode><gtr:region>South West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/FDD33E14-89D7-4505-B1D9-29F8145D42FE"><gtr:id>FDD33E14-89D7-4505-B1D9-29F8145D42FE</gtr:id><gtr:firstName>Angela</gtr:firstName><gtr:otherNames>Mary</gtr:otherNames><gtr:surname>Gurnell</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/420B1574-691F-4CB7-9D86-18459DF5DAC5"><gtr:id>420B1574-691F-4CB7-9D86-18459DF5DAC5</gtr:id><gtr:firstName>Iwan</gtr:firstName><gtr:surname>Jones</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/384A19DC-BAAA-458E-9B8B-09ED85310547"><gtr:id>384A19DC-BAAA-458E-9B8B-09ED85310547</gtr:id><gtr:firstName>Catherine</gtr:firstName><gtr:surname>Heppell</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/472A5702-E2C6-491B-B76E-1869D00BD7C3"><gtr:id>472A5702-E2C6-491B-B76E-1869D00BD7C3</gtr:id><gtr:firstName>Andrew</gtr:firstName><gtr:otherNames>Rowland</gtr:otherNames><gtr:surname>Leitch</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/DF75D8B1-79FF-4FC8-9FA0-C0E401C238BD"><gtr:id>DF75D8B1-79FF-4FC8-9FA0-C0E401C238BD</gtr:id><gtr:firstName>Katrina</gtr:firstName><gtr:surname>Lansdown</gtr:surname><gtr:roles><gtr:role><gtr:name>RESEARCHER_COI</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/12979A15-4637-40A8-9083-70486F9732A8"><gtr:id>12979A15-4637-40A8-9083-70486F9732A8</gtr:id><gtr:firstName>Mark</gtr:firstName><gtr:surname>Trimmer</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=NE%2FJ012106%2F1"><gtr:id>376F7683-6F0D-49E4-9B44-AF2E039CF1D7</gtr:id><gtr:title>The role of lateral exchange in modulating the seaward flux of C, N, P.</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>NE/J012106/1</gtr:grantReference><gtr:abstractText>All living organisms that make up life on Earth are made from a profusion of elements in the periodic table, including trace metals. However, in addition to oxygen (O) and hydrogen (H), the constituents of water, the three most important are Carbon (C), Nitrogen (N) and Phosphorus (P). These have become known as the Macro-Nutrients. These macronutrients are in constant circulation between living organisms (microbes, plants, animals, us) and the environment (atmosphere, land, rivers, oceans). Until human intervention (circa post industrial revolution and even more so since WWII) these 'cycles' were largely in balance: plants took up CO2 and produced O2 and, in order to do so, took up limited amounts of N and P from the environment (soils, rivers) and, on death, this &amp;quot;sequestered&amp;quot; C,N,P was returned back to the Earth. The problem is that human or anthropogenic activity has put these key macro-nutrient cycles out of balance. For example, vast quantities of once fossilised carbon, taken out of the atmosphere before the age of the dinosaurs, are being burnt in our power stations and this has increased atmospheric CO2 by about 30 % in recent times. More alarmingly, perhaps, is that man's industrial efforts have more than doubled the amount of N available to fertilize plants, and vast amounts of P are also released through fertilizer applications and via sewage. As the population continues to grow, and the developing world catches up, and most likely overtakes, the western world, these imbalances in the macro-nutrient cycles are set to be exacerbated. Indeed, such is the impact of man's activity on Earth that some are calling this the 'Anthropocene': Geology's new age. The environmental and social problems associated with these imbalances are diverse and complex; most people would be familiar with the ideas behind global warming and CO2 but fewer may appreciate the links to methane and nitrous oxide or the potential health impacts of excess nitrate in our drinking water. These imbalances are not being ignored and indeed a great deal of science, policy and management has been expended to mitigate the impacts of these imbalances. However, despite our progress in the science underpinning this understanding over the last 30-40 years or so, too much of this science has been focused on the individual macro-nutrients e.g. N, and in isolated parts of the landscape e.g. rivers. To compound this even further, such knowledge and understanding has often been garnered using disparate, or sometimes even antiquated, techniques. Anthropogenic activity has spread this macro-nutrient pollution all over the landscape. Some of it is taken up by life, some is stored, but a good deal of it works its way through the landscape towards our already threatened seas. We need to understand what happens to the macronutrients as they move, or flux, through different parts of the landscape and such understanding can only come about by a truly integrated science programme which examines the fate of the macronutrients simultaneously in different parts of the landscape. Here we will for the first time make parallel measurements, using truly state-of-the-art technologies, of the cycling and flux of all three macronutrients on the land and in the rivers that that land drains and, most importantly, the movement of water that transports the macro-nutrients from the land to the rivers e.g. the hydrology. Moreover, we will compare these parallel measurements across land to river in different types of landscapes: clay, sandstone and chalk, subjected to different agricultural usage in order to understand how the cycling on the land is connected, via the movement of water, to that in the rivers.</gtr:abstractText><gtr:potentialImpactText>Who will benefit? This blue skies research will quantify the flux and dynamics of the lateral exchange of organic C through the Avon catchment &amp;amp; how this in turn modulates the scale of flux, &amp;amp; nature of N &amp;amp; P transformations, towards the coast. There are several end-users &amp;amp; beneficiaries in both private &amp;amp; public sectors e.g. Defra, Environment Agency (EA), CEFAS, Wessex Water, wastewater companies, Local Authorities, agricultural &amp;amp; farming sectors. Learning how catchment changes directly influence C,N,P cycles will enable these organisations to save resources by targeting their actions on those aspects of the nutrient cycles that have the greatest benefit. The project also benefits academics &amp;amp; the public.
+How will they benefit? The project enhances quality of life, health &amp;amp; environment as follows:
+1. Data on N &amp;amp; P transformations under perturbed C cycles will inform Defra's policies on the impact of nutrient pollution on the environment (e.g. Nitrates Directive, Water Framework Directive, National Emissions Ceilings Directive). 
+2. Data on the spatial &amp;amp; temporal scales of P, NH4+, NO3- transformations, the timescales for nutrient transport through the catchment &amp;amp; whether interactions with P increase DN will inform Defra's strategy on N2O emissions &amp;amp; the interactions between N2O &amp;amp; other forms of N (&amp;amp; P) enabling improved mitigation strategies to be developed for reducing both pollution &amp;amp; greenhouse gas emissions (Low C Transition Plan, Climate Change Act) 
+3. Data on air to soil exchange of CO2 (&amp;amp; CH4) under increased temperatures &amp;amp; perturbed C cycle in the catchment will inform Defra's policy on mitigating climate change by reducing CH4 emissions and improve environmental air quality.
+4. Data on the lateral exchange of organic C through the catchment will also determe the potential cycles &amp;amp; sinks for C in other water bodies. For e.g., there is significant policy interest in Defra on C fluxes within water column to benthic sediments (e.g. Cefas) via the Marine Strategy Framework which manages sustainable marine resources. 
+5. Data on how elevated temperatures effects microbial diversity will inform how climate change impacts on microbial biodiversity.
+6. Data on fecal indicator organisms (FIO) will inform FIO mitigation by improved agricultural management.
+The project increases the effectiveness of public services &amp;amp; policy as follows:
+1. Data generated will test &amp;amp; parameterise a model, which can be used by Defra's UKCIP to more accurately predict potential cycles &amp;amp; sinks for C under future climate scenarios, helping Local Authorities (e.g. Hampshire County Council) adapt to climate change. 
+2. The project gives added value to Defra's Demonstration Test Catchments (DTC) monitoring program with additional nutrient data from sites within the catchment not currently monitored by Defra and will give important information on how different agricultural management practices influence scale of flux of C,N, P cycling in the catchment. 
+3. Data on C, N &amp;amp; P flux through river food webs will inform Defra's policy on biodiversity &amp;amp; information on how diffuse pollution &amp;amp; N impacts biodiversity decline.
+4. Data obtained will inform EA policy of Urban Wastewater Treatment Directive, Habitats Directive &amp;amp; Marine Environment. 
+5.Data will inform policy on C sequestration &amp;amp; UK C inventories &amp;amp; help to meet the Government's goals for protecting &amp;amp; sustaining natural resources. 
+Production of trained staff: The project will produce 4 trained PhD students &amp;amp; 9 PDRAs with molecular, analytical, hydrology, ecology and modelling skills who can enter private/public sector marketplace.
+Economic benefits: IP resulting from the project will foster industrial collaborators and enhance economic competitiveness of UK.
+Timescales for benefits to be realized: The SAG set up in month 1 with representatives from stakeholders, regulators &amp;amp; policymakers (see pathways to impact) will inform the project throughout to ensure policy aims are realised.</gtr:potentialImpactText><gtr:fund><gtr:end>2015-12-31</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/8A03ED41-E67D-4F4A-B5DD-AAFB272B6471"><gtr:id>8A03ED41-E67D-4F4A-B5DD-AAFB272B6471</gtr:id><gtr:name>NERC</gtr:name></gtr:funder><gtr:start>2012-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>1016143</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>Our project has studied this imbalance of
+macronutrients in the context of a lowland
+agricultural environment in the UK: the Hampshire
+Avon. We have made measurements to
+understand the different pathways by which
+macronutrients are travelling from grassland fields
+through the river system and out to the coast in
+different parts of the landscape - including on clay,
+sand and chalk geologies. We have also focused
+on the extent to which these macronutrients are
+being transformed in rivers along their route to the
+sea and, in particular, whether they are altered
+to form harmless chemical species or potent
+greenhouse gases. And we have measured the
+bacteria and environmental factors that control
+these transformations and alter the magnitude,
+rate and timing of the transport and transformation
+processes throughout the year.
+
+Our results show that the chalk and clay soils
+respond quite differently to fertiliser addition. Chalk
+soil produced the most N2O when ammonium
+nitrate was added, but the clay soil continued to
+release N2O for several days after its application.
+On its own, phosphate didn't have a big effect on
+N2O but when combined with ammonium nitrate,
+the greensand soils also gave a large initial release
+of N2O. Warming the plots by just 2-3 &amp;deg;C, during
+the dry summer of 2015, caused the grass to die
+back, photosynthesis (uptake of CO2) to stop, and
+increased the overall release of CO2. The chalk
+soils didn't suffer from this problem as much as
+the other sites, suggesting they were already
+better at coping with dry conditions, which might
+give grassland on chalk better chance of survival
+or continued healthy growth under future climate
+change scenarios for the UK.
+
+The production of greenhouse gases in soils is
+caused by soil micro-organisms such as bacteria
+using carbon and nitrogen as an energy source.
+As part of the process, these micro-organisms
+transform these macronutrients from one chemical
+form to another. Our challenge was to determine
+how the bacteria in soils overlying clay, greensand
+and chalk varied in diversity, abundance and activity
+over a yearly cycle. It is important to measurethese properties of the soil micro-organisms in
+order to fully understand how the production
+of greenhouse gases might vary in response to
+climate change. Diversity is a measure of the
+different types of microorganisms, abundance is
+the number of the microorganisms and the activity
+measures how active the microorganisms are
+in their environment. In order to measure these
+properties we collected soils from the same sites
+as described above, and extracted the genetic
+material from the bacteria present in the soil.
+We found an abundance of bacteria in our soils.
+There are approximately 1-10 billion bacteria
+per gram of soil and the bacterial numbers were
+generally similar across geologies. In our soils the
+removal of nitrate by denitrification is controlled
+by soil temperature and water content - both
+environmental factors that are likely to vary in the
+future due to the effects of climate change. We
+also found the formation of the two greenhouse
+gases, nitrous oxide and methane, only occurred
+at significant levels in the clay soils. Methane can
+be removed from soils by oxidation processes
+which turn the methane into carbon dioxide, a less
+potent greenhouse gas. The rate of removal of
+methane by this process increased as temperature
+increased. Thus under climate change scenarios,
+clay soils are more likely to be better sinks for
+methane. However, we found that when fertilisers
+(such as nitrogen and phosphorus) were added to
+clay soils methane removal decreased. Therefore,
+the management of agricultural practices in clay
+soils is crucial, for future levels of greenhouse
+gases that will be released to the atmosphere.
+
+Rivers are strongly linked to the landscape that
+they flow through. River water was originally rain
+that has travelled from the surrounding land via
+soil and underlying rocks to the river channel. As
+the water moves through the soil it carries with it
+chemicals that it has encountered along its route,
+such as the macronutrients (nitrogen, phosphorus
+and carbon) which are the focus of our study.
+The Hampshire Avon is underlain by various
+different geologies, with chalk, greensand and
+clay being of particular interest to us because
+they have differing permeabilities (a measure of
+how easy it is for water to move through the soil
+or rock). Chalk has the greatest permeability and
+clay has the smallest. Thus water travels through
+landscapes made of these different geologies via
+different routes. In a landscape underlain by chalk
+much of the rain will travel through the soil to the
+underlying chalk aquifer and may take decades to
+reach the river channel. In a landscape dominated
+by clay the rainfall can make its way to the river
+rapidly by flowing over the soil surface or through
+man-made drainage channels that have been
+created to make farming possible on these low
+permeability, and often waterlogged, soils. We
+were interested in the consequences of these
+different pathways for the concentrations and
+quantity of macronutrients (carbon, nitrogen
+and phosphorus) reaching the river channel.
+We also wanted to understand how changes in
+the pathways by which water travels to the river
+channel during different seasons affects the
+transport of the nutrients.
+To do this we installed probes at each of our sites
+to measure water quality along with automatic
+water samplers to take water samples at preprogrammed
+time intervals. We also measured
+water height in the river to calculate river discharge
+and we installed pipes (called piezometers) in the
+river to measure the direction that water flowed
+into and out of the river during different times of
+the year. These pipes also allowed us to measure
+water quality in the riverbed itself.
+We found that the link between groundwater and
+the river varied across our six sites. At some sites
+our rivers received groundwater throughout the
+year, whilst others were continuously losing river
+water to the ground. Two of our sites switched
+between the river losing water and river gaining
+water depending on the time of year.
+We found that the concentration of nitrate in
+our rivers increased as the permeability of the
+landscape increased. This may be a legacy issue,
+due to a history of intensive farming practices in
+the UK. It takes decades for rainwater to move
+from fields to the groundwater, and to the rivers in
+these catchments.
+
+One fundamental parameter of rivers to be
+assessed is the stream metabolism. This consists
+of the primary production by photosynthetic
+organisms, such as algae and aquatic plants,
+and the respiration (the action of breathing
+which produces CO2) by fauna and microbial
+communities in the stream. Primary production is
+the creation of organic compounds, for example
+the growth of plant material in a river, primarily
+arising from photosynthesis (which uses light as
+a source of energy). These processes are highly
+dependent on the local environment and may
+differ substantially among rivers.
+To assess conditions in the Avon river catchment
+we used the state-of-the-art methods to quantify
+and characterize stream metabolism at the
+streambed and in the water column. The activity in
+the streambed is quantified with a novel technique
+called eddy covariance, which enables activity
+measurements over a large area (tens of m2)
+of the streambed, without altering the stream's
+4. Metabolism in rivers
+Measuring stream metabolism in the Hampshire Avon.
+Lorenzo Rovelli and Ronnie Glud (Southern Denmark University)
+Eddy covariance system measuring river metabolism in the River Ebble.
+natural flow temperature or light regimes. The
+technique represents a substantial improvement
+over traditionally more invasive approaches.
+The investigations covered four seasons and
+revealed that each stream was characterized by
+highly varying rates of metabolism in the river
+water itself. This contrasted with the common
+conception that metabolism in river water is low
+because suspended algae and microbial densities
+are very low in comparison to the abundance
+of organisms (such as bacteria) in or on the
+streambed. We also observed a clear shift from
+net production of organic material during spring
+to periods of net degradation of organic material
+during autumn and winter. This would be related
+to processes such as the growth and die-back
+of aquatic plants in these rivers. Clear trends in
+stream metabolism were observed in the streams
+from clay river reaches, compared to river reaches
+underlain by greensand and chalk geology.
+
+We measured production of both carbon dioxide
+(CO2) and methane (CH4) in the riverbeds, in both
+light and dark conditions. At the same time we
+measured the flux of these gases from the river
+to the atmosphere (out-gassing). All riverbeds
+produced both CO2 and CH4, due to microbial
+activity in the sediment. However, the amount of
+CO2 out-gassed to the atmosphere was much
+higher than could be explained by production
+in the riverbed; whilst for CH4 the opposite was
+true, with much less being out-gassed than was
+produced in the riverbed.
+
+This shows that the microbial production of these
+gases is not the most important factor in the flux
+to the atmosphere from the river. Instead, for CO2
+at least, atmospheric flux was more dependent on
+river conditions: during periods of high water flow
+after rain, much more CO2 was out-gassed than
+under low flow conditions. This may be because
+CO2-rich waters from the surrounding catchment
+get flushed into the rivers by the rain, and the CO2
+is then released to the atmosphere. At the same
+time, the production in the riverbeds is responsible
+for modulating the amount of flux between the day
+and night time. These findings should lead to a
+greater understanding of how these important
+greenhouse gases are transported between
+terrestrial and riverine ecosystems.
+
+Not only did we consider carbon in rivers, but
+we also wanted to understand what happens to
+nitrogen once it enters a river. There is a global
+problem with excess nitrogen in surface waters,
+and the UK is no exception to this. It is important
+of us to understand the processes by which
+nitrogen, in its different forms, is transported
+to our rivers and the processes by which these
+different forms of nitrogen are transformed in
+our rivers. In particular, we want to understand
+whether excess nitrogen is simply converted
+from one form to another with no overall removal
+or are there processes which remove excess
+nitrogen permanently by making harmless N2 gas
+which is emitted to the atmosphere? All of these
+macronutrient processes are driven by microorganisms
+(such as bacteria and archaea) which
+use carbon and nitrogen species as their food or
+energy source.
+The most exciting discovery in this research
+was that two process that remove nitrogen were
+occurring in rivers - denitrification and anaerobic
+ammonium oxidation (anammox). Denitrification
+is a much-studied pathway of nitrogen removal
+whereby micro-organisms convert nitrate to
+harmless N2 gas. Anammox is also a microbial
+process but involves ammonium and nitrate reacting to form N2 gas that previously was only
+thought to occur in estuaries, marine environments
+and wastewater treatment plants. As well as
+measuring nitrogen removal rates, we also studied
+the micro-organisms responsible for carrying out
+the anammox process. Many micro-organisms
+have preferences as to where they live or particular
+needs- for example in the case of bacteria that
+carry out anammox, it is widely thought that they
+prefer environments that are free from oxygen.
+In our rivers we found the presence of anammox
+bacteria with particularly high abundance
+of a particular gene called hzo (hydrazine
+oxidoreductase). This gene was associated with
+high rates of the anammox process. Our results
+were surprising to us because bacteria that carry
+out the anammox process are typically associated
+with environments that contain no oxygen unlike
+the oxygen-rich environments of chalk streams.
+The contribution of anammox to total nitrate
+removal from rivers seems to vary across our
+different landscape settings; chalk, greensand and
+clay. We find anammox is most important in chalk
+rivers with a gravel substrate where land-river
+connectivity is low. Anammox is least important in
+clays were land-river connectivity is high (~30%
+and 5% of N2 production, respectively). Finding
+that anammox is an active nitrogen removal
+process in rivers is important because compared
+to denitrification, anammox uses less energy to
+remove to nitrogen and does not produce N2O
+(a potent greenhouse gas) as a by-product. We
+hope to keep researching anammox in river
+sediments in the future to better understand what
+environmental factors favour this nitrogen removal
+process.
+We have also shown that microbial communities in
+clay and greensand river catchments have higher
+rates of respiration than photosynthesis, whereas
+chalk rivers have higher rates photosynthesis
+than respiration. Ultimately, this leads to different
+nutrient-processing functions, helping us understand
+that rivers may not all behave the same
+after nutrient addition.
+Another major task of this research project was
+to establish the extent to which C, N and P limit
+the growth and reproduction of invertebrates
+and fish in these streams. To achieve this, the
+biological components (invertebrates, algae,
+detritus and fish) at each site were sampled every
+two months for one full year. We measured the
+abundance and biomass (numbers and mass
+per m2) of each species, and have used this
+information to determine their production (growth
+and reproduction of that species). We also looked
+at the C, N and P content of all food items, so that
+we can estimate the stocks of these elements in
+each system.
+The next step was to establish what everything
+was eating. We did this in two ways:
+a) by looking at the stomach contents of a sample
+of the fish (by pumping their stomachs) and
+invertebrates (by dissection), and
+b) by using stable isotopes, naturally occurring
+tracers of carbon and nitrogen that are conserved
+between predators and prey.Hence, we constructed a food web for each
+stream, where we knew how much of each food
+type was eaten by each species. As we knew the
+C, N and P content of the food, we could then work
+out how much C, N and P they were consuming,
+and relate this to their growth and reproduction.
+Our results suggest:
+1. The invertebrates and fish use a wider variety
+of food items in the chalk streams, where
+groundwater is an important source. In the
+clay streams, where food and nutrients enter
+the river from the land by surface and shallow
+subsurface flows, there is less variety of food
+and everything is competing for the same food.
+2. Because there are a wider variety of things
+to eat, more species can co-exist in the chalk
+streams and hence the numbers and growth
+of fish is higher than in the clay rivers.
+We have shown that the way the water flows bring
+nutrients from the landscape to the river influences
+the species and food webs of rivers.</gtr:description><gtr:exploitationPathways>This consortium project has generated a large amount of output with a diverse array of applications which we are still working up towards our final stakeholder meeting for the entire programme in June - more after that.</gtr:exploitationPathways><gtr:id>5B4C12A1-2526-4103-8869-F6FC8FF20953</gtr:id><gtr:sectors><gtr:sector>Agriculture, Food and Drink,Communities and Social Services/Policy,Environment</gtr:sector></gtr:sectors></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs><gtr:researchDatabaseAndModelOutput><gtr:description>This dataset contains anaerobic ammonium oxidation (anammox) and denitrification activity of riverine sediments in the Hampshire Avon catchment (UK). Nine rivers within sub-catchments of contrasting geology (clay, sand, chalk) were investigated. Data were obtained via laboratory incubations (potential data) and direct, field-based measurements (in situ data) in summer 2013. Also included are chemical parameters determined in porewaters prior to in situ rate measurements.</gtr:description><gtr:id>1540F30B-D96E-447A-B875-8A1AA5A89304</gtr:id><gtr:impact>NA</gtr:impact><gtr:providedToOthers>true</gtr:providedToOthers><gtr:title>Riverine nitrogen gas production by anaerobic ammonium oxidation across contrasting geologies</gtr:title><gtr:type>Database/Collection of data</gtr:type><gtr:url>https://catalogue.ceh.ac.uk/documents/d1b08279-68a8-4d93-afa2-576e903cc04d</gtr:url><gtr:yearFirstProvided>2016</gtr:yearFirstProvided></gtr:researchDatabaseAndModelOutput></gtr:researchDatabaseAndModelOutputs><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/B3E9D4AA-B1FA-4EFA-A27F-031B9EB22B22"><gtr:id>B3E9D4AA-B1FA-4EFA-A27F-031B9EB22B22</gtr:id><gtr:title>River bed carbon and nitrogen cycling: state of play and some new directions.</gtr:title><gtr:parentPublicationTitle>The Science of the total environment</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/05a5a96e8c884ca567dd36f35486b92f"><gtr:id>05a5a96e8c884ca567dd36f35486b92f</gtr:id><gtr:otherNames>Trimmer M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date><gtr:issn>0048-9697</gtr:issn></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/4ED7A6A4-C809-47E9-BEB5-B82334033E20"><gtr:id>4ED7A6A4-C809-47E9-BEB5-B82334033E20</gtr:id><gtr:title>The interplay between transport and reaction rates as controls on nitrate attenuation in permeable, streambed sediments</gtr:title><gtr:parentPublicationTitle>Journal of Geophysical Research: Biogeosciences</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/b5155841292275b9843c84bfe2d9922d"><gtr:id>b5155841292275b9843c84bfe2d9922d</gtr:id><gtr:otherNames>Lansdown K</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/2DEB0A2B-C12E-4DA1-A5D7-AEB55DB74CAD"><gtr:id>2DEB0A2B-C12E-4DA1-A5D7-AEB55DB74CAD</gtr:id><gtr:title>Modelling flow and inorganic nitrogen dynamics on the Hampshire Avon: Linking upstream processes to downstream water quality.</gtr:title><gtr:parentPublicationTitle>The Science of the total environment</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/dbbb5ff437a9de03e3ef03ebe6e1c3d0"><gtr:id>dbbb5ff437a9de03e3ef03ebe6e1c3d0</gtr:id><gtr:otherNames>Jin L</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date><gtr:issn>0048-9697</gtr:issn></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/C45F9C81-F34D-4965-AEF9-224AABAEEED4"><gtr:id>C45F9C81-F34D-4965-AEF9-224AABAEEED4</gtr:id><gtr:title>Impact of genomic diversity in river ecosystems.</gtr:title><gtr:parentPublicationTitle>Trends in plant science</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/2ad650b14ee45d1b8ce393b131b5eda4"><gtr:id>2ad650b14ee45d1b8ce393b131b5eda4</gtr:id><gtr:otherNames>Leitch AR</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2014-01-01</gtr:date><gtr:issn>1360-1385</gtr:issn></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/152C2683-AFEC-489A-B47A-3C29A5BB416C"><gtr:id>152C2683-AFEC-489A-B47A-3C29A5BB416C</gtr:id><gtr:title>Genome size and ploidy influence angiosperm species' biomass under nitrogen and phosphorus limitation.</gtr:title><gtr:parentPublicationTitle>The New phytologist</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/6efe48ca4c02a968fe4f1bedb8da2347"><gtr:id>6efe48ca4c02a968fe4f1bedb8da2347</gtr:id><gtr:otherNames>Guignard MS</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date><gtr:issn>0028-646X</gtr:issn></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">NE/J012106/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>5B25B6A3-B218-4F11-8A9D-661236DF455C</gtr:id><gtr:percentage>20</gtr:percentage><gtr:text>Agri-environmental science</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>825466D8-66F3-4ABB-A62C-357225C4B154</gtr:id><gtr:percentage>80</gtr:percentage><gtr:text>Terrest. &amp; freshwater environ.</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>62DCC1BF-B512-4BDB-A0C3-02BC17E15F6B</gtr:id><gtr:percentage>20</gtr:percentage><gtr:text>Biogeochemical Cycles</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>4237918D-61A8-47E0-91EE-65E98661A88B</gtr:id><gtr:percentage>20</gtr:percentage><gtr:text>Earth &amp; environmental</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>47491D28-C3A9-416A-8459-3ECC0715B776</gtr:id><gtr:percentage>20</gtr:percentage><gtr:text>Earth Surface Processes</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>12C7A68B-3922-4925-9C0B-7FACEC921815</gtr:id><gtr:percentage>20</gtr:percentage><gtr:text>Ecosystem Scale Processes</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>E94BED75-343A-47C8-BEA1-E1E927732B34</gtr:id><gtr:percentage>20</gtr:percentage><gtr:text>Land - Atmosphere Interactions</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

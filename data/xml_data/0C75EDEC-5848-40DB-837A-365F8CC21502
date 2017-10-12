@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/5BB4F8BF-B4E0-4EAF-9AF5-885E19D64850"><gtr:id>5BB4F8BF-B4E0-4EAF-9AF5-885E19D64850</gtr:id><gtr:name>University of Strathclyde</gtr:name><gtr:department>Design Manufacture and Engineering Man</gtr:department><gtr:address><gtr:line1>16 Richmond Street</gtr:line1><gtr:line4>Glasgow</gtr:line4><gtr:postCode>G1 1XQ</gtr:postCode><gtr:region>Scotland</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/5BB4F8BF-B4E0-4EAF-9AF5-885E19D64850"><gtr:id>5BB4F8BF-B4E0-4EAF-9AF5-885E19D64850</gtr:id><gtr:name>University of Strathclyde</gtr:name><gtr:address><gtr:line1>16 Richmond Street</gtr:line1><gtr:line4>Glasgow</gtr:line4><gtr:postCode>G1 1XQ</gtr:postCode><gtr:region>Scotland</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/3F966779-5E5B-47CC-BC2A-C062A3E42A30"><gtr:id>3F966779-5E5B-47CC-BC2A-C062A3E42A30</gtr:id><gtr:firstName>David</gtr:firstName><gtr:surname>Clelland</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/41B05B46-5E81-4864-A25E-352E6BA7505A"><gtr:id>41B05B46-5E81-4864-A25E-352E6BA7505A</gtr:id><gtr:firstName>A. H.</gtr:firstName><gtr:surname>Day</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/F6785AB9-9A02-43B4-94E8-FDEF26388FCC"><gtr:id>F6785AB9-9A02-43B4-94E8-FDEF26388FCC</gtr:id><gtr:firstName>Ekaterina</gtr:firstName><gtr:surname>McKenna</gtr:surname><gtr:roles><gtr:role><gtr:name>RESEARCHER</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/44D77F71-F53D-4EDA-9C60-790C3597B5B1"><gtr:id>44D77F71-F53D-4EDA-9C60-790C3597B5B1</gtr:id><gtr:firstName>Paul</gtr:firstName><gtr:otherNames>Leslie</gtr:otherNames><gtr:surname>Blackwell</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=EP%2FP030645%2F1"><gtr:id>0C75EDEC-5848-40DB-837A-365F8CC21502</gtr:id><gtr:title>MARLIN Modular Floating Platform for Offshore Wind : Concept Assessment</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/P030645/1</gtr:grantReference><gtr:abstractText>Project MARLIN will assess and develop a new concept for a modular floating platform system for offshore wind. The
+project will confirm technical and commercial feasibility of the novel method of construction and deployment of floating
+structures capable of supporting commercially relevant size wind turbines from ISO standard freight container-sized
+modules. Current demonstrator concepts in floating offshore wind require infrastructure of the scale unavailable or
+inaccessible in most of the world. Cost reductions needed to remove barriers to floating offshore adoption will come from
+development of methods not requiring large infrastructure and use of cost-effective mass manufacturing methods for
+making the construction modules.
+The proposed modular approach, with specially designed smaller and lighter building modules that could be towed out to
+sea for assembly, is significantly technically different from the current concepts and demonstrators. The concept will
+resolve the issue of prohibitively high cost of construction, logistics, and deployment in floating offshore wind.
+The main overarching research objective is to design the modules and the full structure, test those out as mathematical and
+physical models, carry out wave tank and sea conditions testing, and development of the manufacturing method. The
+project will deliver: design of a low-cost single module building block structure, design of a full modular configurable
+structure, creating physical and mathematical models, tank tests and sea test of physical models, analysis of manufacturing
+feasibility including a materials selection study and identification of coastal sites and new markets for adoption of the
+technology.
+Two of the University of Strathclyde engineering departments, AFRC and NAOME, will work together with the other
+members of the consortium.
+NAOME's role within the consortium is to develop a detailed hydrodynamic simulation model of the semi-submersible
+concept for two different types of floating modules - a passive one and a dynamic one which can have its buoyancy and
+orientation altered. Scaled models of the two module concepts under a range of different sea states representative of
+where the wind turbines will be deployed will be conducted. The results will be measured and analysed and a report
+provided to the lead partner on the findings from both tests and simulations.
+AFRC's role is to develop a finite element (FE) model for the initial and refined modules, to determine their suitability in
+terms of structural strength performance under different load cases. Once the best configuration for the module has been
+determined, the AFRC will develop a FE model for two different configurations of the final structural assembly made with
+the selected module and simulate the performance of the overall structures. A report will be provided, summarising the
+findings. Due to the complexity of the project, the geographical spread of the partners and the close collaborative nature of
+the project, AFRC will also support Frontier Technical in the management of the project.</gtr:abstractText><gtr:potentialImpactText>The project partners, Frontier Technical, the Port of Sunderland and Tarmac will receive the largest impacts from the
+project. The outputs from the project will enable the partners to assess the viability of a new floating platform concept for
+wind turbines which could reach a full annual production rate in 2025 of 27,000 modules equivalent to 271 5MW floating
+platforms representing 1.35GW per annum installed capacity capability with a market penetration of 15%. With a profit
+margin of 25% this would result in &amp;pound;250M profit per annum.
+Global perspective
+It is acknowledged and reflected in the UN/ BEIS policies, that the dependence on fossil fuels for power generation in this
+country and indeed countries worldwide is unsustainable. More must be done to enable power from renewable energy
+sources to take the place of fossil fuels in our energy mix. This is a challenge for developed countries such as the UK, even
+with the latter benefiting from a subsidised renewables market. The deployment cost of any renewable energy solution
+must be brought down to make it a feasible deployment option in the developing world. If these deployment costs can be
+reduced, there is the potential for a step change in the developing markets. This project is aiming simultaneously to
+contribute to solutions for all of the issues of the Energy Trilemma and the reduction in deployment costs of renewable
+energy assets to meet the energy generation needs of developing countries, thereby contributing to the sustainable
+development both in the UK and in the developing world.
+Economic
+The project is expected to have a significant economic impact in the following areas: inside the consortium: 1) form a basis
+for Frontier Technical's economic activity with a prospect of becoming a significant revenue generator and employer; 2) for
+the industrial partner(s): diversification into the marine structure business and further growth of business for those
+companies in this sector; 3) engagement of suppliers inthe supply chain and outside the consortium: 1) contributing to the
+regional economy growth in North East; 3) in the developing countries market the technology could transform the economic
+fortunes of the coastal areas.
+Social
+The social impacts of this project in the UK lie mainly within the international and national commitments to reducing
+greenhouse gas emissions to limit the impact of climate change, and thereby safeguard society from its impacts. This work
+could directly contribute to DBEIS policy on climate change mitigation and industrial strategy and Defra policy on climate
+change adaptation. For developing countries, access to clean, affordable and reliable energy underpins all other policy
+development to reduce social deprivation and improve the standard of living (ref: DFID 'Transforming Energy Access'
+initiative). Currently this energy access is severely limited by the cost of deployment and infrastructure requirements that
+are often either unavailable or prohibitive to develop. Unlocking this market could have underpin significant social
+improvement in countries that need it most. It is anticipated also that social benefits will come though the impact on
+regional employment and prosperity of the local economy in North East as the company grows. Staff and knowledge
+retention within the region will help regeneration.
+Environmental
+As with social impacts, the environmental impacts of this project at a policy level lie within the international and national
+commitments to reducing greenhouse gas emissions to limit the impact of climate change. At a project specific level, the
+project will reduce the manufacturing carbon footprint of traditional fixed floating wind construction and look to use green
+technologies wherever possible. The proposed technology is highly amenable to recycling and re-use and /or alternative
+use of the modular units. Longer term benefits could also include green energy for aquaculture.</gtr:potentialImpactText><gtr:fund><gtr:end>2017-10-31</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2017-02-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>80639</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">EP/P030645/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>F95121C7-7C31-40CE-BDBC-1E2BF025AEA6</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Energy</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>6BCCE8AB-CBA5-4D28-9682-5236FE9D0668</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Energy - Marine &amp; Hydropower</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

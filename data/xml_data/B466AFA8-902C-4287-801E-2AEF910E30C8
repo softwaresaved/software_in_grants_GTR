@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/46387D84-F71E-4B7D-8C7D-9C288F113510"><gtr:id>46387D84-F71E-4B7D-8C7D-9C288F113510</gtr:id><gtr:name>Imperial College London</gtr:name><gtr:department>Materials</gtr:department><gtr:address><gtr:line1>South Kensington Campus</gtr:line1><gtr:line2>Exhibition Road</gtr:line2><gtr:line4>London</gtr:line4><gtr:postCode>SW7 2AZ</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/46387D84-F71E-4B7D-8C7D-9C288F113510"><gtr:id>46387D84-F71E-4B7D-8C7D-9C288F113510</gtr:id><gtr:name>Imperial College London</gtr:name><gtr:address><gtr:line1>South Kensington Campus</gtr:line1><gtr:line2>Exhibition Road</gtr:line2><gtr:line4>London</gtr:line4><gtr:postCode>SW7 2AZ</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/23066824-3356-4C61-A196-11EC802FD189"><gtr:id>23066824-3356-4C61-A196-11EC802FD189</gtr:id><gtr:firstName>Joanna</gtr:firstName><gtr:otherNames>Claire</gtr:otherNames><gtr:surname>Renshaw</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/05A66283-9B50-486F-A6D8-9AF640762978"><gtr:id>05A66283-9B50-486F-A6D8-9AF640762978</gtr:id><gtr:firstName>Francis</gtr:firstName><gtr:surname>Livens</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/8A6F3480-635B-493D-AF9D-96B0ACE6AC2A"><gtr:id>8A6F3480-635B-493D-AF9D-96B0ACE6AC2A</gtr:id><gtr:firstName>James</gtr:firstName><gtr:surname>Marrow</gtr:surname><gtr:orcidId>0000-0001-6120-9826</gtr:orcidId><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/41F0C3EB-96EC-49AB-8B0E-C19D02C54748"><gtr:id>41F0C3EB-96EC-49AB-8B0E-C19D02C54748</gtr:id><gtr:firstName>John</gtr:firstName><gtr:otherNames>Wyn</gtr:otherNames><gtr:surname>Roberts</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/BC597FA9-5A24-4E0F-B9C4-D7B1475351BF"><gtr:id>BC597FA9-5A24-4E0F-B9C4-D7B1475351BF</gtr:id><gtr:firstName>Stephen</gtr:firstName><gtr:surname>McArthur</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/A445D83F-1063-4E03-AA83-7048DCE6DC9A"><gtr:id>A445D83F-1063-4E03-AA83-7048DCE6DC9A</gtr:id><gtr:firstName>Robin</gtr:firstName><gtr:otherNames>William</gtr:otherNames><gtr:surname>Grimes</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=EP%2FI037644%2F1"><gtr:id>B466AFA8-902C-4287-801E-2AEF910E30C8</gtr:id><gtr:title>Nuclear Universities Consortium for Learning, Engagement And Research: NUCLEAR</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/I037644/1</gtr:grantReference><gtr:abstractText>Recent concerns over climate change and security of energy supply have meant that the UK, alongside other countries, is now very likely to build a new generation of nuclear reactors to meet our future energy needs whilst also helping to meet the UK's commitment to significant reductions in C02 emissions by 2050. These new pressurised water reactors will continue to generate electricity for at least 60 years. During this time we will see significant global changes to the industry, with nuclear decommissioning and waste disposal becoming even more significant and a variety of future generating reactors and even fuel cycles being developed, including small modular reactors and other &amp;quot;Gen IV&amp;quot; designs. Consequently, there will be an increasing range of emerging research challenges to which UK scientists and engineers will be able to make decisive contributions. We will be able to capitalise on the growing nuclear expertise being attracted into the University sector, the expansion of nuclear research facilities being established, and will engage with expertise from related disciplines. However, effectiveness will also depend upon:1. Establishing flexible and efficient links with industry;2. Using the unique facilities and knowledge residing at national nuclear research laboratories; and3. Being able to make the most of international programmes with their opportunities to develop new research partners. Over the last five years ESPRC have invested in a number of research consortia that have supported different aspects of nuclear energy research. These have brought together a number of the existing nuclear facing groups and have directly led to new collaborations. Such collaborations are key to nucleating novel research ideas and proposals. As we move forward with a new generation of reactor build, commensurate developments in disposal technology and innovative design of new reactor systems, a wider range of research experience will be required.The aim of this network is to facilitate the effective UK academic engagement in these nuclear research programmes by working for the nuclear energy groups and engaging groups with emerging interest in nuclear energy, thereby helping academics to apply new approaches to help solve challenging nuclear issues.This will be achieved through a four-strand strategy:1. Growing the network by facilitating nuclear network meetings, seminars and an annual academically based nuclear research conference to share research challenges, research ideas and research outputs;2. Engaging effectively with UK industry to ensure research focus and effective knowledge transfer. This will include developing links with the Energy Generation and Supply Knowledge Transfer Network managed by TWI;3. Facilitating access to specialist research facilities in the UK and overseas including, for example, the National Nuclear Laboratory's Central Laboratory, Manchester's Dalton Cumbrian Facility, the Diamond synchrotron, the Advanced Test Reactor at INL, etc; and4. Engaging with the international nuclear research communities to ensure that the UK's strong reputation for academic research is strengthened through participation in developing consortia, especially when biding for international research funds including EU Framework programmes.This strategy requires the network partners to buy in to a clear vision and to develop supporting material to be used by all members to make industry and global players aware of UK capability and the potential to make use of our research collateral. Ultimately the network will be successful only if it is seen as an entity that works for the UK nuclear energy research community; it must offer individual academics, research groups, and universities the opportunity to improve their research success by engaging, to their advantage, with this nuclear network.</gtr:abstractText><gtr:potentialImpactText>We will build a sustainable network of researchers who will champion UK academic nuclear science and engineering nationally and internationally. The central objective of the project will be to increase the UK's capacity to carry out high impact nuclear energy related research and training by developing opportunities for the UK academic community. The impact will be manifest in: i) Skills. High level skills in the nuclear sector have been declining over decades and have recently been described by NDA as &amp;quot;the critical failure point for nuclear in the UK&amp;quot;. Experience has shown that, at PhD and postdoctoral level, there is very strong demand from employers across the nuclear industry both in the UK and overseas (for example over 40 radiochemistry PhDs have gone into the industry in the last ten years). While skills provision has improved over the last 5 years, demand still far outstrips supply. By working together the academic community, the only providers, will expand the pool of highly skilled recruits and develop innovative approaches to skills training, for example collaborative delivery of continuing professional development to the nuclear industry. ii) Research. By adopting a strategic approach, the UK research community will be able to engage more effectively with international programmes, such as Framework 8, generating additional resources to support UK research priorities. A similar collaborative approach will lead to development of research links with other potential international partners, such as India and China. Likewise, collaborative working will allow us to make best use of the UK's limited facilities for experimental nuclear research, whether sponsored by Government or industry, and to adopt a systematic approach to any future development of new facilities. iii) Policy and Regulation. The nuclear sector has seen very active policy development in the last eight years (four White Papers, on the nuclear legacy, new build, the UK deterrent and geological disposal), and substantial changes in the regulatory framework. In developing and implementing policy initiatives in highly technical areas, Government draws heavily on the research community for advice and scrutiny. The network proposed here will broaden the pool of expertise available to Government, ensuring the best quality of advice.</gtr:potentialImpactText><gtr:fund><gtr:end>2017-10-31</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2011-05-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>15534654</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs><gtr:disseminationOutput><gtr:description>Annual Academics Discussion Meeting 2014 (Leeds)</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>National</gtr:geographicReach><gtr:id>C0C01FF6-AFDB-4CC9-859C-63B820F0BAB1</gtr:id><gtr:impact>Meeting Presentations 
+
+DECC Nuclear R&amp;amp;D Activities - Rob Arnold
+
+NIRAB update - Sue Ion
+
+National Nuclear User Facility - Martin O'Brien
+
+Research Councils UK Energy Programme Nuclear Fission Portfolio - Neil Bateman
+
+ONR Update Presentation - Paul Smith
+
+The Technology Development Alliance - Neil Smart
+
+RWM Science &amp;amp; Technology Plan - Jon Martin
+
+Public Engagement and Public Perception
+
+Nuclear Accidents and Public Opinion: The Curious Case of Fukushima's Impact on Nuclear Attitudes in Britain - Wouter Poortinga 
+
+The UK Science Media Centre - Tom Sheldon
+
+Dialogues with the Media: A few personal reflections after Fukushima - Malcolm Grimston 
+
+Communicating Health Risks from Nuclear Accidents - Gerry Thomas
+
+Radiation Misconceptions and Public Fears - Julian Hamm 
+
+GDF: As much a Social as a Technical Communications Issue - Roy Payne
+
+Generic Feasibility Assessment: a methodology for assessing nuclear energy technologies - Gregg Butler
+
+National Programmes
+
+National Nuclear R&amp;amp;D Programs in Korea - Jongsoon Song
+
+US Approach to Competitive Nuclear Energy Research - Michael Worley 
+
+US Advanced Test Reactor National Scientific User Facility - Rory Kennedy
+
+EPSRC CDT in Nuclear Fission: Next Generation Nuclear (NGN) - Francis Livens
+
+ICO Centre for Doctoral Training - Bill Lee
+
+Nuclear Energy Skills Alliance (NESA): High Level Skills Group - Francis Livens
+
+Research Consortium Updates
+
+Biogeochemical Gradients and Radionuclide Transport - Francis Livens
+
+Nuclear Island Big Rig Programme - Bruce Hanson
+
+Decommissioning, Immobilisation and Storage Solutions for Nuclear Waste Inventories (DISTINCTIVE) - Mike Fairweather
+
+Overview of EPSRC / RWM Geowaste Collaboration - Jon Martin
+
+Graphite Research - Paul Mummery
+
+MBASE: The Molecular Basis of Advanced Nuclear Fuel Separations - Francis Livens
+
+NNUMAN: New Nuclear Manufacturing - Neil Irvine
+
+EPSRC grant for Nuclear data: fission yields, decay heat and neutron reaction cross sections - Jon Billowes
+
+Providing A nuclear fuel Cycle In the UK For Implementing Carbon reduction (PACIFIC) - Bruce Hanson
+
+Performance and Reliability Of Metallic Materials for Nuclear Fission Power Generation - Chris Grovenor
+
+Radioactivity And The Environment (RATE) - Richard Shaw
+
+The REFINE Research Consortium - Andy Mount</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Postgraduate students</gtr:primaryAudience><gtr:url>http://nuclearuniversities.ac.uk/index.php/meetings</gtr:url><gtr:year>2014</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Annual Academics Discussion Meeting 2015 (Sheffield)</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>ABFBAE75-545D-4DFE-8637-EEDC49B2BD24</gtr:id><gtr:impact>2015 Nuclear Academics Discussion Meeting Agenda
+ September 8th 2015
+ 10:00 - 11:15 Coffee/Registration/Slides Hand-In and MIDAS tours
+ 11:15 - 11:20 Introduction and Welcome by Karl Whittle, Neil Hyatt &amp;amp; Robin Grimes 
+ 11:20 - 11:45 MIDAS Launch Neil Hyatt &amp;amp; DECC Official
+ 11:45 - 12:30 Update Presentations I
+ DECC Rob Arnold
+ NIRAB Sue Ion
+ EPSRC Neil Bateman
+12:30 Coach to Conference Venue 
+12:45 - 13:45 Lunch 
+13:45 - 14:30 Update Presentations II 
+ ONR Andy Hall
+ NDA Rick Short
+ NAMRC Stuart Dawson
+ 14:30 - 15:30 Reactor Design I
+ Areva Jean Dher
+ Westinghouse Simon Marshall
+ 15:30 - 16:00 Break
+ 15:15 - 17:00 Reactor Design II
+ Hitachi Kumiaki Moriya
+ SMRs Neil Irvine
+ 17:30 Group Photo 
+ 19:15 
+
+ Dinner (INOX) - Guest Speaker - Sir Keith Burnett 
+
+ 
+ September 9th 2015
+ 9:00 - 10:40 International Session
+ 9:00 - 9:30 Japan Presentation
+ 9:30 - 10:00 U-Battery Paul Harding
+ 10:00 - 10:20 ITU - RDes Thierry Wiss
+ 10:20 - 10:40 ENEN Pedro Dieguez
+ 10:40 - 11:10 Tea and Coffee 
+ 11:10 - 12:00 Update Presentations III
+ NNUF Chris Grovenor &amp;amp; Malcolm Joyce
+ NNL Andrew Sherry
+ CCFE Martin O'Brien
+ US Facilities Rory Kennedy &amp;amp; Andy Worrall
+ CDT Update Bill Lee &amp;amp; Francis Livens
+ 12:00 - 13:00 Lunch
+ 13:00 - 14:20 Research Consortia Updates
+ CAFFE Ian Farnan
+ DISTINCTIVE Bruce Hanson
+ Geowaste Simon Norris
+ UNIGRAF James Marrow
+ 14:20 - 14:40 Tea and Coffee
+ NNUMAN Michael Preuss
+ Nuclear Data Gavin Smith
+ PACIFIC Bruce Hanson
+ RATE Richard Shaw 
+ REFINE Andrew Mount
+ 16:00 - 16:30 Wrap Up Session</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Study participants or study members</gtr:primaryAudience><gtr:url>http://nuclearuniversities.ac.uk/index.php/meetings?id=ARTICLE_102</gtr:url><gtr:year>2015</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Annual Academics Discussion Meeting 2013 (Birmingham)</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>National</gtr:geographicReach><gtr:id>537AAC03-C9C4-4573-A6AD-812838AFDCC3</gtr:id><gtr:impact>Meeting Presentations
+
+Nuclear R&amp;amp;D in the UK: Evidence and Drivers for Change - Christopher Darby, Government Office for Science
+
+National Nuclear User Facility - Bob Williamson, National Nuclear Laboratory
+
+Research Councils UK Energy Programme - Neil Bateman, EPSRC
+
+The NERC Radioactivity And The Environment (RATE) Programme - Joanna Wragg, British Geological Survey
+
+Sellafield Ltd: R&amp;amp;D and the future - Mike James, Sellafield Ltd
+
+Stakeholder Skill Setting: Geological Disposal - Cherry Tweed, Nuclear Decommissioning Authority
+
+The Skills Challenge - Neil Thomson, EDF
+
+The National Nuclear Laboratory and Working with Academia - Graham Fairhall, National Nuclear Laboratory
+
+Stakeholder Skill Setting: CCFE - Martin O'Brien, Culham Centre for Fusion Energy
+
+CIEMAT and CEIDEN (Nuclear R&amp;amp;D in Spain) - Enrique Gonzales, Centro de Investigaciones Energ&amp;eacute;ticas, Medioambientales y Tecnol&amp;oacute;gicas
+
+RCUK Energy Strategy Fellowship Overview and links to Nuclear Academics - Jim Skea, Imperial College London
+
+RCUK Energy Strategy Fellowship Interim findings - Jim Skea, Imperial College London
+
+Educational Topics
+
+1. NNUF - Results of the Consultation Process
+
+2. Courses/Skills for next generation SMEs - How do we create the pipeline for industry and national laboratories?
+
+3. Sustainable Academic Expertise
+
+4. Postgraduate Education
+
+5. Nuclear Information Security 
+
+Research Area Updates
+
+1. Environmental and Geological Disposal
+
+2. Fuel &amp;amp; Spent Fuel including Recycling
+
+3. Structural Materials 
+
+4. Wasteforms and Decommissioning
+
+5. New build (PWR and BWR)
+
+6. Future Nuclear (GEN IV, SMR) and Fusion</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Study participants or study members</gtr:primaryAudience><gtr:url>http://nuclearuniversities.ac.uk/index.php/meetings?id=ARTICLE_100</gtr:url><gtr:year>2013</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Annual Academics Discussion Meeting 2016 (Bristol)</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>87F4D784-6AEC-4271-99DE-3D62AD065137</gtr:id><gtr:impact>The purpose is to bring together senior academics involved with nuclear energy related topics across the UK to engage with institutions nationally and internationality.</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>https://southwestnuclearhub.ac.uk/event/uk-nuclear-academics-meeting/</gtr:url><gtr:year>2016</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Annual Academics Discussion Meeting 2012 (Oxford)</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>National</gtr:geographicReach><gtr:id>D4002643-F1CD-4B10-85C0-486F9CD31C20</gtr:id><gtr:impact>Meeting Presentations
+
+The following presentations were made at the meeting and are available for download -
+
+An Introduction and Overview of KNOO and the UK-India Collaborations - Professor Robin Grimes
+
+DIAMOND - Decommissioning, Immobilisation and Management of Nuclear waste for Disposal - Professor Mike Fairweather
+
+BANDD - Biogeochemical Application in Nuclear Decommissioning and Waste Disposal - Dr Jo Renshaw
+
+PROMINENT - Performance and Reliability Of Metallic Materials for Nuclear Fission Power Generation - Profesor Mike Fitzpatrick
+
+BIGRAD - BIogeochemical Gradients and Radionuclide transport- Professor Katherine Morris
+
+MBASE - a University of Manchester project in collaboration with the National Nuclear Laboratory, Amec and Idaho National Laboratory in the USA on the Molecular Basis of Advanced Nuclear Fuel Separations - Professor Francis Livens
+
+Nuclear Data - a collaboration of the Universities of Manchester, Surrey and York on Fission Yields, Decay Heat and Neutron Reaction Cross Sections - Professor Paddy Regan
+
+Nuclear Graphite Expert Group at The University of Manchester - Dr Abbie Jones
+
+National Nuclear Users Facility - Professor Andrew Sherry and Professor Chris Grovenor
+
+Third Party Access to the National Nuclear Laboratory - Bob Williamson
+
+ 
+
+SWOT Analyses
+
+The meeting attendees chose to join one of five groups, each group carrying out a SWOT analysis of an area. Click on the links below to see the result of the five SWOT analyses:
+
+1. Environmental and Geological Disposal
+
+2. Fuel Materials and Reprocessing
+
+3. Future Systems
+
+4. Reactor Operations Control and Instrumentation
+
+5. Structural Materials
+
+6. Wasteforms and Decommissioning
+
+ 
+
+Grand Challenges 
+
+In the second part of the meeting, following discussion of the SWOT results, the six groups re-formed and identified the Grand Challenges for each area. These are reported at the links below. 
+
+1. Environmental and Geological Disposal
+
+2. Fuel Materials and Reprocessing
+
+3. Future Systems
+
+4. Reactor Operations Control and Instrumentation
+
+5. Structural Materials
+
+6. Wasteforms and Decommissioning</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Study participants or study members</gtr:primaryAudience><gtr:url>http://nuclearuniversities.ac.uk/index.php/meetings?id=ARTICLE_87</gtr:url><gtr:year>2012</gtr:year></gtr:disseminationOutput></gtr:disseminationOutputs><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>We have influenced government reports.
+
+The National Nuclear User Facility (NNUF) arose as a consequence of this grant.
+
+There is now a strong coherent UK civil nuclear energy community</gtr:description><gtr:exploitationPathways>The wider nuclear community is engaged in this process.</gtr:exploitationPathways><gtr:id>FD53FF00-12BD-44F1-8480-D20FF3E18F16</gtr:id><gtr:sectors><gtr:sector>Energy</gtr:sector></gtr:sectors></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/B48CA42D-B490-408D-83DD-3C6DCC5C2622"><gtr:id>B48CA42D-B490-408D-83DD-3C6DCC5C2622</gtr:id><gtr:title>Nuclear Future</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/00afff0ca8b2fb03046ac1b2ee4aab31"><gtr:id>00afff0ca8b2fb03046ac1b2ee4aab31</gtr:id><gtr:otherNames>Grimes, RW</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2013-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/FA559087-1496-4D8D-BA42-8580E3142EDA"><gtr:id>FA559087-1496-4D8D-BA42-8580E3142EDA</gtr:id><gtr:title>2016 Nuclear Academics Discussion Meeting</gtr:title><gtr:parentPublicationTitle>Nuclear future</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/99a230ccbe492aea8059d5df8b033aba"><gtr:id>99a230ccbe492aea8059d5df8b033aba</gtr:id><gtr:otherNames>Roberts J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">EP/I037644/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>F95121C7-7C31-40CE-BDBC-1E2BF025AEA6</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Energy</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>0FE8D416-B45D-49A3-928D-3B94E03E72DD</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Energy - Nuclear</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/D82F94EC-9E43-4133-AAC5-FB34D0074719"><gtr:id>D82F94EC-9E43-4133-AAC5-FB34D0074719</gtr:id><gtr:name>Government of the UK</gtr:name></gtr:collaborator></gtr:collaborations><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/245EB81A-808F-4697-BAED-263C20266B74"><gtr:id>245EB81A-808F-4697-BAED-263C20266B74</gtr:id><gtr:name>University of Ulster</gtr:name><gtr:department>Sch of Sociology &amp; App Social Studies</gtr:department><gtr:address><gtr:line1>Cromore Road</gtr:line1><gtr:line4>Coleraine</gtr:line4><gtr:line5>County Londonderry</gtr:line5><gtr:postCode>BT52 1SA</gtr:postCode><gtr:region>Northern Ireland</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/245EB81A-808F-4697-BAED-263C20266B74"><gtr:id>245EB81A-808F-4697-BAED-263C20266B74</gtr:id><gtr:name>University of Ulster</gtr:name><gtr:address><gtr:line1>Cromore Road</gtr:line1><gtr:line4>Coleraine</gtr:line4><gtr:line5>County Londonderry</gtr:line5><gtr:postCode>BT52 1SA</gtr:postCode><gtr:region>Northern Ireland</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/D82F94EC-9E43-4133-AAC5-FB34D0074719"><gtr:id>D82F94EC-9E43-4133-AAC5-FB34D0074719</gtr:id><gtr:name>Government of the UK</gtr:name><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/215C8CB9-38B2-495F-89F4-21D4414B80C6"><gtr:id>215C8CB9-38B2-495F-89F4-21D4414B80C6</gtr:id><gtr:name>University of California, Berkeley</gtr:name><gtr:address><gtr:line1>University of California, Berkeley</gtr:line1><gtr:line2>191 University Hall</gtr:line2><gtr:postCode>CA 94720</gtr:postCode><gtr:region>Unknown</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/427C8A9E-64D8-4940-8911-953B4A177A75"><gtr:id>427C8A9E-64D8-4940-8911-953B4A177A75</gtr:id><gtr:name>School of Oriental &amp; African Studies</gtr:name><gtr:address><gtr:line1>Thornhaugh Street</gtr:line1><gtr:line2>Russell Square</gtr:line2><gtr:line4>London</gtr:line4><gtr:postCode>WC1H 0XG</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/2BA3C484-FA19-4E5D-BBB7-2FCFAD740307"><gtr:id>2BA3C484-FA19-4E5D-BBB7-2FCFAD740307</gtr:id><gtr:name>The Home Office</gtr:name><gtr:address><gtr:line1>3rd floor, Seacole Bldg</gtr:line1><gtr:line2>2 Marsham Street</gtr:line2><gtr:line4>London</gtr:line4><gtr:postCode>SW1P 4DF</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/68D0E3C9-9246-4CFC-B5E9-48584CF82993"><gtr:id>68D0E3C9-9246-4CFC-B5E9-48584CF82993</gtr:id><gtr:name>University of Manchester</gtr:name><gtr:address><gtr:line1>Oxford Road</gtr:line1><gtr:city>Manchester</gtr:city><gtr:postCode>M13 9PL</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/F9FC8F89-AE1D-4ECF-8815-C8EF412244F4"><gtr:id>F9FC8F89-AE1D-4ECF-8815-C8EF412244F4</gtr:id><gtr:firstName>Susan</gtr:firstName><gtr:surname>Hodgett</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/D849AD61-C9F1-4FE6-BECC-2276CD72DE7D"><gtr:id>D849AD61-C9F1-4FE6-BECC-2276CD72DE7D</gtr:id><gtr:firstName>Roderick</gtr:firstName><gtr:otherNames>Arthur</gtr:otherNames><gtr:surname>Rhodes</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=AH%2FN006712%2F1"><gtr:id>97DAB375-2EFD-4959-BECA-1F2E686E95A5</gtr:id><gtr:title>Blurring Genres Network: Recovering the Humanities for Political Science and Area Studies</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>AH/N006712/1</gtr:grantReference><gtr:abstractText>This project will put in place a new network of scholars and policy-makers who will explore innovations in theory and practice that recover the research methods of the Arts and Humanities and encourage their use by Political Scientists, Area Studies scholars and policy-makers in the UK and beyond. The network will investigate examples of blurring genres, or crossing boundaries, between the disciplines in pursuit of insight into making and remaking theory, policy and practice in modern government. It will consider the practicalities of government policy-making in the United Kingdom, and beyond, seeking to apply the insights in, for example, narrative policy analysis. The network will bring together international scholars working on interpretive approaches to Political Science, with experts on Area Studies, to investigate what added value interdisciplinary research teams can bring to traditional research approaches when exploring modern governance. Particularly significant will be the study of the use of narratives and meta-narratives (narratives about narratives) for Historians, Political Scientists, Sociologists, Anthropologists and Philosophers, as well as for policy-makers. The network together will contemplate the kind of stories created, evolved and recounted in the implementation of everyday policy-making in the practice of modern government. The aim of the project will be to recover methodologies from the Arts and Humanities for the use of Political Scientists and interdisciplinary Area (or country) Studies specialists. Furthermore, the Blurring Genres Network will encourage sharing of best practice necessary to inform future policy-making and innovative scholarly work; for example, by developing narrative policy analysis. The new network will encourage interdisciplinary research between scholars in the United States, the UK, China, Australia, Canada, Brazil and elsewhere with an international and comparative approach involving policy-makers. The Blurring Genres Network will organize a research field that, to date, has been unstructured, lacking regional conferences, publications or directly relevant professional associations. It will assist scholars in the United Kingdom to lead the world in this emerging field of international and interdisciplinary research. It will bring together a number of learned societies (UK Council of Area Studies Associations, Political Studies Association UK and the Western Political Science Association USA) internationally with senior UK policy-makers which have not worked together before so creating a new, unique and practical network.</gtr:abstractText><gtr:potentialImpactText>Learning will be used by
+- Interdisciplinary scholars (senior and junior scholars) from several countries including experts, those new to the field, &amp;amp; post graduate students. Scholars involved will be those with established, or emergent, interests in the research methods of the arts &amp;amp; humanities with particular emphasis upon the importance of narratives and the uses of storytelling.
+- Government Circles. The management group have well established links with government departments in the UK to facilitate excellent policy focused engagement. All three academics (Hodgett, Rhodes and Bevir) have considerable experience in writing on policy related issues in the UK &amp;amp; beyond. They will use established networks to achieve direct and indirect impact in the public service &amp;amp; further afield for improved public policy. Policy-makers from across central government and devolved institutions will be invited to take part. Participants will benefit from considering how research techniques mined from the Arts and Humanities can better inform the process of modern governance. Case studies will be used from the UK and abroad.
+- Think Tanks. Policy focused participants (the Institute for Government, the British Academy's Policy Centre, the British Council, What Works Centre for Well Being, Chatham House, Policy Exchange, Demos, Centre for Policy Studies &amp;amp; the Institute for Public Policy Research) will also receive invitations to engage in knowledge exchange on process &amp;amp; practice to some events. 
+- Commercial Research Organisations McKinsey &amp;amp; Company and Price Waterhouse Coopers will be invited to participate in an event. This audience has potential for outstanding impact. The knowledge created &amp;amp; shared among this influential group will have significance across research on a wide range of public life (public, private and voluntary sectors). This will impact upon individuals, organisations and communities beyond the academy in the social, economic, political &amp;amp; arts domains. Information gleaned through this network should serve to increase the effectiveness of public policy &amp;amp; service provision longer term. It will also have influence across many aspects of national life so contributing to the wider public benefit.
+
+We therefore expect that impact might include:-
+
+1. Informing central government departments on academic practice through Civil Service Learning, sharing experience of interpretive approaches to policy development.
+2. Informing devolved departments on practice, sharing knowledge of regional &amp;amp; cultural difference, &amp;amp; new developments in policy innovation.
+3. Capitalizing on knowledge exchange between the academy &amp;amp; government departments through discussions with those likely to be impacted by policy interventions. 
+4. Concentrating on mining ideas from the Arts &amp;amp; Humanities in potential research networks between the academy, government &amp;amp; policy related think tanks including, for example, the Institute for Government, the British Academy's Policy Centre, the British Council, What Works Well Being Centre, Chatham House, Policy Exchange, Demos, Centre for Policy Studies &amp;amp; the Institute for Public Policy Research. 
+5. Reaching out to members of the academy not yet engaged in work on methodology including, for example, the UK Council for Area Studies (representing 23 learned societies http://www.ukcasa.ac.uk/ ) &amp;amp; running an event in conjunction with members. This may provide opportunities to collaborate with the government and media.
+6. Engaging with the media to publicize our work including, for example, BBC Radio 4's Today Programme, Thinking Allowed &amp;amp; Sunday. Project leaders already have established connections to the BBC.
+7. Senior AHRC, ESRC, RCUK, REF and HEFCE officials will also be invited to take part.</gtr:potentialImpactText><gtr:fund><gtr:end>2017-12-31</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/1291772D-DFCE-493A-AEE7-24F7EEAFE0E9"><gtr:id>1291772D-DFCE-493A-AEE7-24F7EEAFE0E9</gtr:id><gtr:name>AHRC</gtr:name></gtr:funder><gtr:start>2016-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>36318</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs><gtr:collaborationOutput><gtr:collaboratingOrganisation>Government of the UK</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:department>Cabinet Office</gtr:department><gtr:description>Cabinet Office-Analysis and Insight Units</gtr:description><gtr:id>4EE778FE-CF57-490E-822F-B26ECFA67F82</gtr:id><gtr:impact>Discussion at high level training of methods from the Arts and Humanities in Cabinet Office. Uses of storytelling in some fields. I sent a copy of my lecture with a more detailed reading list after the event for further reading on the method in depth.</gtr:impact><gtr:partnerContribution>My partners in Cabinet Office provided the audience of policy makers. They circulated and invited policy makers from different units of Cabinet Office. They provided the venue and lunch ; senior officials engaged in debate and conversation with the younger, fast track, civil servants about storytelling and the uses of narrative.</gtr:partnerContribution><gtr:piContribution>On 26th August 2016 I took part in a day training with five different teams from Cabinet Office on the importance of narratives and story telling for impact and evaluation of policy. I did a substantial training seminar with 25 attendees from different units. Mostly attendees were Economists/ Statisticians and from the hard sciences. After delivering a substantial lecture on the topic there was a lively discussion of using these methods in evaluating policy. This was followed by an afternoon slot where I engaged with the attendees in their teams and listened to their group constructions of a story on recent policy interventions. I then took part in discussions following the presentations by each Analysis and Insight team. The event was held at Royal Courts of Justice London.
+
+All attendees came from the Civil Service Group in the Cabinet Office. 
+The subteams and the number of members were as follows, which totals to 22:
+Employee Engagement Team (5) 
+Workforce Statistics(6)
+Diversity (1)
+Civil Society research (4) 
+Wellbeing (1)
+Economics (3)
+Senior Leaders (2)</gtr:piContribution><gtr:sector>Public</gtr:sector><gtr:start>2016-01-01</gtr:start></gtr:collaborationOutput></gtr:collaborationOutputs><gtr:disseminationOutputs><gtr:disseminationOutput><gtr:description>Seminar Two- Policy, Stories and Narratives</gtr:description><gtr:form>A formal working group, expert panel or dialogue</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>82441EB2-AA2A-46B9-9D66-4B5D890D066F</gtr:id><gtr:impact>This was the second of our seminars intended to bring to the attention of Political Scientists and Area Studies specialists the research methods of the Arts and Humanities. A number of different styles of storytelling and the uses of narratives were illustrated including the use of film, advertising and elections, photographs and politics, Greek Myths and Legends, as well as international and contemporary novels used to consider policymaking and local culture. Again the audience was fairly evenly split between Politics/ Area Studies and the Humanities ( Historians in particular), the discussion was very lively and extremely animated. Policy makers also attended from UK Civil Service Learning (Home/Cabinet Office) and ONS.
+
+'Policy, Stories and Narratives'
+Thursday 17 November 2016
+SOAS University of London, Main Building, Meeting Room 116
+Directions: see soas.ac.uk/visitors/location/maps/
+Programme
+10.00am Welcome and Opening Remarks
+Professor Mark Bevir (University of California, Berkeley).
+10.15am Susan Hodgett, Senior Lecturer, Ulster University and Marguerite Cassin, Associate Professor,
+Dalhousie University.
+&amp;quot;Feelingful Development: pushing boundaries- trials and tribulations in using novels and
+storytelling to inform policymaking and analysis.&amp;quot;
+11.30am Coffee
+11.45am Yiannis Gabriel, Professor of Organizational Theory, Bath University.
+&amp;quot;Nostalgic narratives, conspiracy theories and right wing ideologies: The
+dangerous consequences of blurring fantasy and fact.&amp;quot;
+1.00pm Lunch
+2.00pm Sandford Borins, Professor of Public Management University of
+Toronto, Research Fellow, Harvard University, Kennedy School.
+&amp;quot;It's the Way you Tell It: Conflicting Narratives in the 2015
+Canadian Election.&amp;quot;
+3.15pm Coffee
+3.30pm Discussion on going forward
+4.30pm Comments &amp;amp; Close
+Professor Tony Chafer (UKCASA)
+Supported by
+Blurring Genres Network: Recovering the Humanities for
+Political Science and Area Studies
+IRiSS Institute for Research in
+Social Sciences</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Other audiences</gtr:primaryAudience><gtr:url>http://www.socsci.ulst.ac.uk/sociology/profiles/sl.hodgett/ahrc.html</gtr:url><gtr:year>2016</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Seminar One Politics as Drama</gtr:description><gtr:form>A formal working group, expert panel or dialogue</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>1B30E123-C217-4DBD-9DAC-EDBFD6615504</gtr:id><gtr:impact>This was the initial meeting of the network intended to bring together Political Scientists, Area Studies Specialists to consider the research methods of the Arts and Humanities and their relevance to these disciplines. The audience was well split between the different disciplines, made of a very senior cohort of international and national academics. The discussion was very spirited and engaging as evaluations made clear. It was fascinating to see the revelation of each discipline, understand, appreciate and respect the approaches of the other and make clear the necessity of these fundamental discussions. I have pasted in the detail of the seminar programme below, with information on speakers. The seminar was also attended by policy makers from Cabinet Office and Home Office as well as Post Graduate Students.
+'Politics as Drama'
+Tuesday 28 June 2016
+SOAS London, Room 4429, floor 4.
+Directions: see soas.ac.uk/visitors/location/maps/
+Programme
+10am Welcome and Opening Comments
+Dr. Susan Hodgett and Professor Rod Rhodes
+10.15am Maarten Hajer, Professor of Urban Futures, University of Utrecht. From a &amp;quot;Walk in the Woods&amp;quot;
+to the &amp;quot;Climate Crisis&amp;quot; : the Importance of understanding Politics as Drama.
+11. 30am Coffee
+11.45am Rens Van Munster, Senior Researcher, Danish Institute for International Studies.
+&amp;quot;Staging World Politics: The Politics and Ideology of Documentary Film.&amp;quot;
+1pm Lunch
+2pm Joe Kelleher, Professor of Theatre and Performance, Roehampton
+University,
+&amp;quot;State of Play: on theatre and the political.&amp;quot;
+3.15pm Coffee
+3.30pm Discussion on going forward
+4.30pm Close.</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Public/other audiences</gtr:primaryAudience><gtr:url>http://www.socsci.ulst.ac.uk/sociology/profiles/sl.hodgett/ahrc.html</gtr:url><gtr:year>2016</gtr:year></gtr:disseminationOutput></gtr:disseminationOutputs><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs><gtr:impactSummaryOutput><gtr:description>At this stage it is too early to be specific. Suffice to say that we have engaged with policy makers throughout the whole series both in all seminars held and in other events organised through the series eg. training with UK Civil Service Learning, and in working with those in Cabinet Office in a separate event in the summer time. It looks like future training may well be forthcoming with Civil Service Learning about the uses of narratives in story telling and in working with other parts of the Civil Service to spread the message to a wider audience. Feedback so far has indicated that we have assisted in increasing awareness of the use of narrative in policy evaluation among senior civil servants (mostly grade 7 and upwards). We have provided case studies about how this has been done, and we have discussed in teams with groups of civil servants about their own practice. The event with Cabinet Office (Analysis and Insight Unit) in August was particularly effective in this respect as it had more time to engage with these statisticians and economists (Susan Hodgett, 26th August 2016, Royal Courts of Justice).
+
+Details of the other event for Civil Service Learning Training are provided below. 
+
+Policy Analysis as Narrative - Telling stories
+Date &amp;amp; time: 13:30-17:00 
+Friday 18 November 2016
+Location: Admiralty House, Ripley Yard, 26 Whitehall, SW1A 2DY Civil Service Learning/ Home Office
+- (Attendees -approx. 35 across 15 government ~Whitehall departments). 
+
+Storytelling has been our most enduring technology for sharing important lessons over generations. Sometimes the evidence that will support a policy making decision simply can't be conveyed by simple quantitative data. Indeed you may be the recipient of a rich and complex story that you know sells the benefits of your policy more than cold, hard stats can do. How can narrative be better used in policy analysis and evaluation?
+Ever wondered what it takes to be a good story teller? How can you as a policy professional take stakeholders on a journey with you, illustrating how a policy solution will have a positive effect on a person's day to day life? Ever watched someone tell a story that captivates their audience and wished you had their skills?
+This workshop will offer an opportunity to understand how narratives can be used in policy analysis at different levels of government and in different countries. This interactive workshop brings together senior academics and policy makers to explore and understand excellent story telling in the policy making context. The aims of the workshop are to help you:
+? Understand why narratives are important;
+? Consider why we should use narratives to analyse policy, and as a means of policy evaluation;
+? Understand how different governments/administrations have used narrative as a means of policy analysis;
+? Consider how these approaches have been used across different policy platforms and in different places;
+? Learn how narratives can assist you to be more effective in interventions, co-production and in achieving impact.
+
+The running order of the event is:
+13:30 Registration and lunch 
+13:50 Welcome 
+14:00 Why we tell stories - Professor Rod Rhodes. 
+14:20 'Creating No Precedent?' Telling Stories in EU Policy Evaluation - Community Infrastructure in Northern Ireland - Dr. Susan Hodgett
+14:40 Criticising the delivery and content of the stories above. Audience participation!
+14:50 Coffee break
+
+15:00 Learning from doing - interactive story telling session
+Working in groups using narrative to consider policy solutions. Each person identifies a topic about which they will tell a story on a policy intervention, as if to a sceptical stakeholder, and tells a story to their group. Part of the task will be to accurately identify the audience for the story. Participants should come prepared with the story to tell to their group; the group then chooses one story to present to the plenary session, and works on the presentation of that story.
+15:40 Telling stories to a range of audiences (Plenary)
+Each group presents one story to the plenary session. The audience will discuss its likes and dislikes about both the story and its mode of presentation. Each table will also be given a given a particular persona and asked to consider the story from that particular point of view. Feedback will be given (speakers will facilitate plenary session).
+16:30 How would you devise a template for telling a story?
+Introduction from speakers and facilitated table discussions to come up with a template.
+17.00 Wrap up - Susan Hodgett &amp;amp; Rod Rhodes
+17.15 Close
+
+Speakers
+ 
+Susan Hodgett
+Deputy Chair of the Research Excellence Framework (REF) sub panel 27 (Area Studies) and Senior Lecturer at Ulster University. Susan has worked with departments of the Government of Canada (currently Global Affairs) and government in Northern Ireland on EU/local policy analysis and had a career in politics before working in academia.
+ 
+Rod Rhodes
+Professor of Government (Research) at the University of Southampton, Director of the UK Economic and Social Research Council's 'Whitehall Programme' (1994-1999); and Distinguished Professor of Political Science at the Australian National University (2006-11). Rhodes is well known for his prodigious global research on narrative approaches to policy.
+
+Packs of training materials were given out to participants at the end of the event.</gtr:description><gtr:firstYearOfImpact>2016</gtr:firstYearOfImpact><gtr:id>C5C4ECED-BD3C-480D-A1B7-30B735E37B43</gtr:id><gtr:impactTypes><gtr:impactType>Policy &amp; public services</gtr:impactType></gtr:impactTypes><gtr:sector>Agriculture, Food and Drink,Communities and Social Services/Policy,Education,Healthcare,Government, Democracy and Justice,Transport,Other</gtr:sector></gtr:impactSummaryOutput></gtr:impactSummaryOutputs><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>The aim of the project is to recover methodologies from the Arts and Humanities for the use of Political Scientists and interdisciplinary Area (or country) Studies specialists. The Blurring Genres Network is encouraging sharing of best practice necessary to inform future policy-making and innovative scholarly work. The innovative network will encourage interdisciplinary research between scholars in the UK and beyond. The network will organize a research field that, to date, has been unstructured. It is assisting scholars in the United Kingdom to lead the field in this emerging international and interdisciplinary research. It will also connect a number of learned societies (UK Council of Area Studies Associations (UKCASA), Political Studies Association UK (PSA) and the Western Political Science Association (USA) with each other and/or senior UK policy-makers. All seminars, to date, have involved representatives from the member associations of UKCASA, the PSA, and UK policymakers. This report covers progress at the half-way point in our funding. 
+Two seminars have been held in 2016 and were considered a great success (see comments below). Four more seminars will be held by the end of 2017.
+
+What were the most significant achievements from the award?
+We have organised six workshops: 
+ 1. Politics as Drama - SOAS, University of London - Tues. 28 June 2016
+ 2. Policy as Stories and Narratives - SOAS, London - Thurs.17 November 2016 
+(*a separate event on Policy Analysis as Narrative was held the day after for Home Office/ Civil Service Learning in Whitehall.) 
+ 3. Politics as History - Manchester University - Monday 8 May 2017
+ 4. Politics as Anthropology - SOAS/University of Southampton - Friday 23 June 2017
+ 5. Politics as Literature - University of California Berkeley - Wednesday 6 September 2017
+ 6. Politics as Human Affairs and Philosophy - Ulster University - Fri. 17 November 2017 
+
+Two workshops have been held already
+1. Politics as Drama - SOAS, University of London - Tues. 28 June 2016
+
+Maarten Hajer, Professor of Urban Futures, University of Utrecht. 
+From a &amp;quot;Walk in the Woods&amp;quot; to the &amp;quot;Climate Crisis&amp;quot;: the Importance of understanding Politics as Drama.
+Rens van Munster, Senior Researcher, Danish Institute for International Studies.
+&amp;quot;Staging World Politics: The Politics and Ideology of Documentary Film.&amp;quot;
+Joe Kelleher, Professor of Theatre and Performance, Roehampton University, 
+&amp;quot;State of Play: on theatre and the political.&amp;quot;
+Discussion on going forward.
+
+Attendees Included 
+Ten professors from UK universities including Oxbridge and Russell Group institutions amongst others. Several senior academics from UK institutions. Doctoral students and senior foreign academics attended along with representatives from the Policy Profession UK (Senior Civil Servants). Attendees were equally divided between the Arts and Humanities and the Social Sciences.
+
+Comments from Participants
+The first workshop I attended of the Blurring Genes Network was excellent both in terms of its organisation and the range of presenters. The discussion certainly did help to stimulate new avenues of enquiry to be developed and deepened throughout the coming workshops. I was particularly interested in the presentations on visual evidence through documentary film which offered much original thinking and novel approaches. (Professor, Arts and Humanities)
+
+Cross-disciplinary work and thinking is something more often talked about than actually done. In this respect, it was quite something to be in a room not only with politics people but also with specialists in the Middle East, social policy, 'oriental' studies and more. The day was well set up and the audience well chosen The seminar featured three very different kinds of talk connected by the broad themes of performance and narrative. The talks might have had little in common but the focus on politics meant that connections were made clear (and important differences usefully highlighted). Discussions furthered understanding of such commonalities and differences and helped open on to the central theme of the seminar series. I was convinced by the day that there are ways to bring humanities and Political Science into fruitful conversation, for politics to learn from these other perspectives and for them to learn from politics. (Professor, Political Science)
+
+ I found the workshop to be a deeply thoughtful and intellectually lively occasion; as a humanities scholar, I was very interested to hear both the concerns of participating politics scholars on what they wanted to do and felt was missing in their work, and also to hear how much they are already doing that connects with my work and outlook. I also thought the formal contributions were very useful, and - again, from a humanities perspective - they also served as a reminder that whilst we share much and can learn from each other, we also ought not assume that such crossovers can be done with ease (the various uses that 'performance' and associated words have been subject to across the Humanities is a case in point). The day left me full of thoughts and longing to read more of the work that was referred to - I hope this develops not only into an ongoing conversation across disciplines as envisioned but also generates an associated reading group (Professor, Area Studies)
+
+Thanks so much for bringing everyone together yesterday and for selecting three excellent speakers. It was a brilliant start to your network. I have spent the morning distilling my notes and making links between some of the ideas I was introduced to yesterday and my own work. What you are doing is so important for academics. We rarely get the chance to branch out beyond our disciplines. Getting to do this is important both in terms of the new research agendas it could help feed but also the networks and synergies it will foster. Would there be room for a workshop that allows the members of the network to talk about the impact the events are having on their own thoughts about their own work and also about how they understand their discipline and its priorities? (Senior Lecturer, Political Science)
+
+Thank you so much for yesterday's network meeting. It achieved all that I thought it would - it was provoking, it exposed me to colleagues from other genres and how they deal with politics, it challenged the ways I view things and gave me much to think about. It showed, above all, how the need for a 'Blurring Genres Network' is a very real one - and I am really looking forward to participating in the coming months. Thanks again - it was a real intellectual delight. (PhD candidate and former senior politician)
+
+2. Policy as Stories and Narratives - SOAS, London- Thurs. 17 November 2016 
+* Second event for Home Office/ Civil Service Learning Friday 18 November 2016
+
+Mark Bevir, (Professor, University of California, Berkeley)
+&amp;quot;Opening Remarks&amp;quot;
+Susan Hodgett, Senior Lecturer, Ulster University &amp;quot;Feelingful Development: pushing boundaries- trials and tribulations in using novels and storytelling to inform policymaking and analysis.&amp;quot;
+Yiannis Gabriel, Professor Organizational Theory, Bath University.
+&amp;quot;Nostalgic narratives, conspiracy theories and right wing ideologies: The dangerous consequences of blurring fantasy and fact.&amp;quot;
+Sandford Borins, Professor of Public Management University of Toronto, Research Fellow, Harvard University, Kennedy School.
+&amp;quot;It's the Way you Tell It: Conflicting Narratives in the 2015 Canadian Election.&amp;quot;
+Tony Chafer, Professor, University of Portsmouth (President, UKCASA). 
+Comments and discussion on going forward.
+
+Attendees included 
+Eleven Professors from UK universities, several other senior academics along with junior Early Career Researcher staff and four Doctoral students, Civil Service Learning and the Office of National Statistics. Attendees were divided between Area Studies, the Humanities and the Social Sciences.
+
+Comments from Participants 
+The workshop brought together humanities specialists interested in storytelling and public policy specialists - a rare combination, but an excellent exemplar of what can be achieved by cross-disciplinary working in the humanities and social sciences. (Professor, Area Studies)
+
+The seminar had many benefits for me and I would rate it as an excellent intellectual[event] Both Hodgett and Gabriel's [papers] were very thought-provoking Finally, I had not met any of the people at the seminar before, so it was very useful for me in terms of networking with people who share my interests in narrative, and discussing both substance and methodology. (Professor, Management)
+
+Thanks for inviting me to the event I definitely felt like I was in a very different world focusing on the applications of the research findings for policy purposes while others were more interested in the methods and findings for their own sake. For offering a policy perspective [some] participants were well placed to think how the kinds of research being discussed could be used to inform policy ideas or decision making having come from that worldI thought the presentations were very interesting and gave me a lot of food for thought. (Office for National Statistics) 
+
+The meeting offered a first-class example of the potential for cross-disciplinary research to feed into policy debates. The standard of all the papers was high; and the discussion that followed was in each case stimulating and vigorous. (Professor, History)
+
+As a PhD student who was looking for alternative methods for my ethnographic fieldwork, I found the presentations and indeed the discussions on how narratives can inform policy-making very interesting. My research project is looking at local representations of security and security policy among transnational communities in Africa. I find that the life story approach can be a very useful entry point for my fieldwork. I would like to continue to be updated on the network activities. (PhD. Candidate)
+
+Four workshops are in an advanced state of preparation 
+
+3. Politics as History - Manchester University - Monday 8 May 2017
+Speakers' including (tbc):
+? Sir Anthony Seldon (Vice Chancellor, Buckingham University)
+? Professor Peter Gatrell (Chair REF sub panel Area Studies, Manchester University)
+? Dr. David Craig (Durham University)
+? Dr. Mandy Sadan (SOAS)
+
+4. Politics as Anthropology - SOAS- Friday 23 June 2017
+Speakers' including (tbc):
+? Professor Marc Abeles (Ecole des Hautes Etudes en Sciences Sociales, Paris)
+? Professor RAW Rhodes (Southampton University)
+? Professor Emma Crewe (SOAS)
+? Professor Hastings Donnan (Chair REF sub panel Anthropology and Development Studies, Queens University, Belfast)
+
+5. Politics as Literature - University of California Berkeley - Wed. 6 September 2017
+
+6. Politics as Human Affairs and Philosophy-Ulster University - Friday 17 November 2017 
+
+The organizers have deliberately tried to maintain a balance of disciplines and to include speakers new to UK audiences. We have also striven to achieve a balanced platform in terms of gender and stage of career for speakers and participants.</gtr:description><gtr:exploitationPathways>To what extent were the award objectives met? 
+? Interdisciplinary scholars (senior and junior) have taken part including international experts, those new to the field, &amp;amp; post graduate students. We have had very good participation from doctoral students who, through evaluation, have told us that they have found the meetings very useful. Overwhelmingly the response of attendees from all sectors has been very positive indicating the real and pressing need to bring together people from across the disciplinary and professional divides to learn from each other.
+
+? We have had particular interest from Government Circles. Policy-makers from across several central government departments have taken part. Participants have benefited from considering how research techniques mined from the Arts and Humanities can better inform the process of modern governance. Case studies have been used. The networking aspects of the research seminars have led to two extra events and workshops held for UK government on the use of narratives in policy evaluation for Civil Service Learning (across 15 government departments) and Cabinet Office (seven different units).
+
+If you can, briefly explain why any key objectives were not met. 
+Despite invitations sent to think tanks and commercial research organisations we have been disappointed none has, as yet, attended. We are hoping that they may attend future events. 
+
+How might the findings be taken forward and by whom?
+The seminars, as they develop, will lead to new research alliances and future research applications across disciplines and sectors. The network will take this forward as the project develops further.
+
+The following developments are already underway: -
+? A book proposal profiling outstanding papers from the series (undertaken by the PI and CI).
+? Consideration as to how to give the network a permanent web presence through the Centre for Political Ethnography at Southampton University and/or UKCASA (undertaken by the PI, CI and contributing professional associations). 
+? A further research grant application in Area Studies with a political ethnography component is under discussion. We are identifying a team to write the proposal (undertaken by the PI, CI and others). 
+? Discussions and updates with professional associations and learned societies including UKCASA and the PSA are being undertaken by the PI and CI as we go forward regarding future developments. 
+? Discussions with the media are ongoing (PI).</gtr:exploitationPathways><gtr:id>E0278ADF-F233-49BA-821C-57D0511D8576</gtr:id><gtr:sectors><gtr:sector>Communities and Social Services/Policy,Education,Environment,Government, Democracy and Justice,Security and Diplomacy,Other</gtr:sector></gtr:sectors></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs><gtr:policyInfluenceOutput><gtr:areas/><gtr:description>Telling Stories for Analysis and Impact- Cabinet Office - Analysis and Insight Team -Fri 26 August 2016. Dr. Susan Hodgett</gtr:description><gtr:geographicReach>National</gtr:geographicReach><gtr:id>A4964DC1-1ED7-4531-975E-A47B95F59BE0</gtr:id><gtr:impact>The 22 participants from several units in Cabinet Office reflected on the uses of constructing narratives of their work. A number of the teams discussed that with me how it might be put into practice.</gtr:impact><gtr:type>Influenced training of practitioners or researchers</gtr:type></gtr:policyInfluenceOutput><gtr:policyInfluenceOutput><gtr:areas/><gtr:description>Policy Analysis as Narrative - Telling stories Date &amp;amp; time: 13:30-17:00 Friday 18 November 2016 Location: Admiralty House, Ripley Yard, 26 Whitehall, SW1A 2DY Dr. Susan Hodgett and Prof. RAW Rhodes.</gtr:description><gtr:geographicReach>National</gtr:geographicReach><gtr:id>08FFD07E-E6EC-418E-8BB3-C2571C7D2E24</gtr:id><gtr:type>Influenced training of practitioners or researchers</gtr:type></gtr:policyInfluenceOutput></gtr:policyInfluenceOutputs><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/AB133F57-B267-4B11-BE31-E3E7C3910E3A"><gtr:id>AB133F57-B267-4B11-BE31-E3E7C3910E3A</gtr:id><gtr:title>(forthcoming 2017/8) The Rebirth of Area Studies: Challenges for History, Politics and International Relations in the 21st Century, London, I.B. Tauris</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/15b74e8edc23a084ecb97c56e76f0326"><gtr:id>15b74e8edc23a084ecb97c56e76f0326</gtr:id><gtr:otherNames>Hodgett, S.</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/0922E530-3F66-4501-B194-06182D3E91A6"><gtr:id>0922E530-3F66-4501-B194-06182D3E91A6</gtr:id><gtr:title>Interpretive Political Science. Selected Essays, Volume II.</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/5989dd35a346fc16078d71392469ab2f"><gtr:id>5989dd35a346fc16078d71392469ab2f</gtr:id><gtr:otherNames>R. A. W. Rhodes</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:isbn>Out July 2017</gtr:isbn></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">AH/N006712/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>DB058E35-DBAD-4B21-B030-5C3C78825B11</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Area Studies</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>EBACD6D4-D1E5-4970-8BEC-7F4568EB26BA</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Development studies</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>6147F869-528E-4716-B75D-1EEFD77024B5</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>American Studies</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>32A0976A-B577-4829-A940-9AB6B148F977</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Area &amp; Development Studies</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/03D8AFBB-3EA5-4885-B036-BD4F9F4F9849"><gtr:id>03D8AFBB-3EA5-4885-B036-BD4F9F4F9849</gtr:id><gtr:name>University of Sheffield</gtr:name><gtr:department>Mathematics and Statistics</gtr:department><gtr:address><gtr:line1>Firth Court</gtr:line1><gtr:line2>Western Bank</gtr:line2><gtr:line4>Sheffield</gtr:line4><gtr:line5>South Yorkshire</gtr:line5><gtr:postCode>S10 2TN</gtr:postCode><gtr:region>Yorkshire and The Humber</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/03D8AFBB-3EA5-4885-B036-BD4F9F4F9849"><gtr:id>03D8AFBB-3EA5-4885-B036-BD4F9F4F9849</gtr:id><gtr:name>University of Sheffield</gtr:name><gtr:address><gtr:line1>Firth Court</gtr:line1><gtr:line2>Western Bank</gtr:line2><gtr:line4>Sheffield</gtr:line4><gtr:line5>South Yorkshire</gtr:line5><gtr:postCode>S10 2TN</gtr:postCode><gtr:region>Yorkshire and The Humber</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/D4B53E38-C1F5-4E68-9907-5460AD628CDB"><gtr:id>D4B53E38-C1F5-4E68-9907-5460AD628CDB</gtr:id><gtr:firstName>Koji</gtr:firstName><gtr:surname>Ohkitani</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=EP%2FN022548%2F1"><gtr:id>0223C209-645D-4BB8-89A6-AD19D61BADC9</gtr:id><gtr:title>Statistics of fluid turbulence and operational calculus</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/N022548/1</gtr:grantReference><gtr:abstractText>*Main objectives of this project are
+(1) to introduce and test new methods of finding statistical solutions based on
+a simple application of symbolic calculus, to be followed by a comparison with
+numerics,
+
+(2) to carry out a detailed study of hypoviscous fluid equations with critical blowup
+criteria and to asssess the effects of non-locality on the characteristics of turbulence by direct
+numerical simulations of turbulence with finite energy.
+
+*Motivations
+
+The problem of fluid turbulence deals with phenomena ubiquitous in our daily
+life, yet its complete understanding, let alone its control, is way far beyond
+our current capability. Turbulence is also regarded as a big open problem in
+classical physics. While a suitable description of turbulence should be
+inevitably statistical in nature, a satisfactory theory has not yet been developed.
+
+Even for deterministic solutions of the fluid dynamical equations,
+there is still room for smooth solutions to break down. Such a potential blow up is
+connected with statistical solutions, as it can trigger a transition from
+deterministic to statistical descriptions.
+
+*Strategy
+
+(1) A complete statistical description of the Navier-Stokes turbulence is
+given by the Hopf characteristic functional, which satisfies the celebrated
+Hopf functional differential equation (FDE).
+In spite of previous attempts, it remains difficult to find a method of its solutions.
+Recently, the PI has discovered a method of converting the FDE into a
+functional integral equation, thereby generating a systematic approximation
+series. The method lies in the introduction of an exponential operator with
+a functional derivative as its exponent. Our aim is to put the approximation
+into practice.
+
+Another key is use of first integrals method developed by Vishik and
+Fursikov in 70's. It resolves the notorious unclosedness of turbulence
+statistics. Its proper understanding, as yet obtained, provides a practical
+way of handling Hopf equation.
+
+(2) The Navier-Stokes equations satisfy invariance under scaling transforms.
+Recently, it has been proven that some critical norms serve as blowup criteria,
+i.e. they become unbounded upon formation of singularities. Hence showing
+how difficult it is to have unbounded critical norms, theoretically and
+numerically, will be a promising way to improve our understanding the
+Navier-Stokes regularity.
+
+We will also carry out direct numerical simulations of turbulence in the whole space
+and compare the results with those of periodic boundary conditions.
+
+*Benefits
+Both topics will find applications in physical or engineering areas,
+because they are related with statistics of turbulence and (near-)singular
+structures.
+
+Techniques of operational calculus will prove helpful to the general audience
+to make Differential Equations approachable. We will prepare a documentation
+on the methods in the spirit of the British tradition and make freely available
+on the web, while gathering queries from the public audience.</gtr:abstractText><gtr:potentialImpactText>&amp;gt;Who might benefit from this research ?
+&amp;gt;How might they benefit from this research ?
+
+(1) The beneficiaries of this research will be researchers working on
+fluid mechanics, i.e. applied mathematicians, physicists and engineers.
+
+(2) The other beneficiaries will be school teachers and students
+in public sector, who are the audience of the web pages that
+PI maintains for introducing 'Differential Equations' on the basis
+of operational calculus.
+
+For (1):
+The outputs of the research will be published in a timely fashion
+on the archive and in quality journals devoted to research in applied
+mathematics.
+
+Specialized seminars will be the events where the results are aimed at
+a target audience. Interested research students and postdocs in Sheffield will have 
+direct access to the expertise which we will bring to the institution.
+
+The PDRA will receive appropriate mentoring and advice, including on publication
+strategy and career development.The direct impact is through the training of
+the PDRA in specialized research methods and the literature of the area. This is
+part of the process of maintaining mathematical capability, both for research
+itself and teaching future users of mathematics.
+
+New algorithms and/or computer source codes will be developed.
+
+For (2):
+Outside the academia, not many people are familiar with Differential Equations (DEs).
+It would be excellent if they have a feel about them at least partially.
+For those who know something about elementary functions, symbolic treatments
+can give a friendly introduction.
+
+Because the symbolic method is an important element of this project for
+studying statistics of turbulence, it makes sense to collect worked examples
+and applications which have been scattered over literature and compile
+an introductory documentation on Differential Equations on the web.
+We will make it bi-directional by responding to queries by email.</gtr:potentialImpactText><gtr:fund><gtr:end>2020-03-31</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2016-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>312976</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>If things look identical when zoomed in, we say that they have self-similarity. In connection with the study of &amp;quot;critical dissipativity&amp;quot; we have introduced a new kind of scale-invariance for the fluid dynamical equations, which we call near-invariance (or quasi-invariance) under dynamic scaling. This was achieved for the deterministic equations and it imposes a new constraint on possible singularity formation in turbulent flows. It results from a novel combination of theory of partial differential equations and stochastic analysis.
+We have also identified a statistical counterpart of the concept and efforts are being made to clarify the implications it entails.</gtr:description><gtr:exploitationPathways>The method converts the fluid equations into a heat diffusion equation with a potential term. Numerical evaluation of the potential term will be used to identity (near-)singular structure in turbulent flows in computational fluid dynamics. Also, the finding offers mathematical analysis or theoretical physics a new route to approach the basic issues of the Navier-Stokes equations.</gtr:exploitationPathways><gtr:id>4B6E6236-311B-40B9-8A6C-83E5313A3D43</gtr:id><gtr:sectors><gtr:sector>Aerospace, Defence and Marine,Environment</gtr:sector></gtr:sectors></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/F8A61EFD-2784-42C9-852E-D4DF2FDC59EB"><gtr:id>F8A61EFD-2784-42C9-852E-D4DF2FDC59EB</gtr:id><gtr:title>Characterization of blowup for the Navier-Stokes equations using vector potentials</gtr:title><gtr:parentPublicationTitle>AIP Advances</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/a4d3298bfd82494aa5f4e85ffbbb79cb"><gtr:id>a4d3298bfd82494aa5f4e85ffbbb79cb</gtr:id><gtr:otherNames>Ohkitani K</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/AB195430-173F-4684-AA99-460B74DA12AA"><gtr:id>AB195430-173F-4684-AA99-460B74DA12AA</gtr:id><gtr:title>Analogue of the Cole-Hopf transform for the incompressible Navier-Stokes equations and its application</gtr:title><gtr:parentPublicationTitle>Journal of Turbulence</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/a4d3298bfd82494aa5f4e85ffbbb79cb"><gtr:id>a4d3298bfd82494aa5f4e85ffbbb79cb</gtr:id><gtr:otherNames>Ohkitani K</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/117AD208-BE9E-4A3E-BD4D-E17FA47A7888"><gtr:id>117AD208-BE9E-4A3E-BD4D-E17FA47A7888</gtr:id><gtr:title>Near-invariance under dynamic scaling for Navier-Stokes equations in critical spaces: a probabilistic approach to regularity problems</gtr:title><gtr:parentPublicationTitle>Journal of Physics A: Mathematical and Theoretical</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/a4d3298bfd82494aa5f4e85ffbbb79cb"><gtr:id>a4d3298bfd82494aa5f4e85ffbbb79cb</gtr:id><gtr:otherNames>Ohkitani K</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">EP/N022548/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>DEA11FBC-BEED-4EDD-890B-97D728462D26</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Mathematical sciences</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>02B9E893-AC2F-436D-BF88-28E1AC827F5D</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Continuum Mechanics</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>93E27C3B-6D00-4F18-BBE3-96C05C8F92B2</gtr:id><gtr:percentage>25</gtr:percentage><gtr:text>Non-linear Systems Mathematics</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>CFBD6626-50CB-4AA6-8B49-9A76519BA91F</gtr:id><gtr:percentage>25</gtr:percentage><gtr:text>Numerical Analysis</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

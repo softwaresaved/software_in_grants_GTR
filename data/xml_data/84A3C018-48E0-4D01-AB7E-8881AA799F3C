@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/E5A82D2C-5AD4-488A-ACFF-566345A5D6DA"><gtr:id>E5A82D2C-5AD4-488A-ACFF-566345A5D6DA</gtr:id><gtr:name>Heriot-Watt University</gtr:name><gtr:department>S of Mathematical and Computer Sciences</gtr:department><gtr:address><gtr:line1>Administration Building</gtr:line1><gtr:line2>Riccarton</gtr:line2><gtr:line3>Ricarton</gtr:line3><gtr:line4>Currie</gtr:line4><gtr:postCode>EH14 4AS</gtr:postCode><gtr:region>Scotland</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/E5A82D2C-5AD4-488A-ACFF-566345A5D6DA"><gtr:id>E5A82D2C-5AD4-488A-ACFF-566345A5D6DA</gtr:id><gtr:name>Heriot-Watt University</gtr:name><gtr:address><gtr:line1>Administration Building</gtr:line1><gtr:line2>Riccarton</gtr:line2><gtr:line3>Ricarton</gtr:line3><gtr:line4>Currie</gtr:line4><gtr:postCode>EH14 4AS</gtr:postCode><gtr:region>Scotland</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/10F033EF-371D-467C-8E0A-6AB700296873"><gtr:id>10F033EF-371D-467C-8E0A-6AB700296873</gtr:id><gtr:name>ABSL Power Solutions Ltd</gtr:name><gtr:address><gtr:line1>Denchi House</gtr:line1><gtr:line2>Thurso Business Park</gtr:line2><gtr:postCode>KW14 7XW</gtr:postCode><gtr:region>Unknown</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/E6146964-3E76-4878-AB51-75E1A2464E03"><gtr:id>E6146964-3E76-4878-AB51-75E1A2464E03</gtr:id><gtr:firstName>Markus</gtr:firstName><gtr:surname>Schmuck</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=EP%2FP011713%2F1"><gtr:id>84A3C018-48E0-4D01-AB7E-8881AA799F3C</gtr:id><gtr:title>Transport and Reactions in Complex Heterogeneous Multiphase Systems</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/P011713/1</gtr:grantReference><gtr:abstractText>The goal of this project is to develop a reliable, theoretical, and computational framework for transport and 
+reactions in complex heterogeneous multiphase systems based on mathematical, physical, and thermodynamic principles.
+
+The project consists of two main themes with cross-linking throughout: 
+
+1. Modelling and analysis of novel, effective macroscopic transport formulations for catalysts in fuel cells that allow 
+for reliable, efficient, and low dimensional computational schemes in contrast to models fully resolving the microscale. 
+2. Developing a novel computational multiscale framework for transport and reactions in complex heterogeneous multiphase systems. 
+
+The project applies rigorous, mathematical and physical modelling with state-of-the-art methodologies such as 
+variational, physical, and thermodynamic analysis based on calculus of variations, gradient flows, statistical mechanics 
+and thermodynamics as well as novel computational approaches allowing for the reliable and efficient discretisation 
+of complex heterogeneous multiphase systems. 
+
+The ultimate aim is the systematic and predictive theoretical and computational analysis as well as the optimization 
+of complex heterogeneous multiphase systems with the goal of reducing material costs and of increasing longevity 
+by a novel and general computational multiscale framework. As a consequence, the results from the proposed work 
+shall guide experiments for gaining fundamental understanding of the underlying chemical, physical, and thermodynamic 
+processes but shall ultimately recommend new design rules, materials, geometries, processes and operation strategies, 
+as well as novel measurement techniques. Finally, this project builds the fundamental basis for the subsequent theoretical 
+and computational investigation of random complex heterogeneous multiphase systems which naturally occur in many 
+applications.</gtr:abstractText><gtr:potentialImpactText>This research project aims to elucidate both physical and mathematical insight in how the microscale, i.e., 
+pore geometry, affects transport and reactions on the macroscale of complex heterogeneous multiphase systems, 
+such as porous media or catalysts. The computational framework itself shall build a reliable basis for appropriate 
+future modelling and serve as a predictive tool for complex heterogeneous systems. 
+
+The proposed computational framework is of great interest to researchers and engineers whose research involves 
+coupled transport and reaction processes in complex heterogeneous multiphase systems and hence will enable 
+them to tackle classes of problems that have hitherto been inaccessible. Also the commercial/private sector 
+with interests in the development of predictive models for transport in complex heterogeneous systems will benefit 
+from this research. In terms of applications, these are quite extensive from batteries, fuel cells, carbon capture, 
+fuel production such as hydrogen, solar cells, and super capacitors. 
+
+The outlined research will lead to state-of-the-art rigorous numerical methodologies with the capability of 
+providing accurate and reliable multiscale simulations of three-dimensional transport and reactions in porous 
+media/catalysts. At present, there do not exist codes/software for the efficient computation of such complex multiscale 
+problems. The resulting computational tools will be of benefit to the control and optimisation of fuel cells/batteries 
+and general devices that exploit microscale transport such as flows of species and charges by allowing for rapid 
+design of novel efficient catalysis systems for instance. High-quality software is a key driver to economic impact 
+and an invaluable platform to interact with end users, even at the basic research stage and with limited support.
+
+
+INDUSTRIAL AND ECONOMIC IMPACT/INTERACTION WITH INDUSTRY
+
+In order to stimulate interaction with Industry, we will organise an interdisciplinary workshop at the International Centre for 
+Mathematical Sciences in Edinburgh. This will provide a valuable platform for leading experts from academia and industry 
+to identify promising interdisciplinary collaborations for advancing energy storage systems for the general benefit (e.g. affordability, longer life times, faster charging times) as further motivated by the economic relevance of catalysis systems below.
+
+The impact of Catalysis Research on the UK (and global) economy generates in excess of 50 billion pounds per annum. 
+The UK CATALYSIS HUB aims to promote and advance the UK catalysis research portfolio with four main themes 
+of research: Catalyst Design, Catalysis for Chemical Transformation, Catalysis for Energy, and Environmental Catalysis. 
+An energy related research program is the Hydrogen and Fuel Cell (H2FC) SUPERGEN Hub, which aims to bring together 
+UK's FC research community from academia over industry to government of which the Scottish Government and Scottish 
+Enterprise are part of. This research will provide novel and reliable computational multiscale methodologies in synergy 
+with these existing Research Hubs and open up new mathematical and physical research directions as well as promising 
+predictive industrial modelling avenues.</gtr:potentialImpactText><gtr:fund><gtr:end>2019-02-28</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2017-03-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>100887</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/47E0FE22-981B-46EC-9F0B-2D782500BA7D"><gtr:id>47E0FE22-981B-46EC-9F0B-2D782500BA7D</gtr:id><gtr:title>Upscaling of Solid-electrolyte Composite Intercalation Cathodes for Energy Storage Systems</gtr:title><gtr:parentPublicationTitle>Applied Mathematics Research eXpress</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/ee36e214843072ed6d36af31acf4a6bf"><gtr:id>ee36e214843072ed6d36af31acf4a6bf</gtr:id><gtr:otherNames>Schmuck M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/7F83E100-A3F4-4159-A4FD-7A6BA75439F1"><gtr:id>7F83E100-A3F4-4159-A4FD-7A6BA75439F1</gtr:id><gtr:title>Computational investigation of porous media phase field formulations: Microscopic, effective macroscopic, and Langevin equations</gtr:title><gtr:parentPublicationTitle>Journal of Computational Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/7e1d6bf436c7d4fc5c0e2be17df77f7a"><gtr:id>7e1d6bf436c7d4fc5c0e2be17df77f7a</gtr:id><gtr:otherNames>Ververis A</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">EP/P011713/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>DEA11FBC-BEED-4EDD-890B-97D728462D26</gtr:id><gtr:percentage>80</gtr:percentage><gtr:text>Mathematical sciences</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>99E0B904-CAB5-4511-AFB3-AA6D2B171F97</gtr:id><gtr:percentage>20</gtr:percentage><gtr:text>Process engineering</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>02B9E893-AC2F-436D-BF88-28E1AC827F5D</gtr:id><gtr:percentage>80</gtr:percentage><gtr:text>Continuum Mechanics</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>53CC8ACD-11A0-48ED-8743-F66E9A657C12</gtr:id><gtr:percentage>20</gtr:percentage><gtr:text>Fluid Dynamics</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

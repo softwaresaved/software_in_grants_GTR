@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/EAAD4D43-BD15-432B-9385-2DBD0C65958D"><gtr:id>EAAD4D43-BD15-432B-9385-2DBD0C65958D</gtr:id><gtr:name>University of Bath</gtr:name><gtr:department>Mechanical Engineering</gtr:department><gtr:address><gtr:line1>University of Bath</gtr:line1><gtr:line2>Claverton Down</gtr:line2><gtr:line4>Bath</gtr:line4><gtr:line5>Avon</gtr:line5><gtr:postCode>BA2 7AY</gtr:postCode><gtr:region>South West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/EAAD4D43-BD15-432B-9385-2DBD0C65958D"><gtr:id>EAAD4D43-BD15-432B-9385-2DBD0C65958D</gtr:id><gtr:name>University of Bath</gtr:name><gtr:address><gtr:line1>University of Bath</gtr:line1><gtr:line2>Claverton Down</gtr:line2><gtr:line4>Bath</gtr:line4><gtr:line5>Avon</gtr:line5><gtr:postCode>BA2 7AY</gtr:postCode><gtr:region>South West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/BC34FD89-BB67-4BC7-8D36-680631F22A57"><gtr:id>BC34FD89-BB67-4BC7-8D36-680631F22A57</gtr:id><gtr:firstName>Mehmet</gtr:firstName><gtr:otherNames>Necip</gtr:otherNames><gtr:surname>Sahinkaya</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/70D7178B-20D5-4642-A554-4F2B1AEC6082"><gtr:id>70D7178B-20D5-4642-A554-4F2B1AEC6082</gtr:id><gtr:firstName>Cliff</gtr:firstName><gtr:surname>Burrows</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=EP%2FJ003034%2F1"><gtr:id>48623D61-E0A0-4DC3-A1C9-D01F329E35B6</gtr:id><gtr:title>Nano-Precision Motion Control of Complex Multi Degree of Freedom Systems</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/J003034/1</gtr:grantReference><gtr:abstractText>There is a rapidly developing worldwide interest in nano-scale fabrication as evidenced by recent research activity in North America, Germany and Japan. This area is of potential significance to the UK as recognised in various projections from the Technology Strategy Board. These developments provide an opportunity to utilise the applicants' expertise in the modelling and motion control of complex multi-degree-of-freedom mechatronic systems to fulfil the requirements of manufacturing processes that involve high-precision manipulation and fabrication. This fairly recent development in the USA is funded from Government sources, particularly the NSF, and industry. This broad funding base demonstrates both the fundamental nature of the engineering research in this topic and its potential for wealth generation. 
+
+The Proposal is focused on a projected visit to North America, where there is a number of key academic and industrial research centres located around Houston, Los Angeles and San Francisco. In total, visits will be made to eight universities and two companies. Discussions will focus on precision motion control as required for high value manufacturing. 
+
+The purpose of the Overseas Travel Grant is to facilitate visits to a selected group of centres of expertise to understand the industrial &amp;quot;drivers&amp;quot; in North America for this research and relate these to the needs of the UK. A key objective is to establish a framework for collaboration with leading research institutes and to identify the areas where the applicants' expertise can make a significant contribution to this developing area. This will provide a mechanism for the exchange of personnel and the development of integrated research programmes. In this context it is of vital importance to determine the long term research objectives of the various programmes and in particular their perceived industrial significance. It is planned to use this knowledge to stimulate the establishment of a UK based Research Network to encompass relevant university groups and industrial partners.</gtr:abstractText><gtr:potentialImpactText>The proposal covers all four identified pathways to impact.
+
+Knowledge: A deeper awareness of research programmes and industrial drivers in the USA will feed into the applicants' research activities.
+
+Economy: It aligns with the EPSRC specific theme &amp;quot;Manufacturing the Future&amp;quot;. The long term goal is to provide the underpinning technology for the development of nano-precision manufacture. See also TSB reports related to the role of high value, precision systems and machinery for wealth creation. 
+
+People: The planned UK research network, linked to international collaboration and exchange, will make a significant contribution to the provision of skilled engineers through the development of new techniques of precision motion control applied to high-value manufacturing. 
+
+Society: The area of nano-engineering is recognized as having potential application across a range of medical applications, thereby having a broader impact on society, for example, the applicant's collaboration with heart specialists.</gtr:potentialImpactText><gtr:fund><gtr:end>2012-10-31</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2012-06-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>10603</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>The rapidly developing worldwide interest in the strategically important area of nano-scale fabrication is typified by current research activity and industrial interest in North America, Germany and Japan. These developments are potentially of major significance to the UK, as recognised by the Technology Strategy Board, but there is currently little academic activity in UK universities. The applicants' expertise in precision motion control of complex mechatronic systems is relevant to tackling the challenges posed by nano-fabrication. The key question that motivated the study visit was: 
+
+
+
+&amp;quot;How can this expertise be effectively extended and applied to the benefit of UK industry?&amp;quot; 
+
+
+
+This question was the basis for the Overseas Travel Grant (OTG) application. The funding facilitated visits to a selected group of academic and industrial centres of expertise to gain insight into the industrial drivers in North America that are stimulating research into nano-precision motion control technology. An important adjunct was to identify the current technological limitations in order to develop a research program to facilitate step changes in the technology. These issues were addressed by visits to leading researchers in North America and a selection of key companies. 
+
+
+
+Within the USA, the strategic research required to ensure the continued development of nano-fabrication receives significant financial support from various public sources, particularly the NSF and support from industry. There is a clear linkage between this research in this area and potential wealth generation. 
+
+
+
+The OTG funded visits to several major North American academic and industrial research and development centres in Los Angeles, San Francisco, Pittsburgh and Houston. In total, visits were made to four universities (UCLA, UC Berkeley, Austin and Texas A&amp;amp;M) and four companies (Capstone, Calnetix, Aerotech and Molecular Imprints). The discussions were primarily focused on precision motion control issues as required for high value manufacturing. The framework for these discussions was provided by the original six objectives.
+
+
+
+A key objective was to establish a framework for collaboration with leading research institutes. Good progress was made in fulfilling this and other objectives as described in the attached report. A mechanism was agreed for the exchange of personnel. There was a willingness to explore the issues to be tackled in order to establish a research network embracing relevant university groups and industrial partners.</gtr:description><gtr:exploitationPathways>Future Collaboration: 
+
+=================
+
+Various ideas were explored for future collaboration. During discussions with Calnetix, the company expressed their willingness to offer their expertise in the design of drive systems in a collaborative exercise with the Bath team involved in a multi axis magnetic levitation system for nano positioning.
+
+
+
+In a later discussion with Aerotech, the company showed definite interest in the Bath proposal for multi axis levitation and control. Potential major benefit for such collaboration would be the widespread contacts of the company with customers requiring large exertion multiple axis motion platforms. They are a leading international company in the provision of high precision motion platforms, but have not to date achieved six degrees of freedom nano-precision motion control. Prior to that visit, an instrumental making the arrangements, we had established rapport the director of the UK office with the promise of support for any proposal. 
+
+
+
+Tsao, whose expertise is in nano-motion control has expressed wish to utilise Bath's industrial links with a major metrology company to collaborate in research into nano-precision measurement systems. He and the applicants have agreed to collaborate in a development of a new research proposal on system inspection. Tomizuika expressed willingness to collaborate and offer his team's expertise in the use of MEMS devices and sensor fusion techniques to improve position measurement accuracy. Tomizuika identified a major problem in current platforms associated with cable dynamics interfering with the motion control and dynamics. These issues are non-existent in the system to be proposed by Bath.
+
+
+
+Sreenivasan was interested in the Bath concept for multi axis nano-precision positional control, and suggested a possible application in the manufacture of high density hard drives. 
+
+
+
+Exchange of Researchers: 
+
+====================
+
+Tsao has been appointed as Chairman of Department of Mechanical Engineering at UCLA and has expressed the wish to develop a program of exchange of researchers between UCLA and Bath. For example a scheme will be developed for approval for both universities for researchers from two university departments to spend a period in residence in the partner institution. This will be attractive to students and benefit a joint research program. Preliminary discussions have been held with senior staff at Bath and these will be followed with exploratory conversations with the recently appointed PVC for Internationalisation at Bath.
+
+
+
+Research and Network Grant Application:
+
+================================ 
+
+Provisions will be made in future grant applications to assist towards the support of exchange researchers. Opportunities will be explored for a network grant application. It is envisaged that this will include other research groups and industrial partners throughout the UK.</gtr:exploitationPathways><gtr:id>3065124A-F343-4CF8-94D8-9A03056CD31C</gtr:id><gtr:sectors><gtr:sector>Manufacturing/ including Industrial Biotechology</gtr:sector></gtr:sectors></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">EP/J003034/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>FA25733D-A456-4A1B-9D5C-7119577368D9</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Manufacturing</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>ABBD3B7F-5022-4513-82D6-5414B965FAB3</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Manufacturing Machine &amp; Plant</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

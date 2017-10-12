@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/68D0E3C9-9246-4CFC-B5E9-48584CF82993"><gtr:id>68D0E3C9-9246-4CFC-B5E9-48584CF82993</gtr:id><gtr:name>University of Manchester</gtr:name><gtr:department>Chem Eng and Analytical Science</gtr:department><gtr:address><gtr:line1>Oxford Road</gtr:line1><gtr:city>Manchester</gtr:city><gtr:postCode>M13 9PL</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/68D0E3C9-9246-4CFC-B5E9-48584CF82993"><gtr:id>68D0E3C9-9246-4CFC-B5E9-48584CF82993</gtr:id><gtr:name>University of Manchester</gtr:name><gtr:address><gtr:line1>Oxford Road</gtr:line1><gtr:city>Manchester</gtr:city><gtr:postCode>M13 9PL</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/130C676E-717D-4B8C-A124-D3331BFDD384"><gtr:id>130C676E-717D-4B8C-A124-D3331BFDD384</gtr:id><gtr:firstName>Thomas</gtr:firstName><gtr:otherNames>Lawrence</gtr:otherNames><gtr:surname>Rodgers</gtr:surname><gtr:orcidId>0000-0002-4025-3753</gtr:orcidId><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=EP%2FL505778%2F1"><gtr:id>FE0B5675-302A-44A6-A132-93C660615B91</gtr:id><gtr:title>Embedding Manufacturing Development into Formulation Research (EMFormR)</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/L505778/1</gtr:grantReference><gtr:abstractText>Johnson Matthey (JM), Unilever (UL) and ITS Ltd have established a project to develop approaches and techniques to
+allow manufacturing related information to be gleaned during the development of new formulations. Generally, and
+especially for products which contain multiple components, some of which do not mix (e.g. emulsions, creams, slurries,
+suspensions), the formulator does not significantly consider the issues that will arise when the new product transfers from
+the laboratory into pilot scale trials and finally into full scale manufacturing. Thus the traditional approaches to formulation
+develop products at laboratory scale with little or no attention to their &amp;quot;manufacturability&amp;quot;.
+Not only is this inefficient in terms of research and development, it also leads to sub-optimal manufacturing; higher costs
+and higher environmental impact. Compromises on product performance may need to be made to meet market launch
+schedules, which may ultimately affect competitiveness and market share. Working with the Universities of Birmingham
+(UoB) and Manchester (UoM), the project will address the key issues that have largely precluded gaining meaningful
+process information at the laboratory scale.
+This project will demonstrate the principles of embedding manufacturing process variable studies into the earliest stages of
+product R&amp;amp;D by reducing the scale at which reliable process information can be obtained. Such concurrent productprocess
+design will result in a greater innovation capability leading to faster launch of better products with an improved cost
+structure and an enhanced capability for continued innovation. The project will thus introduce new techniques for product
+and process characterisation, encompassing fluid flow, mixing characterisation, modelling and optimisation techniques and
+engineering design. This will provide a framework for defining a process toolbox with the capability to create superior
+products and production processes. This involves not only the time honoured issues of scale up but also specific
+difficulties of measuring in real time the critical product properties across all scales.
+Johnson Matthey and Unilever will apply the outcomes to vehicle emission control catalysts and hair care products respectively.</gtr:abstractText><gtr:potentialImpactText>Industrial and economic impact.
+The project outcomes will impact in terms of
+-concurrent product-process design. The proposed demonstrators for emission catalyst washcoats and hair liquids will
+provide a direct platform for translation; both JM and UL will carry out further validation studies beyond the lifetime of the
+project. Impact will be generated via development of modelling approaches with appropriate discretisation which can be
+used to develop novel process scale-up workflows for new product formulations.
+-innovation and application of instrumentation via application of electrical tomographic and NMR methods for inline
+measurement of rheology and mixing. This project will bring the primary benefit of a closer relationship with key users and
+the translation of technology into manufacturing. Instrumentation developments will enable improved product and process
+characterisation at and in-line with consequent benefit both in production and in new market opportunities within existing
+customer sectors.
+The methods and outcomes of this project will thus have potential impact beyond the consortium across a number of
+sectors:
+- FMCG and catalysis: all companies manufacturing formulated liquid/solid products suffer from scale up and mixing
+concerns which affect product quality.
+- Adjacent industry sectors (pharmaceuticals, minerals, chemical): many industries process materials whose history has a
+profound impact upon microstructure and thus product performance and function, whether this involves functionalised
+materials (e.g. IMERYS) or design of drug delivery systems (e.g. AstraZeneca, Pfizer GSK).
+A range of dissemination routes will be used to ensure that other companies gain understanding of the findings of the
+project:
+- Engineering Doctoral Centre; UoB hold a three-day annual Formulation Engineering Conference at which the work of the
+collaboration will be presented, industries present include Akso Nobel, BASF, Dupont Teijin Films, Mondelez
+(Kraft/Cadbury), Pepsico, P&amp;amp;G, Rolls Royce and IMERYS as well as the industry partners.
+- IChemE's Formulated Product Engineering Special Interest Group (FPESIG); hold annual meetings and regular webinars
+attended by many industrial representatives, the work of the collaboration will be presented at these.
+- National Formulation Centre (NFC) and Materials innovation Factory (MIF). The partners are involved in the
+establishment of the National Formulation Centre (NFC) and in the HEFCE supported &amp;pound;40M MIF at University of Liverpool.
+Both have an open access policy and thus the benefits of this TSB project will be readily accessible.
+- KTNs: we will link with all relevant Knowledge Transfer Networks which include Chemistry Innovation (through NFC), and
+Environmental Sustainability KTNs
+Academic impact.
+The project will be of interest to academics working in the field of process tomography, instrument development, rheology,
+multiphase flow, fluid mechanics and colloid and interfacial science. We plan to disseminate aspects of this work to
+academics by publication in relevant journals (Chem. Eng. Sci., AIChE Journal, Journal of Rheology, Journal of Non-
+Newtonian Fluid Mechanics) and by attendance at conferences such as the 8th World Congress of Industrial Process
+Tomography - WCIPT (venue TBA 2015/16), the 9th International Symposium of Mixing in Industrial Processes - ISMIP 9
+(venue TBA 2016/17), and the Annual AIChE meeting (venue TBA 2016).
+Societal impact.
+The new workflows developed by the project will lead to reduction in environmental footprint by reduction of waste, energy
+and materials used in scale up of new formulations by both UL and JM. In general the project will reduce the stress of
+manufacture of formulated liquids on the local environment - we anticipate that the results of the project will be
+disseminated to the locality by JM and UL through their local outreach programmes, involving local schools and media as
+well as talks at loca societies.</gtr:potentialImpactText><gtr:fund><gtr:end>2017-04-30</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2014-05-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>94899</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>Methodologies to allow the scale-up of processes using batch rotor-stator mixers from ~1 litre to ~800 litres.
+
+Techniques using electrical resistance tomography to measure the variation in produce micro-structure.</gtr:description><gtr:exploitationPathways>Processes can be developed from lab scale results using the knowledge of the scale up rules developed.
+
+It has been shown that electrical resistance tomography is able to provide information on the micro-structure of formulated products, this can be taken forward by looking into how this can be used to control manufacturing processes.</gtr:exploitationPathways><gtr:id>EF9F95AF-8046-48F2-9852-891285A44859</gtr:id><gtr:sectors><gtr:sector>Agriculture, Food and Drink,Chemicals,Manufacturing, including Industrial Biotechology,Pharmaceuticals and Medical Biotechnology</gtr:sector></gtr:sectors></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/41ED21DA-60E7-45E0-9BB1-B8EC506E33F1"><gtr:id>41ED21DA-60E7-45E0-9BB1-B8EC506E33F1</gtr:id><gtr:title>Reference Module in Food Science</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/26b653ef58d703ad2fd09747d2d38276"><gtr:id>26b653ef58d703ad2fd09747d2d38276</gtr:id><gtr:otherNames>Rodgers T</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date><gtr:isbn>9780081005965</gtr:isbn></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">EP/L505778/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>608431EA-925E-44D8-A1E2-8C24B4768085</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Design</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>FA25733D-A456-4A1B-9D5C-7119577368D9</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Manufacturing</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>BF2ECBC3-83AC-4763-B527-27A84805F0F9</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Design Engineering</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>ABBD3B7F-5022-4513-82D6-5414B965FAB3</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Manufacturing Machine &amp; Plant</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

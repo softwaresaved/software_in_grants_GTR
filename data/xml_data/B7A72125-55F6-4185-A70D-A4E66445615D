@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/CAA9A40D-0226-4A4F-AC0D-D8299E30A1EF"><gtr:id>CAA9A40D-0226-4A4F-AC0D-D8299E30A1EF</gtr:id><gtr:name>Loughborough University</gtr:name><gtr:department>Wolfson Sch of Mech, Elec &amp; Manufac Eng</gtr:department><gtr:address><gtr:line1>Loughborough University</gtr:line1><gtr:line4>Loughborough</gtr:line4><gtr:line5>Leicestershire</gtr:line5><gtr:postCode>LE11 3TU</gtr:postCode><gtr:region>East Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/CAA9A40D-0226-4A4F-AC0D-D8299E30A1EF"><gtr:id>CAA9A40D-0226-4A4F-AC0D-D8299E30A1EF</gtr:id><gtr:name>Loughborough University</gtr:name><gtr:address><gtr:line1>Loughborough University</gtr:line1><gtr:line4>Loughborough</gtr:line4><gtr:line5>Leicestershire</gtr:line5><gtr:postCode>LE11 3TU</gtr:postCode><gtr:region>East Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/4F76D237-7BD9-4E2E-A8CB-DA99F49D3A46"><gtr:id>4F76D237-7BD9-4E2E-A8CB-DA99F49D3A46</gtr:id><gtr:firstName>Sundar</gtr:firstName><gtr:surname>Marimuthu</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/68BA0C37-00D7-403C-A112-64DDC1649E85"><gtr:id>68BA0C37-00D7-403C-A112-64DDC1649E85</gtr:id><gtr:firstName>Niels</gtr:firstName><gtr:surname>Lohse</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/401EC456-131E-4951-A700-C2A014171A0D"><gtr:id>401EC456-131E-4951-A700-C2A014171A0D</gtr:id><gtr:firstName>Mike</gtr:firstName><gtr:surname>Jackson</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=EP%2FN508913%2F1"><gtr:id>B7A72125-55F6-4185-A70D-A4E66445615D</gtr:id><gtr:title>Flexible and Reconfigurable Laser Processing Tool (FlexLase)</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/N508913/1</gtr:grantReference><gtr:abstractText>Laser processing of metals and alloys is extensively used in modern manufacturing for various applications including
+drilling, cutting, welding, surface modification, etc. Industrial robots are currently used for some laser processing
+applications like cutting and welding where the allowable tolerance limit is around 100 micron. However, applications like
+laser drilling requires a positional accuracy around 20-25 microns which is not feasible with existing robotic systems and
+hence is mostly performed using expensive CNC based systems. This project aims to develop a flexible robotic laser
+processing system which can have a position accuracy of less than 20 micron, and that can be used for most laser
+applications including laser drilling.
+By exploiting the speed and precision of modern CCD cameras, the positional error of the robot will be calculated based on
+the coordinates (of the laser interaction point and a reference point) obtained from the CCD camera. The CCD camera will
+be co-axial to the nozzle exit. The positional error calculated by the vision system will be compensated by offsetting the
+laser beam and nozzle position, through a novel mirror and optical assembly.
+The project will initially undertake proof-of-principle experiments to establish the positional error from the CCD camera
+image. A new algorithm will be developed to extract the real-time positional error from the CCD camera image and to
+facilitate compensation of the error by offsetting the laser beam position. National Instruments (NI) real-time module along
+with a NI CompactRIO system will be used to achieve the required cycle time (less than 10ms). Finally, the CCD camera
+and the software will be integrated with the robot and the nozzle assembly, to achieve a truly flexible manufacturing
+system.
+The immediate application will be on robotic laser drilling of aerospace combustion chambers. It is expected that the
+FlexLase system will be more accurate and affordable than the systems at present and that it will also open the door for
+exciting new robotic applications in bio-technology and semiconductor industries.</gtr:abstractText><gtr:potentialImpactText>The proposed project on development of high precision robotic laser systems is expected to have a significant impact at
+many levels. This project concerns the development of a novel vision system and nozzle assembly as a generic product
+that can be mounted on any robot with fibre delivered laser. This project is not limited to one specific application of flexible
+laser processing tools, but designed to have a wide range of applications and is expected to open up opportunities to be
+applied to a variety of problems in modern manufacturing.
+At a global level, it addresses the need for an environmentally sustainable flexible manufacturing tool, by providing an
+attractive alternative to current CNC based manufacturing tools that are heavy, expensive and use more resources
+compared to FlexLase (e.g. a laser processing tool based on robot weights 18 times less than a CNC laser processing tool,
+consuming 12 times less energy). Implementation of robot based FlexLase system will result in a saving of 4.3 tonne of
+steel per system (compared to a CNC based system) which takes 2700MJ/ton to produce. The development and
+implementation of this flexible robotic system will reduce the number of different machine tools needed in a manufacturing
+company. More importantly, the proposed flexible robotic cell can easily accommodate any change of components (e.g.
+geometry, size; shape complexity), which may not be the case with CNC based machine tools.
+At the national level, the output of the project has the potential to stimulate UK industries and facilitate job creation. The
+immediate beneficiaries of FlexLase technology will be SMEs in the aerospace supply chain, using lasers for drilling of
+aerospace components. Drawbacks associated with the traditional manufacturing process restrict the affordability of CNC
+based machine tools within UK SMEs. The outcome of the project will enable UK manufacturing industries to access stateof-
+the-art FlexLase technology and will allow UK industries to be competitive. This will stimulate the entire market sector,
+will attract new investment and will provide a boost to the UK economy as a whole. The current laser market in the UK is
+estimated at ~&amp;pound;332m with envisaged annual growth of ~7.2% over the next 5 year period. FlexLase aims to address ~20%
+of the UK's market over the first two years of its implementation, which would results in at least &amp;pound;12m of savings per year to
+UK economy (in terms of capital and energy cost).
+Social benefits range from new UK jobs in the HVM industry, to contributing to a sustainable use of resources. Successful
+implementation of FlexLase will significantly reduce the capital expenditure which will facilitate the intake of manpower and
+increased job opportunities. One job per 5 machines (with a cost saving of ~&amp;pound;2.5m) can result in around 20 new jobs in the
+first year of its implementation.</gtr:potentialImpactText><gtr:fund><gtr:end>2017-12-31</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2016-01-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>106153</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">EP/N508913/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

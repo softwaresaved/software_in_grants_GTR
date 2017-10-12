@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/BD856F04-3042-4F92-8D66-1B101801FEB8"><gtr:id>BD856F04-3042-4F92-8D66-1B101801FEB8</gtr:id><gtr:name>University of Westminster</gtr:name><gtr:department>Faculty of Media Arts and Design</gtr:department><gtr:address><gtr:line1>309 Regent Street</gtr:line1><gtr:line4>London</gtr:line4><gtr:postCode>W1B 2UW</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/BD856F04-3042-4F92-8D66-1B101801FEB8"><gtr:id>BD856F04-3042-4F92-8D66-1B101801FEB8</gtr:id><gtr:name>University of Westminster</gtr:name><gtr:address><gtr:line1>309 Regent Street</gtr:line1><gtr:line4>London</gtr:line4><gtr:postCode>W1B 2UW</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/737EB87F-9A33-4FDA-B78D-03635EECB444"><gtr:id>737EB87F-9A33-4FDA-B78D-03635EECB444</gtr:id><gtr:firstName>Tom</gtr:firstName><gtr:surname>Corby</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=AH%2FE503667%2F1"><gtr:id>19046513-865D-444D-870B-E5CAC183CF3F</gtr:id><gtr:title>An exploration of information visualisation through new media art practice</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>AH/E503667/1</gtr:grantReference><gtr:abstractText>Aims and objectives:
+
+Research objectives lie in the generation of ideas, processes and concepts through new media art practices, which allow for rethinking the role of 1nformation visualisation' apparatus, beyond their current purpose as generators of technical images for the purpose of data analysis.
+
+These objectives have the following aims:
+
+i) To produce new media artworks, exhibitions and texts, that enables scientific processes of information visualisation to be relocated within wider critical and aesthetic frameworks.
+ii) To explore how new media artists negotiate the different understandings of the role and function of representational images in the visual arts, verses the production and understanding of technical images in scientific disciplines of information visualisation.
+iii) To develop new media art projects, through experimental approaches to the production of visual interfaces to underlying data sets, which enable audiences' conceptual, aesthetic and critical points of entry into debates pertaining to information visualisation apparatus and their wider cultural significance.
+iv) To identify what is required in terms of staging and contextualising knowledge for audience understanding o new media artworks concerned with information visualisation, in exhibition and installation situations.
+
+The context of the research
+
+This study brings together understandings of two fields: new media art and the scientific discipline of information visualisation. Discourses in new media art are currently dominated by debates concerning interactivity and/or the Internet, however, little research exists that specifically looks to the role played by the image in information visualisation disciplines, an emerging medium that seeks to understand the world through the generation of interactive animated images based on quantified abstract data (typically measurements from stock market behaviours or climate change).
+
+New media art and information visualisation disciplines share a common purpose because they seek to understand the world through the generation of interactive animated images. However, whereas new media art is informed by contemporary critical understandings of the image from art theory (as a conceptual or multivalent image that exists in a chain or dialogue of interpretations), information visualisation disciplines generally do not allow for their images to have divergent or multiple readings, because their primary technical and conceptual aim is to enable clear analysis of the underlying quantitative data.
+
+The significance of the proposed research lies in how it will bridge the differing conceptions of the image between the disciplines. It will generate new knowledge by relocating the processes, technologies and images of information visualisation within critical understandings of the image as understood in new media art practice (i.e. as a form whose meaning shifts in relation to differing audience and wider historical, social and cultural contexts). In doing so, the project complements and extends existing knowledge of the subject areas in which it is situated because it:
+
+ Contributes to and expands the practices of new media arts;
+ Contributes to ideas concerning the function and meaning of the image in visualisation technologies;
+ Discusses how information visualisation images may be repurposed within existing art practices in order to inform innovative representational strategies for new media art.
+
+Potential applications and benefits
+
+In addition to informing the theory and practice of new media art, potential applications include:
+
+a. Knowledge transfer of research to students in higher educational contexts and members of the public (via public exhibition, the website and lectures).
+b. Production of ideas that will inform academic debates pertaining to the intersection of art and science.
+c. Contribution to debates concerning the processes and objects of practice-based research.
+
+Research benefits also accrue for the following national and international audiences:
+
+1. The University of Westminster's research environment which has an international reputation for cutting edge research into critical applications of new media technologies.
+2. Art and design practitioners, academic researchers, educators and critics interested in new media art, and cultural approaches to scientific processes.
+3. National and international members of the art-going public interested in new media art.
+4. Funding and commissioning bodies that promote good practice and research in areas in which art and design intersects with technology (e.g. The Arts Council, AHRC, British Council, EPSRC).</gtr:abstractText><gtr:fund><gtr:end>2007-01-17</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/1291772D-DFCE-493A-AEE7-24F7EEAFE0E9"><gtr:id>1291772D-DFCE-493A-AEE7-24F7EEAFE0E9</gtr:id><gtr:name>AHRC</gtr:name></gtr:funder><gtr:start>2006-09-18</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>21825</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs><gtr:artisticAndCreativeProductOutput><gtr:description>Cyclone.soc was selected to be exhibited at the SESI Art Gallery as part of the festival</gtr:description><gtr:id>24DAC48D-A0AF-45A5-8F5F-7358651D91BC</gtr:id><gtr:impact>On the basis of this exhibition the work was further exhibited in other countries including in China, New Zealand and Austria.</gtr:impact><gtr:title>Exhibition: File 2006, International Festival of Electronic Language, Galeria de Arte Do Sesi, S?o Paulo, Brazil, September 1, 2006 to March 1, 2007</gtr:title><gtr:type>Artistic/Creative Exhibition</gtr:type><gtr:yearFirstProvided>2006</gtr:yearFirstProvided></gtr:artisticAndCreativeProductOutput><gtr:artisticAndCreativeProductOutput><gtr:description>Cyclone.soc</gtr:description><gtr:id>41EAB29A-EB57-4A5B-9CDA-EE280C07A7F1</gtr:id><gtr:impact>On the basis of this exhibition the work was further exhibited in other countries including in China, New Zealand and Austria.</gtr:impact><gtr:title>Exhibition: Connecting Worlds, ICC InterCommunication Centre, Tokyo, Japan, September 15 to November 26, 2006 Curator: Shikata Yukiko</gtr:title><gtr:type>Artistic/Creative Exhibition</gtr:type><gtr:yearFirstProvided>2006</gtr:yearFirstProvided></gtr:artisticAndCreativeProductOutput><gtr:artisticAndCreativeProductOutput><gtr:description>I was commissioned by the British Council in Germany to curate an exhibition of artworks that was conceptually framed by research.</gtr:description><gtr:id>FD50237B-3C05-4795-92AC-23FC2629FEA9</gtr:id><gtr:impact>Work was featured on German TV and a number of essays published in the exhibition catalogue.</gtr:impact><gtr:title>Curated Exhibition and commision from the Trans-Media-Akademie Hellerau and British Council in Berlin.</gtr:title><gtr:type>Artistic/Creative Exhibition</gtr:type><gtr:yearFirstProvided>2008</gtr:yearFirstProvided></gtr:artisticAndCreativeProductOutput><gtr:artisticAndCreativeProductOutput><gtr:description>Cyclone.soc</gtr:description><gtr:id>8F3FF4FC-2137-4F37-B022-72C2F0940B07</gtr:id><gtr:impact>Led to the work featuring in further exhibitions in China, France and New Zealand.</gtr:impact><gtr:title>Exhibition: Japanese Media Art Festival, Metropolitan Museum of Photography, Tokyo, Japan, February 24 to March 4, 2007 Curators: Kenji Yanobe, Yuk Hasegawa, Hiroshi Harashima</gtr:title><gtr:type>Artistic/Creative Exhibition</gtr:type><gtr:yearFirstProvided>2007</gtr:yearFirstProvided></gtr:artisticAndCreativeProductOutput><gtr:artisticAndCreativeProductOutput><gtr:description>Cyclone.soc is an immersive digital installation that brings together satellite
+data of severe conditions bought about by global warming with extremist political
+and religious opinions posted in social media forums. Streamed live, different
+conversations are fitted to the atmospheric topologies of a number of cyclonic
+weather fronts of differing strengths, giving the overall effect of a conversational
+churn and eddy of argument and counter-argument.</gtr:description><gtr:id>9548DC47-08F7-4087-B632-EE62A42895F7</gtr:id><gtr:impact>Prizes
+Honorary mention, Prix Ars Electronica,
+Linz, Austria, 2006
+Jury prize, Japanese Media Art Festival,
+Tokyo, Japan, 2006
+
+British Council touring funding
+British Council Artists Award, London,
+&amp;pound;900, 2008
+Awarded to tour artwork for a British
+Council sponsored exhibition
+Atmos: Weather as Media, MIC Toi
+Rerehiko Gallery, Auckland, New Zealand
+
+British Council Artists Award,
+London, &amp;pound;900, 2008
+Awarded to tour artwork for a British
+Council sponsored exhibition
+The English Lounge, at Tang
+Contemporary, Beijing, China
+
+Reviews and features
+Cubitt, S. 'Digital Aesthetics' in Paul, C. (ed.)
+A Companion to Digital Art, New York:
+Blackwell, 2014 (forthcoming)
+
+Kovskaya, M. 'The English Lounge',
+Art Review, Summer 2009, Issue 33, p.147
+Colson, R. The Fundamentals of Digital Art,
+London: AVA, 2007, pp.74-75, p.83. ISBN-10:
+2940373582
+
+Shun'ichi, S. 'ICC Report',
+InterCommunication 59, Winter, 2007
+
+Sadler, C. 'Perimeters, Boundaries and Borders',
+Artist's Newsletter, December, 2006
+
+Cornell, L. 'Prototyping the Perimeters',
+Rhizome at the New Museum of
+Contemporary Art, online, 2006</gtr:impact><gtr:title>Artwork, installation: Cyclone.soc</gtr:title><gtr:type>Artwork</gtr:type><gtr:url>http://www.reconnoitre.net/cyclone/index.php</gtr:url><gtr:yearFirstProvided>2006</gtr:yearFirstProvided></gtr:artisticAndCreativeProductOutput><gtr:artisticAndCreativeProductOutput><gtr:description>Cyclone.soc</gtr:description><gtr:id>877BF901-7A66-45E8-901E-1B811B55046E</gtr:id><gtr:impact>On the basis of this exhibition the work was further exhibited in other countries including in China, New Zealand and Japan.</gtr:impact><gtr:title>Exhibition: Ars Electronica Festival: Simplicity, Linz, Austria, September 5-11, 2006 Curators: Shikata Yukiko, Marko Ahtisaari, Markus Seidl, Eva Wohlgemuth</gtr:title><gtr:type>Artistic/Creative Exhibition</gtr:type><gtr:yearFirstProvided>2006</gtr:yearFirstProvided></gtr:artisticAndCreativeProductOutput></gtr:artisticAndCreativeProductOutputs><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs><gtr:impactSummaryOutput><gtr:description>The main impacts of this project have been cultural and have been of benefit to practitioners and cultural institutions working outside of academia. 
+
+Impact is multi-factorial, the artwork produced as part of the research has established and contributed a strong thematic focus in the digital arts on the connections between digital processes, art practices and environmental change. This is evidenced by inclusion of work in monographs highlighting the work's innovation (e.g. The Fundamentals of Digital Art) and exhibition of work in major international festivals and galleries including:
+
+Ars Electronica Festival: Simplicity, Linz,
+Austria, September 5-11, 2006
+
+Connecting Worlds, ICC
+InterCommunication Centre, Tokyo, Japan,
+September 15 to November 26, 2006
+
+The English Lounge, Tang Contemporary,
+Beijing, China, March 14 to April 26, 2009</gtr:description><gtr:id>70ECC92F-DA3A-4CB4-9057-AF428206D993</gtr:id><gtr:impactTypes><gtr:impactType>Cultural</gtr:impactType></gtr:impactTypes><gtr:sector>Creative Economy,Environment</gtr:sector></gtr:impactSummaryOutput></gtr:impactSummaryOutputs><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>The main output of this research was creative practice that explored how the methods of scientific data visualisation could be used to create digital visual artworks. The main output of this research was Cyclone.soc.
+
+Cyclone.soc is an immersive digital installation that brings together satellite data of severe conditions bought about by global warming with extremist political and religious opinions posted in social media forums. Streamed live, different
+conversations are fitted to the atmospheric topologies of a number of cyclonic weather fronts of differing strengths, giving the overall effect of a conversational
+churn and eddy of argument and counter-argument.</gtr:description><gtr:exploitationPathways>The project provides a model of digital art practice which produces the following:
+
+- it constructs a hybrid image space that is an amalgam of
+social interactions threaded into meteorological processes, thus produces a model for how artists might combine scientific and social data
+
+- It brokers discourses that focus on the interconnectedness of technology and the material world, developing a suggestive link between belief systems, extremist positions (such as climate change denial) and their potential wider material impacts. In doing so it contributes to debates around how digital art can take positions on climate change.
+
+- The project is innovatory in bringing meteorology into art production to comment on complex social and environmental conditions in ways rarely seen in the digital arts.</gtr:exploitationPathways><gtr:id>4BE73F7A-6E05-4D92-8649-44877919F3E5</gtr:id><gtr:sectors><gtr:sector>Creative Economy,Digital/Communication/Information Technologies (including Software),Environment,Culture, Heritage, Museums and Collections</gtr:sector></gtr:sectors><gtr:url>http://www.reconnoitre.net/cyclone/index.php</gtr:url></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/A63A0A6C-C074-4B1E-A78A-FCEA1F22AC86"><gtr:id>A63A0A6C-C074-4B1E-A78A-FCEA1F22AC86</gtr:id><gtr:title>Visualization of scientific arts and some examples of applications</gtr:title><gtr:parentPublicationTitle>Journal of Visualization</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/16508e641056907dddfac240d7804208"><gtr:id>16508e641056907dddfac240d7804208</gtr:id><gtr:otherNames>Fujisawa N</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2008-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/4D7F2C31-E968-4A7B-96D0-6D19AECF9420"><gtr:id>4D7F2C31-E968-4A7B-96D0-6D19AECF9420</gtr:id><gtr:title>A one page portfolio description of the Cyclone.soc artwork with images, for a section in this scientific journal on how artists are using visualisation processes</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/f4c8297d6bca093e8457d3776367dc41"><gtr:id>f4c8297d6bca093e8457d3776367dc41</gtr:id><gtr:otherNames>Tom Corby (Author)</gtr:otherNames></gtr:author></gtr:authors></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/742E90F9-E91C-4422-9D5F-2DB584BF01A7"><gtr:id>742E90F9-E91C-4422-9D5F-2DB584BF01A7</gtr:id><gtr:title>Cyclone.soc</gtr:title><gtr:parentPublicationTitle>Intercommunication</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/f4c8297d6bca093e8457d3776367dc41"><gtr:id>f4c8297d6bca093e8457d3776367dc41</gtr:id><gtr:otherNames>Tom Corby (Author)</gtr:otherNames></gtr:author></gtr:authors></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/5EC1EE03-BEDE-4ECB-8197-3DF14F65DBEE"><gtr:id>5EC1EE03-BEDE-4ECB-8197-3DF14F65DBEE</gtr:id><gtr:title>Cyclone.soc: an interactive artwork visualizing internet newsgroup postings as cyclonic weather conditions</gtr:title><gtr:parentPublicationTitle>Journal of Visualization</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/2631ca01e4408fdc3c215726e50c6630"><gtr:id>2631ca01e4408fdc3c215726e50c6630</gtr:id><gtr:otherNames>Corby T</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2007-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/07C49722-D717-4268-ACD4-98670C92CDB0"><gtr:id>07C49722-D717-4268-ACD4-98670C92CDB0</gtr:id><gtr:title>'Landscapes of feeling, arenas of action: information visualisation as art practice'</gtr:title><gtr:parentPublicationTitle>Leonardo</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/c64ba685985c25ab0d7ad7b52522b435"><gtr:id>c64ba685985c25ab0d7ad7b52522b435</gtr:id><gtr:otherNames> Tom  Corby (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2007-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/E1B09868-6F43-4523-8B4C-F9F8C4C137E3"><gtr:id>E1B09868-6F43-4523-8B4C-F9F8C4C137E3</gtr:id><gtr:title>Review of Cyclone.soc: C Sadler, &amp;quot;Perimeters, Boundaries and Borders&amp;quot;</gtr:title><gtr:parentPublicationTitle>Artist's Newsletter</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/f4c8297d6bca093e8457d3776367dc41"><gtr:id>f4c8297d6bca093e8457d3776367dc41</gtr:id><gtr:otherNames>Tom Corby (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2006-01-01</gtr:date></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">AH/E503667/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>972C8509-5001-4523-9E10-7FA67E2F2E69</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Visual arts</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>8BB67751-1AD5-4EE8-9104-089D5F236DDB</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Digital Arts HTP</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

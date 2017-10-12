@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/A0A585E0-6B0D-4643-A3A6-47943B4CBFEF"><gtr:id>A0A585E0-6B0D-4643-A3A6-47943B4CBFEF</gtr:id><gtr:name>University of Liverpool</gtr:name><gtr:department>Physics</gtr:department><gtr:address><gtr:line1>Senate House</gtr:line1><gtr:line2>Abercromby Square</gtr:line2><gtr:line4>Liverpool</gtr:line4><gtr:postCode>L69 3BX</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/A0A585E0-6B0D-4643-A3A6-47943B4CBFEF"><gtr:id>A0A585E0-6B0D-4643-A3A6-47943B4CBFEF</gtr:id><gtr:name>University of Liverpool</gtr:name><gtr:address><gtr:line1>Senate House</gtr:line1><gtr:line2>Abercromby Square</gtr:line2><gtr:line4>Liverpool</gtr:line4><gtr:postCode>L69 3BX</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/33EFB899-51F2-45AD-BA5D-2F17D868378F"><gtr:id>33EFB899-51F2-45AD-BA5D-2F17D868378F</gtr:id><gtr:firstName>Marielle</gtr:firstName><gtr:surname>Chartier</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/664D3ADD-ED96-4CE0-93C7-9DB0B34E1426"><gtr:id>664D3ADD-ED96-4CE0-93C7-9DB0B34E1426</gtr:id><gtr:firstName>John</gtr:firstName><gtr:otherNames>Bourke</gtr:otherNames><gtr:surname>Dainton</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=ST%2FP005438%2F1"><gtr:id>27EA2CFF-6D13-4E7E-BFEE-83F78D4BDECE</gtr:id><gtr:title>ALICE Upgrade 2 (Silicon Physicist post)</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>ST/P005438/1</gtr:grantReference><gtr:abstractText>Quantum-ChromoDynamics (QCD) is the theory of the strong force and understanding its properties has been the focus of
+intense World-wide research over the past half century. QCD forms a major part of the Standard Model and its
+understanding is crucial in producing an overall theory to describe the properties of matter and the fundamental forces of
+nature including a grand unification theory to explain how the Universe evolved from the Big Bang.
+The principal purpose of our research is to use ultra-relativistic heavy-ion interactions to study QCD at extreme energy
+densities. Theoretical models predict that under very extreme conditions of high energy densities the quarks, which are
+confined in normal nuclear matter, will be freed and nuclear matter will undergo a phase transition into a hot, dense plasma
+of free quarks and gluons known as a Quark-Gluon Plasma (QGP). It is thought that such a state of matter would have
+existed until about 10^-5 seconds after the Big Bang, after which time the Universe would have cooled sufficiently for
+protons and neutrons to form.
+The physics aim of this research is to study the strong force under these extreme conditions and, in particular, explore the
+properties of this exotic state of matter. By studying the QGP, we hope to address the fundamental questions of quark
+confinement and how quarks gain a large effective mass in hadrons due to the strong force (accounting for 99% of atomic
+mass).
+In order to create the conditions required to produce a QGP we must collide heavy nuclei together at the highest possible
+energies, creating tiny hot (~10^13K) and dense fireballs. As the resulting QGP will only last for about 10-22 seconds,
+before condensing in to thousands of elementary particles, we must also use the most sophisticated detectors to analyse
+these collisions.
+The LHC collides lead ions at centre-of-mass energies of 2.76 TeV in ALICE. We also collide protons together as this forms
+an excellent reference data set. Moreover, the excellent particle identification and tracking make ALICE an ideal detector
+to study the global aspects of proton-proton collisions in their own right.
+This field of research employs about two thousand physicists around the world and ALICE is the most sophisticated
+experiment ever built in the field, studying heavy-ion collisions at centre-of-mass energies over an order of magnitude
+greater than its nearest rival. It hence represents the pinnacle of research in this field.
+The ALICE collaboration is now preparing for the second LHC Upgrade scheduled to start in 2018. These upgrades are
+required to cope with the anticipated increase in lead beam luminosity which will increase beam intensities by an order of
+magnitude. The main motivation for the luminosity upgrade is to achieve a precise, quantitative understand of the
+properties of the QGP by focusing on rare probes both at low and high transverse momenta as well as on multidimensional
+analysis of such probes with respect to centrality, event plane, multi-particle correlations, etc.</gtr:abstractText><gtr:potentialImpactText>The main beneficiaries of this upgrade will be experimentalists and theorists working in the field of hot Quantum
+Chromodynamics. They will directly benefit from the new insights that will arise out of the research, made possible by this
+Upgrade. The results of the subsequent research will be disseminated in high impact journals, through conference talks
+and seminars so as to reach as wide an audience as possible. More broadly, both the technologies developed during the
+Upgrade and the resulting research will also be of relevance to researchers in other fields, including other areas of nuclear
+physics, particle physics, astrophysics and cosmology. Some of the hardware developments related to the Birmingham
+design of the original ALICE trigger subsystem have already had impact, having been adopted by another experiment at
+CERN. Future developments that are foreseen in this proposal will potentially have relevance to a new generation of
+experiments planning to run in continuous data taking mode. The ITS Upgrade project will develop MAPS technologies, an
+area where the UK is already considered to be a world leader. Such technologies will not only have applications for other
+particle detectors but are likely to have applications in the areas of medicine and security.
+Another strand revolves around the public understanding of science. The research that is related to this proposal has the
+potential to capture the imagination and to inspire a new generation of scientists. The research programme which will arise
+from this Upgrade is involved in studying matter as it would have existed a fraction of a second after the Big Bang. This
+aspect is relevant to the evolution of the Early Universe and the possible existence of (strange) quark matter stars.
+Members of the ALICE-UK collaboration have given over 70 public lectures over the past five years and been involved in
+many other public outreach events to school children, teachers, and members of the general public.</gtr:potentialImpactText><gtr:fund><gtr:end>2019-12-31</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/D7F4F462-0518-4784-908A-D12633C139B3"><gtr:id>D7F4F462-0518-4784-908A-D12633C139B3</gtr:id><gtr:name>STFC</gtr:name></gtr:funder><gtr:start>2017-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>165826</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">ST/P005438/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>6FFDB010-9050-4605-B449-A6952906EB9D</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Nuclear Physics</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>F566B55A-F580-4123-90AE-BC2E231F9937</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Relativistic Heavy Ions</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

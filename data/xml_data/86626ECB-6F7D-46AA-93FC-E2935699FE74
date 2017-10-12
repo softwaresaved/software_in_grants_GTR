@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/68D0E3C9-9246-4CFC-B5E9-48584CF82993"><gtr:id>68D0E3C9-9246-4CFC-B5E9-48584CF82993</gtr:id><gtr:name>University of Manchester</gtr:name><gtr:department>Earth Atmospheric and Env Sciences</gtr:department><gtr:address><gtr:line1>Oxford Road</gtr:line1><gtr:city>Manchester</gtr:city><gtr:postCode>M13 9PL</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/68D0E3C9-9246-4CFC-B5E9-48584CF82993"><gtr:id>68D0E3C9-9246-4CFC-B5E9-48584CF82993</gtr:id><gtr:name>University of Manchester</gtr:name><gtr:address><gtr:line1>Oxford Road</gtr:line1><gtr:city>Manchester</gtr:city><gtr:postCode>M13 9PL</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/66F27E10-48BB-4714-9A85-9BCC4090FB65"><gtr:id>66F27E10-48BB-4714-9A85-9BCC4090FB65</gtr:id><gtr:firstName>Martin</gtr:firstName><gtr:otherNames>William</gtr:otherNames><gtr:surname>Gallagher</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/FCF928B5-F8AB-4353-A8EB-86A7D7EDEC7B"><gtr:id>FCF928B5-F8AB-4353-A8EB-86A7D7EDEC7B</gtr:id><gtr:firstName>Niall</gtr:firstName><gtr:otherNames>Hamilton</gtr:otherNames><gtr:surname>Robinson</gtr:surname><gtr:roles><gtr:role><gtr:name>RESEARCHER</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/E58BC862-996B-4456-84DA-CD9EF3F11A76"><gtr:id>E58BC862-996B-4456-84DA-CD9EF3F11A76</gtr:id><gtr:firstName>Keith</gtr:firstName><gtr:surname>Bower</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/3CC2AEBF-3922-47F7-82C5-35F9748A3011"><gtr:id>3CC2AEBF-3922-47F7-82C5-35F9748A3011</gtr:id><gtr:firstName>Thomas</gtr:firstName><gtr:otherNames>William</gtr:otherNames><gtr:surname>Choularton</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/B3C9A6AB-1A74-4A47-ADE7-E611573CB913"><gtr:id>B3C9A6AB-1A74-4A47-ADE7-E611573CB913</gtr:id><gtr:firstName>Jonathan</gtr:firstName><gtr:surname>Crosier</gtr:surname><gtr:orcidId>0000-0002-3086-4729</gtr:orcidId><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/6A8E4532-EA54-4909-8DEC-1125A79A7FDE"><gtr:id>6A8E4532-EA54-4909-8DEC-1125A79A7FDE</gtr:id><gtr:firstName>James</gtr:firstName><gtr:otherNames>Robert</gtr:otherNames><gtr:surname>Dorsey</gtr:surname><gtr:roles><gtr:role><gtr:name>RESEARCHER_COI</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/633497C4-58AB-4F3A-B67F-4972BD9035E9"><gtr:id>633497C4-58AB-4F3A-B67F-4972BD9035E9</gtr:id><gtr:firstName>Paul</gtr:firstName><gtr:otherNames>Ivor</gtr:otherNames><gtr:surname>Williams</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/5D9BDBDF-E33A-4CEA-851D-170139511C17"><gtr:id>5D9BDBDF-E33A-4CEA-851D-170139511C17</gtr:id><gtr:firstName>Paul</gtr:firstName><gtr:otherNames>James</gtr:otherNames><gtr:surname>Connolly</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=NE%2FJ022594%2F1"><gtr:id>86626ECB-6F7D-46AA-93FC-E2935699FE74</gtr:id><gtr:title>MICROphysicS of COnvective PrEcipitation (MICROSCOPE)</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>NE/J022594/1</gtr:grantReference><gtr:abstractText>This project will improve predictions of severe convective rainfall by addressing the problem of the microphysics
+of precipitation in convective clouds. For the first time, study of the microphysics is embedded in a
+project that includes the larger-scale dynamics of convective clouds, as part of the COnvective Precipitation
+Experiment (COPE). COPE will connect this microphysical study with the system-scale dynamics of severe
+convective UK weather events. COPE will also provide a programme of weather-system modelling, which will
+bring the microphysical understanding through to the improved prediction of rainfall at the weather-system, or
+catchment scale.
+
+Weather forecast models are now run at resolutions of 1.5 km, which has helped to improve the prediction
+of the location and timing of convection. However, quantitative precipitation forecasts are still often poor as
+highlighted in the Boscastle event (Golding et al., 2005). This is due in part to the lack of knowledge about the
+nucleation of ice particles in convective clouds, the warm rain process, and the rates of production of secondary
+ice particles and the subsequent growth of precipitation particles. However, high local accumulations were the
+result of both intensity (microphysics of precipitation) and duration (organisation of and interaction between cells
+along the convergence line) of precipitation. The latter issue and wider-scale problem will be addressed in other
+parts of COPE.
+
+There are two key parts to MICROSCOPE. The first concerns a fundamental problem: how do ice particles
+form in clouds as a result of ice nuclei (IN), particularly at high temperatures? The second concerns precipitation:
+how do precipitation particles form and what are the rates of production and development? MICROSCOPE will
+address the challenge of explaining the production of primary ice particles in cumulus clouds, in the following
+ways.
+* We will make measurements of the properties of the aerosol particles, particularly soils and biological
+material, on the ground and in the boundary-layer with the FAAM 146 aircraft.
+* Measurements will be made of the evolution of the droplet size distribution, the possible presence of
+supercooled raindrops and the formation of the first ice particles with carefully-guided penetrations of the
+aircraft that has been equipped with new instruments that can detect and characterise small ice particles
+unambiguously (SID, 2DS, CAS-DPOL).
+* The dual-polarisation, Doppler radars will provide measurements of the location and time of the first precipitation
+echoes, the air motions and the types of particles.
+
+In order to explain the production and development of precipitation, process model and NWP model results
+will be compared to observations of the entrainment process, the development of the warm rain process, the
+growth of ice particles into precipitation particles by diffusional growth, the freezing of raindrops into graupel
+particles, multiplication by secondary production processes, and riming. The comparisons will be achieved by
+making multiple penetrations at increasing altitudes measuring the particle size distributions in space and time
+as well as the thermodynamics and dynamics of the cloud, and by obtaining information about the particles and
+the rate of increase of the reflectivity echo from the dual-polarisation radar.
+
+The final step of MICROSCOPE, that will be led by the Met Office, is to incorporate the new information into
+NWP models and to test against the data gathered during the project.</gtr:abstractText><gtr:potentialImpactText>The research proposed in MICROSCOPE will potentially have a major
+benefit to society and business in the UK by improving weather forecasts
+of heavy convective rainfall through it's major contribution to COPE.
+Lives may be saved in severe events if sufficient warning is given.
+Improved forecasts of flash flooding will also provide greater warning
+to businesses so they may be able to take action to save loss of stock.
+Thus, it is likely that the Insurance Industry will be the biggest
+beneficiary.
+
+Flooding caused by heavy convective rain is a serious problem in the UK
+and in the rest of the world. Every year there are reports throughout
+the world of major flooding with significant damage and even loss of
+life. There are many examples in the UK, such as Boscastle in 2004 and
+Ottery St Mary, 2008. The Cabinet Office regards flooding as one of the
+major risks to public wellbeing. The Pitt Review, written following the
+2007 floods in the UK, stressed the need for better analysis and
+forecasting of storms and specifically the need to improve forecasting
+skill of heavy precipitation events that lead to flooding. The review
+led directly to the setting up of the joint Environment Agency / Met
+Office National Flood Forecasting Centre which uses rainfall forecast
+output from the UM as input to the national Grid-to-Grad hydrological
+forecasting model.
+
+NERC recently funded a consortium proposal to investigate the initiation
+of convective storms in the UK: the Convective Storm Initiation Project
+(CSIP). This project had a significant impact on the ability of the Met
+Office to forecast convective precipitation. It did this by providing
+the information that allowed the Met Office to have confidence in a
+higher-resolution model. However, the project did not address the issue
+of the quantity of precipitation. That is the subject of MICROSCOPE.
+The observations made in MICROSCOPE will provide much needed data with
+which to compare results from the high-resolution Met Office Unified
+Model (UM). Incorporation of research results from MICROSCOPE into
+development versions of the UM will be made possible through working
+with Met Office. In turn, the MO forecasts will feed into models used
+by EA and SEPA.
+
+A second group that will benefit from MICROSCOPE within the context of
+COPE is the water companies and hydrometeorological consultancies. They
+regard precipitation forecasts as an essential element in their business
+operations.
+
+A major indirect benefit to society as a whole is likely to come from
+improvements made to global climate models that will result from
+knowledge gained about the ice processes in clouds as well as the
+entrainment process. Convective clouds and their influences, such as
+the vertical transport of heat, moisture and momentum, the effects on
+latent and radiative heating, and the chemical processes due to
+lightning, are particularly difficult to capture in these models.
+
+Weather forecasts are also an essential element in forecasting the onset
+and spread of both human and animal diseases. Work is being carried out
+with the National Health Protection Agency on the relationship between
+thunderstorms and outbreaks of asthma, for example.
+
+Finally, this research offers the opportunity to work with schools on
+outreach activities, particularly since thunderstorms are so dramatic
+and appealing to children and the public in general.</gtr:potentialImpactText><gtr:fund><gtr:end>2015-12-30</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/8A03ED41-E67D-4F4A-B5DD-AAFB272B6471"><gtr:id>8A03ED41-E67D-4F4A-B5DD-AAFB272B6471</gtr:id><gtr:name>NERC</gtr:name></gtr:funder><gtr:start>2012-12-31</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>368874</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>The origin of the formation of the ice phase in summer time convection over the SW Peninsula of the UK has been identified along with its role in precipitation formation. The role of atmospheric aerosol in both the warm rain and ice processes has been quantified</gtr:description><gtr:exploitationPathways>Continued modelling work but results are not ready yet for wider dissemination</gtr:exploitationPathways><gtr:id>EB42EAC9-E174-4EC9-AE66-4E800FCEBA16</gtr:id><gtr:sectors><gtr:sector>Education,Environment</gtr:sector></gtr:sectors></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/BD92EF23-3585-4CDD-B52E-0D396502F1E5"><gtr:id>BD92EF23-3585-4CDD-B52E-0D396502F1E5</gtr:id><gtr:title>Observations of cloud microphysics and ice formation during COPE</gtr:title><gtr:parentPublicationTitle>Atmospheric Chemistry and Physics Discussions</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/4a209535e7da79b5d62367bda05695b6"><gtr:id>4a209535e7da79b5d62367bda05695b6</gtr:id><gtr:otherNames>Taylor J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/F79D6528-861E-4DB2-8739-0F3C7031CF3E"><gtr:id>F79D6528-861E-4DB2-8739-0F3C7031CF3E</gtr:id><gtr:title>Aerosol measurements during COPE: composition, size, and sources of CCN and INPs at the interface between marine and terrestrial influences</gtr:title><gtr:parentPublicationTitle>Atmospheric Chemistry and Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/4a209535e7da79b5d62367bda05695b6"><gtr:id>4a209535e7da79b5d62367bda05695b6</gtr:id><gtr:otherNames>Taylor J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/67A1E2D7-3CB3-4A05-A5B9-53AC099B9D4C"><gtr:id>67A1E2D7-3CB3-4A05-A5B9-53AC099B9D4C</gtr:id><gtr:title>Aerosol measurements during COPE: composition, size and sources of CCN and IN at the interface between marine and terrestrial influences</gtr:title><gtr:parentPublicationTitle>Atmospheric Chemistry and Physics Discussions</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/4a209535e7da79b5d62367bda05695b6"><gtr:id>4a209535e7da79b5d62367bda05695b6</gtr:id><gtr:otherNames>Taylor J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/958357F5-7699-449C-AB84-5C0CEC9DC3D8"><gtr:id>958357F5-7699-449C-AB84-5C0CEC9DC3D8</gtr:id><gtr:title>Observations of cloud microphysics and ice formation during COPE</gtr:title><gtr:parentPublicationTitle>Atmospheric Chemistry and Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/4a209535e7da79b5d62367bda05695b6"><gtr:id>4a209535e7da79b5d62367bda05695b6</gtr:id><gtr:otherNames>Taylor J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">NE/J022594/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>E4C03353-6311-43F9-9204-CFC2536D2017</gtr:id><gtr:percentage>60</gtr:percentage><gtr:text>Atmospheric phys. &amp; chemistry</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>EE4457DB-92A3-44EA-8D5F-77013CC107E0</gtr:id><gtr:percentage>40</gtr:percentage><gtr:text>Climate &amp; Climate Change</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>EE4457DB-92A3-44EA-8D5F-77013CC107E0</gtr:id><gtr:percentage>10</gtr:percentage><gtr:text>Climate &amp; Climate Change</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>396591D1-8226-43A9-991D-8E0D265D99D0</gtr:id><gtr:percentage>30</gtr:percentage><gtr:text>Regional &amp; Extreme Weather</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>AE661B5A-7390-4AD2-BCF2-D611CB668BD1</gtr:id><gtr:percentage>40</gtr:percentage><gtr:text>Tropospheric Processes</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>C62D281D-F1B9-423D-BDAB-361EC9BE7C68</gtr:id><gtr:percentage>20</gtr:percentage><gtr:text>Water In The Atmosphere</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

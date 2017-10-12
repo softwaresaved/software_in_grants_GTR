@@ -9,7 +9,8 @@ import matplotlib.pyplot as plt
 import math
 from textwrap import wrap
 import urllib.request
-import untangle
+from xml.etree import cElementTree as et
+
 
 
 DATAFILENAME = "./data/projectsearch-1507107194469.csv"
@@ -26,15 +27,46 @@ def import_csv_to_df(filename):
     return pd.read_csv(filename)
 
 
-def pull_data():
+def populate_dataframe(df):
 
-    response = urllib.request.urlopen('http://gtr.rcuk.ac.uk/gtr/api/projects/602FA30A-63E7-409F-A3CB-11504A7B204D')
-    page =  response.read()
+    """
+    Convert XML files into a dataframe
+    """
 
-    print(type(page))
-    obj = untangle.parse(str(page))
+    def retrieve_xml_from_url(filename):
+        """
+        This was copied from Steve Crouch's training set collector repo:
+        https://github.com/softwaresaved/training-set-collector
+    
+        It's purpuse is to retrieve and return a GtR XML document from a given URL source.
+        """
 
-    return
+        # Initialise
+        xml_root = None
+
+        try:
+            # Get XML from file
+            xml_str = urllib.request.urlopen(filename).read()
+
+            # Some returned xml contains unicode, so need to ensure it's ascii
+            xml_str = xml_str.decode('utf8').encode('ascii', 'replace')
+            # Use Elementtree to extract XML
+            xml_root = et.fromstring(xml_str)
+        # The except part is mainly needed if you're getting the data from the API
+        # rather than dragging it in from a file like we're doing in this program
+        except (urllib.request.HTTPError, urllib.request.URLError) as err:
+            print(url + ": " + str(err))
+
+        return xml_root
+
+    print(df['ProjectId'])
+
+
+
+    return df
+
+
+
 
 def find_keywords(df, search_col):
     """
@@ -44,7 +76,7 @@ def find_keywords(df, search_col):
     """
 
     where_to_search = ['Title']
-
+    
 #    for current_search in where_to_search
 
     current_keyword = 'software'
@@ -55,15 +87,22 @@ def find_keywords(df, search_col):
     
     return df
 
+
 def main():
     
     df = import_csv_to_df(DATAFILENAME)
-    
-    pull_data()
 
-    df = find_keywords(df, 'Title')
+    all_data_df = populate_dataframe(df)
+
+#    xml_root = retrieve_xml_from_url('file:///Users/user/Desktop/Git/software_in_grants_GTR/data/77AF9305-8F4F-43FA-8D92-675180CD46A4')
+
+#    xml_element = xml_root.find('.//gtr:title', {'gtr': 'http://gtr.rcuk.ac.uk/api'})
     
-    print(df.columns)
+#    print(xml_element.text)
+
+#    df = find_keywords(df, 'Title')
+    
+#    print(df.columns)
 
 if __name__ == '__main__':
     main()

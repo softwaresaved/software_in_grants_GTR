@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/3849AA61-7794-4F3A-94FF-E246C05C6D8D"><gtr:id>3849AA61-7794-4F3A-94FF-E246C05C6D8D</gtr:id><gtr:name>University of New Hampshire</gtr:name><gtr:address><gtr:line1>University of New Hampshire</gtr:line1><gtr:line2>39 College Road</gtr:line2><gtr:line4>Durham</gtr:line4><gtr:postCode>NH 03824</gtr:postCode><gtr:region>Outside UK</gtr:region><gtr:country>United States</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/4676D7F2-8389-4DEC-AE7F-DB46C7F1F470"><gtr:id>4676D7F2-8389-4DEC-AE7F-DB46C7F1F470</gtr:id><gtr:name>Science and Technologies Facilities Council (STFC)</gtr:name></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/B6FB652A-60C3-48DD-9A33-075D1F759B48"><gtr:id>B6FB652A-60C3-48DD-9A33-075D1F759B48</gtr:id><gtr:name>University of Warwick</gtr:name><gtr:address><gtr:line1>Warwickshire</gtr:line1><gtr:line4>Coventry</gtr:line4><gtr:line5>West Midlands</gtr:line5><gtr:postCode>CV4 7AL</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/BECA2763-0902-40AA-8DB2-836A5731CF58"><gtr:id>BECA2763-0902-40AA-8DB2-836A5731CF58</gtr:id><gtr:name>Brunel University</gtr:name><gtr:address><gtr:line1>Brunel University</gtr:line1><gtr:line4>Uxbridge</gtr:line4><gtr:line5>Middlesex</gtr:line5><gtr:postCode>UB8 3PH</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/1B7F1361-4878-42ED-9819-6E0A6F614FEF"><gtr:id>1B7F1361-4878-42ED-9819-6E0A6F614FEF</gtr:id><gtr:name>Medical University of Sofia</gtr:name></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/B2E061FD-516A-47D7-B74A-86F484A443D7"><gtr:id>B2E061FD-516A-47D7-B74A-86F484A443D7</gtr:id><gtr:name>University of Mississippi</gtr:name><gtr:address><gtr:line1>University of Mississippi</gtr:line1><gtr:region>Unknown</gtr:region></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/608BA9EB-6E51-4A3B-94B0-40317C57F158"><gtr:id>608BA9EB-6E51-4A3B-94B0-40317C57F158</gtr:id><gtr:name>Berkeley National Laboratory</gtr:name></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/978543A3-F3C2-44B3-A7A9-06B6946293B0"><gtr:id>978543A3-F3C2-44B3-A7A9-06B6946293B0</gtr:id><gtr:name>School of Physical Sciences</gtr:name></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/A60FDEC8-14EF-46C0-9A53-A6996A8D2E23"><gtr:id>A60FDEC8-14EF-46C0-9A53-A6996A8D2E23</gtr:id><gtr:name>Science and Technology Facilities Council</gtr:name><gtr:address><gtr:line1>ISIS Science and Technology Facilities Council,Rutherford Appleton Laboratory</gtr:line1><gtr:city>Didcot</gtr:city><gtr:postCode>OX11 0QX</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/AE58F21F-3622-4382-97BB-1359BD183E9F"><gtr:id>AE58F21F-3622-4382-97BB-1359BD183E9F</gtr:id><gtr:name>University of Glasgow</gtr:name><gtr:address><gtr:line1>University Avenue</gtr:line1><gtr:line4>Glasgow</gtr:line4><gtr:postCode>G12 8QQ</gtr:postCode><gtr:region>Scotland</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/BDE168B2-5450-4658-9EE1-59C4394392A9"><gtr:id>BDE168B2-5450-4658-9EE1-59C4394392A9</gtr:id><gtr:name>European Organization for Nuclear Research (CERN)</gtr:name></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/7DB68CCC-DD52-4CCA-AFFF-13BADAE898FB"><gtr:id>7DB68CCC-DD52-4CCA-AFFF-13BADAE898FB</gtr:id><gtr:name>University of Geneva</gtr:name><gtr:address><gtr:line1>University of Geneva</gtr:line1><gtr:line2>30 Quai Ernest-Ansemet</gtr:line2><gtr:postCode>CH-1211</gtr:postCode><gtr:region>Outside UK</gtr:region><gtr:country>Switzerland</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/A18664FC-91E3-4EE4-A877-6C5697324525"><gtr:id>A18664FC-91E3-4EE4-A877-6C5697324525</gtr:id><gtr:name>National Institute for Subatomic Physics Nikhef (NiKHEF)</gtr:name></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/71CEB78F-891C-441E-8302-A536FAD513BA"><gtr:id>71CEB78F-891C-441E-8302-A536FAD513BA</gtr:id><gtr:name>University of California  Riverside</gtr:name><gtr:address><gtr:line1>900 University Avenue</gtr:line1><gtr:line2>Riverside</gtr:line2><gtr:line3>California</gtr:line3><gtr:region>Outside UK</gtr:region><gtr:country>United States</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/D887E45F-03B1-48F9-8090-09BFE2AC5A60"><gtr:id>D887E45F-03B1-48F9-8090-09BFE2AC5A60</gtr:id><gtr:name>Faculty of Natural Sciences</gtr:name></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/6D30F26F-5158-46AA-AE3E-9D9EF1395FD8"><gtr:id>6D30F26F-5158-46AA-AE3E-9D9EF1395FD8</gtr:id><gtr:name>Fermilab</gtr:name><gtr:address><gtr:line1>Fermilab</gtr:line1><gtr:line2>P.O. Box 500</gtr:line2><gtr:line4>Batavia</gtr:line4><gtr:line5>Illinois</gtr:line5><gtr:postCode>IL 60510-0</gtr:postCode><gtr:region>Outside UK</gtr:region><gtr:country>United States</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/7E5F10AC-2930-43AD-B05C-2DDA51E24113"><gtr:id>7E5F10AC-2930-43AD-B05C-2DDA51E24113</gtr:id><gtr:name>Harbin Institute of Technology</gtr:name><gtr:address><gtr:line1>92 West Da-Zhi Street</gtr:line1><gtr:postCode>150001</gtr:postCode><gtr:region>Outside UK</gtr:region><gtr:country>China</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/A3BC8C35-5491-4D82-B2EA-5C6F4A57BC0B"><gtr:id>A3BC8C35-5491-4D82-B2EA-5C6F4A57BC0B</gtr:id><gtr:name>Istituto Nazionale di Fisica Nucleare</gtr:name></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/03D8AFBB-3EA5-4885-B036-BD4F9F4F9849"><gtr:id>03D8AFBB-3EA5-4885-B036-BD4F9F4F9849</gtr:id><gtr:name>University of Sheffield</gtr:name><gtr:address><gtr:line1>Firth Court</gtr:line1><gtr:line2>Western Bank</gtr:line2><gtr:line4>Sheffield</gtr:line4><gtr:line5>South Yorkshire</gtr:line5><gtr:postCode>S10 2TN</gtr:postCode><gtr:region>Yorkshire and The Humber</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/C46CFCDF-00C3-43D7-B7A2-7C2ACB111142"><gtr:id>C46CFCDF-00C3-43D7-B7A2-7C2ACB111142</gtr:id><gtr:name>Illinois Institute of Technology</gtr:name><gtr:address><gtr:line1>10 West 3st Street</gtr:line1><gtr:line2>Stuart Building 235</gtr:line2><gtr:line4>Chicago</gtr:line4><gtr:line5>IL 60616</gtr:line5><gtr:region>Outside UK</gtr:region><gtr:country>United States</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/9AB89DBF-71E9-47CC-AB32-32B1A626E7A8"><gtr:id>9AB89DBF-71E9-47CC-AB32-32B1A626E7A8</gtr:id><gtr:name>High Energy Accelerator Research Organization (KEK)</gtr:name></gtr:collaborator></gtr:collaborations><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9"><gtr:id>3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9</gtr:id><gtr:name>University of Oxford</gtr:name><gtr:department>Oxford Physics</gtr:department><gtr:address><gtr:line1>University Chest</gtr:line1><gtr:line2>Wellington Square</gtr:line2><gtr:line4>Oxford</gtr:line4><gtr:postCode>OX1 2JD</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9"><gtr:id>3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9</gtr:id><gtr:name>University of Oxford</gtr:name><gtr:address><gtr:line1>University Chest</gtr:line1><gtr:line2>Wellington Square</gtr:line2><gtr:line4>Oxford</gtr:line4><gtr:postCode>OX1 2JD</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/3849AA61-7794-4F3A-94FF-E246C05C6D8D"><gtr:id>3849AA61-7794-4F3A-94FF-E246C05C6D8D</gtr:id><gtr:name>University of New Hampshire</gtr:name><gtr:address><gtr:line1>University of New Hampshire</gtr:line1><gtr:line2>39 College Road</gtr:line2><gtr:line4>Durham</gtr:line4><gtr:postCode>NH 03824</gtr:postCode><gtr:region>Outside UK</gtr:region><gtr:country>United States</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/4676D7F2-8389-4DEC-AE7F-DB46C7F1F470"><gtr:id>4676D7F2-8389-4DEC-AE7F-DB46C7F1F470</gtr:id><gtr:name>Science and Technologies Facilities Council (STFC)</gtr:name><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/B6FB652A-60C3-48DD-9A33-075D1F759B48"><gtr:id>B6FB652A-60C3-48DD-9A33-075D1F759B48</gtr:id><gtr:name>University of Warwick</gtr:name><gtr:address><gtr:line1>Warwickshire</gtr:line1><gtr:line4>Coventry</gtr:line4><gtr:line5>West Midlands</gtr:line5><gtr:postCode>CV4 7AL</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/BECA2763-0902-40AA-8DB2-836A5731CF58"><gtr:id>BECA2763-0902-40AA-8DB2-836A5731CF58</gtr:id><gtr:name>Brunel University</gtr:name><gtr:address><gtr:line1>Brunel University</gtr:line1><gtr:line4>Uxbridge</gtr:line4><gtr:line5>Middlesex</gtr:line5><gtr:postCode>UB8 3PH</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/1B7F1361-4878-42ED-9819-6E0A6F614FEF"><gtr:id>1B7F1361-4878-42ED-9819-6E0A6F614FEF</gtr:id><gtr:name>Medical University of Sofia</gtr:name><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/B2E061FD-516A-47D7-B74A-86F484A443D7"><gtr:id>B2E061FD-516A-47D7-B74A-86F484A443D7</gtr:id><gtr:name>University of Mississippi</gtr:name><gtr:address><gtr:line1>University of Mississippi</gtr:line1><gtr:region>Unknown</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/608BA9EB-6E51-4A3B-94B0-40317C57F158"><gtr:id>608BA9EB-6E51-4A3B-94B0-40317C57F158</gtr:id><gtr:name>Berkeley National Laboratory</gtr:name><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/978543A3-F3C2-44B3-A7A9-06B6946293B0"><gtr:id>978543A3-F3C2-44B3-A7A9-06B6946293B0</gtr:id><gtr:name>School of Physical Sciences</gtr:name><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/A60FDEC8-14EF-46C0-9A53-A6996A8D2E23"><gtr:id>A60FDEC8-14EF-46C0-9A53-A6996A8D2E23</gtr:id><gtr:name>Science and Technology Facilities Council</gtr:name><gtr:address><gtr:line1>ISIS Science and Technology Facilities Council,Rutherford Appleton Laboratory</gtr:line1><gtr:city>Didcot</gtr:city><gtr:postCode>OX11 0QX</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/AE58F21F-3622-4382-97BB-1359BD183E9F"><gtr:id>AE58F21F-3622-4382-97BB-1359BD183E9F</gtr:id><gtr:name>University of Glasgow</gtr:name><gtr:address><gtr:line1>University Avenue</gtr:line1><gtr:line4>Glasgow</gtr:line4><gtr:postCode>G12 8QQ</gtr:postCode><gtr:region>Scotland</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/BDE168B2-5450-4658-9EE1-59C4394392A9"><gtr:id>BDE168B2-5450-4658-9EE1-59C4394392A9</gtr:id><gtr:name>European Organization for Nuclear Research (CERN)</gtr:name><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/7DB68CCC-DD52-4CCA-AFFF-13BADAE898FB"><gtr:id>7DB68CCC-DD52-4CCA-AFFF-13BADAE898FB</gtr:id><gtr:name>University of Geneva</gtr:name><gtr:address><gtr:line1>University of Geneva</gtr:line1><gtr:line2>30 Quai Ernest-Ansemet</gtr:line2><gtr:postCode>CH-1211</gtr:postCode><gtr:region>Outside UK</gtr:region><gtr:country>Switzerland</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/A18664FC-91E3-4EE4-A877-6C5697324525"><gtr:id>A18664FC-91E3-4EE4-A877-6C5697324525</gtr:id><gtr:name>National Institute for Subatomic Physics Nikhef (NiKHEF)</gtr:name><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/71CEB78F-891C-441E-8302-A536FAD513BA"><gtr:id>71CEB78F-891C-441E-8302-A536FAD513BA</gtr:id><gtr:name>University of California  Riverside</gtr:name><gtr:address><gtr:line1>900 University Avenue</gtr:line1><gtr:line2>Riverside</gtr:line2><gtr:line3>California</gtr:line3><gtr:region>Outside UK</gtr:region><gtr:country>United States</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/D887E45F-03B1-48F9-8090-09BFE2AC5A60"><gtr:id>D887E45F-03B1-48F9-8090-09BFE2AC5A60</gtr:id><gtr:name>Faculty of Natural Sciences</gtr:name><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/6D30F26F-5158-46AA-AE3E-9D9EF1395FD8"><gtr:id>6D30F26F-5158-46AA-AE3E-9D9EF1395FD8</gtr:id><gtr:name>Fermilab</gtr:name><gtr:address><gtr:line1>Fermilab</gtr:line1><gtr:line2>P.O. Box 500</gtr:line2><gtr:line4>Batavia</gtr:line4><gtr:line5>Illinois</gtr:line5><gtr:postCode>IL 60510-0</gtr:postCode><gtr:region>Outside UK</gtr:region><gtr:country>United States</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/7E5F10AC-2930-43AD-B05C-2DDA51E24113"><gtr:id>7E5F10AC-2930-43AD-B05C-2DDA51E24113</gtr:id><gtr:name>Harbin Institute of Technology</gtr:name><gtr:address><gtr:line1>92 West Da-Zhi Street</gtr:line1><gtr:postCode>150001</gtr:postCode><gtr:region>Outside UK</gtr:region><gtr:country>China</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/A3BC8C35-5491-4D82-B2EA-5C6F4A57BC0B"><gtr:id>A3BC8C35-5491-4D82-B2EA-5C6F4A57BC0B</gtr:id><gtr:name>Istituto Nazionale di Fisica Nucleare</gtr:name><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/03D8AFBB-3EA5-4885-B036-BD4F9F4F9849"><gtr:id>03D8AFBB-3EA5-4885-B036-BD4F9F4F9849</gtr:id><gtr:name>University of Sheffield</gtr:name><gtr:address><gtr:line1>Firth Court</gtr:line1><gtr:line2>Western Bank</gtr:line2><gtr:line4>Sheffield</gtr:line4><gtr:line5>South Yorkshire</gtr:line5><gtr:postCode>S10 2TN</gtr:postCode><gtr:region>Yorkshire and The Humber</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/C46CFCDF-00C3-43D7-B7A2-7C2ACB111142"><gtr:id>C46CFCDF-00C3-43D7-B7A2-7C2ACB111142</gtr:id><gtr:name>Illinois Institute of Technology</gtr:name><gtr:address><gtr:line1>10 West 3st Street</gtr:line1><gtr:line2>Stuart Building 235</gtr:line2><gtr:line4>Chicago</gtr:line4><gtr:line5>IL 60616</gtr:line5><gtr:region>Outside UK</gtr:region><gtr:country>United States</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/9AB89DBF-71E9-47CC-AB32-32B1A626E7A8"><gtr:id>9AB89DBF-71E9-47CC-AB32-32B1A626E7A8</gtr:id><gtr:name>High Energy Accelerator Research Organization (KEK)</gtr:name><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/2F0B1DCB-88C2-43C6-9B42-CE94FBA57D35"><gtr:id>2F0B1DCB-88C2-43C6-9B42-CE94FBA57D35</gtr:id><gtr:firstName>John</gtr:firstName><gtr:surname>Cobb</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/BD2378B9-D4C3-4921-BA15-8C417DAA2869"><gtr:id>BD2378B9-D4C3-4921-BA15-8C417DAA2869</gtr:id><gtr:firstName>Victoria</gtr:firstName><gtr:surname>Blackmore</gtr:surname><gtr:roles><gtr:role><gtr:name>RESEARCHER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=ST%2FJ002100%2F1"><gtr:id>2DB08901-4B15-4454-B6C9-B3C32B250D10</gtr:id><gtr:title>Proposal for continuation of UK participation in the International Muon Ionization Cooling Experiment</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>ST/J002100/1</gtr:grantReference><gtr:abstractText>Neutrinos are three different but related particles; their ability to turn into each other has given physicists their first glimpse of the physics which they know must lay beyond the Standard Model. Investigation of the physics which underlies their properties will: deepen our understanding of how the Universe developed after the Big Bang; how the current asymmetry between matter and anti-matter developed from a situation where they were created in equal amounts in the Big Bang; and help us to understand what happens when a supernova explodes showering the cosmos with the heavy elements necessary for planets and life itself to form. 
+
+In order to understand their properties, we must build an accelerator capable of creating neutrinos in immense numbers. They must have energy between well-defined limits and the mixture of different types must be very precisely known. Such a facility, known as the Neutrino Factory, would be revolutionary and to build one is a challenging project, both from the point of view of the particle detectors which must be built, and the engineering problems which must be overcome. This programme needs a world-wide collaboration, but it is one in which physicists and engineers from the UK are playing a leading role.
+Neutrinos are created from a beam of muons and the muons themselves are produced from the decay of pions produced by the collision of protons with a metal target. A machine to make an intense beam of neutrinos needs to take the beam of muons, which is large and diverges rapidly, and reduce its size and divergence. The resulting beam can be accelerated, stored and when it decays produces an intense beam of neutrinos. The muons only live for 2.2 microseconds when at rest, and even when they are accelerated and their lifetime is extended by the effect of relativity, there is little time to manipulate the muons so that they are in a state to be accelerated.
+
+MICE is an international collaboration based at the Rutherford Appleton Laboratory in Oxfordshire, which uses a beam of muons created by the ISIS accelerator and aims to show that it is feasible to create such an intense beam. It will do this by creating a beam of muons of much lower intensity and tracking each one individually through one part of the system which has been designed to perform this beam compression at the Neutrino Factory. This process where the random sideways motions of the muons are reduced and we are left with the longitudinal motion is referred to as cooling the beam; the system which performs the cooling is known as the cooling channel.
+
+The first stage was to build a system capable of producing a muon beam whose size and divergence could be adjusted before it enters the cooling channel. This was completed last year and measurements have been made to show that the beam has the flexibility and intensity for MICE to perform the required measurements.
+
+The second stage is to finish construction of the cooling channel itself and to provide a system to measure very accurately the position and momentum of each muon before and after it has passed through the cooling channel. By looking at many muons produced in many different conditions, it will be possible to determine how much cooling has been produced by the channel. In the channel itself the muons will be slowed by passing through a suitable material, such as liquid hydrogen, liquid helium or lithium hydride. As they slow they lose momentum both longitudinally and transversely to the beam axis. Then they are accelerated with high field radio frequency cavities, replacing only the longitudinal momentum.
+
+This experiment, which is pushing the boundaries of what is possible with materials, magnets and cooling technologies, represents a collaboration between particle physicists, and accelerator physicists and will demonstrate the UK's ability to host an experiment at the forefront of science and engineering.</gtr:abstractText><gtr:potentialImpactText>MICE is a large, capital construction project. A significant part of the investment in the project has been used to source products and materials in British industry. For example, of the &amp;pound;4.50M non-staff spend in Phase I of the project, approximately &amp;pound;4.09M was used to source materials and equipment in the UK. 
+The UK is responsible for the procurement of the focus-coil modules that focus the muon beam at the centre of the liquid-hydrogen absorbers. Each focus-coil module contains two coils capable of producing a field of 5 T on axis. The coils will be kept cold using closed-cycle refrigerators (cryocoolers), a novel technique requiring considerable development. TESLA Engineering based in Sussex won the contract to provide the focus coils. Engineers and physicists from Technology Department at RAL and the University of Oxford are working with TESLA to ensure that the design and its implementation will yield a magnet fit for purpose in MICE. The expertise gained by TESLA will be applicable in the construction of magnets for other applications. In addition, the UK is responsible for the provision of liquid hydrogen to each of the three absorber-modules. The hydrogen delivery system uses state-of-the-art hydride-bed technology and liquefaction is performed with cryocoolers. The development of the systems for MICE will be carried out in collaboration with industry to the benefit of the hydrogen economy.
+
+The MICE programme is varied, encompassing the development of numerical methods and simulation techniques, the development of accelerator hardware (from conventional transfer lines to the development of novel superconducting magnets), the construction of a novel, pion-production target, the development of hydrogen-handling systems, the provision of RF power, and the construction of state of the art diagnostics. Further, the implementation of the large and complicated project has allowed members of the collaboration to develop project management and integraon engineering skills.
+MICE is an integral part of the Proton Accelerators for Science and Innovation initiative, putting the UK firmly at the heart of the community that seeks to develop the technology required to produce high intensity muon beams suitable for use in the Neutrino Factory and Muon Collider. MICE has created a UK community capable of delivering large and complex projects in an international environment.
+
+Substantial contributions to the experiment in equipment, personnel, and intellectual input are being made by the international collaboration. To date, the international collaboration has provided the muon decay solenoid, beam-line instrumentation (scintillators and scintillating-fibre based beam-position monitors), three time-of-flight hodoscopes, two Cherenkov detectors, a lead-scintillator pre-shower detector, a prototype of the Electron Muon Ranger, the tracker readout and cryogenic systems, three high-power RF amplifiers, and the data-acquisition system. Over the period of the award, the international collaboration will complete the time-of-flight and calorimeter systems and provide the spectrometer solenoids, the liquid-hydrogen absorbers, and the RF-cavity/coupling-coil modules. The total value of these contributions, through hard to estimate, is in excess of &amp;pound;25M.
+
+By making a success of the MICE project, the UK has gained substantial influence in the international Neutrino Factory community. The leverage opportunity for the future will be to forge appropriate partnerships with those laboratories or collaborations wishing to develop the Neutrino Factory and Muon Collider as options for the field. This is being taken forward through the EC FP7 Preparatory Phase Project TIARA in which funds have been secured to turn the infrastructure that supports the MICE experiment into the Ionization Cooling Test Facility (the ICTF).</gtr:potentialImpactText><gtr:fund><gtr:end>2015-03-31</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/D7F4F462-0518-4784-908A-D12633C139B3"><gtr:id>D7F4F462-0518-4784-908A-D12633C139B3</gtr:id><gtr:name>STFC</gtr:name></gtr:funder><gtr:start>2012-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>248669</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs><gtr:collaborationOutput><gtr:collaboratingOrganisation>Brunel University</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:department>Department of Physics</gtr:department><gtr:description>MICE</gtr:description><gtr:id>ECFBD9DF-ADE9-4910-97D3-D68041EA16A5</gtr:id><gtr:impact>Commissioning of MICE muon beam and LH2 system
+Measurement of emittance of the new MICE muon beam
+Measurement of momentum spectrum of muons
+Better understanding of multiple scattering in low Z materials
+Testing / training of MICE suoperconducting magnets</gtr:impact><gtr:partnerContribution>Construction and Engineering of beamline and components of the experiment
+Simulation studies
+Operations</gtr:partnerContribution><gtr:piContribution>Engineering Design and production of Superconducting Focus Coils
+
+Commissioning of said Focus Coils
+
+Engineering Design, manufacture and testing of Diffuser
+Commissioning of MICE muon beamline
+
+Scientific leadership in:
+ the development of a method to measure emittances and momentum spectrum of muons in beamline,
+ the analysis of beamline data and measurement of emittances and momenta
+ the simulations of the experiment
+
+Simulations of beamline
+
+'Bottoms up' model of multiple Coulomb Scattering
+
+Testing of liquid hydrogen system
+Testing of first Focus Coil
+
+Membership of magnetic shielding group
+Coordination of Analysis Group
+Membership of Technical and Executive boards</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2006-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>National Institute for Subatomic Physics Nikhef (NiKHEF)</gtr:collaboratingOrganisation><gtr:country>Netherlands, Kingdom of the</gtr:country><gtr:description>MICE</gtr:description><gtr:id>5D3F95D6-A6A6-492D-BFFD-C3582EBCE4B5</gtr:id><gtr:impact>Commissioning of MICE muon beam and LH2 system
+Measurement of emittance of the new MICE muon beam
+Measurement of momentum spectrum of muons
+Better understanding of multiple scattering in low Z materials
+Testing / training of MICE suoperconducting magnets</gtr:impact><gtr:partnerContribution>Construction and Engineering of beamline and components of the experiment
+Simulation studies
+Operations</gtr:partnerContribution><gtr:piContribution>Engineering Design and production of Superconducting Focus Coils
+
+Commissioning of said Focus Coils
+
+Engineering Design, manufacture and testing of Diffuser
+Commissioning of MICE muon beamline
+
+Scientific leadership in:
+ the development of a method to measure emittances and momentum spectrum of muons in beamline,
+ the analysis of beamline data and measurement of emittances and momenta
+ the simulations of the experiment
+
+Simulations of beamline
+
+'Bottoms up' model of multiple Coulomb Scattering
+
+Testing of liquid hydrogen system
+Testing of first Focus Coil
+
+Membership of magnetic shielding group
+Coordination of Analysis Group
+Membership of Technical and Executive boards</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2006-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Geneva</gtr:collaboratingOrganisation><gtr:country>Switzerland, Swiss Confederation</gtr:country><gtr:department>Physics Section</gtr:department><gtr:description>MICE</gtr:description><gtr:id>349A5BCE-0F54-4DBC-9722-66CD678E0748</gtr:id><gtr:impact>Commissioning of MICE muon beam and LH2 system
+Measurement of emittance of the new MICE muon beam
+Measurement of momentum spectrum of muons
+Better understanding of multiple scattering in low Z materials
+Testing / training of MICE suoperconducting magnets</gtr:impact><gtr:partnerContribution>Construction and Engineering of beamline and components of the experiment
+Simulation studies
+Operations</gtr:partnerContribution><gtr:piContribution>Engineering Design and production of Superconducting Focus Coils
+
+Commissioning of said Focus Coils
+
+Engineering Design, manufacture and testing of Diffuser
+Commissioning of MICE muon beamline
+
+Scientific leadership in:
+ the development of a method to measure emittances and momentum spectrum of muons in beamline,
+ the analysis of beamline data and measurement of emittances and momenta
+ the simulations of the experiment
+
+Simulations of beamline
+
+'Bottoms up' model of multiple Coulomb Scattering
+
+Testing of liquid hydrogen system
+Testing of first Focus Coil
+
+Membership of magnetic shielding group
+Coordination of Analysis Group
+Membership of Technical and Executive boards</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2006-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>Istituto Nazionale di Fisica Nucleare</gtr:collaboratingOrganisation><gtr:country>Italy, Italian Republic</gtr:country><gtr:description>MICE</gtr:description><gtr:id>E4827281-3C4D-4699-8560-60D233B1494D</gtr:id><gtr:impact>Commissioning of MICE muon beam and LH2 system
+Measurement of emittance of the new MICE muon beam
+Measurement of momentum spectrum of muons
+Better understanding of multiple scattering in low Z materials
+Testing / training of MICE suoperconducting magnets</gtr:impact><gtr:partnerContribution>Construction and Engineering of beamline and components of the experiment
+Simulation studies
+Operations</gtr:partnerContribution><gtr:piContribution>Engineering Design and production of Superconducting Focus Coils
+
+Commissioning of said Focus Coils
+
+Engineering Design, manufacture and testing of Diffuser
+Commissioning of MICE muon beamline
+
+Scientific leadership in:
+ the development of a method to measure emittances and momentum spectrum of muons in beamline,
+ the analysis of beamline data and measurement of emittances and momenta
+ the simulations of the experiment
+
+Simulations of beamline
+
+'Bottoms up' model of multiple Coulomb Scattering
+
+Testing of liquid hydrogen system
+Testing of first Focus Coil
+
+Membership of magnetic shielding group
+Coordination of Analysis Group
+Membership of Technical and Executive boards</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2006-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Sheffield</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:department>Department of Physics and Astronomy</gtr:department><gtr:description>MICE</gtr:description><gtr:id>49064A37-6BE8-4DA7-8B19-2662323A7BA5</gtr:id><gtr:impact>Commissioning of MICE muon beam and LH2 system
+Measurement of emittance of the new MICE muon beam
+Measurement of momentum spectrum of muons
+Better understanding of multiple scattering in low Z materials
+Testing / training of MICE suoperconducting magnets</gtr:impact><gtr:partnerContribution>Construction and Engineering of beamline and components of the experiment
+Simulation studies
+Operations</gtr:partnerContribution><gtr:piContribution>Engineering Design and production of Superconducting Focus Coils
+
+Commissioning of said Focus Coils
+
+Engineering Design, manufacture and testing of Diffuser
+Commissioning of MICE muon beamline
+
+Scientific leadership in:
+ the development of a method to measure emittances and momentum spectrum of muons in beamline,
+ the analysis of beamline data and measurement of emittances and momenta
+ the simulations of the experiment
+
+Simulations of beamline
+
+'Bottoms up' model of multiple Coulomb Scattering
+
+Testing of liquid hydrogen system
+Testing of first Focus Coil
+
+Membership of magnetic shielding group
+Coordination of Analysis Group
+Membership of Technical and Executive boards</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2006-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Mississippi</gtr:collaboratingOrganisation><gtr:country>United States of America</gtr:country><gtr:department>Department of Physics &amp; Astronomy</gtr:department><gtr:description>MICE</gtr:description><gtr:id>DC70318A-C081-498D-84D9-504777BAADE9</gtr:id><gtr:impact>Commissioning of MICE muon beam and LH2 system
+Measurement of emittance of the new MICE muon beam
+Measurement of momentum spectrum of muons
+Better understanding of multiple scattering in low Z materials
+Testing / training of MICE suoperconducting magnets</gtr:impact><gtr:partnerContribution>Construction and Engineering of beamline and components of the experiment
+Simulation studies
+Operations</gtr:partnerContribution><gtr:piContribution>Engineering Design and production of Superconducting Focus Coils
+
+Commissioning of said Focus Coils
+
+Engineering Design, manufacture and testing of Diffuser
+Commissioning of MICE muon beamline
+
+Scientific leadership in:
+ the development of a method to measure emittances and momentum spectrum of muons in beamline,
+ the analysis of beamline data and measurement of emittances and momenta
+ the simulations of the experiment
+
+Simulations of beamline
+
+'Bottoms up' model of multiple Coulomb Scattering
+
+Testing of liquid hydrogen system
+Testing of first Focus Coil
+
+Membership of magnetic shielding group
+Coordination of Analysis Group
+Membership of Technical and Executive boards</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2006-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>Science and Technologies Facilities Council (STFC)</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:department>Daresbury Laboratory</gtr:department><gtr:description>MICE</gtr:description><gtr:id>21769C29-45C1-4C9F-9B4B-183A1B827A35</gtr:id><gtr:impact>Commissioning of MICE muon beam and LH2 system
+Measurement of emittance of the new MICE muon beam
+Measurement of momentum spectrum of muons
+Better understanding of multiple scattering in low Z materials
+Testing / training of MICE suoperconducting magnets</gtr:impact><gtr:partnerContribution>Construction and Engineering of beamline and components of the experiment
+Simulation studies
+Operations</gtr:partnerContribution><gtr:piContribution>Engineering Design and production of Superconducting Focus Coils
+
+Commissioning of said Focus Coils
+
+Engineering Design, manufacture and testing of Diffuser
+Commissioning of MICE muon beamline
+
+Scientific leadership in:
+ the development of a method to measure emittances and momentum spectrum of muons in beamline,
+ the analysis of beamline data and measurement of emittances and momenta
+ the simulations of the experiment
+
+Simulations of beamline
+
+'Bottoms up' model of multiple Coulomb Scattering
+
+Testing of liquid hydrogen system
+Testing of first Focus Coil
+
+Membership of magnetic shielding group
+Coordination of Analysis Group
+Membership of Technical and Executive boards</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2006-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>Science and Technology Facilities Council</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:department>Rutherford Appleton Laboratory, Harwell</gtr:department><gtr:description>MICE</gtr:description><gtr:id>0DEB7581-A18C-449E-B2E7-A3B17CC50D98</gtr:id><gtr:impact>Commissioning of MICE muon beam and LH2 system
+Measurement of emittance of the new MICE muon beam
+Measurement of momentum spectrum of muons
+Better understanding of multiple scattering in low Z materials
+Testing / training of MICE suoperconducting magnets</gtr:impact><gtr:partnerContribution>Construction and Engineering of beamline and components of the experiment
+Simulation studies
+Operations</gtr:partnerContribution><gtr:piContribution>Engineering Design and production of Superconducting Focus Coils
+
+Commissioning of said Focus Coils
+
+Engineering Design, manufacture and testing of Diffuser
+Commissioning of MICE muon beamline
+
+Scientific leadership in:
+ the development of a method to measure emittances and momentum spectrum of muons in beamline,
+ the analysis of beamline data and measurement of emittances and momenta
+ the simulations of the experiment
+
+Simulations of beamline
+
+'Bottoms up' model of multiple Coulomb Scattering
+
+Testing of liquid hydrogen system
+Testing of first Focus Coil
+
+Membership of magnetic shielding group
+Coordination of Analysis Group
+Membership of Technical and Executive boards</gtr:piContribution><gtr:sector>Public</gtr:sector><gtr:start>2006-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Warwick</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:department>Department of Physics</gtr:department><gtr:description>MICE</gtr:description><gtr:id>2D348109-AE11-467A-86FB-D3B2DE75BE00</gtr:id><gtr:impact>Commissioning of MICE muon beam and LH2 system
+Measurement of emittance of the new MICE muon beam
+Measurement of momentum spectrum of muons
+Better understanding of multiple scattering in low Z materials
+Testing / training of MICE suoperconducting magnets</gtr:impact><gtr:partnerContribution>Construction and Engineering of beamline and components of the experiment
+Simulation studies
+Operations</gtr:partnerContribution><gtr:piContribution>Engineering Design and production of Superconducting Focus Coils
+
+Commissioning of said Focus Coils
+
+Engineering Design, manufacture and testing of Diffuser
+Commissioning of MICE muon beamline
+
+Scientific leadership in:
+ the development of a method to measure emittances and momentum spectrum of muons in beamline,
+ the analysis of beamline data and measurement of emittances and momenta
+ the simulations of the experiment
+
+Simulations of beamline
+
+'Bottoms up' model of multiple Coulomb Scattering
+
+Testing of liquid hydrogen system
+Testing of first Focus Coil
+
+Membership of magnetic shielding group
+Coordination of Analysis Group
+Membership of Technical and Executive boards</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2006-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of New Hampshire</gtr:collaboratingOrganisation><gtr:country>United States of America</gtr:country><gtr:department>Department of Physics</gtr:department><gtr:description>MICE</gtr:description><gtr:id>BE9385B3-3B3D-4FBD-A7C6-D7E6BCF2B110</gtr:id><gtr:impact>Commissioning of MICE muon beam and LH2 system
+Measurement of emittance of the new MICE muon beam
+Measurement of momentum spectrum of muons
+Better understanding of multiple scattering in low Z materials
+Testing / training of MICE suoperconducting magnets</gtr:impact><gtr:partnerContribution>Construction and Engineering of beamline and components of the experiment
+Simulation studies
+Operations</gtr:partnerContribution><gtr:piContribution>Engineering Design and production of Superconducting Focus Coils
+
+Commissioning of said Focus Coils
+
+Engineering Design, manufacture and testing of Diffuser
+Commissioning of MICE muon beamline
+
+Scientific leadership in:
+ the development of a method to measure emittances and momentum spectrum of muons in beamline,
+ the analysis of beamline data and measurement of emittances and momenta
+ the simulations of the experiment
+
+Simulations of beamline
+
+'Bottoms up' model of multiple Coulomb Scattering
+
+Testing of liquid hydrogen system
+Testing of first Focus Coil
+
+Membership of magnetic shielding group
+Coordination of Analysis Group
+Membership of Technical and Executive boards</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2006-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>Istituto Nazionale di Fisica Nucleare</gtr:collaboratingOrganisation><gtr:country>Italy, Italian Republic</gtr:country><gtr:department>Istituto Nazionale di Fisica Nucleare - Rome</gtr:department><gtr:description>MICE</gtr:description><gtr:id>4CF85121-FD3D-4730-A172-2D9831B180F6</gtr:id><gtr:impact>Commissioning of MICE muon beam and LH2 system
+Measurement of emittance of the new MICE muon beam
+Measurement of momentum spectrum of muons
+Better understanding of multiple scattering in low Z materials
+Testing / training of MICE suoperconducting magnets</gtr:impact><gtr:partnerContribution>Construction and Engineering of beamline and components of the experiment
+Simulation studies
+Operations</gtr:partnerContribution><gtr:piContribution>Engineering Design and production of Superconducting Focus Coils
+
+Commissioning of said Focus Coils
+
+Engineering Design, manufacture and testing of Diffuser
+Commissioning of MICE muon beamline
+
+Scientific leadership in:
+ the development of a method to measure emittances and momentum spectrum of muons in beamline,
+ the analysis of beamline data and measurement of emittances and momenta
+ the simulations of the experiment
+
+Simulations of beamline
+
+'Bottoms up' model of multiple Coulomb Scattering
+
+Testing of liquid hydrogen system
+Testing of first Focus Coil
+
+Membership of magnetic shielding group
+Coordination of Analysis Group
+Membership of Technical and Executive boards</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2006-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Glasgow</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:department>Physics and Astronomy Department</gtr:department><gtr:description>MICE</gtr:description><gtr:id>5FF158C4-2A94-47CA-8E63-68FD85F316B9</gtr:id><gtr:impact>Commissioning of MICE muon beam and LH2 system
+Measurement of emittance of the new MICE muon beam
+Measurement of momentum spectrum of muons
+Better understanding of multiple scattering in low Z materials
+Testing / training of MICE suoperconducting magnets</gtr:impact><gtr:partnerContribution>Construction and Engineering of beamline and components of the experiment
+Simulation studies
+Operations</gtr:partnerContribution><gtr:piContribution>Engineering Design and production of Superconducting Focus Coils
+
+Commissioning of said Focus Coils
+
+Engineering Design, manufacture and testing of Diffuser
+Commissioning of MICE muon beamline
+
+Scientific leadership in:
+ the development of a method to measure emittances and momentum spectrum of muons in beamline,
+ the analysis of beamline data and measurement of emittances and momenta
+ the simulations of the experiment
+
+Simulations of beamline
+
+'Bottoms up' model of multiple Coulomb Scattering
+
+Testing of liquid hydrogen system
+Testing of first Focus Coil
+
+Membership of magnetic shielding group
+Coordination of Analysis Group
+Membership of Technical and Executive boards</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2006-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>Harbin Institute of Technology</gtr:collaboratingOrganisation><gtr:country>China, People's Republic of</gtr:country><gtr:department>Institute of Cryogenics and Superconductivity Technology</gtr:department><gtr:description>MICE</gtr:description><gtr:id>325E4BA3-82B5-4A55-AD06-9F074D0A30C6</gtr:id><gtr:impact>Commissioning of MICE muon beam and LH2 system
+Measurement of emittance of the new MICE muon beam
+Measurement of momentum spectrum of muons
+Better understanding of multiple scattering in low Z materials
+Testing / training of MICE suoperconducting magnets</gtr:impact><gtr:partnerContribution>Construction and Engineering of beamline and components of the experiment
+Simulation studies
+Operations</gtr:partnerContribution><gtr:piContribution>Engineering Design and production of Superconducting Focus Coils
+
+Commissioning of said Focus Coils
+
+Engineering Design, manufacture and testing of Diffuser
+Commissioning of MICE muon beamline
+
+Scientific leadership in:
+ the development of a method to measure emittances and momentum spectrum of muons in beamline,
+ the analysis of beamline data and measurement of emittances and momenta
+ the simulations of the experiment
+
+Simulations of beamline
+
+'Bottoms up' model of multiple Coulomb Scattering
+
+Testing of liquid hydrogen system
+Testing of first Focus Coil
+
+Membership of magnetic shielding group
+Coordination of Analysis Group
+Membership of Technical and Executive boards</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2006-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>Fermilab</gtr:collaboratingOrganisation><gtr:country>United States of America</gtr:country><gtr:description>MICE</gtr:description><gtr:id>036B9F16-A196-4B91-A4CB-E8CDFF025D53</gtr:id><gtr:impact>Commissioning of MICE muon beam and LH2 system
+Measurement of emittance of the new MICE muon beam
+Measurement of momentum spectrum of muons
+Better understanding of multiple scattering in low Z materials
+Testing / training of MICE suoperconducting magnets</gtr:impact><gtr:partnerContribution>Construction and Engineering of beamline and components of the experiment
+Simulation studies
+Operations</gtr:partnerContribution><gtr:piContribution>Engineering Design and production of Superconducting Focus Coils
+
+Commissioning of said Focus Coils
+
+Engineering Design, manufacture and testing of Diffuser
+Commissioning of MICE muon beamline
+
+Scientific leadership in:
+ the development of a method to measure emittances and momentum spectrum of muons in beamline,
+ the analysis of beamline data and measurement of emittances and momenta
+ the simulations of the experiment
+
+Simulations of beamline
+
+'Bottoms up' model of multiple Coulomb Scattering
+
+Testing of liquid hydrogen system
+Testing of first Focus Coil
+
+Membership of magnetic shielding group
+Coordination of Analysis Group
+Membership of Technical and Executive boards</gtr:piContribution><gtr:sector>Public</gtr:sector><gtr:start>2006-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>High Energy Accelerator Research Organization (KEK)</gtr:collaboratingOrganisation><gtr:country>Japan</gtr:country><gtr:description>MICE</gtr:description><gtr:id>E03D68E3-E5D9-41D4-9387-5091F43555EE</gtr:id><gtr:impact>Commissioning of MICE muon beam and LH2 system
+Measurement of emittance of the new MICE muon beam
+Measurement of momentum spectrum of muons
+Better understanding of multiple scattering in low Z materials
+Testing / training of MICE suoperconducting magnets</gtr:impact><gtr:partnerContribution>Construction and Engineering of beamline and components of the experiment
+Simulation studies
+Operations</gtr:partnerContribution><gtr:piContribution>Engineering Design and production of Superconducting Focus Coils
+
+Commissioning of said Focus Coils
+
+Engineering Design, manufacture and testing of Diffuser
+Commissioning of MICE muon beamline
+
+Scientific leadership in:
+ the development of a method to measure emittances and momentum spectrum of muons in beamline,
+ the analysis of beamline data and measurement of emittances and momenta
+ the simulations of the experiment
+
+Simulations of beamline
+
+'Bottoms up' model of multiple Coulomb Scattering
+
+Testing of liquid hydrogen system
+Testing of first Focus Coil
+
+Membership of magnetic shielding group
+Coordination of Analysis Group
+Membership of Technical and Executive boards</gtr:piContribution><gtr:sector>Public</gtr:sector><gtr:start>2006-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>European Organization for Nuclear Research (CERN)</gtr:collaboratingOrganisation><gtr:country>Switzerland, Swiss Confederation</gtr:country><gtr:description>MICE</gtr:description><gtr:id>ECFC8C0F-AB98-4B47-9979-1C00730DC99B</gtr:id><gtr:impact>Commissioning of MICE muon beam and LH2 system
+Measurement of emittance of the new MICE muon beam
+Measurement of momentum spectrum of muons
+Better understanding of multiple scattering in low Z materials
+Testing / training of MICE suoperconducting magnets</gtr:impact><gtr:partnerContribution>Construction and Engineering of beamline and components of the experiment
+Simulation studies
+Operations</gtr:partnerContribution><gtr:piContribution>Engineering Design and production of Superconducting Focus Coils
+
+Commissioning of said Focus Coils
+
+Engineering Design, manufacture and testing of Diffuser
+Commissioning of MICE muon beamline
+
+Scientific leadership in:
+ the development of a method to measure emittances and momentum spectrum of muons in beamline,
+ the analysis of beamline data and measurement of emittances and momenta
+ the simulations of the experiment
+
+Simulations of beamline
+
+'Bottoms up' model of multiple Coulomb Scattering
+
+Testing of liquid hydrogen system
+Testing of first Focus Coil
+
+Membership of magnetic shielding group
+Coordination of Analysis Group
+Membership of Technical and Executive boards</gtr:piContribution><gtr:sector>Public</gtr:sector><gtr:start>2006-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>School of Physical Sciences</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:department>Department of Physics</gtr:department><gtr:description>MICE</gtr:description><gtr:id>AB603C97-7A34-4887-BB6F-1A6D9BAB9600</gtr:id><gtr:impact>Commissioning of MICE muon beam and LH2 system
+Measurement of emittance of the new MICE muon beam
+Measurement of momentum spectrum of muons
+Better understanding of multiple scattering in low Z materials
+Testing / training of MICE suoperconducting magnets</gtr:impact><gtr:partnerContribution>Construction and Engineering of beamline and components of the experiment
+Simulation studies
+Operations</gtr:partnerContribution><gtr:piContribution>Engineering Design and production of Superconducting Focus Coils
+
+Commissioning of said Focus Coils
+
+Engineering Design, manufacture and testing of Diffuser
+Commissioning of MICE muon beamline
+
+Scientific leadership in:
+ the development of a method to measure emittances and momentum spectrum of muons in beamline,
+ the analysis of beamline data and measurement of emittances and momenta
+ the simulations of the experiment
+
+Simulations of beamline
+
+'Bottoms up' model of multiple Coulomb Scattering
+
+Testing of liquid hydrogen system
+Testing of first Focus Coil
+
+Membership of magnetic shielding group
+Coordination of Analysis Group
+Membership of Technical and Executive boards</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2006-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>Medical University of Sofia</gtr:collaboratingOrganisation><gtr:country>Bulgaria, Republic of</gtr:country><gtr:department>Faculty of Physics</gtr:department><gtr:description>MICE</gtr:description><gtr:id>9BA0FD14-8F18-469E-80DF-7D181CD5AF0C</gtr:id><gtr:impact>Commissioning of MICE muon beam and LH2 system
+Measurement of emittance of the new MICE muon beam
+Measurement of momentum spectrum of muons
+Better understanding of multiple scattering in low Z materials
+Testing / training of MICE suoperconducting magnets</gtr:impact><gtr:partnerContribution>Construction and Engineering of beamline and components of the experiment
+Simulation studies
+Operations</gtr:partnerContribution><gtr:piContribution>Engineering Design and production of Superconducting Focus Coils
+
+Commissioning of said Focus Coils
+
+Engineering Design, manufacture and testing of Diffuser
+Commissioning of MICE muon beamline
+
+Scientific leadership in:
+ the development of a method to measure emittances and momentum spectrum of muons in beamline,
+ the analysis of beamline data and measurement of emittances and momenta
+ the simulations of the experiment
+
+Simulations of beamline
+
+'Bottoms up' model of multiple Coulomb Scattering
+
+Testing of liquid hydrogen system
+Testing of first Focus Coil
+
+Membership of magnetic shielding group
+Coordination of Analysis Group
+Membership of Technical and Executive boards</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2006-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>Berkeley National Laboratory</gtr:collaboratingOrganisation><gtr:country>United States of America</gtr:country><gtr:description>MICE</gtr:description><gtr:id>AB008290-439C-40C6-BAF6-75353A7F543B</gtr:id><gtr:impact>Commissioning of MICE muon beam and LH2 system
+Measurement of emittance of the new MICE muon beam
+Measurement of momentum spectrum of muons
+Better understanding of multiple scattering in low Z materials
+Testing / training of MICE suoperconducting magnets</gtr:impact><gtr:partnerContribution>Construction and Engineering of beamline and components of the experiment
+Simulation studies
+Operations</gtr:partnerContribution><gtr:piContribution>Engineering Design and production of Superconducting Focus Coils
+
+Commissioning of said Focus Coils
+
+Engineering Design, manufacture and testing of Diffuser
+Commissioning of MICE muon beamline
+
+Scientific leadership in:
+ the development of a method to measure emittances and momentum spectrum of muons in beamline,
+ the analysis of beamline data and measurement of emittances and momenta
+ the simulations of the experiment
+
+Simulations of beamline
+
+'Bottoms up' model of multiple Coulomb Scattering
+
+Testing of liquid hydrogen system
+Testing of first Focus Coil
+
+Membership of magnetic shielding group
+Coordination of Analysis Group
+Membership of Technical and Executive boards</gtr:piContribution><gtr:sector>Public</gtr:sector><gtr:start>2006-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>Illinois Institute of Technology</gtr:collaboratingOrganisation><gtr:country>United States of America</gtr:country><gtr:department>Department of?Physics</gtr:department><gtr:description>MICE</gtr:description><gtr:id>6331316F-579D-4742-B037-55962661D740</gtr:id><gtr:impact>Commissioning of MICE muon beam and LH2 system
+Measurement of emittance of the new MICE muon beam
+Measurement of momentum spectrum of muons
+Better understanding of multiple scattering in low Z materials
+Testing / training of MICE suoperconducting magnets</gtr:impact><gtr:partnerContribution>Construction and Engineering of beamline and components of the experiment
+Simulation studies
+Operations</gtr:partnerContribution><gtr:piContribution>Engineering Design and production of Superconducting Focus Coils
+
+Commissioning of said Focus Coils
+
+Engineering Design, manufacture and testing of Diffuser
+Commissioning of MICE muon beamline
+
+Scientific leadership in:
+ the development of a method to measure emittances and momentum spectrum of muons in beamline,
+ the analysis of beamline data and measurement of emittances and momenta
+ the simulations of the experiment
+
+Simulations of beamline
+
+'Bottoms up' model of multiple Coulomb Scattering
+
+Testing of liquid hydrogen system
+Testing of first Focus Coil
+
+Membership of magnetic shielding group
+Coordination of Analysis Group
+Membership of Technical and Executive boards</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2006-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>Faculty of Natural Sciences</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:department>Department of Physics</gtr:department><gtr:description>MICE</gtr:description><gtr:id>C535320C-432A-47D7-8909-EE0CDBFA5E56</gtr:id><gtr:impact>Commissioning of MICE muon beam and LH2 system
+Measurement of emittance of the new MICE muon beam
+Measurement of momentum spectrum of muons
+Better understanding of multiple scattering in low Z materials
+Testing / training of MICE suoperconducting magnets</gtr:impact><gtr:partnerContribution>Construction and Engineering of beamline and components of the experiment
+Simulation studies
+Operations</gtr:partnerContribution><gtr:piContribution>Engineering Design and production of Superconducting Focus Coils
+
+Commissioning of said Focus Coils
+
+Engineering Design, manufacture and testing of Diffuser
+Commissioning of MICE muon beamline
+
+Scientific leadership in:
+ the development of a method to measure emittances and momentum spectrum of muons in beamline,
+ the analysis of beamline data and measurement of emittances and momenta
+ the simulations of the experiment
+
+Simulations of beamline
+
+'Bottoms up' model of multiple Coulomb Scattering
+
+Testing of liquid hydrogen system
+Testing of first Focus Coil
+
+Membership of magnetic shielding group
+Coordination of Analysis Group
+Membership of Technical and Executive boards</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2006-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of California at Riverside</gtr:collaboratingOrganisation><gtr:country>United States of America</gtr:country><gtr:department>Department of?Physics?And Astronomy</gtr:department><gtr:description>MICE</gtr:description><gtr:id>C3D97C3C-B9D4-42C0-B393-B4E511262967</gtr:id><gtr:impact>Commissioning of MICE muon beam and LH2 system
+Measurement of emittance of the new MICE muon beam
+Measurement of momentum spectrum of muons
+Better understanding of multiple scattering in low Z materials
+Testing / training of MICE suoperconducting magnets</gtr:impact><gtr:partnerContribution>Construction and Engineering of beamline and components of the experiment
+Simulation studies
+Operations</gtr:partnerContribution><gtr:piContribution>Engineering Design and production of Superconducting Focus Coils
+
+Commissioning of said Focus Coils
+
+Engineering Design, manufacture and testing of Diffuser
+Commissioning of MICE muon beamline
+
+Scientific leadership in:
+ the development of a method to measure emittances and momentum spectrum of muons in beamline,
+ the analysis of beamline data and measurement of emittances and momenta
+ the simulations of the experiment
+
+Simulations of beamline
+
+'Bottoms up' model of multiple Coulomb Scattering
+
+Testing of liquid hydrogen system
+Testing of first Focus Coil
+
+Membership of magnetic shielding group
+Coordination of Analysis Group
+Membership of Technical and Executive boards</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2006-01-01</gtr:start></gtr:collaborationOutput></gtr:collaborationOutputs><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/0AB52A07-F324-43F3-A70B-5A2377C31AEB"><gtr:id>0AB52A07-F324-43F3-A70B-5A2377C31AEB</gtr:id><gtr:title>The MICE Muon Beam on ISIS and the beam-line instrumentation of the Muon Ionization Cooling Experiment</gtr:title><gtr:parentPublicationTitle>Journal of Instrumentation</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/e579cd21e5df5fb343266bfa1799d2f2"><gtr:id>e579cd21e5df5fb343266bfa1799d2f2</gtr:id><gtr:otherNames>Bogomilov M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">ST/J002100/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>09D33363-1F2C-4CCD-A4B9-4CAA0DD34A4C</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Facility Development</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>C2898760-D7E5-4B25-A236-E7869CD74F88</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Particle physics - experiment</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>BF8C9667-2697-4493-8519-7787831D008B</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Accelerator R&amp;D</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>DB4948F7-4829-4191-8416-208CE0FBE9D2</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Neutrino Physics</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

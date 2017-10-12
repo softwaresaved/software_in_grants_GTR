@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/5BFB9036-9D16-4AB9-A9EF-097BB6FBD69A"><gtr:id>5BFB9036-9D16-4AB9-A9EF-097BB6FBD69A</gtr:id><gtr:name>Aston University</gtr:name><gtr:department>Sch of Engineering and Applied Science</gtr:department><gtr:address><gtr:line1>Aston Triangle</gtr:line1><gtr:line4>Birmingham</gtr:line4><gtr:postCode>B4 7ET</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/5BFB9036-9D16-4AB9-A9EF-097BB6FBD69A"><gtr:id>5BFB9036-9D16-4AB9-A9EF-097BB6FBD69A</gtr:id><gtr:name>Aston University</gtr:name><gtr:address><gtr:line1>Aston Triangle</gtr:line1><gtr:line4>Birmingham</gtr:line4><gtr:postCode>B4 7ET</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/381EEBFE-3CAE-4C89-88DD-BF6FCA7A3726"><gtr:id>381EEBFE-3CAE-4C89-88DD-BF6FCA7A3726</gtr:id><gtr:firstName>Dani</gtr:firstName><gtr:surname>Strickland</gtr:surname><gtr:orcidId>0000-0002-2979-4479</gtr:orcidId><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=EP%2FN50855X%2F1"><gtr:id>52E440E2-AB24-46D7-B76D-79D7F65C1553</gtr:id><gtr:title>Optimising regional clusters of smart local energy systems</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/N50855X/1</gtr:grantReference><gtr:abstractText>Transformation of the national electricity network is being explored through a series of projects funded by the Low Carbon
+Networks Fund (LCNF). Simultaneously Innovate-UK and others are investing in a variety of projects to develop distributed
+energy assets (generation, storage and demand management) at community and individual building level. Development of
+a new overall control system architecture is the missing link which will allow the full economic value of both of these sets of
+investment to be realised.
+This project will investigate the feasibility of a technology solution designed to optimise a number of smart community
+electricity networks across a locality. The technology is a control solution (supported by storage) designed to fit within a
+novel distributed control architecture for energy networks. It applies networked ICT solutions at substation level and uses
+intelligent predictive algorithms adapted from those used in telecommunications network management. The solution builds on existing work to develop community control algorithms for individual 'smart grids' (for example covering individual
+business parks or housing developments) and aims to provide a robust and secure 'middleware' integration layer between
+these local 'bottom-up' control systems and the existing distribution network operators and national control system. This is
+estimated to release benefits to individual households of up to &amp;pound;300 per year.
+The fundamental proposition of this project is that a technical solution is feasible which will enable the shift to this new
+overall architecture. This solution takes the form of an integrated package of control and communications technologies
+installed on electricity distribution networks (with appropriate management algorithms and almost certainly supported by
+access to local storage)- largely at substation level but working in a co-ordinated way across a locality (sub-region or city)
+and analogous to the way telecommunicationsnetworks are managed. Such a solution will enable more flexible trading and
+regulatory arrangements between local smart grids and hence support the realisation of the full economic value of demandside
+innovations.
+The solution will provide a distributed control capability that optimises and manages multiple local smart grids, without
+imposing additional costs on system users that exceed the benefits generated. Analogous to the technical infrastructure
+that supports the internet, the solution will provide a resilient control infrastructure able to accommodate many and varied
+types of local smart grid.
+The key distinction between our proposed solution and centralised control systems is that individual sub-systems (i.e., local
+smart grids and substations) will communicate with each other and optimise outcomes locally before having to engage
+upwards with the national system. Our solution will develop the algorithms and define the supporting package of control,
+protection and storage technologies to make this possible in a way which satisfies the needs of both the DNOs and national
+system operator (and potentially replaces existing SCADA control systems).
+Similar (but centralised) solutions currently exist for the electricity networks at national level but are prohibitively expensive
+(an initial estimate is that it would cost &amp;pound;40k per substation simply to mimic national management algorithms locally).
+This project will explore the technical feasibility of developing a packaged solution at substation level that costs less than
+&amp;pound;5000 per substation to deliver at least the same functionality, but with considerably increased flexibility and resilience. The
+primary advantage of effective distributed control and management in this context is that it will make it significantly easier to
+innovate on the demand side, enabling local optimisation and more varied smart grid approaches to develop locally.</gtr:abstractText><gtr:potentialImpactText>This research meets key challenges around determining the feasibility of a technology solution designed to optimise a
+number of smart community electricity networks across a locality. The technology is a control solution (supported by
+storage) designed to fit within a novel distributed control architecture for energy networks. The solution builds on existing
+work to develop community control algorithms for individual 'smart grids' (for example covering individual business parks or
+housing developments) and aims to provide a robust and secure 'middleware' integration layer between these local
+'bottom-up' control systems and the existing distribution network operators and national control system. . The project helps
+tackle low carbon issues by enabling accelerated rollout of locally-optimised microgrids which reduce the carbon emissions
+from communities by 10-20% and support better infrastructure for electric vehicles and other low carbon demand side
+solutions.
+The main impacts of this work as they relate to the different beneficiary groups are:
+- Transmission and Distribution network operators: currently there exists a national system operation and centralized
+distribution management layer which allows high level optimisation of networks typically at voltages above 33kV but with
+some automation at 11kV. However, no facility yet exists to optimise at levels below this. The result of this is that taking full
+advantage of the Network at levels below this is largely unavailable at present through lack of co-ordination between different key players. This project will help with security of supply by supporting more robust and resilient electricity
+distribution networks, and enabling connection and safe and efficient management of more distributed generation within the
+UK energy system it could also impact asset optimisation and grid.
+- Distributed generation owners and operators and community energy service companies: The evolution of the system to
+deal with a natural flow upwards allows for less commercial uncertainty and better planning statistics to be made available
+to aid development and growth opportunities.
+- Individuals: There are over 400,000 final distribution (11kV) substations in the UK, each typically covering a community of
+200-300 homes or equivalent. Each substation costs around &amp;pound;15k to build, and is depreciated over 15-25 years. This
+means that every domestic customer pays &amp;pound;3-4 a year through their electricity bill for this element of the network
+infrastructure. If the project is able to demonstrate the feasibility of providing a robust distributed micro-grid control solution
+at substation level for less than &amp;pound;5000 per substation and with an equipment service life of at least 15 years, this will add a
+maximum of &amp;pound;1.5-&amp;pound;2 per year to each customer's electricity bill, while releasing benefits of local microgrids for the same
+customers. Preliminary modelling by suggests these benefits may average &amp;pound;100-&amp;pound;300 per customer. In addition, there may
+be avoided costs of national level grid management which is no longer necessary and can be removed from customer bills.
+There would therefore be an exceptionally strong business case for the solution.
+- Policy makers and advisors: Councils and Government policy makers will benefit because the ramifications of this work
+will affect the way that the market and incentive schemes could change in the face of the research and could encourage
+community schemes.
+- SMEs: The project will support the development of manufacturing and supply chain capabilities in this sector.
+This research offers the opportunity to revolutionise the market for over the next 10 to 50 years.</gtr:potentialImpactText><gtr:fund><gtr:end>2016-04-30</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2015-05-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>29539</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs><gtr:furtherFundingOutput><gtr:amountPounds>9972</gtr:amountPounds><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:currCode>GBP</gtr:currCode><gtr:currCountryCode>United Kingdom</gtr:currCountryCode><gtr:currLang>en_GB</gtr:currLang><gtr:description>Net-Form</gtr:description><gtr:end>2018-02-02</gtr:end><gtr:fundingOrg>TSB</gtr:fundingOrg><gtr:fundingRef>132451</gtr:fundingRef><gtr:id>7A0F320A-0067-415C-BD97-2D11C8FD4769</gtr:id><gtr:sector>Private</gtr:sector><gtr:start>2017-02-01</gtr:start></gtr:furtherFundingOutput></gtr:furtherFundingOutputs><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>On a target network analysed, smart controls across multiple buildings coupled with appropriately deployed local generation and battery storage can reduce maximum load on substations by around 35% in winter and reduce minimum load (export) from -36% to -6% in summer. 
+This level of load reduction could feed through to reduced network reinforcement costs and support a business case for investment.
+This kind of technical solution can save end customers up to 9% on electricity bills via demand shifting and tariff optimisation.
+The calculated benefits are highly dependent on the effectiveness of the control and optimisation algorithm along with associated predictive techniques.
+Energy storage sizing may impact the business case as over sized storage could prove too expensive and undersized storage will not meet required aims especially within a constrained Network.</gtr:description><gtr:exploitationPathways>It is hoped that this work will be developed into a large scale trial to prove the benefits of community energy</gtr:exploitationPathways><gtr:id>0C1E2C2D-E54B-40C6-91BF-2CBE32B82959</gtr:id><gtr:sectors><gtr:sector>Digital/Communication/Information Technologies (including Software),Electronics,Energy</gtr:sector></gtr:sectors></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">EP/N50855X/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>F95121C7-7C31-40CE-BDBC-1E2BF025AEA6</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Energy</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>3614E731-921D-47D6-B457-68349FE3818C</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Sustainable Energy Networks</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

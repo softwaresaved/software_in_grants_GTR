@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/68D0E3C9-9246-4CFC-B5E9-48584CF82993"><gtr:id>68D0E3C9-9246-4CFC-B5E9-48584CF82993</gtr:id><gtr:name>University of Manchester</gtr:name><gtr:department>Engineering and Physical Sciences</gtr:department><gtr:address><gtr:line1>Oxford Road</gtr:line1><gtr:city>Manchester</gtr:city><gtr:postCode>M13 9PL</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/68D0E3C9-9246-4CFC-B5E9-48584CF82993"><gtr:id>68D0E3C9-9246-4CFC-B5E9-48584CF82993</gtr:id><gtr:name>University of Manchester</gtr:name><gtr:address><gtr:line1>Oxford Road</gtr:line1><gtr:city>Manchester</gtr:city><gtr:postCode>M13 9PL</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/0DA6B637-1398-482B-8994-A291E0E5F4B4"><gtr:id>0DA6B637-1398-482B-8994-A291E0E5F4B4</gtr:id><gtr:firstName>Guoxing</gtr:firstName><gtr:surname>Xia</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/AA2F56A7-6461-4282-9C15-6031D33B96DD"><gtr:id>AA2F56A7-6461-4282-9C15-6031D33B96DD</gtr:id><gtr:firstName>Oznur</gtr:firstName><gtr:surname>Mete</gtr:surname><gtr:roles><gtr:role><gtr:name>RESEARCHER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=ST%2FN00163X%2F1"><gtr:id>DC7077C5-C4BF-48DA-A811-E2F79D844218</gtr:id><gtr:title>AWAKE: a proton-driven plasma wakefield acceleration experiment at CERN</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>ST/N00163X/1</gtr:grantReference><gtr:abstractText>Over the last fifty years, accelerators of ever increasing energy and size have allowed us to probe the fundamental
+structure of the physical world. This has culminated in the Large Hadron Collider at CERN, Geneva, a 27-km long
+accelerator which has discovered the Higgs Boson and is about to embark on searches for new phenomena such as
+Supersymmetry. Using current accelerator technology, future high energy colliders will be of similar length or even longer.
+As an alternative, we are pursuing a new technology which would allow a reduction by about a factor of ten in length and
+hence would be expected to reduce the cost by a significant fraction.
+
+The idea presented here is to impact a high-energy proton beam, such as those at CERN, into a plasma. The free,
+negatively-charged electrons in the plasma are knocked out of their position by the protons, but are then attracted back by
+the positively-charged ions, creating a high-gradient electric &amp;quot;wakefield&amp;quot; and an oscillating motion is started by the plasma
+electrons. Experiments have already been carried out impacting lasers or an electron beam onto a plasma and accelerating
+gradients have been observed which are 1000 times higher than conventional accelerators. Given the much higher initial energy of available proton beams, it is anticipated that the electric fields it creates in a plasma could accelerate electrons in
+the wakefield up to the teraelectron-volts scale required for a future collider, but in a single stage and with a length of a few
+km. Such a collider is, however, many years in the future and test experiments are first needed.
+
+The AWAKE collaboration will perform a first proof-of-principle experiment at CERN. The experiment will use a high-energy
+proton beam to impact on a plasma cell of about 10 m and measure the energy change in a bunch of electrons which will
+travel behind the proton beam. Observing significant energy changes in the electrons would demonstrate the concept of
+this form of acceleration which has so far only been studied in simulation.
+
+The UK has several groups (Central Laser Facilities, Cockcroft Institute, Imperial College, John Adams Institute,
+Strathclyde and UCL) in the collaboration preparing the AWAKE experiment in CERN. We propose a programme to
+develop a wide-range of instrumentation which will the allow us to successfully build the experiment and extract the physics
+necessary to demonstrate the power of this approach. A crucial part is being able to build a plasma cell with a uniform
+density over lengths much longer than previously tried. We will also deliver elements of the electron source to be fired into
+the plasma at exactly the right time so as to feel the largest possible accelerating gradient in the wakefield created by the
+proton beam. To determine the success of the experiment, we will measure the properties of the plasma and the energy
+and spatial profile of the electron beam after it has been accelerated in the plasma. Finally, our results will improve
+simulations of plasma wakefields to give us more confidence in our expectations of a larger-scale experiment and help us
+best optimise its layout and capabilities.
+
+If successful, this experiment will lead to a further larger-scale project to accelerate bunches of electrons of small spatial
+extent with high particle numbers and ultimately a new form of acceleration which could lead to future, energy-frontier
+particle physics experiments. This technique has the potential to radically alter the frontier of high energy physics with
+accelerators as performant as currently planned or required, but at a tenth of the length and hence cost. With the
+significantly larger acceleration gradients and smaller spatial extent, plasma-based accelerator technology could also lead
+to vastly smaller synchrotron light sources which probe the structure of e.g. proteins and table-top accelerators of lower
+energy for use in hospitals or industry.</gtr:abstractText><gtr:potentialImpactText>This project is naturally a multi-disciplinary pursuit involving accelerator, plasma and particle physicists as well as
+engineers and technical staff. If successful, this method of acceleration could provide a new cost-effective route to high
+energy colliders of much reduced length or higher energy. This application is for significant development and is wide-ranging
+in scope and the purchase of equipment and consumables for the different instrumentation will be of benefit to UK
+industry. As we in the UK have been involved with a significant fraction of this project from the start, and with the significant investment
+requested here, should the final goal be realised, there is potential for economic stimulus to the UK which building a largescale
+research facility brings. This will involve the potential for large industrial contracts, training for students and other
+staff and knowledge exchange between academic institutes and industry arising from the R&amp;amp;D and the method of plasma
+wakefield acceleration.
+
+The final aim of this project is to build an accelerator for investigation of fundamental particles and forces, however, the
+principle of plasma wakefield acceleration could revolutionise accelerators in general. The accelerating gradients achieved
+are up to three orders of magnitude higher than current techniques allowing a corresponding reduction in the size (and
+cost) of future accelerators. This could then benefit any branch of science, health or industry which uses particle
+accelerators. An example is for future free electron laser facilities which could benefit significantly from this technique in
+which the acceleration of electrons takes place using a much shorter accelerating structure.
+
+Diagnostic techniques developed here could benefit many plasma wakefield experiments with different goals or
+applications. Additionally, the improved simulations of the dynamics of the plasma will aid our understanding of plasmas in
+general. Therefore the work done here could benefit accelerators planned for other industries using the technique of
+plasma wakefield acceleration.
+
+Finally, the physics behind the accelerator R&amp;amp;D and the final goal of an energy-frontier collider will excite future students
+and captivate the public in much the same was as the Large Hadron Collider has. Having the UK as part of such a cutting-edge programme is essential in order that we provide leadership in experiments on the nature of the physical world and with wide-ranging benefits to society. Any economic impact, as mentioned above, can only be achieved through being a strong partner.
+And the societal benefit of encouraging students to study physics and improving the general public's knowledge of science can best be achieved if we are part of future pursuits.</gtr:potentialImpactText><gtr:fund><gtr:end>2018-03-31</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/D7F4F462-0518-4784-908A-D12633C139B3"><gtr:id>D7F4F462-0518-4784-908A-D12633C139B3</gtr:id><gtr:name>STFC</gtr:name></gtr:funder><gtr:start>2016-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>82172</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">ST/N00163X/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>6BF947B0-8E6E-48DB-AB68-7130938F2DF2</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Instrument. sensor &amp; detectors</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>C2898760-D7E5-4B25-A236-E7869CD74F88</gtr:id><gtr:percentage>30</gtr:percentage><gtr:text>Particle physics - experiment</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>8C42F55F-1A1F-4ACE-B264-F6697518680A</gtr:id><gtr:percentage>20</gtr:percentage><gtr:text>Plasma physics</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>BF8C9667-2697-4493-8519-7787831D008B</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Accelerator R&amp;D</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>00E432A0-CF0E-42D0-BAF1-6872995B42EF</gtr:id><gtr:percentage>30</gtr:percentage><gtr:text>Part. Phys/Astron. Instrument.</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>C0FA0B57-567D-4D4E-AF5F-9E69AEE52E25</gtr:id><gtr:percentage>20</gtr:percentage><gtr:text>Plasmas - Technological</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

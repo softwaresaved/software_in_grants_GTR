@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/D1774113-D5D2-4B7C-A412-66A90FE4B96F"><gtr:id>D1774113-D5D2-4B7C-A412-66A90FE4B96F</gtr:id><gtr:name>University of Cambridge</gtr:name><gtr:department>Plant Sciences</gtr:department><gtr:address><gtr:line1>Lensfield Road</gtr:line1><gtr:line4>Cambridge</gtr:line4><gtr:postCode>CB2 1EW</gtr:postCode><gtr:region>East of England</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/D1774113-D5D2-4B7C-A412-66A90FE4B96F"><gtr:id>D1774113-D5D2-4B7C-A412-66A90FE4B96F</gtr:id><gtr:name>University of Cambridge</gtr:name><gtr:address><gtr:line1>Lensfield Road</gtr:line1><gtr:line4>Cambridge</gtr:line4><gtr:postCode>CB2 1EW</gtr:postCode><gtr:region>East of England</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/6ABEA93B-C9FB-4F00-A618-6B56DDD9E93C"><gtr:id>6ABEA93B-C9FB-4F00-A618-6B56DDD9E93C</gtr:id><gtr:firstName>Ian</gtr:firstName><gtr:surname>Henderson</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=BB%2FM004937%2F1"><gtr:id>67ECF513-D4CF-4B36-9902-1C7D4DFD4CB6</gtr:id><gtr:title>13 ERA-CAPS. Delineating the crossover control networks in plants (DeCOP)</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>BB/M004937/1</gtr:grantReference><gtr:abstractText>Meiosis is a specialized type of cell division required for sexual reproduction. It ensures the reduction
+of the genome and the recombination of maternal and paternal chromosomal segments prior to the
+formation of generative cells. The process of meiotic recombination is initiated by programmed DNA
+double-strand breaks (DSBs), introduced by the conserved Spo11 protein. Ultimately, the positions of
+the DSBs define loci of mutual genetic exchange. However, in a single meiotic cell only a small subset
+of DSBs are destined to form genetic crossovers (COs), while the remainder are repaired via non-
+CO pathways. CO formation itself is subject to stringent control, which ensures that each homologue
+pair receives at least one obligate CO. A phenomenon known as CO interference then ensures that
+most (~85%) additional COs do not occur in an adjacent chromosomal region. As a result multiple
+COs are spaced well apart along the homologues. Understanding the factors that control DSB
+formation and processing to form COs is of fundamental scientific interest, moreover this knowledge
+will have important implications for manipulating meiotic recombination in crop plants.
+In recent years meiosis research in plants has largely focussed on the identification of meiotic
+genes/proteins involved in recombination pathways or the organization of the chromosome axes and
+synaptonemal complex. Although these studies clearly demonstrate the importance of these proteins, it
+remained mostly enigmatic how their activities are coordinated to ensure the controlled formation of
+COs. Hence this collaborative project (DeCOP) seeks to shift emphasis to focus on how
+recombination, chromosome organisation and remodelling are orchestrated to control the frequency
+and distribution of COs. Specifically, we seek to identify the protein networks that determine the fate
+of individual DSBs and establish when CO interference is established. We propose to 1) perform an
+innovative screen to identify novel factors that modulate CO formation and interference, 2) investigate
+the role of chromosome axis-associated proteins in CO maturation and interference, 3) determine the
+role of (ATM/ATR mediated) phosphorylation in coordinating meiotic DNA repair and CO formation
+and 4) to identify proteins involved in the final step of CO formation.
+The factors and processes studied in the DeCOP project will significantly enhance our
+understanding of the networks that govern crossover formation in plants. We therefore anticipate that
+our findings will strongly stimulate future crop breeding programmes.</gtr:abstractText><gtr:technicalSummary>Meiosis is a specialized type of cell division required for sexual reproduction. It ensures the reduction
+of the genome and the recombination of maternal and paternal chromosomal segments prior to the
+formation of generative cells. The process of meiotic recombination is initiated by programmed DNA
+double-strand breaks (DSBs), introduced by the conserved Spo11 protein. Ultimately, the positions of
+the DSBs define loci of mutual genetic exchange. However, in a single meiotic cell only a small subset
+of DSBs are destined to form genetic crossovers (COs), while the remainder are repaired via non-
+CO pathways. CO formation itself is subject to stringent control, which ensures that each homologue
+pair receives at least one obligate CO. A phenomenon known as CO interference then ensures that
+most (~85%) additional COs do not occur in an adjacent chromosomal region. As a result multiple
+COs are spaced well apart along the homologues. Understanding the factors that control DSB
+formation and processing to form COs is of fundamental scientific interest, moreover this knowledge
+will have important implications for manipulating meiotic recombination in crop plants.
+In recent years meiosis research in plants has largely focussed on the identification of meiotic
+genes/proteins involved in recombination pathways or the organization of the chromosome axes and
+synaptonemal complex. Although these studies clearly demonstrate the importance of these proteins, it
+remained mostly enigmatic how their activities are coordinated to ensure the controlled formation of
+COs.</gtr:technicalSummary><gtr:potentialImpactText>The significance and timeliness of the DeCOP programme stems from its potential to make a
+significant contribution to global Food Security, which is one of the key challenges for the 21st
+century. At present global population is predicted to increase by 2 billion to 9 billion by 2050. Based
+on this it is anticipated that food production will need to increase by at least 50% to meet the demand
+arising from this increase in population. This will require a concerted effort across a number of areas,
+such as improved food distribution and storage facilities particularly in the developing world.
+However, the delivery of a sustained improvement in crop yield will also be essential particularly as
+crop yield will need to improved and safe-guarded against the impact of climate change. To deliver
+improvement and sustainability in crop production it will be necessary to employ a range of
+approaches. Although, GM may play an increasingly significant role, a major part in the delivery of
+improved crop varieties will be based on classical breeding. This capitalizes on the natural genetic
+variation that is generated by homologous recombination during meiosis. Meiotic recombination
+creates new combinations of alleles that confer new phenotypes that can be tested for enhanced
+performance. It is also essential in mapping genetic traits and in the introgression of new traits from
+sources such as wild-crop varieties. It is increasingly apparent that our understanding of the factors
+that control meiotic recombination in plants falls short of what is required if we are to overcome some
+key problems. For example, it is not known why recombination in cereals and forage grasses is
+skewed towards the ends of the chromosomes such that an estimated 30-50% of genes rarely, if ever,
+recombine thereby limiting the genetic variation that is available to plant breeders. Understanding how
+chromosome pairing and recombination are integrated is crucial particularly as many crop species are
+polyploid which presents a further level of complexity. Existing links between the members of DeCOP
+and plant breeding companies through current EU FP7 programmes, such as MeioSYS, RecBreed,
+ensure that a route to achieving impact from the programme is established.</gtr:potentialImpactText><gtr:fund><gtr:end>2017-06-29</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/2512EF1C-401B-4222-9869-A770D4C5FAC7"><gtr:id>2512EF1C-401B-4222-9869-A770D4C5FAC7</gtr:id><gtr:name>BBSRC</gtr:name></gtr:funder><gtr:start>2014-06-30</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>286728</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs><gtr:impactSummaryOutput><gtr:description>We collaborate with plant biotechnology industry to use our knowledge within the context of crop breeding and improvement. This is an ongoing process.</gtr:description><gtr:id>2BD40AA8-1F33-4A7A-BBE8-F6F72F177226</gtr:id><gtr:impactTypes><gtr:impactType>Economic</gtr:impactType></gtr:impactTypes><gtr:sector>Agriculture, Food and Drink</gtr:sector></gtr:impactSummaryOutput></gtr:impactSummaryOutputs><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>We have positionally mapped causal mutations that lead to increased recombination rate. We are in the process of proving the identity of these genes as causal. The screen is also continuing and we are continuing to isolate mutants with both higher and lower recombination rates.</gtr:description><gtr:exploitationPathways>This will identify key regulators of recombination for use in crop breeding.</gtr:exploitationPathways><gtr:id>56B005DA-9BFE-4FE0-8D87-87E00E9EAF07</gtr:id><gtr:sectors><gtr:sector>Agriculture, Food and Drink</gtr:sector></gtr:sectors></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/FCEBD164-A4A4-4FF6-B331-EEA39969D59A"><gtr:id>FCEBD164-A4A4-4FF6-B331-EEA39969D59A</gtr:id><gtr:title>DNA methylation epigenetically silences crossover hot spots and controls chromosomal domains of meiotic recombination in Arabidopsis.</gtr:title><gtr:parentPublicationTitle>Genes &amp; development</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/240a8c4fa6186766eb309162ed34b3fd"><gtr:id>240a8c4fa6186766eb309162ed34b3fd</gtr:id><gtr:otherNames>Yelina NE</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date><gtr:issn>0890-9369</gtr:issn></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/8AE86B2B-E498-4660-805F-E63846378F39"><gtr:id>8AE86B2B-E498-4660-805F-E63846378F39</gtr:id><gtr:title>Juxtaposition of heterozygous and homozygous regions causes reciprocal crossover remodelling via interference during Arabidopsis meiosis.</gtr:title><gtr:parentPublicationTitle>eLife</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/cb508330c34e5aab47d641b984066d72"><gtr:id>cb508330c34e5aab47d641b984066d72</gtr:id><gtr:otherNames>Ziolkowski PA</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date><gtr:issn>2050-084X</gtr:issn></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">BB/M004937/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>C23BE70F-1EF6-4CC7-88B0-841CB18DD875</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Genetics &amp; development</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>D3C718B2-93A6-47C3-A0F0-F426AC23276E</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Genome organisation</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>74ACE9F6-9B7F-4464-A13F-4DA8063390E1</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Recombination</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

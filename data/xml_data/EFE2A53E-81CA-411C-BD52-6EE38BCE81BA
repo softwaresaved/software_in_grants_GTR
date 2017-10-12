@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/955C55E8-783E-4842-BB2C-2D275A3CAF82"><gtr:id>955C55E8-783E-4842-BB2C-2D275A3CAF82</gtr:id><gtr:name>University of Portsmouth</gtr:name><gtr:department>Institute of Cosmology and Gravitation</gtr:department><gtr:address><gtr:line1>University House</gtr:line1><gtr:line2>Winston Churchill Avenue</gtr:line2><gtr:line4>Portsmouth</gtr:line4><gtr:line5>Hampshire</gtr:line5><gtr:postCode>PO1 2UP</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/955C55E8-783E-4842-BB2C-2D275A3CAF82"><gtr:id>955C55E8-783E-4842-BB2C-2D275A3CAF82</gtr:id><gtr:name>University of Portsmouth</gtr:name><gtr:address><gtr:line1>University House</gtr:line1><gtr:line2>Winston Churchill Avenue</gtr:line2><gtr:line4>Portsmouth</gtr:line4><gtr:line5>Hampshire</gtr:line5><gtr:postCode>PO1 2UP</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/F86DAC28-B18D-4601-B46B-12150AAC914D"><gtr:id>F86DAC28-B18D-4601-B46B-12150AAC914D</gtr:id><gtr:firstName>Daniel</gtr:firstName><gtr:surname>Whalen</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=ST%2FP000509%2F1"><gtr:id>EFE2A53E-81CA-411C-BD52-6EE38BCE81BA</gtr:id><gtr:title>Finding the First Supermassive Black Holes with Euclid and WFIRST</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>ST/P000509/1</gtr:grantReference><gtr:abstractText>More than 50 quasars have now been discovered at z &amp;gt; 6, or less than a billion
+years after the Big Bang. Their existence poses severe challenges to current 
+theories of cosmological structure formation because it is not known how black
+holes above a billion solar masses formed by such early times. We will use state 
+of the art supercomputer simulations to model the births and evolution of the first 
+quasars in the universe that include how x-rays from the black holes reionized 
+the early universe. Our models will produce synthetic observables such as near
+infrared (NIR) continuum and Lyman-alpha luminosities for supermassive black
+holes down through cosmic time and predict the properties of quasars yet to be 
+found at z &amp;gt; 6.</gtr:abstractText><gtr:potentialImpactText>Schools: ICG is a member of the South East Physics Network (SEPNet; www.sepnet.ac.uk) which
+coordinates a regional outreach programme led by a central outreach director to support the 
+development and dissemination of good practice and the assessment of impact. Since 2011, SEPnet 
+outreach has delivered activities to over 100k people. Since 2012, the ICG has employed a SEPnet / 
+Ogden Outreach Officer (Jennifer Gupta) who has developed our own professionally-run schools 
+programme. This includes our popular &amp;quot;A Visit from Space&amp;quot; (engaging 609 KS2 children since Oct 
+2013), our own Astrodome facility (targeted at secondary schools), and our &amp;quot;Cosmology 
+Masterclass&amp;quot;, which supports A-level Physics (e.g. 107 students attended in 2013-14, 60% 
+commenting that the event changed their view on studying STEM at university). On top of this, 
+ICG members engaged with 2729 school pupils in 2013-14 through individual talks, workshops and 
+other events and hosted several work experience students. With all these activities, I am committed 
+to encouraging wider participation in science and higher education. We work with our University 
+Education, Liaison and Outreach Team to ensure our activities are advertised to target widening 
+participation schools, of which there are many in the Portsmouth area. 
+
+Public Engagement: All ICG members are encouraged to communicate the results of their science to 
+help inspire the public. Our main engagement is through talks and presentations e.g. in 2014, ICG 
+members delivered 37 public activities (e.g. Bestival, Winchester Science Festival). We also host 
+annual public lectures by prominent external cosmologists (Bernard Shutz in 2014) which always sell 
+out to capacity. ICG staff and students help deliver major annual &amp;quot;BBC Stargazing Live&amp;quot; local events 
+with thousands of ticketed visitors. Finally, we engage with the public through traditional and online 
+media. In the last year, staff have featured in a variety of print articles (Economist, Nature, Astronomy), 
+appeared on the BBC Horizon (March 2015) and &amp;quot;Sky at Night&amp;quot; (June 2014), and worked to obtain 
+excellent exposure in the local media (print, radio and TV).</gtr:potentialImpactText><gtr:fund><gtr:end>2019-03-31</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/D7F4F462-0518-4784-908A-D12633C139B3"><gtr:id>D7F4F462-0518-4784-908A-D12633C139B3</gtr:id><gtr:name>STFC</gtr:name></gtr:funder><gtr:start>2017-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>36318</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">ST/P000509/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>B43E1E82-2962-4C36-87AD-95AC01BE0A9F</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Astronomy - theory</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>6EE6184F-4A3C-4A99-A3AC-55FC62120A44</gtr:id><gtr:percentage>20</gtr:percentage><gtr:text>Computational Methods &amp; Tools</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>4EE2392F-9964-4A0B-8C0A-1672FD744F8B</gtr:id><gtr:percentage>80</gtr:percentage><gtr:text>Extra-Galactic Astron.&amp;Cosmol.</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/874A4E99-A7FB-41D2-B06B-9BDC9B577474"><gtr:id>874A4E99-A7FB-41D2-B06B-9BDC9B577474</gtr:id><gtr:name>Tilburg University</gtr:name><gtr:address><gtr:line1>P.O Box 90153</gtr:line1><gtr:region>Unknown</gtr:region></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/A5E72F91-30E2-45E6-8D19-EDC197FF970A"><gtr:id>A5E72F91-30E2-45E6-8D19-EDC197FF970A</gtr:id><gtr:name>Monash University</gtr:name><gtr:address><gtr:line1>Monash University</gtr:line1><gtr:line2>Level 1, Chancellery Building D</gtr:line2><gtr:line3>26 Sports Walk, Wellington Road</gtr:line3><gtr:postCode>3800</gtr:postCode><gtr:region>Outside UK</gtr:region><gtr:country>Australia</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/C9E7988F-9A77-4D99-9554-A038C31D4C21"><gtr:id>C9E7988F-9A77-4D99-9554-A038C31D4C21</gtr:id><gtr:name>University of Catania</gtr:name><gtr:address><gtr:line1>Viale A Doria 6</gtr:line1><gtr:line2>I-95125</gtr:line2><gtr:line4>Catania</gtr:line4><gtr:region>Outside UK</gtr:region><gtr:country>Italy</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/E609EBA3-2647-421C-931F-D9605AE807FA"><gtr:id>E609EBA3-2647-421C-931F-D9605AE807FA</gtr:id><gtr:name>University of Notre Dame</gtr:name></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/68D0E3C9-9246-4CFC-B5E9-48584CF82993"><gtr:id>68D0E3C9-9246-4CFC-B5E9-48584CF82993</gtr:id><gtr:name>University of Manchester</gtr:name><gtr:address><gtr:line1>Oxford Road</gtr:line1><gtr:city>Manchester</gtr:city><gtr:postCode>M13 9PL</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator></gtr:collaborations><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/68D0E3C9-9246-4CFC-B5E9-48584CF82993"><gtr:id>68D0E3C9-9246-4CFC-B5E9-48584CF82993</gtr:id><gtr:name>University of Manchester</gtr:name><gtr:department>Law</gtr:department><gtr:address><gtr:line1>Oxford Road</gtr:line1><gtr:city>Manchester</gtr:city><gtr:postCode>M13 9PL</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/68D0E3C9-9246-4CFC-B5E9-48584CF82993"><gtr:id>68D0E3C9-9246-4CFC-B5E9-48584CF82993</gtr:id><gtr:name>University of Manchester</gtr:name><gtr:address><gtr:line1>Oxford Road</gtr:line1><gtr:city>Manchester</gtr:city><gtr:postCode>M13 9PL</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/874A4E99-A7FB-41D2-B06B-9BDC9B577474"><gtr:id>874A4E99-A7FB-41D2-B06B-9BDC9B577474</gtr:id><gtr:name>Tilburg University</gtr:name><gtr:address><gtr:line1>P.O Box 90153</gtr:line1><gtr:region>Unknown</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/A5E72F91-30E2-45E6-8D19-EDC197FF970A"><gtr:id>A5E72F91-30E2-45E6-8D19-EDC197FF970A</gtr:id><gtr:name>Monash University</gtr:name><gtr:address><gtr:line1>Monash University</gtr:line1><gtr:line2>Level 1, Chancellery Building D</gtr:line2><gtr:line3>26 Sports Walk, Wellington Road</gtr:line3><gtr:postCode>3800</gtr:postCode><gtr:region>Outside UK</gtr:region><gtr:country>Australia</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/C9E7988F-9A77-4D99-9554-A038C31D4C21"><gtr:id>C9E7988F-9A77-4D99-9554-A038C31D4C21</gtr:id><gtr:name>University of Catania</gtr:name><gtr:address><gtr:line1>Viale A Doria 6</gtr:line1><gtr:line2>I-95125</gtr:line2><gtr:line4>Catania</gtr:line4><gtr:region>Outside UK</gtr:region><gtr:country>Italy</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/E609EBA3-2647-421C-931F-D9605AE807FA"><gtr:id>E609EBA3-2647-421C-931F-D9605AE807FA</gtr:id><gtr:name>University of Notre Dame</gtr:name><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/E5D04D21-0A9C-4B3F-9BE7-064B4FEBC0F6"><gtr:id>E5D04D21-0A9C-4B3F-9BE7-064B4FEBC0F6</gtr:id><gtr:firstName>Colin</gtr:firstName><gtr:surname>King</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/4AA57BDA-BF93-4F3C-8D68-9D31113FABBF"><gtr:id>4AA57BDA-BF93-4F3C-8D68-9D31113FABBF</gtr:id><gtr:firstName>Clive</gtr:firstName><gtr:surname>Walker</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=AH%2FL014920%2F1"><gtr:id>C2A2F033-88A3-431A-8ABF-CD3D5AFD01F7</gtr:id><gtr:title>Dirty Assets: Experiences, reflections, and lessons learnt from a decade of legislation on criminal money laundering and terrorism financing</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>AH/L014920/1</gtr:grantReference><gtr:abstractText>Contemporary, public, images of organised crime are influenced by media and/ or Hollywood representations of 'organised crime' in, eg, The Godfather, The Sopranos, and The Wire. This depiction has created a popular imagery of what 'organised' crime is. Public opinion naturally reflects this picture, reinforced by politicians/ policy discourse that organised crime is a hierarchical structure requiring significant new policing powers to effectively combat it. Organised crime is now a central feature of policy discourse in the crime debate. Similarly, terrorism is depicted as a Tier 1 national security threat, and debates about the threat and counter-measures have been prominent for a decade or more.
+
+Yet, policy discourse on organised crime and terrorism is inadequately informed by evidence-led research. This is especially apparent in 'follow the money' approaches to tackling such crime, which are presumed: to operate as a deterrent; to disrupt criminal networks/ markets; to improve detection rates; and to result in increased intelligence flows to policing agencies. Yet, criminological research has proved that this is not necessarily so. Moreover, despite extensive lawmaking in this field (eg the Proceeds of Crime Act 2002, the Terrorism Act 2000, the Anti-Terrorism, Crime and Security Act 2001, and the Terrorist Asset Freezing etc Act 2010), there is little evidence that 'follow the money' approaches are impacting upon organised crime or terrorist activities. There is a need for evaluation of the 'impact' of these pieces of legislation. A decade on from the enactment of the anti-money laundering/ proceeds of crime/ anti-terrorist financing legislation provides an opportune time to step back and evaluate 'follow the money' approaches, and to identify future directions in policy, practice and research.
+
+'Following the money' represents an alternative approach to conventional policing stratagems to tackling organised crime and/ or terrorism. This network will bring together policymakers, practitioners, and researchers to explore emerging issues, including: 
+- How do we measure the success of the responsive regime?
+- What impacts does an anti-assets strategy have on disrupting criminal or terrorism activity and reducing harm to society?
+- Is it possible to quantify the impact of disrupting organised criminal activity, as compared to more conventional 'ordinary' crime?
+- What are the main difficulties in institutional or operational forms facing law enforcement agencies when putting into operation an anti-assets strategy?
+- How does the anti-asset strategy impact on online currencies (eg Bitcoin)?
+- Are there further institutional or operational tools or opportunities which might improve the anti-assets strategy? 
+- What are the costs of the anti-assets strategy (especially in terms of monetary costs and cost to individual rights)?
+- What experiences can be learned as between anti-criminal and anti-terrorist sectors and from other jurisdictions? 
+
+This network will draw upon experiences from other jurisdictions, including the United States, Australia, Canada, Italy, and Bulgaria. International action (eg FATF Recommendations; UN International Convention for the Suppression of the Financing of Terrorism) and actors (eg FATF; MONEYVAL; GRECO) will further inform discussion. The network will engage different academic disciplines (eg law, business, political science, sociology, criminology) as well as key stakeholders from policy and practice.</gtr:abstractText><gtr:potentialImpactText>This network will be of interest to policymakers and practitioners working in the area of financial crimes, proceeds of crime, money laundering, and terrorist finances measures. These stakeholders include: the Home Office, Serious Organised Crime Agency (soon to be replaced by the National Crime Agency), the Civil Recovery Unit, the Association of Chief Police Officers, to name but a few. Leading practitioners in private practice will also be interested in the work of this network. The work of this network is especially relevant to legal, taxation and accounting practitioners who constantly encounter difficulties in complying with requirements of the Proceeds of Crime Act 2002, including 'know your customer' and disclosure obligations. 
+
+Beyond the UK, key stakeholders include the Financial Action Task Force (FATF), the Committee of Experts on the Evaluation of Anti-Money Laundering Measures and the Financing of Terrorism (MONEYVAL), the Group of States Against Corruption (GRECO), the European Criminal Assets Bureau, and the Camden Asset Recovery Inter-Agency Network (CARIN). These institutions are driving asset recovery as a transnational response to transnational organised crime and/ or terrorism. 
+
+This network will focus on a number of under-explored issues - which have been identified in consultation with stakeholders from the Association of Chief Police Officers, the Criminal Assets Bureau, and the Civil Recovery Unit. Discussion will focus on:
+
+1. How do we measure the success of the responsive regime?
+
+2. What impacts does an anti-assets strategy have on disrupting criminal or terrorism activity and reducing harm to society?
+
+3. Is it possible to quantify the impact of disrupting organised criminal activity, as compared to more conventional 'ordinary' crime?
+
+4. What are the main difficulties in institutional or operational forms facing law enforcement agencies when putting into operation an anti-assets strategy?
+
+5. How does the anti-asset strategy impact on online currencies (eg Bitcoin)?
+
+6. Are there further institutional or operational tools or opportunities which might improve the anti-assets strategy? 
+
+7. What are the costs of the anti-assets strategy (especially in terms of monetary costs and cost to individual rights)?
+
+8. What experiences can be learned as between anti-criminal and anti-terrorist sectors and from other jurisdictions?</gtr:potentialImpactText><gtr:fund><gtr:end>2014-12-31</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/1291772D-DFCE-493A-AEE7-24F7EEAFE0E9"><gtr:id>1291772D-DFCE-493A-AEE7-24F7EEAFE0E9</gtr:id><gtr:name>AHRC</gtr:name></gtr:funder><gtr:start>2014-09-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>36285</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Manchester</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>OTHER</gtr:description><gtr:id>438C8FDB-6563-4B29-AC6F-AC957D4B58A6</gtr:id><gtr:impact>n/a</gtr:impact><gtr:partnerContribution>see above</gtr:partnerContribution><gtr:piContribution>A variety of other academic links are being developed through contacts at the various events or through correspondence because of it:
+? Colin King has been invited to participate in a separate AHRC Network organised by Dr Liz Campbell (Edinburgh) and Dr Nicholas Lord (Manchester), and will deliver a presentation on asset recovery in April 2016.
+? Clive Walker has been invited to act an international expert on a grant application for a project, 'Strengthening Australia's weaponry against serious organised crime and terrorism: A comparative legal analysis of proceeds of crime confiscation legislation'. The project team consists of Professor Arie Freiberg, Monash University, and Dr Sarah Murray, Dr Tamara Tulich and Dr Natalie Skead from the University of Western Australia. If funded by the Australian Research Council, the project would commence in 2017 and run for three years.
+? Colin King is part of a consortium (led by Prof. Anna Maria Maugeri, Catania - who presented at our third event) that has applied for an EU project on harmonisation of civil recovery powers). The consortium includes universities from Italy, Germany, Spain, UK and Ireland.</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2015-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Tilburg TiU</gtr:collaboratingOrganisation><gtr:country>Netherlands, Kingdom of the</gtr:country><gtr:description>Tilburg - Prof. Toine Spapens</gtr:description><gtr:id>B13968B7-F0F0-4A16-A9D1-8EC8A3B024CA</gtr:id><gtr:impact>Conference organization.</gtr:impact><gtr:partnerContribution>see above</gtr:partnerContribution><gtr:piContribution>Another important academic collaboration was with Prof. Toine Spapens (Tilburg University). Through him, we were able to host our third event at Tilburg University in October 2015, which enabled us to attract a wider representation of Continental scholars, practitioners, and policymakers. Tilburg University provided conference space and technical support free of charge for this event. Prof. Spapens is leading a review of proceeds of crime powers in the Netherlands (commissioned by the Dutch government), and he has invited Colin King to feed into this review. 
+
+
+These international events have been of crucial importance in facilitating a wide range of inputs (eg with presentations from policymakers and practitioners in Europe and the US, which might otherwise not have been possible), as well as increasing the global profile and standing of our events.</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2015-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Notre Dame</gtr:collaboratingOrganisation><gtr:country>United States of America</gtr:country><gtr:description>Notre Dame - Professor Jimmy Gurule</gtr:description><gtr:id>279395A2-69E5-4DFE-BF4C-06E5CAA05A28</gtr:id><gtr:impact>Conference organization.
+Research Handbook under contract with Palgrave.</gtr:impact><gtr:partnerContribution>See above</gtr:partnerContribution><gtr:piContribution>Academic links
+The Investigators have developed a strong academic collaboration with Prof. Jimmy Gurul&amp;eacute; (Notre Dame Law School). Prof. Gurul&amp;eacute; is a leading US expert on counter-terrorist financing, and has served as Under-Secretary for Enforcement, US Department of the Treasury (2001-2003). We invited Prof. Gurul&amp;eacute; to our first symposium in Manchester, October 2014. After this event, Prof. Gurul&amp;eacute; offered to host our second symposium at the Notre Dame London Law Centre, and acted as a joint organiser at the event which took place in May 2015. Notre Dame Law also made a financial contribution to this event. Prof. Gurul&amp;eacute; will host our fourth, and final, symposium at Notre Dame Law School in April 2016. Notre Dame Law are also making a substantial financial contribution to this event.
+
+
+These international events have been of crucial importance in facilitating a wide range of inputs (eg with presentations from policymakers and practitioners in Europe and the US, which might otherwise not have been possible), as well as increasing the global profile and standing of our events.</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2014-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Catania</gtr:collaboratingOrganisation><gtr:country>Italy, Italian Republic</gtr:country><gtr:department>Law School</gtr:department><gtr:description>OTHER</gtr:description><gtr:id>AADFAE9B-6957-4DE0-AEF9-E22CFFB0E8F8</gtr:id><gtr:impact>n/a</gtr:impact><gtr:partnerContribution>see above</gtr:partnerContribution><gtr:piContribution>A variety of other academic links are being developed through contacts at the various events or through correspondence because of it:
+? Colin King has been invited to participate in a separate AHRC Network organised by Dr Liz Campbell (Edinburgh) and Dr Nicholas Lord (Manchester), and will deliver a presentation on asset recovery in April 2016.
+? Clive Walker has been invited to act an international expert on a grant application for a project, 'Strengthening Australia's weaponry against serious organised crime and terrorism: A comparative legal analysis of proceeds of crime confiscation legislation'. The project team consists of Professor Arie Freiberg, Monash University, and Dr Sarah Murray, Dr Tamara Tulich and Dr Natalie Skead from the University of Western Australia. If funded by the Australian Research Council, the project would commence in 2017 and run for three years.
+? Colin King is part of a consortium (led by Prof. Anna Maria Maugeri, Catania - who presented at our third event) that has applied for an EU project on harmonisation of civil recovery powers). The consortium includes universities from Italy, Germany, Spain, UK and Ireland.</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2015-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>Monash University</gtr:collaboratingOrganisation><gtr:country>Australia, Commonwealth of</gtr:country><gtr:description>OTHER</gtr:description><gtr:id>1FE56309-2866-42A2-9578-9B4BCBCACD19</gtr:id><gtr:impact>n/a</gtr:impact><gtr:partnerContribution>see above</gtr:partnerContribution><gtr:piContribution>A variety of other academic links are being developed through contacts at the various events or through correspondence because of it:
+? Colin King has been invited to participate in a separate AHRC Network organised by Dr Liz Campbell (Edinburgh) and Dr Nicholas Lord (Manchester), and will deliver a presentation on asset recovery in April 2016.
+? Clive Walker has been invited to act an international expert on a grant application for a project, 'Strengthening Australia's weaponry against serious organised crime and terrorism: A comparative legal analysis of proceeds of crime confiscation legislation'. The project team consists of Professor Arie Freiberg, Monash University, and Dr Sarah Murray, Dr Tamara Tulich and Dr Natalie Skead from the University of Western Australia. If funded by the Australian Research Council, the project would commence in 2017 and run for three years.
+? Colin King is part of a consortium (led by Prof. Anna Maria Maugeri, Catania - who presented at our third event) that has applied for an EU project on harmonisation of civil recovery powers). The consortium includes universities from Italy, Germany, Spain, UK and Ireland.</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2015-01-01</gtr:start></gtr:collaborationOutput></gtr:collaborationOutputs><gtr:disseminationOutputs><gtr:disseminationOutput><gtr:description>Conference</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>427EA0D8-86C4-4E24-9A1D-43A3ACFC7E9C</gtr:id><gtr:impact>Three international conferences have already been held as part of this Network. A fourth conference will be held at the University of Notre Dame, USA in April 2016. These workshops explored different issues relating to anti-money laundering, asset recovery, and counter terrorist financing measures. Further details (including podcasts) are available at our project website: http://www.sussex.ac.uk/law/research/dirtyassets
+
+EVENT 1
+&amp;quot;The Successes and Failures of Proceeds of Crime Approaches&amp;quot;, 
+University of Manchester, UK (3 October 2014)
+Panel 1: Asset Recovery: An Appraisal
+? Adrian Phillips, CPS Proceeds of Crime 
+? Professor Michelle Gallant, University of Manitoba
+? Professor Peter Alldridge, Queen Mary University of London 
+? Chair: Dr Colin King, University of Manchester
+Panel 2: Asset Recovery: Seizure and Disposal of Assets
+? Simon Farrell QC, 3 Raymond Buildings 
+? Dr Radha Ivory, University of Queensland 
+? DI Glen Jones, Greater Manchester Police 
+? Professor Barbara Vettori, Catholic University of Milan 
+? Chair: Dr Karen Clubb, University of Derby
+Panel 3: Money Laundering: Policing and Regulation 
+? Ian Davidson, National Coordinator - Regional Asset Recovery Teams 
+? Professor Valsamis Mitsilegas, Queen Mary University of London 
+? Chair: Katie Benson, University of Manchester 
+Panel 4: Terrorist Financing: Perspectives on Informal Finance and Charities
+? Peter Clarke and Michelle Russell, Charity Commission 
+? Dr Karen Clubb, University of Derby 
+? Professor Jimmy Gurul&amp;eacute;, University of Notre Dame 
+? Chair: Professor Clive Walker, University of Leeds 
+
+EVENT 2
+ &amp;quot;Asset Stripping: Responses to the Financing of Terrorism and Crime&amp;quot;, 
+London, UK (14-15 May 2015)
+Day 1: Criminal Asset Stripping
+Panel 1: Money Laundering: Policing Economic Crime
+? Rob McCusker, Teesside University Business School 
+? Kenneth Murray, Head of Forensic Accountancy, Police Scotland 
+? Dr Robert Stokes, University of Liverpool 
+? Chair: Professor Jimmy Gurul&amp;eacute;, University of Notre Dame
+Panel 2: Criminal Assets: Re-thinking proceeds of crime approaches
+? Professor Ernesto Savona, TransCrime, Italy 
+? Alison Moore, Head of Proceeds of Crime Reform Unit, Home Office
+? Ian Smith, Barrister, 11 Stone Buildings 
+? Chair: Dr Colin King, University of Sussex
+Panel 3: Proceeds of Corruption
+? Dr Nicholas Lord, University of Manchester 
+? James Maton, Partner, Cooley LLP 
+? Mark Thompson, Head of Proceeds of Crime, Serious Fraud Office 
+? Chair: Dr Nicholas Lord, University of Manchester 
+Day 2: Terrorism Asset Stripping
+Panel 4: Domestic Policies and Laws
+? Professor Nicholas Ryder, University of the West of England 
+? Karen Jones, Crown Prosecution Service of England and Wales
+? Duncan DeVille, head of AML/CTF at Western Union, former head of the Office of Compliance and Enforcement at FinCEN 
+? Chair: Professor Jimmy Gurul&amp;eacute;, University of Notre Dame
+Panel 5: Criminal Prosecution
+? Dr Peter Sproat, University of the West of Scotland 
+? Tom Keatinge, Royal United Services Institute (RUSI) 
+? Professor Jimmy Gurul&amp;eacute;, University of Notre Dame, USA 
+? Chair: Professor Clive Walker, University of Leeds
+Panel 6: Terrorist Listings and Sanctions
+? Sue Eckert, Watson Institute, Brown University, USA 
+? Maya Lester, Barrister, Brick Court Chambers 
+? Professor Larissa van den Herik, Leiden University, Netherlands 
+? Chair: Professor Clive Walker, University of Leeds
+Panel 7: The Civil Sector and Terrorism Financing
+? Dr Zaiton Hamin, UiTM, Kuala Lumpur 
+? Professor Jimmy Gurul&amp;eacute;, University of Notre Dame, USA 
+? Professor Clive Walker, University of Leeds 
+? Chair: Dr Colin King, University of Sussex
+
+ EVENT 3
+ &amp;quot;Comparative and International Aspects of Criminal and Terrorism Funding&amp;quot;, University of Tilburg, Netherlands (26-27 October 2015). 
+Panel 1: CTF Institutional Approaches
+? Professor Marieke de Goede, University of Amsterdam
+? Dr Oldrich Bures, Metropolitan University, Prague
+? Judge Kimberly Prost, Former UN Ombudsperson 
+? Chair: Prof. Jimmy Gurul&amp;eacute;
+Panel 2: CTF Mechanisms
+? Associate Prof Christopher Michaelsen, University of New South Wales
+? Dr Luca Pantaleo, Asser Institute, Amsterdam
+? Professor Jimmy Gurul&amp;eacute;, University of Notre Dame
+? Dr Karen Cooper, University of Derby and Prof Clive Walker, University of Leeds
+? Chair: Prof. Toine Spapens
+Panel 3: AML and Compliance
+? Katie Benson, University of Manchester
+? Professor Antoinette Verhage, Ghent University
+? Professor Petrus van Duyne, Tilburg University
+? Chair: Professor Clive Walker
+Panel 4: New Challenges for AML
+? Dr Mo Egan, Abertay University, Dundee
+? Professor Mike Levi, Cardiff University 
+? Dr Joras Ferwerda, Utrecht University
+? Chair: Dr Colin King
+Panel 5: International experiences of asset recovery
+? Professor Sandra Thompson, University of Houston 
+? Professor Simon Young, University of Hong Kong 
+? Professor Tijs Kooijmans, Tilburg University
+? Chair: Katie Benson
+Panel 6: Asset recovery - looking back and looking forward
+? Professor Anna Maria Maugeri, University of Catania
+? Frank Cassidy, Eurojust
+? Dr Colin King, University of Sussex
+? Chair: Prof. Jimmy Gurul&amp;eacute;
+
+EVENT 4 (provisional)
+&amp;quot;Emerging Challenges in Combatting Money Laundering and Terrorist Financing&amp;quot; University of Notre Dame, USA (to be held on 28-29 April 2016)
+SESSION I: Emerging Challenges in Combatting Money Laundering
+? Prof. Richard Gordon, Case Western Reserve University School of Law 
+? Dr Colin King, University of Sussex School of Law
+? Vijaya Ramachandran, Senior Fellow, Center for Global Development
+SESSION II: Emerging Challenges in Combatting Terrorist Financing
+? Prof. Jimmy Gurul&amp;eacute;, Notre Dame Law School
+? Prof Christian Leuprecht, Department of Political Science, Royal Military College of Canada
+? Danielle Cotter, Analyst, Global Center on Cooperative Security 
+SESSION III: Emerging Challenges in Combatting the Financing of ISIS
+? Dr. David Scharia, Coordinator of Counter-Terrorism Committee Executive Directorate (CTED), U.N. Security Council 
+? Mark Vlasic, Senior Fellow, Institute for Law, Science &amp;amp; Global Security, Georgetown Law Center 
+? Prof. Clive Walker, Leeds University Law School
+
+Each of these events to date engaged experts from policy, practice, and academic backgrounds. From policy/ practice, there were domestic representatives from, eg, the Home Office, National Crime Agency, Crown Prosecution Service, Serious Fraud Office, the Metropolitan Police and other UK police forces including Police Scotland. We also attracted speakers from foreign or international agencies including Eurojust and the United Nations.
+From academia, there were experts from law, criminology, business, political science, sociology, and economics backgrounds. Their identities are reflected in the chapters in our proposed handbook, revealing the international and inter-disciplinary involvement which we have engendered.</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www.sussex.ac.uk/law/research/dirtyassets</gtr:url><gtr:year>2014,2015,2016</gtr:year></gtr:disseminationOutput></gtr:disseminationOutputs><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs><gtr:impactSummaryOutput><gtr:description>See influence on policy, practice section.</gtr:description><gtr:firstYearOfImpact>2015</gtr:firstYearOfImpact><gtr:id>FCBB7155-CAA9-4040-A0A2-39CA3304AE9B</gtr:id><gtr:impactTypes><gtr:impactType>Policy &amp; public services</gtr:impactType></gtr:impactTypes><gtr:sector>Financial Services, and Management Consultancy,Government, Democracy and Justice,Security and Diplomacy</gtr:sector></gtr:impactSummaryOutput></gtr:impactSummaryOutputs><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>Engagement of practitioners, policymakers and academics furthered our shared understanding of law, policy and practice of anti-money laundering and counter terrorist financing approaches.</gtr:description><gtr:exploitationPathways>More empirical research is needed in this area.</gtr:exploitationPathways><gtr:id>B5B314B9-78CF-4905-B224-B4FB0BB045CA</gtr:id><gtr:sectors><gtr:sector>Financial Services, and Management Consultancy,Government, Democracy and Justice,Security and Diplomacy</gtr:sector></gtr:sectors></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs><gtr:policyInfluenceOutput><gtr:areas/><gtr:description>Engagement</gtr:description><gtr:geographicReach>Multiple continents/international</gtr:geographicReach><gtr:id>D4452B57-EBD0-475D-8F3A-37DF87AC2D46</gtr:id><gtr:impact>The influence from this Network is more on people, and their attitudes to proceeds of crime powers. Practitioners and policymakers commented, in particular, on research currently being undertaken, that they were previously unaware of. Practitioners also praised our Network for raising the profile of work on anti-money laundering/ asset recovery/ counter terrorist financing efforts. 
+
+The Network also allowed practitioners/ policymakers to connect with others working in the field - again, it was emphasised to us that practitioners/policymakers are often overloaded with their own workloads and have little time and/or opportunity to engage with others. 
+
+One example of this (mentioned above) is collaboration between a senior Metropolitan Police officer and a representative from Western Union - who met at our second event. Western Union provided information to the police, identifying where a murder suspect was based in another jurisdiction, which allowed the police to then secure extradition. 
+
+In February 2016, Colin King made a submission to the Home Affairs Committee Inquiry into the Proceeds of Crime Act. He has been invited to give Oral Evidence at the Committee Hearing in March.</gtr:impact><gtr:type>Gave evidence to a government review</gtr:type></gtr:policyInfluenceOutput></gtr:policyInfluenceOutputs><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/F6333A2E-B351-4BA0-8D97-A242698E9B72"><gtr:id>F6333A2E-B351-4BA0-8D97-A242698E9B72</gtr:id><gtr:title>Counter Terrorism Financing: A redundant fragmentation?</gtr:title><gtr:parentPublicationTitle>New Journal of European Criminal Law</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/2ba4a1a83151f9c10a270282e2b75511"><gtr:id>2ba4a1a83151f9c10a270282e2b75511</gtr:id><gtr:otherNames>King, C</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">AH/L014920/1</gtr:identifier></gtr:identifiers><gtr:projectHierarchy><gtr:parents><gtr:parent><gtr:id>C2A2F033-88A3-431A-8ABF-CD3D5AFD01F7</gtr:id><gtr:grantRef>AH/L014920/1</gtr:grantRef><gtr:amount>36285.88</gtr:amount><gtr:start>2014-09-01</gtr:start><gtr:end>2014-12-31</gtr:end><gtr:children><gtr:child rel="Transfer"><gtr:id>DA4A8FAE-E8C3-442D-93FB-058A8E179305</gtr:id><gtr:grantRef>AH/L014920/2</gtr:grantRef><gtr:amount>29693.39</gtr:amount><gtr:start>2015-01-01</gtr:start><gtr:end>2016-12-30</gtr:end><gtr:children/></gtr:child></gtr:children></gtr:parent></gtr:parents></gtr:projectHierarchy><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>4511FB20-8392-418E-809D-7701FACC03C9</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Law &amp; legal studies</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>05111DBD-D3AB-4CEB-B45C-DD5885F4C460</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Comparative Law</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>2ABF7A73-38A2-4394-B71D-0AAF27E24D79</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Criminal Law &amp; Criminology</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>B75590D5-E385-45F1-B6D0-CC3EDEFDE67D</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Socio Legal Studies</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

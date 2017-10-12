@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/46387D84-F71E-4B7D-8C7D-9C288F113510"><gtr:id>46387D84-F71E-4B7D-8C7D-9C288F113510</gtr:id><gtr:name>Imperial College London</gtr:name><gtr:department>Dept of Physics</gtr:department><gtr:address><gtr:line1>South Kensington Campus</gtr:line1><gtr:line2>Exhibition Road</gtr:line2><gtr:line4>London</gtr:line4><gtr:postCode>SW7 2AZ</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/46387D84-F71E-4B7D-8C7D-9C288F113510"><gtr:id>46387D84-F71E-4B7D-8C7D-9C288F113510</gtr:id><gtr:name>Imperial College London</gtr:name><gtr:address><gtr:line1>South Kensington Campus</gtr:line1><gtr:line2>Exhibition Road</gtr:line2><gtr:line4>London</gtr:line4><gtr:postCode>SW7 2AZ</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/7BFDE2BE-5409-4B3C-9B9F-AC6A3ABB69D8"><gtr:id>7BFDE2BE-5409-4B3C-9B9F-AC6A3ABB69D8</gtr:id><gtr:firstName>David</gtr:firstName><gtr:surname>Clements</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/25F11840-EC0C-41C6-A83B-D23E75DE87D2"><gtr:id>25F11840-EC0C-41C6-A83B-D23E75DE87D2</gtr:id><gtr:firstName>Juliet</gtr:firstName><gtr:otherNames>Clare</gtr:otherNames><gtr:surname>Pickering</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/6D47084A-2C63-49F8-8C58-7A756F72D925"><gtr:id>6D47084A-2C63-49F8-8C58-7A756F72D925</gtr:id><gtr:firstName>Timothy</gtr:firstName><gtr:otherNames>John</gtr:otherNames><gtr:surname>Sumner</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/B1C1A291-C349-4F52-AECB-4F8DAD222B6D"><gtr:id>B1C1A291-C349-4F52-AECB-4F8DAD222B6D</gtr:id><gtr:firstName>Carlo</gtr:firstName><gtr:otherNames>Riccardo</gtr:otherNames><gtr:surname>Contaldi</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/B2FD4393-A5BA-487F-A2A6-13DAEC4C5713"><gtr:id>B2FD4393-A5BA-487F-A2A6-13DAEC4C5713</gtr:id><gtr:firstName>Pat</gtr:firstName><gtr:surname>Scott</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/FB608071-0AC2-4EC9-AFD2-38182634BA1F"><gtr:id>FB608071-0AC2-4EC9-AFD2-38182634BA1F</gtr:id><gtr:firstName>Daniel</gtr:firstName><gtr:surname>Hollington</gtr:surname><gtr:roles><gtr:role><gtr:name>RESEARCHER</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/3E06537E-E26C-4B8E-AF8C-6226D121924F"><gtr:id>3E06537E-E26C-4B8E-AF8C-6226D121924F</gtr:id><gtr:firstName>Yvonne</gtr:firstName><gtr:surname>Unruh</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/380097C5-AB64-4187-93F3-8AF5F5B94D03"><gtr:id>380097C5-AB64-4187-93F3-8AF5F5B94D03</gtr:id><gtr:firstName>Roberto</gtr:firstName><gtr:surname>Trotta</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/C731048F-D0D1-403C-9FCA-E6F7E259ACA0"><gtr:id>C731048F-D0D1-403C-9FCA-E6F7E259ACA0</gtr:id><gtr:firstName>Andrew</gtr:firstName><gtr:otherNames>Howard</gtr:otherNames><gtr:surname>Jaffe</gtr:surname><gtr:orcidId>0000-0003-2086-1759</gtr:orcidId><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/A3A1EF0F-0101-4C24-9673-349FFE1F7F54"><gtr:id>A3A1EF0F-0101-4C24-9673-349FFE1F7F54</gtr:id><gtr:firstName>Stephen</gtr:firstName><gtr:otherNames>John</gtr:otherNames><gtr:surname>Warren</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/AEF9D70C-5057-409F-9E17-B7F38DB668AD"><gtr:id>AEF9D70C-5057-409F-9E17-B7F38DB668AD</gtr:id><gtr:firstName>Alan</gtr:firstName><gtr:surname>Heavens</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/8B1B4293-0191-4559-938B-FB8BD619F853"><gtr:id>8B1B4293-0191-4559-938B-FB8BD619F853</gtr:id><gtr:firstName>Daniel</gtr:firstName><gtr:otherNames>John</gtr:otherNames><gtr:surname>Mortlock</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/68BCE63B-43F6-4403-B95F-D28A89A5D5BB"><gtr:id>68BCE63B-43F6-4403-B95F-D28A89A5D5BB</gtr:id><gtr:firstName>Jonathan</gtr:firstName><gtr:otherNames>Robin</gtr:otherNames><gtr:surname>Pritchard</gtr:surname><gtr:orcidId>0000-0003-4127-5353</gtr:orcidId><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/43C16385-1704-4148-B830-3C0AA3C5BD4C"><gtr:id>43C16385-1704-4148-B830-3C0AA3C5BD4C</gtr:id><gtr:firstName>David</gtr:firstName><gtr:otherNames>A</gtr:otherNames><gtr:surname>van Dyk</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/C6C8B17E-8085-4D2B-A947-F472ED0E62D3"><gtr:id>C6C8B17E-8085-4D2B-A947-F472ED0E62D3</gtr:id><gtr:firstName>Subhanjoy</gtr:firstName><gtr:surname>Mohanty</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=ST%2FN000838%2F1"><gtr:id>2532DD76-C2B7-4DB4-A943-E3793D5E05CD</gtr:id><gtr:title>Imperial College Astrophysics Consolidated Grant 2016-2019</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>ST/N000838/1</gtr:grantReference><gtr:abstractText>Our research in Astrophysics includes the
+areas of cosmology (the study of the Universe), the most distant
+galaxies, exoplanets (planets around other stars), and gravitational
+waves (distortion of space-time predicted by Einstein but so far not
+detected). This work will make a contribution towards answering some
+of the greatest questions that can be posed, including: can we find
+signs of life outside the solar system? and what is the fate of the
+Universe? Our work involves a combination of theory and
+observations. We use cutting-edge facilities such as the Planck and
+Herschel satellites, and LISA Pathfinder (to be launched in 2015), and
+we also develop the theory and technology that will lead to proposals for the
+development of the next generation of satellites and experiments.
+
+Our understanding of the nature of the Universe has changed profoundly
+over the past 20 years, since it was discovered that the expansion of
+the Universe is accelerating, and as experiments, primarily those
+observing the cosmic microwave background, have allowed the accurate
+measurement of the parameters describing the Universe - the
+proportions of ordinary matter (atoms), dark matter, and dark energy,
+and the current rate of expansion. Dark matter clumps gravitationally
+and outweighs ordinary matter by a factor 5, but what it consists of
+is unknown. The even greater mystery is dark energy, which is causing
+the acceleration of the Universe, and which dominates the mass-energy
+budget. Our work in cosmology takes different approaches to answering
+these problems. But the common theme in our research is the
+understanding that advances will come through improved experiments
+that measure quantities (cosmological distances, the rate of
+expansion) more accurately. The experiments rely on better technology
+(e.g. measurements of polarisation of the cosmic microwave
+background), better understanding of the physics under study (the
+properties of supernovae used to measure cosmological distances), and
+better data analysis techniques that improve the precision and
+accuracy of the results (applying rigorously the Bayesian formalism to
+complex large datasets).
+
+No less profound for humankind has been the discovery, again over the
+past 20 years, of planets around many of the nearest stars in our
+galaxy, and the first characterisation of other stellar
+systems. If the ultimate goal is to discover life on other planets
+this will be achieved through successive advances in understanding
+how different types of planet (rocky/gaseous, large/small) form around
+different types of star (old/young, active/inactive, hot/cool) at
+different radial separations, and of how the star over its lifetime
+can affect the conditions on its planets. Our work in this area
+includes theoretical work to understand the mechanisms by which
+planets form, as well as developing a deeper understanding of stellar
+variability and how this can subtly bias measurements of the
+atmospheres of planets (possibly leading to eroneous conclusions), as
+well as influence the habitability of planets.
+
+A consequence of Einstein's 1915 theory of general relativity, which
+describes the curvature of space-time due to mass, is that massive
+objects undergoing acceleration radiate energy in the form of
+gravitational waves, propagating the signal of the change of curvature
+at the speed of light. Gravitational waves have yet to be detected,
+but their detection is one of the great goals of physics. The effect
+is extremely subtle, so measurements in space away from sources of
+vibration and the influence of the Earth are called for. Our research
+on gravitational waves centres on contributing to the development of
+technologies for use in the planned European Space Agency mission LISA
+(not expected to launch before 2030), and analysis of data from the
+LISA Pathfinder mission, to be launched in 2015, that will test
+prototypes of these technologies.</gtr:abstractText><gtr:potentialImpactText>ATOMIC SPECTROSCOPY
+
+Pickering provides atomic data needed in industrial analytical
+applications. We were part of a 4 year EU Marie Curie Research
+Training Network GLADNET for studies of glow discharge (GD). GD
+spectroscopy is used by industry to analyse very thin (few nm) layers
+found in manufacturing processes and the development of new
+materials. Interested industrial sectors include life sciences, automobile
+manufacturing, nano-technology and thin films. Collaborations
+continue.
+
+Fourier Transform spectroscopy has applications in non-STFC domains,
+providing a rich opportunity for Knowledge Transfer. Pickering runs
+the Tropospheric Airborne Fourier Transform Spectrometer (TAFTS)
+instrument. TAFTS is the first far-infrared spectrometer capable of
+high resolution far IR tropospheric in situ measurements. These data
+are revealing the role of water vapour and cirrus clouds in the
+regulation of the Earth's climate. This ongoing work is led by
+Pickering.
+
+APPLICATION OF ASTRONOMICAL ALGORITHMS
+
+Roberto Trotta is working toward applying statistical
+and data analysis methods developed for astrophysical research to the
+problem of road security. In collaboration with an industrial partner,
+he is engaged in translating those tools for the analysis of
+in-vehicle monitoring systems data. Such data constitute a unique
+testbed for a novel data analysis technology aimed at improving road
+safety, refining car manufacturers' understanding of the actual
+behaviour and performance of their vehicles often in challenging,
+off-road conditions or poorly mapped areas, evaluating drivers'
+behaviour and improving their safety. This work is funded under a
+STFC/EPSRC Impact Acceleration Award.
+
+Blackford Analysis (Alan Heavens) is a spin-off company that has
+patented and markets astronomical algorithms involving the handling of
+large datasets for imaging and other applications. Applications
+include medical and security sectors.
+
+OUTREACH
+
+We engage in a wide range of public activities, including school
+visits, exhibits, public lectures, a blog (by Andrew Jaffe), and media
+appearances and interviews. For example, we had a lead role in the
+Herschel (2012) and Planck (2013) stands at the Royal Society Summer
+Exhibition, and the Astrophysics group has hosted two recent
+large public-engagement activities: the ''Big Question'' series of 
+debates, and a series of talks &amp;quot;The sensual Universe - astrophysics
+for the five senses''. Two members of the Astrophysics group
+published popular science books in the last year. Dave Clements
+published &amp;quot;Infrared Astronomy - seeing the heat&amp;quot; drawing on his
+research work using Herschel satellite data. Roberto Trotta published
+&amp;quot;The Edge of the Sky: All you Need to Know about the
+ All-There-Is&amp;quot;. The book was named one of the &amp;quot;Best Science Books
+2014&amp;quot; (by brainpickings.org, Scientific American Cocktail Party
+Physics blog and The Huffington Post book blog). The &amp;quot;Edge of the
+ Sky&amp;quot; endeavours to explain the beauty and mystery of the Universe
+(the &amp;quot;All-There-Is&amp;quot;) using only the most common thousand words in
+English. For his book Trotta was named one of the 100 Global
+Thinkers 2014 (Foreign Policy, Nov/Dec 2014) for &amp;quot;junking astronomy
+jargon&amp;quot;.
+
+We will continue to engage a wide cross section of the public with
+follow-up series to our successful &amp;quot;Big Questions'' and &amp;quot;The sensual Universe&amp;quot; series.
+In the last year, group members
+have given about 30 public talks to an estimated total audience of 4500. We
+will expand these activities through involvement with other bodies
+such as the Hay Festival, the Royal Observatory Greenwich (ROG), the
+Science Museum, the Dana Centre and the Royal Institution.</gtr:potentialImpactText><gtr:fund><gtr:end>2019-03-31</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/D7F4F462-0518-4784-908A-D12633C139B3"><gtr:id>D7F4F462-0518-4784-908A-D12633C139B3</gtr:id><gtr:name>STFC</gtr:name></gtr:funder><gtr:start>2016-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>2028497</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/6638DCCB-A48B-4EBE-B703-C9D21A788487"><gtr:id>6638DCCB-A48B-4EBE-B703-C9D21A788487</gtr:id><gtr:title>Effective field theory of dark matter: a global analysis</gtr:title><gtr:parentPublicationTitle>Journal of High Energy Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/8d9ad47d5eade286351df89a500f0ece"><gtr:id>8d9ad47d5eade286351df89a500f0ece</gtr:id><gtr:otherNames>Liem S</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/A43CCDD9-A6A0-43FB-883F-399D569EE453"><gtr:id>A43CCDD9-A6A0-43FB-883F-399D569EE453</gtr:id><gtr:title>Ultracompact Minihalos as Probes of Inflationary Cosmology.</gtr:title><gtr:parentPublicationTitle>Physical review letters</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/c3f456c8eeeabfd32d23240c7aea3905"><gtr:id>c3f456c8eeeabfd32d23240c7aea3905</gtr:id><gtr:otherNames>Aslanyan G</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date><gtr:issn>0031-9007</gtr:issn></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/197021EF-0F60-48B0-9D85-7CB7D174BB5A"><gtr:id>197021EF-0F60-48B0-9D85-7CB7D174BB5A</gtr:id><gtr:title>Nulike: Neutrino telescope likelihood tools</gtr:title><gtr:parentPublicationTitle>Astrophysics Source Code Library</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/33fd41c3878ec12bcc3f31bd236a844f"><gtr:id>33fd41c3878ec12bcc3f31bd236a844f</gtr:id><gtr:otherNames>Scott P</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/82A7A488-3389-4C54-BAC3-C597FDAB9BE1"><gtr:id>82A7A488-3389-4C54-BAC3-C597FDAB9BE1</gtr:id><gtr:title>Investigating dark matter substructure with pulsar timing - II. Improved limits on small-scale cosmology</gtr:title><gtr:parentPublicationTitle>Monthly Notices of the Royal Astronomical Society</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/e2351757960c9ee613c2d9c7891958c5"><gtr:id>e2351757960c9ee613c2d9c7891958c5</gtr:id><gtr:otherNames>Clark H</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/78B79DE9-7E81-42E6-BEEE-278B1F6951AD"><gtr:id>78B79DE9-7E81-42E6-BEEE-278B1F6951AD</gtr:id><gtr:title>Investigating dark matter substructure with pulsar timing - I. Constraints on ultracompact minihaloes</gtr:title><gtr:parentPublicationTitle>Monthly Notices of the Royal Astronomical Society</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/e2351757960c9ee613c2d9c7891958c5"><gtr:id>e2351757960c9ee613c2d9c7891958c5</gtr:id><gtr:otherNames>Clark H</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/374366BE-A5E0-4A6C-9F37-421779532DAB"><gtr:id>374366BE-A5E0-4A6C-9F37-421779532DAB</gtr:id><gtr:title>Erratum: Investigating dark matter substructure with pulsar timing - I. Constraints on ultracompact minihaloes</gtr:title><gtr:parentPublicationTitle>Monthly Notices of the Royal Astronomical Society</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/e2351757960c9ee613c2d9c7891958c5"><gtr:id>e2351757960c9ee613c2d9c7891958c5</gtr:id><gtr:otherNames>Clark H</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/03D90E16-0C78-426D-841F-9774FDE8E595"><gtr:id>03D90E16-0C78-426D-841F-9774FDE8E595</gtr:id><gtr:title>Grand Challenges in Protoplanetary Disc Modelling</gtr:title><gtr:parentPublicationTitle>Publications of the Astronomical Society of Australia</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/cbf19d62c97fabd68ae14612e69a4cdd"><gtr:id>cbf19d62c97fabd68ae14612e69a4cdd</gtr:id><gtr:otherNames>Haworth T</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/DEA163E5-ADD7-43E9-8B32-96FA6C15CE76"><gtr:id>DEA163E5-ADD7-43E9-8B32-96FA6C15CE76</gtr:id><gtr:title>Combined analysis of effective Higgs portal dark matter models</gtr:title><gtr:parentPublicationTitle>Physical Review D</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/c558c85eba6ba9a44227ef1d611c245b"><gtr:id>c558c85eba6ba9a44227ef1d611c245b</gtr:id><gtr:otherNames>Beniwal A</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/DDCC8442-21CD-43BA-9C7A-6156B28444ED"><gtr:id>DDCC8442-21CD-43BA-9C7A-6156B28444ED</gtr:id><gtr:title>Improved limits on dark matter annihilation in the Sun with the 79-string IceCube detector and implications for supersymmetry</gtr:title><gtr:parentPublicationTitle>Journal of Cosmology and Astroparticle Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/dfe75c49509eb18e6194d09e1891b288"><gtr:id>dfe75c49509eb18e6194d09e1891b288</gtr:id><gtr:otherNames>Aartsen M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/3F7D5592-5472-4406-898F-CEFDC8E60EE2"><gtr:id>3F7D5592-5472-4406-898F-CEFDC8E60EE2</gtr:id><gtr:title>Erratum: Investigating dark matter substructure with pulsar timing - II. Improved limits on small-scale cosmology</gtr:title><gtr:parentPublicationTitle>Monthly Notices of the Royal Astronomical Society</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/e2351757960c9ee613c2d9c7891958c5"><gtr:id>e2351757960c9ee613c2d9c7891958c5</gtr:id><gtr:otherNames>Clark H</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/ABC93667-DB12-44C4-979C-532202749B4D"><gtr:id>ABC93667-DB12-44C4-979C-532202749B4D</gtr:id><gtr:title>BAYESIAN ANALYSIS OF COSMIC RAY PROPAGATION: EVIDENCE AGAINST HOMOGENEOUS DIFFUSION</gtr:title><gtr:parentPublicationTitle>The Astrophysical Journal</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/16764bc3b144086d58e8c6ac5737cd93"><gtr:id>16764bc3b144086d58e8c6ac5737cd93</gtr:id><gtr:otherNames>J?hannesson G</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/08CA1081-44A7-4951-92FA-33650114C829"><gtr:id>08CA1081-44A7-4951-92FA-33650114C829</gtr:id><gtr:title>Implications of solar wind measurements for solar models and composition</gtr:title><gtr:parentPublicationTitle>Monthly Notices of the Royal Astronomical Society</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/0ee048a40b230ac294d10f50dac795ee"><gtr:id>0ee048a40b230ac294d10f50dac795ee</gtr:id><gtr:otherNames>Serenelli A</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">ST/N000838/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>615BB43C-305A-47B9-B728-7A9BB0BBE1A4</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Astronomy - observation</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>B43E1E82-2962-4C36-87AD-95AC01BE0A9F</gtr:id><gtr:percentage>40</gtr:percentage><gtr:text>Astronomy - theory</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>C88380A2-9C65-425D-B4FB-4E289FACB800</gtr:id><gtr:percentage>10</gtr:percentage><gtr:text>Atomic &amp; molecular physics</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>9D5D7750-2219-46D2-A182-083B2DEC8C63</gtr:id><gtr:percentage>10</gtr:percentage><gtr:text>Astron. &amp; Space Sci. Technol.</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>4EE2392F-9964-4A0B-8C0A-1672FD744F8B</gtr:id><gtr:percentage>60</gtr:percentage><gtr:text>Extra-Galactic Astron.&amp;Cosmol.</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>66CEB256-1CFB-4A2B-A588-3AC25D4D3FB9</gtr:id><gtr:percentage>10</gtr:percentage><gtr:text>Scattering &amp; Spectroscopy</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>6D4F9380-A853-4602-9383-3E0067A53A84</gtr:id><gtr:percentage>20</gtr:percentage><gtr:text>Stellar Astronomy</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

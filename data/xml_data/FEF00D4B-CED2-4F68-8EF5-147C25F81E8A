@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/E5A82D2C-5AD4-488A-ACFF-566345A5D6DA"><gtr:id>E5A82D2C-5AD4-488A-ACFF-566345A5D6DA</gtr:id><gtr:name>Heriot-Watt University</gtr:name><gtr:address><gtr:line1>Administration Building</gtr:line1><gtr:line2>Riccarton</gtr:line2><gtr:line3>Ricarton</gtr:line3><gtr:line4>Currie</gtr:line4><gtr:postCode>EH14 4AS</gtr:postCode><gtr:region>Scotland</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator></gtr:collaborations><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/44160F04-5CBF-4E8E-A6C6-C0EF61A5865C"><gtr:id>44160F04-5CBF-4E8E-A6C6-C0EF61A5865C</gtr:id><gtr:name>Lancaster University</gtr:name><gtr:department>Lancaster Environment Centre</gtr:department><gtr:address><gtr:line1>University House</gtr:line1><gtr:line4>Lancaster</gtr:line4><gtr:line5>Lancashire</gtr:line5><gtr:postCode>LA1 4YW</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/44160F04-5CBF-4E8E-A6C6-C0EF61A5865C"><gtr:id>44160F04-5CBF-4E8E-A6C6-C0EF61A5865C</gtr:id><gtr:name>Lancaster University</gtr:name><gtr:address><gtr:line1>University House</gtr:line1><gtr:line4>Lancaster</gtr:line4><gtr:line5>Lancashire</gtr:line5><gtr:postCode>LA1 4YW</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/E5A82D2C-5AD4-488A-ACFF-566345A5D6DA"><gtr:id>E5A82D2C-5AD4-488A-ACFF-566345A5D6DA</gtr:id><gtr:name>Heriot-Watt University</gtr:name><gtr:address><gtr:line1>Administration Building</gtr:line1><gtr:line2>Riccarton</gtr:line2><gtr:line3>Ricarton</gtr:line3><gtr:line4>Currie</gtr:line4><gtr:postCode>EH14 4AS</gtr:postCode><gtr:region>Scotland</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/BFB0F238-3E61-45AF-9D13-3A3CBCE66139"><gtr:id>BFB0F238-3E61-45AF-9D13-3A3CBCE66139</gtr:id><gtr:firstName>Barbara</gtr:firstName><gtr:surname>Maher</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=EP%2FK504026%2F1"><gtr:id>FEF00D4B-CED2-4F68-8EF5-147C25F81E8A</gtr:id><gtr:title>Assessing the Feasibility of Using a Novel Sub-Micron, Magnetic Sorbent Material for the Removal of Dissolved Organic Carbon from Blue Water</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/K504026/1</gtr:grantReference><gtr:abstractText>Stopford Energy &amp;amp; Environment Ltd in partnership with Lancaster Environment Centre, Lancaster University is seeking to
+develop and trial a novel process ('Magimix') for the highly efficient removal of dissolved organic carbon (DOC) from water,
+enabling abstraction of water from water bodies that would have otherwise been deemed uneconomic using existing
+treatment technologies.
+
+'Magimix' is a newly invented group of composite magnetic materials, which combine ultrafine grain size with strong
+magnetic properties &amp;amp; pH-dependent surface charge, to provide unprecedented potential for removal of contaminants from
+water supplies.
+
+'Magimix' is completely novel for four reasons:
+1. It is ultrafine-grained (sub-micrometre), creating extremely high surface area, thus enabling highly efficient adsorption of
+ions from solution.
+
+2. Because of its pH-dependent surface charge, &amp;amp; selected core compound composition, it is 'tuneable'. It will adsorb
+anions at low pHs (i.e. below pH 6.5), cations at high pHs (i.e. above pH 6.5). An example specific to this project is the
+removal of contaminating dissolved organic carbon (DOC) anions which occur in naturally acid, upland-sourced drinking
+water supplies. The core compound is selected for target ion affinity.
+3. Because of its strongly magnetic nature, it &amp;amp; its surface-adsorbed ions can be magnetically collected &amp;amp; removed from
+solution.
+
+4. It can be readily reactivated (via pH-manipulated desorption) to enable product re-use.
+Our consortium will: develop &amp;amp; trial the 'Magimix' process; benchmark it against existing rival technologies; conduct
+preliminary scale-up design; develop marketing materials &amp;amp; an investment prospectus; &amp;amp; engage industry end-users in
+demonstrations of the new technology.
+
+Our specific research aims are:
+
+1. To synthesise various grades of 'Magimix' (i.e. a novel, patented magnetic sorbent, with different selected core
+compounds) specifically for DOC removal from blue-water, &amp;amp; test their adsorption capacity for a range of industry-supplied
+DOC-contaminated waters;
+
+2. To design &amp;amp; develop a laboratory-scale trial rig to enable the viability of 'Magimix' for the removal of DOC from bluewater
+to be assessed. The rig will be designed to enable flexibility in operational parameters whereby flow-rate, contact
+time &amp;amp; regeneration regimes can be modified to enhance ion removal. Industrially-viable flow rates will also be sought, to
+enable the generation of datasets reflective of end-user requirements;
+
+3. To benchmark the performance of 'Magimix' against existing processes (through combination of desk-based research &amp;amp;
+dialogue with industrial end-users). Examined parameters will include removal efficiency, absorption capacity, process
+safety &amp;amp; cost, in order to assess the applicability of the 'Magimix' technology to the target sector;
+
+4. To conduct preliminary designs for both the 'Magimix' synthesis &amp;amp; the water treatment processes. The study will consider
+materials of construction &amp;amp; also enable costs estimates relating to plant CAPEX &amp;amp; production/process costs to be obtained.
+The design phase will take into consideration results from all three previous work aims to enable suitability to both process
+&amp;amp; site operating conditions;
+
+5. Upon evaluation of the performance parameters, to develop marketing material and an investment prospectus for the
+novel DOC blue-water treatment technology. In parallel, industrial end-users &amp;amp; technology investors will be invited to attend
+technology demonstrations.
+
+The potential application of 'Magimix' for the removal of ions from water has already been patented. As such this
+technology presents the water sector with a novel approach for effectively removing DOC from blue-water sources that are
+presently unviable to secure using currently available processes.
+Given the increasing global pressure on water resources and the associated costs for use and treatment, innovation in this area is 
+extremely timely</gtr:abstractText><gtr:potentialImpactText>This project has major potential impacts on sustainability, in environmental, economic and societal terms: enhancing and
+fostering security of water supply, with potential application on an international scale; reducing energy usage and waste product disposal issues; fostering global economic performance, and, specifically, the economic competitiveness of the
+United Kingdom.
+1. Sustainable environmental and economic benefits that will accrue directly through the consortium as a result of the
+proposed project include:
+Commercialisation of an academic invention through a new collaboration with a private sector company;
+Development of a new technology for the removal of DOC from blue-water whilst offering significantly enhanced
+performance compared to that of existing technologies;
+Establishment of a new company, and technology for export;
+Enhancement of water security through development of a &amp;quot;step-changing&amp;quot; technology;
+Provision of significant cost savings to utilities companies, increased water quality, and a contribution to decarbonising the
+water treatment sector.
+2. Sustainability benefits that will accrue inside the consortium include economic impact to Stopford and its sub-contractors,
+from equipment sales and license of IP, other end users of the research will include the utilities in the consortium -
+Yorkshire Water, Northumbrian, N.Ireland, Scottish, Welsh, United Utilities and Thames.
+Specific sustainability benefits that will accrue outside the consortium include:
+An increase in economic activity, triggered through the use of the product internationally in the private sector;
+Enhanced activity throughout the technology manufacturing supply chain;
+The international market will benefit from a new generation of DOC removal technology;
+Increased water quality standards will be achieved, with the additional benefit of supporting attainment of WFD targets;
+Security of water supply will be realised (potentially internationally) through enabling abstraction of water from bodies with a
+high DOC loading;
+Decarbonisation of blue-water treatment through the employment of novel technologies.</gtr:potentialImpactText><gtr:fund><gtr:end>2013-03-15</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2012-09-16</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>42725</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs><gtr:collaborationOutput><gtr:collaboratingOrganisation>Heriot-Watt University</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Use of oscillatory baffle reactors for synthesis and application of magnetic nanocomposites for water decontamination</gtr:description><gtr:id>883A38FB-2AB9-40CD-8FF1-C48DF9564C0D</gtr:id><gtr:impact>Ongoing development between the multidisciplinary partners (engineering and environmental science).</gtr:impact><gtr:partnerContribution>Provision of OBR test rigs and expertise.</gtr:partnerContribution><gtr:piContribution>Novel development of OBR systems for controlled synthesis of nanomagnetic composites, for application in water decontaimination through pH-dependent ion adsorption.</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2013-01-01</gtr:start></gtr:collaborationOutput></gtr:collaborationOutputs><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs><gtr:impactSummaryOutput><gtr:description>Ongoing development: new PhD project planned for Dec 2015 start; further EPSRC funding application in progress.</gtr:description><gtr:firstYearOfImpact>2013</gtr:firstYearOfImpact><gtr:id>4796718D-A305-48C1-BE71-7F7EE6004AD7</gtr:id><gtr:impactTypes><gtr:impactType>Economic</gtr:impactType></gtr:impactTypes><gtr:sector>Environment</gtr:sector></gtr:impactSummaryOutput></gtr:impactSummaryOutputs><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>How to make synthetic nanoscale particles consisting of a non-magnetic core and a partial magnetic coating, and how to use these particles to remove organic contaminants from drinking water supplies</gtr:description><gtr:exploitationPathways>Our patented magnetic nanoparticles have range of potential uses, including desalination, removal of pharmaceuticals from water supplies, and recovery of species of economic value (eg Pt group metals) from waster waters and/or products.</gtr:exploitationPathways><gtr:id>6FA5AB7B-79F4-4A60-A74B-54F2C3D1BD35</gtr:id><gtr:sectors><gtr:sector>Agriculture, Food and Drink,Chemicals,Environment,Pharmaceuticals and Medical Biotechnology</gtr:sector></gtr:sectors></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">EP/K504026/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

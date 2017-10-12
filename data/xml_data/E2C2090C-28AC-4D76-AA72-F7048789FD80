@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/D1774113-D5D2-4B7C-A412-66A90FE4B96F"><gtr:id>D1774113-D5D2-4B7C-A412-66A90FE4B96F</gtr:id><gtr:name>University of Cambridge</gtr:name><gtr:department>Applied Maths and Theoretical Physics</gtr:department><gtr:address><gtr:line1>Lensfield Road</gtr:line1><gtr:line4>Cambridge</gtr:line4><gtr:postCode>CB2 1EW</gtr:postCode><gtr:region>East of England</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/D1774113-D5D2-4B7C-A412-66A90FE4B96F"><gtr:id>D1774113-D5D2-4B7C-A412-66A90FE4B96F</gtr:id><gtr:name>University of Cambridge</gtr:name><gtr:address><gtr:line1>Lensfield Road</gtr:line1><gtr:line4>Cambridge</gtr:line4><gtr:postCode>CB2 1EW</gtr:postCode><gtr:region>East of England</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/7A702932-DAFB-4DC8-89A4-B8D2011010EC"><gtr:id>7A702932-DAFB-4DC8-89A4-B8D2011010EC</gtr:id><gtr:firstName>Fernando</gtr:firstName><gtr:surname>Quevedo</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/492D8D3D-8AA4-4D0D-AF16-A5C04462FA6D"><gtr:id>492D8D3D-8AA4-4D0D-AF16-A5C04462FA6D</gtr:id><gtr:firstName>Benjamin</gtr:firstName><gtr:otherNames>Christopher</gtr:otherNames><gtr:surname>Allanach</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/1B7CC50B-BA6E-44B1-9589-E853D5F96A89"><gtr:id>1B7CC50B-BA6E-44B1-9589-E853D5F96A89</gtr:id><gtr:firstName>Nicholas Stephen</gtr:firstName><gtr:surname>Manton</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/B259397E-2372-4734-A392-0E990DA9489A"><gtr:id>B259397E-2372-4734-A392-0E990DA9489A</gtr:id><gtr:firstName>Ronald</gtr:firstName><gtr:surname>Horgan</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/21275EFB-8756-4CCC-8D2D-5FBA0EF8195A"><gtr:id>21275EFB-8756-4CCC-8D2D-5FBA0EF8195A</gtr:id><gtr:firstName>Nick</gtr:firstName><gtr:surname>Dorey</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/5C762394-9022-49B5-BFB5-AD47FB7F2433"><gtr:id>5C762394-9022-49B5-BFB5-AD47FB7F2433</gtr:id><gtr:firstName>Hugh</gtr:firstName><gtr:surname>Osborn</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/25A55B90-CA0C-4B40-A853-368945670FF6"><gtr:id>25A55B90-CA0C-4B40-A853-368945670FF6</gtr:id><gtr:firstName>David</gtr:firstName><gtr:surname>Skinner</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/53D36A3D-F90C-4407-BFEC-35252BAE1415"><gtr:id>53D36A3D-F90C-4407-BFEC-35252BAE1415</gtr:id><gtr:firstName>Malcolm John</gtr:firstName><gtr:surname>Perry</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/C9972DE2-CBF9-4A02-B4FD-B86DCE028A94"><gtr:id>C9972DE2-CBF9-4A02-B4FD-B86DCE028A94</gtr:id><gtr:firstName>Christopher</gtr:firstName><gtr:otherNames>Edward</gtr:otherNames><gtr:surname>Thomas</gtr:surname><gtr:orcidId>0000-0001-8817-4977</gtr:orcidId><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/5488E72D-1108-4F8B-89F3-1E3853F23721"><gtr:id>5488E72D-1108-4F8B-89F3-1E3853F23721</gtr:id><gtr:firstName>Bryan</gtr:firstName><gtr:otherNames>Ronald</gtr:otherNames><gtr:surname>Webber</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/AF9A6C01-E8C6-427C-BFF3-708066774347"><gtr:id>AF9A6C01-E8C6-427C-BFF3-708066774347</gtr:id><gtr:firstName>Michael</gtr:firstName><gtr:surname>Green</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/EF0E21AE-84E1-4026-A145-FA7DEB4A7B64"><gtr:id>EF0E21AE-84E1-4026-A145-FA7DEB4A7B64</gtr:id><gtr:firstName>Ben</gtr:firstName><gtr:otherNames>Matthew</gtr:otherNames><gtr:surname>Gripaios</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/B31550D7-5F61-42EB-9824-DD491C446476"><gtr:id>B31550D7-5F61-42EB-9824-DD491C446476</gtr:id><gtr:firstName>Matthew</gtr:firstName><gtr:otherNames>Bowen</gtr:otherNames><gtr:surname>Wingate</gtr:surname><gtr:orcidId>0000-0001-6568-988X</gtr:orcidId><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/930ABCFD-86A0-4681-8B0B-964C9D1B902A"><gtr:id>930ABCFD-86A0-4681-8B0B-964C9D1B902A</gtr:id><gtr:firstName>Jorge Eduardo</gtr:firstName><gtr:surname>Santos</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/9EB4722E-F955-40B7-AC4E-48154E60AD62"><gtr:id>9EB4722E-F955-40B7-AC4E-48154E60AD62</gtr:id><gtr:firstName>Paul</gtr:firstName><gtr:otherNames>Kingsley</gtr:otherNames><gtr:surname>Townsend</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/A72B2974-2ACE-4876-9831-FC15A375CA8D"><gtr:id>A72B2974-2ACE-4876-9831-FC15A375CA8D</gtr:id><gtr:firstName>David</gtr:firstName><gtr:surname>Tong</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/AC07AA9A-C789-4952-BA2B-7C9E89D09492"><gtr:id>AC07AA9A-C789-4952-BA2B-7C9E89D09492</gtr:id><gtr:firstName>Maciej</gtr:firstName><gtr:surname>Dunajski</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/672706CB-3BAE-45A8-B62C-2E6F30E2F365"><gtr:id>672706CB-3BAE-45A8-B62C-2E6F30E2F365</gtr:id><gtr:firstName>Alexander</gtr:firstName><gtr:surname>Mitov</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/AD424F12-80CE-4F0F-A28C-6F2CE72B2823"><gtr:id>AD424F12-80CE-4F0F-A28C-6F2CE72B2823</gtr:id><gtr:firstName>Harvey</gtr:firstName><gtr:surname>Reall</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/203463D7-B45D-4115-B928-5E05E5B57F28"><gtr:id>203463D7-B45D-4115-B928-5E05E5B57F28</gtr:id><gtr:firstName>A C</gtr:firstName><gtr:surname>Davis</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=ST%2FP000681%2F1"><gtr:id>E2C2090C-28AC-4D76-AA72-F7048789FD80</gtr:id><gtr:title>Particles, Fields and Extended Objects</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>ST/P000681/1</gtr:grantReference><gtr:abstractText>The STFC research programme of the Theoretical High Energy Physics Group at
+Cambridge University is focused on the fundamental problems of collider
+phenomenology, quantum field theory, string theory and gravity, and analysing
+class of strongly interacting particles called mesons.
+
+We are analysing and interpreting Large Hadron Collider data from CERN to do
+various things: looking for signs of new particles or forces, developing
+search and measurement strategies for them, or making high precision
+predictions of various theories. The Standard Model is the current model of
+particle physics that is well accepted, verified and measured. Most of its
+predictions agree well with collider data. However, it leaves many questions
+unanswered: why is the Higgs boson so light (the theory predicts it should be
+10^15 times heavier)? what is dark matter? how come the universe is made of
+matter and not anti-matter? Models of new physics explain some or all of
+these, and typically predict new particles. Finding these (or ruling them out)
+is a priority in order to test such theories. The Large Hadron Collider has
+just upgraded to its highest energy, 13 TeV, which means that heavier
+particles may be found that haven't been seen before. There have been exciting
+unexpected &amp;quot;bumps&amp;quot; in data recently: for example too many pairs of particles
+of light (photons) seem to be coming out of the proton proton collisions with
+an energy equivalent to 750 proton masses. If it is verified, this would be a
+signal of a new particle which decays to two photons, and the question is:
+where does this fit and what does it mean? We are actively working on such
+questions. 
+
+Quantum field theory provides a very successful description of known particle
+interactions. However, special techniques are required to get predictions when
+the interactions are strong. We shall be developing various techniques to
+improve these, and to provide understanding of the underlying dynamics.
+String theory is an extraordinarily mathematically rich structure, that
+purports to describe gravity. One variant of it may also even underlie all of
+the interactions between particles that are observed in nature. The tiny loops
+behave like particles unless one probes them at energies that are far too high
+for us to reach in current experiments. Some of our research examines the rich
+structure behind the mathematics of these theories: it turns out that
+scattering two particles and scattering three particles have strict relations
+between the interaction probabilities. Sometimes, truths such as these are
+easier understood by mapping one string theory to another one, which has a
+different coupling strength and a different number of space-time
+dimensions. These &amp;quot;dualities&amp;quot; help us winkle out truths and
+deep connections in string theory. We shall be investigating their role in the
+relations between interaction probabilities. 
+We are analysing instabilities in theories of black holes, depending on the
+number of dimensions and how bent the underlying space-time is. 
+
+Some particles
+are strongly bound states of smaller ones, such as B-mesons. 
+For these, sophisticated computer programs are
+built which break space and time up into a grid of points, and the quantum
+fluctuations of the sub-nuclear interactions are simulated using random
+numbers on this lattice. Analytic calculations must be done to match the
+numbers obtained on the computer to experimental data. We shall develop these
+calculations, and perform new ones so that data can be used to extract the
+level to which various quarks (for example, the up quark and the b-quark)
+mix. This helps provide an accurate description of an unexplained phenomenon:
+how the funny pattern of quark mixing comes about. These calculations also
+help the extraction of the difference between matter and anti-matter from
+experimental data.</gtr:abstractText><gtr:potentialImpactText>The research proposal is aimed at understanding matter, forces, space and
+time. We cannot predict when fundamental research will translate into 
+new technology, however history implies that fundamental discoveries eventually
+leads to no spin-offs or direct applications. One example in collider
+physics (such as is done at the LHC) is proton cancer therapy. In any case,
+the science that we do has an immediate impact on the integration of science
+into culture. Our field inspires and attracts people, and our investigators
+have a collective expertise and skill as public communicators. This already 
+benefits those who are stimulated by acquiring new knowledge about science.
+Our blogs also influence thinking about science and society (for example in
+terms of evidence-based policy). We are motivators for young people to follow
+a career in science. 
+Part of our work is to give train students in creative and analytic thinking,
+skills that are directly relevant for the UK economy for those that leave
+academia and go into industry (often scientific industry) or financial
+services. 
+
+We will communicate the results of our research to the general public (for
+example in music and other cultural festivals) and to
+school children. Our goal is to both educate and to inspire, to explain the
+wonder of 
+the natural world, the excitement of being involved in cutting edge research
+and the joy of understanding something that no one else on the planet
+knows. Members of the group have media connections through radio, television,
+print and the internet and we will continue to develop these.</gtr:potentialImpactText><gtr:fund><gtr:end>2020-09-30</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/D7F4F462-0518-4784-908A-D12633C139B3"><gtr:id>D7F4F462-0518-4784-908A-D12633C139B3</gtr:id><gtr:name>STFC</gtr:name></gtr:funder><gtr:start>2017-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>1736327</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">ST/P000681/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>9C124926-5968-486F-9B51-CCEB6C4E9650</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Particle physics - theory</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>7E9E4208-1EA0-4F02-A57B-1E5FC354180E</gtr:id><gtr:percentage>12</gtr:percentage><gtr:text>Lattice QCD</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>D1CFDBA8-6B0A-4F3B-A5BD-26C5EA182FA7</gtr:id><gtr:percentage>32</gtr:percentage><gtr:text>Phenomenology</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>87664074-78C7-4224-9F97-36D3F3EF0984</gtr:id><gtr:percentage>40</gtr:percentage><gtr:text>Quantum Field Theory</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>8B766AA4-78ED-447F-A6A6-7FE1A8DC4187</gtr:id><gtr:percentage>10</gtr:percentage><gtr:text>String Theory</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>9940145C-197A-4249-A190-A135B3FB0478</gtr:id><gtr:percentage>6</gtr:percentage><gtr:text>The Standard Model</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

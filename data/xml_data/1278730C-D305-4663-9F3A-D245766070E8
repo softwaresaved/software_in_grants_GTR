@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/936D002F-A8D1-4A93-AE5D-825ED0903D8D"><gtr:id>936D002F-A8D1-4A93-AE5D-825ED0903D8D</gtr:id><gtr:name>University of Nottingham</gtr:name><gtr:department>Faculty of Engineering</gtr:department><gtr:address><gtr:line1>University Park</gtr:line1><gtr:line4>Nottingham</gtr:line4><gtr:line5>Nottinghamshire</gtr:line5><gtr:postCode>NG7 2RD</gtr:postCode><gtr:region>East Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/936D002F-A8D1-4A93-AE5D-825ED0903D8D"><gtr:id>936D002F-A8D1-4A93-AE5D-825ED0903D8D</gtr:id><gtr:name>University of Nottingham</gtr:name><gtr:address><gtr:line1>University Park</gtr:line1><gtr:line4>Nottingham</gtr:line4><gtr:line5>Nottinghamshire</gtr:line5><gtr:postCode>NG7 2RD</gtr:postCode><gtr:region>East Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/5E32D8D3-CDD0-4189-B467-0A1FFE075419"><gtr:id>5E32D8D3-CDD0-4189-B467-0A1FFE075419</gtr:id><gtr:firstName>Saffa</gtr:firstName><gtr:surname>Riffat</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/38030C4C-62D0-427E-966A-032A3C54D871"><gtr:id>38030C4C-62D0-427E-966A-032A3C54D871</gtr:id><gtr:firstName>Yuehong</gtr:firstName><gtr:surname>Su</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=EP%2FP510713%2F1"><gtr:id>1278730C-D305-4663-9F3A-D245766070E8</gtr:id><gtr:title>A Revolutionary Rotary Ericsson Heat Pump/Engine</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/P510713/1</gtr:grantReference><gtr:abstractText>The proposed project is aimed to investigate an innovative heat pump utilizing the Ericsson thermodynamic cycle in early
+concept stage. The proposed system is a new technology that could reduce the energy demands in many areas. The
+proposed project fits the scope in engines &amp;amp; thermodynamic cycles, and energy efficiency.
+The proposed mechanical heat pump utilizing the Ericsson thermodynamics cycle would have near Carnot Cycle ideal
+efficiency due to unique innovations of the design:
+1) Flat rotors that create the optimum heat exchange area;
+2) Independent Induction Motor Generators allow continuously variable rotor rotational velocity and thus compression ratio,
+volume, and compression rate, allowing near isothermal compression and expansion;
+3) Continuous cycling of the fluid allows for near Isobaric heat exchange in varying conditions;
+4) Efficient and simple Induction Motor-Generators - requiring no mechanical linkage and allowing the device to be
+hermetically sealed with the inner stator within, greatly increasing service life;
+5) Separate, compression, heat exchanger, and expander chambers mean no wasted work on 'dead air', and no thermal
+creep between parts of the device, thus eliminating efficiency losses of other systems;
+6) Continuous cycling with constant fluid compression, heat exchange, and expansion, unlike other systems;
+7) Use of clearance seals eliminates traditional sealing issues. Only four moving parts, no valves, and hermetically sealing
+the device and allows very long service life.
+The proposed Ericsson heat pump would provide efficient and environmentally friendly cooling. The majority of coolers,
+refrigerators, and air conditioners today are based on the vapour compression cycle using CFC's (Freon). Although
+efficient, the use of CFC's has significant detrimental environmental issues and its discontinued use is mandated. The
+proposed Ericsson system would provide an extremely low maintenance, highly efficient engine able to draw energy from
+solar, geothermal, waste heat, and most any other energy source. The engine would be silent and vibration free, making it
+applicable to many other applications.
+The development of the proposed Ericsson heat pump/engine would provide huge global market opportunities for which the
+UK can develop and grow innovative businesses to deliver world-leading solutions.
+The unknown factors and risks in this development make it difficult for the partners to take on and the Innovate UK funding
+would provide the essential support to enable the consortium expertise areas to come together and create a novel system
+creating many jobs across the supply chain with energy consumption per unit cut by 40%, Payback time: 1.5 to 3 years,
+and saving about 20 tonnes of CO2 per unit (5kW) per year, achieving UK's Government target.</gtr:abstractText><gtr:potentialImpactText>The impact arising from the project is likely to have significant benefits in the following areas:
+The UK economy will benefit from the research by increased economy and employment opportunity that may arise from the
+technology taking up. The market potential for the proposed technology is expected to be substantial as energy savings
+and greenhouse gases emissions reduction are set to play an increasing role in the energy sector. This will enable the
+UK/international companies to develop new businesses. The technology could be internally applied and (or) exported to
+other countries, such as EU, Asia, Middle East, Africa and China. This may increase UK's economic volume considerably
+and create new job opportunities, which are expected to be achieved in 5 years commercial development.
+The significant market potential of the proposed system will provide the UK with economic benefits due to product sales
+and employment opportunities. This agreement for exploitation of results will allow the specific technological background of
+the partners to remain their own property. Only the results of the project will be covered by the agreement and therefore the
+agreement will protect the interest of each partner with reference to their technology background.
+This project will create a proof of concept and prototype Ericsson heat pump/engine for sustainable heating cooling and
+power generation. The revolutionary design is simple, low cost, silent, vibration free, valve-less, long life, and CFC free.
+The device will reduce the cost of heat pumps, refrigerators, freezers, and air-conditioners by providing a device applicable
+to many applications. Operated as an engine, the device will allow more efficient conversion of solar and waste heat into
+electricity, as well as provide clean and efficient small to large scale external combustion engines for many applications.
+The unique system of paired rotating rotors is used to create the ideal Ericsson cycle, the realization of the ideal Carnot
+cycle, the most efficient heat cycle possible. Only proven, mature technologies, techniques, and methods are used in this
+ground breaking design. The device uses the phased rotor rotation to create expansion and compression chambers, using
+the environmentally friendly gases of hydrogen or helium. The system has been modelled in a leading university to show
+the system will realize a COP greater than existing systems. The project provides a great opportunity for UK industries to
+pioneer the development of this revolutionary Heat Pump/Engine technology. This will lead to numerous commercial
+products which strengthens UK competitiveness and growth of SME companies.
+The project will benefit the UK in terms of advancing technology, economic opportunities and positive environmental
+impact, adding value by providing a platform for collaboration between academic and industrial parties and allowing the UK
+companies to compete with overseas companies in the field of glasshouses and protected cropping. SMEs will introduce
+the new technology to the market with the direct creation of new jobs and further employment throughout the supply chain
+in the energy sector. Manufacturing industries will benefit from the sales of a new product offered both in the UK and
+overseas.</gtr:potentialImpactText><gtr:fund><gtr:end>2017-09-30</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2016-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>98670</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">EP/P510713/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>F95121C7-7C31-40CE-BDBC-1E2BF025AEA6</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Energy</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>BE7CEC14-3FA2-49BC-89EE-062447C269C1</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Energy Efficiency</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

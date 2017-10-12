@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/A0A585E0-6B0D-4643-A3A6-47943B4CBFEF"><gtr:id>A0A585E0-6B0D-4643-A3A6-47943B4CBFEF</gtr:id><gtr:name>University of Liverpool</gtr:name><gtr:department>School of Engineering</gtr:department><gtr:address><gtr:line1>Senate House</gtr:line1><gtr:line2>Abercromby Square</gtr:line2><gtr:line4>Liverpool</gtr:line4><gtr:postCode>L69 3BX</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/A0A585E0-6B0D-4643-A3A6-47943B4CBFEF"><gtr:id>A0A585E0-6B0D-4643-A3A6-47943B4CBFEF</gtr:id><gtr:name>University of Liverpool</gtr:name><gtr:address><gtr:line1>Senate House</gtr:line1><gtr:line2>Abercromby Square</gtr:line2><gtr:line4>Liverpool</gtr:line4><gtr:postCode>L69 3BX</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/9059DB76-89ED-4C64-8B16-005E2540D71F"><gtr:id>9059DB76-89ED-4C64-8B16-005E2540D71F</gtr:id><gtr:firstName>Nilanjan</gtr:firstName><gtr:surname>Chakraborty</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=EP%2FE026516%2F1"><gtr:id>E8F0A9D3-D84E-469D-921F-604728767F68</gtr:id><gtr:title>THEORETICAL INVESTIGATION OF TURBULENT COMBUSTION IN STRATIFIED INHOMOGENOUS MIXTURES USING DIRECT NUMERICAL SIMULATION</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/E026516/1</gtr:grantReference><gtr:abstractText>The aim of this project is to understand the effects of turbulence on hydrocarbon fuel combustion where the fuel and oxidizer distribution form a highly stratified mixture at the time of ignition. For stratified charge combustion the reactants are neither homogeneously mixed (premixed) nor completely separated (non- premixed). Thus the analysis of this kind of combustion has special modelling needs in comparison to fully premixed or fully non-premixed flames. Turbulent combustion in a stratified fuel-air mixture is highly relevant in the context of both spark-ignition gasoline and compression-ignition Diesel engines and has the potential for reducing fuel consumption especially at low-speed, light- load operations in automobile applications. Stratified-charge combustion can also be found in the Lean Premixed Prevaporised (LPP) combustors in aircraft gas turbines where fuel and injected secondary air form an inhomogeneous fuel-air mixture ahead of the flame front. The capability of predicting accurately the flame propagation behaviour in the presence of mixture inhomogeneities and intense turbulence would facilitate the development of low-emission, energy-efficient devices, such as automotive engines and gas-turbine combustors. The proposed research project consists of three parts. In the first, three-dimensional (3-D) Direct Numerical Simulations (DNS) with simplified chemistry, appropriate for the combustion of realistic hydrocarbon fuels, will be performed for a variety of mixing fields and turbulence intensities to enhance the present state of fundamental understanding and to create a database for the assessment of existing combustion models and to develop new models wherever necessary. Three-dimensional DNS with a reasonable degree of detailed chemistry will be carried out based on the information gained from 3-D DNS with simplified chemistry. The second part of the project involves the development of a combustion model in the context of Reynolds Averaged Navier Stokes (RANS) and Large Eddy Simulations (LES). The model will be implemented with a view to future incorporation into industry-standard Computational Fluid Dynamics (CFD) packages, which can then be used for engineering design purposes.</gtr:abstractText><gtr:fund><gtr:end>2010-07-31</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2007-08-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>147092</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs><gtr:furtherFundingOutput><gtr:amountPounds>158407</gtr:amountPounds><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:currCode>GBP</gtr:currCode><gtr:currCountryCode>United Kingdom</gtr:currCountryCode><gtr:currLang>en_GB</gtr:currLang><gtr:description>Large Eddy Simulation modelling of scalar dissipation rate based reaction rate closure in turbulent premixed flames</gtr:description><gtr:end>2015-03-02</gtr:end><gtr:fundingOrg>Engineering and Physical Sciences Research Council (EPSRC)</gtr:fundingOrg><gtr:fundingRef>EP/I028013/1</gtr:fundingRef><gtr:id>DF958942-7DEB-4A4F-A7FB-C564574AAA82</gtr:id><gtr:sector>Academic/University</gtr:sector><gtr:start>2011-10-01</gtr:start></gtr:furtherFundingOutput></gtr:furtherFundingOutputs><gtr:impactSummaryOutputs><gtr:impactSummaryOutput><gtr:description>The findings of this project gave a thorough insight into the Reynolds Averaged Navier Stokes (RANS) modelling of turbulent combustion of stratified mixtures using scalar dissipation rate approach. The new closures developed in this project are robust as they have gone through a detailed a-priori test for a range of different parameters. Apart from enriching the relevant field of research, the research outcomes provided high-fidelity simulation tools for simulating premixed turbulent combustion for Internal Combustion (IC) engine (e.g. modern Direct Injection engine) and gas turbine (e.g. Lean Premixed Prevaporised (LPP) technology) manufacturers (e.g. Ford, Rolls Royce and Siemens), which will contribute to the development of energy-efficient and environment-friendly devices and wealth generation in the future. This will give rise to considerable socio-economic impact. Moreover, this project gave rise to the development of a highly skilled professional with expertise of turbulence, combustion, Direct Numerical Simulation, parallel computing etc, who is going to contribute to UK industry and economy for years to come.</gtr:description><gtr:id>F605A2CC-4874-4DD0-A6C5-167AD0D1F9AC</gtr:id><gtr:impactTypes><gtr:impactType>Societal,Economic</gtr:impactType></gtr:impactTypes><gtr:sector>Aerospace, Defence and Marine,Energy,Environment,Transport</gtr:sector></gtr:impactSummaryOutput></gtr:impactSummaryOutputs><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>Achievements
+
+---------------------
+
+1. Development of a three_dimensional DNS database of freely statistically
+
+planar turbulent flames propagating through stratified mixtures in different
+
+configurations [1,2] for different values of global mean equivalence ratio,
+
+root_mean_square equivalence ratio, global Lewis number and turbulent
+
+velocity fluctuations, integral length scales of turbulent velocity fluctuations
+
+and equivalence ratio fluctuations. This provides a wealth of important
+
+information, which can be used for the purpose of assessing existing models
+
+and develop new models in the context of RANS and LES. The database
+
+developed during the course of this project will continue to be a very useful
+
+source of information for gaining fundamental understanding and model
+
+development beyond the duration of this project.
+
+2. The performance of the existing algebraic models for scalar variances, covariances,
+
+dissipation rates and cross_dissipation rates have been assessed
+
+in detail based on a_priori analysis of DNS data [1]. The existing models that
+
+are the best suited for predicting the relevant quantities are identified and
+
+for some quantities either new algebraic models were proposed or existing
+
+models were modified, when existing models were found to predict the
+
+quantities in question adequately. Transport equation based closure for
+
+some quantities where algebraic models are found not to perform well [1].
+
+3. Models have been proposed for all the terms for the transport equations of
+
+fuel mass fraction variance [3,4], co_variance of fuel mass fraction and
+
+mixture fraction fluctuations [5,6], scalar dissipation rates of mixture
+
+fraction and fuel mass fraction [7_9] and the cross scalar dissipation rates of
+
+fuel mass fraction and mixture fraction fluctuations [10] in the context of
+
+RANS. The quantities such as variance, co_variance, scalar dissipation rate
+
+and cross_scalar dissipation rate play pivotal roles in the reaction rate
+
+closure in turbulent combustion of stratified mixtures. The aforementioned
+
+modelling activity aided by DNS data devised a coherent unified modelling
+
+methodology which can be used for reaction rate closure both high and low
+
+Damkohler number conditions. This modelling exercise was also closely
+
+related to the modelling turbulent premixed combustion because it is a
+
+special case of turbulent stratified combustion modelling. As a result of this,
+
+significant advances in different aspects of scalar dissipation rate [11_16],
+
+Flame Surface Density (FSD) [17,18] and scalar flux [19_22] modelling of
+
+turbulent premixed flames.
+
+4. The statistics of flame propagation statistics in turbulent inhomogeneous
+
+mixtures have been studied in terms of displacement speed and its
+
+components [2,23] and FSD based reaction rate closure has been extended
+
+for turbulent combustion of stratified mixtures for both high and low
+
+Damkohler number conditions in the context of RANS. The possible
+
+extension of the RANS models for the purpose of LES is also identified [2,23].
+
+5. Identifying the strengths and limitations of the simplified models for
+
+combustion (e.g. Multi_zone model) which are in use in analysing DNS data
+
+of localised ignition of thermally inhomogeneous mixtures, which is often
+
+realized in Homogeneous Charge Compression Ignition (HCCI) engines.
+
+6. The newly developed models have been implemented in an industrystandard
+
+Computational Fluid Dynamics (CFD) package so that they can then
+
+be used for future engineering design purposes.
+
+In addition, the models and findings have been shared with the Combustion
+
+Research Group in Cambridge (especially with Profs. R. Stewart Cant, E.
+
+Mastorakos and Dr. N. Swaminathan) who are also engaged in computational
+
+and experimental analysis of turbulent combustion of stratified mixtures.
+
+
+
+References
+
+------------------
+
+1. S.P. Malkeson, N. Chakraborty, &amp;quot;A_priori Direct Numerical Simulation analysis
+
+of algebraic models of variances and scalar dissipation rates for Reynolds
+
+Averaged Navier Stokes Simulations for low Damk&amp;ouml;hler number turbulent
+
+partially_premixed combustion&amp;quot;, Combustion Sci. Technol. 182, 960_999,
+
+2010.
+
+2. S. P. Malkeson, N. Chakraborty, &amp;quot;Statistical analysis of displacement speed in
+
+turbulent stratified flames: A Direct Numerical Simulation study&amp;quot;, Combustion
+
+Sci. Technol., 182, 1841-1883, 2010.
+
+3. S. P. Malkeson, N. Chakraborty, &amp;quot;Modelling of fuel mass fraction variance
+
+transport in turbulent stratified flames: A Direct Numerical Simulation study.&amp;quot;
+
+Numerical Heat Transfer A , 58, 187_206, 2010.
+
+4. S.P. Malkeson, N. Chakraborty, &amp;quot;Statistical analysis of fuel mass fraction
+
+variance transport in turbulent partially_premixed flames: A Direct Numerical
+
+Simulation study&amp;quot;, 33rd International Combustion Symposium, Tsinghua
+
+University, Beijing, 1_6th August, 2010.
+
+5. S.P. Malkeson, N. Chakraborty, &amp;quot;Statistical analysis of co_variance transport in
+
+low Damk&amp;ouml;hler number number turbulent stratified flames: a DNS study&amp;quot;,
+
+33rd International Combustion Symposium, Tsinghua University, Beijing, 1_6th
+
+August, 2010.
+
+6. S. P. Malkeson, N. Chakraborty,A-priori DNS modelling of co-variance transport in turbulent stratified flames&amp;quot;, 7th Mediterranean Combustion Symposium, Chia Laguna, Cagliari, Sardinia, Italy, 11th -15th September, 2011.
+
+7. S. P. Malkeson, N. Chakraborty, &amp;quot;Analysis of Scalar Dissipation rate transport
+
+in combusting stratified charge mixtures using Direct Numerical Simulations&amp;quot;,
+
+32nd International Combustion Symposium, Montreal, Canada, 3rd to 8th
+
+August, 2008.
+
+8. S.P. Malkeson, N. Chakraborty, &amp;quot;Scalar Dissipation rate transport modelling of
+
+partially premixed flames using Direct Numerical Simulations (DNS)&amp;quot;, 4th
+
+European Combustion Meeting, Vienna, Austria, 14th to 17th April, 2009.
+
+9. S.P. Malkeson, N. Chakraborty, &amp;quot;Statistical analysis of scalar dissipation rate
+
+transport in turbulent partially premixed flames: A Direct Numerical
+
+Simulation study&amp;quot;, Flow Turbulence and Combustion, 86, 1-44, 2011.
+
+10. S.P. Malkeson, N. Chakraborty, &amp;quot;Statistical analysis of cross scalar dissipation
+
+rate transport in turbulent partially premixed flames: A Direct Numerical
+
+Simulation study.&amp;quot; Flow Turbulence and Combustion, 87,313-349, 2011.
+
+11. H. Kolla, J. Rogerson, N. Chakraborty, N. Swaminathan, &amp;quot;Prediction of
+
+turbulent flame speed using scalar dissipation rate&amp;quot;, Combust. Sci. Technol.,
+
+181,3, 518_535, 2009.
+
+12. N. Chakraborty, J.W. Rogerson, N. Swaminathan, &amp;quot;APriori
+
+assessment of closures for scalar dissipation rate transport in turbulent premixed flames
+
+using direct numerical simulation&amp;quot;, Phys. Fluids, 20,045106,1_15, 2008.
+
+13. N. Chakraborty, N. Swaminathan, &amp;quot;Modelling of non_unity Lewis number
+
+effects on scalar dissipation rate transport in turbulent premixed flames&amp;quot;, 4th
+
+European Combustion Meeting, Vienna, Austria, 14th to 17th April, 2009.
+
+14. N. Chakraborty, M. Klein, N. Swaminathan, &amp;quot;Effects of Lewis number on
+
+reactive scalar gradient alignment with local strain rate in turbulent
+
+premixed flames.&amp;quot; Proc. of Combust. Institute, 32,1409_1417,2009.
+
+15. N. Chakraborty, N. Swaminathan, &amp;quot;Effects of Lewis number on scalar
+
+dissipation transport and its modelling implications for turbulent premixed
+
+combustion&amp;quot;, Combustion Sci. Technol.,182, 1201_1240, 2010.
+
+16. N. Chakraborty, J. Rogerson, N. Swaminathan, &amp;quot;The scalar gradient alignment
+
+statistics of flame kernels and its modelling implications for turbulent
+
+premixed combustion&amp;quot;, Flow Turbulence and Combustion, 85,1, 25_55, 2010.
+
+17. N. Chakraborty, M. Klein, &amp;quot;A Priori Direct Numerical Simulation assessment of
+
+algebraic Flame Surface Density models for turbulent premixed flames in the
+
+context of Large Eddy Simulation.&amp;quot; Phys. Fluids, 20, 085108, 1_14,2008.
+
+18. N. Chakraborty, M. Klein, &amp;quot;Influence of Lewis number on the Surface Density
+
+Function transport in the thin reaction zones regime for turbulent premixed
+
+flames.&amp;quot; Phys. Fluids, 20, 065102,1_24, 2008.
+
+19. N. Chakraborty, R.S. Cant, &amp;quot;Effects of Lewis number on the scalar flux in
+
+Turbulent premixed Flames.&amp;quot; 12th SIAM Numer. Combust. Conference,
+
+Moneterey, USA, 31st March_2nd April, 2008.
+
+20. N. Chakraborty, R.S. Cant, &amp;quot;Effects of Lewis number on turbulent scalar
+
+transport and its modelling in turbulent premixed flames.&amp;quot;, Combustion and
+
+Flame, 156, 1427_1444, 2009.
+
+21. N. Chakraborty, R.S. Cant, &amp;quot;Physical insight and modelling for Lewis number
+
+effects on turbulent heat and mass transport in turbulent premixed flames.&amp;quot;
+
+Numerical Heat Transfer A, 55,8,762_779, 2009.
+
+22. N. Chakraborty, R.S. Cant, &amp;quot;Effects of Lewis number on scalar transport in
+
+turbulent premixed flames&amp;quot;, Physics Fluids, 21, 035110, 2009.
+
+23. N. Chakraborty, H. Hesse, E. Mastorakos, &amp;quot;Numerical investigation of edge
+
+flame propagation behaviour in an igniting turbulent planar jet&amp;quot;, Combustion
+
+Sci. Technol., 182, 1747-1781, 2010.</gtr:description><gtr:exploitationPathways>The major beneficiaries of this work are automotive engine and gas turbine manufacturers, who are engaged in developing new concepts for low-pollution and high-efficiency engines throughout the world. The design process of Direct Injection and Homogeneous Charge Compression Ignition engines is limited by the lack of knowledge on turbulent stratified charge combustion, and predictive capability of combustion performance based on engineering CFD calculations. Ford and Lotus are mentioned as compression-ignition engine developers, and Rolls-Royce as a gas turbine manufacturer will have interest in the outcome of this work concerning the fundamentals of turbulent stratified charge combustion. However, the benefits are not limited to the above-mentioned UK manufacturers, as all automotive manufacturers have a program on HCCI engines and all gas turbine manufacturers are interested in LPP combustors. The relevant industrial partners were made aware of the developments that took place in this research during interactions at the aforementioned international conferences and UK based meetings (e.g. Meetings organised by the British Combustion Institute ). The present fundamental findings concerning turbulent stratified combustion will be of immediate value to all the industries mentioned above. Moreover, the project outcome will be directly beneficial to industries, as the developed model will be incorporated in commercial CFD software used by industry for a-posteriori analysis. 1. High-quality journal publications
+
+2. Dissemination through conference presentations
+
+3. Effective UK and international collaboration
+
+4. Industrial contacts</gtr:exploitationPathways><gtr:id>BFCD4533-2387-43C9-89E5-23AE6C0AB1A2</gtr:id><gtr:sectors><gtr:sector>Aerospace, Defence and Marine,Energy,Environment,Transport</gtr:sector></gtr:sectors></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/73CD0B7F-F960-4452-BD77-FBC6BE088C40"><gtr:id>73CD0B7F-F960-4452-BD77-FBC6BE088C40</gtr:id><gtr:title>Modelling of non-unity Lewis number effects on scalar dissipation rate transport in turbulent premixed flames</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/3f7002096879deaa77e6c03734e8ac36"><gtr:id>3f7002096879deaa77e6c03734e8ac36</gtr:id><gtr:otherNames>Nilanjan Chakraborty (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2009-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/A7337975-D2C8-4DD0-ABC4-2D2012A59E31"><gtr:id>A7337975-D2C8-4DD0-ABC4-2D2012A59E31</gtr:id><gtr:title>Effects of Lewis Number on Scalar Dissipation Transport and Its Modeling in Turbulent Premixed Combustion</gtr:title><gtr:parentPublicationTitle>Combustion Science and Technology</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/4d4cd5b7282b95a33e56975e687babd1"><gtr:id>4d4cd5b7282b95a33e56975e687babd1</gtr:id><gtr:otherNames>Chakraborty N</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2010-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/C699B29D-7623-46A4-805D-CD26C78222D5"><gtr:id>C699B29D-7623-46A4-805D-CD26C78222D5</gtr:id><gtr:title>A-Priori Direct Numerical Simulation Modelling of Co-variance Transport in Turbulent Stratified Flames</gtr:title><gtr:parentPublicationTitle>Flow, Turbulence and Combustion</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/420f03b5f09e036294454537acd6d121"><gtr:id>420f03b5f09e036294454537acd6d121</gtr:id><gtr:otherNames>Malkeson S</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/00D43DDE-F97D-4E84-A1B2-C417F002CDE6"><gtr:id>00D43DDE-F97D-4E84-A1B2-C417F002CDE6</gtr:id><gtr:title>Statistical analysis of co-variance transport in low Damk&amp;ouml;hler number number turbulent stratified flames: a DNS study</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/d0f91c6982a93aa6c496e093a2f066aa"><gtr:id>d0f91c6982a93aa6c496e093a2f066aa</gtr:id><gtr:otherNames>Sean Malkeson (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2010-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/083F4C1E-A29E-4945-93B3-C09D67345257"><gtr:id>083F4C1E-A29E-4945-93B3-C09D67345257</gtr:id><gtr:title>The Scalar Gradient Alignment Statistics of Flame Kernels and its Modelling Implications for Turbulent Premixed Combustion</gtr:title><gtr:parentPublicationTitle>Flow, Turbulence and Combustion</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/4d4cd5b7282b95a33e56975e687babd1"><gtr:id>4d4cd5b7282b95a33e56975e687babd1</gtr:id><gtr:otherNames>Chakraborty N</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2010-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/5521E680-9CAB-4221-BF99-1BAFC29DD4BB"><gtr:id>5521E680-9CAB-4221-BF99-1BAFC29DD4BB</gtr:id><gtr:title>Influence of Lewis number on the surface density function transport in the thin reaction zone regime for turbulent premixed flames</gtr:title><gtr:parentPublicationTitle>Physics of Fluids</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/4d4cd5b7282b95a33e56975e687babd1"><gtr:id>4d4cd5b7282b95a33e56975e687babd1</gtr:id><gtr:otherNames>Chakraborty N</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2008-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/693A6313-EA64-4265-9025-791D126C2268"><gtr:id>693A6313-EA64-4265-9025-791D126C2268</gtr:id><gtr:title>Scalar Dissipation Rate Modeling and its Validation</gtr:title><gtr:parentPublicationTitle>Combustion Science and Technology</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/e6af00f02d5c7fd06ef6dd6c761ba000"><gtr:id>e6af00f02d5c7fd06ef6dd6c761ba000</gtr:id><gtr:otherNames>Kolla H</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2009-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/CB5A7B2A-3610-4E91-99BB-324151091838"><gtr:id>CB5A7B2A-3610-4E91-99BB-324151091838</gtr:id><gtr:title>A priori direct numerical simulation assessment of algebraic flame surface density models for turbulent premixed flames in the context of large eddy simulation</gtr:title><gtr:parentPublicationTitle>Physics of Fluids</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/4d4cd5b7282b95a33e56975e687babd1"><gtr:id>4d4cd5b7282b95a33e56975e687babd1</gtr:id><gtr:otherNames>Chakraborty N</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2008-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/AE85687A-2433-47FA-90A5-B770034F6B21"><gtr:id>AE85687A-2433-47FA-90A5-B770034F6B21</gtr:id><gtr:title>Fundamental understanding and modelling of turbulent combustion in stratified mixtures using Direct Numerical Simulations(DNS)</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/2a4baba06ed7fd4dbc2a53a59d030d8a"><gtr:id>2a4baba06ed7fd4dbc2a53a59d030d8a</gtr:id><gtr:otherNames>Malkeson Sean</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2011-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/6A7B7F73-9C16-41A4-BF22-6A1851ED79F6"><gtr:id>6A7B7F73-9C16-41A4-BF22-6A1851ED79F6</gtr:id><gtr:title>Statistical Analysis of Cross Scalar Dissipation Rate Transport in Turbulent Partially Premixed Flames: A Direct Numerical Simulation Study</gtr:title><gtr:parentPublicationTitle>Flow, Turbulence and Combustion</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/420f03b5f09e036294454537acd6d121"><gtr:id>420f03b5f09e036294454537acd6d121</gtr:id><gtr:otherNames>Malkeson S</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2010-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/C4F90108-02D7-4254-9CE8-49B1EED080F2"><gtr:id>C4F90108-02D7-4254-9CE8-49B1EED080F2</gtr:id><gtr:title>A-priori Direct Numerical Simulation analysis of Flame Surface Density transport for turbulent stratified flames in the context of Reynolds Averaged Navier Stokes simulations</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/d0f91c6982a93aa6c496e093a2f066aa"><gtr:id>d0f91c6982a93aa6c496e093a2f066aa</gtr:id><gtr:otherNames>Sean Malkeson (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2011-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/92D377BB-AC73-48DE-9FD5-B08B9A05C116"><gtr:id>92D377BB-AC73-48DE-9FD5-B08B9A05C116</gtr:id><gtr:title>Statistical Analysis of Displacement Speed in Turbulent Stratified Flames: A Direct Numerical Simulation Study</gtr:title><gtr:parentPublicationTitle>Combustion Science and Technology</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/420f03b5f09e036294454537acd6d121"><gtr:id>420f03b5f09e036294454537acd6d121</gtr:id><gtr:otherNames>Malkeson S</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2010-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/7F240058-363A-4137-A4C6-75FB24C94B4D"><gtr:id>7F240058-363A-4137-A4C6-75FB24C94B4D</gtr:id><gtr:title>The Modeling of Fuel Mass Fraction Variance Transport in Turbulent Stratified Flames: A Direct Numerical Simulation Study</gtr:title><gtr:parentPublicationTitle>Numerical Heat Transfer, Part A: Applications</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/420f03b5f09e036294454537acd6d121"><gtr:id>420f03b5f09e036294454537acd6d121</gtr:id><gtr:otherNames>Malkeson S</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2010-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/D374BB77-7DFA-4442-AD5C-3107EE1690FF"><gtr:id>D374BB77-7DFA-4442-AD5C-3107EE1690FF</gtr:id><gtr:title>Microfluidics and Nanofluidics Handbook</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/4d4cd5b7282b95a33e56975e687babd1"><gtr:id>4d4cd5b7282b95a33e56975e687babd1</gtr:id><gtr:otherNames>Chakraborty N</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2011-01-01</gtr:date><gtr:isbn>978-1-4398-1676-9</gtr:isbn></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/EE949273-6013-47FD-A1F0-B7E29C208AD6"><gtr:id>EE949273-6013-47FD-A1F0-B7E29C208AD6</gtr:id><gtr:title>Statistics of cross-scalar dissipation rate based on reaction progress variable and mixture fraction for turbulent stratified flames: A DNS study</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/d0f91c6982a93aa6c496e093a2f066aa"><gtr:id>d0f91c6982a93aa6c496e093a2f066aa</gtr:id><gtr:otherNames>Sean Malkeson (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2011-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/013EA5AB-D967-4FFE-A4B1-55088C77037E"><gtr:id>013EA5AB-D967-4FFE-A4B1-55088C77037E</gtr:id><gtr:title>Statistical analysis of displacement speed in partially premixed flames using DNS</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/d0f91c6982a93aa6c496e093a2f066aa"><gtr:id>d0f91c6982a93aa6c496e093a2f066aa</gtr:id><gtr:otherNames>Sean Malkeson (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2009-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/EACDCE21-98B9-4DFB-8045-C73200212F9A"><gtr:id>EACDCE21-98B9-4DFB-8045-C73200212F9A</gtr:id><gtr:title>Statistical analysis of fuel mass fraction variance transport in turbulent partially-premixed flames: A Direct Numerical Simulation study</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/d0f91c6982a93aa6c496e093a2f066aa"><gtr:id>d0f91c6982a93aa6c496e093a2f066aa</gtr:id><gtr:otherNames>Sean Malkeson (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2010-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/D72806BA-4F7D-4771-8C38-3771F2072C97"><gtr:id>D72806BA-4F7D-4771-8C38-3771F2072C97</gtr:id><gtr:title>Effects of Lewis number on the scalar flux in Turbulent premixed Flames</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/3f7002096879deaa77e6c03734e8ac36"><gtr:id>3f7002096879deaa77e6c03734e8ac36</gtr:id><gtr:otherNames>Nilanjan Chakraborty (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2008-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/68A1091F-557B-4848-BBAE-2D39FFEF8065"><gtr:id>68A1091F-557B-4848-BBAE-2D39FFEF8065</gtr:id><gtr:title>Statistical Analysis of Scalar Dissipation Rate Transport in Turbulent Partially Premixed Flames: A Direct Numerical Simulation Study</gtr:title><gtr:parentPublicationTitle>Flow, Turbulence and Combustion</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/420f03b5f09e036294454537acd6d121"><gtr:id>420f03b5f09e036294454537acd6d121</gtr:id><gtr:otherNames>Malkeson S</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2010-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/FEE08AC5-D5AD-4327-B3A7-DD2E7CF1DE5A"><gtr:id>FEE08AC5-D5AD-4327-B3A7-DD2E7CF1DE5A</gtr:id><gtr:title>A priori assessment of closures for scalar dissipation rate transport in turbulent premixed flames using direct numerical simulation</gtr:title><gtr:parentPublicationTitle>Physics of Fluids</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/4d4cd5b7282b95a33e56975e687babd1"><gtr:id>4d4cd5b7282b95a33e56975e687babd1</gtr:id><gtr:otherNames>Chakraborty N</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2008-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/7C8EFE4E-E4E4-463E-86AD-1DF5E59863E8"><gtr:id>7C8EFE4E-E4E4-463E-86AD-1DF5E59863E8</gtr:id><gtr:title>Effects of Lewis number on turbulent scalar transport and its modelling in turbulent premixed flames</gtr:title><gtr:parentPublicationTitle>Combustion and Flame</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/4d4cd5b7282b95a33e56975e687babd1"><gtr:id>4d4cd5b7282b95a33e56975e687babd1</gtr:id><gtr:otherNames>Chakraborty N</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2009-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/619D4B4F-0294-4FD7-BF8D-206B6517FC6E"><gtr:id>619D4B4F-0294-4FD7-BF8D-206B6517FC6E</gtr:id><gtr:title>A PrioriDNS Modeling of the Turbulent Scalar Fluxes for Low Damk&amp;ouml;hler Number Stratified Flames</gtr:title><gtr:parentPublicationTitle>Combustion Science and Technology</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/420f03b5f09e036294454537acd6d121"><gtr:id>420f03b5f09e036294454537acd6d121</gtr:id><gtr:otherNames>Malkeson S</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/6DE8A060-FABD-4598-AF33-86E862F84CAA"><gtr:id>6DE8A060-FABD-4598-AF33-86E862F84CAA</gtr:id><gtr:title>Numerical investigation of edge flame propagation behaviour in an igniting turbulent planar jet</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/3f7002096879deaa77e6c03734e8ac36"><gtr:id>3f7002096879deaa77e6c03734e8ac36</gtr:id><gtr:otherNames>Nilanjan Chakraborty (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2009-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/36DA15EF-2A6C-468A-9027-445C0FC73A09"><gtr:id>36DA15EF-2A6C-468A-9027-445C0FC73A09</gtr:id><gtr:title>Numerical Investigation of Edge Flame Propagation Behavior in an Igniting Turbulent Planar Jet</gtr:title><gtr:parentPublicationTitle>Combustion Science and Technology</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/4d4cd5b7282b95a33e56975e687babd1"><gtr:id>4d4cd5b7282b95a33e56975e687babd1</gtr:id><gtr:otherNames>Chakraborty N</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2010-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/DD379548-DEB3-4F81-8709-6613C6D42E6E"><gtr:id>DD379548-DEB3-4F81-8709-6613C6D42E6E</gtr:id><gtr:title>Effects of Lewis number on scalar transport in turbulent premixed flames</gtr:title><gtr:parentPublicationTitle>Physics of Fluids</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/4d4cd5b7282b95a33e56975e687babd1"><gtr:id>4d4cd5b7282b95a33e56975e687babd1</gtr:id><gtr:otherNames>Chakraborty N</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2009-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/AA8EA737-CC1C-4C63-B0B9-27685404B746"><gtr:id>AA8EA737-CC1C-4C63-B0B9-27685404B746</gtr:id><gtr:title>Statistical analysis and modelling of turbulent fuel mass fraction flux in turbulent stratified flames using Direct Numerical Simulation data</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/d0f91c6982a93aa6c496e093a2f066aa"><gtr:id>d0f91c6982a93aa6c496e093a2f066aa</gtr:id><gtr:otherNames>Sean Malkeson (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2011-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/C3AE8C79-98A2-4007-9D0C-7579BAE63979"><gtr:id>C3AE8C79-98A2-4007-9D0C-7579BAE63979</gtr:id><gtr:title>Scalar Dissipation rate transport modelling of partially premixed flames using Direct Numerical Simulations (DNS)</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/d0f91c6982a93aa6c496e093a2f066aa"><gtr:id>d0f91c6982a93aa6c496e093a2f066aa</gtr:id><gtr:otherNames>Sean Malkeson (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2009-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/28B079DD-9962-40E2-82C1-2E3E0A3C9743"><gtr:id>28B079DD-9962-40E2-82C1-2E3E0A3C9743</gtr:id><gtr:title>Statistical Analysis and a-priori Modelling of Flame Surface Density Transport in Turbulent Stratified Flames: A Direct Numerical Simulation Study</gtr:title><gtr:parentPublicationTitle>Flow, Turbulence and Combustion</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/420f03b5f09e036294454537acd6d121"><gtr:id>420f03b5f09e036294454537acd6d121</gtr:id><gtr:otherNames>Malkeson S</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/BF9768E0-8635-4B22-9709-B6C5A804BE86"><gtr:id>BF9768E0-8635-4B22-9709-B6C5A804BE86</gtr:id><gtr:title>Physical Insight and Modelling for Lewis Number Effects on Turbulent Heat and Mass Transport in Turbulent Premixed Flames</gtr:title><gtr:parentPublicationTitle>Numerical Heat Transfer, Part A: Applications</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/4d4cd5b7282b95a33e56975e687babd1"><gtr:id>4d4cd5b7282b95a33e56975e687babd1</gtr:id><gtr:otherNames>Chakraborty N</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2009-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/50AFF6E2-67F4-4A6A-94C3-4D38B71AA2D4"><gtr:id>50AFF6E2-67F4-4A6A-94C3-4D38B71AA2D4</gtr:id><gtr:title>A-priori DNS modelling of co-variance transport in turbulent stratified flames</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/d0f91c6982a93aa6c496e093a2f066aa"><gtr:id>d0f91c6982a93aa6c496e093a2f066aa</gtr:id><gtr:otherNames>Sean Malkeson (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2011-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/AED8DD4D-6F5F-473C-AD2D-70B4BCE40B10"><gtr:id>AED8DD4D-6F5F-473C-AD2D-70B4BCE40B10</gtr:id><gtr:title>Numerical investigation of localised forced ignition of quiescent globally stoichiometric stratified mixture</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/d0f91c6982a93aa6c496e093a2f066aa"><gtr:id>d0f91c6982a93aa6c496e093a2f066aa</gtr:id><gtr:otherNames>Sean Malkeson (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2011-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/BBBD26D3-7689-406C-9730-281252F1F604"><gtr:id>BBBD26D3-7689-406C-9730-281252F1F604</gtr:id><gtr:title>Effects of Lewis number on the reactive scalar gradient alignment with local strain rate in turbulent premixed flames</gtr:title><gtr:parentPublicationTitle>Proceedings of the Combustion Institute</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/4d4cd5b7282b95a33e56975e687babd1"><gtr:id>4d4cd5b7282b95a33e56975e687babd1</gtr:id><gtr:otherNames>Chakraborty N</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2009-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/E8D4017C-4AA8-4065-859F-AE4955ECA599"><gtr:id>E8D4017C-4AA8-4065-859F-AE4955ECA599</gtr:id><gtr:title>Analysis of Scalar Dissipation rate transport in combusting stratified charge mixtures using Direct Numerical Simulations</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/d0f91c6982a93aa6c496e093a2f066aa"><gtr:id>d0f91c6982a93aa6c496e093a2f066aa</gtr:id><gtr:otherNames>Sean Malkeson (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2008-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/AE70A136-8D01-49CB-9C05-5959D68046C0"><gtr:id>AE70A136-8D01-49CB-9C05-5959D68046C0</gtr:id><gtr:title>Displacement Speed Statistics for Stratified Mixture Combustion in an Igniting Turbulent Planar Jet</gtr:title><gtr:parentPublicationTitle>Journal of Engineering for Gas Turbines and Power</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/5ecb1968fe79f2cb1852309451e28b00"><gtr:id>5ecb1968fe79f2cb1852309451e28b00</gtr:id><gtr:otherNames>Hesse H</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/50F1B4B0-043B-4A9F-B28E-86272585A7B1"><gtr:id>50F1B4B0-043B-4A9F-B28E-86272585A7B1</gtr:id><gtr:title>Modelling of the tangential strain rate term of the Flame Surface Density transport equation in the context of Reynolds Averaged Navier-Stokes simulation</gtr:title><gtr:parentPublicationTitle>Proceedings of the Combustion Institute</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/c9cc74f95ecef4b76a42291c72ebda10"><gtr:id>c9cc74f95ecef4b76a42291c72ebda10</gtr:id><gtr:otherNames>Katragadda M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2011-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/93C1DB8A-0502-4B17-9D5F-51F30F5F77A4"><gtr:id>93C1DB8A-0502-4B17-9D5F-51F30F5F77A4</gtr:id><gtr:title>Alignment statistics of active and passive scalar gradients in turbulent stratified flames.</gtr:title><gtr:parentPublicationTitle>Physical review. E, Statistical, nonlinear, and soft matter physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/b0b6ae83f5a6a6806269583597e36fbd"><gtr:id>b0b6ae83f5a6a6806269583597e36fbd</gtr:id><gtr:otherNames>Malkeson SP</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2011-01-01</gtr:date><gtr:issn>1539-3755</gtr:issn></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/4E7E30E1-13F5-48FF-97CE-6E50DDAEBA58"><gtr:id>4E7E30E1-13F5-48FF-97CE-6E50DDAEBA58</gtr:id><gtr:title>A Priori Direct Numerical Simulation Assessment of Algebraic Models of Variances and Dissipation Rates in the Context of Reynolds-Averaged Navier-Stokes Simulations for Low Damk&amp;ouml;hler Number Partially Premixed Combustion</gtr:title><gtr:parentPublicationTitle>Combustion Science and Technology</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/420f03b5f09e036294454537acd6d121"><gtr:id>420f03b5f09e036294454537acd6d121</gtr:id><gtr:otherNames>Malkeson S</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2010-01-01</gtr:date></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">EP/E026516/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>772CD758-53CD-407F-9B2C-F2B861E86155</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Mechanical Engineering</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>3C7829C5-FA2A-4084-834D-56F41F83E977</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Combustion</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

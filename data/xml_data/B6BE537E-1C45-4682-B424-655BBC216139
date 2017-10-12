@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/81C0D5F5-ADD3-42B8-8A94-CDA9CA4D6D56"><gtr:id>81C0D5F5-ADD3-42B8-8A94-CDA9CA4D6D56</gtr:id><gtr:name>Interuniversity Micro-Electronics Centre (IMEC)</gtr:name></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/A0A585E0-6B0D-4643-A3A6-47943B4CBFEF"><gtr:id>A0A585E0-6B0D-4643-A3A6-47943B4CBFEF</gtr:id><gtr:name>University of Liverpool</gtr:name><gtr:address><gtr:line1>Senate House</gtr:line1><gtr:line2>Abercromby Square</gtr:line2><gtr:line4>Liverpool</gtr:line4><gtr:postCode>L69 3BX</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/D1774113-D5D2-4B7C-A412-66A90FE4B96F"><gtr:id>D1774113-D5D2-4B7C-A412-66A90FE4B96F</gtr:id><gtr:name>University of Cambridge</gtr:name><gtr:address><gtr:line1>Lensfield Road</gtr:line1><gtr:line4>Cambridge</gtr:line4><gtr:postCode>CB2 1EW</gtr:postCode><gtr:region>East of England</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator></gtr:collaborations><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/772A1E12-7175-46C0-B665-CE27930D15A8"><gtr:id>772A1E12-7175-46C0-B665-CE27930D15A8</gtr:id><gtr:name>Liverpool John Moores University</gtr:name><gtr:department>Engineering Tech and Maritime Operations</gtr:department><gtr:address><gtr:line1>Egerton Court</gtr:line1><gtr:line2>No 2 Rodney Street</gtr:line2><gtr:line4>Liverpool</gtr:line4><gtr:postCode>L3 5UX</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/772A1E12-7175-46C0-B665-CE27930D15A8"><gtr:id>772A1E12-7175-46C0-B665-CE27930D15A8</gtr:id><gtr:name>Liverpool John Moores University</gtr:name><gtr:address><gtr:line1>Egerton Court</gtr:line1><gtr:line2>No 2 Rodney Street</gtr:line2><gtr:line4>Liverpool</gtr:line4><gtr:postCode>L3 5UX</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/81C0D5F5-ADD3-42B8-8A94-CDA9CA4D6D56"><gtr:id>81C0D5F5-ADD3-42B8-8A94-CDA9CA4D6D56</gtr:id><gtr:name>Interuniversity Micro-Electronics Centre (IMEC)</gtr:name><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/A0A585E0-6B0D-4643-A3A6-47943B4CBFEF"><gtr:id>A0A585E0-6B0D-4643-A3A6-47943B4CBFEF</gtr:id><gtr:name>University of Liverpool</gtr:name><gtr:address><gtr:line1>Senate House</gtr:line1><gtr:line2>Abercromby Square</gtr:line2><gtr:line4>Liverpool</gtr:line4><gtr:postCode>L69 3BX</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/D1774113-D5D2-4B7C-A412-66A90FE4B96F"><gtr:id>D1774113-D5D2-4B7C-A412-66A90FE4B96F</gtr:id><gtr:name>University of Cambridge</gtr:name><gtr:address><gtr:line1>Lensfield Road</gtr:line1><gtr:line4>Cambridge</gtr:line4><gtr:postCode>CB2 1EW</gtr:postCode><gtr:region>East of England</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/7B9379FD-8077-484A-9FEE-CBA754267298"><gtr:id>7B9379FD-8077-484A-9FEE-CBA754267298</gtr:id><gtr:firstName>Jian</gtr:firstName><gtr:surname>Zhang</gtr:surname><gtr:orcidId>0000-0003-4987-6428</gtr:orcidId><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/D9B9022D-69D1-4D6A-ADE2-800814D41786"><gtr:id>D9B9022D-69D1-4D6A-ADE2-800814D41786</gtr:id><gtr:firstName>Weidong</gtr:firstName><gtr:surname>Zhang</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=EP%2FM006727%2F1"><gtr:id>B6BE537E-1C45-4682-B424-655BBC216139</gtr:id><gtr:title>Mechanisms and Control of Resistive Switching in Dielectrics</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/M006727/1</gtr:grantReference><gtr:abstractText>So-called &amp;quot;resistive-switching&amp;quot; devices are based on nanostructured dielectric materials, in which the resistance can be varied and memorised. Arguably these devices will lead to a range of disruptive technologies in the field of infromation storage over the next 20 years. Potentially these non-volatile resistive-switching devices can have potentially high speeds, high densities, long retention times and high endurance which will drastically enhance the performance of non-volatile memories and also revolutionise the computer architectures. This research sets out to understand the property - process - structure relationships of oxide dielectrics with programmable resistance. A combination of modelling, synthesis and characterisation will be used to advance the understanding of defects in oxide materials and their control. The aims of the proposed research are to elucidate the nature and mechanisms of the formation and migration of the defects and to explore ways to control and enhance their electrical properties for resistive-switching applications. 
+
+The global market for memory devices amounts to more than $57 billion and has been projected to grow to $99 billion by 2015. Within this market, a number of existing memory technologies, (DRAM, SRAM, and NAND Flash) have inherent scaling issues to overcome beyond the next generation. The search for alternative solutions is gaining momentum and an alternative candidate is Resistive RAM which exploits the resistive-switching mechanism. The UK Electronic Systems Community employs more than 850,000 people, which constitutes approximately 3% of the UK workforce. Approximately half of this employment is found in the 30,000 enterprises whose business is overtly the provision of Electronic Systems and the technologies and capabilities they need. The rest are within businesses that occupy market sectors spanning aerospace, defence, healthcare, retail, media and education. The potential impact of this project will be the development of a new manufacturing process technology, which will have applications across these sectors in the UK. The impact in terms of new materials, chemistry, products and processes will be significant if the projeproposed objectives are realised.</gtr:abstractText><gtr:fund><gtr:end>2018-02-25</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2015-02-26</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>350015</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Cambridge</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:department>Department of Engineering</gtr:department><gtr:description>UK Dielectric Consortium</gtr:description><gtr:id>31B23928-7390-4D69-92B4-0DBDBAA4D1C9</gtr:id><gtr:impact>A paper has been submitted to the flagship conference IEEE VLSI Technology Symposium 2016, and the technique has been taken up by industrial partners at imec. 
+Two posters and one presentation have been delivered at the IMEC technology review to the industrial partners.</gtr:impact><gtr:partnerContribution>The partners have complementary strengths on the modelling, synthesis and characterisation of dielectric thin film: University of Cambridge on theory and simulation of defects in oxides and their electronic properties; University of Liverpool in the field of thin film material deposition and analysis; Liverpool John Moores University in the assessment of reliability and characterisation. A combination of modelling and simulation has been used at UoC to identify combinations of materials and the influence of their defect structures on key resistive switching parameters. The candidate material systems identified has been fabricated using ALD and other manufacturing processes at UoL. These have been characterised using a range of physic-chemical-electrical analytical methods to correlate their microstructures with the modelling data and the electrical performance of resistive switching devices. IMEC has provided state-of-the-art RRAM devices to LJMU, and new techniques has been developed at LJMU, which has been taken up by industrial partner at IMEC, including Intel, Samsung and Micron.</gtr:partnerContribution><gtr:piContribution>The team at LJMU has focused in the past 20 years and in five EPSRC grants on developing new techniques for characterising defects in dielectric stacks, including HfO2 and Al2O3. A number of new techniques have been developed, such as the fast single pulse, multiple-pulse, on-the-fly techniques, etc. Systematic investigation has been carried out and new technique has been developed for the resistive-switching RRAM devices. A paper has been submitted to the flagship conference IEEE VLSI Technology Symposium 2016, and the technique has been taken up by industrial partners at imec.</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2015-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>Interuniversity Micro-Electronics Centre (IMEC)</gtr:collaboratingOrganisation><gtr:country>Belgium, Kingdom of</gtr:country><gtr:description>UK Dielectric Consortium</gtr:description><gtr:id>09688575-58CE-4B4D-A765-4744EF448AB4</gtr:id><gtr:impact>A paper has been submitted to the flagship conference IEEE VLSI Technology Symposium 2016, and the technique has been taken up by industrial partners at imec. 
+Two posters and one presentation have been delivered at the IMEC technology review to the industrial partners.</gtr:impact><gtr:partnerContribution>The partners have complementary strengths on the modelling, synthesis and characterisation of dielectric thin film: University of Cambridge on theory and simulation of defects in oxides and their electronic properties; University of Liverpool in the field of thin film material deposition and analysis; Liverpool John Moores University in the assessment of reliability and characterisation. A combination of modelling and simulation has been used at UoC to identify combinations of materials and the influence of their defect structures on key resistive switching parameters. The candidate material systems identified has been fabricated using ALD and other manufacturing processes at UoL. These have been characterised using a range of physic-chemical-electrical analytical methods to correlate their microstructures with the modelling data and the electrical performance of resistive switching devices. IMEC has provided state-of-the-art RRAM devices to LJMU, and new techniques has been developed at LJMU, which has been taken up by industrial partner at IMEC, including Intel, Samsung and Micron.</gtr:partnerContribution><gtr:piContribution>The team at LJMU has focused in the past 20 years and in five EPSRC grants on developing new techniques for characterising defects in dielectric stacks, including HfO2 and Al2O3. A number of new techniques have been developed, such as the fast single pulse, multiple-pulse, on-the-fly techniques, etc. Systematic investigation has been carried out and new technique has been developed for the resistive-switching RRAM devices. A paper has been submitted to the flagship conference IEEE VLSI Technology Symposium 2016, and the technique has been taken up by industrial partners at imec.</gtr:piContribution><gtr:sector>Multiple</gtr:sector><gtr:start>2015-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Liverpool</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:department>Department of Electrical Engineering and Electronics</gtr:department><gtr:description>UK Dielectric Consortium</gtr:description><gtr:id>F2B4039D-B4D4-49DD-B380-9D0B1B659B24</gtr:id><gtr:impact>A paper has been submitted to the flagship conference IEEE VLSI Technology Symposium 2016, and the technique has been taken up by industrial partners at imec. 
+Two posters and one presentation have been delivered at the IMEC technology review to the industrial partners.</gtr:impact><gtr:partnerContribution>The partners have complementary strengths on the modelling, synthesis and characterisation of dielectric thin film: University of Cambridge on theory and simulation of defects in oxides and their electronic properties; University of Liverpool in the field of thin film material deposition and analysis; Liverpool John Moores University in the assessment of reliability and characterisation. A combination of modelling and simulation has been used at UoC to identify combinations of materials and the influence of their defect structures on key resistive switching parameters. The candidate material systems identified has been fabricated using ALD and other manufacturing processes at UoL. These have been characterised using a range of physic-chemical-electrical analytical methods to correlate their microstructures with the modelling data and the electrical performance of resistive switching devices. IMEC has provided state-of-the-art RRAM devices to LJMU, and new techniques has been developed at LJMU, which has been taken up by industrial partner at IMEC, including Intel, Samsung and Micron.</gtr:partnerContribution><gtr:piContribution>The team at LJMU has focused in the past 20 years and in five EPSRC grants on developing new techniques for characterising defects in dielectric stacks, including HfO2 and Al2O3. A number of new techniques have been developed, such as the fast single pulse, multiple-pulse, on-the-fly techniques, etc. Systematic investigation has been carried out and new technique has been developed for the resistive-switching RRAM devices. A paper has been submitted to the flagship conference IEEE VLSI Technology Symposium 2016, and the technique has been taken up by industrial partners at imec.</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2015-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>Interuniversity Micro-Electronics Centre (IMEC)</gtr:collaboratingOrganisation><gtr:country>Belgium, Kingdom of</gtr:country><gtr:description>IMEC memory consortium, Belgium</gtr:description><gtr:id>7CE353E5-4E94-49B4-8A5D-89B930C04F02</gtr:id><gtr:impact>In 2016, a paper has been submitted to VLSI Technology. A submission to IEEE Electron Device Letters is under preparation.
+
+Memory: 
+
+1. Z. Chai , J. Ma, W. Zhang, B. Govoreanu, E. Simoen, J. F. Zhang, Z. Ji, G. Groeseneken, 
+ M. Jurczak, 
+ &amp;quot;RTN-based defect tracking technique: experimentally probing the spatial and energy profile of the 
+ critical filament region and its correlation with HfO2 RRAM switching operation and failure 
+ mechanism,&amp;quot;
+ Submission to IEEE VLSI Tech. Symposium 2016.
+
+2. B. J. Tang, W. Zhang, J. F. Zhang, G. Van den bosch, B. Govoreanu, J. Van Houdt
+ &amp;quot;Abnormal VTH/VFB shift caused by as-grown mobile charges in Al2O3 and its impacts on Flash 
+ memory cell operations&amp;quot;
+ Technical Digest of the International Electron Devices Meeting (IEDM), pp. 219-222, Washington 
+ DC, Dec. 5-7, 2011.
+
+3. X. F. Zheng, W. D. Zhang, B. Govoreanu, J. F. Zhang, and J, Van Houdt
+ &amp;quot;A discharge-based multi-pulse technique (DMP) for probing electron trap energy distribution in 
+ high-k materials for flash memory application&amp;quot;
+ Technical Digest of the International Electron Devices Meeting (IEDM), pp.139-142, Baltimore, 
+ Dec. 7-9, 2009.
+
+Logic: 
+
+4. Ma J, Zhang W, Zhang JF, JI Z, Benbakhti B, Franco J, Mitard J, Witters L, Collaert N, Groeseneken G
+ &amp;quot;AC NBTI of Ge pMOSFETs: Impact of Energy Alternating Defects on Lifetime Prediction&amp;quot;
+ IEEE VLSI Technology Symposium: June 2015: 4.1-4.2
+
+5. Duan M, Zhang JF, Manut A, Ji Z, Zhang W, Asenov A, Gerrer L, Reid D, Razaidi H, Vigar D, 
+ Chandra V, Aitken R, Kaczer B, Groeseneken G. 
+ &amp;quot;Hot carrier aging and its variation under use-bias: kinetics, prediction, impact on Vdd and SRAM&amp;quot; 
+ IEEE International Electron Devices Meeting (IEDM), IEDM, December 2015.
+
+6. Ji Z, Zhang J, Lin , Duan , Zhang W, Zhang X, Gao R, Kaczer B, Franco J, Schram T, Horiguchi N, De Gendt S, Groeseneken G. 
+ &amp;quot;A test-proven As-grown-Generation (A-G) model for predicting NBTI under use-bias&amp;quot;
+ IEEE VLSI Technology Symposium, June 2015: 4.3-4.4
+
+7. Ji Z, Zhang X, Gao R, Zhang JF, Zhang W, Linten D, Boschke R, Hellings G, Chen SH, Alian A, Zhou D, Mols Y, Ivanov T, Franco J, Kaczer B, Collaert N, Groeseneken G. 
+ &amp;quot;ESD characterization of planar InGaAs devices&amp;quot; 
+ IEEE International Reliability Physics Symposium Proceedings (IRPS), 2015-May :3F11-3F17
+
+8. Ma J, Zhang W, Zhang JF, Benbakhti B, Ji Z, Mitard J, Franco J, Kaczer B, Groeseneken G
+ &amp;quot;NBTI of Ge pMOSFETs: Understanding defects and enabling lifetime prediction&amp;quot;
+ IEEE International Electron Devices Meeting (IEDM), December 2014: 34.2.1-34.2.
+
+9. M. Duan, J. F. Zhang, Z. Ji, W. Zhang, B. Kaczer, T. Schram, R. Ritzenthaler, A. Thean, G. 
+ Groeseneken, and A. Asenov
+ &amp;quot;Time-dependent variation: A new defect-based prediction methodology,&amp;quot;
+ IEEE VLSI Technology Symposium., pp.74-75, Honolulu, June 2014.
+
+10 . Ji, Z; Zhang, J.F. ; Zhang, W. ; Zhang, X. ; Kaczer, B. ; De Gendt, S. ; Groeseneken, G. ; Ren, P. ; 
+ Wang, R. ; Huang, R.
+ &amp;quot;A single device based voltage step stress (VSS) technique for fast reliability screening&amp;quot;
+ IEEE International Reliability Physics Symposium Proceedings (IRPS), 2014-May 
+
+11. M. Duan, J. F. Zhang, Z. Ji, J. G. Ma, W. Zhang, B. Kaczer, T. Schram, R. Ritzenthaler, G. 
+ Groeseneken, and A. Asenov
+ &amp;quot;Key issues and techniques for characterizing Time-dependent Device-to-Device Variation of 
+ SRAM,&amp;quot;
+ Technical Digest of the International Electron Devices Meeting (IEDM), pp. 774-777, 
+ Washington, DC, Dec. 9-11, 2013.
+
+12. Z. Ji, S. F. W. M. Hatta, J. F. Zhang, J. G. Ma, W. Zhang, N. Soin, B. Kaczer, S. De Gendt, 
+ and G. Groeseneken
+ &amp;quot;Negative Bias Temperature Instability Lifetime Prediction: Problems and Solutions,&amp;quot;
+ Technical Digest of the International Electron Devices Meeting (IEDM), pp. 413-416, Washington 
+ DC, Dec. 9-11, 2013.
+
+
+
+Publications in Tier 1 Journals: TED, EDL, APL
+Memory: 
+
+1. B. Tang, W. Zhang, M. Toledano-Luque, J. F. Zhang, R. Degraeve, Z. Ji, A. Arreghini, G. Van 
+ den Bosch, and J. Van Houdt
+ &amp;quot;Experimental Evidence Toward Understanding Charge Pumping Signals in 3-D Devices With 
+ Poly-Si Channel,&amp;quot;
+ IEEE Trans. Electron Dev., Vol. 61, No. 5, pp. 1501-1507, 2014. 
+
+2. B. Tang, W. D. Zhang, R. Degraeve, L. Breuil, P. Blomme, J. F. Zhang, Z. Ji, M. Zahid, M. 
+ Toledano-Luque, G. Van den Bosch, and J. Van Houdt, 
+ &amp;quot;Evaluation and Solutions for P/E Window Instability Induced by Electron Trapping in High-? 
+ Intergate Dielectrics of Flash Memory Cells,&amp;quot;
+ IEEE Trans. Electron Dev., Vol. 61, No. 5, pp. 1299-1306, 2014.
+
+3. B. Tang, C. Robinson, W. D. Zhang, J. F. Zhang, R. Degraeve, P. Blomme, M. Toledano-Luque, 
+ G. Van den bosch, B. Govoreanu, J. Van Houdt
+ &amp;quot;Read and pass disturbance in the programmed states of floating gate flash memory cells with 
+ high-k interpoly gate dielectric stacks,&amp;quot;
+ IEEE Trans. Electron Dev., Vol. 60, No. 7, pp. 2261-2267, 2013.
+
+4. B.J.Tang, W.D.Zhang, J.F.Zhang, G. van den Bosch, M. Toledano-Luque, B. Govoreanu, J. van 
+ Houdt 
+ &amp;quot;Investigation of abnormal VTH/VFB shifts under operating conditions in Flash memory cells 
+ With Al2O3 high-? gate stacks&amp;quot;
+ IEEE Trans. Electron Dev., Vol. 59, No. 7, pp. 1870-1877, 2012.
+
+5. X. F. Zheng, C. Robinson, W. D. Zhang, J. F. Zhang, B. Govoreanu, and J. Van Houdt
+ &amp;quot;Electron trapping in HfAlO high-k stack for flash memory applications: An origin of Vth 
+ window closure during cycling operations&amp;quot;
+ IEEE Trans. Electron Dev., vol. 58, No.5, pp. 1344-1351, 2011.
+
+
+6. X. F. Zheng, W. D. Zhang, B. Govoreanu, J. F. Zhang, and J. Van Houdt
+ &amp;quot;A new multipulse technique for probing electron trap energy distribution in high-k materials for 
+ flash memory application&amp;quot;
+ IEEE Trans. Electron Dev., vol. 57, No.10, pp. 2484-2492, 2010.
+
+7. X. F. Zheng, W. D. Zhang, B. Govoreanu, D. R. Aguado, J. F. Zhang, and J. Van Houdt
+ &amp;quot;Energy and spatial distributions of electron traps throughout SiO2/Al2O3 stacks as the IPD in 
+ Flash memory Application&amp;quot;
+ IEEE Trans. Electron Dev., vol. 57, No.1, pp. 288-296, 2010.
+
+8. D. Ruiz Aguado, B. Govoreanu, W. D. Zhang, M. Jurczak, K. De Meyer, J. van Houdt 
+ &amp;quot;A novel trapping/detrapping model for defect profiling in high-k materials using the two-pulse capacitance-voltage technique,&amp;quot; 
+ IEEE Transactions on Electron Devices, vol. 57, No. 10, pp.2726-2735, 2010. 
+
+9. W. D. Zhang, B. Govoreanu, X. F. Zheng, D. Ruiz Aguado, M. Rosmeulen, P. Blomme, J. F. 
+ Zhang, and J. Van Houdt, 
+ &amp;quot;Two-pulse C-V: A new method for characterizing electron traps in the bulk of SiO2/high-k 
+ dielectric stacks,&amp;quot;
+ IEEE Electron Device Letters, vol. 29, pp.1043-1046, 2008. 
+
+Logic:
+
+10. Ji Z, Zhang X, Gao R, Duan M, Zhang JF, Zhang W, Franco J, Kaczer B, Alian A, Linten D, Zhou 
+ D, Collaert N, De Gendt S, Groeseneken G.
+ &amp;quot;An Investigation on Border Traps in III-V MOSFETs With an InGaAs Channel&amp;quot;
+ IEEE Transactions on Electron Devices, 62 :3633-3639, 2015
+
+11. M. Duan, J. F. Zhang, Z. Ji, W. D. Zhang, B. Kaczer, T. Schram, R. Ritzenthaler, G. 
+ Groeseneken, and A. Asenov
+ &amp;quot;Development of a Technique for Characterizing Bias Temperature Instability-Induced Device-to-
+ Device Variation at SRAM-Relevant Conditions,&amp;quot;
+ IEEE Trans. Electron Dev., Vol. 61, No. 9, pp. 3081-3089, 2014.
+
+12. J. Ma, J. F. Zhang, Z. Ji, B. Benbakhti, W. D. Zhang, X. F. Zheng, J. Mitard, B. Kaczer, G. 
+ Groeseneken, S. Hall, J. Robertson, and P. R. Chalker
+ &amp;quot;Characterization of Negative-Bias Temperature Instability of Ge MOSFETs With GeO2/Al2O3 
+ Stack,&amp;quot;
+ IEEE Trans. Electron Dev., Vol. 61, No. 5, pp. 1307-1315, 2014.
+
+13. J. Ma, J. F. Zhang, Z. Ji, B. Benbakhti, W. Zhang, J. Mitard, B. Kaczer, G. Groeseneken, S. Hall, 
+ J. Robertson, and P. Chalker
+ &amp;quot;Energy Distribution of Positive Charges in Al2O3/GeO2/Ge pMOSFETs&amp;quot;
+ IEEE Elec. Dev. Lett., Vol. 35, No. 2, pp.162-164, 2014.
+
+14. M. Duan, J. F. Zhang, Z. Ji, W. Zhang, B. Kaczer, T. Schram, R. Ritzenthaler, G. Groeseneken, 
+ and A. Asenov
+ &amp;quot;New analysis method for time-dependent device-to-device variation accounting for within-device 
+ fluctuation&amp;quot;
+ IEEE Trans. Electron Dev., Vol. 60, No. 8, pp. 2505-2511, 2013.
+
+15. S. F. Wan Muhamad Hatta, Z. Ji, J. F. Zhang, M. Duan, W. Zhang, N. Soin, B. Kaczer, S. De 
+ Gendt, and G. Groeseneken
+ &amp;quot;Energy distribution of positive charges in gate dielectric: probing technique and impacts of 
+ different defects&amp;quot;
+ IEEE Trans. Electron Dev., Vol. 60, No. 5, pp. 1745-1753, 2013.
+
+16. M. Duan, J. F. Zhang, Z. Ji, W. Zhang, B. Kaczer, S. De Gendt, and G. Groeseneken,
+ &amp;quot;New insights into defect loss, slowdown, and device lifetime enhancement,&amp;quot; 
+ IEEE Trans. Electron Dev., Vol. 60, No. 1, pp. 413-419, 2013.
+
+17. B. Benbakhti, J. F. Zhang, Z. Ji, W. Zhang, J. Mitard, B. Kaczer, G. Groeseneken, S. Hall,J. 
+ Robertson, and P. Chalker,
+ &amp;quot;Characterization of Electron Traps in Si-capped Ge MOSFETs with HfO2/SiO2 Gate Stack&amp;quot;
+ IEEE Electron Dev. Lett., vol. 33, No. 12, pp.1681-1683, 2012.
+
+18. M. Duan, J. F. Zhang, Z. Ji, W. Zhang, B. Kaczer, S. De Gendt, and G. Groeseneken,
+ &amp;quot;Defect loss: A new concept for reliability of MOSFETs,&amp;quot; 
+ IEEE Electron Dev. Lett., vol. 33, No. 4, pp.480-482, 2012.
+
+19. Z. Ji, J. F. Zhang, W. Zhang, B. Kaczer, S. De Gendt, and G. Groeseneken
+ &amp;quot;Interface states beyond band gap and their impact on charge carrier mobility in 
+ MOSFETs,&amp;quot;
+ IEEE Trans. Electron Dev., vol. 59, No.3, pp. 783-790, 2012.
+
+20. L. Lin, Z. Ji, J. F. Zhang, W. D. Zhang, B. Kaczer, S. De Gendt, and G. Groeseneken
+ &amp;quot;A single pulse charge pumping technique for fast measurements of interface states,&amp;quot;
+ IEEE Trans. Electron Dev., vol. 58, No.5, pp. 1490-1498, 2011.
+
+21. Z. Ji, L. Lin, J. F. Zhang, B. Kaczer, and G. Groeseneken
+ &amp;quot;NBTI lifetime prediction and kinetics at operation bias based on ultrafast pulse measurement&amp;quot;
+ IEEE Trans. Electron Dev., vol. 57, No.1, pp. 228-237, 2010.
+
+22. Z. Ji, J. F. Zhang, W. Zhang, G. Groeseneken L. Pantisano, S. De Gendt, M. M. Heyns
+ &amp;quot;An assessment of the mobility degradation induced by remote charge scattering&amp;quot;
+ Applied Phys. Lett., vol. 95, No. 26, Art. No. 263502, 2009.</gtr:impact><gtr:partnerContribution>IMEC Industrial Affiliation Program is a world-leading consortium including virtually all of the top semiconductor manufacturers among its core technology partners (eg Intel, Samsung, Micron Technology, Hynix, STMicroelectronics, NXP Semiconductors, and Toshiba, etc.) as well as most of the major capital equipment developers and manufacturers. Partners delegate senior industrial researchers to IMEC to carry out joint research using best in-class equipment within IMEC's 300mm clean room infrastructure to solve the most important issues commonly faced by the industry. 
+
+The collaborative agreement officially signed by LJMU and IMEC takes the advantage of this program, which allows us to work closely with these partners throughout the project. This provides a unique and most effective path to disseminate the research results directly to the major industrial companies, and ensures the project to work at the front line of research and development of resistive switching devices. For example, 
+1) The project will be steered by researchers from the industrial consortium at IMEC to ensure its industrial relevance; 
+2) The 300k Euro worth of samples provided by IMEC are manufactured to the highest standard according to industrial partners' requirements in order to investigate issues of major concerns; 
+3) A LJMU PhD student will be trained at IMEC for 6 months each year and participate in the weekly meeting at IMEC. His progress will be closely monitored. This will provide a direct channel for collaboration between the present project team and IMEC consortium; 
+4) The IP-irrelevant results can be disseminated directly to the core industrial partners through these meetings and feedbacks are received directly from the partners. In these meetings the potential applications of new theory and characterisation techniques are discussed and taken up by partners. 
+5) Senior managerial and technical members of partners participate the review week held twice every year at IMEC, during which the latest development will be presented and disseminated to the senior level, and will have direct impact on the research and development decision making. 
+
+Four of the world top five semiconductor manufacturers in 2013, Intel (1st), Samsung (2nd), Micron (4th) and Hynix (5th), are members of the IMEC consortium and are working together on the resistive switching device programme. The fact that IMEC is willing to provide a wide range of support and become the project partner and Micron and Samsung are willing to endorse the project and become the members of the steering panel demonstrate the importance of the issues addressed in this project to the global industry, and their recognition of the project team's ability to make major breakthrough. On this basis, it is clear that the project will have an international reach and will strengthen the link between UK and world leading companies. The results will provide important support to the modelling, manufacturing, quality assessment, and reliability sections of the industry, and provide the possibility to greatly enhance its technological and scientific impact</gtr:partnerContribution><gtr:piContribution>A LJMU PhD student will be trained at IMEC for 6 months each year and participate in the weekly meeting at IMEC. His progress will be closely monitored. This will provide a direct channel for collaboration between the present project team and IMEC consortium;</gtr:piContribution><gtr:sector>Multiple</gtr:sector><gtr:start>2015-01-01</gtr:start></gtr:collaborationOutput></gtr:collaborationOutputs><gtr:disseminationOutputs><gtr:disseminationOutput><gtr:description>Workshop</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>88D1DB64-1606-49EA-8EEF-D32E02CF9D96</gtr:id><gtr:impact>A invited talk at Stanford University during the &amp;quot;Stanford-imec RRAM Workshop&amp;quot;, which has over 100 audience including the top scientists around world in this field from universities and industry.</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Industry/Business</gtr:primaryAudience><gtr:url>https://nmtri.stanford.edu/RRAM2016</gtr:url><gtr:year>2016</gtr:year></gtr:disseminationOutput></gtr:disseminationOutputs><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs><gtr:impactSummaryOutput><gtr:description>Resistive-switching devices are based on materials in which the resistance can be varied and memorized by controlling the flow of electric charge in thin dielectric layers. These devices will lead to a range of disruptive inventions and the technology is expected to become one of the major driving forces to overcome the scaling limits at the end of roadmap, supporting the ICT industry for the next 20 years, which has opened multiple revolutionary frontiers for ICT industry.
+
+The non-volatile resistive-switching devices have high speed (ns), high density (4F2), long retention (10 years), high endurance and 3D integration, therefore will not only drastically enhance the performance of non-volatile memories, but will also revolutionize computer architecture. Its simple structure, low cost and 3D compatibility with back-end of line processing warranty its system-on-chip application which can be embedded within the CPU. It also has a high potential to replace DRAM, Flash memory and HDD all together for its fast speed (DRAM), non-volatile memory (Flash) and high capacity (HDD), as referred to the &amp;quot;Storage Class Memory (SCM)&amp;quot;. This offers a host of new opportunities to system designers, opening up the possibilities for ultra-fast operation with truly persistent data, providing a significant increase in information throughput beyond the traditional benefits of scaling. It can also provide nano-sized, programmable multi-level variable resistance for a number of analogue applications including neuromorphic computing system in which its nonlinear dynamics can be used as synapses/neurons, a breakthrough for artificial intelligence computing. Its disruptive impacts on ICT industry are widely predicted.</gtr:description><gtr:id>3B8DF5AF-09C1-4C91-99B3-E10603F395D9</gtr:id><gtr:impactTypes><gtr:impactType>Economic</gtr:impactType></gtr:impactTypes><gtr:sector>Digital/Communication/Information Technologies (including Software),Electronics,Manufacturing, including Industrial Biotechology</gtr:sector></gtr:impactSummaryOutput></gtr:impactSummaryOutputs><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>RRAMs are strong candidates for new generations memory technology. Filament rupture/restoration induced by movement of defects, e.g. oxygen ions/vacancies (Vo), is considered the switching mechanism in HfO2 RRAM. However, details of filament alteration during switching are still speculative, due to lack of experiment-based probing techniques to directly monitor its spatial and energy profiles and to correlate them with the switching/failure mechanism, impeding its understanding and modeling. 
+
+In this project, for the first time, an Random-Telegraph -Noise (RTN) -based defect tracking technique (RDT) is developed to monitor the defect movements and the spatial and energy (XT, ET) profile of the critical filament region (CFR). CFR alterations can therefore be directly correlated with switching operations, and new endurance failure mechanism has been revealed. This technique has been taken up by industrial partners at world-leading research centre imec, providing a useful tool for RRAM technology development. 
+
+For the first time, the following key advances have been achieved in the non-filamentary RRAM cell based on amorphous-Si/TiO2.: i) Switching mechanism by defect profile modulation in a critical interfacial region has been identified from defect locations extracted by RTN; ii) Defect profile in this region plays a critical role in device failure, leading to different Weibull distributions during negative (LRS) and positive (HRS) CVS; iii) Progressive formation of a conductive percolation path during electrical stress is directly observed due to defect generation in addition to pre-existing defect movement; iv) Optimizing the critical interfacial region significantly improves memory window and failure margin. This provides a useful tool for advancing the non-filamentary RRAM technology. 
+
+By utilizing the recently developed defect profiling technique based on random-telegraph-noise (RTN), for the first time, defect profile modulation in TiO2 is correlated with the analog switching, and the gradual growth of a defect-deactivation-region (DDR) near its interface with a-Si causes the LRS endurance instability, while treset/tset ratio is found critical for the HRS instability. Under this guidance, a stable x10 window for 1M cycles is restored through combining optimizations of device structure and set/reset conditions, paving the way for a-VMCO's practical applications.</gtr:description><gtr:exploitationPathways>This technique has been taken up by industrial partners including Intel, Samsung, and Micron at world-leading research centre imec, providing a useful tool for RRAM technology development. A paper has been presented at the flagship conference VLSI Technology Symposium 2016 and IEDM 2016, respectively. A paper has been submitted to VLSI 2017 and nano letters, respevitvely..</gtr:exploitationPathways><gtr:id>C8BEE8E5-C0B1-4BA3-BAF6-19366D42D7A4</gtr:id><gtr:sectors><gtr:sector>Digital/Communication/Information Technologies (including Software),Electronics,Manufacturing, including Industrial Biotechology</gtr:sector></gtr:sectors></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs><gtr:researchMaterialOutput><gtr:description>For the first time, an RTN-based defect tracking technique (RDT) is developed to monitor the defect movements and the spatial and energy (XT, ET) profile of the critical filament region (CFR). CFR alterations can be directly correlated with switching operations, and new endurance failure mechanism has been revealed.</gtr:description><gtr:id>930C68A1-C4F0-4623-8869-DD9B8ADEBED7</gtr:id><gtr:impact>The technique and methodology has been taken up by industrial partners at the IMEC memory device consortium.</gtr:impact><gtr:providedToOthers>true</gtr:providedToOthers><gtr:title>RTN-based defect tracking technique (RDT) in RRAM devices</gtr:title><gtr:type>Technology assay or reagent</gtr:type><gtr:yearFirstProvided>2016</gtr:yearFirstProvided></gtr:researchMaterialOutput></gtr:researchMaterialOutputs><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/92B381D4-690D-47C1-A382-97C0FA901E24"><gtr:id>92B381D4-690D-47C1-A382-97C0FA901E24</gtr:id><gtr:title>RTN-based defect tracking technique: experimentally probing the spatial and energy profile of the critical filament region and its correlation with HfO2 RRAM switching operation and failure mechanism</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/63132b11fce151fe8e17ddf9f653edd5"><gtr:id>63132b11fce151fe8e17ddf9f653edd5</gtr:id><gtr:otherNames>Chai Z</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/98AE837B-ED13-4F35-ABC1-D673B3F1F95C"><gtr:id>98AE837B-ED13-4F35-ABC1-D673B3F1F95C</gtr:id><gtr:title>Analysis of RTN signals in Resistive-Switching RAM device and its correlation with device operations</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/33b3a33f2507beb150e78e1e5a17353e"><gtr:id>33b3a33f2507beb150e78e1e5a17353e</gtr:id><gtr:otherNames>Zhang W</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/291F3E64-7643-447D-AA68-4ADD3F5DD5DE"><gtr:id>291F3E64-7643-447D-AA68-4ADD3F5DD5DE</gtr:id><gtr:title>The role of nitrogen doping in ALD Ta
+ 
+ O
+ 
+ and its influence on multilevel cell switching in RRAM</gtr:title><gtr:parentPublicationTitle>Applied Physics Letters</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/62eeabb98619a3158b86fa1ca9c83211"><gtr:id>62eeabb98619a3158b86fa1ca9c83211</gtr:id><gtr:otherNames>Sedghi N</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">EP/M006727/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>E847DD9B-2053-4BC7-97A9-4213B185C968</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Materials sciences</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>561091A1-9FC9-4508-B1B2-2F3623E1FC9D</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Materials Characterisation</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>063026C5-CD0B-48AB-82F3-6359499A95D4</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Materials Synthesis &amp; Growth</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

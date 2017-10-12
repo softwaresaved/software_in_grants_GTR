@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/818CD6C9-61EE-41F2-9F37-0C7A8F43E25D"><gtr:id>818CD6C9-61EE-41F2-9F37-0C7A8F43E25D</gtr:id><gtr:name>University of Birmingham</gtr:name><gtr:department>Mechanical Engineering</gtr:department><gtr:address><gtr:line1>Edgbaston Park Road</gtr:line1><gtr:line2>Edgbaston</gtr:line2><gtr:postCode>B15 2TT</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/818CD6C9-61EE-41F2-9F37-0C7A8F43E25D"><gtr:id>818CD6C9-61EE-41F2-9F37-0C7A8F43E25D</gtr:id><gtr:name>University of Birmingham</gtr:name><gtr:address><gtr:line1>Edgbaston Park Road</gtr:line1><gtr:line2>Edgbaston</gtr:line2><gtr:postCode>B15 2TT</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/DB8B97CA-9AD4-4D7F-8E70-07CD2135F55A"><gtr:id>DB8B97CA-9AD4-4D7F-8E70-07CD2135F55A</gtr:id><gtr:firstName>Raya</gtr:firstName><gtr:surname>Al-Dadah</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/7AC6837C-9410-433E-85BE-A15D418DD6A3"><gtr:id>7AC6837C-9410-433E-85BE-A15D418DD6A3</gtr:id><gtr:firstName>Athanasios</gtr:firstName><gtr:surname>Tsolakis</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/8357B053-F406-4716-87D0-4EBE7EC225F4"><gtr:id>8357B053-F406-4716-87D0-4EBE7EC225F4</gtr:id><gtr:firstName>Karl</gtr:firstName><gtr:otherNames>David</gtr:otherNames><gtr:surname>Dearn</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=EP%2FP025838%2F1"><gtr:id>74F86FE4-8681-444A-B57C-83B83494E00C</gtr:id><gtr:title>Newton Fund (Invitation Only) - Dearman liquid air TRU systems for cold chain in India</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/P025838/1</gtr:grantReference><gtr:abstractText>The International Institute of Refrigeration (IIR) estimates that 200m tonnes of perishable produce could be preserved if the
+developing world had the same level of cold chain as the developed world, this accounts for up to 40% of crops harvested
+in India. The lack of cold chain infrastructure in India, particularly the lack of transport refrigeration (TRUs) for the safe
+transport of food must be addressed to reduce the losses. India's National Centre for Cold-chain Development has stated
+that India requires a further 52,000 TRUs simply to catch up with current production, excluding any future growth. This
+innovative industrial research project will optimise the proven zero-emission, affordable, novel Dearman transport
+refrigeration system technology, focusing on the liquid nitrogen tank, for the Indian market. The project will be completed by
+five core beneficiaries with the support of an advisory partner who will review project aims and achievements on a quarterly
+basis.
+The research into the LiN tank design will look at novel ways of dealing with the expected high levels of boil off if a standard
+tank is used. Using the current configuration would lead to reduced operating times and increased fill frequencies - the new
+design will look to minimise these issues and develop a new tank design to reduce the sloshing of liquid nitrogen using fluid
+flow analysis and modelling and mechanical design optimisation. This will achieve a new product optimised for the Indian
+market that could pave the way for a new commercial product and IP in the form of new patents.
+The proposed project will be conducted in collaboration with our academic partner, Indian Institute of Technology Bombay
+(IITB), conducted in parallel to the other work packages lead by our Industrial partners Dearman, Artic Refrigeration,
+Cartwright and ColdEX. UoB will lead the mechanical design and optimisation of the LiN tank as described in WP6 and will
+contribute to the fluid flow analysis and modelling. The tank technologies developed at Birmingham will be supported by
+state-of-the-art facilities housed within the EPSRC funded Birmingham Centre for Cryogenic Energy Storage including a
+range of measurement and analytical facilities, UoB's BLUEBear high performance computing facilities and the Government/ INNOVATE UK funded Institute for Thermal Energy Manufacturing Accelerator (part of the Thermal-Energy
+Research Accelerator, T-ERA).</gtr:abstractText><gtr:potentialImpactText>Worldwide food production must be increased by 70% by 2050, and this is driven in part by many emerging economies,
+such as India, increasing food production in order to meet changing consumer needs and a growing population. This
+challenge cannot be met only by increasing yield but also by reducing post harvest food losses. This drives research into
+the cold chain and the development of green technologies for food distribution. The proposed project addresses the urgent
+need for green transport refrigeration technologies in India, by optimising the on-vehicle LiN tank for the Dearman clean,
+cold and power system. The tank will be designed to deal with vastly differing ambient conditions and varying levels of road
+quality likely to be found across India. Tank materials, structural design and fluid control methods will need to limit boil off,
+leading to increased operating times and a decrease in refill frequency.
+Key beneficiaries of this work will be industry, government agencies, academics and the general public. A comprehensive
+programme of dissemination, through academic and trade journals, workshops, conferences and technology
+demonstrations will ensure that the outcomes of this project are communicated effectively.
+The main economic beneficiaries will be companies transporting refrigerated goods - a multi-billion dollar global industry
+growing annually at 25% (GAGR) in India - as well as the industrial gases industry who will supply liquid nitrogen to those
+companies and refrigerated equipment suppliers who will fit the newly developed transport refrigeration unit (TRU) on to
+their fleet vehicles. Other economic beneficiaries will be those that benefit from an integrated 'cold-chain', such as
+agricultural and supporting industries, food processors, exporters and retailers. Consumers will benefit from improved food
+quality and reduced price volatility as a result of reduced post harvest food losses.
+There will be Environmental benefits though the optimisation of clean, sustainable Dearman TRU systems in India.
+Traditional diesel refrigeration systems emit up to six times the NOx and 29 times the particulate matter (PM) of a modern
+diesel propulsion engine. The Dearman TRU has been shown to be cost effective with superior pull down times and zeroemissions
+at point of use as well as lower CO2. It can also drive the ancillary loads i.e. fans and so is truly independent of
+the primary diesel powertrain. A clean cold chain will lead to improved urban air quality and help achieve India's
+greenhouse gas emissions targets through reduced CO2 emissions from TRUs.
+The societal benefits will emanate from improved food quality and nutritional content, as well as improved local air quality
+(which currently accounts for an c.600k Indian deaths p.a.). There will also be prosperity through job creation with
+improved food transportation and local manufacturing and installation of the system. Furthermore contributions to and
+influence over policy related to urban air quality, energy and the cold chain through involvement in scientific advisory
+committees will be made.
+Academic beneficiaries; A novel, fully optimised tank for the TRU system will lead to further penetration of the Dearman
+Technology into transportation and other cold and power applications. Understanding the fundamental behaviour of the
+stored cryogenic fluid and its interaction with the surrounding tank will help establish the limits of operation. Through
+dissemination of the successes of this project to research communities and industry, the Dearman Technology will
+contribute to the global strategy for sustainable energy production and utilisation. It will also produce a team of highly
+skilled cold and power researchers and engineers as future industry leaders. Finally, the general public, though a
+comprehensive dissemination plan, will be informed and aware of the issues, successes and knowledge generated from
+this project.</gtr:potentialImpactText><gtr:fund><gtr:end>2018-11-30</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2016-12-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>189995</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">EP/P025838/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>F95121C7-7C31-40CE-BDBC-1E2BF025AEA6</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Energy</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>895D1683-DC4B-4292-BBC6-EC38672BFD10</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>RCUK Programmes</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>BE7CEC14-3FA2-49BC-89EE-062447C269C1</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Energy Efficiency</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>97AD4D1C-4499-4C7E-AF8A-FE9EFE56E306</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Energy Storage</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes><gtr:rcukProgramme><gtr:id>C11BDEA9-7D9D-4728-B6A9-31032921B328</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Newton</gtr:text></gtr:rcukProgramme></gtr:rcukProgrammes></gtr:project></gtr:projectComposition></gtr:projectOverview>

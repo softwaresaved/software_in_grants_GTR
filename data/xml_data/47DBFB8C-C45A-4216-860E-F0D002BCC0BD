@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/936D002F-A8D1-4A93-AE5D-825ED0903D8D"><gtr:id>936D002F-A8D1-4A93-AE5D-825ED0903D8D</gtr:id><gtr:name>University of Nottingham</gtr:name><gtr:department>Nottingham University Business School</gtr:department><gtr:address><gtr:line1>University Park</gtr:line1><gtr:line4>Nottingham</gtr:line4><gtr:line5>Nottinghamshire</gtr:line5><gtr:postCode>NG7 2RD</gtr:postCode><gtr:region>East Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/936D002F-A8D1-4A93-AE5D-825ED0903D8D"><gtr:id>936D002F-A8D1-4A93-AE5D-825ED0903D8D</gtr:id><gtr:name>University of Nottingham</gtr:name><gtr:address><gtr:line1>University Park</gtr:line1><gtr:line4>Nottingham</gtr:line4><gtr:line5>Nottinghamshire</gtr:line5><gtr:postCode>NG7 2RD</gtr:postCode><gtr:region>East Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/1AA129B4-1D16-4698-9BAC-8441B9B20B13"><gtr:id>1AA129B4-1D16-4698-9BAC-8441B9B20B13</gtr:id><gtr:firstName>Victoria</gtr:firstName><gtr:otherNames>Mary</gtr:otherNames><gtr:surname>Story</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/3C3F7479-81A5-4980-AC5C-E0C8FADAD38E"><gtr:id>3C3F7479-81A5-4980-AC5C-E0C8FADAD38E</gtr:id><gtr:firstName>Andrew</gtr:firstName><gtr:otherNames>Richard</gtr:otherNames><gtr:surname>Dainty</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/3424401F-79E6-4EB1-8BF1-363E23CF1A23"><gtr:id>3424401F-79E6-4EB1-8BF1-363E23CF1A23</gtr:id><gtr:firstName>Kathryn</gtr:firstName><gtr:surname>Walsh</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/1C41FE60-9F41-42A6-9BE8-C319989008AC"><gtr:id>1C41FE60-9F41-42A6-9BE8-C319989008AC</gtr:id><gtr:firstName>Judy</gtr:firstName><gtr:surname>Zolkiewski</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/D0417362-EEB8-4508-A5D8-DA9648767747"><gtr:id>D0417362-EEB8-4508-A5D8-DA9648767747</gtr:id><gtr:firstName>Kevin</gtr:firstName><gtr:otherNames>John</gtr:otherNames><gtr:surname>Daniels</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=RES-451-26-0496"><gtr:id>47DBFB8C-C45A-4216-860E-F0D002BCC0BD</gtr:id><gtr:title>Successful Radical Innovation: From ideas to market</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>RES-451-26-0496</gtr:grantReference><gtr:abstractText>&lt;p>The seminar series aim was to contribute to a deeper understanding of Radical Innovation (RI) in order to develop an interdisciplinary research agenda offering theoretical insight and practical relevance.&lt;/p>
+
+&lt;p>The series focused on six key core issues:&lt;/p>
+
+&lt;ul>
+ 
+
+ &lt;li>defining and measuring RI&lt;/li>
+
+ &lt;li>understanding the RI process&lt;/li>
+
+ &lt;li>the importance of relationships and networks in RI&lt;/li>
+
+ &lt;li>barriers to RI exploitation&lt;/li>
+
+ &lt;li>the role of Universities and other stakeholders in knowledge transfer&lt;/li>
+
+ &lt;li>the unintended consequences of RI. Speakers included academics, offering insights from a range of disciplines and perspectives, and practitioners; presenting organisational experiences.&lt;/li>
+
+&lt;/ul>
+
+&lt;p>Participant engagement generated significant debate and suggests that outputs of the series will offer important insights in areas such as:&lt;/p>
+
+&lt;ul>
+ 
+
+ &lt;li>changing organisational practices to facilitate RI&lt;/li>
+
+ &lt;li>improving RI commercialisation and exploitation&lt;/li>
+
+ &lt;li>the value of wider stakeholders in successful RI development, particularly the role of Government and Universities in enabling knowledge generation and transfer, supporting network development and developing sectoral leadership&lt;/li>
+
+ &lt;li>the need to understand the unintended consequences of RI, eg predicting potential failures through better forecasting/experimental techniques and improving feedback loops with designers&lt;/li>
+
+ &lt;li>the social implications of RIs, both positive and negative. &lt;/li>
+
+&lt;/ul>
+
+&lt;p>The seminar series also facilitated strong network development and new research collaborations.&lt;/p></gtr:abstractText><gtr:fund><gtr:end>2010-09-30</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/924BE15C-91F2-4AAD-941A-3F338324B6AE"><gtr:id>924BE15C-91F2-4AAD-941A-3F338324B6AE</gtr:id><gtr:name>ESRC</gtr:name></gtr:funder><gtr:start>2008-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>18501</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/9F09CBE8-121B-4286-B654-3455E46900F0"><gtr:id>9F09CBE8-121B-4286-B654-3455E46900F0</gtr:id><gtr:title>Guest editorial</gtr:title><gtr:parentPublicationTitle>Journal of Business &amp; Industrial Marketing</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/6a1022aa51b03c05bfb562857047e6ed"><gtr:id>6a1022aa51b03c05bfb562857047e6ed</gtr:id><gtr:otherNames>Zolkiewski J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/97416F86-5D6B-4518-9625-285424C9259B"><gtr:id>97416F86-5D6B-4518-9625-285424C9259B</gtr:id><gtr:title>The barriers and consequences of radical innovations: Introduction to the issue</gtr:title><gtr:parentPublicationTitle>Industrial Marketing Management</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/ef8a4a224020b243c47aea95b6decb11"><gtr:id>ef8a4a224020b243c47aea95b6decb11</gtr:id><gtr:otherNames>Story V</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2014-01-01</gtr:date></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RES">RES-451-26-0496</gtr:identifier><gtr:identifier type="RCUK">RES-451-26-0496</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>5E9AA4EC-49E3-4D6A-B545-79DA07CE39E0</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Management &amp; Business Studies</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>5E9AA4EC-49E3-4D6A-B545-79DA07CE39E0</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Management &amp; Business Studies</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

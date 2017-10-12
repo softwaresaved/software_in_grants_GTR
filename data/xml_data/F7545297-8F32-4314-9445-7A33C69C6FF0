@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/2A80FFDA-3B8B-43BA-80C3-3AA850B49BA1"><gtr:id>2A80FFDA-3B8B-43BA-80C3-3AA850B49BA1</gtr:id><gtr:name>University of the West of England</gtr:name><gtr:department>Bristol Robotics Laboratory</gtr:department><gtr:address><gtr:line1>Coldharbour Lane</gtr:line1><gtr:line2>Frenchay</gtr:line2><gtr:line4>Bristol</gtr:line4><gtr:line5>Avon</gtr:line5><gtr:postCode>BS16 1QY</gtr:postCode><gtr:region>South West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/2A80FFDA-3B8B-43BA-80C3-3AA850B49BA1"><gtr:id>2A80FFDA-3B8B-43BA-80C3-3AA850B49BA1</gtr:id><gtr:name>University of the West of England</gtr:name><gtr:address><gtr:line1>Coldharbour Lane</gtr:line1><gtr:line2>Frenchay</gtr:line2><gtr:line4>Bristol</gtr:line4><gtr:line5>Avon</gtr:line5><gtr:postCode>BS16 1QY</gtr:postCode><gtr:region>South West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/ED82DD59-59D7-4BB0-98E3-3F0855524F98"><gtr:id>ED82DD59-59D7-4BB0-98E3-3F0855524F98</gtr:id><gtr:firstName>Melvyn</gtr:firstName><gtr:surname>Smith</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=BB%2FP005039%2F1"><gtr:id>F7545297-8F32-4314-9445-7A33C69C6FF0</gtr:id><gtr:title>16AGRITECHCAT5: GrassVision: Automated application of herbicides to broad-leaf weeds in grass crops</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>BB/P005039/1</gtr:grantReference><gtr:abstractText>The aim of the project is to develop a novel spray apparatus for precision application of herbicides to broad-leaf weeds in
+grass crops. Such a system, using a spray boom covering a 10x.5m area of ground, could feasibly run at upwards of 1m/s,
+allowing precision spraying of weeds at between 1 and 2 hectares/hr.
+
+The consortium is comprised of three partners; (1) Centre for Machine Vision (CMV), a leading research centre in 3D
+machine vision, with past success in the agri-tech field, (2) Aralia Systems Ltd (AS), an international security company with
+a wide R&amp;amp;D portfolio in data-mining and complex feature analysis on videos, (3) Soil Essentials Ltd (SE), a leading
+precision agriculture company specialising in GPS machinery guidance, implement control, cloud based decision support
+systems and emerging grassland agronomy technologies.
+
+The primary focus will be to detect weeds in grass such as dock and ragwort using novel 3D machine vision techniques. Initially the
+project will use off-the-shelf machinery to spray an area of roughly 50x50cm around each weed, activating the relevant
+nozzles on the boom with an estimated aimed decrease in herbicide use of around 75%.The project will then look to
+determine the limits of precision by refining the boom itself, allowing nozzles to move linearly across the boom as on an
+inkjet printer, or in rotation using servo motors. Using this approach, we aim to provide potential reductions in herbicide use
+in excess of 90%.
+
+The role of the CMV team will be to realise novel 3D imaging hardware and software for detecting the weeds in the grass
+while moving on a tractor. We also aim to recognise the weed species. This data will be used to both direct the automated
+weeding system in real-time (developed by SE) and to create a detailed weed data map (developed by AS) of the entire
+field.</gtr:abstractText><gtr:technicalSummary>The aim of the project is to develop a novel spray apparatus for precision application of herbicides to broad-leaf weeds in
+grass crops. 
+
+The consortium is comprised of three partners; (1) Centre for Machine Vision (CMV), a leading research centre in 3D
+machine vision, with past success in the agri-tech field, (2) Aralia Systems Ltd (AS), an international security company with
+a wide R&amp;amp;D portfolio in data-mining and complex feature analysis on videos, (3) Soil Essentials Ltd (SE), a leading
+precision agriculture company specialising in GPS machinery guidance, implement control, cloud based decision support
+systems and emerging grassland agronomy technologies.
+
+The primary focus will be to detect weeds in grass such as dock and ragwort using novel 3D machine vision techniques. The
+project will use off-the-shelf machinery to spray an area around each weed, activating the relevant
+nozzles on the boom.
+
+The role of the CMV team will be to realise novel 3D imaging hardware and software for detecting the weeds in the grass
+while moving on a tractor. We also aim to recognise the weed species.</gtr:technicalSummary><gtr:potentialImpactText>The main impact will be on beef and dairy farmers who will be provided with a tool to control weeds in pasture, thereby 
+offering increased productivity of grass swards. End-user farmers are expected to see substantial reductions in herbicide 
+use in excess of 90%.
+
+There are also wider environmental and social benefits. Environmental benefits will accrue from a more efficient, precision
+application of herbicides and increased pasture yield. Precision application will reduce the environmental impact and
+economic losses from the industry and help to improve feed conversion efficiency from pasture, boosting food security.
+Considerable environmental benefits will accrue from a more efficient, precision application of herbicides. Benefits include,
+reduced environmental contamination, eg of water sources, ability to treat larger grassland areas, increasing yields
+reducing the need for purchasing feed, ability to spray in environmentally sensitive areas where spraying is currently not
+possible, reduction of herbicide costs and clover damage. Better management of pasture will allow longer herd life will
+reduce the environmental impact and economic losses from the industry and help to improve feed conversion efficiency in
+beef and milk production, boosting food security. Benefits will accrue beyond the project as improvements in pasture and
+its management grow. The economic and environmental potential of grassland weed control is very high due to the
+extensive area grassland covers, the economic loss of untreated weeds and the high cost (both economic and
+environmental) of blanket application of herbicide.
+
+Economic Impacts - The development of the technology, data handling, benchmarking systems and pasture weed control
+and health monitoring will increase the SME partners' profile in R&amp;amp;D, leading to further opportunities and developments within the
+value chain. An increased turnover and profitability following the project will help to increase employment and job security.</gtr:potentialImpactText><gtr:fund><gtr:end>2018-02-28</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/2512EF1C-401B-4222-9869-A770D4C5FAC7"><gtr:id>2512EF1C-401B-4222-9869-A770D4C5FAC7</gtr:id><gtr:name>BBSRC</gtr:name></gtr:funder><gtr:start>2016-09-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>107053</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>Techniques for identifying weeds in grass.</gtr:description><gtr:exploitationPathways>Likely to be exploited by the commercial partners</gtr:exploitationPathways><gtr:id>860D5FBC-4643-452B-A453-0696CB78C03F</gtr:id><gtr:sectors><gtr:sector>Agriculture, Food and Drink</gtr:sector></gtr:sectors></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">BB/P005039/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>13975896-2E87-4DAA-99BC-E8D86B00B146</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Plant &amp; crop science</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>8C69AA8D-0736-45EE-BA77-D6E60B4C9893</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Plant organisms</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

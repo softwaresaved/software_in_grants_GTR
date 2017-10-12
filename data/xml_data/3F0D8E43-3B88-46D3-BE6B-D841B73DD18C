@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/2A80FFDA-3B8B-43BA-80C3-3AA850B49BA1"><gtr:id>2A80FFDA-3B8B-43BA-80C3-3AA850B49BA1</gtr:id><gtr:name>University of the West of England</gtr:name><gtr:department>Faculty of Business and Law</gtr:department><gtr:address><gtr:line1>Coldharbour Lane</gtr:line1><gtr:line2>Frenchay</gtr:line2><gtr:line4>Bristol</gtr:line4><gtr:line5>Avon</gtr:line5><gtr:postCode>BS16 1QY</gtr:postCode><gtr:region>South West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/2A80FFDA-3B8B-43BA-80C3-3AA850B49BA1"><gtr:id>2A80FFDA-3B8B-43BA-80C3-3AA850B49BA1</gtr:id><gtr:name>University of the West of England</gtr:name><gtr:address><gtr:line1>Coldharbour Lane</gtr:line1><gtr:line2>Frenchay</gtr:line2><gtr:line4>Bristol</gtr:line4><gtr:line5>Avon</gtr:line5><gtr:postCode>BS16 1QY</gtr:postCode><gtr:region>South West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/5BFB9036-9D16-4AB9-A9EF-097BB6FBD69A"><gtr:id>5BFB9036-9D16-4AB9-A9EF-097BB6FBD69A</gtr:id><gtr:name>Aston University</gtr:name><gtr:address><gtr:line1>Aston Triangle</gtr:line1><gtr:line4>Birmingham</gtr:line4><gtr:postCode>B4 7ET</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/B6FB652A-60C3-48DD-9A33-075D1F759B48"><gtr:id>B6FB652A-60C3-48DD-9A33-075D1F759B48</gtr:id><gtr:name>University of Warwick</gtr:name><gtr:address><gtr:line1>Warwickshire</gtr:line1><gtr:line4>Coventry</gtr:line4><gtr:line5>West Midlands</gtr:line5><gtr:postCode>CV4 7AL</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/44160F04-5CBF-4E8E-A6C6-C0EF61A5865C"><gtr:id>44160F04-5CBF-4E8E-A6C6-C0EF61A5865C</gtr:id><gtr:name>Lancaster University</gtr:name><gtr:address><gtr:line1>University House</gtr:line1><gtr:line4>Lancaster</gtr:line4><gtr:line5>Lancashire</gtr:line5><gtr:postCode>LA1 4YW</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/5BB4F8BF-B4E0-4EAF-9AF5-885E19D64850"><gtr:id>5BB4F8BF-B4E0-4EAF-9AF5-885E19D64850</gtr:id><gtr:name>University of Strathclyde</gtr:name><gtr:address><gtr:line1>16 Richmond Street</gtr:line1><gtr:line4>Glasgow</gtr:line4><gtr:postCode>G1 1XQ</gtr:postCode><gtr:region>Scotland</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/E89C3602-0FB4-4044-A918-58966B8A10B2"><gtr:id>E89C3602-0FB4-4044-A918-58966B8A10B2</gtr:id><gtr:name>University of Reading</gtr:name><gtr:address><gtr:line1>Whiteknights House</gtr:line1><gtr:line2>PO Box 217</gtr:line2><gtr:line4>Reading</gtr:line4><gtr:line5>Berkshire</gtr:line5><gtr:postCode>RG6 6AH</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/961756BF-E31F-4A13-836F-0A09BA02385C"><gtr:id>961756BF-E31F-4A13-836F-0A09BA02385C</gtr:id><gtr:name>University of Exeter</gtr:name><gtr:address><gtr:line1>University of Exeter</gtr:line1><gtr:line2>Clydesdale House</gtr:line2><gtr:line3>Clydesdale Road</gtr:line3><gtr:line4>Exeter</gtr:line4><gtr:postCode>EX4 4QX</gtr:postCode><gtr:region>South West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/D649CF37-A55F-49D1-A66E-544BB68C4E62"><gtr:id>D649CF37-A55F-49D1-A66E-544BB68C4E62</gtr:id><gtr:firstName>Nicholas</gtr:firstName><gtr:surname>O'Regan</gtr:surname><gtr:orcidId>0000-0003-3014-0373</gtr:orcidId><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=ES%2FL000520%2F1"><gtr:id>3F0D8E43-3B88-46D3-BE6B-D841B73DD18C</gtr:id><gtr:title>Business Models: Fasttracking Competitive Advantage</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>ES/L000520/1</gtr:grantReference><gtr:abstractText>&lt;p>The collapse of well-known UK High Street names has shown the importance of having a business model that is capable of both creating and capturing value. Business models describe how the firm differentiates itself and deals with competition. Yet, recent research indicates that over 66 per cent of firms have given no thought to their business model and are unable to articulate it.&lt;/p>
+
+&lt;p>This research seminar series explores fundamental questions relating to business models in practice, how they work beyond the boundaries of the firm and into the wider business network and market, how certain models come to dominate sectors and how are they created, driven, picked-up, dropped or transformed.&lt;/p>
+
+&lt;p>The research seminar series comprises the following 8 seminars:&lt;/p>
+
+&lt;ul>
+ 
+
+ &lt;li>Business Models: Rationale, applications and inter-organisationality (February 2014)&lt;/li>
+
+ &lt;li>Business models and resource configuration (July 2014)&lt;/li>
+
+ &lt;li>Business model design, prototyping and testing (November 2014)&lt;/li>
+
+ &lt;li>Business models and structural choices, (March 2014)&lt;/li>
+
+ &lt;li>Business Models: An Activity System Perspective, (June 2015)&lt;/li>
+
+ &lt;li>Product-Service Systems and the servitisation of manufacturing, (October 2015)&lt;/li>
+
+ &lt;li>Value and Outcome-based contracts as New Business Models: a Service-Dominant Logic Approach, (February 2016)&lt;/li>
+
+ &lt;li>Business Models: Shaping Organisations and markets (June 2016)&lt;/li>
+
+&lt;/ul>
+
+&lt;p>&amp;nbsp;&lt;/p>
+
+&lt;p>&amp;nbsp;&lt;/p>
+
+&lt;p>&amp;nbsp;&lt;/p>
+
+&lt;p>&amp;nbsp;&lt;/p>
+
+&lt;p>&amp;nbsp;&lt;/p>
+
+&lt;p>&amp;nbsp;&lt;/p>
+
+&lt;p>&amp;nbsp;&lt;/p>
+
+&lt;p>&amp;nbsp;&lt;/p></gtr:abstractText><gtr:potentialImpactText>This proposal has been developed in collaboration with business users from a holistic perspective at this stage. The link between the academic and non academic partners is new, created as a result of this research seminar proposal and all partners have indicated their commitment to its successful implementation. Framing solutions to business challenges cannot be effective without the involvement of practitioners, hence regular contact with business will be maintained during the framing of each seminar, the seminar event and the dissemination of the research. This will be through a variety of means as outlined in the attached Pathways to Impact document. 
+
+The IoD and Business West are closely involved in this proposal and will provide a conduit for the ongoing interchange. Non academic users are individual business organisations, business intermediaries and advisors, professional bodies and policy makers. The role of non-academic users is fourfold:
+
+(a) to help develop a new academic and policy-based research agenda
+(b) to collaborate with academics on the dissemination of social science research findings 
+(c) to solicit their views on the eight seminar topic themes
+(d) to contribute to the dissemination strategy for the seminar series
+
+The series will provide a strong evidence base upon which to make decisions, allocate resources and build policy and accordingly is relevant to the wide range of non-academic users outlined. 
+We will ensure that key business stakeholders - business intermediaries and individual organisations, are aware of and have access to existing/new research findings; and promote the seminar series as a focal point for policy makers, intermediaries and businesses for information and commentary on issues related to business models. Consequently we see the series of seminars as contributing effectively to shaping the business policy agenda and to enhancing business competitiveness.
+
+We envisage a small core of research users who will attend all eight seminars; the remainder will be selected and invited according to their interest and profile with a particular theme. The involvement of non-academic users will also be facilitated electronically through the creation of a dedicated seminar series website. This will ensure that both academic and non-academic users will have the opportunity to access key materials and to contribute to debates and exchange information. 
+
+Policy Involvement
+
+Contact will be made with the Department of Business, Innovation and Skills to make the Office aware of this initiative and support has been tentatively agreed. We see this as a connection of considerable significance and look forward to developing these connections to engage policy makers at a senior level. 
+It is anticipated that a dialogue will be opened with BIS to foster a strategic relationship for mutual benefit. Contact will also be made with both the Scottish Parliament and the Welsh Assembly.</gtr:potentialImpactText><gtr:fund><gtr:end>2016-08-05</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/924BE15C-91F2-4AAD-941A-3F338324B6AE"><gtr:id>924BE15C-91F2-4AAD-941A-3F338324B6AE</gtr:id><gtr:name>ESRC</gtr:name></gtr:funder><gtr:start>2014-02-06</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>28885</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs><gtr:impactSummaryOutput><gtr:description>1. White Paper 'The Imperative for Business Model Innovation' http://www.ifm.eng.cam.ac.uk/research/bmi/the-imperative-for-business-model-innovation/. This white paper has significant downloads
+2. Following initial discussions at the seminar Aston University has worked with Noventum Service Management to produce two White Papers:
+ 
+'The IoT: Profitability and growth' http://www.advancedservicesgroup.co.uk/iot-whitepaper
+ 
+'How Megatrends are driving opportunities for business growth through advanced services' (awaiting publication)
+
+Outputs from the Warwick based ESRC business model seminar:
+&amp;quot;From Servitization to the Service of Things: New Business &amp;amp; Economic Models of the Internet-of-Things from a Service-Dominant Logic Approach&amp;quot;
+ 
+1. Business Model Innovation Wheel 
+ 
+Arising from discussions both prior to, and continuing after the seminar, the Business Model Innovation (BMI) wheel is a tool that we are developing in conjunction with the ESRC Innovation Caucus. The tool aims to better link a company's business model to potential avenues of innovation. Employing a broader view of innovation that goes beyond that of just new or improved product performance (alternatively termed, invention), the BMI Wheel places particular focus on how to capitalise on increased digitalization and connectivity over all aspects of a business model (which it categorises under three main sections of Offering, Experience and Configuration). Further details of the Innovation Caucus and the context of the BMI Wheel development can be found via the following link:
+https://innovateuk.blog.gov.uk/2016/09/28/innovation-beyond-things-and-widgets/
+
+There are continuing meetings with InnovateUK technologists to refine the BMI Wheel components for practical use and future empirical research. A working paper is currently being developed which investigates UK innovation policy and the bias toward invention (e.g. R&amp;amp;D) rather than wider innovation, which it argues is a hangover from the institutionally-entrenched view that innovation is a linear flow between R&amp;amp;D to commercial exploitation. Within this context, the BMI Wheel is presented as a tool which helps companies think about innovation in the broader sense, so as to capitalise on avenues of so-called 'hidden innovation' that have been enabled through increased digitisation, connectivity and awareness of customer use contexts. 
+
+3. Dissemination of ideas from thoughtleaders in servitization
+4. business model innovation tool coming out this Autumn used by innovateUK, https://innovateuk.blog.gov.uk/2016/09/28/innovation-beyond-things-and-widgets/
+5. Video: https://www.youtube.com/watch?v=gGBg0znxzLQ
+6. White paper from the biotech work</gtr:description><gtr:firstYearOfImpact>2015</gtr:firstYearOfImpact><gtr:id>689BF5D7-FFE1-4BF7-8B3C-FDA6F2BA21A2</gtr:id><gtr:impactTypes><gtr:impactType>Economic</gtr:impactType></gtr:impactTypes><gtr:sector>Aerospace, Defence and Marine,Communities and Social Services/Policy,Digital/Communication/Information Technologies (including Software),Financial Services, and Management Consultancy,Manufacturing, including Industrial Biotechology</gtr:sector></gtr:impactSummaryOutput></gtr:impactSummaryOutputs><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>1. Technology innovation is often the driver of competitiveness but needs to be incorporated by firms in a business model that encapsulates Review processes and responsibilities for business model innovation a combination of flexible organisational structures and agile leadership. The Business model in turn can help firms to identify new ways to create value and grow through a more integrated view of their business and its relevant stakeholders. 
+2. Businesses should engage with academia in developing their understanding of business modelling as a process or capability
+3. Emphasising a wider conception of value going beyond financial and
+monetisation aspects could help to drive new service offerings as it builds on the creation, delivery, and capture of value in new or more efficient ways.
+4. Further research needed to identify opportunities between technology development and commercialisation. Technologies can often influence the design of business models. However, business models, in turn, can also influence the development of technologies.
+5.Moreover, the increasing connectivity of firms though digital technologies has enabled firms to operate as networks within ecosystems. Further research funding is required to understand better how these ecosystems enable business model innovation
+6.The approach to financing is critical for business models innovation</gtr:description><gtr:exploitationPathways>The outputs comorising a White Paper and numerous publications cane be used by a range of stakeholders:
+1. Businesses to achieve greater competitiveness
+2. Academics in further the knowledge and understanding of Business Models
+3, Government and research councils in furthering the understanding of business models for regional and national competitiveness
+
+UWE Bristol has now established a Business Engagement Centre that will expand on this initiative</gtr:exploitationPathways><gtr:id>ADCC60B9-E427-4FA1-AAE7-C7AAB3C24722</gtr:id><gtr:sectors><gtr:sector>Aerospace, Defence and Marine,Creative Economy,Digital/Communication/Information Technologies (including Software),Environment,Financial Services, and Management Consultancy,Manufacturing, including Industrial Biotechology</gtr:sector></gtr:sectors><gtr:url>http://www1.uwe.ac.uk/bl/research/esrcseminarseries.aspx</gtr:url></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/287EC378-DE53-4021-854C-80600AFD624D"><gtr:id>287EC378-DE53-4021-854C-80600AFD624D</gtr:id><gtr:title>Co-creation: moving towards a framework for creating innovation in the Triple Helix</gtr:title><gtr:parentPublicationTitle>Prometheus</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/ebba414fd96cba2b6c599a433a803a0b"><gtr:id>ebba414fd96cba2b6c599a433a803a0b</gtr:id><gtr:otherNames>Hughes T</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2014-01-01</gtr:date></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">ES/L000520/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>5E9AA4EC-49E3-4D6A-B545-79DA07CE39E0</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Management &amp; Business Studies</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>5E9AA4EC-49E3-4D6A-B545-79DA07CE39E0</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Management &amp; Business Studies</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>6A482B09-D749-4443-8AF0-654984FCE91D</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Manufact. Business Strategy</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>E55D12BF-71BF-4AFE-9E66-5A6E2920965F</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Strategic Management</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

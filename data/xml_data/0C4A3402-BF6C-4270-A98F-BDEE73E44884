@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/D5337A10-AC8A-402A-8164-C5F9CC6B0140"><gtr:id>D5337A10-AC8A-402A-8164-C5F9CC6B0140</gtr:id><gtr:name>Queen Mary, University of London</gtr:name><gtr:department>Astronomy Unit</gtr:department><gtr:address><gtr:line1>Mile End Road</gtr:line1><gtr:line4>London</gtr:line4><gtr:postCode>E1 4NS</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/D5337A10-AC8A-402A-8164-C5F9CC6B0140"><gtr:id>D5337A10-AC8A-402A-8164-C5F9CC6B0140</gtr:id><gtr:name>Queen Mary, University of London</gtr:name><gtr:address><gtr:line1>Mile End Road</gtr:line1><gtr:line4>London</gtr:line4><gtr:postCode>E1 4NS</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/A9B86418-E2B8-4B30-80A1-453F74227206"><gtr:id>A9B86418-E2B8-4B30-80A1-453F74227206</gtr:id><gtr:firstName>Sijme-Jan</gtr:firstName><gtr:surname>Paardekooper</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/ADB2512B-B41E-4E10-B03E-5ABE69D57905"><gtr:id>ADB2512B-B41E-4E10-B03E-5ABE69D57905</gtr:id><gtr:firstName>Craig</gtr:firstName><gtr:otherNames>Bruce</gtr:otherNames><gtr:surname>Agnor</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/AD5F0485-D55B-4F64-9A55-7DF1915A2660"><gtr:id>AD5F0485-D55B-4F64-9A55-7DF1915A2660</gtr:id><gtr:firstName>Chris</gtr:firstName><gtr:surname>Clarkson</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/07DE7181-8C98-4A0C-93CC-73724F389233"><gtr:id>07DE7181-8C98-4A0C-93CC-73724F389233</gtr:id><gtr:firstName>Karim</gtr:firstName><gtr:otherNames>Ali</gtr:otherNames><gtr:surname>Malik</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/8ED88276-1840-4F3A-8D0D-056653DE7197"><gtr:id>8ED88276-1840-4F3A-8D0D-056653DE7197</gtr:id><gtr:firstName>Guillem</gtr:firstName><gtr:surname>Anglada Escude</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/C0FBC2D4-ACD0-42FB-9907-044E58E81E94"><gtr:id>C0FBC2D4-ACD0-42FB-9907-044E58E81E94</gtr:id><gtr:firstName>Richard</gtr:firstName><gtr:otherNames>Paul</gtr:otherNames><gtr:surname>Nelson</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/D011DE6C-0E3A-4CA1-BD98-FCDA53BF4885"><gtr:id>D011DE6C-0E3A-4CA1-BD98-FCDA53BF4885</gtr:id><gtr:firstName>Timothy</gtr:firstName><gtr:surname>Clifton</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=ST%2FP000592%2F1"><gtr:id>0C4A3402-BF6C-4270-A98F-BDEE73E44884</gtr:id><gtr:title>Astronomy Research at Queen Mary</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>ST/P000592/1</gtr:grantReference><gtr:abstractText>We propose to undertake the following research projects.
+i) We will use supercomputer simulations to model the gas discs that orbit young stars, 
+which are believed to be the sites of planet formation. 
+The aim is to examine the behaviour of the gas as it orbits around the star, and to 
+examine how planets that form in these discs interact with them. This interaction 
+may explain the fact that many of the extrasolar planets that have been discovered 
+outside of our solar system orbit close to their host stars.
+ii) We will use supercomputer simulations to model the atmospheres of extrasolar 
+planets. These atmospheres display interesting patterns of gas flow, and extrasolar planets 
+often orbit close to their stars and so are strongly heated on one side, causing strong winds
+to arise. The simulations will help us better understand these atmospheres.
+iii) Using mathematical representations of the laws of physics, we will produce new models
+for the early evolution of the Universe, shortly after the big-bang, during which time it 
+underwent very rapid expansion known as &amp;quot;inflation&amp;quot;. The models will be compared with 
+observations of the Universe to see which ones are compatible with the data. 
+iv) We will use Einstein's theory of gravity to make detailed predictions about the distribution 
+of matter in the Universe, and how this matter distribution appears to an observer on Earth.
+These predictions will be compared with observational data to test Einstein's gravity on the
+largest scales.
+v) We will use the access that we have to the next generation of infrared spectrographs to
+look for low mass planets around nearby low mass stars, using measurements of the star's
+radial velocity as it orbits around the system centre of mass. Low mass stars are the optimal
+targets for finding low mass planets in their habitable zone, so this may be an efficient method
+of finding the first habitable earth-like planets. We will also use these spectrographs to look
+for the signatures of molecules in planet atmospheres.
+vi) We will use an observational survey of the Universe being undertaken by the VISTA
+telescope to search for very distant quasars - galaxies that have supermassive black holes
+at their centres, and which were born when the Universe was less than 10% of its 
+current age. We have already discovered the 2nd, 3rd and 4th most distant quasars that
+are known, and the aim is to increase this number to about 10. We will then be able
+to estimate of how many quasars there were when the Universe was very young,
+and we will be able to examine the black holes and the structures of their galaxies.</gtr:abstractText><gtr:potentialImpactText>The research proposed in this application is largely concerned with basic 
+scientific inquiry, and so in general it will not have high potential for
+immediate economic or real world impact. The primary impact of the research
+will be in the cultural sphere, as the research will increase the sum total of
+human knowledge about the Universe and its constituents, and will therefore
+enhance the sense of wonder about the world that we live in for the general public.
+Our research in areas such as cosmology, extrasolar planets, quasars, black holes,
+the Saturn system, space weather, and the origin of the Solar System all have
+strong public appeal and interest.
+
+The Astronomy Unit has an active programme of public engagement and
+schools outreach, both to inform and engage the general public about our 
+research, and to also inspire school pupils to become interested in science
+and to take STEM subjects post-GCSE. These engagement programmes
+include giving public talks, having open days and evenings at the university
+(e.g. Stargazing Live! events etc), and a range of media work that includes
+TV and radio interviews. Our schools outreach programmes include summer schools,
+essay writing competitions, going into schools to give talks and provide hands-on activities. 
+A recent initiative is a summer school for school students to learn about computer
+coding while undertaking hands-on analysis of astronomical data. In doing this we are explicitly 
+supporting the STEM agenda through our research, which is a key government policy for building
+long term economic growth. 
+
+Other areas of our research that may have applications outside of the academic sphere 
+include high performance computing and the development of advanced computer codes 
+and algorithms, and in advanced techniques in data analysis. Again, we will be alert to any
+opportunities that may arise in finding real world or commercial applications of this work.
+
+Finally, the posdoctoral staff that we will employ on the grant will receive training and
+experience in a variety of skills that will be of great benefit to the wider economy if
+they at some stage leave academia and work in industry or the commercial sector.
+These skills include advanced computing and data analysis, independent problem
+solving, project management, report writing through authorship of scientific 
+publications, and presentation skills obtained from conference attendance etc.</gtr:potentialImpactText><gtr:fund><gtr:end>2020-03-31</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/D7F4F462-0518-4784-908A-D12633C139B3"><gtr:id>D7F4F462-0518-4784-908A-D12633C139B3</gtr:id><gtr:name>STFC</gtr:name></gtr:funder><gtr:start>2017-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>1246942</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">ST/P000592/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>615BB43C-305A-47B9-B728-7A9BB0BBE1A4</gtr:id><gtr:percentage>32</gtr:percentage><gtr:text>Astronomy - observation</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>B43E1E82-2962-4C36-87AD-95AC01BE0A9F</gtr:id><gtr:percentage>68</gtr:percentage><gtr:text>Astronomy - theory</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>4EE2392F-9964-4A0B-8C0A-1672FD744F8B</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Extra-Galactic Astron.&amp;Cosmol.</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>EC478D98-EB7D-4905-B536-D9D61AFD07E4</gtr:id><gtr:percentage>46</gtr:percentage><gtr:text>Galactic &amp; Interstellar Astron</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>6D4F9380-A853-4602-9383-3E0067A53A84</gtr:id><gtr:percentage>4</gtr:percentage><gtr:text>Stellar Astronomy</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

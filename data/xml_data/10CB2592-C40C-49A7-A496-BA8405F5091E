@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/44160F04-5CBF-4E8E-A6C6-C0EF61A5865C"><gtr:id>44160F04-5CBF-4E8E-A6C6-C0EF61A5865C</gtr:id><gtr:name>Lancaster University</gtr:name><gtr:department>Physics</gtr:department><gtr:address><gtr:line1>University House</gtr:line1><gtr:line4>Lancaster</gtr:line4><gtr:line5>Lancashire</gtr:line5><gtr:postCode>LA1 4YW</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/44160F04-5CBF-4E8E-A6C6-C0EF61A5865C"><gtr:id>44160F04-5CBF-4E8E-A6C6-C0EF61A5865C</gtr:id><gtr:name>Lancaster University</gtr:name><gtr:address><gtr:line1>University House</gtr:line1><gtr:line4>Lancaster</gtr:line4><gtr:line5>Lancashire</gtr:line5><gtr:postCode>LA1 4YW</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/569C730E-CEC5-4F3B-A28B-A23DAE1F8F52"><gtr:id>569C730E-CEC5-4F3B-A28B-A23DAE1F8F52</gtr:id><gtr:firstName>Andrew</gtr:firstName><gtr:otherNames>Robert</gtr:otherNames><gtr:surname>Marshall</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=EP%2FM508299%2F1"><gtr:id>10CB2592-C40C-49A7-A496-BA8405F5091E</gtr:id><gtr:title>Novel Mid IR single Photon Detectors for Quantum Systems</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/M508299/1</gtr:grantReference><gtr:abstractText>This project will develop a new commercial single photon avalanche detector (SPAD) platform for the important SWIR,
+MWIR and LWIR spectral ranges (1.7 - 12um). Conventional, many photon, photodiodes have been developed to provide
+comprehensive coverage of the IR spectrum and in doing so have enabled a multitude of important photonic applications
+and industries. As researchers and industry look to apply emerging quantum photonics, it is evident that available detector
+technology is limiting the spectral ranges which can be exploited. Visible and IR applications below a wavelength of 1.7um,
+are supported by existing Silicon and InP/InGaAs SPAD technologies. However, beyond these wavelengths there are no
+SPAD technologies available and hence no single photon detectors that offer their speed of response, high operating
+temperature and compact size, which are essential attributes for commercial viability.
+The detector to be developed and prototyped in this project employs a novel barrier based structure, proprietary to
+Amethyst Research Ltd. In recent years such barrier based structures have delivered leading performance metrics in many
+photon IR detectors. The Amethyst barrier technology uniquely allows the barrier detector concept to be extended by
+exciting internal avalanche gain, as exploited in SPADs. Preliminary characterisation at Lancaster University has
+demonstrated this and shown the potential for the new family of SPAD detectors.
+The project has the following milestones
+Milestone 1: Design of Single Photon Quantum Avalanche Photo Diode (APD) based on Unipolar Barrier Detector (UBD)
+architecture (Amethyst Research and Lancaster University)
+Milestone 2: MBE Growth of the Quantum APD Structure (Lancaster University)
+Lancaster University have vast experience in growing III-V related semiconductor materials. Hence, for this program, the
+APD structure will be grown at Lancaster University.
+Milestone 3: Quantum APD Fabrication (CST)
+Devices will be processed from wafer grown in Milestone 2 using state-of-the-art cleanroom facilities at Compound
+Semiconductor Technologies (CST).
+Milestone 4: Quantum APD Testing and Sub-System Integration (Amethyst Research, Lancaster University and
+subcontracted system OEMs)</gtr:abstractText><gtr:potentialImpactText>This project targets the development and assessment of an innovative new product with a clear application focus. The
+project is motivated by market demand and will be led by the industrial partner under the TSB scheme. This brings a direct
+path to realising impact and a supply chain of companies who stand to benefit directly. These are:
+Lancaster University - As science providers Lancaster will benefit from the opportunity to apply their scientific
+understanding to deliver impact outside the research community and maintain strong industrial partnerships. Through
+involvement in the project it will also develop postgraduate and researcher skills in technology development and working
+with industry. These will be beneficial to the researchers involved and the wider economy.
+Amethyst research Ltd. - As project leaders Amethyst are central to the development of this work into a product and the
+realisation of benefit from it. Amethyst will &amp;quot;own&amp;quot; the product to be developed. Through a mixture of in-house and
+subcontracted work they will build the value into the product and sell it to end users. A core anticipated impact is hence that
+Amethyst will gain new capability and a new successful product, which would support their expansion in the UK and create
+new jobs.
+Compound semiconductor technologies Ltd. - Form a critical part of the subcontracted fabrication supply chain planned to
+produce the new device and fabrication the new product would bring new revenue and support new jobs.
+As these companies benefit from new revenue and create new jobs this will bring positive economic impact into their local
+communities and the wider economy. Indeed as a high value added product with significant export potential, the single
+photon detectors to be developed will bring money into the UK with national benefit.
+Beyond these companies, the system integrator will also stand to benefit significantly. The coverage of an expanded IR
+spectral range will lead to product differentiating capability. Furthermore a valuable impact of this project would be the skill
+development of today's young researchers and engineers, who are required to maintain our high technology industries.
+Societal impacts and benefits are also anticipated. Health focused applications of the single photon sensitivity could
+improve testing for some of the most significant diseases facing society, including cancer. Early, cost effective and reliable
+diagnosis would improve survival rates and reduce treatment costs. Environmental sensing and monitoring applications will
+lead to better control and tracking of emissions as well as better understanding of sources and sinks, which would support
+long term strategic improvement actions for the benefit of those nationally and internationally.</gtr:potentialImpactText><gtr:fund><gtr:end>2016-05-31</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2015-06-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>49492</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>We have developed an proof of concept single photon detector, capable of detecting single infrared photons. The detector is of the single photon avalanche type, which have various desirable advantages, and can detect longer wavelength single photons than any previous such detector.</gtr:description><gtr:exploitationPathways>The new detector is a building block for optical quantum technology systems and hence has many possible application. In particular free space quantum communications and quantum imaging would be especially well supported by the detector.</gtr:exploitationPathways><gtr:id>B92E1B55-DA9F-4E09-BA10-4C16DE993740</gtr:id><gtr:sectors><gtr:sector>Aerospace, Defence and Marine,Digital/Communication/Information Technologies (including Software),Electronics,Environment,Government, Democracy and Justice,Security and Diplomacy</gtr:sector></gtr:sectors></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">EP/M508299/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

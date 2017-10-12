@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/5A393419-8F67-4FB5-9D17-B9A04A7B3CA9"><gtr:id>5A393419-8F67-4FB5-9D17-B9A04A7B3CA9</gtr:id><gtr:name>University of New South Wales</gtr:name><gtr:address><gtr:line1>Gate 9 High St</gtr:line1><gtr:line2>Kensington</gtr:line2><gtr:line4>Sydney</gtr:line4><gtr:line5>NSW 2052</gtr:line5><gtr:postCode>2052</gtr:postCode><gtr:region>Outside UK</gtr:region><gtr:country>Australia</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/DCEC74AE-6E7C-40FC-BFCA-C52990BCEE56"><gtr:id>DCEC74AE-6E7C-40FC-BFCA-C52990BCEE56</gtr:id><gtr:name>School of Clinical Medicine</gtr:name></gtr:collaborator></gtr:collaborations><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/D1774113-D5D2-4B7C-A412-66A90FE4B96F"><gtr:id>D1774113-D5D2-4B7C-A412-66A90FE4B96F</gtr:id><gtr:name>University of Cambridge</gtr:name><gtr:department>Institute of Public Health</gtr:department><gtr:address><gtr:line1>Lensfield Road</gtr:line1><gtr:line4>Cambridge</gtr:line4><gtr:postCode>CB2 1EW</gtr:postCode><gtr:region>East of England</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/D1774113-D5D2-4B7C-A412-66A90FE4B96F"><gtr:id>D1774113-D5D2-4B7C-A412-66A90FE4B96F</gtr:id><gtr:name>University of Cambridge</gtr:name><gtr:address><gtr:line1>Lensfield Road</gtr:line1><gtr:line4>Cambridge</gtr:line4><gtr:postCode>CB2 1EW</gtr:postCode><gtr:region>East of England</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/5A393419-8F67-4FB5-9D17-B9A04A7B3CA9"><gtr:id>5A393419-8F67-4FB5-9D17-B9A04A7B3CA9</gtr:id><gtr:name>University of New South Wales</gtr:name><gtr:address><gtr:line1>Gate 9 High St</gtr:line1><gtr:line2>Kensington</gtr:line2><gtr:line4>Sydney</gtr:line4><gtr:line5>NSW 2052</gtr:line5><gtr:postCode>2052</gtr:postCode><gtr:region>Outside UK</gtr:region><gtr:country>Australia</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/DCEC74AE-6E7C-40FC-BFCA-C52990BCEE56"><gtr:id>DCEC74AE-6E7C-40FC-BFCA-C52990BCEE56</gtr:id><gtr:name>School of Clinical Medicine</gtr:name><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/6D96679F-7B87-4095-8643-EDEC89A16D03"><gtr:id>6D96679F-7B87-4095-8643-EDEC89A16D03</gtr:id><gtr:firstName>Paul</gtr:firstName><gtr:otherNames>Geoffrey</gtr:otherNames><gtr:surname>Ince</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/3A23D8E4-F4BB-43C2-A277-A043CDF45E2D"><gtr:id>3A23D8E4-F4BB-43C2-A277-A043CDF45E2D</gtr:id><gtr:firstName>Ian</gtr:firstName><gtr:otherNames>Grant</gtr:otherNames><gtr:surname>McKeith</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/8924B01A-D106-41DD-8CE0-4578EF9DC1B0"><gtr:id>8924B01A-D106-41DD-8CE0-4578EF9DC1B0</gtr:id><gtr:firstName>John</gtr:firstName><gtr:surname>Bond</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/83FB2515-9680-4697-815B-398F03B71192"><gtr:id>83FB2515-9680-4697-815B-398F03B71192</gtr:id><gtr:firstName>Fiona</gtr:firstName><gtr:otherNames>Elaine</gtr:otherNames><gtr:surname>Matthews</gtr:surname><gtr:orcidId>0000-0002-1728-2388</gtr:orcidId><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/09717709-C72F-4D1D-A890-7310F654D410"><gtr:id>09717709-C72F-4D1D-A890-7310F654D410</gtr:id><gtr:firstName>Carol</gtr:firstName><gtr:surname>Brayne</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=G0400077"><gtr:id>F30FB0E8-62BC-4175-9430-226059292F91</gtr:id><gtr:title>An investigation of early cognitive impairment in a longitudinal population based study</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>G0400077</gtr:grantReference><gtr:abstractText>Abstracts are not currently available in GtR for all funded research. This is normally because the abstract was not required at the time of proposal submission, but may be because it included sensitive information such as personal details.</gtr:abstractText><gtr:fund><gtr:end>2008-01-16</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/C008C651-F5B0-4859-A334-5F574AB6B57C"><gtr:id>C008C651-F5B0-4859-A334-5F574AB6B57C</gtr:id><gtr:name>MRC</gtr:name></gtr:funder><gtr:start>2006-01-17</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>98251</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of New South Wales</gtr:collaboratingOrganisation><gtr:country>Australia, Commonwealth of</gtr:country><gtr:department>Centre for Healthy Brain Ageing (CHeBA)</gtr:department><gtr:description>Cosmic consortium</gtr:description><gtr:id>C6EE7D17-4535-4185-AE2B-B8CC02B19A9B</gtr:id><gtr:impact>PMId: 26539987, 24195705</gtr:impact><gtr:partnerContribution>Data and analysis provided to the group</gtr:partnerContribution><gtr:piContribution>Consortia of 24 ageing studies to investigate mild cognitive impairment</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2015-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>School of Clinical Medicine</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:department>Department of Public Health and Primary Care</gtr:department><gtr:description>MRC CFAS</gtr:description><gtr:id>CEC876CE-8B9C-49D6-B11F-B30052C39541</gtr:id><gtr:impact>Multidisciplinary team from across the UK, public health researchers, clinicians, statisticians, neuropathologists, epidemiologists
+
+
+1: Wu YT, Prina AM, Jones A, Barnes LE, Matthews FE, Brayne C, Mrc Cfas. Land use
+mix and five-year mortality in later life: Results from the Cognitive Function
+and Ageing Study. Health Place. 2016 Mar;38:54-60. doi:
+10.1016/j.healthplace.2015.12.002. Epub 2016 Feb 1. PubMed PMID: 26798962.
+
+
+2: Jagger C, Matthews FE, Wohland P, Fouweather T, Stephan BC, Robinson L, Arthur
+A, Brayne C; Medical Research Council Cognitive Function and Ageing
+Collaboration. A comparison of health expectancies over two decades in England:
+results of the Cognitive Function and Ageing Study I and II. Lancet. 2016 Feb
+20;387(10020):779-86. doi: 10.1016/S0140-6736(15)00947-2. Epub 2015 Dec 9. PubMed
+PMID: 26680218; PubMed Central PMCID: PMC4761658.
+
+
+3: Wharton SB, Minett T, Drew D, Forster G, Matthews F, Brayne C, Ince PG; MRC
+Cognitive Function and Ageing Neuropathology Study Group. Epidemiological
+pathology of Tau in the ageing brain: application of staging for neuropil threads
+(BrainNet Europe protocol) to the MRC cognitive function and ageing brain study. 
+Acta Neuropathol Commun. 2016 Feb 8;4(1):11. doi: 10.1186/s40478-016-0275-x.
+PubMed PMID: 26857919; PubMed Central PMCID: PMC4746919.
+
+
+4: Simpson JE, Ince PG, Minett T, Matthews FE, Heath PR, Shaw PJ, Goodall E,
+Garwood CJ, Ratcliffe LE, Brayne C, Rattray M, Wharton SB; MRC Cognitive Function
+and Ageing Neuropathology Study Group. Neuronal DNA damage response-associated
+dysregulation of signalling pathways and cholesterol metabolism at the earliest
+stages of Alzheimer-type pathology. Neuropathol Appl Neurobiol. 2016
+Feb;42(2):167-179. doi: 10.1111/nan.12252. Epub 2015 Jul 7. PubMed PMID:
+26095650.
+
+
+5: Newton JN, Briggs AD, Murray CJ, Dicker D, Foreman KJ, Wang H, Naghavi M,
+Forouzanfar MH, Ohno SL, Barber RM, Vos T, Stanaway JD, Schmidt JC, Hughes AJ,
+Fay DF, Ecob R, Gresser C, McKee M, Rutter H, Abubakar I, Ali R, Anderson HR,
+Banerjee A, Bennett DA, Bernab&amp;eacute; E, Bhui KS, Biryukov SM, Bourne RR, Brayne CE,
+Bruce NG, Brugha TS, Burch M, Capewell S, Casey D, Chowdhury R, Coates MM, Cooper
+C, Critchley JA, Dargan PI, Dherani MK, Elliott P, Ezzati M, Fenton KA, Fraser
+MS, F&amp;uuml;rst T, Greaves F, Green MA, Gunnell DJ, Hannigan BM, Hay RJ, Hay SI,
+Hemingway H, Larson HJ, Looker KJ, Lunevicius R, Lyons RA, Marcenes W,
+Mason-Jones AJ, Matthews FE, Moller H, Murdoch ME, Newton CR, Pearce N, Piel FB, 
+Pope D, Rahimi K, Rodriguez A, Scarborough P, Schumacher AE, Shiue I, Smeeth L,
+Tedstone A, Valabhji J, Williams HC, Wolfe CD, Woolf AD, Davis AC. Changes in
+health in England, with analysis by English regions and areas of deprivation,
+1990-2013: a systematic analysis for the Global Burden of Disease Study 2013.
+Lancet. 2015 Dec 5;386(10010):2257-74. doi: 10.1016/S0140-6736(15)00195-6. Epub
+2015 Sep 14. PubMed PMID: 26382241; PubMed Central PMCID: PMC4672153.
+
+
+6: Fluteau A, Ince PG, Minett T, Matthews FE, Brayne C, Garwood CJ, Ratcliffe LE,
+Morgan S, Heath PR, Shaw PJ, Wharton SB, Simpson JE; MRC Cognitive Function
+Ageing Neuropathology Study Group. The nuclear retention of transcription factor 
+FOXO3a correlates with a DNA damage response and increased glutamine synthetase
+expression by astrocytes suggesting a neuroprotective role in the ageing brain.
+Neurosci Lett. 2015 Nov 16;609:11-7. doi: 10.1016/j.neulet.2015.10.001. Epub 2015
+Oct 8. PubMed PMID: 26455863; PubMed Central PMCID: PMC4674771.
+
+
+7: Wu YT, Prina AM, Jones AP, Barnes LE, Matthews FE, Brayne C; Medical Research 
+Council Cognitive Function and Ageing Study. Community environment, cognitive
+impairment and dementia in later life: results from the Cognitive Function and
+Ageing Study. Age Ageing. 2015 Nov;44(6):1005-11. doi: 10.1093/ageing/afv137.
+Epub 2015 Oct 13. PubMed PMID: 26464419; PubMed Central PMCID: PMC4621236.
+
+
+8: Yates JA, Clare L, Woods RT, Matthews FE; Cognitive Function and Ageing Study 
+Wales. Subjective Memory Complaints are Involved in the Relationship between Mood
+and Mild Cognitive Impairment. J Alzheimers Dis. 2015 Sep 24;48 Suppl 1:S115-23. 
+doi: 10.3233/JAD-150371. PubMed PMID: 26402102.
+
+
+9: Wu YT, Prina AM, Jones A, Matthews FE, Brayne C; MRC CFAS. Older people, the
+natural environment and common mental disorders: cross-sectional results from the
+Cognitive Function and Ageing Study. BMJ Open. 2015 Sep 16;5(9):e007936. doi:
+10.1136/bmjopen-2015-007936. PubMed PMID: 26377504; PubMed Central PMCID:
+PMC4577935.
+
+
+10: Gao L, Green E, Barnes LE, Brayne C, Matthews FE, Robinson L, Arthur A;
+Medical Research Council Cognitive Function and Ageing Collaboration. Changing
+non-participation in epidemiological studies of older people: evidence from the
+Cognitive Function and Ageing Study I and II. Age Ageing. 2015 Sep;44(5):867-73. 
+doi: 10.1093/ageing/afv101. Epub 2015 Aug 14. PubMed PMID: 26276156; PubMed
+Central PMCID: PMC4547929.
+
+
+11: Al-Mashhadi S, Simpson JE, Heath PR, Dickman M, Forster G, Matthews FE,
+Brayne C, Ince PG, Wharton SB; Medical Research Council Cognitive Function and
+Ageing Study. Oxidative Glial Cell Damage Associated with White Matter Lesions in
+the Aging Human Brain. Brain Pathol. 2015 Sep;25(5):565-74. doi:
+10.1111/bpa.12216. Epub 2014 Nov 20. PubMed PMID: 25311358.
+
+
+12: Wu YT, Prina AM, Barnes LE, Matthews FE, Brayne C; MRC CFAS. Relocation at
+older age: results from the Cognitive Function and Ageing Study. J Public Health 
+(Oxf). 2015 Sep;37(3):480-7. doi: 10.1093/pubmed/fdv050. Epub 2015 Apr 28. PubMed
+PMID: 25922369; PubMed Central PMCID: PMC4552011.
+
+
+13: Simpson JE, Ince PG, Matthews FE, Shaw PJ, Heath PR, Brayne C, Garwood C,
+Higginbottom A, Wharton SB; MRC Cognitive Function and Ageing Neuropathology
+Study Group. A neuronal DNA damage response is detected at the earliest stages of
+Alzheimer's neuropathology and correlates with cognitive impairment in the
+Medical Research Council's Cognitive Function and Ageing Study ageing brain
+cohort. Neuropathol Appl Neurobiol. 2015 Jun;41(4):483-96. doi:
+10.1111/nan.12202. Epub 2015 Apr 23. PubMed PMID: 25443110.
+
+
+14: Zaccai J, Brayne C, Matthews FE, Ince PG; MRC Cognitive Function and Ageing
+Neuropathology Study. Alpha-synucleinopathy and neuropsychological symptoms in a 
+population-based cohort of the elderly. Alzheimers Res Ther. 2015 Apr 13;7(1):19.
+doi: 10.1186/s13195-015-0101-x. eCollection 2015. PubMed PMID: 25870655; PubMed
+Central PMCID: PMC4394405.
+
+
+15: Mathur R, Ince PG, Minett T, Garwood CJ, Shaw PJ, Matthews FE, Brayne C,
+Simpson JE, Wharton SB; MRC Cognitive Function and Ageing Neuropathology Study
+Group. A reduced astrocyte response to ?-amyloid plaques in the ageing brain
+associates with cognitive impairment. PLoS One. 2015 Feb 23;10(2):e0118463. doi: 
+10.1371/journal.pone.0118463. eCollection 2015. PubMed PMID: 25707004; PubMed
+Central PMCID: PMC4338046.
+
+
+16: Garwood CJ, Simpson JE, Al Mashhadi S, Axe C, Wilson S, Heath PR, Shaw PJ,
+Matthews FE, Brayne C, Ince PG, Wharton SB; MRC Cognitive Function and Ageing
+Study. DNA damage response and senescence in endothelial cells of human cerebral 
+cortex and relation to Alzheimer's neuropathology progression: a population-based
+study in the Medical Research Council Cognitive Function and Ageing Study
+(MRC-CFAS) cohort. Neuropathol Appl Neurobiol. 2014 Dec;40(7):802-14. doi:
+10.1111/nan.12156. PubMed PMID: 24861546.
+
+
+17: Davis DH, Barnes LE, Stephan BC, MacLullich AM, Meagher D, Copeland J,
+Matthews FE, Brayne C; MRC Cognitive Function and Ageing Study. The descriptive
+epidemiology of delirium symptoms in a large population-based cohort study:
+results from the Medical Research Council Cognitive Function and Ageing Study
+(MRC CFAS). BMC Geriatr. 2014 Jul 28;14:87. doi: 10.1186/1471-2318-14-87. PubMed 
+PMID: 25066510; PubMed Central PMCID: PMC4126352.
+
+
+18: van der Linde RM, Dening T, Matthews FE, Brayne C. Grouping of behavioural
+and psychological symptoms of dementia. Int J Geriatr Psychiatry. 2014
+Jun;29(6):562-8. doi: 10.1002/gps.4037. Epub 2013 Oct 16. Review. PubMed PMID:
+24677112; PubMed Central PMCID: PMC4255309.
+
+
+19: Lima TA, Adler AL, Minett T, Matthews FE, Brayne C, Marioni RE; Medical
+Research Council Cognitive Function and Ageing Study. C-reactive protein, APOE
+genotype and longitudinal cognitive change in an older population. Age Ageing.
+2014 Mar;43(2):289-92. doi: 10.1093/ageing/aft193. Epub 2013 Dec 3. PubMed PMID: 
+24305621; PubMed Central PMCID: PMC3927773.
+
+
+20: Love S, Chalmers K, Ince P, Esiri M, Attems J, Jellinger K, Yamada M,
+McCarron M, Minett T, Matthews F, Greenberg S, Mann D, Kehoe PG. Development,
+appraisal, validation and implementation of a consensus protocol for the
+assessment of cerebral amyloid angiopathy in post-mortem brain tissue. Am J
+Neurodegener Dis. 2014 Mar 28;3(1):19-32. eCollection 2014. Erratum in: Am J
+Neurodegener Dis. 2015;4(2):49. PubMed PMID: 24754000; PubMed Central PMCID:
+PMC3986608.
+
+
+21: Lambert JC, Ibrahim-Verbaas CA, Harold D, Naj AC, Sims R, Bellenguez C,
+DeStafano AL, Bis JC, Beecham GW, Grenier-Boley B, Russo G, Thorton-Wells TA,
+Jones N, Smith AV, Chouraki V, Thomas C, Ikram MA, Zelenika D, Vardarajan BN,
+Kamatani Y, Lin CF, Gerrish A, Schmidt H, Kunkle B, Dunstan ML, Ruiz A, Bihoreau 
+MT, Choi SH, Reitz C, Pasquier F, Cruchaga C, Craig D, Amin N, Berr C, Lopez OL, 
+De Jager PL, Deramecourt V, Johnston JA, Evans D, Lovestone S, Letenneur L, Mor&amp;oacute;n
+FJ, Rubinsztein DC, Eiriksdottir G, Sleegers K, Goate AM, Fi&amp;eacute;vet N, Huentelman
+MW, Gill M, Brown K, Kamboh MI, Keller L, Barberger-Gateau P, McGuiness B, Larson
+EB, Green R, Myers AJ, Dufouil C, Todd S, Wallon D, Love S, Rogaeva E, Gallacher 
+J, St George-Hyslop P, Clarimon J, Lleo A, Bayer A, Tsuang DW, Yu L, Tsolaki M,
+Boss&amp;ugrave; P, Spalletta G, Proitsi P, Collinge J, Sorbi S, Sanchez-Garcia F, Fox NC,
+Hardy J, Deniz Naranjo MC, Bosco P, Clarke R, Brayne C, Galimberti D, Mancuso M, 
+Matthews F; European Alzheimer's Disease Initiative (EADI); Genetic and
+Environmental Risk in Alzheimer's Disease; Alzheimer's Disease Genetic
+Consortium; Cohorts for Heart and Aging Research in Genomic Epidemiology, Moebus 
+S, Mecocci P, Del Zompo M, Maier W, Hampel H, Pilotto A, Bullido M, Panza F,
+Caffarra P, Nacmias B, Gilbert JR, Mayhaus M, Lannefelt L, Hakonarson H, Pichler 
+S, Carrasquillo MM, Ingelsson M, Beekly D, Alvarez V, Zou F, Valladares O,
+Younkin SG, Coto E, Hamilton-Nelson KL, Gu W, Razquin C, Pastor P, Mateo I, Owen 
+MJ, Faber KM, Jonsson PV, Combarros O, O'Donovan MC, Cantwell LB, Soininen H,
+Blacker D, Mead S, Mosley TH Jr, Bennett DA, Harris TB, Fratiglioni L, Holmes C, 
+de Bruijn RF, Passmore P, Montine TJ, Bettens K, Rotter JI, Brice A, Morgan K,
+Foroud TM, Kukull WA, Hannequin D, Powell JF, Nalls MA, Ritchie K, Lunetta KL,
+Kauwe JS, Boerwinkle E, Riemenschneider M, Boada M, Hiltuenen M, Martin ER,
+Schmidt R, Rujescu D, Wang LS, Dartigues JF, Mayeux R, Tzourio C, Hofman A,
+N&amp;ouml;then MM, Graff C, Psaty BM, Jones L, Haines JL, Holmans PA, Lathrop M,
+Pericak-Vance MA, Launer LJ, Farrer LA, van Duijn CM, Van Broeckhoven C, Moskvina
+V, Seshadri S, Williams J, Schellenberg GD, Amouyel P. Meta-analysis of 74,046
+individuals identifies 11 new susceptibility loci for Alzheimer's disease. Nat
+Genet. 2013 Dec;45(12):1452-8. doi: 10.1038/ng.2802. Epub 2013 Oct 27. PubMed
+PMID: 24162737; PubMed Central PMCID: PMC3896259.
+
+
+22: Garwood C, Faizullabhoy A, Wharton SB, Ince PG, Heath PR, Shaw PJ, Baxter L, 
+Gelsthorpe C, Forster G, Matthews FE, Brayne C, Simpson JE; MRC Cognitive
+Function and Ageing Neuropathology Study Group. Calcium dysregulation in relation
+to Alzheimer-type pathology in the ageing brain. Neuropathol Appl Neurobiol. 2013
+Dec;39(7):788-99. doi: 10.1111/nan.12033. PubMed PMID: 23421725.
+
+
+23: Sachdev PS, Lipnicki DM, Kochan NA, Crawford JD, Rockwood K, Xiao S, Li J, Li
+X, Brayne C, Matthews FE, Stephan BC, Lipton RB, Katz MJ, Ritchie K, Carri&amp;egrave;re I, 
+Ancelin ML, Seshadri S, Au R, Beiser AS, Lam LC, Wong CH, Fung AW, Kim KW, Han
+JW, Kim TH, Petersen RC, Roberts RO, Mielke MM, Ganguli M, Dodge HH, Hughes T,
+Anstey KJ, Cherbuin N, Butterworth P, Ng TP, Gao Q, Reppermund S, Brodaty H,
+Meguro K, Schupf N, Manly J, Stern Y, Lobo A, Lopez-Anton R, Santab&amp;aacute;rbara J;
+COSMIC. COSMIC (Cohort Studies of Memory in an International Consortium): an
+international consortium to identify risk and protective factors and biomarkers
+of cognitive ageing and dementia in diverse ethnic and sociocultural groups. BMC 
+Neurol. 2013 Nov 6;13:165. doi: 10.1186/1471-2377-13-165. PubMed PMID: 24195705; 
+PubMed Central PMCID: PMC3827845.
+
+
+24: Matthews FE, Arthur A, Barnes LE, Bond J, Jagger C, Robinson L, Brayne C;
+Medical Research Council Cognitive Function and Ageing Collaboration. A
+two-decade comparison of prevalence of dementia in individuals aged 65 years and 
+older from three geographical areas of England: results of the Cognitive Function
+and Ageing Study I and II. Lancet. 2013 Oct 26;382(9902):1405-12. doi:
+10.1016/S0140-6736(13)61570-6. Epub 2013 Jul 17. PubMed PMID: 23871492; PubMed
+Central PMCID: PMC3906607.
+
+
+25: Restaino M, Matthews FE, Minett T, Albanese E, Brayne C, Stephan BC.
+Predicting risk of 2-year incident dementia using the CAMCOG total and subscale
+scores. Age Ageing. 2013 Sep;42(5):649-53. doi: 10.1093/ageing/aft082. Epub 2013 
+Jul 19. PubMed PMID: 23872637; PubMed Central PMCID: PMC3745089.
+
+
+26: van der Linde RM, Stephan BC, Matthews FE, Brayne C, Savva GM; Medical
+Research Council Cognitive Function and Ageing Study. The presence of behavioural
+and psychological symptoms and progression to dementia in the cognitively
+impaired older population. Int J Geriatr Psychiatry. 2013 Jul;28(7):700-9. doi:
+10.1002/gps.3873. Epub 2012 Aug 10. PubMed PMID: 22887592.
+
+
+27: K&amp;ouml;hler S, Allardyce J, Verhey FR, McKeith IG, Matthews F, Brayne C, Savva GM;
+Medical Research Council Cognitive Function and Ageing Study. Cognitive decline
+and dementia risk in older adults with psychotic symptoms: a prospective cohort
+study. Am J Geriatr Psychiatry. 2013 Feb;21(2):119-28. doi:
+10.1016/j.jagp.2012.10.010. Epub 2013 Jan 22. PubMed PMID: 23343485.
+
+
+28: Davis DH, Muniz Terrera G, Keage H, Rahkonen T, Oinas M, Matthews FE,
+Cunningham C, Polvikoski T, Sulkava R, MacLullich AM, Brayne C. Delirium is a
+strong risk factor for dementia in the oldest-old: a population-based cohort
+study. Brain. 2012 Sep;135(Pt 9):2809-16. doi: 10.1093/brain/aws190. Epub 2012
+Aug 9. PubMed PMID: 22879644; PubMed Central PMCID: PMC3437024.
+
+
+29: Matthews F, Marioni R, Brayne C; Medical Research Council Cognitive Function 
+and Ageing Study. Examining the influence of gender, education, social class and 
+birth cohort on MMSE tracking over time: a population-based prospective cohort
+study. BMC Geriatr. 2012 Aug 13;12:45. doi: 10.1186/1471-2318-12-45. PubMed PMID:
+22889350; PubMed Central PMCID: PMC3542122.
+
+
+30: Keage HA, Banks S, Yang KL, Morgan K, Brayne C, Matthews FE. What sleep
+characteristics predict cognitive decline in the elderly? Sleep Med. 2012
+Aug;13(7):886-92. doi: 10.1016/j.sleep.2012.02.003. Epub 2012 May 5. PubMed PMID:
+22560827.
+
+
+31: Stephan BC, Matthews FE, Hunter S, Savva GM, Bond J, McKeith IG, Ince P,
+Brayne C; Medical Research Council Cognitive Function and Ageing Study (MRC
+CFAS). Neuropathological profile of mild cognitive impairment from a population
+perspective. Alzheimer Dis Assoc Disord. 2012 Jul-Sep;26(3):205-12. PubMed PMID: 
+21946014.
+
+
+32: Richardson K, Stephan BC, Ince PG, Brayne C, Matthews FE, Esiri MM. The
+neuropathology of vascular disease in the Medical Research Council Cognitive
+Function and Ageing Study (MRC CFAS). Curr Alzheimer Res. 2012 Jul;9(6):687-96.
+PubMed PMID: 22471870.
+
+
+33: Valenzuela MJ, Matthews FE, Brayne C, Ince P, Halliday G, Kril JJ, Dalton MA,
+Richardson K, Forster G, Sachdev PS; Medical Research Council Cognitive Function 
+and Ageing Study. Multiple biological pathways link cognitive lifestyle to
+protection from dementia. Biol Psychiatry. 2012 May 1;71(9):783-91. doi:
+10.1016/j.biopsych.2011.07.036. Epub 2011 Nov 4. PubMed PMID: 22055015.
+
+
+34: Lace G, Ince PG, Brayne C, Savva GM, Matthews FE, de Silva R, Simpson JE,
+Wharton SB. Mesial temporal astrocyte tau pathology in the MRC-CFAS ageing brain 
+cohort. Dement Geriatr Cogn Disord. 2012;34(1):15-24. doi: 10.1159/000341581.
+Epub 2012 Aug 3. PubMed PMID: 22868294.
+
+
+35: Stephan BC, Matthews FE, Ma B, Muniz G, Hunter S, Davis D, McKeith IG, Foster
+G, Ince PG, Brayne C. Alzheimer and vascular neuropathological changes associated
+with different cognitive States in a non-demented sample. J Alzheimers Dis.
+2012;29(2):309-18. doi: 10.3233/JAD-2011-110518. PubMed PMID: 22233761; PubMed
+Central PMCID: PMC3975483.
+
+
+36: Keage HA, Ince PG, Matthews FE, Wharton SB, McKeith IG, Brayne C; MRC CFAS
+and CC75C. Impact of less common and &amp;quot;disregarded&amp;quot; neurodegenerative pathologies 
+on dementia burden in a population-based cohort. J Alzheimers Dis.
+2012;28(2):485-93. doi: 10.3233/JAD-2011-111268. PubMed PMID: 22045491.
+
+
+37: Marioni RE, van den Hout A, Valenzuela MJ, Brayne C, Matthews FE; MRC
+Cognitive Function and Ageing Study. Active cognitive lifestyle associates with
+cognitive recovery and a reduced risk of cognitive decline. J Alzheimers Dis.
+2012;28(1):223-30. doi: 10.3233/JAD-2011-110377. PubMed PMID: 21971400.
+
+
+38: Marioni RE, Valenzuela MJ, van den Hout A, Brayne C, Matthews FE; MRC
+Cognitive Function and Ageing Study. Active cognitive lifestyle is associated
+with positive cognitive health transitions and compression of morbidity from age 
+sixty-five. PLoS One. 2012;7(12):e50940. doi: 10.1371/journal.pone.0050940. Epub 
+2012 Dec 12. PubMed PMID: 23251404; PubMed Central PMCID: PMC3521012.
+
+
+39: Viggars AP, Wharton SB, Simpson JE, Matthews FE, Brayne C, Savva GM, Garwood 
+C, Drew D, Shaw PJ, Ince PG. Alterations in the blood brain barrier in ageing
+cerebral cortex in relationship to Alzheimer-type pathology: a study in the
+MRC-CFAS population neuropathology cohort. Neurosci Lett. 2011 Nov
+7;505(1):25-30. doi: 10.1016/j.neulet.2011.09.049. Epub 2011 Sep 28. PubMed PMID:
+21970975.
+
+
+40: Simpson JE, Ince PG, Shaw PJ, Heath PR, Raman R, Garwood CJ, Gelsthorpe C,
+Baxter L, Forster G, Matthews FE, Brayne C, Wharton SB; MRC Cognitive Function
+and Ageing Neuropathology Study Group. Microarray analysis of the astrocyte
+transcriptome in the aging brain: relationship to Alzheimer's pathology and APOE 
+genotype. Neurobiol Aging. 2011 Oct;32(10):1795-807. doi:
+10.1016/j.neurobiolaging.2011.04.013. Epub 2011 Jun 25. PubMed PMID: 21705112.
+
+
+41: Marioni RE, Chatfield M, Brayne C, Matthews FE; Medical Research Council
+Cognitive Function and Ageing Study Group. The reliability of assigning
+individuals to cognitive states using the Mini Mental-State Examination: a
+population-based prospective cohort study. BMC Med Res Methodol. 2011 Sep
+6;11:127. doi: 10.1186/1471-2288-11-127. PubMed PMID: 21896187; PubMed Central
+PMCID: PMC3175206.
+
+
+42: Fox C, Richardson K, Maidment ID, Savva GM, Matthews FE, Smithard D, Coulton 
+S, Katona C, Boustani MA, Brayne C. Anticholinergic medication use and cognitive 
+impairment in the older population: the medical research council cognitive
+function and ageing study. J Am Geriatr Soc. 2011 Aug;59(8):1477-83. doi:
+10.1111/j.1532-5415.2011.03491.x. Epub 2011 Jun 24. PubMed PMID: 21707557.
+
+
+43: Stephan BC, Brayne C, Savva GM, Matthews FE; Medical Research Council
+Cognitive Function and Ageing Study. Occurrence of medical co-morbidity in mild
+cognitive impairment: implications for generalisation of MCI research. Age
+Ageing. 2011 Jul;40(4):501-7. doi: 10.1093/ageing/afr057. PubMed PMID: 21673136; 
+PubMed Central PMCID: PMC3290328.
+
+
+44: Richardson K, Ananou A, Lafortune L, Brayne C, Matthews FE. Variation over
+time in the association between polypharmacy and mortality in the older
+population. Drugs Aging. 2011 Jul 1;28(7):547-60. doi:
+10.2165/11592000-000000000-00000. PubMed PMID: 21721599.
+
+
+45: Valenzuela M, Brayne C, Sachdev P, Wilcock G, Matthews F; Medical Research
+Council Cognitive Function and Ageing Study. Cognitive lifestyle and long-term
+risk of dementia and survival after diagnosis in a multicenter population-based
+cohort. Am J Epidemiol. 2011 May 1;173(9):1004-12. doi: 10.1093/aje/kwq476. Epub 
+2011 Mar 4. PubMed PMID: 21378129.
+
+
+46: Nicoll JA, Savva GM, Stewart J, Matthews FE, Brayne C, Ince P; Medical
+Research Council Cognitive Function and Ageing Study. Association between APOE
+genotype, neuropathology and dementia in the older population of England and
+Wales. Neuropathol Appl Neurobiol. 2011 Apr;37(3):285-94. doi:
+10.1111/j.1365-2990.2010.01130.x. PubMed PMID: 20880354.
+
+
+47: Marioni RE, Matthews FE, Brayne C; MRC Cognitive Function and Ageing Study.
+The association between late-life cognitive test scores and retrospective
+informant interview data. Int Psychogeriatr. 2011 Mar;23(2):274-9. doi:
+10.1017/S1041610210001201. Epub 2010 Jul 19. PubMed PMID: 20637140.
+
+
+48: Tsopelas C, Stewart R, Savva GM, Brayne C, Ince P, Thomas A, Matthews FE;
+Medical Research Council Cognitive Function and Ageing Study. Neuropathological
+correlates of late-life depression in older people. Br J Psychiatry. 2011
+Feb;198(2):109-14. doi: 10.1192/bjp.bp.110.078816. PubMed PMID: 21282780.
+
+
+49: Wharton SB, Brayne C, Savva GM, Matthews FE, Forster G, Simpson J, Lace G,
+Ince PG; Medical Research Council Cognitive Function and Aging Study.
+Epidemiological neuropathology: the MRC Cognitive Function and Aging Study
+experience. J Alzheimers Dis. 2011;25(2):359-72. doi: 10.3233/JAD-2011-091402.
+PubMed PMID: 21422529.
+
+
+50: Simpson JE, Wharton SB, Cooper J, Gelsthorpe C, Baxter L, Forster G, Shaw PJ,
+Savva G, Matthews FE, Brayne C, Ince PG. Alterations of the blood-brain barrier
+in cerebral white matter lesions in the ageing brain. Neurosci Lett. 2010 Dec
+17;486(3):246-51. doi: 10.1016/j.neulet.2010.09.063. Epub 2010 Sep 29. PubMed
+PMID: 20887772.
+
+
+51: van der Linde R, Stephan BC, Matthews FE, Brayne C, Savva GM; Medical
+Research Council Cognitive Function and Ageing Study. Behavioural and
+psychological symptoms in the older population without dementia--relationship
+with socio-demographics, health and cognition. BMC Geriatr. 2010 Nov 30;10:87.
+doi: 10.1186/1471-2318-10-87. PubMed PMID: 21118498; PubMed Central PMCID:
+PMC3014957.
+
+
+52: Hogervorst E, Matthews FE, Brayne C. Are optimal levels of testosterone
+associated with better cognitive function in healthy older women and men? Biochim
+Biophys Acta. 2010 Oct;1800(10):1145-52. doi: 10.1016/j.bbagen.2009.12.009. Epub 
+2010 Jan 7. PubMed PMID: 20060437.
+
+
+53: Cluett C, Brayne C, Clarke R, Evans G, Matthews F, Rubinsztein DC, Huppert F,
+Llewellyn DJ, Rice N, Henley W, Frayling TM, Murray A, Melzer D. Polymorphisms in
+LMNA and near a SERPINA gene cluster are associated with cognitive function in
+older people. Neurobiol Aging. 2010 Sep;31(9):1563-8. doi:
+10.1016/j.neurobiolaging.2008.08.020. Epub 2008 Oct 9. PubMed PMID: 18848371;
+PubMed Central PMCID: PMC2975102.
+
+
+54: Stephan BC, Savva GM, Brayne C, Bond J, McKeith IG, Matthews FE; Medical
+Research Council Cognitive Function and Ageing Study (MRC CFAS). Optimizing mild 
+cognitive impairment for discriminating dementia risk in the general older
+population. Am J Geriatr Psychiatry. 2010 Aug;18(8):662-73. PubMed PMID:
+21491627.
+
+
+55: EClipSE Collaborative Members, Brayne C, Ince PG, Keage HA, McKeith IG,
+Matthews FE, Polvikoski T, Sulkava R. Education, the brain and dementia:
+neuroprotection or compensation? Brain. 2010 Aug;133(Pt 8):2210-6. doi:
+10.1093/brain/awq185. PubMed PMID: 20826429.
+
+
+56: Matthews FE, Muniz-Terrera G, McKeith I, Brayne C; MRC CFAS. Who will be
+eligible? An investigation of the dementia population eligible for cholinesterase
+treatment following the change in NICE guidance. Int J Geriatr Psychiatry. 2010
+Jul;25(7):719-24. doi: 10.1002/gps.2413. PubMed PMID: 19946863.
+
+
+57: Simpson JE, Ince PG, Lace G, Forster G, Shaw PJ, Matthews F, Savva G, Brayne 
+C, Wharton SB; MRC Cognitive Function and Ageing Neuropathology Study Group.
+Astrocyte phenotype in relation to Alzheimer-type pathology in the ageing brain. 
+Neurobiol Aging. 2010 Apr;31(4):578-90. doi:
+10.1016/j.neurobiolaging.2008.05.015. Epub 2008 Jun 30. PubMed PMID: 18586353.
+
+
+58: Simpson JE, Ince PG, Haynes LJ, Theaker R, Gelsthorpe C, Baxter L, Forster G,
+Lace GL, Shaw PJ, Matthews FE, Savva GM, Brayne C, Wharton SB; MRC Cognitive
+Function and Ageing Neuropathology Study Group. Population variation in oxidative
+stress and astrocyte DNA damage in relation to Alzheimer-type pathology in the
+ageing brain. Neuropathol Appl Neurobiol. 2010 Feb;36(1):25-40. doi:
+10.1111/j.1365-2990.2009.01030.x. Epub 2009 May 5. PubMed PMID: 19422529.
+
+
+59: Keage HA, Matthews FE, Yip A, Gao L, McCracken C, McKeith IG, Rubinsztein DC,
+Brayne C; MRC Cognitive Function and Ageing Study. APOE and ACE polymorphisms and
+dementia risk in the older population over prolonged follow-up: 10 years of
+incidence in the MRC CFA Study. Age Ageing. 2010 Jan;39(1):104-11. doi:
+10.1093/ageing/afp210. Epub 2009 Nov 24. PubMed PMID: 19939808; PubMed Central
+PMCID: PMC2794361.
+
+
+60: Seidel D, Jagger C, Brayne C, Matthews FE, Cfas M. Recovery in instrumental
+activities of daily living (IADLs): findings from the Medical Research Council
+Cognitive Function and Ageing Study (MRC CFAS). Age Ageing. 2009 Nov;38(6):663-8.
+doi: 10.1093/ageing/afp128. Epub 2009 Jul 25. PubMed PMID: 19633320.
+
+
+61: Matthews FE, Brayne C, Lowe J, McKeith I, Wharton SB, Ince P. Epidemiological
+pathology of dementia: attributable-risks at death in the Medical Research
+Council Cognitive Function and Ageing Study. PLoS Med. 2009 Nov;6(11):e1000180.
+doi: 10.1371/journal.pmed.1000180. Epub 2009 Nov 10. PubMed PMID: 19901977;
+PubMed Central PMCID: PMC2765638.
+
+
+62: Seidel D, Crilly N, Matthews FE, Jagger C, Brayne C, Clarkson PJ; Medical
+Research Council Cognitive Function and Ageing Study. Patterns of functional loss
+among older people: a prospective analysis. Hum Factors. 2009 Oct;51(5):669-80.
+PubMed PMID: 20196292.
+
+
+63: Llewellyn DJ, Matthews FE. Increasing levels of semantic verbal fluency in
+elderly English adults. Neuropsychol Dev Cogn B Aging Neuropsychol Cogn. 2009
+Jul;16(4):433-45. doi: 10.1080/13825580902773867. Epub 2009 Mar 25. PubMed PMID: 
+19319746.
+
+
+64: Byford M, Brayne C, McKeith I, Chatfield M, Ince P, Matthews F; MRC CFAS
+Neuropathology group. Lewy bodies and neuronal loss in subcortical areas and
+disability in non-demented older people: a population based neuropathological
+cohort study. BMC Geriatr. 2009 Jun 15;9:22. doi: 10.1186/1471-2318-9-22. PubMed 
+PMID: 19527486; PubMed Central PMCID: PMC2706837.
+
+
+65: Savva GM, Wharton SB, Ince PG, Forster G, Matthews FE, Brayne C; Medical
+Research Council Cognitive Function and Ageing Study. Age, neuropathology, and
+dementia. N Engl J Med. 2009 May 28;360(22):2302-9. doi: 10.1056/NEJMoa0806142.
+PubMed PMID: 19474427.
+
+
+66: Lace G, Savva GM, Forster G, de Silva R, Brayne C, Matthews FE, Barclay JJ,
+Dakin L, Ince PG, Wharton SB; MRC-CFAS. Hippocampal tau pathology is related to
+neuroanatomical connections: an ageing population-based study. Brain. 2009
+May;132(Pt 5):1324-34. doi: 10.1093/brain/awp059. Epub 2009 Mar 24. PubMed PMID: 
+19321462.
+
+
+67: Savva GM, Zaccai J, Matthews FE, Davidson JE, McKeith I, Brayne C; Medical
+Research Council Cognitive Function and Ageing Study. Prevalence, correlates and 
+course of behavioural and psychological symptoms of dementia in the population.
+Br J Psychiatry. 2009 Mar;194(3):212-9. doi: 10.1192/bjp.bp.108.049619. PubMed
+PMID: 19252147.
+
+
+68: Simpson JE, Hosny O, Wharton SB, Heath PR, Holden H, Fernando MS, Matthews F,
+Forster G, O'Brien JT, Barber R, Kalaria RN, Brayne C, Shaw PJ, Lewis CE, Ince
+PG; Medical Research Council Cognitive Function and Ageing Study Neuropathology
+Group. Microarray RNA expression analysis of cerebral white matter lesions
+reveals changes in multiple functional pathways. Stroke. 2009 Feb;40(2):369-75.
+doi: 10.1161/STROKEAHA.108.529214. Epub 2008 Dec 24. PubMed PMID: 19109541.
+
+
+69: Wharton SB, O'Callaghan JP, Savva GM, Nicoll JA, Matthews F, Simpson JE,
+Forster G, Shaw PJ, Brayne C, Ince PG; MRC Cognitive Function and Ageing
+Neuropathology Study Group. Population variation in glial fibrillary acidic
+protein levels in brain ageing: relationship to Alzheimer-type pathology and
+dementia. Dement Geriatr Cogn Disord. 2009;27(5):465-73. doi: 10.1159/000217729. 
+Epub 2009 May 7. PubMed PMID: 19420941.
+
+
+70: Matthews FE, Jagger C, Miller LL, Brayne C; MRC CFAS. Education differences
+in life expectancy with cognitive impairment. J Gerontol A Biol Sci Med Sci. 2009
+Jan;64(1):125-31. doi: 10.1093/gerona/gln003. Epub 2009 Jan 31. PubMed PMID:
+19182231; PubMed Central PMCID: PMC2691183.
+
+
+71: Stephan BC, Brayne C, McKeith IG, Bond J, Matthews FE; Medical Research
+Council Cognitive Function and Ageing Study. Mild cognitive impairment in the
+older population: Who is missed and does it matter? Int J Geriatr Psychiatry.
+2008 Aug;23(8):863-71. doi: 10.1002/gps.2013. PubMed PMID: 18537198.
+
+
+72: Matthews FE, Stephan BC, McKeith IG, Bond J, Brayne C; Medical Research
+Council Cognitive Function and Ageing Study. Two-year progression from mild
+cognitive impairment to dementia: to what extent do different definitions agree? 
+J Am Geriatr Soc. 2008 Aug;56(8):1424-33. doi: 10.1111/j.1532-5415.2008.01820.x. 
+Epub 2008 Jul 24. PubMed PMID: 18662209.
+
+
+73: Hogervorst E, Huppert F, Matthews FE, Brayne C. Thyroid function and
+cognitive decline in the MRC Cognitive Function and Ageing Study.
+Psychoneuroendocrinology. 2008 Aug;33(7):1013-22. doi:
+10.1016/j.psyneuen.2008.05.008. Epub 2008 Jul 21. PubMed PMID: 18640783.
+
+
+74: Xie J, Matthews FE, Jagger C, Bond J, Brayne C. The oldest old in England and
+Wales: a descriptive analysis based on the MRC Cognitive Function and Ageing
+Study. Age Ageing. 2008 Jul;37(4):396-402. doi: 10.1093/ageing/afn061. Epub 2008 
+Apr 18. PubMed PMID: 18424470; PubMed Central PMCID: PMC2441704.
+
+
+75: P&amp;eacute;r&amp;egrave;s K, Jagger C, Matthews FE; MRC CFAS. Impact of late-life self-reported
+emotional problems on Disability-Free Life Expectancy: results from the MRC
+Cognitive Function and Ageing Study. Int J Geriatr Psychiatry. 2008
+Jun;23(6):643-9. PubMed PMID: 18044794.
+
+
+76: Zaccai J, Brayne C, McKeith I, Matthews F, Ince PG; MRC Cognitive Function,
+Ageing Neuropathology Study. Patterns and stages of alpha-synucleinopathy:
+Relevance in a population-based cohort. Neurology. 2008 Mar 25;70(13):1042-8.
+doi: 10.1212/01.wnl.0000306697.48738.b6. PubMed PMID: 18362284.
+
+
+77: Kvaal K, McDougall FA, Brayne C, Matthews FE, Dewey ME; MRC CFAS.
+Co-occurrence of anxiety and depressive disorders in a community sample of older 
+people: results from the MRC CFAS (Medical Research Council Cognitive Function
+and Ageing Study). Int J Geriatr Psychiatry. 2008 Mar;23(3):229-37. PubMed PMID: 
+17631679.
+
+
+78: Gao L, Matthews FE, Sargeant LA, Brayne C; MRC CFAS. An investigation of the 
+population impact of variation in HbA1c levels in older people in England and
+Wales: from a population based multi-centre longitudinal study. BMC Public
+Health. 2008 Feb 11;8:54. doi: 10.1186/1471-2458-8-54. PubMed PMID: 18267013;
+PubMed Central PMCID: PMC2275259.
+
+
+79: Xie J, Brayne C, Matthews FE; Medical Research Council Cognitive Function and
+Ageing Study collaborators. Survival times in people with dementia: analysis from
+population based cohort study with 14 year follow-up. BMJ. 2008 Feb
+2;336(7638):258-62. doi: 10.1136/bmj.39433.616678.25. Epub 2008 Jan 10. PubMed
+PMID: 18187696; PubMed Central PMCID: PMC2223023.
+
+
+80: Basta NE, Matthews FE, Chatfield MD, Brayne C; MRC-CFAS. Community-level
+socio-economic status and cognitive and functional impairment in the older
+population. Eur J Public Health. 2008 Feb;18(1):48-54. Epub 2007 Jul 12. PubMed
+PMID: 17631489.
+
+
+81: Simpson JE, Ince PG, Higham CE, Gelsthorpe CH, Fernando MS, Matthews F,
+Forster G, O'Brien JT, Barber R, Kalaria RN, Brayne C, Shaw PJ, Stoeber K,
+Williams GH, Lewis CE, Wharton SB; MRC Cognitive Function and Ageing
+Neuropathology Study Group. Microglial activation in white matter lesions and
+nonlesional white matter of ageing brains. Neuropathol Appl Neurobiol. 2007
+Dec;33(6):670-83. PubMed PMID: 17990995.
+
+
+82: McDougall FA, Kvaal K, Matthews FE, Paykel E, Jones PB, Dewey ME, Brayne C;
+Medical Research Council Cognitive Function and Ageing Study. Prevalence of
+depression in older people in England and Wales: the MRC CFA Study. Psychol Med. 
+2007 Dec;37(12):1787-95. Epub 2007 Apr 4. Erratum in: Psychol Med. 2007
+Dec;37(12):1796. PubMed PMID: 17407617.
+
+
+83: Stephan BC, Matthews FE, McKeith IG, Bond J, Brayne C; Medical Research
+Council Cognitive Function and Aging Study. Early cognitive change in the general
+population: how do different definitions work? J Am Geriatr Soc. 2007
+Oct;55(10):1534-40. PubMed PMID: 17908056.
+
+
+84: Matthews FE, Stephan BC, Bond J, McKeith I, Brayne C; Medical Research
+Council Cognitive Function and Ageing Study. Operationalization of mild cognitive
+impairment: a graphical approach. PLoS Med. 2007 Oct;4(10):1615-9. Review. PubMed
+PMID: 17973571; PubMed Central PMCID: PMC2043006.
+
+
+85: McDougall FA, Matthews FE, Kvaal K, Dewey ME, Brayne C. Prevalence and
+symptomatology of depression in older people living in institutions in England
+and Wales. Age Ageing. 2007 Sep;36(5):562-8. PubMed PMID: 17913759.
+
+
+86: Simpson JE, Fernando MS, Clark L, Ince PG, Matthews F, Forster G, O'Brien JT,
+Barber R, Kalaria RN, Brayne C, Shaw PJ, Lewis CE, Wharton SB; MRC Cognitive
+Function and Ageing Neuropathology Study Group. White matter lesions in an
+unselected cohort of the elderly: astrocytic, microglial and oligodendrocyte
+precursor cell responses. Neuropathol Appl Neurobiol. 2007 Aug;33(4):410-9. Epub 
+2007 Apr 18. PubMed PMID: 17442062.
+
+
+87: Jagger C, Matthews RJ, Matthews FE, Spiers NA, Nickson J, Paykel ES, Huppert 
+FA, Brayne C; Medical Research Council Cognitive Function and Ageing Study
+(MRC-CFAS). Cohort differences in disease and disability in the young-old:
+findings from the MRC Cognitive Function and Ageing Study (MRC-CFAS). BMC Public 
+Health. 2007 Jul 13;7:156. PubMed PMID: 17629910; PubMed Central PMCID:
+PMC1947964.
+
+
+88: Matthews FE, McKeith I, Bond J, Brayne C; MRC CFAS. Reaching the population
+with dementia drugs: what are the challenges? Int J Geriatr Psychiatry. 2007
+Jul;22(7):627-31. PubMed PMID: 17136710.
+
+
+89: Chatfield M, Matthews FE, Brayne C; Medical Research Council Cognitive
+Function and Ageing Study. Using the Mini-Mental State Examination for tracking
+cognition in the older population based on longitudinal data. J Am Geriatr Soc.
+2007 Jul;55(7):1066-71. PubMed PMID: 17608880.
+
+
+90: Jagger C, Matthews R, Melzer D, Matthews F, Brayne C; MRC CFAS. Educational
+differences in the dynamics of disability incidence, recovery and mortality:
+Findings from the MRC Cognitive Function and Ageing Study (MRC CFAS). Int J
+Epidemiol. 2007 Apr;36(2):358-65. Epub 2007 Jan 25. PubMed PMID: 17255347.
+
+
+91: Jagger C, Matthews R, Matthews F, Robinson T, Robine JM, Brayne C; Medical
+Research Council Cognitive Function and Ageing Study Investigators. The burden of
+diseases on disability-free life expectancy in later life. J Gerontol A Biol Sci 
+Med Sci. 2007 Apr;62(4):408-14. PubMed PMID: 17452735.
+
+
+92: Brayne C, McCracken C, Matthews FE; Medical Research Council Coginitive
+Function and Ageing Study (CFAS). Cohort profile: the Medical Research Council
+Cognitive Function and Ageing Study (CFAS). Int J Epidemiol. 2006
+Oct;35(5):1140-5. Epub 2006 Sep 15. Review. PubMed PMID: 16980700.
+
+
+93: Brayne C, Gao L, Dewey M, Matthews FE; Medical Research Council Cognitive
+Function and Ageing Study Investigators. Dementia before death in ageing
+societies--the promise of prevention and the reality. PLoS Med. 2006
+Oct;3(10):e397. PubMed PMID: 17076551; PubMed Central PMCID: PMC1626550.
+
+
+94: Foltynie T, Matthews FE, Ishihara L, Brayne C; MRC CFAS. The frequency and
+validity of self-reported diagnosis of Parkinson's Disease in the UK elderly: MRC
+CFAS cohort. BMC Neurol. 2006 Aug 22;6:29. PubMed PMID: 16925826; PubMed Central 
+PMCID: PMC1569859.
+
+
+95: Matthews FE, Chatfield M, Brayne C; Medical Research Council Cognitive
+Function and Ageing Study. An investigation of whether factors associated with
+short-term attrition change or persist over ten years: data from the Medical
+Research Council Cognitive Function and Ageing Study (MRC CFAS). BMC Public
+Health. 2006 Jul 18;6:185. PubMed PMID: 16848886; PubMed Central PMCID:
+PMC1538586.
+
+
+96: Fernando MS, Simpson JE, Matthews F, Brayne C, Lewis CE, Barber R, Kalaria
+RN, Forster G, Esteves F, Wharton SB, Shaw PJ, O'Brien JT, Ince PG; MRC Cognitive
+Function and Ageing Neuropathology Study Group. White matter lesions in an
+unselected cohort of the elderly: molecular pathology suggests origin from
+chronic hypoperfusion injury. Stroke. 2006 Jun;37(6):1391-8. Epub 2006 Apr 20.
+PubMed PMID: 16627790.
+
+
+97: Matthews FE, Miller LL, Brayne C, Jagger C; Medical Research Council
+Cognitive Function and Aging Study (MRC CFAS). Regional differences in
+multidimensional aspects of health: findings from the MRC cognitive function and 
+ageing study. BMC Public Health. 2006 Apr 6;6:90. PubMed PMID: 16600044; PubMed
+Central PMCID: PMC1475575.
+
+
+98: Yip AG, Brayne C, Matthews FE; MRC Cognitive Function and Ageing Study. Risk 
+factors for incident dementia in England and Wales: The Medical Research Council 
+Cognitive Function and Ageing Study. A population-based nested case-control
+study. Age Ageing. 2006 Mar;35(2):154-60. Epub 2006 Jan 13. PubMed PMID:
+16414964.
+
+
+99: Brayne C, Gao L, Matthews F; MRC Cognitive Function and Ageing Study.
+Challenges in the epidemiological investigation of the relationships between
+physical activity, obesity, diabetes, dementia and depression. Neurobiol Aging.
+2005 Dec;26 Suppl 1:6-10. Epub 2005 Oct 24. Review. PubMed PMID: 16246462.
+
+
+100: Barnes L, Matthews FE, Barber B, Davies L, Lloyd D, Brayne C, Parry B. Brain
+donation for research: consent and re-consent post Alder Hey. Bull Med Ethics.
+2005 Oct-Nov;(211):17-21. PubMed PMID: 17139813.
+
+
+101: Syed A, Chatfield M, Matthews F, Harrison P, Brayne C, Esiri MM. Depression 
+in the elderly: pathological study of raphe and locus ceruleus. Neuropathol Appl 
+Neurobiol. 2005 Aug;31(4):405-13. PubMed PMID: 16008824.
+
+
+102: Matthews F, Brayne C; Medical Research Council Cognitive Function and Ageing
+Study Investigators. The incidence of dementia in England and Wales: findings
+from the five identical sites of the MRC CFA Study. PLoS Med. 2005 Aug;2(8):e193.
+Epub 2005 Aug 23. Erratum in: PLoS Med. 2005 Oct;2(10):e389. PubMed PMID:
+16111436; PubMed Central PMCID: PMC1188245.
+
+
+103: Spiers NA, Matthews RJ, Jagger C, Matthews FE, Boult C, Robinson TG, Brayne 
+C. Diseases and impairments as risk factors for onset of disability in the older 
+population in England and Wales: findings from the Medical Research Council
+Cognitive Function and Ageing Study. J Gerontol A Biol Sci Med Sci. 2005
+Feb;60(2):248-54. PubMed PMID: 15814870.
+
+
+104: Fernando MS, O'Brien JT, Perry RH, English P, Forster G, McMeekin W, Slade
+JY, Golkhar A, Matthews FE, Barber R, Kalaria RN, Ince PG; Neuropathology Group
+of MRC CFAS. Comparison of the pathology of cerebral white matter with
+post-mortem magnetic resonance imaging (MRI) in the elderly brain. Neuropathol
+Appl Neurobiol. 2004 Aug;30(4):385-95. PubMed PMID: 15305984.
+
+
+105: Matthews FE, Chatfield M, Freeman C, McCracken C, Brayne C; MRC CFAS.
+Attrition and bias in the MRC cognitive function and ageing study: an
+epidemiological investigation. BMC Public Health. 2004 Apr 27;4:12. PubMed PMID: 
+15113437; PubMed Central PMCID: PMC419705.
+
+
+106: Williams JG, Huppert FA, Matthews FE, Nickson J; MRC Cognitive Function and 
+Ageing Study (MRC CFAS). Performance and normative values of a concise
+neuropsychological test (CAMCOG) in an elderly population sample. Int J Geriatr
+Psychiatry. 2003 Jul;18(7):631-44. PubMed PMID: 12833308.
+
+
+107: Matthews FE, Dening T; UK Medical Research Council Cognitive Function and
+Ageing Study. Prevalence of dementia in institutional care. Lancet. 2002 Jul
+20;360(9328):225-6. PubMed PMID: 12133659.
+
+
+108: Jagger C, Matthews F. Gender differences in life expectancy free of
+impairment at older ages. J Women Aging. 2002;14(1-2):85-97. PubMed PMID:
+12537281.
+
+
+109: Brayne C, Matthews FE, McGee MA, Jagger C. Health and ill-health in the
+older population in England and Wales. The Medical Research Council Cognitive
+Function and Ageing Study (MRC CFAS). Age Ageing. 2001 Jan;30(1):53-62. PubMed
+PMID: 11322674.</gtr:impact><gtr:partnerContribution>Grant applications and papers jointly produced</gtr:partnerContribution><gtr:piContribution>Developing methodology and software to MRC CFAS</gtr:piContribution><gtr:sector>Academic/University</gtr:sector></gtr:collaborationOutput></gtr:collaborationOutputs><gtr:disseminationOutputs><gtr:disseminationOutput><gtr:description>1st International Conference of Longevity, Ageing and Its Diseases</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>B68DF3C6-A528-49D3-9C4A-FA32DD993642</gtr:id><gtr:impact>Two cohort studies in England and Wales. Audience consitituted from all fields within ageing research.
+
+Further impact of our results to a wider audience</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:presentationType>Keynote/Invited Speaker</gtr:presentationType><gtr:primaryAudience>Health professionals</gtr:primaryAudience><gtr:year>2007</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Cambridge Science Festival</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>Regional</gtr:geographicReach><gtr:id>7AA72C4A-990D-46F8-B836-DD8C4ED477C1</gtr:id><gtr:impact>Each year BSU participate in Cambridge Science Festival - members of the general public explore and discuss issues of scientific interest and concern, through a series of different events. The event also aims to raise aspirations by encouraging young people to consider a career in science, technology, engineering or mathematics.
+
+BSU take part over two full days - 'Science Saturday' and the 'Cambridge Biomedical Campus' day. The unit presents a stand with 4 - 5 interactive activities that each communicate a basic statistical method or idea, representing one of the four research themes in the unit. Each year a new activity is developed and delivered requiring scientific input from staff across the unit. Over the two days, BSU engage with approximately 500 adults and children who visit the festival. 
+
+Senior Investigator Statistician, Simon White, has played a significant role in developing activities for Cambridge Science Festival. He is now Public Engagement Champion for the unit.
+
+Raised the profile of the Unit in the region
+Audience asked for more opportunities for communication and interaction with the public health researchers
+Contributed to raise the profile of Biostatistics in medical research
+Contributed to enhance the methodological quality of medical research developed by BSU staff
+Contributed to enable Best Research for Best Health</gtr:impact><gtr:partOfOfficialScheme>true</gtr:partOfOfficialScheme><gtr:primaryAudience>Schools</gtr:primaryAudience><gtr:url>http://www.cam.ac.uk/science-festival</gtr:url><gtr:year>2007,2008,2009,2010,2011</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Systems of Mild Cognitive Impairment and Longitudinal Course</gtr:description><gtr:form>A formal working group, expert panel or dialogue</gtr:form><gtr:geographicReach>National</gtr:geographicReach><gtr:id>29B74CBB-B5A9-43A7-B7BC-EC958BCE0AB0</gtr:id><gtr:impact>The 5th Annual Mild Cognitive Impairment (MCI) Symposium; Miami Beach, Florida. Presentation to the experts in the world of Mild Cognitive Impairment. See http://www.mcisymposium.org/html/mci_brochure2007.pdf
+
+Increase in interest in the population aspect of Mild cognitive impairment.</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Policymakers/parliamentarians</gtr:primaryAudience><gtr:url>http://www.ncbi.nlm.nih.gov/pubmed/18525280</gtr:url><gtr:year>2007</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Festival of Neuroscience</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>56C535D6-7B8B-426C-B613-3EC990DD473F</gtr:id><gtr:impact>Presentation at the Festival of Neuroscience. A conference that is open to the public and all audiences.
+10th April 2013. Barbican Conference facilities. London
+
+Raised the profile of Epidemiology within Neuroscience and the public</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:presentationType>Keynote/Invited Speaker</gtr:presentationType><gtr:primaryAudience>Other academic audiences (collaborators, peers etc.)</gtr:primaryAudience><gtr:year>2013</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>New prevalence estimates for the UK</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>577B0516-9D8B-4C27-8248-F0B754D97CDE</gtr:id><gtr:impact>Press release, paper and talk at international conference to launch new prevalence estimates of dementia.
+
+Invitation to new policy committee for Public Health England. Much international coverage of the estimates and press interest.</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Media (as a channel to the public)</gtr:primaryAudience><gtr:year>2013,2014</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Horizon seminar</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:geographicReach>Regional</gtr:geographicReach><gtr:id>0E33734D-57B2-4313-B7E3-D718A03AA542</gtr:id><gtr:impact>How long is healthy life in old age? Horizon Seminar, Cambridge
+
+Public health advice about the status of healthy ageing in the growing epidemic</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Public/other audiences</gtr:primaryAudience><gtr:year>2007</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>MCI Tool</gtr:description><gtr:form>A magazine, newsletter or online publication</gtr:form><gtr:geographicReach>National</gtr:geographicReach><gtr:id>3B2C5F64-8926-4427-AAE4-11ADF94578E7</gtr:id><gtr:impact>Tool for researchers in MCI to investigate the impact of different MCI definitions in the literature.
+
+PloS Medicine paper and press release to launch tool</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Health professionals</gtr:primaryAudience><gtr:url>http://gtr.rcuk.ac.uk/project/F30FB0E8-62BC-4175-9430-226059292F91</gtr:url><gtr:year>2007,2008,2009</gtr:year></gtr:disseminationOutput></gtr:disseminationOutputs><gtr:exploitationOutputs/><gtr:furtherFundingOutputs><gtr:furtherFundingOutput><gtr:amountPounds>80918</gtr:amountPounds><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:currCode>GBP</gtr:currCode><gtr:currCountryCode>United Kingdom</gtr:currCountryCode><gtr:currLang>en_GB</gtr:currLang><gtr:description>Alzheimer's Society PhD Studentships</gtr:description><gtr:end>2019-10-02</gtr:end><gtr:fundingOrg>Alzheimer?s Society</gtr:fundingOrg><gtr:id>AD17F88A-16A5-4815-A497-416CE09D2F98</gtr:id><gtr:sector>Charity/Non Profit</gtr:sector><gtr:start>2016-10-01</gtr:start></gtr:furtherFundingOutput></gtr:furtherFundingOutputs><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs><gtr:policyInfluenceOutput><gtr:areas/><gtr:description>Delphi UK consensus for Alzheimer's disease</gtr:description><gtr:geographicReach>Multiple continents/international</gtr:geographicReach><gtr:id>DC6B3CCF-0057-4626-B2CC-464E9F62BEF0</gtr:id><gtr:impact>Figures used throughout the media to describe the dementia epidemic.</gtr:impact><gtr:type>Participation in advisory committee</gtr:type></gtr:policyInfluenceOutput></gtr:policyInfluenceOutputs><gtr:productOutputs><gtr:productOutput><gtr:description>Dementia and cholinesterase usage in the UK</gtr:description><gtr:id>C6C4F51B-A1EE-4607-AA8F-B915262ED4FA</gtr:id><gtr:impact>The usage of these drugs are not reaching the population. Clinicians are now aware of the problem</gtr:impact><gtr:stage>Wide-scale adoption</gtr:stage><gtr:status>Under active development/distribution</gtr:status><gtr:title>Dementia public health advice</gtr:title><gtr:type>Management of Diseases and Conditions</gtr:type><gtr:yearDevCompleted>2008</gtr:yearDevCompleted></gtr:productOutput></gtr:productOutputs><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs><gtr:researchMaterialOutput><gtr:description>Mild cognitive impairment review and description of clinical tools within the public health setting</gtr:description><gtr:id>AA0192FF-CF78-402F-822B-7842A5EF4DAF</gtr:id><gtr:impact>Now expanding the areas to describe vascular differences too.</gtr:impact><gtr:providedToOthers>true</gtr:providedToOthers><gtr:title>MCI mapping</gtr:title><gtr:type>Model of mechanisms or symptoms - human</gtr:type><gtr:yearFirstProvided>2007</gtr:yearFirstProvided></gtr:researchMaterialOutput></gtr:researchMaterialOutputs><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/2931B5E4-FAC6-4332-AD9C-EA374CECE31E"><gtr:id>2931B5E4-FAC6-4332-AD9C-EA374CECE31E</gtr:id><gtr:title>Dementia prediction for people with stroke in populations: is mild cognitive impairment a useful concept?</gtr:title><gtr:parentPublicationTitle>Age and ageing</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/176cf7be55b87a88882897217d2f0bac"><gtr:id>176cf7be55b87a88882897217d2f0bac</gtr:id><gtr:otherNames>Stephan BC</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date><gtr:issn>0002-0729</gtr:issn></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/C2FB8885-F6C2-4A7C-87F1-1AEA74006638"><gtr:id>C2FB8885-F6C2-4A7C-87F1-1AEA74006638</gtr:id><gtr:title>Subjective Memory Complaints are Involved in the Relationship between Mood and Mild Cognitive Impairment.</gtr:title><gtr:parentPublicationTitle>Journal of Alzheimer's disease : JAD</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/334966f9f883519691449703c444a697"><gtr:id>334966f9f883519691449703c444a697</gtr:id><gtr:otherNames>Yates JA</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date><gtr:issn>1387-2877</gtr:issn></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/461437BD-EB34-4513-89EB-D8B5BB4005B7"><gtr:id>461437BD-EB34-4513-89EB-D8B5BB4005B7</gtr:id><gtr:title>Exposure to secondhand smoke and cognitive impairment in non-smokers: national cross sectional study with cotinine measurement.</gtr:title><gtr:parentPublicationTitle>BMJ (Clinical research ed.)</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/537eb8d328f87381084827c3412c9a0f"><gtr:id>537eb8d328f87381084827c3412c9a0f</gtr:id><gtr:otherNames>Llewellyn DJ</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2009-01-01</gtr:date><gtr:issn>0959-535X</gtr:issn></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/A75C53D4-CB66-4402-813E-DD5BBCFA24F3"><gtr:id>A75C53D4-CB66-4402-813E-DD5BBCFA24F3</gtr:id><gtr:title>Two-year progression from mild cognitive impairment to dementia: to what extent do different definitions agree?</gtr:title><gtr:parentPublicationTitle>Journal of the American Geriatrics Society</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/70857d7918bb70a4eda7d19cf01c73c0"><gtr:id>70857d7918bb70a4eda7d19cf01c73c0</gtr:id><gtr:otherNames>Matthews FE</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2008-01-01</gtr:date><gtr:issn>0002-8614</gtr:issn></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/786238A4-9A12-4EA6-8EA6-8BCBF65EBF9E"><gtr:id>786238A4-9A12-4EA6-8EA6-8BCBF65EBF9E</gtr:id><gtr:title>Mild cognitive impairment in the older population: Who is missed and does it matter?</gtr:title><gtr:parentPublicationTitle>International journal of geriatric psychiatry</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/176cf7be55b87a88882897217d2f0bac"><gtr:id>176cf7be55b87a88882897217d2f0bac</gtr:id><gtr:otherNames>Stephan BC</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2008-01-01</gtr:date><gtr:issn>0885-6230</gtr:issn></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/3B385C4A-17A7-4765-A7FA-FAA6586A11D6"><gtr:id>3B385C4A-17A7-4765-A7FA-FAA6586A11D6</gtr:id><gtr:title>Exposure to secondhand smoke and cognitive impairment in non-smokers: national cross sectional study with cotinine measurement.</gtr:title><gtr:parentPublicationTitle>BMJ (Clinical research ed.)</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/537eb8d328f87381084827c3412c9a0f"><gtr:id>537eb8d328f87381084827c3412c9a0f</gtr:id><gtr:otherNames>Llewellyn DJ</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2009-01-01</gtr:date><gtr:issn>0959-535X</gtr:issn></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/B4BF932C-9980-46D2-B1A1-9C053D23E485"><gtr:id>B4BF932C-9980-46D2-B1A1-9C053D23E485</gtr:id><gtr:title>Beyond mild cognitive impairment: vascular cognitive impairment, no dementia (VCIND).</gtr:title><gtr:parentPublicationTitle>Alzheimer's research &amp; therapy</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/176cf7be55b87a88882897217d2f0bac"><gtr:id>176cf7be55b87a88882897217d2f0bac</gtr:id><gtr:otherNames>Stephan BC</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2009-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/B1B56B5C-40D9-445C-A35E-F5214924B7CC"><gtr:id>B1B56B5C-40D9-445C-A35E-F5214924B7CC</gtr:id><gtr:title>The neuropathological profile of mild cognitive impairment (MCI): a systematic review.</gtr:title><gtr:parentPublicationTitle>Molecular psychiatry</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/176cf7be55b87a88882897217d2f0bac"><gtr:id>176cf7be55b87a88882897217d2f0bac</gtr:id><gtr:otherNames>Stephan BC</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date><gtr:issn>1359-4184</gtr:issn></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/57F7EB4E-05E5-468F-8FDA-F7404AC1D39D"><gtr:id>57F7EB4E-05E5-468F-8FDA-F7404AC1D39D</gtr:id><gtr:title>Optimizing mild cognitive impairment for discriminating dementia risk in the general older population.</gtr:title><gtr:parentPublicationTitle>The American journal of geriatric psychiatry : official journal of the American Association for Geriatric Psychiatry</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/176cf7be55b87a88882897217d2f0bac"><gtr:id>176cf7be55b87a88882897217d2f0bac</gtr:id><gtr:otherNames>Stephan BC</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2010-01-01</gtr:date><gtr:issn>1064-7481</gtr:issn></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/4156A823-52EC-406B-AE7E-BAA61913D5C9"><gtr:id>4156A823-52EC-406B-AE7E-BAA61913D5C9</gtr:id><gtr:title>Operationalization of mild cognitive impairment: a graphical approach.</gtr:title><gtr:parentPublicationTitle>PLoS medicine</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/70857d7918bb70a4eda7d19cf01c73c0"><gtr:id>70857d7918bb70a4eda7d19cf01c73c0</gtr:id><gtr:otherNames>Matthews FE</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2007-01-01</gtr:date><gtr:issn>1549-1277</gtr:issn></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/FF0FDF0B-05FF-4499-9E8A-97E87E371E81"><gtr:id>FF0FDF0B-05FF-4499-9E8A-97E87E371E81</gtr:id><gtr:title>Early cognitive change in the general population: how do different definitions work?</gtr:title><gtr:parentPublicationTitle>Journal of the American Geriatrics Society</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/176cf7be55b87a88882897217d2f0bac"><gtr:id>176cf7be55b87a88882897217d2f0bac</gtr:id><gtr:otherNames>Stephan BC</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2007-01-01</gtr:date><gtr:issn>0002-8614</gtr:issn></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/F802A318-10C9-45CE-A940-F1382086F908"><gtr:id>F802A318-10C9-45CE-A940-F1382086F908</gtr:id><gtr:title>Dementia risk prediction in the population: are screening models accurate?</gtr:title><gtr:parentPublicationTitle>Nature reviews. Neurology</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/176cf7be55b87a88882897217d2f0bac"><gtr:id>176cf7be55b87a88882897217d2f0bac</gtr:id><gtr:otherNames>Stephan BC</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2010-01-01</gtr:date><gtr:issn>1759-4758</gtr:issn></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/C5BDF245-54BD-4DDF-B41F-A3C917581138"><gtr:id>C5BDF245-54BD-4DDF-B41F-A3C917581138</gtr:id><gtr:title>Education differences in life expectancy with cognitive impairment.</gtr:title><gtr:parentPublicationTitle>The journals of gerontology. Series A, Biological sciences and medical sciences</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/70857d7918bb70a4eda7d19cf01c73c0"><gtr:id>70857d7918bb70a4eda7d19cf01c73c0</gtr:id><gtr:otherNames>Matthews FE</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2009-01-01</gtr:date><gtr:issn>1079-5006</gtr:issn></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/2F266EC2-3428-4CB1-8481-C5854A008584"><gtr:id>2F266EC2-3428-4CB1-8481-C5854A008584</gtr:id><gtr:title>Optimizing mild cognitive impairment for discriminating dementia risk in the general older population.</gtr:title><gtr:parentPublicationTitle>The American journal of geriatric psychiatry : official journal of the American Association for Geriatric Psychiatry</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/176cf7be55b87a88882897217d2f0bac"><gtr:id>176cf7be55b87a88882897217d2f0bac</gtr:id><gtr:otherNames>Stephan BC</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2010-01-01</gtr:date><gtr:issn>1064-7481</gtr:issn></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">G0400077</gtr:identifier></gtr:identifiers><gtr:healthCategories><gtr:healthCategory><gtr:id>041997EB-CFD8-493D-B0F8-DFA35451D0BE</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Neurological</gtr:text></gtr:healthCategory></gtr:healthCategories><gtr:researchActivities><gtr:researchActivity><gtr:id>9A8BEDCC-D902-4C9A-8CCF-C974265EA3FB</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>2.4  Surveillance and distribution</gtr:text></gtr:researchActivity></gtr:researchActivities><gtr:researchSubjects/><gtr:researchTopics/><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

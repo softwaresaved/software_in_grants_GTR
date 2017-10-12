@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/1529782F-9068-4364-888E-46E4FC4881F5"><gtr:id>1529782F-9068-4364-888E-46E4FC4881F5</gtr:id><gtr:name>Nottingham Trent University</gtr:name><gtr:department>School of Science &amp; Technology</gtr:department><gtr:address><gtr:line1>Burton Street</gtr:line1><gtr:line4>Nottingham</gtr:line4><gtr:line5>Nottinghamshire</gtr:line5><gtr:postCode>NG1 4BU</gtr:postCode><gtr:region>East Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/1529782F-9068-4364-888E-46E4FC4881F5"><gtr:id>1529782F-9068-4364-888E-46E4FC4881F5</gtr:id><gtr:name>Nottingham Trent University</gtr:name><gtr:address><gtr:line1>Burton Street</gtr:line1><gtr:line4>Nottingham</gtr:line4><gtr:line5>Nottinghamshire</gtr:line5><gtr:postCode>NG1 4BU</gtr:postCode><gtr:region>East Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/9B666F74-1C1B-4F23-BBB4-CEE5A5794F07"><gtr:id>9B666F74-1C1B-4F23-BBB4-CEE5A5794F07</gtr:id><gtr:firstName>Carole</gtr:firstName><gtr:surname>Perry</gtr:surname><gtr:orcidId>0000-0003-1517-468X</gtr:orcidId><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=EP%2FN508950%2F1"><gtr:id>4520F387-367B-483C-BA0F-D2348494BF6C</gtr:id><gtr:title>Recovering and processing of high value food and pharmaceutical ingredients from waste egg shells</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/N508950/1</gtr:grantReference><gtr:abstractText>Nottingham Trent University (NTU)'s contributions will reflect its expertise in the chemical and biological analysis of
+materials at all stages of the process. The research facilities of the Prof. Carole Perry's Biomolecular &amp;amp; Materials Interface
+Research Group will be utilised in addition to the facilities within the School of Science and Technology to support the
+development of the materials for commercial exploitation. As required, materials will be analysed to ensure that they meet
+the requirements for proposed pharmaceutical and healthcare applications (e.g. British Pharmacopeia).
+Material Collection and Pre-Processing
+1. Evaluation/development of continuous collection methodologies, including:
+Determination of variation in process critical factors such as organic content, water content, albumin and yolk
+contamination of collected material, particle sizing.
+Optimise transit and pre-processing stabilisation of raw material (storage time limits, temperature limits, concentration of
+storage solution).
+2. Evaluation/development of initial processing approaches:
+Determine particle sizing resulting from different milling parameters (time, initial water content, milling speed) and develop
+optimised milling parameters and QC methodology.
+Determine powder properties resulting from different drying parameters (time, initial water content, drying speed) and develop optimised drying parameters and QC methodology.
+Determine and check specification of processing raw materials e.g. site water supply, base and alcohol (trace metals
+content, elemental profile and purity) and develop QC methodology for raw materials.
+Analytical services to determine effectiveness of initial processing output (testing to British Pharmacopeia grade CaCO3).
+Primary Processing
+Iterative evaluation of different continuous processing approaches, conditions and materials
+3. Evaluation of the influence of processing variables on process output:
+Process; NaOH concentration, alcohol concentration/type (ethanol or isopropanol), position of milling in process (before,
+during or after).
+Process conditions; temperature, volume of treatment: mass of feed material ratio, time and mixing rate.
+Materials; continuous monitoring of starting materials and end product in relation to the desired specification (testing to
+British Pharmacopeia grade CaCO3). In addition intermediate stages in the process and the extent to which raw materials
+can be recycled in the process will be monitored/evaluated as necessary.
+QC methodology will be developed for the process.
+Secondary Processing - Agglomeration
+Iterative evaluation of different continuous agglomeration approaches
+4. Evaluating the influence of processing variables on the agglomeration process:
+Influence of processing on particle/agglomerate size including coating thickness and structure from the atomic
+(crystallography) through to micro and macroscopic scales (microscopy) including particle and coating porosity.
+Organic content of particles, influence on formulation pH and general composition (chemical and elemental [e.g. Fe, Al, Pb,
+As, Cd, Hg and total heavy metals] analysis, purity of calcium carbonate, moisture content) using relevant analytical,
+microscopic and spectroscopy methods.
+Determine material compliance to any relevant regulatory standards pre and post-agglomeration.
+Comparative studies will be conducted with at least 3 competitor materials.
+Combination of process steps to demonstrate process complementarity
+NTU will support AvGo in evaluating the process developed to date though analytical testing of product output to check
+conformity, e.g. testing to British Pharmacopeia grade CaCO3, and providing guidance in the event of any compliance
+issues detected.
+NTU will also assist in consolidation of process operations, evaluating opportunities to file for new intellectual property and
+composition of the final project report.</gtr:abstractText><gtr:potentialImpactText>Project beneficiaries
+The project aims to generate &amp;gt;&amp;pound;30m in direct revenues for the project partners within 5 years of project completion,
+creating &amp;gt;50 direct jobs and significantly reducing the negative economic and environmental issues associated with current
+disposal of waste egg shells (~15,000 tonnes disposed/year in the UK, costing &amp;gt;&amp;pound;500k/year in landfill/haulage). The project
+will also lead to ~&amp;pound;1.6m in further UK investment in R&amp;amp;D/manufacturing.
+Beneficiaries outside of the project consortium
+In addition to commercial benefits to Avgo and its project partners, other beneficiaries from this project include (within 5
+years of project completion):
+
+A) Local Suppliers: anticipation that project outputs will contribute to ~&amp;pound;1.6m in additional revenue (incl. distribution) for
+local, E.Midlands suppliers with the creation of ~12-15 additional roles
+
+B) Egg processors: ~&amp;pound;950k cost savings for egg processors, enhancing their European competitiveness and supporting
+further investment.
+Also, it's expected that processors' compliance with key customers' corporate social responsibility policies with lead to
+~&amp;pound;2.4m/year in additional revenues
+
+C) Food and Pharmaceutical product manufacturers: In addition to reduced raw material transportation costs, potential UK
+manufacturer benefits include a reduction in downstream process costs e.g. ~15-20% reduction in &amp;quot;filler- binder&amp;quot;
+ingredients required to form quality tablets via direct compression due to use of customised ACC grades.
+
+D) Employees: the improved, sustainable processing of waste egg shell material will improve employee health and safety at
+both primary (reduced biohazard) and secondary processors (reduced processing dust; exposure to contaminates
+associated with alternatives e.g. Precipitated Calcium Carbonate (PCC)).
+
+E) Consumers: the end product will use a higher purity raw material with improved bioavailability, benefitting the consumer.
+Displacement of inorganic PCC by egg shellill also lead to reduced consumer exposure to heavy metal
+contamination and product quality issues that have been associated with PCC.
+This has the potential to improve consumer confidence, driving product adoption through repeat sales and improved
+product compliance/use, leading to consumer quality of life improvements and reduction in conditions associated with
+insufficient calcium intake, including osteoporosis: Calcium supplementation/fortification with eggshell-derived CC has been
+proven to improve bone health (bone mineral density (BMD) and resistance to fractures).
+
+F) Environmental beneficiaries: the consortium anticipates halving the UK costs and volumes of current waste egg shell
+disposal within 5 years of project completion (and, through technology licensing, also significantly reducing EU volumes). It
+also expects to displace PCC production from mined limestone (negative environmental impact including aesthetics and
+generation of waste gas, effluent streams and CO2).</gtr:potentialImpactText><gtr:fund><gtr:end>2017-12-31</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2016-01-31</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>147203</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs><gtr:furtherFundingOutput><gtr:amountPounds>50000</gtr:amountPounds><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:currCode>GBP</gtr:currCode><gtr:currCountryCode>United Kingdom</gtr:currCountryCode><gtr:currLang>en_GB</gtr:currLang><gtr:description>viability of obtaining biopharmaceuticals from eggshell waste</gtr:description><gtr:end>2017-01-02</gtr:end><gtr:fundingOrg>Biotechnology and Biological Sciences Research Council (BBSRC)</gtr:fundingOrg><gtr:fundingRef>PoC15_06</gtr:fundingRef><gtr:id>AD1A65E2-3349-4423-860E-B1D9DB2135E2</gtr:id><gtr:sector>Public</gtr:sector><gtr:start>2016-07-01</gtr:start></gtr:furtherFundingOutput></gtr:furtherFundingOutputs><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>A COLLECTION PROCESS HAS BEEN IDENTIFIED TO COLLECT, DECONTAMINATE AND TRANSPORT EGGSHELL BY-PRODUCTS TO A SITE OF PROCESSING. 
+SEPARATION AND ISOLATION OF CACO3 FROM BIOLOGICAL MATERIALS HAS BEEN CARRIED OUT ON A SIGNIFICANT SCALE - 150KG OF MATERIAL BEING PROCESSED AT A TIME, RECOVERING MATERIALS SUITABLE FOR RESALE UNDER CONTROLLED CONDITIONS, USING A MECHANICAL MIXING AND HEATING REACTION VESSEL. 
+PROCESS AND WASH LIQUERS HAVE BEEN FILTERED AND A PROCESS IDENTIFIED TO RECYLE THIS MATERIAL TO REDUCE THE USE OF RAW/NEW REACTION MIXTURE. 
+A MECHANISM HAS BEEN IDENTIFIED TO CONCENTRATE THIS LIQUER, RICH IN BIOLOGICALS SUITABLE FOR FURTHER DOWNSTREAM PROVCCESSING.</gtr:description><gtr:exploitationPathways>AVGO INTEND TO TAKE THE CACO3 TO MARKET AS A FINISHED AND SELLABLE PRODUCT IN THE HEALTHCARE SECTOR - AS A FINE POWDER THROUGH CHRYSALIS AND AS A UNMILLED OR COARSER MATERIAL THROUGH OTHER CHANNEL LEADERS. 
+ADDITIONAL WORK IN THE MARKET SUGGESTS THAT THE EGGSHELL RAW MATERIAL WILL SELL IN VARIOUS FORMS IN THIS MARKET AND IN OTHER ALLIED MARKETS.
+AVGO AND NTU ARE IN DISCUSSION TO FIND A WAY FORWARD TO EXPLOIT THE BIOLOGICAL STREAM - THROUGH FURTHER FUNDING AND COLLABORATIONS WITH POTENTIAL CHANNEL PARTNERS. 
+THIS PROJECT HAS ALSO INSPIRED THE MEMBERS TO LOOK AT PRODUCTS REQUIRED IN THE HEALTHCARE AND ALLIED INDUSTRIES AND SEE IF THEY CAN ALSO BE SOURCED FROM FOOD INDUSTRY BY-PRODUCTS.</gtr:exploitationPathways><gtr:id>0E45FB19-AB7B-4286-A202-C70C0CD19373</gtr:id><gtr:sectors><gtr:sector>Agriculture, Food and Drink,Chemicals,Environment,Healthcare,Manufacturing, including Industrial Biotechology,Pharmaceuticals and Medical Biotechnology</gtr:sector></gtr:sectors></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">EP/N508950/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>FA25733D-A456-4A1B-9D5C-7119577368D9</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Manufacturing</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>99E0B904-CAB5-4511-AFB3-AA6D2B171F97</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Process engineering</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>C7A88EDD-F02E-4CF4-B7E9-E33C946EBD49</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Food processing</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>ABBD3B7F-5022-4513-82D6-5414B965FAB3</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Manufacturing Machine &amp; Plant</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

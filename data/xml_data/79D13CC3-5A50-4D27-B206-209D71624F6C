@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/90051600-6EF2-4093-BA8C-2B4B6F550895"><gtr:id>90051600-6EF2-4093-BA8C-2B4B6F550895</gtr:id><gtr:name>University of Dundee</gtr:name><gtr:department>Law</gtr:department><gtr:address><gtr:line1>University of Dundee</gtr:line1><gtr:line2>Nethergate</gtr:line2><gtr:postCode>DD1 4HN</gtr:postCode><gtr:region>Scotland</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/90051600-6EF2-4093-BA8C-2B4B6F550895"><gtr:id>90051600-6EF2-4093-BA8C-2B4B6F550895</gtr:id><gtr:name>University of Dundee</gtr:name><gtr:address><gtr:line1>University of Dundee</gtr:line1><gtr:line2>Nethergate</gtr:line2><gtr:postCode>DD1 4HN</gtr:postCode><gtr:region>Scotland</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/6BA8BB8F-4EB5-444F-8BB0-463E37E00908"><gtr:id>6BA8BB8F-4EB5-444F-8BB0-463E37E00908</gtr:id><gtr:firstName>Hazel</gtr:firstName><gtr:surname>Hughes</gtr:surname><gtr:roles><gtr:role><gtr:name>RESEARCHER</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/A7E9A9D3-CB39-4CEA-B6F2-6170890B31D4"><gtr:id>A7E9A9D3-CB39-4CEA-B6F2-6170890B31D4</gtr:id><gtr:firstName>Andrea</gtr:firstName><gtr:surname>Ross</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/7BED4479-7C76-4043-BC1D-63252C70D419"><gtr:id>7BED4479-7C76-4043-BC1D-63252C70D419</gtr:id><gtr:firstName>Colin</gtr:firstName><gtr:otherNames>Turriff</gtr:otherNames><gtr:surname>Reid</gtr:surname><gtr:orcidId>0000-0002-2097-0480</gtr:orcidId><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=119265%2F1"><gtr:id>79D13CC3-5A50-4D27-B206-209D71624F6C</gtr:id><gtr:title>The implementation of European Community Law in Scotland post-devolution</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>119265/1</gtr:grantReference><gtr:abstractText>A key objective of devolution was to develop 'Scottish solutions to Scottish problems'. This research will examine the tension between the need to legislate locally for Scotland and the need for the UK to comply with European Community (Community) Law. The research will explore the division of power between the Scottish and UK Institutions in practice by examining the extent to which Community environmental law is being implemented in different ways in Scotland and in England and Wales post-devolution. These differences relate to legislative form, timing and content, including the extent to which Community requirements are fully met or exceeded.</gtr:abstractText><gtr:fund><gtr:end>2008-08-31</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/1291772D-DFCE-493A-AEE7-24F7EEAFE0E9"><gtr:id>1291772D-DFCE-493A-AEE7-24F7EEAFE0E9</gtr:id><gtr:name>AHRC</gtr:name></gtr:funder><gtr:start>2006-06-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>87213</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs><gtr:disseminationOutput><gtr:description>Can multi-level governance deliver environmental justice? A study of the implementation of EC environmental law post-devolution in Scotland,</gtr:description><gtr:form>Scientific meeting (conference/symposium etc.)</gtr:form><gtr:geographicReach>National</gtr:geographicReach><gtr:id>24F4C17E-17F5-4672-BB1B-DEDBD968A6E9</gtr:id><gtr:impact>Information taken from Final Report
+
+Annual Conference University of Kent</gtr:impact><gtr:partOfOfficialScheme>true</gtr:partOfOfficialScheme><gtr:presentationType>paper presentation</gtr:presentationType><gtr:primaryAudience>Other academic audiences (collaborators, peers etc.)</gtr:primaryAudience><gtr:year>2007</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>So who does implement EU environmental directives in Great Britain post devolution and why does it matter,</gtr:description><gtr:form>Scientific meeting (conference/symposium etc.)</gtr:form><gtr:geographicReach>National</gtr:geographicReach><gtr:id>5A70224A-7638-4126-95F3-327BA2EBDE74</gtr:id><gtr:impact>Information taken from Final Report
+
+Significant discussion followed</gtr:impact><gtr:partOfOfficialScheme>true</gtr:partOfOfficialScheme><gtr:presentationType>paper presentation</gtr:presentationType><gtr:primaryAudience>Other academic audiences (collaborators, peers etc.)</gtr:primaryAudience><gtr:year>2008</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Putting a Kilt on the Transposition of EC Environmental Legislation: Does Devolution Provide a Truly Scottish Solution, 13th International Sustainable Development Conference, University of M?larden, V?ster?s.</gtr:description><gtr:form>Scientific meeting (conference/symposium etc.)</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>2474F48E-A967-422E-A83C-0D2BD46EB3B5</gtr:id><gtr:impact>Information taken from Final Report
+
+13th International Sustainable Development Conference</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:presentationType>paper presentation</gtr:presentationType><gtr:primaryAudience>Other academic audiences (collaborators, peers etc.)</gtr:primaryAudience><gtr:year>2007</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Producing a real difference? The transposition of Community environmental directives in post devolution Scotland and Wales, 7</gtr:description><gtr:form>Scientific meeting (conference/symposium etc.)</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>6A6F6A9D-8FF2-4CE8-97EA-4001A1B023B8</gtr:id><gtr:impact>Information taken from Final Report
+
+Annual Conference, University of Durham September 13, 2007</gtr:impact><gtr:partOfOfficialScheme>true</gtr:partOfOfficialScheme><gtr:presentationType>paper presentation</gtr:presentationType><gtr:primaryAudience>Other academic audiences (collaborators, peers etc.)</gtr:primaryAudience><gtr:year>2007</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Ms. Ross and Prof. Reid participated in a consultation workshop hosted by the Commission for Scottish Devolution.</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>National</gtr:geographicReach><gtr:id>6C11425C-7682-417F-8159-9FC6C188D894</gtr:id><gtr:impact>Commission used findings from our AHRC project in its First Report into the Future of Scottish Devolution (published December 2008, see para 7.80). 
+
+
+
+In February 2009, we responded to the Commission's consultation on its first report.
+
+Commission used findings from our AHRC project in its First Report into the Future of Scottish Devolution (published December 2008, see para 7.80).</gtr:impact><gtr:partOfOfficialScheme>true</gtr:partOfOfficialScheme><gtr:primaryAudience>Policymakers/parliamentarians</gtr:primaryAudience><gtr:year>2008</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>House of Commons EFRA Committee - oral evidence on Outcome of the Farming Regulation Task Force</gtr:description><gtr:form>A formal working group, expert panel or dialogue</gtr:form><gtr:geographicReach>National</gtr:geographicReach><gtr:id>3470BABE-365A-4BC6-BB17-F82E76A09DCC</gtr:id><gtr:impact>In June 2011, I gave evidence to the Environment, Food and Rural Affairs Committee of the House of Commons in connection with its inquiry into the Outcome of the Farming Regulation Task Force. I was asked many questions
+
+The Committee's report refers to my evidence on EU and UK law on the implementation and enforcement of EU directives by member states; the means of influencing the content of EU directives; the effect of and means of avoiding gold-plating, double banking and regulatory creep and on the EU's own efforts in reducing administrative burdens on industries. (see Tenth Report 2010-2011 HC 1266)</gtr:impact><gtr:partOfOfficialScheme>true</gtr:partOfOfficialScheme><gtr:primaryAudience>Policymakers/parliamentarians</gtr:primaryAudience><gtr:year>2011</gtr:year></gtr:disseminationOutput></gtr:disseminationOutputs><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>The study involved a review of the procedures being used to implement EC environmental law in Scotland post-devolution
+
+- whether by primary or secondary legislation and by Scottish, Welsh or UK Institutions - and the extent of substantive
+
+differences in the resulting law across Great Britain. (Obj. 1-3) It then examined the reasons for the choices that had been
+
+made.
+
+The legislative review found that there is a high volume of UK/GB regulations implementing EC environmental Directives
+
+for Scotland (12 +1 mixed/32) and Wales (27/32), which can be justified under the devolution settlement. There are 19
+
+instances where Scotland produced separate legislation to transpose EC environmental rules and five occasions where
+
+Wales acted separately. The study found that the decision to transpose separately is distinct from the decision to
+
+transpose identically and the majority of the laws transposing EC measures are identical across the UK. Legislation
+
+produced by the UK institutions contains no regional variation hence any Scottish or Welsh solutions must emanate from
+
+the devolved institutions themselves. Only one of the five Welsh regulations contains provisions substantively different
+
+from their English counterparts, whereas a third of the separate Scottish legislation does so. &amp;quot;Substantive&amp;quot; differences go
+
+beyond inconsequential phrasing or those necessary due to legal or institutional differences between jurisdictions.
+
+Transposing legislation in Scotland (primary or secondary) and Wales also receives more detailed scrutiny than where
+
+transposition is by regulations passed at Westminster.
+
+Semi-structured interviews with key personnel in the relevant administrations and agencies were used to explore the
+
+reasons for the pattern that we identified and to trace changes in the behaviour as the devolution settlement has matured
+
+(New Obj. 5). The interviews explored the relationships and processes involved in deciding who legislates, how and by
+
+whom these decisions are made, the factors and presumptions influencing them and their consequences (Obj.1-4).
+
+The study revealed that while the devolution settlements set presumptions as to who should legislate the position is not
+
+rigid. Compared to Wales, Scotland is clearly more willing to legislate both separately and differently. This is predictable
+
+as Scotland has more legislative power to do so, is better resourced, has a separate legal system and regulator from
+
+England and is more used to acting separately. Most of the mechanisms for determining the implementation process are
+
+informal and have evolved incrementally over the transition period, relying on co-operation, existing relationships and the
+
+mutual respect that comes from the unified civil service. As a result, the process for determining which administration
+
+should legislate and the content of that legislation lacks transparency and accountability.
+
+The study concludes that while the informal and co-operative approach has to date worked this is unlikely to continue. Coordination
+
+and co-operation will inevitably become more difficult over time. Already, even the slightest differences in
+
+legislation are having cumulative and knock on effects and the laws in England, Wales and Scotland are incrementally
+
+drifting apart. Moreover, the devolved administrations are more confident about legislating separately. London and the
+
+devolved administrations no longer share the same political colour so informal processes are more difficult and the
+
+likelihood of dispute higher. The research recommends that the Memorandum of Understanding and Concordats need to
+
+be revisited and that more transparent and formal processes for consultation, representation and dispute resolution are
+
+either resurrected or introduced both at UK level and within the devolved administrations.
+
+The research has led to 4 conference papers, at least 3 academic articles, two professional articles and contributions to
+
+two major inquiries on governance in Scotland.
+
+If there are any additional achievements that do not clearly relate to your aims and objectives, please indicate these
+
+below. You may, for example, wish to provide evidence of intangible achievements that could not have been anticipated
+
+when you commenced the research programme. If you have identified such achievements under the 'Changes' section,
+
+there is no need to repeat the information here.
+
+
+
+Importance - To date very little research has provided any quantitative analysis of outcomes related to devolution. This
+
+research provides the missing quantitative analysis of actual legislative outcomes needed to measure the impact of
+
+devolution on the implementation of EC environmental law. More specifically, its analysis of this legislation reveals the
+
+extent of the differences in the implementing legislation across GB and the rationales behind these differences. The
+
+empirical work reveals how decisions about implementation such as who should legislate, legislative form and content are
+
+actually made and the nature of the relationships between and among the central and devolved institutions both in GB
+
+and in Brussels. The research also provides evidence into how the priorities and pressures on the devolved and central
+
+administrations impact on their approach to the implementation of EC environmental law. These pressures and priorities
+
+include political agendas, resource constraints such as staffing, expertise and time, the legislative timetable, language
+
+obligations, differing legal approaches to statutory interpretation, the better regulation agenda including gold plating, the
+
+impact of regulations on regulators, businesses and trade as well as local or regional concerns.
+
+Environmental Law - The research provides valuable evidence into how EC environmental obligations are transposed in
+
+to UK domestic law. By examining the differences in both form and substance, it has revealed the extent of divergence
+
+between the environmental laws for Scotland, England and Wales and the likelihood of further divergence in GB post
+
+devolution.</gtr:description><gtr:exploitationPathways>In December 2007, the team produced written evidence for the European and External Relations Committee of the
+
+Scottish Parliament in relation to its inquiry into the transposition of EU law in Scotland. Ms Ross also met with the Clerk
+
+of that Committee in December 2007, and the findings from the legislative review of the project are widely cited in the
+
+Committee's report. (see European and External Relations Committee, Report on an inquiry into the transposition of EU
+
+directives 1st Report, 2008 (Session 3), SP Paper 89).
+
+In April 2008, the Commission on Scottish Devolution (the Calman Commission) established by the Scottish Parliament
+
+with the support of the UK Parliament, began its review of the provisions of the Scotland Act 1998. The Commission is to
+
+recommend changes to the present constitutional arrangements that would enable the Scottish Parliament to better serve
+
+the people of Scotland. In October 2008, Ms. Ross and Prof. Reid participated in a consultation workshop hosted by the
+
+Commission. We were each in separate roundtable discussions. During the day we found ourselves using the findings to
+
+support anecdotal evidence from other participants. Following the event, the Clerk of the Commission requested copies
+
+of the project's findings.
+
+EUR-LEX is the official EU Law portal, providing direct free access to European Union law including the Official Journals,
+
+treaties, legislation in force, proposed legislation, cases, parliamentary questions etc. EUR-LEX was in the process of
+
+developing their advanced search facility during the summer and autumn of 2006. The search facility did not do what we
+
+needed it to do. Ms Nash worked very closely with the people at EUR-LEX who agreed that this was a gap and we
+
+assisted in testing the advanced search engine as it was developed. We now find the end product to be very useful and
+
+we believe that our active engagement assisted in the development process.
+
+The United Kingdom Environmental Law Association has invited the team to produce a short article for lawyers and other
+
+professionals in its electronic journal e-law. A similar paper was produced in the Scots Law Times for a more generalist
+
+audience of the Scottish legal profession.</gtr:exploitationPathways><gtr:id>136D882F-89F4-41EA-873A-0B455DDF3DC1</gtr:id><gtr:sectors><gtr:sector>Environment</gtr:sector></gtr:sectors></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/C37458B0-CA65-4B6C-B62B-329874A4960E"><gtr:id>C37458B0-CA65-4B6C-B62B-329874A4960E</gtr:id><gtr:title>European Union Environmental Law - who legislates for whom in a devolved Great Britain</gtr:title><gtr:parentPublicationTitle>Public Law</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/6d3d7d2e789d2bbca5f15d30e55f4d2d"><gtr:id>6d3d7d2e789d2bbca5f15d30e55f4d2d</gtr:id><gtr:otherNames>Ross A.</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2009-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/04F9A37B-DFF0-4841-963D-65906203D604"><gtr:id>04F9A37B-DFF0-4841-963D-65906203D604</gtr:id><gtr:title>Multi-level governance - a study of the implementation of environmental law in post-devolution Scotland</gtr:title><gtr:parentPublicationTitle>Environmental Law and Management</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/1d30ae7363ea35c761f534fe3b946ba0"><gtr:id>1d30ae7363ea35c761f534fe3b946ba0</gtr:id><gtr:otherNames>Nash, H.</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2008-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/C5655A41-4E0C-46DB-BA20-8BCB722CDD5E"><gtr:id>C5655A41-4E0C-46DB-BA20-8BCB722CDD5E</gtr:id><gtr:title>Producing a real difference? The transposition of Community environmental directives in post devolution Scotland &amp;amp; Wales</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/5c33ad559e764e3bbc4ce99045efe9d7"><gtr:id>5c33ad559e764e3bbc4ce99045efe9d7</gtr:id><gtr:otherNames>Andrea Ross (Author)</gtr:otherNames></gtr:author></gtr:authors></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/46AD9D46-50C7-4548-9C4C-2F4333655A13"><gtr:id>46AD9D46-50C7-4548-9C4C-2F4333655A13</gtr:id><gtr:title>The Implementation of EU Environmental Law in Scotland</gtr:title><gtr:parentPublicationTitle>Edinburgh Law Review</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/c228bae0c2123fd1cc7840b17927e53c"><gtr:id>c228bae0c2123fd1cc7840b17927e53c</gtr:id><gtr:otherNames>Ross A</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2009-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/B44AA622-DC6E-455E-873B-202C3D0EA27E"><gtr:id>B44AA622-DC6E-455E-873B-202C3D0EA27E</gtr:id><gtr:title>Written evidence to European and External Relations Committee of the Scottish Parliament in relation to its inquiry into the transposition of EU law, Scotland.</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/f0f99ec5f082837b5498596514024685"><gtr:id>f0f99ec5f082837b5498596514024685</gtr:id><gtr:otherNames>Andrew Ryder (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2008-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/29BF4E26-EB00-445B-8E1A-D2E3619FB3EA"><gtr:id>29BF4E26-EB00-445B-8E1A-D2E3619FB3EA</gtr:id><gtr:title>Producing a real difference? The transposition of Community environmental directives in post devolution Scotland and Wales</gtr:title><gtr:parentPublicationTitle>Scots Law Times (News)</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/8361715b26021bba158de2fba5264aea"><gtr:id>8361715b26021bba158de2fba5264aea</gtr:id><gtr:otherNames>Ross, A.</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2008-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/12035F93-A503-4C62-8F01-F1EE9C8897F5"><gtr:id>12035F93-A503-4C62-8F01-F1EE9C8897F5</gtr:id><gtr:title>Implementing EC environmental law after devolution</gtr:title><gtr:parentPublicationTitle>E-Law - UKELA</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/eeab924c10bc8386b4c7ed1d9729625d"><gtr:id>eeab924c10bc8386b4c7ed1d9729625d</gtr:id><gtr:otherNames>Reid CT</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2008-01-01</gtr:date></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">119265/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>4511FB20-8392-418E-809D-7701FACC03C9</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Law &amp; legal studies</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>9A4CA3E5-9CDA-4B38-9C9E-5F8023D4603E</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>EU Law</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>84FAE587-7A8D-4EE4-9939-EE9AFF202021</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Law Regulated By Statute</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>10601309-838E-4D0F-A4EE-B765E0CB1A81</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Public Law</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

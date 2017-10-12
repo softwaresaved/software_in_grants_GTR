@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/7A0397DD-E0C6-4EA3-8031-B841D2503C4D"><gtr:id>7A0397DD-E0C6-4EA3-8031-B841D2503C4D</gtr:id><gtr:name>Royal Holloway, University of London</gtr:name><gtr:department>Physics</gtr:department><gtr:address><gtr:line1>Egham Hill</gtr:line1><gtr:line4>Egham</gtr:line4><gtr:line5>Surrey</gtr:line5><gtr:postCode>TW20 0EX</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/7A0397DD-E0C6-4EA3-8031-B841D2503C4D"><gtr:id>7A0397DD-E0C6-4EA3-8031-B841D2503C4D</gtr:id><gtr:name>Royal Holloway, University of London</gtr:name><gtr:address><gtr:line1>Egham Hill</gtr:line1><gtr:line4>Egham</gtr:line4><gtr:line5>Surrey</gtr:line5><gtr:postCode>TW20 0EX</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/367E5581-70C2-4495-95D3-C760A8F5F856"><gtr:id>367E5581-70C2-4495-95D3-C760A8F5F856</gtr:id><gtr:firstName>Stewart</gtr:firstName><gtr:otherNames>Takashi</gtr:otherNames><gtr:surname>Boogert</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/D495529D-1BDB-4BA2-ADD6-E394FC22B058"><gtr:id>D495529D-1BDB-4BA2-ADD6-E394FC22B058</gtr:id><gtr:firstName>Tracey</gtr:firstName><gtr:otherNames>Sharon</gtr:otherNames><gtr:surname>Berry</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/9A10247E-2681-4384-AD51-F0B10D26D04F"><gtr:id>9A10247E-2681-4384-AD51-F0B10D26D04F</gtr:id><gtr:firstName>James</gtr:firstName><gtr:otherNames>Algot</gtr:otherNames><gtr:surname>Nikkel</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/6895B596-8973-4F46-8380-04AAA1379043"><gtr:id>6895B596-8973-4F46-8380-04AAA1379043</gtr:id><gtr:firstName>Veronique</gtr:firstName><gtr:surname>Boisvert</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/B275E7C6-14AF-4EB1-8C6E-005BE848520C"><gtr:id>B275E7C6-14AF-4EB1-8C6E-005BE848520C</gtr:id><gtr:firstName>Jocelyn</gtr:firstName><gtr:surname>Monroe</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/CEC09E71-F233-407A-AB62-C9E991F55900"><gtr:id>CEC09E71-F233-407A-AB62-C9E991F55900</gtr:id><gtr:firstName>Stephen</gtr:firstName><gtr:otherNames>Michael</gtr:otherNames><gtr:surname>Gibson</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/4ED3F4CB-2C60-4CE7-9A15-52F8271CEC6F"><gtr:id>4ED3F4CB-2C60-4CE7-9A15-52F8271CEC6F</gtr:id><gtr:firstName>Glen</gtr:firstName><gtr:surname>Cowan</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/A1B0D1A4-2343-44D2-A28E-23317D75D9A3"><gtr:id>A1B0D1A4-2343-44D2-A28E-23317D75D9A3</gtr:id><gtr:firstName>Pedro</gtr:firstName><gtr:surname>Teixeira-Dias</gtr:surname><gtr:orcidId>0000-0001-9977-3836</gtr:orcidId><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=ST%2FN00034X%2F1"><gtr:id>D24F6C13-E74F-4921-B77A-303DECE9E802</gtr:id><gtr:title>Particle Physics STFC Consolidated Grant 2015</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>ST/N00034X/1</gtr:grantReference><gtr:abstractText>Experimental particle physics addresses some of the fundamental
+questions about the structure and behaviour of the Universe at the
+level of the smallest particles of matter, the quarks and the leptons,
+and the forces acting between them. We are exploring fundamental
+properties of particles at the the Large Hadron Collider (LHC) and
+also exploring the nature of dark matter and neutrinos by developing
+and employing novel detection systems.
+
+We are contributing to the continued operation of the ATLAS project at
+the Large Hadron Collider at CERN. We have constructed and
+commissioned electronic systems and the software that drives them.
+From the beginning of data taking we have played a leading role in
+searches for exotic particles, the 2012 discovery of the Higgs boson,
+and studies of properties of the top quark. We are preparing for the
+renewed data taking starting in 2015 with further analyses on these
+and related topics.
+
+Although there is ample indirect evidence for the existence of dark
+matter is inferred from its gravitational interactions, it has not yet
+been directly detected in terrestrial laboratories. Direct detection
+experiments seek to observe dark matter scattering on target detector
+nuclei. We explore these issues through a world-leading dark matter
+search on DEAP/CLEAN, a liquid Argon detector with unique potential
+for scaling to multi-tonne masses, with the DMTPC detector development
+programme to measure the dark matter wind, and the Lux-Zeplin
+experiment. The group's expertise in high pressure TPCs is now being
+utilised to carry out measurements relevant to the study of neutrinos
+as part of the Hyper-K experiment.
+
+Our expertise in accelerator science will allow us to carry out
+studies for the machine-detector interface for the High Luminosity LHC
+and ILC. We will also expand the interactions between our
+phenomenology group and the experimental community.</gtr:abstractText><gtr:potentialImpactText>The Centre for Particle Physics (CPP) at RHUL includes the particle
+physics experimental research supported in the Consolidated Grant.
+The CPP also contains the John Adams Institute for Accelerator Science
+(JAI) at RHUL and our theoretical physics activity; while these are
+not applying for funding in this proposal, it should be recognised
+that they have impact related synergies that will benefit from this
+grant.
+ 
+The main beneficiaries from our research include:
+
+Higher Education Institutions
+
+- The RHUL group runs an annual masterclass in particle physics, where
+sixth formers are invited to the university to take part in lectures
+and practical activities in particle physics. The intended impact is
+to increase the numbers of students going on to study physics at
+university level, as well as to increase interest in particle physics
+in its own right. 
+
+Employers of numerate and scientifically literate staff
+
+- Particle physics PhD's are highly sought after outside of academic
+ institutions, in physics related jobs, engineering, IT, high-tech
+ industry and finance.
+
+- Undergraduates are attracted to science degrees by their excitement
+by particle physics; these graduates subsequently go into the wider
+workforce. 
+
+Wider public through a greater appreciation of fundamental physics
+
+- The huge exposure of the LHC, discovery of the Higgs boson and
+searches for new undiscovered particles in the UK media demonstrates
+national interest in particle physics
+
+- Scientific discovery is part of the human condition and has a strong
+role in the culture of the nation. 
+
+Users of computing
+
+- The LHC analysis needs vast computing resources that have
+necessitated developing transformative computing systems, namely the
+Grid, that has set new scales for distributed computing and is also
+opening up new possibilities outside of particle physics.
+
+- students emerge from our research programmes well versed in
+ state-of-the-art computing and bring this expertise to industry and
+ finance.
+
+Detector systems
+
+- The dark matter group at RHUL is very interested in low-background
+radiation detector development, in particular using cryogenic targets
+with large area photo-detectors for scintillation photon detection. We
+are also actively pursuing low-pressure gas time projection chamber
+R&amp;amp;D with both commercial photosensors for optical readout as well as
+low-noise electronics for charge readout. Both of these efforts
+potentially have commercial applications in the areas of low energy
+gamma and direction sensitive neutron detection. Potential
+beneficiaries are medical and security sectors.
+
+- In order to advance the impact agenda, the dark matter group at RHUL
+is endorsing a SEPNET/IPS Fellowship application by the University of
+Surrey in the context of SEPNET and intends to collaborate on
+developing technology transfer projects to explore commercialising
+radiation detectors based on our R&amp;amp;D efforts, and associated
+instrumentation and techniques.
+
+Accelerator physics and facilities 
+
+- User facilities such as Diamond Light Source, ISIS neutron source,
+free electron lasers and high energy colliders all benefit from
+research developments of the JAI. The ultimate aim is to improve the
+performance of these facilities for the user communities.
+
+- The JAI is transferring its knowledge and expertise on beam
+instrumentation to UK bases SMEs via Innovations Partnership Schemes
+(IPS) and shared projects. An example is high resolution Cavity Beam
+Position monitors which were developed for the ILC and are now being
+co-developed with Oxford-FMB as a product for free electron lasers.
+
+- Combined accelerator and particle matter interaction simulations are
+being used to simulate the LHC and ILC, but has broad application for
+the growing field of medical accelerators and vendors of these
+systems.</gtr:potentialImpactText><gtr:fund><gtr:end>2019-09-30</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/D7F4F462-0518-4784-908A-D12633C139B3"><gtr:id>D7F4F462-0518-4784-908A-D12633C139B3</gtr:id><gtr:name>STFC</gtr:name></gtr:funder><gtr:start>2015-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>1921004</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/DC27C5F2-5074-4147-B269-DF5A05ED4FF1"><gtr:id>DC27C5F2-5074-4147-B269-DF5A05ED4FF1</gtr:id><gtr:title>Readout technologies for directional WIMP Dark Matter detection</gtr:title><gtr:parentPublicationTitle>Physics Reports</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/d416300234bea7b095cfb5180b87ecce"><gtr:id>d416300234bea7b095cfb5180b87ecce</gtr:id><gtr:otherNames>Battat J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/88B29044-6C83-469C-A831-2B54A0786012"><gtr:id>88B29044-6C83-469C-A831-2B54A0786012</gtr:id><gtr:title>Design, development and use of the spectrometer for investigating coherent THz radiation produced by micro-bunching instabilities at Diamond Light Source</gtr:title><gtr:parentPublicationTitle>Journal of Physics: Conference Series</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/e109e96eedd80e4a65f885a8d84223a6"><gtr:id>e109e96eedd80e4a65f885a8d84223a6</gtr:id><gtr:otherNames>Finn A</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">ST/N00034X/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>A50650F5-D901-49C3-AA30-F625AC696676</gtr:id><gtr:percentage>35</gtr:percentage><gtr:text>Particle Astrophysics</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>C2898760-D7E5-4B25-A236-E7869CD74F88</gtr:id><gtr:percentage>64</gtr:percentage><gtr:text>Particle physics - experiment</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>9C124926-5968-486F-9B51-CCEB6C4E9650</gtr:id><gtr:percentage>1</gtr:percentage><gtr:text>Particle physics - theory</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>1DC69BB9-DB25-46B4-B810-741F86398414</gtr:id><gtr:percentage>14</gtr:percentage><gtr:text>B Physics/Flavour Physics</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>200B9B9B-68EC-4D70-B889-6BD5F4538080</gtr:id><gtr:percentage>44</gtr:percentage><gtr:text>Beyond the Standard Model</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>CCB3E1C2-7BBB-4188-9A33-C0649A629BBC</gtr:id><gtr:percentage>35</gtr:percentage><gtr:text>Direct Dark Matter Detection</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>DB4948F7-4829-4191-8416-208CE0FBE9D2</gtr:id><gtr:percentage>6</gtr:percentage><gtr:text>Neutrino Physics</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>D1CFDBA8-6B0A-4F3B-A5BD-26C5EA182FA7</gtr:id><gtr:percentage>1</gtr:percentage><gtr:text>Phenomenology</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

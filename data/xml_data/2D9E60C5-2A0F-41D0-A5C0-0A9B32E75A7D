@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/68D0E3C9-9246-4CFC-B5E9-48584CF82993"><gtr:id>68D0E3C9-9246-4CFC-B5E9-48584CF82993</gtr:id><gtr:name>University of Manchester</gtr:name><gtr:department>Physics and Astronomy</gtr:department><gtr:address><gtr:line1>Oxford Road</gtr:line1><gtr:city>Manchester</gtr:city><gtr:postCode>M13 9PL</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/68D0E3C9-9246-4CFC-B5E9-48584CF82993"><gtr:id>68D0E3C9-9246-4CFC-B5E9-48584CF82993</gtr:id><gtr:name>University of Manchester</gtr:name><gtr:address><gtr:line1>Oxford Road</gtr:line1><gtr:city>Manchester</gtr:city><gtr:postCode>M13 9PL</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/A0B95F21-37DF-4B88-84CD-091248E3E24D"><gtr:id>A0B95F21-37DF-4B88-84CD-091248E3E24D</gtr:id><gtr:firstName>Stefan</gtr:firstName><gtr:surname>Soldner-Rembold</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=ST%2FK002813%2F1"><gtr:id>2D9E60C5-2A0F-41D0-A5C0-0A9B32E75A7D</gtr:id><gtr:title>SuperNEMO Commissioning and Sensitivity Demonstration</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>ST/K002813/1</gtr:grantReference><gtr:abstractText>Neutrinos are the most abundant matter particle in the universe, and yet 
+our knowledge of them is still lacking in fundamental respects. We do not 
+know whether neutrinos and anti-neutrinos are really distinct particles, or 
+just different versions of the same underlying particle, which is possible 
+since they do not carry any charge. In recent decades neutrino oscillation 
+experiments have shed considerable light on the flavour structure of neutrinos, 
+and in particular how neutrinos may turn from one flavour into another due to
+their tiny mass differences. However, despite knowing rather precisely these 
+mass differences, we still do not know what the absolute mass scale of the
+neutrino is. One of the highest priorities in particle physics today is to 
+elucidate some of these mysteries surrounding the neutrino. This may
+give us further insight into such fundamental questions as the nature of
+physics at the extremely high energies associated with Grand Unification,
+and the source of the matter-antimatter asymmetry which we observe in the
+universe today.
+
+Beta decay is a familiar radioactive process whereby a parent nucleus
+decays into a daughter nucleus with the emission of an electron and
+an (unseen) anti-neutrino. In certain nuclei beta decay is forbidden but,
+very rarely, two simultaneous beta decays may occur. The distinctive
+signature of two electrons being emitted has been observed in several
+isotopes. We are searching for a distinct form of double-beta decay
+in which no neutrinos are emitted alongside the electrons, resulting in
+the electrons carrying away the full energy of the associated nuclear
+decay. This &amp;quot;neutrinoless&amp;quot; process can only occur if neutrinos and 
+anti-neutrinos are the same fundamental particle. Moreover, by measuring 
+the rate of such decays we can effectively measure the absolute mass of 
+the neutrino.
+
+In order to search for neutrinoless double-beta decay with greater
+sensitivity then ever before, we have built what is essentially the 
+largest Geiger counter in the world. This so-called &amp;quot;tracker&amp;quot; for the 
+SuperNEMO experiment records ionisation left by the electrons from the 
+double-beta decay and allows us to visualise the tracks that they leave
+in the detector. UK groups have been building this tracking detector
+for the last 3 years, based on extensive R&amp;amp;D that took place before that.
+
+The next phase for SuperNEMO is to take the UK-built tracker to an
+underground laboratory located under the Alps between France and Italy
+in order to shield the experiment from cosmic rays. There, we will 
+marry the tracker with the other components of the detector that 
+are being assembled by colleagues in France, Russia, the Czech Republic and
+the US. Extensive work will be required to carefully assemble the
+first module of SuperNEMO, called the &amp;quot;Demonstrator Module&amp;quot;, such that
+it works as expected and that no radioactive contamination is allowed to enter 
+the detector. Even trace contamination, far below the level of radioactivity
+in ordinary materials, could completely swamp the very rare processes that
+we are searching for.
+
+By the end of this project, the SuperNEMO Demonstrator Module will be
+up and running and launching into an exciting physics program to try
+to address some of the fundamental questions outlined above.</gtr:abstractText><gtr:potentialImpactText>Although our objectives are largely scientific in nature, our 
+work will have wider impact, including:
+
+- industry. The SuperNEMO project members maintain close
+ links with a number of companies including but not limited to 
+ Hamamatsu (Photomultiplier manufacturer, Japan), ETL 
+ (Photomultiplier manufacturer, UK), ELJEN (scintillator 
+ manufacturer, US) and ENVINET (scintillator manufacturer, Czech
+ Republic). We will maintain these links, continuing to test 
+ new products and provide feedback to manufacturers where 
+ appropriate.
+
+- security applications. Members of the UK SuperNEMO collaboration
+ have used their experience to propose and develop two prototype 
+ detectors that use cosmic rays to passively monitor volumes for
+ the presence of suspicious materials. We will continue to work
+ on potential applications of technologies related to the
+ SuperNEMO project.
+
+- society at large. We plan a media campaign to coincide with
+ the start of SuperNEMO operations. SuperNEMO provides 
+ visually striking images of double-beta decay due to the 
+ full event reconstruction that it performs. We are also filming
+ various construction activities, anticipating their
+ use in future public presentations. We believe that raising 
+ the media profile of SuperNEMO will complement other particle
+ physics news stories in the media and help to maintain the
+ interest of the public and in particular school students who
+ may be thinking of studying physics at university.
+
+See &amp;quot;Pathways to Impact&amp;quot; for further information.</gtr:potentialImpactText><gtr:fund><gtr:end>2017-12-31</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/D7F4F462-0518-4784-908A-D12633C139B3"><gtr:id>D7F4F462-0518-4784-908A-D12633C139B3</gtr:id><gtr:name>STFC</gtr:name></gtr:funder><gtr:start>2013-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>195784</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">ST/K002813/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>6BF947B0-8E6E-48DB-AB68-7130938F2DF2</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Instrument. sensor &amp; detectors</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>C2898760-D7E5-4B25-A236-E7869CD74F88</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Particle physics - experiment</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>DB4948F7-4829-4191-8416-208CE0FBE9D2</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Neutrino Physics</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>00E432A0-CF0E-42D0-BAF1-6872995B42EF</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Part. Phys/Astron. Instrument.</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

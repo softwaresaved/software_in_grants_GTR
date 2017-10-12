@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/3A5E126D-C175-4730-9B7B-E6D8CF447F83"><gtr:id>3A5E126D-C175-4730-9B7B-E6D8CF447F83</gtr:id><gtr:name>University College London</gtr:name><gtr:department>London Centre for Nanotechnology</gtr:department><gtr:address><gtr:line1>Gower Street</gtr:line1><gtr:line4>London</gtr:line4><gtr:postCode>WC1E 6BT</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/3A5E126D-C175-4730-9B7B-E6D8CF447F83"><gtr:id>3A5E126D-C175-4730-9B7B-E6D8CF447F83</gtr:id><gtr:name>University College London</gtr:name><gtr:address><gtr:line1>Gower Street</gtr:line1><gtr:line4>London</gtr:line4><gtr:postCode>WC1E 6BT</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/D47D5D5E-C1D6-47F1-8E6B-AEDF4CED3C6D"><gtr:id>D47D5D5E-C1D6-47F1-8E6B-AEDF4CED3C6D</gtr:id><gtr:firstName>Ian</gtr:firstName><gtr:otherNames>Keith</gtr:otherNames><gtr:surname>Robinson</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/58C5F4EF-E4A6-4C8C-B215-9E586C624B1D"><gtr:id>58C5F4EF-E4A6-4C8C-B215-9E586C624B1D</gtr:id><gtr:firstName>mohammed</gtr:firstName><gtr:surname>yusuf</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=BB%2FL026260%2F1"><gtr:id>DEE84044-97FF-4C12-A863-9C99F6F8C7D8</gtr:id><gtr:title>Chromosome structure workshop</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>BB/L026260/1</gtr:grantReference><gtr:abstractText>united kingdom</gtr:abstractText><gtr:fund><gtr:end>2015-05-21</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/2512EF1C-401B-4222-9869-A770D4C5FAC7"><gtr:id>2512EF1C-401B-4222-9869-A770D4C5FAC7</gtr:id><gtr:name>BBSRC</gtr:name></gtr:funder><gtr:start>2015-04-22</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>10081</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs><gtr:disseminationOutput><gtr:description>UK-Japan Chromosome workshop at ACC5</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>CCB2F10B-C30C-4BEC-A33F-4A28E774CA1F</gtr:id><gtr:impact>HIGH$RESOLUTION$-$FLUORESCENCE$MICROSCOPY$ Session$chair$Prof.$Hans$de$Jong$
+$
+1.30!
+Prof.&amp;amp;Stanley&amp;amp;Botchway&amp;amp;
+New&amp;amp;fluorescent?obes&amp;amp;for&amp;amp;chromosome&amp;amp;imaging:&amp;amp;FLIM?&amp;amp; PLIM?&amp;amp;beyond&amp;amp;
+2.00!
+Mr&amp;amp;Christophe&amp;amp;Lynch&amp;amp;
+SuperRsolution&amp;amp;imaging&amp;amp;of&amp;amp;chromosomes&amp;amp;
+2.15$
+Ms&amp;amp;Rawin&amp;amp;Poonperm&amp;amp;
+Study&amp;amp;of&amp;amp;KIF4&amp;amp;localization?&amp;amp;mitotic&amp;amp;chromosomes&amp;amp;
+2.30$
+Ms&amp;amp;Ana&amp;amp;Estandarte&amp;amp;
+FLIMIaging&amp;amp;of&amp;amp;chromosomes&amp;amp;
+2.45$-$3.05$BREAK$!
+ELECTRON$MICROSCOPY$ Session$chair$Prof.$Yoshinori$Nishino$
+3.05!
+Dr&amp;amp;Shinichi&amp;amp;Ogawa&amp;amp;
+ for&amp;amp;imaging&amp;amp;of&amp;amp;soft&amp;amp;materials&amp;amp;such&amp;amp;as&amp;amp;chromosome?&amp;amp;
+3.35!
+Mr&amp;amp;Teruo&amp;amp;Hashimoto&amp;amp;&amp;amp;
+3D&amp;amp;Serial&amp;amp;Block&amp;amp;face&amp;amp;imaging?paration?&amp;amp; applications&amp;amp;
+3.55!
+Mr&amp;amp;Kohei&amp;amp;Kaneyoshi&amp;amp;&amp;amp;
+Inner&amp;amp;chromosome&amp;amp;structure&amp;amp;observed&amp;amp;by&amp;amp;FIB/SEM&amp;amp;&amp;amp;
+$WORKSHOP$END$PRESENTATION$$ Session$chair$Dr$Shinichi$Ogawa!
+4.10$
+Prof.&amp;amp;Susumu&amp;amp;Uchiyama&amp;amp;
+Construction&amp;amp;of&amp;amp;cell&amp;amp;lines&amp;amp;for&amp;amp;metaphase&amp;amp;chromosome&amp;amp; ChIP&amp;amp;using&amp;amp;CRISPR/Cas9&amp;amp;&amp;amp;system&amp;amp;&amp;amp;
+4.40$
+Prof.&amp;amp;Kiichi&amp;amp;Fukui&amp;amp;
+Closing&amp;amp;Speech&amp;amp;
+$4.45$-$5.10$BREAK!
+5.10$- 6.00!
+Prof.&amp;amp;Ian&amp;amp;Robinson/&amp;amp;&amp;amp; Prof.&amp;amp;Kiichi&amp;amp;Fukui&amp;amp;&amp;amp;
+&amp;amp; All&amp;amp;welcome!
+Discussion&amp;amp;for&amp;amp;future&amp;amp;grant?plications?&amp;amp;SACLA&amp;amp; beamtime&amp;amp;
+7.00$pm$onwards$-$Evening$meal$$ $ Pola$Pola$Restaurant$and$Bar$$
+End$of$meeting$
+2ndUK-Japan Chromosome Workshop, 1st May 2015 Venue: Kasetsart UniversityBangkok, Thailand
+Programme$
+Friday$1st$May$2015!
+9.00!
+Prof.&amp;amp;Ian&amp;amp;Robinson!
+Welcome&amp;amp;Speech&amp;amp;
+9.05!
+Dr&amp;amp;Kornsorn&amp;amp;Srikulnath&amp;amp;
+Introduction&amp;amp;to&amp;amp;Kasetsart&amp;amp;University&amp;amp;
+X$RAY$IMAGING$$ Session$chair$Prof.$Susumu$Uchiyama$
+9.15!
+Prof.&amp;amp;Yoshinori&amp;amp;Nishino&amp;amp;!
+Chromosome&amp;amp;structure&amp;amp;asRvealed&amp;amp;by&amp;amp;X?ray&amp;amp; Scattering&amp;amp;!
+9.45!
+Dr&amp;amp;Mohammed&amp;amp;Yusuf&amp;amp;!
+Chromosome&amp;amp;sample?paration&amp;amp;for&amp;amp;X?rayIaging!
+10.05!
+Dr&amp;amp;Joerg?hwenke!
+Quantitative&amp;amp;phase&amp;amp;imaging&amp;amp;of&amp;amp;human&amp;amp;chromosomes&amp;amp; and?clei&amp;amp;using&amp;amp;X?ray&amp;amp;diffraction!
+10.25!
+Dr&amp;amp;Bo&amp;amp;Chen!
+A&amp;amp;Brief&amp;amp;Comparison&amp;amp;of&amp;amp;SEM?&amp;amp;TXMIaging&amp;amp;of&amp;amp; Human&amp;amp;Chromosomes&amp;amp;
+10.45$-$11.05$BREAK!
+FLUORESCENCE$MICROSCOPY! Session$chair$Prof.$Stanley$Botchway!
+11.05!
+Prof.&amp;amp;Hans&amp;amp;de&amp;amp;Jong&amp;amp;
+Advanced&amp;amp;high&amp;amp;?&amp;amp;resolution&amp;micro;scopy&amp;amp;?&amp;amp;status?&amp;amp; prospects.&amp;amp;An&amp;amp;Overview&amp;amp;
+11.35!
+Dr&amp;amp;Naoki&amp;amp;Wada&amp;amp;
+A&amp;amp;hybrid&amp;amp;cell&amp;amp;line?&amp;amp;human?&amp;amp;plant&amp;amp;&amp;amp;
+11.55!
+Ms&amp;amp;Gina&amp;amp;Ratnasari&amp;amp;&amp;amp;
+Single&amp;amp;chromatid&amp;amp;chromosome?paration&amp;amp;using&amp;amp;RNAi&amp;amp;
+12.10$
+Ms&amp;amp;Rinyaporn&amp;amp;Pengchat&amp;amp;
+The&amp;amp;effect&amp;amp;of&amp;amp;calcium&amp;amp;ion&amp;amp;on&amp;amp;chromosome&amp;amp;structure&amp;amp;
+$12.25$-$01.30$LUNCH$!</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Policymakers/politicians</gtr:primaryAudience><gtr:url>https://acc5bangkok2015.kasetsart.org/acc5/</gtr:url><gtr:year>2016</gtr:year></gtr:disseminationOutput></gtr:disseminationOutputs><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>We have coordinated a team of Japanese colleagues interested in participating in a 2-day conference. We are discussing possible dates and venues.</gtr:description><gtr:exploitationPathways>Meeting will be announced in public and attendance will be open. By attaching as a satellite to another meeting, we hope to increase impact.</gtr:exploitationPathways><gtr:id>2C58B04B-5DD3-4944-A234-1750F3DEE9C1</gtr:id><gtr:sectors><gtr:sector>Other</gtr:sector></gtr:sectors></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">BB/L026260/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>
