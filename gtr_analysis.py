@@ -12,12 +12,8 @@ import urllib.request
 from xml.etree import cElementTree as et
 
 
-
-DATAFILENAME = "./data/projectsearch-1507107194469.csv"
+DATAFILENAME = "./data/gtrdata-clean.csv"
 STOREFILENAME = "./output/"
-
-
-
 
 
 def import_csv_to_df(filename):
@@ -29,7 +25,17 @@ def import_csv_to_df(filename):
     
     return pd.read_csv(filename)
    
-    
+
+def export_to_csv(df, location, filename):
+    """
+    Exports a df to a csv file
+    :params: a df and a location in which to save it
+    :return: nothing, saves a csv
+    """
+
+    return df.to_csv(location + filename + '.csv')
+
+
 def drop_non_grants(df):
 
     df = df[df['ProjectCategory'] == 'Research Grant']
@@ -43,9 +49,8 @@ def populate_dataframe(df):
     Convert XML files into a dataframe
     """
 
-    XML_PREPEND = 'file:///Users/user/Desktop/Git/software_in_grants_GTR/data/xml_data/'
-    XML_NAMESPACE = 'http://gtr.rcuk.ac.uk/gtr/api/project'
-
+    FILE_PATH = 'file:///Users/user/Desktop/Git/software_in_grants_GTR/data/xml_data/'
+    XML_NAMESPACE = 'http://gtr.rcuk.ac.uk/api'
 
 
     def retrieve_xml_from_url(filename):
@@ -75,17 +80,12 @@ def populate_dataframe(df):
         return xml_root
 
 
-    # Get list of all files we're looking for
-    all_xml_files = XML_PREPEND + df['ProjectId'].astype(str)
-
-#    print(df['ProjectId'])
-
-    for curr_xml in all_xml_files:
-        print(curr_xml)
-        xml_root = retrieve_xml_from_url(curr_xml)
-        print(xml_root)
-        xml_element = xml_root.find('.//gtr:title', {'gtr': XML_NAMESPACE})
-        print(xml_element)
+    for curr_project in df['ProjectId'].astype(str):
+        print(curr_project)
+        xml_doc = FILE_PATH + curr_project
+        xml_root = retrieve_xml_from_url(xml_doc)
+        df['title'] = xml_root.find('./gtr:projectComposition/gtr:project/gtr:title', {'gtr': XML_NAMESPACE}).text
+        df['abstract'] = xml_root.find('./gtr:projectComposition/gtr:project/gtr:abstractText', {'gtr': XML_NAMESPACE}).text
 
     return df
 
@@ -118,17 +118,10 @@ def main():
     # Remove anything that isn't a grant
     df = drop_non_grants(df)
 
-    all_data_df = populate_dataframe(df)
+    df = populate_dataframe(df)
 
-#    xml_root = retrieve_xml_from_url('file:///Users/user/Desktop/Git/software_in_grants_GTR/data/77AF9305-8F4F-43FA-8D92-675180CD46A4')
+    export_to_csv(df, DATAFILENAME, 'gtr_data_titles_and_abs')
 
-#    xml_element = xml_root.find('.//gtr:title', {'gtr': 'http://gtr.rcuk.ac.uk/api'})
-    
-#    print(xml_element.text)
-
-#    df = find_keywords(df, 'Title')
-    
-#    print(df.columns)
 
 if __name__ == '__main__':
     main()
