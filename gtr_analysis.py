@@ -11,10 +11,25 @@ from textwrap import wrap
 import urllib.request
 from xml.etree import cElementTree as et
 import string
-
+import time
+import datetime
+from dateutil.rrule import rrule, MONTHLY
+import logging
 
 DATAFILENAME = "./data/gtr_data_titles_and_abs.csv"
 STOREFILENAME = "./output/"
+LOGGERLOCATION = "./log_gtr_analysis.log"
+
+# Set up logging
+logging.basicConfig(level=logging.DEBUG)
+logger = logging.getLogger(__name__)
+handler = logging.FileHandler(LOGGERLOCATION)
+handler.setLevel(logging.INFO)
+# create a logging format
+formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+handler.setFormatter(formatter)
+# add the handlers to the logger
+logger.addHandler(handler)
 
 
 def import_csv_to_df(filename):
@@ -37,6 +52,39 @@ def export_to_csv(df, location, filename):
     return df.to_csv(location + filename + '.csv')
 
 
+def convert_to_date(df):
+        
+    df['startdate'] = pd.to_datetime(df['startdate'])
+    df['enddate'] = pd.to_datetime(df['enddate'])
+
+    logger.info('Converted dates into datetime format.')
+    
+    return df
+    
+    
+def clean_data(df):
+
+    before = len(df)
+
+    # Keep data modern by removing all project that started before 2000
+    df = df[(df['startdate'] < datetime.date(2000,1,1))]
+
+    print(df)
+    after1 = len(df)
+
+    logger.info(str(before - after1) + ' records were dropped because the project started before the year 2000.')
+
+    df = df[(df['enddate'] > df['startdate'])]
+
+    after2 = len(df)
+
+    logger.info(str(after1 - after2) + ' records were dropped because the start date was recorded as later than the end date.')
+
+#    print(type(df['enddate'].dt.year))
+
+    return df
+    
+
 def find_keywords(df, keyword_list, search_col):
     """
     Finds a keyword in a dataframe
@@ -58,14 +106,6 @@ def find_keywords(df, keyword_list, search_col):
     return df
 
 
-def convert_to_date(df):
-    
-    df['startdate'] = pd.to_datetime(df['startdate'])
-    df['enddate'] = pd.to_datetime(df['startdate'])
-    
-    return df
-
-
 def get_years(df):
 
     """
@@ -83,8 +123,27 @@ def get_years(df):
 
     # Combine the lists into a dict
     years_in_data = {'start_years':start_years, 'end_years':end_years, 'all_years':all_years}
+
+    logger.info('There are ' + str(len(years_in_data['all_years'])) + ' years in the data')
     
     return years_in_data
+
+def get_monthly_spend(df):
+
+    # Get the length of the project in months
+    df['duration in months'] = (df['enddate'] - df['startdate'])/ np.timedelta64(1, 'M')
+    
+    # Remove any records that have a start date occuring after the end date!
+    df = df[df['duration in months']>0]
+
+
+
+#    months = [dt.strftime("%Y") for dt in rrule(MONTHLY, dtstart=startdate, until=enddate)]
+#    print(months)
+    logger.info('Calculated durations.')
+
+    return df
+
 
 
 def get_summary_data(df, where_to_search, keyword_list, years_in_data):
@@ -96,6 +155,8 @@ def get_summary_data(df, where_to_search, keyword_list, years_in_data):
 
     total_records = len(df)
     searched_columns = []
+    df_summary = pd.DataFrame(index=keyword_list)
+    df_summary_percent = pd.DataFrame(index=keyword_list)
     
     start_years = years_in_data['start_years']
 
@@ -106,11 +167,11 @@ def get_summary_data(df, where_to_search, keyword_list, years_in_data):
             appended_keyword_list = [search_col + '_' + s for s in keyword_list]
             df_counts = df_temp[appended_keyword_list].apply(pd.Series.value_counts)
             orig_column_list = df_counts.columns
-            searched_columns.append('keywords in ' + search_col)
-            df_counts['keywords in ' + search_col] = df_counts[orig_column_list].sum(axis=1)
-            df_counts['keywords in ' + search_col + ' %'] = round((df_counts['keywords in ' + search_col]/total_records)*100, 2)
-            df_counts.drop(orig_column_list, axis=1, inplace=True)    
-            export_to_csv(df_counts, STOREFILENAME + 'found_keywords/', str(curr_year) + '_found_keywords')
+            searched_columns.append('keywords in ' + search_col) 
+            df_summary[str(curr_year) + '_' + search_col + '_count'] = df_counts[orig_column_list].sum(axis=1)
+            df_summary_percent[str(curr_year) + '_' + search_col + '_%'] = round((df_counts[orig_column_list].sum(axis=1)/total_records)*100,2)
+#            export_to_csv(df_counts, STOREFILENAME + 'found_keywords/', str(curr_year) + '_found_keywords')
+    logger.info('Calculated summaries of data.')
 
     return df
 
@@ -128,8 +189,14 @@ def main():
     # Get GTR summary data
     df = import_csv_to_df(DATAFILENAME)
 
+    logger.info('Imported df includes ' + str(len(df)) + ' records')
+
     # Make the dates, er... well... dates
     df = convert_to_date(df)
+
+    df = clean_data(df)
+
+    df = get_monthly_spend(df)
 
     # Add new columns showing where each of the keywords was
     # found in the grant
