@@ -191,8 +191,8 @@ def get_summary_data(df, where_to_search, keyword_list, years_in_data):
 
             print(df_summary_percent)
 
-
-#    export_to_csv(df_counts, STOREFILENAME + 'found_keywords/', str(curr_year) + '_found_keywords')
+    export_to_csv(df_summary, STOREFILENAME, 'summary_found_keywords_count')
+    export_to_csv(df_summary_percent, STOREFILENAME, 'summary_found_keywords_percentage')
 
     logger.info('Calculated summaries of data.')
 

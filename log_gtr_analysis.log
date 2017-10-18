@@ -173,3 +173,23 @@
 2017-10-18 22:51:39,005 - __main__ - INFO - There are 27 years in the data
 2017-10-18 22:51:39,535 - __main__ - INFO - Calculated annual spend
 2017-10-18 22:51:49,927 - __main__ - INFO - Calculated summaries of data.
+2017-10-18 22:54:00,658 - __main__ - INFO - Imported df includes 42145 records
+2017-10-18 22:54:06,523 - __main__ - INFO - Converted dates into datetime format.
+2017-10-18 22:54:06,536 - __main__ - INFO - 123 records were dropped because the project started before the year 2000.
+2017-10-18 22:54:06,548 - __main__ - INFO - 445 records were dropped because the start date was recorded as later than the end date.
+2017-10-18 22:54:06,564 - __main__ - INFO - There are 27 years in the data
+2017-10-18 22:54:07,087 - __main__ - INFO - Calculated annual spend
+2017-10-18 22:54:44,588 - __main__ - INFO - Imported df includes 42145 records
+2017-10-18 22:54:49,957 - __main__ - INFO - Converted dates into datetime format.
+2017-10-18 22:54:49,967 - __main__ - INFO - 123 records were dropped because the project started before the year 2000.
+2017-10-18 22:54:49,977 - __main__ - INFO - 445 records were dropped because the start date was recorded as later than the end date.
+2017-10-18 22:54:49,991 - __main__ - INFO - There are 27 years in the data
+2017-10-18 22:54:50,509 - __main__ - INFO - Calculated annual spend
+2017-10-18 22:55:00,789 - __main__ - INFO - Calculated summaries of data.
+2017-10-18 22:59:09,249 - __main__ - INFO - Imported df includes 42145 records
+2017-10-18 22:59:14,945 - __main__ - INFO - Converted dates into datetime format.
+2017-10-18 22:59:14,956 - __main__ - INFO - 123 records were dropped because the project started before the year 2000.
+2017-10-18 22:59:14,967 - __main__ - INFO - 445 records were dropped because the start date was recorded as later than the end date.
+2017-10-18 22:59:14,981 - __main__ - INFO - There are 27 years in the data
+2017-10-18 22:59:15,596 - __main__ - INFO - Calculated annual spend
+2017-10-18 22:59:26,607 - __main__ - INFO - Calculated summaries of data.
