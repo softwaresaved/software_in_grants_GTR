@@ -15,3 +15,26 @@ In this study, I'll investigate the successful grant applications provided by [G
 * Combine summary data with titles and abstracts from XML data (```combine_gtr_data.py``` used for this purpose)
 * Analyse results in Python
 
+## How to reproduce the results of this analysis
+
+### Set up
+
+Get the files and data:
+
+1. [Clone the git repository](https://github.com/softwaresaved/software_in_grants_GTR)
+
+Prepare for running Python:
+
+1. If not already installed, [install virtualenv](http://docs.python-guide.org/en/latest/dev/virtualenvs/):
+   * ```pip install virtualenv```
+1. Create a project folder:
+   * ```virtualenv -p <location of Python3 install directory> <name of project>```
+1. Activate the virtual environment:
+   * ```source <name of project>/bin/activate ```
+1. Install libraries:
+   * ```pip install -r requirements.txt ```
+
+Combine summary and abstract data:
+
+1. Run the script:
+    * ```python 
