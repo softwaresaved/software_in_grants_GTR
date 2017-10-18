@@ -65,22 +65,17 @@ def convert_to_date(df):
 def clean_data(df):
 
     before = len(df)
-
     # Keep data modern by removing all project that started before 2000
-    df = df[(df['startdate'] < datetime.date(2000,1,1))]
-
-    print(df)
+    df = df[(df['startdate'].dt.year > 2000)]
     after1 = len(df)
 
     logger.info(str(before - after1) + ' records were dropped because the project started before the year 2000.')
 
+    # Remove records where the end date
     df = df[(df['enddate'] > df['startdate'])]
-
     after2 = len(df)
 
     logger.info(str(after1 - after2) + ' records were dropped because the start date was recorded as later than the end date.')
-
-#    print(type(df['enddate'].dt.year))
 
     return df
     
@@ -128,14 +123,15 @@ def get_years(df):
     
     return years_in_data
 
-def get_monthly_spend(df):
+
+def get_annual_spend(df):
 
     # Get the length of the project in months
-    df['duration in months'] = (df['enddate'] - df['startdate'])/ np.timedelta64(1, 'M')
-    
-    # Remove any records that have a start date occuring after the end date!
-    df = df[df['duration in months']>0]
+    df['duration in years'] = round((df['enddate'] - df['startdate'])/ np.timedelta64(1, 'Y'),0)
 
+    df['annnual spend'] = df['awardpounds']/df['duration in years']
+
+    print(df['duration in years'])
 
 
 #    months = [dt.strftime("%Y") for dt in rrule(MONTHLY, dtstart=startdate, until=enddate)]
@@ -196,7 +192,7 @@ def main():
 
     df = clean_data(df)
 
-    df = get_monthly_spend(df)
+    df = get_annual_spend(df)
 
     # Add new columns showing where each of the keywords was
     # found in the grant
