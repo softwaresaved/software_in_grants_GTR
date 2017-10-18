@@ -7,9 +7,6 @@ import numpy as np
 import csv
 import matplotlib.pyplot as plt
 import math
-from textwrap import wrap
-import urllib.request
-from xml.etree import cElementTree as et
 import string
 import time
 import datetime
