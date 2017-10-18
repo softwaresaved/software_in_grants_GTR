@@ -1,3 +1,4 @@
+data/gtr_data_titles_and_abs.csv
 venv/*
 .DS_Store
 __pycache__
