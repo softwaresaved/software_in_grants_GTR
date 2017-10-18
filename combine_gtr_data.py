@@ -8,9 +8,24 @@ import csv
 import math
 import urllib.request
 from xml.etree import cElementTree as et
+import time
+import logging
+
+DATASTORE = './data/'
+DATAFILENAME = 'gtrdata-clean.csv'
+LOGGERLOCATION = "./log_combine_gtr_data.log"
 
 
-DATAFILENAME = "./data/gtrdata-clean.csv"
+# Set up logging
+logging.basicConfig(level=logging.DEBUG)
+logger = logging.getLogger(__name__)
+handler = logging.FileHandler(LOGGERLOCATION)
+handler.setLevel(logging.INFO)
+# create a logging format
+formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+handler.setFormatter(formatter)
+# add the handlers to the logger
+logger.addHandler(handler)
 
 
 def import_csv_to_df(filename):
@@ -19,7 +34,7 @@ def import_csv_to_df(filename):
     :params: an xls file and a sheetname from that file
     :return: a df
     """
-    
+
     return pd.read_csv(filename)
    
 
@@ -33,13 +48,28 @@ def export_to_csv(df, location, filename):
     return df.to_csv(location + filename + '.csv')
 
 
+def prepare_df(df):
+    
+    # Use the project ID as the index
+    df.set_index('ProjectId', inplace=True)
+
+    # Make column headers lowercase
+    df.columns = [x.lower() for x in df.columns]
+
+    return df
+
+
 def drop_non_grants(df):
 
     """ Only want 'Research Grant' categories in the data, so this drops everything but
         them from the dataframe
     """
 
-    df = df[df['ProjectCategory'] == 'Research Grant']
+    logger.info('Imported df includes ' + str(len(df)) + ' records')
+
+    df = df[df['projectcategory'] == 'Research Grant']
+
+    logger.info('After restricting df to Research Grants only, the df has ' + str(len(df)) + ' records')
 
     return df
 
@@ -83,8 +113,8 @@ def populate_dataframe(df):
 
 
     # Go through each project, get the corresponding XML file and
-    # add the relevant title and abstract from the XML to the dataframe
-    for curr_project in df['ProjectId'].astype(str):
+    # add the relevant abstract from the XML to the dataframe
+    for curr_project in df.index.astype(str):
         # It takes some time, so it's useful to have this outputted
         # just to see that the program is still working
         print(curr_project)
@@ -92,23 +122,45 @@ def populate_dataframe(df):
         xml_root = retrieve_xml_from_url(xml_doc)
         # The .text is needed to extract the text from the XML element rather than just getting some
         # nonsense summary data
-        df['title'] = xml_root.find('./gtr:projectComposition/gtr:project/gtr:title', {'gtr': XML_NAMESPACE}).text
-        df['abstract'] = xml_root.find('./gtr:projectComposition/gtr:project/gtr:abstractText', {'gtr': XML_NAMESPACE}).text
+        df.loc[curr_project,'abstract'] = xml_root.find('./gtr:projectComposition/gtr:project/gtr:abstractText', {'gtr': XML_NAMESPACE}).text
 
     return df
 
 
+def kill_the_spare(df):
+
+    # Remove any grants that do not have a title or abstract to search
+    # These are the ones with "N/A" in the appropriate field
+
+    df = df[df['abstract']!='N/A']
+    df = df[df['abstract']!='NA']
+
+    logger.info('After removing blank titles or abstracts, the df has ' + str(len(df)) + ' records')
+
+    return(df)
+
 def main():
-    
+
+    start_time = time.time()
+
     # Get GTR summary data
-    df = import_csv_to_df(DATAFILENAME)
+    logger.info('Importing data...')
+    df = import_csv_to_df(DATASTORE + DATAFILENAME)
+
+    df = prepare_df(df)
 
     # Remove anything that isn't a grant
     df = drop_non_grants(df)
 
     df = populate_dataframe(df)
 
-    export_to_csv(df, DATAFILENAME, 'gtr_data_titles_and_abs')
+    df = kill_the_spare(df)
+
+    export_to_csv(df, DATASTORE, 'gtr_data_titles_and_abs')
+
+    execution_time = (time.time() - start_time)/60
+    
+    logger.info('The program took ' + str(execution_time) + ' minutes to complete')
 
 
 if __name__ == '__main__':

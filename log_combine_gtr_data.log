@@ -1,0 +1,5 @@
+2017-10-18 11:07:15,356 - __main__ - INFO - Importing data...
+2017-10-18 11:07:15,712 - __main__ - INFO - Imported df includes 42156 records
+2017-10-18 11:07:15,724 - __main__ - INFO - After restricting df to Research Grants only, the df has 42156 records
+2017-10-18 11:09:48,520 - __main__ - INFO - After removing blank titles or abstracts, the df has 42145 records
+2017-10-18 11:09:51,071 - __main__ - INFO - The program took 2.5952532331148785 minutes to complete
