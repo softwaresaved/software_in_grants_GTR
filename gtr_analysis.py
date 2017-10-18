@@ -54,6 +54,10 @@ def export_to_csv(df, location, filename):
 
 def convert_to_date(df):
         
+    """
+    The two date columns need to be viewed as dates by Pandas
+    """
+    
     df['startdate'] = pd.to_datetime(df['startdate'])
     df['enddate'] = pd.to_datetime(df['enddate'])
 
@@ -64,9 +68,15 @@ def convert_to_date(df):
     
 def clean_data(df):
 
+    """
+    Couple of things we can do to make things cleaner. Drop all pre-2000 data (which 
+    is of dubious quality) and remove records where the end date is earlier than the
+    start date. If they can't get the date right... what else is wrong with the data?
+    """
+
     before = len(df)
     # Keep data modern by removing all project that started before 2000
-    df = df[(df['startdate'].dt.year > 2000)]
+    df = df[(df['startdate'].dt.year >= 2000)]
     after1 = len(df)
 
     logger.info(str(before - after1) + ' records were dropped because the project started before the year 2000.')
@@ -92,7 +102,7 @@ def find_keywords(df, keyword_list, search_col):
 
     for current_keyword in keyword_list:
         # This looks for a keyword in a string and, if it is found, adds that keyword to an appropriate col to show
-        # that is was found
+        # that it was found
         df.loc[df[search_col].str.lower()                       # Get the string and lower case it
         .str.translate(translator)                              # Remove all punctuation from the string
         .str.contains(current_keyword),                         # Search for the keyword in the string
@@ -124,22 +134,29 @@ def get_years(df):
     return years_in_data
 
 
-def get_annual_spend(df):
+def get_annual_spend(df, years_in_data):
 
-    # Get the length of the project in months
-    df['duration in years'] = round((df['enddate'] - df['startdate'])/ np.timedelta64(1, 'Y'),0)
+    """
+    Need to work out how many years the grant spans and the amount of funding that is made each year
 
-    df['annnual spend'] = df['awardpounds']/df['duration in years']
+    NOTE: this assumes that the spend happens uniformly over the years, e.g. a project running from
+          December 2015 to February 2017 spans three years (2015, 2016 & 2017) so the program will assume
+          that 33 percent of the total award will be spent in each of those years. This assumption really
+          simplifies the code without losing too much detail.
+    """
+    # The number of years in the grant is the end year minus the start year + 1
+    df['no. years in grant'] = (df['enddate'].dt.year - df['startdate'].dt.year) + 1
+    # Divide the total award over the years in the grant to get the annual spend
+    df['spend per year'] = df['awardpounds']/df['no. years in grant']
 
-    print(df['duration in years'])
-
-
-#    months = [dt.strftime("%Y") for dt in rrule(MONTHLY, dtstart=startdate, until=enddate)]
-#    print(months)
-    logger.info('Calculated durations.')
+    # Go through each year in the data and add it's annual spend to an appropriately named col
+    for curr_year in years_in_data['all_years']:
+        # Basically, if the curr_year is between the start and end date, then add the annual spend to the appropriate col
+        df.loc[(df['startdate'].dt.year <= curr_year) & (df['enddate'].dt.year >= curr_year), 'spend in ' + str(curr_year)] = df['spend per year']
+    
+    logger.info('Calculated annual spend')
 
     return df
-
 
 
 def get_summary_data(df, where_to_search, keyword_list, years_in_data):
@@ -149,27 +166,40 @@ def get_summary_data(df, where_to_search, keyword_list, years_in_data):
     are found in each part of the research grant
     """
 
-    total_records = len(df)
-    searched_columns = []
+    # Initialiase
     df_summary = pd.DataFrame(index=keyword_list)
     df_summary_percent = pd.DataFrame(index=keyword_list)
-    
-    start_years = years_in_data['start_years']
 
-    for curr_year in start_years:
+    # Get the number of records in the cleaned dataframe
+    total_records = len(df)
+
+    # Go through each of the start years in the data
+    for curr_year in years_in_data['start_years']:
+        # Create temp df containing only the current year's data
         df_temp = df[df['startdate'].dt.year == curr_year]
-    
+        # Go through each search col...
         for search_col in where_to_search:
-            appended_keyword_list = [search_col + '_' + s for s in keyword_list]
-            df_counts = df_temp[appended_keyword_list].apply(pd.Series.value_counts)
+            # ...create list of cols to search...
+            cols_to_search = [search_col + '_' + s for s in keyword_list]
+            # ...create df to hold counts of each unique value found
+            df_counts = df_temp[cols_to_search].apply(pd.Series.value_counts)
+            # ...store the name of the cols (i.e. where keywords were found)...
             orig_column_list = df_counts.columns
-            searched_columns.append('keywords in ' + search_col) 
+            # ...count the number of rows with keywords in, which is the same as the number of
+            # grants that contained the keyword
             df_summary[str(curr_year) + '_' + search_col + '_count'] = df_counts[orig_column_list].sum(axis=1)
+            # ...use that count to generate a percentage relative to all
+            # the records in the dataframe
             df_summary_percent[str(curr_year) + '_' + search_col + '_%'] = round((df_counts[orig_column_list].sum(axis=1)/total_records)*100,2)
-#            export_to_csv(df_counts, STOREFILENAME + 'found_keywords/', str(curr_year) + '_found_keywords')
+
+            print(df_summary_percent)
+
+
+#    export_to_csv(df_counts, STOREFILENAME + 'found_keywords/', str(curr_year) + '_found_keywords')
+
     logger.info('Calculated summaries of data.')
 
-    return df
+    return
 
 
 def main():
@@ -192,18 +222,18 @@ def main():
 
     df = clean_data(df)
 
-    df = get_annual_spend(df)
+    # Get a dict of lists in which the years represented in the data are stored
+    years_in_data = get_years(df)
+
+    df = get_annual_spend(df, years_in_data)
 
     # Add new columns showing where each of the keywords was
     # found in the grant
     for search_col in where_to_search:
         find_keywords(df, keyword_list, search_col) 
 
-    # Get a dict of lists in which the years represented in the data are stored
-    years_in_data = get_years(df)
-
     # Produce summaries of what was found, where and when
-    df = get_summary_data(df, where_to_search, keyword_list, years_in_data)
+    get_summary_data(df, where_to_search, keyword_list, years_in_data)
 
 
 if __name__ == '__main__':

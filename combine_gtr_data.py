@@ -81,7 +81,7 @@ def populate_dataframe(df):
     """
 
     # Define where XML data is stored and the namespace it uses
-    FILE_PATH = 'file:///Users/user/Desktop/Git/software_in_grants_GTR/data/xml_data/'
+    FILE_PATH = 'file:///Users/user/Git/software_in_grants_GTR/data/xml_data/'
     XML_NAMESPACE = 'http://gtr.rcuk.ac.uk/api'
 
 
