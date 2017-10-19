@@ -94,14 +94,11 @@ def find_keywords(df, keyword_list, search_col):
     :refturn: a dataframe containing only the rows in which the term was found
     """
 
-    # Set up a translator for removing punctuation
-    translator = str.maketrans(' ', ' ', string.punctuation)
-
     for current_keyword in keyword_list:
         # This looks for a keyword in a string and, if it is found, adds that keyword to an appropriate col to show
         # that it was found
         df.loc[df[search_col].str.lower()                       # Get the string and lower case it
-        .str.translate(translator)                              # Remove all punctuation from the string
+        .str.replace('[^\w\s]',' ')                             # Remove all punctuation from the string (i.e. remove anything that's not alphanumeric or whitespace)
         .str.contains(current_keyword),                         # Search for the keyword in the string
         search_col + '_' + current_keyword] = current_keyword   # If found, show this fact by adding the keyword to the appropriate col 
     
