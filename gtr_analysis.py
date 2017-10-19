@@ -95,7 +95,7 @@ def find_keywords(df, keyword_list, search_col):
     """
 
     # Set up a translator for removing punctuation
-    translator = str.maketrans('', '', string.punctuation)
+    translator = str.maketrans(' ', ' ', string.punctuation)
 
     for current_keyword in keyword_list:
         # This looks for a keyword in a string and, if it is found, adds that keyword to an appropriate col to show
