@@ -2,18 +2,17 @@
 # encoding: utf-8
 
 import pandas as pd
-from pandas import ExcelWriter
 import numpy as np
 import csv
 import matplotlib.pyplot as plt
 import math
 import string
 import time
-import datetime
+#import datetime
 from dateutil.rrule import rrule, MONTHLY
 import logging
 
-DATAFILENAME = "./data/gtr_data_titles_and_abs.csv"
+DATAFILENAME = "./data/gtr_data_titles_and_abs_testdata.csv"
 STOREFILENAME = "./output/"
 LOGGERLOCATION = "./log_gtr_analysis.log"
 
@@ -39,14 +38,7 @@ def import_csv_to_df(filename):
     return pd.read_csv(filename)
 
 
-def export_to_csv(df, location, filename):
-    """
-    Exports a df to a csv file
-    :params: a df and a location in which to save it
-    :return: nothing, saves a csv
-    """
 
-    return df.to_csv(location + filename + '.csv')
 
 
 def convert_to_date(df):
@@ -85,24 +77,6 @@ def clean_data(df):
     logger.info(str(after1 - after2) + ' records were dropped because the start date was recorded as later than the end date.')
 
     return df
-    
-
-def find_keywords(df, keyword_list, search_col):
-    """
-    Finds a keyword in a dataframe
-    :params: a dataframe and a column in which to search
-    :refturn: a dataframe containing only the rows in which the term was found
-    """
-
-    for current_keyword in keyword_list:
-        # This looks for a keyword in a string and, if it is found, adds that keyword to an appropriate col to show
-        # that it was found
-        df.loc[df[search_col].str.lower()                       # Get the string and lower case it
-        .str.replace('[^\w\s]',' ')                             # Remove all punctuation from the string (i.e. remove anything that's not alphanumeric or whitespace)
-        .str.contains(current_keyword),                         # Search for the keyword in the string
-        search_col + '_' + current_keyword] = current_keyword   # If found, show this fact by adding the keyword to the appropriate col 
-    
-    return df
 
 
 def get_years(df):
@@ -126,6 +100,36 @@ def get_years(df):
     logger.info('There are ' + str(len(years_in_data['all_years'])) + ' years in the data')
     
     return years_in_data
+
+
+def get_total_grants(df, years_in_data):
+
+    total_records = len(df)
+    num_of_grants_started = {'all years': total_records}
+    
+    for current_year in years_in_data['start_years']:
+        df_temp = df[df['startdate'].dt.year==current_year]
+        num_of_grants_started[current_year] = len(df_temp)
+
+    return num_of_grants_started
+
+
+def find_keywords(df, keyword_list, search_col):
+    """
+    Finds a keyword in a dataframe
+    :params: a dataframe and a column in which to search
+    :refturn: a dataframe containing only the rows in which the term was found
+    """
+
+    for current_keyword in keyword_list:
+        # This looks for a keyword in a string and, if it is found, adds that keyword to an appropriate col to show
+        # that it was found
+        df.loc[df[search_col].str.lower()                       # Get the string and lower case it
+        .str.replace('[^\w\s]',' ')                             # Remove all punctuation from the string (i.e. remove anything that's not alphanumeric or whitespace)
+        .str.contains(current_keyword),                         # Search for the keyword in the string
+        search_col + '_' + current_keyword] = current_keyword   # If found, show this fact by adding the keyword to the appropriate col 
+    
+    return df
 
 
 def get_annual_spend(df, years_in_data):
@@ -153,7 +157,7 @@ def get_annual_spend(df, years_in_data):
     return df
 
 
-def get_summary_data(df, where_to_search, keyword_list, years_in_data):
+def get_summary_data(df, where_to_search, keyword_list, years_in_data, num_of_grants_started):
 
     """
     Separate the df into years, and then count how many times each of the words
@@ -166,9 +170,13 @@ def get_summary_data(df, where_to_search, keyword_list, years_in_data):
 
     # Get the number of records in the cleaned dataframe
     total_records = len(df)
+    
+    sorted_years = years_in_data['start_years'].tolist().sort()
+    print(sorted_years)
 
     # Go through each of the start years in the data
-    for curr_year in years_in_data['start_years']:
+    for curr_year in sorted_years:
+        print(curr_year)
         # Create temp df containing only the current year's data
         df_temp = df[df['startdate'].dt.year == curr_year]
         # Go through each search col...
@@ -184,9 +192,8 @@ def get_summary_data(df, where_to_search, keyword_list, years_in_data):
             df_summary[str(curr_year) + '_' + search_col + '_count'] = df_counts[orig_column_list].sum(axis=1)
             # ...use that count to generate a percentage relative to all
             # the records in the dataframe
-            df_summary_percent[str(curr_year) + '_' + search_col + '_%'] = round((df_counts[orig_column_list].sum(axis=1)/total_records)*100,2)
-
-            print(df_summary_percent)
+            df_summary_percent[str(curr_year) + '_' + search_col + '_%'] = round((df_counts[orig_column_list].sum(axis=1)/num_of_grants_started[curr_year])*100,2)
+#            print(df_summary_percent)
 
     export_to_csv(df_summary, STOREFILENAME, 'summary_found_keywords_count')
     export_to_csv(df_summary_percent, STOREFILENAME, 'summary_found_keywords_percentage')
@@ -218,6 +225,8 @@ def main():
 
     # Get a dict of lists in which the years represented in the data are stored
     years_in_data = get_years(df)
+    
+    num_of_grants_started = get_total_grants(df, years_in_data)
 
     df = get_annual_spend(df, years_in_data)
 
@@ -227,7 +236,9 @@ def main():
         find_keywords(df, keyword_list, search_col) 
 
     # Produce summaries of what was found, where and when
-    get_summary_data(df, where_to_search, keyword_list, years_in_data)
+    get_summary_data(df, where_to_search, keyword_list, years_in_data, num_of_grants_started)
+
+    export_to_csv(df, STOREFILENAME, 'final_df')
 
 
 if __name__ == '__main__':
