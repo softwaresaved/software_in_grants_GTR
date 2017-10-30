@@ -837,3 +837,70 @@
 2017-10-27 17:31:09,373 - __main__ - INFO - There are 24 years in the data
 2017-10-27 17:31:09,554 - __main__ - INFO - Calculated annual spend
 2017-10-27 17:31:13,454 - __main__ - INFO - Calculated summaries of data.
+2017-10-30 11:52:47,223 - __main__ - INFO - Imported df includes 4239 records
+2017-10-30 11:52:47,797 - __main__ - INFO - Converted dates into datetime format.
+2017-10-30 11:52:47,802 - __main__ - INFO - 14 records were dropped because the project started before the year 2000.
+2017-10-30 11:52:47,804 - __main__ - INFO - 38 records were dropped because the start date was recorded as later than the end date.
+2017-10-30 11:52:47,806 - __main__ - INFO - There are 24 years in the data
+2017-10-30 11:52:47,984 - __main__ - INFO - Calculated annual spend
+2017-10-30 11:52:51,833 - __main__ - INFO - Calculated summaries of data.
+2017-10-30 12:57:25,434 - __main__ - INFO - Imported df includes 4239 records
+2017-10-30 12:57:26,021 - __main__ - INFO - Converted dates into datetime format.
+2017-10-30 12:57:26,026 - __main__ - INFO - 14 records were dropped because the project started before the year 2000.
+2017-10-30 12:57:26,028 - __main__ - INFO - 38 records were dropped because the start date was recorded as later than the end date.
+2017-10-30 12:57:26,030 - __main__ - INFO - There are 24 years in the data
+2017-10-30 12:57:26,212 - __main__ - INFO - Calculated annual spend
+2017-10-30 12:57:30,119 - __main__ - INFO - Calculated summaries of data.
+2017-10-30 12:58:13,080 - __main__ - INFO - Imported df includes 4239 records
+2017-10-30 12:58:13,662 - __main__ - INFO - Converted dates into datetime format.
+2017-10-30 12:58:13,664 - __main__ - INFO - 14 records were dropped because the project started before the year 2000.
+2017-10-30 12:58:13,665 - __main__ - INFO - 38 records were dropped because the start date was recorded as later than the end date.
+2017-10-30 12:58:13,668 - __main__ - INFO - There are 24 years in the data
+2017-10-30 12:58:13,842 - __main__ - INFO - Calculated annual spend
+2017-10-30 12:58:17,710 - __main__ - INFO - Calculated summaries of data.
+2017-10-30 12:58:53,781 - __main__ - INFO - Imported df includes 4239 records
+2017-10-30 12:58:54,369 - __main__ - INFO - Converted dates into datetime format.
+2017-10-30 12:58:54,372 - __main__ - INFO - 14 records were dropped because the project started before the year 2000.
+2017-10-30 12:58:54,374 - __main__ - INFO - 38 records were dropped because the start date was recorded as later than the end date.
+2017-10-30 12:58:54,376 - __main__ - INFO - There are 24 years in the data
+2017-10-30 12:58:54,554 - __main__ - INFO - Calculated annual spend
+2017-10-30 12:58:58,771 - __main__ - INFO - Calculated summaries of data.
+2017-10-30 13:00:13,994 - __main__ - INFO - Imported df includes 4239 records
+2017-10-30 13:00:14,545 - __main__ - INFO - Converted dates into datetime format.
+2017-10-30 13:00:14,547 - __main__ - INFO - 14 records were dropped because the project started before the year 2000.
+2017-10-30 13:00:14,549 - __main__ - INFO - 38 records were dropped because the start date was recorded as later than the end date.
+2017-10-30 13:00:14,551 - __main__ - INFO - There are 24 years in the data
+2017-10-30 13:00:14,726 - __main__ - INFO - Calculated annual spend
+2017-10-30 13:00:42,208 - __main__ - INFO - Imported df includes 4239 records
+2017-10-30 13:00:42,785 - __main__ - INFO - Converted dates into datetime format.
+2017-10-30 13:00:42,788 - __main__ - INFO - 14 records were dropped because the project started before the year 2000.
+2017-10-30 13:00:42,790 - __main__ - INFO - 38 records were dropped because the start date was recorded as later than the end date.
+2017-10-30 13:00:42,792 - __main__ - INFO - There are 24 years in the data
+2017-10-30 13:00:42,982 - __main__ - INFO - Calculated annual spend
+2017-10-30 13:00:47,582 - __main__ - INFO - Calculated summaries of data.
+2017-10-30 13:01:02,499 - __main__ - INFO - Imported df includes 4239 records
+2017-10-30 13:01:03,080 - __main__ - INFO - Converted dates into datetime format.
+2017-10-30 13:01:03,082 - __main__ - INFO - 14 records were dropped because the project started before the year 2000.
+2017-10-30 13:01:03,084 - __main__ - INFO - 38 records were dropped because the start date was recorded as later than the end date.
+2017-10-30 13:01:03,086 - __main__ - INFO - There are 24 years in the data
+2017-10-30 13:01:03,262 - __main__ - INFO - Calculated annual spend
+2017-10-30 13:02:37,301 - __main__ - INFO - Imported df includes 4239 records
+2017-10-30 13:02:37,888 - __main__ - INFO - Converted dates into datetime format.
+2017-10-30 13:02:37,890 - __main__ - INFO - 14 records were dropped because the project started before the year 2000.
+2017-10-30 13:02:37,893 - __main__ - INFO - 38 records were dropped because the start date was recorded as later than the end date.
+2017-10-30 13:02:37,895 - __main__ - INFO - There are 24 years in the data
+2017-10-30 13:02:38,078 - __main__ - INFO - Calculated annual spend
+2017-10-30 13:03:04,059 - __main__ - INFO - Imported df includes 4239 records
+2017-10-30 13:03:04,629 - __main__ - INFO - Converted dates into datetime format.
+2017-10-30 13:03:04,632 - __main__ - INFO - 14 records were dropped because the project started before the year 2000.
+2017-10-30 13:03:04,635 - __main__ - INFO - 38 records were dropped because the start date was recorded as later than the end date.
+2017-10-30 13:03:04,637 - __main__ - INFO - There are 24 years in the data
+2017-10-30 13:03:04,813 - __main__ - INFO - Calculated annual spend
+2017-10-30 13:03:09,035 - __main__ - INFO - Calculated summaries of data.
+2017-10-30 13:18:50,712 - __main__ - INFO - Imported df includes 42145 records
+2017-10-30 13:18:56,726 - __main__ - INFO - Converted dates into datetime format.
+2017-10-30 13:18:56,739 - __main__ - INFO - 123 records were dropped because the project started before the year 2000.
+2017-10-30 13:18:56,751 - __main__ - INFO - 445 records were dropped because the start date was recorded as later than the end date.
+2017-10-30 13:18:56,766 - __main__ - INFO - There are 27 years in the data
+2017-10-30 13:18:57,493 - __main__ - INFO - Calculated annual spend
+2017-10-30 13:19:33,955 - __main__ - INFO - Calculated summaries of data.

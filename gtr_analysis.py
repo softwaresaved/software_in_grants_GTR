@@ -10,7 +10,7 @@ import string
 import time
 import logging
 
-DATAFILENAME = "./data/gtr_data_titles_and_abs_testdata.csv"
+DATAFILENAME = "./data/gtr_data_titles_and_abs.csv"
 STOREFILENAME = "./output/"
 LOGGERLOCATION = "./log_gtr_analysis.log"
 
@@ -201,8 +201,7 @@ def get_summary_data(df, where_to_search, keyword_list, years_in_data, num_of_gr
     # Initialiase
     df_where_found = pd.DataFrame(index=keyword_list)
     df_where_found_percent = pd.DataFrame(index=keyword_list)
-    df_summary = pd.DataFrame(index=sorted_years)
-
+    df_summary = pd.DataFrame()
 
     # Go through each of the start years in the data
     for curr_year in sorted_years:
@@ -234,14 +233,12 @@ def get_summary_data(df, where_to_search, keyword_list, years_in_data, num_of_gr
     df_only_found = df.loc[(df[summary_cols]!=0).any(axis=1)]
     export_to_csv(df_only_found, STOREFILENAME, 'temp')
 
-    for curr_year in sorted_years:
-        df_temp = df_only_found[df_only_found['startdate'].dt.year == curr_year]
-        df_summary.loc['grants':curr_year] = len(df_temp)
+#    for curr_year in sorted_years:
+#        df_temp = df_only_found[df_only_found['startdate'].dt.year == curr_year]
+#        print(df_temp)Got 
 
-    print(df_summary)
+#    print(df_summary)
 
-
-        
     export_to_csv(df_where_found, STOREFILENAME, 'keywords_found_count')
     export_to_csv(df_where_found_percent, STOREFILENAME, 'keywords_found_count_percentage')
 
