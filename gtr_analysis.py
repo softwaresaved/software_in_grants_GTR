@@ -10,7 +10,7 @@ import string
 import time
 import logging
 
-DATAFILENAME = "./data/gtr_data_titles_and_abs.csv"
+DATAFILENAME = "./data/gtr_data_titles_and_abs_testdata.csv"
 STOREFILENAME = "./output/"
 LOGGERLOCATION = "./log_gtr_analysis.log"
 
@@ -107,6 +107,18 @@ def get_years(df):
     return years_in_data
 
 
+def get_funders(df):
+
+    """
+    Return a list of the unique funders found in the data
+    """
+    
+    funders_in_data = df['fundingorgname'].unique()
+    funders_in_data.sort()
+    print(funders_in_data)
+
+    return funders_in_data
+
 def get_total_grants(df, years_in_data):
 
     """
@@ -185,7 +197,7 @@ def get_annual_spend(df, years_in_data):
     return df
 
 
-def get_summary_data(df, where_to_search, keyword_list, years_in_data, num_of_grants_started):
+def get_summary_data(df, where_to_search, keyword_list, years_in_data, num_of_grants_started, funders_in_data):
 
     """
     Separate the df into years, and then count how many times each of the words
@@ -201,7 +213,7 @@ def get_summary_data(df, where_to_search, keyword_list, years_in_data, num_of_gr
     # Initialiase
     df_where_found = pd.DataFrame(index=keyword_list)
     df_where_found_percent = pd.DataFrame(index=keyword_list)
-    df_summary = pd.DataFrame()
+    df_summary = pd.DataFrame(index=sorted_years)
 
     # Go through each of the start years in the data
     for curr_year in sorted_years:
@@ -233,14 +245,17 @@ def get_summary_data(df, where_to_search, keyword_list, years_in_data, num_of_gr
     df_only_found = df.loc[(df[summary_cols]!=0).any(axis=1)]
     export_to_csv(df_only_found, STOREFILENAME, 'temp')
 
-#    for curr_year in sorted_years:
-#        df_temp = df_only_found[df_only_found['startdate'].dt.year == curr_year]
-#        print(df_temp)Got 
+    # Get a summary of how many software related grants were found each year
+    for curr_year in sorted_years:
+        df_temp = df_only_found[df_only_found['startdate'].dt.year == curr_year]
+        df_summary.at[curr_year, 'software-related grants count'] = len(df_temp)
+        df_summary.at[curr_year, 'software-related grants %'] = round((len(df_temp)/num_of_grants_started[curr_year])*100,2)
 
-#    print(df_summary)
+    print(df_summary)
 
     export_to_csv(df_where_found, STOREFILENAME, 'keywords_found_count')
     export_to_csv(df_where_found_percent, STOREFILENAME, 'keywords_found_count_percentage')
+    export_to_csv(df_summary, STOREFILENAME, 'software_related_grants_found')
 
     logger.info('Calculated summaries of data.')
 
@@ -269,6 +284,8 @@ def main():
 
     # Get a dict of lists in which the years represented in the data are stored
     years_in_data = get_years(df)
+
+    funders_in_data = get_funders(df)
     
     num_of_grants_started = get_total_grants(df, years_in_data)
 
@@ -280,7 +297,7 @@ def main():
     find_keywords(df, keyword_list, where_to_search) 
 
     # Produce summaries of what was found, where and when
-    get_summary_data(df, where_to_search, keyword_list, years_in_data, num_of_grants_started)
+    get_summary_data(df, where_to_search, keyword_list, years_in_data, num_of_grants_started, funders_in_data)
 
     export_to_csv(df, STOREFILENAME, 'final_df')
 
