@@ -10,7 +10,7 @@ import string
 import time
 import logging
 
-DATAFILENAME = "./data/gtr_data_titles_and_abs_testdata.csv"
+DATAFILENAME = "./data/gtr_data_titles_and_abs.csv"
 STOREFILENAME = "./output/"
 LOGGERLOCATION = "./log_gtr_analysis.log"
 
@@ -115,7 +115,6 @@ def get_funders(df):
     
     funders_in_data = df['fundingorgname'].unique()
     funders_in_data.sort()
-    print(funders_in_data)
 
     return funders_in_data
 
@@ -246,10 +245,22 @@ def get_summary_data(df, where_to_search, keyword_list, years_in_data, num_of_gr
     export_to_csv(df_only_found, STOREFILENAME, 'temp')
 
     # Get a summary of how many software related grants were found each year
+    # and for each funder and in each year. Doing this in two loops, because it
+    # makes the process a lot clearer.
     for curr_year in sorted_years:
         df_temp = df_only_found[df_only_found['startdate'].dt.year == curr_year]
-        df_summary.at[curr_year, 'software-related grants count'] = len(df_temp)
-        df_summary.at[curr_year, 'software-related grants %'] = round((len(df_temp)/num_of_grants_started[curr_year])*100,2)
+        df_summary.at[curr_year, 'all funders grants count'] = len(df_temp)
+        df_summary.at[curr_year, 'all funders grants %'] = round((len(df_temp)/num_of_grants_started[curr_year])*100,2)
+
+    for funder in funders_in_data:
+        df_temp = df_only_found[df_only_found['fundingorgname'] == funder]
+        for curr_year in sorted_years:
+            df_funder_year = df_temp[df_only_found['startdate'].dt.year == curr_year]
+            df_summary.at[curr_year, str(funder) + ' grants count'] = len(df_funder_year)
+            df_summary.at[curr_year, str(funder) +  ' grants %'] = round((len(df_funder_year)/num_of_grants_started[curr_year])*100,2)
+            
+
+
 
     print(df_summary)
 
