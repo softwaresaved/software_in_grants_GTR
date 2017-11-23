@@ -94,11 +94,15 @@ def get_years(df):
 
     # Get lists of the years in the data
     # The 'set' gets the unique values, and this is then converted back to a list
+    # Each of these is sorted so that they years run in order
     
     start_years = list(set(df['startdate'].dt.year.tolist()))
+    start_years.sort()
     end_years = list(set(df['enddate'].dt.year.tolist()))
+    end_years.sort()
     all_years = list(set(start_years + end_years))
-
+    all_years.sort()
+    
     # Combine the lists into a dict
     years_in_data = {'start_years':start_years, 'end_years':end_years, 'all_years':all_years}
 
@@ -174,7 +178,7 @@ def find_keywords(df, keyword_list, where_to_search):
 def get_annual_spend(df, years_in_data):
 
     """
-    Need to work out how many years the grant spans and the amount of funding that is made each year
+    Calculates how many years the grant spans and the amount of funding that is made each year
 
     NOTE: this assumes that the spend happens uniformly over the years, e.g. a project running from
           December 2015 to February 2017 spans three years (2015, 2016 & 2017) so the program will assume
@@ -203,19 +207,16 @@ def get_summary_data(df, where_to_search, keyword_list, years_in_data, num_of_gr
     are found in each part of the research grant
     """
 
-    # For once, we actually care whether the dict is in order, because this
-    # will lead to a summary sheet which will be saved as a csv. Hence, sorting
-    sorted_years = years_in_data['start_years']
-    sorted_years.sort()
-
+    # Get the start years from the dict of lists
+    start_years = years_in_data['start_years']
     
     # Initialiase
     df_where_found = pd.DataFrame(index=keyword_list)
     df_where_found_percent = pd.DataFrame(index=keyword_list)
-    df_summary = pd.DataFrame(index=sorted_years)
+    df_summary = pd.DataFrame(index=start_years)
 
     # Go through each of the start years in the data
-    for curr_year in sorted_years:
+    for curr_year in start_years:
         # Create temp df containing only the current year's data
         df_temp = df[df['startdate'].dt.year == curr_year]
         # Go through each search col...
@@ -230,8 +231,22 @@ def get_summary_data(df, where_to_search, keyword_list, years_in_data, num_of_gr
             # grants that contained the keyword
             df_where_found[str(curr_year) + '_' + search_col + '_count'] = df_counts[orig_column_list].sum(axis=1)
             # ...use that count to generate a percentage relative to all
-            # the records in the dataframe
+            # the records in the dataframe from the year in question
             df_where_found_percent[str(curr_year) + '_' + search_col + '_%'] = round((df_counts[orig_column_list].sum(axis=1)/num_of_grants_started[curr_year])*100,2)
+
+    export_to_csv(df_where_found, STOREFILENAME, 'keywords_found_count')
+    export_to_csv(df_where_found_percent, STOREFILENAME, 'keywords_found_count_percentage')
+
+    return
+
+
+def save_only_software_grants(df, where_to_search):
+
+    '''
+    Want a df that contains only grants that are related to software, i.e. that
+    have a keyword found in the title of abstract.
+    '''
+
 
     # Create a list that contains the names of the summary cols
     # typically "Abstract_all_terms" and "title_all_terms"
@@ -242,35 +257,59 @@ def get_summary_data(df, where_to_search, keyword_list, years_in_data, num_of_gr
     # or the abstract. In other words, it leaves us with a df that contains
     # only records where a keyword was found.
     df_only_found = df.loc[(df[summary_cols]!=0).any(axis=1)]
-    export_to_csv(df_only_found, STOREFILENAME, 'temp')
+    export_to_csv(df_only_found, STOREFILENAME, 'only_grants_related_to_software')
+    
+    logger.info('Saved data on all grants related to software')
+
+    return df_only_found
+
+
+def software_grants_by_funder(df_only_found, years_in_data, num_of_grants_started, funders_in_data):
+
+    start_years = years_in_data['start_years']
+
+    # Initialise
+    df_summary = pd.DataFrame(index=start_years)
 
     # Get a summary of how many software related grants were found each year
     # and for each funder and in each year. Doing this in two loops, because it
     # makes the process a lot clearer.
-    for curr_year in sorted_years:
+    for curr_year in start_years:
         df_temp = df_only_found[df_only_found['startdate'].dt.year == curr_year]
         df_summary.at[curr_year, 'all funders grants count'] = len(df_temp)
         df_summary.at[curr_year, 'all funders grants %'] = round((len(df_temp)/num_of_grants_started[curr_year])*100,2)
 
     for funder in funders_in_data:
         df_temp = df_only_found[df_only_found['fundingorgname'] == funder]
-        for curr_year in sorted_years:
-            df_funder_year = df_temp[df_only_found['startdate'].dt.year == curr_year]
+        for curr_year in start_years:
+            df_funder_year = df_temp[df_temp['startdate'].dt.year == curr_year]
             df_summary.at[curr_year, str(funder) + ' grants count'] = len(df_funder_year)
             df_summary.at[curr_year, str(funder) +  ' grants %'] = round((len(df_funder_year)/num_of_grants_started[curr_year])*100,2)
-            
 
-
-
-    print(df_summary)
-
-    export_to_csv(df_where_found, STOREFILENAME, 'keywords_found_count')
-    export_to_csv(df_where_found_percent, STOREFILENAME, 'keywords_found_count_percentage')
     export_to_csv(df_summary, STOREFILENAME, 'software_related_grants_found')
 
     logger.info('Calculated summaries of data.')
 
     return
+
+
+def software_grants_cost(df_only_found, years_in_data, num_of_grants_started, funders_in_data):
+
+    # Get all years contained in data
+    all_years = years_in_data['all_years']
+
+    # Initialise
+    df_cost = pd.DataFrame(index=all_years, columns=['Total spend'])
+
+    for curr_year in all_years:
+        df_cost.at[curr_year, 'Total spend'] = df_only_found['spend in ' + str(curr_year)].sum()
+
+    export_to_csv(df_cost, STOREFILENAME, 'software_related_grants_cost')
+
+    logger.info('Calculated costs of software-related grants.')
+
+    return
+
 
 
 def main():
@@ -279,18 +318,19 @@ def main():
     # we're going to search for
     where_to_search = ['title', 'abstract']
 
+    # These are the words that the program searches for
     keyword_list = ['software', 'software developer', 'software development', 'programming', 'program',
                     'computational', 'HPC', 'high performance computing', 'simulation', 'modeling',
                     'data visualisation', 'data visualization']
 
     # Get GTR summary data
     df = import_csv_to_df(DATAFILENAME)
-
     logger.info('Imported df includes ' + str(len(df)) + ' records')
 
     # Make the dates, er... well... dates
     df = convert_to_date(df)
 
+    # Clead data of 
     df = clean_data(df)
 
     # Get a dict of lists in which the years represented in the data are stored
@@ -309,6 +349,12 @@ def main():
 
     # Produce summaries of what was found, where and when
     get_summary_data(df, where_to_search, keyword_list, years_in_data, num_of_grants_started, funders_in_data)
+    
+    df_only_found = save_only_software_grants(df, where_to_search)
+
+    software_grants_by_funder(df_only_found, years_in_data, num_of_grants_started, funders_in_data)
+    
+    software_grants_cost(df_only_found, years_in_data, num_of_grants_started, funders_in_data)
 
     export_to_csv(df, STOREFILENAME, 'final_df')
 
