@@ -37,4 +37,20 @@ Prepare for running Python:
 Combine summary and abstract data:
 
 1. Run the script:
-    * ```python 
+    * ```python combine_gtr_data.py```
+    * This takes the "All Data" csv, drops any record not related to a research grant, then populates the research grants with title and abstract data downloaded from the Gateway to Research API.
+    * It drops any records that lack an abstract (they have "NA" or "N/A" in the abstract field)
+    * And then it saves the resulting dataframe as ```gtr_data_titles_and_abs.csv```
+1. Run the analysis script:
+    * ```python gtr_analysis.py```
+    * This drops all records from before the year 2000 (data collection was not as reliable before this date) and drops any record where the start date occurs after the end data (not trustworthy data)
+    * It reviews the data and collects the years and funder names contained in it
+    * It counts the total number of grants contained in the data
+    * It finds a whether words from a list of keywords ```keyword_list``` are contained in each title and abstract
+    * For each grant, it calculates how much of the funding would be spent each year if the funding was evenly spread over the years that the grant spans (i.e. over the grant's lifetime)
+    * It then calculates the important things:
+            1. The number of software-related grants found with a keyword each year (both a count and a percentage)
+            1. The number of software-related grants funded by each funder each year (both a count and a percentage)
+            1. The amount of funding invested into software-related grants each year (just a value)
+    
+    
