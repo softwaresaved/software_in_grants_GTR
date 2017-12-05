@@ -15,9 +15,25 @@ In this study, I'll investigate the successful grant applications provided by [G
 * Combine summary data with titles and abstracts from XML data (```combine_gtr_data.py``` used for this purpose)
 * Analyse results in Python
 
+## Description of the output
+
+* All output files are stored in the ```output``` directory as ```.csv``` files
+    * ```final_df```: a copy of the dataframe after the analysis has been compeleted. It's big, and it contains columns related to each of the analytical steps conducted to understand the data.
+    * ```only_grants_related_to_software```: the same as above, but this file contains only records that were found to be related to software
+    * ```keywords_found_count```: shows the number of times keywords (the first column) were found in each of the years and in each section of the grant that was searched
+    * ```keywords_found_percentage```: the same as the above, but now as a percentage relative to the total number of grants recorded in the year in question (i.e. this is the percentage of all grants from that year that contained the keyword)
+    * ```software_grants_by_funder```: for each funder, the number of software-related grants found for a particualr start year, and the percentage that this makes up of all the grants that the funder started in that year
+    * ```software_grants_total_funding```:  the total amount of funding invested each year by all funders into software-related grants
+* Background data about all grants - not just those related to software - are stored in the ```output/background_data``` directory
+    * ```all_grants_count```: a count of all grants in the data set divided into the year in which the grant starts
+    * ```all_years_in_data```: a list spaning all years in the data from the start year of the earliest start date to the end of the latest end date
+    * ```end_years_in_data```: a list of all the years in which a grant ends
+    * ```start_years_in_data```: a list of all the years in which a grant starts
+    * ```funders_in_data```: a list of all the funders that funded projects in the dataset
+    
 ## How to reproduce the results of this analysis
 
-### Set up
+### Set up
 
 Get the files and data:
 
