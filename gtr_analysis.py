@@ -388,10 +388,13 @@ def main():
     # Produce summaries of what was found, where and when
     get_summary_data(df, where_to_search, keyword_list, years_in_data, num_of_grants_started, funders_in_data)
     
+    # Produce a df of the details of only grants related to software and save this to csv
     df_only_found = save_only_software_grants(df, where_to_search)
 
+    # Split the data by funder
     software_grants_by_funder(df_only_found, years_in_data, num_of_grants_started, funders_in_data)
     
+    # Find the total cost of 
     software_grants_cost(df_only_found, df, years_in_data, num_of_grants_started, funders_in_data)
 
     export_to_csv(df, STOREFILENAME, 'final_df', index_write=False)
