@@ -1442,3 +1442,215 @@
 2017-12-05 11:56:40,794 - __main__ - INFO - Saved data on all grants related to software
 2017-12-05 11:56:40,984 - __main__ - INFO - Calculated summaries of data.
 2017-12-05 11:56:41,004 - __main__ - INFO - Calculated costs of software-related grants.
+2018-03-16 07:24:06,463 - __main__ - INFO - Imported df includes 4239 records
+2018-03-16 07:24:07,054 - __main__ - INFO - Converted dates into datetime format.
+2018-03-16 07:24:07,056 - __main__ - INFO - 14 records were dropped because the project started before the year 2000.
+2018-03-16 07:24:07,058 - __main__ - INFO - 38 records were dropped because the start date was recorded as later than the end date.
+2018-03-16 07:24:07,060 - __main__ - INFO - There are 24 years in the data
+2018-03-16 07:24:07,227 - __main__ - INFO - Calculated annual spend
+2018-03-16 07:24:11,005 - __main__ - INFO - Saved data on all grants related to software
+2018-03-16 07:24:11,199 - __main__ - INFO - Calculated summaries of data.
+2018-03-16 07:24:11,217 - __main__ - INFO - Calculated costs of software-related grants.
+2018-03-16 07:39:08,881 - __main__ - INFO - Imported df includes 4239 records
+2018-03-16 07:39:09,437 - __main__ - INFO - Converted dates into datetime format.
+2018-03-16 07:39:09,440 - __main__ - INFO - 14 records were dropped because the project started before the year 2000.
+2018-03-16 07:39:09,442 - __main__ - INFO - 38 records were dropped because the start date was recorded as later than the end date.
+2018-03-16 07:39:09,444 - __main__ - INFO - There are 24 years in the data
+2018-03-16 07:39:09,613 - __main__ - INFO - Calculated annual spend
+2018-03-16 07:39:13,304 - __main__ - INFO - Saved data on all grants related to software
+2018-03-16 07:39:13,492 - __main__ - INFO - Calculated summaries of data.
+2018-03-16 07:39:13,509 - __main__ - INFO - Calculated costs of software-related grants.
+2018-03-16 08:32:33,447 - __main__ - INFO - Imported df includes 4239 records
+2018-03-16 08:32:33,990 - __main__ - INFO - Converted dates into datetime format.
+2018-03-16 08:32:33,993 - __main__ - INFO - 14 records were dropped because the project started before the year 2000.
+2018-03-16 08:32:33,994 - __main__ - INFO - 38 records were dropped because the start date was recorded as later than the end date.
+2018-03-16 08:32:33,996 - __main__ - INFO - There are 24 years in the data
+2018-03-16 08:32:34,163 - __main__ - INFO - Calculated annual spend
+2018-03-16 08:32:37,844 - __main__ - INFO - Saved data on all grants related to software
+2018-03-16 08:32:38,027 - __main__ - INFO - Calculated summaries of data.
+2018-03-16 08:32:38,045 - __main__ - INFO - Calculated costs of software-related grants.
+2018-03-16 08:35:06,950 - __main__ - INFO - Imported df includes 4239 records
+2018-03-16 08:35:07,514 - __main__ - INFO - Converted dates into datetime format.
+2018-03-16 08:35:07,517 - __main__ - INFO - 14 records were dropped because the project started before the year 2000.
+2018-03-16 08:35:07,519 - __main__ - INFO - 38 records were dropped because the start date was recorded as later than the end date.
+2018-03-16 08:35:07,521 - __main__ - INFO - There are 24 years in the data
+2018-03-16 08:35:07,685 - __main__ - INFO - Calculated annual spend
+2018-03-16 08:35:11,355 - __main__ - INFO - Saved data on all grants related to software
+2018-03-16 08:35:11,532 - __main__ - INFO - Calculated summaries of data.
+2018-03-16 08:35:11,549 - __main__ - INFO - Calculated costs of software-related grants.
+2018-03-16 08:35:59,095 - __main__ - INFO - Imported df includes 4239 records
+2018-03-16 08:35:59,675 - __main__ - INFO - Converted dates into datetime format.
+2018-03-16 08:35:59,677 - __main__ - INFO - 14 records were dropped because the project started before the year 2000.
+2018-03-16 08:35:59,679 - __main__ - INFO - 38 records were dropped because the start date was recorded as later than the end date.
+2018-03-16 08:35:59,681 - __main__ - INFO - There are 24 years in the data
+2018-03-16 08:35:59,846 - __main__ - INFO - Calculated annual spend
+2018-03-16 08:36:03,601 - __main__ - INFO - Saved data on all grants related to software
+2018-03-16 08:36:03,796 - __main__ - INFO - Calculated summaries of data.
+2018-03-16 08:36:03,813 - __main__ - INFO - Calculated costs of software-related grants.
+2018-03-16 08:41:10,859 - __main__ - INFO - Imported df includes 4239 records
+2018-03-16 08:41:11,427 - __main__ - INFO - Converted dates into datetime format.
+2018-03-16 08:41:11,430 - __main__ - INFO - 14 records were dropped because the project started before the year 2000.
+2018-03-16 08:41:11,432 - __main__ - INFO - 38 records were dropped because the start date was recorded as later than the end date.
+2018-03-16 08:41:11,434 - __main__ - INFO - There are 24 years in the data
+2018-03-16 08:41:11,608 - __main__ - INFO - Calculated annual spend
+2018-03-16 08:41:15,295 - __main__ - INFO - Saved data on all grants related to software
+2018-03-16 08:41:15,476 - __main__ - INFO - Calculated summaries of data.
+2018-03-16 08:41:15,558 - __main__ - INFO - Calculated costs of software-related grants.
+2018-03-16 08:45:35,236 - __main__ - INFO - Imported df includes 4239 records
+2018-03-16 08:45:35,780 - __main__ - INFO - Converted dates into datetime format.
+2018-03-16 08:45:35,783 - __main__ - INFO - 14 records were dropped because the project started before the year 2000.
+2018-03-16 08:45:35,785 - __main__ - INFO - 38 records were dropped because the start date was recorded as later than the end date.
+2018-03-16 08:45:35,787 - __main__ - INFO - There are 24 years in the data
+2018-03-16 08:45:35,954 - __main__ - INFO - Calculated annual spend
+2018-03-16 08:45:39,672 - __main__ - INFO - Saved data on all grants related to software
+2018-03-16 08:45:39,854 - __main__ - INFO - Calculated summaries of data.
+2018-03-16 08:45:40,003 - __main__ - INFO - Calculated costs of software-related grants.
+2018-03-16 08:51:48,695 - __main__ - INFO - Imported df includes 4239 records
+2018-03-16 08:51:49,261 - __main__ - INFO - Converted dates into datetime format.
+2018-03-16 08:51:49,263 - __main__ - INFO - 14 records were dropped because the project started before the year 2000.
+2018-03-16 08:51:49,265 - __main__ - INFO - 38 records were dropped because the start date was recorded as later than the end date.
+2018-03-16 08:51:49,268 - __main__ - INFO - There are 24 years in the data
+2018-03-16 08:51:49,428 - __main__ - INFO - Calculated annual spend
+2018-03-16 08:51:53,089 - __main__ - INFO - Saved data on all grants related to software
+2018-03-16 08:51:53,261 - __main__ - INFO - Calculated summaries of data.
+2018-03-16 08:51:53,838 - __main__ - INFO - Calculated costs of software-related grants.
+2018-03-16 08:52:08,908 - __main__ - INFO - Imported df includes 4239 records
+2018-03-16 08:52:09,451 - __main__ - INFO - Converted dates into datetime format.
+2018-03-16 08:52:09,453 - __main__ - INFO - 14 records were dropped because the project started before the year 2000.
+2018-03-16 08:52:09,455 - __main__ - INFO - 38 records were dropped because the start date was recorded as later than the end date.
+2018-03-16 08:52:09,457 - __main__ - INFO - There are 24 years in the data
+2018-03-16 08:52:09,620 - __main__ - INFO - Calculated annual spend
+2018-03-16 08:52:13,298 - __main__ - INFO - Saved data on all grants related to software
+2018-03-16 08:52:13,480 - __main__ - INFO - Calculated summaries of data.
+2018-03-16 08:52:13,953 - __main__ - INFO - Calculated costs of software-related grants.
+2018-03-16 08:55:34,322 - __main__ - INFO - Imported df includes 4239 records
+2018-03-16 08:55:34,871 - __main__ - INFO - Converted dates into datetime format.
+2018-03-16 08:55:34,873 - __main__ - INFO - 14 records were dropped because the project started before the year 2000.
+2018-03-16 08:55:34,875 - __main__ - INFO - 38 records were dropped because the start date was recorded as later than the end date.
+2018-03-16 08:55:34,877 - __main__ - INFO - There are 24 years in the data
+2018-03-16 08:55:35,043 - __main__ - INFO - Calculated annual spend
+2018-03-16 08:55:38,768 - __main__ - INFO - Saved data on all grants related to software
+2018-03-16 08:55:38,946 - __main__ - INFO - Calculated summaries of data.
+2018-03-16 08:55:39,340 - __main__ - INFO - Calculated costs of software-related grants.
+2018-03-16 08:59:09,336 - __main__ - INFO - Imported df includes 4239 records
+2018-03-16 08:59:09,872 - __main__ - INFO - Converted dates into datetime format.
+2018-03-16 08:59:09,874 - __main__ - INFO - 14 records were dropped because the project started before the year 2000.
+2018-03-16 08:59:09,875 - __main__ - INFO - 38 records were dropped because the start date was recorded as later than the end date.
+2018-03-16 08:59:09,877 - __main__ - INFO - There are 24 years in the data
+2018-03-16 08:59:10,038 - __main__ - INFO - Calculated annual spend
+2018-03-16 08:59:13,643 - __main__ - INFO - Saved data on all grants related to software
+2018-03-16 08:59:13,826 - __main__ - INFO - Calculated summaries of data.
+2018-03-16 08:59:15,920 - __main__ - INFO - Calculated costs of software-related grants.
+2018-03-16 08:59:29,120 - __main__ - INFO - Imported df includes 4239 records
+2018-03-16 08:59:29,699 - __main__ - INFO - Converted dates into datetime format.
+2018-03-16 08:59:29,701 - __main__ - INFO - 14 records were dropped because the project started before the year 2000.
+2018-03-16 08:59:29,703 - __main__ - INFO - 38 records were dropped because the start date was recorded as later than the end date.
+2018-03-16 08:59:29,705 - __main__ - INFO - There are 24 years in the data
+2018-03-16 08:59:29,877 - __main__ - INFO - Calculated annual spend
+2018-03-16 08:59:33,631 - __main__ - INFO - Saved data on all grants related to software
+2018-03-16 08:59:33,814 - __main__ - INFO - Calculated summaries of data.
+2018-03-16 08:59:35,852 - __main__ - INFO - Calculated costs of software-related grants.
+2018-03-16 09:04:37,199 - __main__ - INFO - Imported df includes 4239 records
+2018-03-16 09:04:37,778 - __main__ - INFO - Converted dates into datetime format.
+2018-03-16 09:04:37,780 - __main__ - INFO - 14 records were dropped because the project started before the year 2000.
+2018-03-16 09:04:37,782 - __main__ - INFO - 38 records were dropped because the start date was recorded as later than the end date.
+2018-03-16 09:04:37,784 - __main__ - INFO - There are 24 years in the data
+2018-03-16 09:04:37,940 - __main__ - INFO - Calculated annual spend
+2018-03-16 09:04:41,572 - __main__ - INFO - Saved data on all grants related to software
+2018-03-16 09:04:41,747 - __main__ - INFO - Calculated summaries of data.
+2018-03-16 09:04:43,759 - __main__ - INFO - Calculated costs of software-related grants.
+2018-03-16 09:06:12,539 - __main__ - INFO - Imported df includes 4239 records
+2018-03-16 09:06:13,126 - __main__ - INFO - Converted dates into datetime format.
+2018-03-16 09:06:13,129 - __main__ - INFO - 14 records were dropped because the project started before the year 2000.
+2018-03-16 09:06:13,131 - __main__ - INFO - 38 records were dropped because the start date was recorded as later than the end date.
+2018-03-16 09:06:13,133 - __main__ - INFO - There are 24 years in the data
+2018-03-16 09:06:13,300 - __main__ - INFO - Calculated annual spend
+2018-03-16 09:06:17,133 - __main__ - INFO - Saved data on all grants related to software
+2018-03-16 09:06:17,336 - __main__ - INFO - Calculated summaries of data.
+2018-03-16 09:06:19,037 - __main__ - INFO - Calculated costs of software-related grants.
+2018-03-16 09:09:27,782 - __main__ - INFO - Imported df includes 4239 records
+2018-03-16 09:09:28,332 - __main__ - INFO - Converted dates into datetime format.
+2018-03-16 09:09:28,334 - __main__ - INFO - 14 records were dropped because the project started before the year 2000.
+2018-03-16 09:09:28,336 - __main__ - INFO - 38 records were dropped because the start date was recorded as later than the end date.
+2018-03-16 09:09:28,338 - __main__ - INFO - There are 24 years in the data
+2018-03-16 09:09:28,495 - __main__ - INFO - Calculated annual spend
+2018-03-16 09:09:32,319 - __main__ - INFO - Saved data on all grants related to software
+2018-03-16 09:09:32,494 - __main__ - INFO - Calculated summaries of data.
+2018-03-16 09:09:34,255 - __main__ - INFO - Calculated costs of software-related grants.
+2018-03-16 09:28:42,272 - __main__ - INFO - Imported df includes 4239 records
+2018-03-16 09:28:42,862 - __main__ - INFO - Converted dates into datetime format.
+2018-03-16 09:28:42,865 - __main__ - INFO - 14 records were dropped because the project started before the year 2000.
+2018-03-16 09:28:42,867 - __main__ - INFO - 38 records were dropped because the start date was recorded as later than the end date.
+2018-03-16 09:28:42,869 - __main__ - INFO - There are 24 years in the data
+2018-03-16 09:28:43,082 - __main__ - INFO - Calculated annual spend
+2018-03-16 09:28:46,786 - __main__ - INFO - Saved data on all grants related to software
+2018-03-16 09:28:46,974 - __main__ - INFO - Calculated summaries of data.
+2018-03-16 09:29:45,996 - __main__ - INFO - Imported df includes 4239 records
+2018-03-16 09:29:46,549 - __main__ - INFO - Converted dates into datetime format.
+2018-03-16 09:29:46,551 - __main__ - INFO - 14 records were dropped because the project started before the year 2000.
+2018-03-16 09:29:46,553 - __main__ - INFO - 38 records were dropped because the start date was recorded as later than the end date.
+2018-03-16 09:29:46,555 - __main__ - INFO - There are 24 years in the data
+2018-03-16 09:29:46,716 - __main__ - INFO - Calculated annual spend
+2018-03-16 09:29:50,420 - __main__ - INFO - Saved data on all grants related to software
+2018-03-16 09:29:50,617 - __main__ - INFO - Calculated summaries of data.
+2018-03-16 09:29:52,307 - __main__ - INFO - Calculated yearly costs of software-related grants.
+2018-03-16 09:29:52,311 - __main__ - INFO - Calculated average costs of software-related grants.
+2018-03-16 09:30:14,502 - __main__ - INFO - Imported df includes 4239 records
+2018-03-16 09:30:15,122 - __main__ - INFO - Converted dates into datetime format.
+2018-03-16 09:30:15,125 - __main__ - INFO - 14 records were dropped because the project started before the year 2000.
+2018-03-16 09:30:15,128 - __main__ - INFO - 38 records were dropped because the start date was recorded as later than the end date.
+2018-03-16 09:30:15,130 - __main__ - INFO - There are 24 years in the data
+2018-03-16 09:30:15,302 - __main__ - INFO - Calculated annual spend
+2018-03-16 09:30:19,015 - __main__ - INFO - Saved data on all grants related to software
+2018-03-16 09:30:19,195 - __main__ - INFO - Calculated summaries of data.
+2018-03-16 09:30:20,920 - __main__ - INFO - Calculated yearly costs of software-related grants.
+2018-03-16 09:30:20,924 - __main__ - INFO - Calculated average costs of software-related grants.
+2018-03-16 09:31:40,376 - __main__ - INFO - Imported df includes 4239 records
+2018-03-16 09:31:40,927 - __main__ - INFO - Converted dates into datetime format.
+2018-03-16 09:31:40,929 - __main__ - INFO - 14 records were dropped because the project started before the year 2000.
+2018-03-16 09:31:40,931 - __main__ - INFO - 38 records were dropped because the start date was recorded as later than the end date.
+2018-03-16 09:31:40,934 - __main__ - INFO - There are 24 years in the data
+2018-03-16 09:31:41,101 - __main__ - INFO - Calculated annual spend
+2018-03-16 09:31:44,803 - __main__ - INFO - Saved data on all grants related to software
+2018-03-16 09:31:44,992 - __main__ - INFO - Calculated summaries of data.
+2018-03-16 09:31:46,743 - __main__ - INFO - Calculated yearly costs of software-related grants.
+2018-03-16 09:31:46,952 - __main__ - INFO - Calculated average costs of software-related grants.
+2018-03-16 09:32:02,153 - __main__ - INFO - Imported df includes 4239 records
+2018-03-16 09:32:02,703 - __main__ - INFO - Converted dates into datetime format.
+2018-03-16 09:32:02,705 - __main__ - INFO - 14 records were dropped because the project started before the year 2000.
+2018-03-16 09:32:02,707 - __main__ - INFO - 38 records were dropped because the start date was recorded as later than the end date.
+2018-03-16 09:32:02,710 - __main__ - INFO - There are 24 years in the data
+2018-03-16 09:32:02,884 - __main__ - INFO - Calculated annual spend
+2018-03-16 09:32:06,619 - __main__ - INFO - Saved data on all grants related to software
+2018-03-16 09:32:06,816 - __main__ - INFO - Calculated summaries of data.
+2018-03-16 09:32:08,559 - __main__ - INFO - Calculated yearly costs of software-related grants.
+2018-03-16 09:32:08,787 - __main__ - INFO - Calculated average costs of software-related grants.
+2018-03-16 09:32:59,068 - __main__ - INFO - Imported df includes 4239 records
+2018-03-16 09:32:59,646 - __main__ - INFO - Converted dates into datetime format.
+2018-03-16 09:32:59,648 - __main__ - INFO - 14 records were dropped because the project started before the year 2000.
+2018-03-16 09:32:59,650 - __main__ - INFO - 38 records were dropped because the start date was recorded as later than the end date.
+2018-03-16 09:32:59,653 - __main__ - INFO - There are 24 years in the data
+2018-03-16 09:32:59,822 - __main__ - INFO - Calculated annual spend
+2018-03-16 09:33:03,534 - __main__ - INFO - Saved data on all grants related to software
+2018-03-16 09:33:03,719 - __main__ - INFO - Calculated summaries of data.
+2018-03-16 09:33:05,475 - __main__ - INFO - Calculated yearly costs of software-related grants.
+2018-03-16 09:33:20,389 - __main__ - INFO - Imported df includes 4239 records
+2018-03-16 09:33:20,942 - __main__ - INFO - Converted dates into datetime format.
+2018-03-16 09:33:20,945 - __main__ - INFO - 14 records were dropped because the project started before the year 2000.
+2018-03-16 09:33:20,947 - __main__ - INFO - 38 records were dropped because the start date was recorded as later than the end date.
+2018-03-16 09:33:20,949 - __main__ - INFO - There are 24 years in the data
+2018-03-16 09:33:21,107 - __main__ - INFO - Calculated annual spend
+2018-03-16 09:33:24,732 - __main__ - INFO - Saved data on all grants related to software
+2018-03-16 09:33:24,913 - __main__ - INFO - Calculated summaries of data.
+2018-03-16 09:33:26,684 - __main__ - INFO - Calculated yearly costs of software-related grants.
+2018-03-16 09:33:26,904 - __main__ - INFO - Calculated average costs of software-related grants.
+2018-03-16 09:33:52,420 - __main__ - INFO - Imported df includes 4239 records
+2018-03-16 09:33:52,961 - __main__ - INFO - Converted dates into datetime format.
+2018-03-16 09:33:52,964 - __main__ - INFO - 14 records were dropped because the project started before the year 2000.
+2018-03-16 09:33:52,966 - __main__ - INFO - 38 records were dropped because the start date was recorded as later than the end date.
+2018-03-16 09:33:52,968 - __main__ - INFO - There are 24 years in the data
+2018-03-16 09:33:53,140 - __main__ - INFO - Calculated annual spend
+2018-03-16 09:33:56,884 - __main__ - INFO - Saved data on all grants related to software
+2018-03-16 09:33:57,076 - __main__ - INFO - Calculated summaries of data.
+2018-03-16 09:33:58,839 - __main__ - INFO - Calculated yearly costs of software-related grants.
+2018-03-16 09:33:59,042 - __main__ - INFO - Calculated average costs of software-related grants.
