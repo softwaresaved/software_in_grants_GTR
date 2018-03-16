@@ -11,6 +11,9 @@ import string
 import time
 import logging
 
+from search_terms import SEARCH_TERM_LIST
+
+
 DATAFILENAME = "./data/gtr_data_titles_and_abs_testdata.csv"
 STOREFILENAME = "./output/"
 PNGSTOREFILENAME = "./output/png/"
@@ -454,10 +457,12 @@ def main():
     # Add new columns showing where each of the keywords was
     # found in the grant
 
-    find_keywords(df, keyword_list, where_to_search)
+    #find_keywords(df, keyword_list, where_to_search)
+    find_keywords(df, SEARCH_TERM_LIST, where_to_search)
 
     # Produce summaries of what was found, where and when
-    get_summary_data(df, where_to_search, keyword_list, years_in_data, num_of_grants_started, funders_in_data)
+    #get_summary_data(df, where_to_search, keyword_list, years_in_data, num_of_grants_started, funders_in_data)
+    get_summary_data(df, where_to_search, SEARCH_TERM_LIST, years_in_data, num_of_grants_started, funders_in_data)
 
     # Produce a df of the details of only grants related to software and save this to csv
     df_only_found = save_only_software_grants(df, where_to_search)
