@@ -89,15 +89,19 @@ def clean_data(df):
     return df
 
 
-def save_bar_chart(df, x_col, y_col, file):
+def save_bar_chart(df, x_col, y_col, file, percentage):
     # Must clear the plot first, or labels from previous plots are included
     plt.clf()
 
-    plot = df.plot(kind='bar', legend=False)
-    plot.set_xlabel(x_col)
-    plot.set_ylabel(y_col)
+    ax = df.plot(kind='bar', legend=False)
+    ax.set_xlabel(x_col)
+    ax.set_ylabel(y_col)
 
-    fig = plot.get_figure()
+    # If wanting to display percentage on y axis, set limits accordingly
+    if percentage:
+        plt.ylim([0, 100])
+
+    fig = ax.get_figure()
     fig.tight_layout()
     fig.savefig(os.path.join(PNGSTOREFILENAME, file + '.png'))
 
@@ -354,17 +358,18 @@ def get_software_grants_cost_by_funder(df_only_found, df, years_in_data, num_of_
         for curr_year in all_years:
             all_funder_spend = df_all_temp['spend in ' + str(curr_year)].sum()
             sw_funder_spend = df_sw_temp['spend in ' + str(curr_year)].sum()
-            df_cost.loc[curr_year, str(funder) + ' spend'] = sw_funder_spend
-            df_cost.loc[curr_year, str(funder) +  ' spend %'] = round((sw_funder_spend/all_funder_spend)*100, 2)
+            df_cost.loc[curr_year, str(funder) + ' total spend'] = all_funder_spend
+            df_cost.loc[curr_year, str(funder) + ' software spend'] = sw_funder_spend
+            df_cost.loc[curr_year, str(funder) +  ' software spend %'] = round((sw_funder_spend/all_funder_spend)*100, 2)
 
     # Create and save bar charts for all funding over years Institute has existed until 2017
     df_cost_sub = df_cost.loc[SSI_YEARS, 'all funders software spend']
-    save_bar_chart(df_cost_sub, 'Year', 'Spend (£)', 'all_funders_software_spend')
+    save_bar_chart(df_cost_sub, 'Year', 'Spend (£)', 'all_funders_software_spend', False)
 
     # As previously, but just for each funder
     for funder in funders_in_data:
-        df_cost_funder_sub = df_cost.loc[SSI_YEARS, funder + ' spend']
-        save_bar_chart(df_cost_funder_sub, 'Year', 'Spend (£)', 'software_spend_' + funder)
+        df_cost_funder_sub = df_cost.loc[SSI_YEARS, funder + ' software spend']
+        save_bar_chart(df_cost_funder_sub, 'Year', 'Spend (£)', 'software_spend_' + funder, False)
 
     export_to_csv(df_cost, STOREFILENAME, 'yearly_software_grants_costs_by_funder', index_write=True)
 
@@ -375,6 +380,9 @@ def get_software_grants_cost_by_funder(df_only_found, df, years_in_data, num_of_
 
 def average_annual_spend_on_software(df_cost, years_in_data, funders_in_data):
 
+    # Only for the years we've been around
+    df_cost_sub = df_cost.loc[SSI_YEARS]
+
     # Get all years contained in data
     all_years = years_in_data['all_years']
 
@@ -382,12 +390,27 @@ def average_annual_spend_on_software(df_cost, years_in_data, funders_in_data):
     df_av_cost = pd.DataFrame(index=funders_in_data)
 
     for funder in funders_in_data:
-        df_av_cost.loc[funder, 'Average spend (£)'] = df_cost[funder + ' spend'].mean()
+        df_av_cost.loc[funder, 'Average spend (£) 2010-2017'] = df_cost_sub[funder + ' software spend'].mean()
 
-    df_av_cost = df_av_cost.sort_values(by='Average spend (£)', ascending=True)
+        # Determine overall average % of software spending
+        total_spend = df_cost_sub[funder + ' total spend'].mean()
+        total_sw_spend = df_cost_sub[funder + ' software spend'].mean()
+        df_av_cost.loc[funder, 'Average spend (% of all funding) 2010-2017'] = round((total_sw_spend/total_spend)*100, 2)
 
-    save_bar_chart(df_av_cost, 'Funder', 'Average spend (£) 2010-2017', 'all_funders_average_software_spend')
+    # Extract amount average column, sort, and plot
+    df_av_spend_amount = df_av_cost['Average spend (£) 2010-2017']
+    df_av_spend_amount = df_av_spend_amount.sort_values(ascending=True)
+    save_bar_chart(df_av_spend_amount, 'Funder', 'Average spend (£) 2010-2017',
+        'all_funders_average_software_spend_amount', False)
 
+    # Extract % average column, sort, and plot
+    df_av_spend_pct = df_av_cost['Average spend (% of all funding) 2010-2017']
+    df_av_spend_pct = df_av_spend_pct.sort_values(ascending=True)
+    save_bar_chart(df_av_spend_pct, 'Funder','Average spend (% of all funding) 2010-2017',
+        'all_funders_average_software_spend_pct', True)
+
+    # Sort overall costs and save
+    df_av_cost = df_av_cost.sort_values(by='Average spend (£) 2010-2017', ascending=True)
     export_to_csv(df_av_cost, STOREFILENAME, 'average_software_grants_costs_by_funder', index_write=True)
 
     logger.info('Calculated average costs of software-related grants.')
