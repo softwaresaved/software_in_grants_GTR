@@ -419,6 +419,40 @@ def average_annual_spend_on_software(df_cost, years_in_data, funders_in_data):
     logger.info('Calculated average costs of software-related grants.')
 
 
+def search_term_popularity(df_only_found, keyword_list, funders_in_data):
+
+    # Our results dataframe for keyword counts per funder
+    df_term_pop = pd.DataFrame()
+    for funder in funders_in_data:
+
+        # Only want subset of those by this funder
+        df_funder = df_only_found[df_only_found['fundingorgname'] == funder]
+
+        # Count occurences of each keyword in both abstract and title
+        for keyword in keyword_list:
+            df_term_pop.loc[keyword, funder + '_count'] = \
+                df_funder['abstract_' + keyword].count() + \
+                df_funder['title_' + keyword].count()
+
+        # Sort ascending by count and generate bar chart
+        df_chart_funder = df_term_pop[funder + '_count'].sort_values(ascending=True)
+
+        # We only want those with a non-zero search count to minimise graph size
+        #df_chart_funder = df_chart_funder[(df_chart_funder[funder + '_count'] > 0)]
+
+        save_bar_chart(df_chart_funder, 'Keyword', 'Search term count',
+            'search_term_popularity_' + funder, False)
+
+    df_term_pop['Total'] = df_term_pop.sum(axis=1)
+    df_chart_term_pop = df_term_pop.sort_values(by='Total', ascending=True)
+    #df_chart_term_pop = df_chart_term_pop[(df_chart_term_pop['Total'] > 0)]
+    save_bar_chart(df_chart_term_pop['Total'], 'Keyword', 'Search term count',
+        'search_term_popularity_all', False)
+
+    export_to_csv(df_term_pop, STOREFILENAME, 'all_search_term_popularity', index_write=True)
+
+    logger.info('Calculated search term popularity across search results.')
+
 
 def main():
 
@@ -427,9 +461,9 @@ def main():
     where_to_search = ['title', 'abstract']
 
     # These are the words that the program searches for
-    keyword_list = ['software', 'software developer', 'software development', 'programming', 'program',
-                    'computational', 'HPC', 'high performance computing', 'simulation', 'modeling',
-                    'data visualisation', 'data visualization']
+    #keyword_list = ['software', 'software developer', 'software development', 'programming', 'program',
+    #                'computational', 'HPC', 'high performance computing', 'simulation', 'modeling',
+    #                'data visualisation', 'data visualization']
 
     # Get GTR summary data
     df = import_csv_to_df(DATAFILENAME)
@@ -466,6 +500,9 @@ def main():
 
     # Produce a df of the details of only grants related to software and save this to csv
     df_only_found = save_only_software_grants(df, where_to_search)
+
+    # Find relative popularity of the search terms
+    search_term_popularity(df_only_found, SEARCH_TERM_LIST, funders_in_data)
 
     # Split the data by funder
     software_grants_by_funder(df_only_found, years_in_data, num_of_grants_started, funders_in_data)
