@@ -1,5 +1,4 @@
 data/gtr_data_titles_and_abs.csv
-output/final_df.csv
 venv/*
 .DS_Store
 __pycache__
