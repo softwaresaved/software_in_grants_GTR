@@ -337,9 +337,6 @@ def software_grants_by_funder(df_only_found, years_in_data, num_of_grants_starte
 
 
 def get_software_grants_cost_by_funder(df_only_found, df, years_in_data, num_of_grants_started, funders_in_data):
-    # Years that the Institute has existed, except 2018
-    SSI_YEARS = [2010,2011,2012,2013,2014,2015,2016,2017]
-
     # Get all years contained in data
     all_years = years_in_data['all_years']
 
