@@ -14,14 +14,14 @@ import logging
 from search_terms import SEARCH_TERM_LIST
 
 
-DATAFILENAME = "./data/gtr_data_titles_and_abs_testdata.csv"
+DATAFILENAME = "./data/gtr_data_titles_and_abs.csv"
 STOREFILENAME = "./output/"
 PNGSTOREFILENAME = "./output/png/"
 BACKGROUNDSTORENAME = STOREFILENAME + 'background_data/'
 LOGGERLOCATION = "./log_gtr_analysis.log"
 
 # Years that the Institute has existed, except 2018
-SSI_YEARS = [2010,2011,2012,2013,2014,2015,2016,2017]
+SSI_YEARS = [2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017]
 
 # Set up logging
 logging.basicConfig(level=logging.DEBUG)
@@ -183,12 +183,6 @@ def get_total_grants(df, years_in_data):
     export_to_csv(number_of_grants_started_df, BACKGROUNDSTORENAME, 'all_grants_count', index_write=True)
 
     return num_of_grants_started
-
-
-def get_total_spend(df, years_in_data):
-
-
-    return
 
 
 def find_keywords(df, keyword_list, where_to_search):
@@ -364,7 +358,7 @@ def get_software_grants_cost_by_funder(df_only_found, df, years_in_data, num_of_
 
     # Create and save bar charts for all funding over years Institute has existed until 2017
     df_cost_sub = df_cost.loc[SSI_YEARS, 'all funders software spend']
-    save_bar_chart(df_cost_sub, 'Year', 'Spend (£)', 'all_funders_software_spend', False)
+    save_bar_chart(df_cost_sub, 'Year', 'Spend (£)', 'software_spend_all', False)
 
     # As previously, but just for each funder
     for funder in funders_in_data:
@@ -401,13 +395,13 @@ def average_annual_spend_on_software(df_cost, years_in_data, funders_in_data):
     df_av_spend_amount = df_av_cost['Average spend (£) 2010-2017']
     df_av_spend_amount = df_av_spend_amount.sort_values(ascending=True)
     save_bar_chart(df_av_spend_amount, 'Funder', 'Average spend (£) 2010-2017',
-        'all_funders_average_software_spend_amount', False)
+        'software_spend_all_average_amount', False)
 
     # Extract % average column, sort, and plot
     df_av_spend_pct = df_av_cost['Average spend (% of all funding) 2010-2017']
     df_av_spend_pct = df_av_spend_pct.sort_values(ascending=True)
     save_bar_chart(df_av_spend_pct, 'Funder','Average spend (% of all funding) 2010-2017',
-        'all_funders_average_software_spend_pct', True)
+        'software_spend_all_average_percent', True)
 
     # Sort overall costs and save
     df_av_cost = df_av_cost.sort_values(by='Average spend (£) 2010-2017', ascending=True)
@@ -446,7 +440,7 @@ def search_term_popularity(df_only_found, keyword_list, funders_in_data):
     save_bar_chart(df_chart_term_pop['Total'], 'Keyword', 'Search term count',
         'search_term_popularity_all', False)
 
-    export_to_csv(df_term_pop, STOREFILENAME, 'all_search_term_popularity', index_write=True)
+    export_to_csv(df_term_pop, STOREFILENAME, 'search_term_popularity_all', index_write=True)
 
     logger.info('Calculated search term popularity across search results.')
 
@@ -481,13 +475,10 @@ def main():
     # 
     num_of_grants_started = get_total_grants(df, years_in_data)
 
-    #get_total_spend(df, years_in_data)
-
     df = get_annual_spend(df, years_in_data)
 
     # Add new columns showing where each of the keywords was
     # found in the grant
-
     #find_keywords(df, keyword_list, where_to_search)
     find_keywords(df, SEARCH_TERM_LIST, where_to_search)
 

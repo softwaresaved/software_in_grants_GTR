@@ -4,3 +4,4 @@ venv/*
 __pycache__
 ~*.xlsx
 log_gtr_analysis.log
+output/final_df.csv
