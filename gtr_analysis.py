@@ -2,14 +2,15 @@
 # encoding: utf-8
 
 import os
-import pandas as pd
-import numpy as np
-import csv
-import matplotlib.pyplot as plt
 import math
 import string
 import time
+import tarfile
 import logging
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
 
 from search_terms import SEARCH_TERM_LIST
 
@@ -45,14 +46,20 @@ def import_csv_to_df(filename):
     return pd.read_csv(filename)
 
 
-def export_to_csv(df, location, filename, index_write):
+def export_to_csv(df, location, filename, index_write, compress=False):
     """
-    Exports a df to a csv file
+    Exports a df to a csv file, optionally compressing it as a .tar.gz file
     :params: a df and a location in which to save it
     :return: nothing, saves a csv
     """
 
-    return df.to_csv(location + filename + '.csv', index=True)
+    filepath = location + filename + '.csv'
+
+    df.to_csv(filepath, index=True)
+
+    if compress:
+        with tarfile.open(filepath + '.tar.gz', 'w:gz') as targz:
+            targz.add(filepath)
 
 
 def convert_to_date(df):
@@ -206,7 +213,7 @@ def find_keywords(df, keyword_list, where_to_search):
             all_columns.append(new_col_name)
             df.loc[df[search_col].str.lower()                       # Get the string and lower case it
             .str.replace('[^\w\s]','')                              # Remove all punctuation from the string (i.e. remove anything that's not alphanumeric or whitespace)
-            .str.contains(current_keyword),                         # Search for the keyword in the string
+            .str.contains(r'\b' + current_keyword + r'\b', regex=True, na=False), # Search for the keyword in the string as a separate word
             new_col_name] = current_keyword                         # If found, show this fact by adding the keyword to the appropriate col 
         # Add a new column that summarises how many times each of the words were found in each grant
         # This will be used later so that we don't double count grants
@@ -294,7 +301,8 @@ def save_only_software_grants(df, where_to_search):
     # or the abstract. In other words, it leaves us with a df that contains
     # only records where a keyword was found.
     df_only_found = df.loc[(df[summary_cols]!=0).any(axis=1)]
-    export_to_csv(df_only_found, STOREFILENAME, 'only_grants_related_to_software', index_write=True)
+    export_to_csv(df_only_found, STOREFILENAME, 'only_grants_related_to_software',
+        index_write=True, compress=True)
 
     logger.info('Saved data on all grants related to software')
 
@@ -419,24 +427,24 @@ def search_term_popularity(df_only_found, keyword_list, funders_in_data):
         # Only want subset of those by this funder
         df_funder = df_only_found[df_only_found['fundingorgname'] == funder]
 
-        # Count occurences of each keyword in both abstract and title
+        # Count occurences of each keyword in either abstract or title
         for keyword in keyword_list:
-            df_term_pop.loc[keyword, funder + '_count'] = \
-                df_funder['abstract_' + keyword].count() + \
-                df_funder['title_' + keyword].count()
+            # Extract the abstract and title columns for that keyword,
+            # and drop rows with nothing in both columns (i.e. no match)
+            df_funder_terms = df_funder[['abstract_' + keyword, 'title_' + keyword]]
+            has_term_df = df_funder_terms.dropna(how='all')
+
+            # Add the count of occurrences to our results dataframe for that funder
+            df_term_pop.loc[keyword, funder + '_count'] = len(has_term_df)
 
         # Sort ascending by count and generate bar chart
         df_chart_funder = df_term_pop[funder + '_count'].sort_values(ascending=True)
-
-        # We only want those with a non-zero search count to minimise graph size
-        #df_chart_funder = df_chart_funder[(df_chart_funder[funder + '_count'] > 0)]
 
         save_bar_chart(df_chart_funder, 'Keyword', 'Search term count',
             'search_term_popularity_' + funder, False)
 
     df_term_pop['Total'] = df_term_pop.sum(axis=1)
     df_chart_term_pop = df_term_pop.sort_values(by='Total', ascending=True)
-    #df_chart_term_pop = df_chart_term_pop[(df_chart_term_pop['Total'] > 0)]
     save_bar_chart(df_chart_term_pop['Total'], 'Keyword', 'Search term count',
         'search_term_popularity_all', False)
 
@@ -450,11 +458,6 @@ def main():
     # Set in which parts of the grant we're going to search, and what
     # we're going to search for
     where_to_search = ['title', 'abstract']
-
-    # These are the words that the program searches for
-    #keyword_list = ['software', 'software developer', 'software development', 'programming', 'program',
-    #                'computational', 'HPC', 'high performance computing', 'simulation', 'modeling',
-    #                'data visualisation', 'data visualization']
 
     # Get GTR summary data
     df = import_csv_to_df(DATAFILENAME)
@@ -472,18 +475,16 @@ def main():
     # Find which funders are contained in the data
     funders_in_data = get_funders(df)
 
-    # 
+    # How many grants started in each year?
     num_of_grants_started = get_total_grants(df, years_in_data)
 
     df = get_annual_spend(df, years_in_data)
 
     # Add new columns showing where each of the keywords was
     # found in the grant
-    #find_keywords(df, keyword_list, where_to_search)
     find_keywords(df, SEARCH_TERM_LIST, where_to_search)
 
     # Produce summaries of what was found, where and when
-    #get_summary_data(df, where_to_search, keyword_list, years_in_data, num_of_grants_started, funders_in_data)
     get_summary_data(df, where_to_search, SEARCH_TERM_LIST, years_in_data, num_of_grants_started, funders_in_data)
 
     # Produce a df of the details of only grants related to software and save this to csv
@@ -502,7 +503,7 @@ def main():
     average_annual_spend_on_software(df_cost, years_in_data, funders_in_data)
 
 
-    export_to_csv(df, STOREFILENAME, 'final_df', index_write=False)
+    export_to_csv(df, STOREFILENAME, 'final_df', index_write=False, compress=True)
 
 
 if __name__ == '__main__':
