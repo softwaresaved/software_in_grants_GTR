@@ -22,7 +22,7 @@ BACKGROUNDSTORENAME = STOREFILENAME + 'background_data/'
 LOGGERLOCATION = "./log_gtr_analysis.log"
 
 # Years that the Institute has existed, except 2018
-SSI_YEARS = [2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017]
+SUBSET_YEARS = [2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017]
 
 # Set up logging
 logging.basicConfig(level=logging.DEBUG)
@@ -129,8 +129,9 @@ def get_years(df):
     start_years.sort()
     end_years = list(set(df['enddate'].dt.year.tolist()))
     end_years.sort()
-    all_years = list(set(start_years + end_years))
-    all_years.sort()
+
+    # Get a spread of the years across the data
+    all_years = list(range(start_years[0], end_years[-1]+1))
 
     # Combine the lists into a dict
     years_in_data = {'start_years':start_years, 'end_years':end_years, 'all_years':all_years}
@@ -214,7 +215,7 @@ def find_keywords(df, keyword_list, where_to_search):
             df.loc[df[search_col].str.lower()                       # Get the string and lower case it
             .str.replace('[^\w\s]','')                              # Remove all punctuation from the string (i.e. remove anything that's not alphanumeric or whitespace)
             .str.contains(r'\b' + current_keyword + r'\b', regex=True, na=False), # Search for the keyword in the string as a separate word
-            new_col_name] = current_keyword                         # If found, show this fact by adding the keyword to the appropriate col 
+            new_col_name] = current_keyword                         # If found, show this fact by adding the keyword to the appropriate column
         # Add a new column that summarises how many times each of the words were found in each grant
         # This will be used later so that we don't double count grants
         df[search_col + '_all_terms'] = df[all_columns].apply(lambda x: x.count(), axis=1)
@@ -238,6 +239,7 @@ def get_annual_spend(df, years_in_data):
     df['spend per year'] = df['awardpounds']/df['no. years in grant']
 
     # Go through each year in the data and add it's annual spend to an appropriately named col
+
     for curr_year in years_in_data['all_years']:
         # Basically, if the curr_year is between the start and end date, then add the annual spend to the appropriate col
         df.loc[(df['startdate'].dt.year <= curr_year) & (df['enddate'].dt.year >= curr_year), 'spend in ' + str(curr_year)] = df['spend per year']
@@ -257,7 +259,7 @@ def get_summary_data(df, where_to_search, keyword_list, years_in_data, num_of_gr
     # Get the start years from the dict of lists
     start_years = years_in_data['start_years']
 
-    # Initialiase
+    # Initialise
     df_where_found = pd.DataFrame(index=keyword_list)
     df_where_found_percent = pd.DataFrame(index=keyword_list)
     df_summary = pd.DataFrame(index=start_years)
@@ -309,7 +311,7 @@ def save_only_software_grants(df, where_to_search):
     return df_only_found
 
 
-def software_grants_by_funder(df_only_found, years_in_data, num_of_grants_started, funders_in_data):
+def software_grants_by_funder(df, df_only_found, years_in_data, num_of_grants_started, funders_in_data):
 
     start_years = years_in_data['start_years']
 
@@ -325,11 +327,21 @@ def software_grants_by_funder(df_only_found, years_in_data, num_of_grants_starte
         df_summary.at[curr_year, 'all funders grants %'] = round((len(df_temp)/num_of_grants_started[curr_year])*100,2)
 
     for funder in funders_in_data:
-        df_temp = df_only_found[df_only_found['fundingorgname'] == funder]
+        # All grants by this funder
+        df_funder = df[df['fundingorgname'] == funder]
+
+        # Get total number of grants started by this funder for each year (for percentage calculation)
+        funder_num_grants_started = get_total_grants(df_funder, years_in_data)
+
+        # Grants by this funder related to software
+        df_funder_sw = df_only_found[df_only_found['fundingorgname'] == funder]
+
+        # Get total grants count and percentage by year
         for curr_year in start_years:
-            df_funder_year = df_temp[df_temp['startdate'].dt.year == curr_year]
-            df_summary.loc[curr_year, str(funder) + ' grants count'] = len(df_funder_year)
-            df_summary.loc[curr_year, str(funder) +  ' grants %'] = round((len(df_funder_year)/num_of_grants_started[curr_year])*100,2)
+            df_funder_swyear = df_funder_sw[df_funder_sw['startdate'].dt.year == curr_year]
+            df_summary.loc[curr_year, str(funder) + ' grants count'] = len(df_funder_swyear)
+            if funder_num_grants_started[curr_year] > 0:
+                df_summary.loc[curr_year, str(funder) +  ' grants %'] = round((len(df_funder_swyear)/funder_num_grants_started[curr_year])*100,2)
 
     export_to_csv(df_summary, STOREFILENAME, 'software_grants_by_funder', index_write=True)
 
@@ -365,15 +377,15 @@ def get_software_grants_cost_by_funder(df_only_found, df, years_in_data, num_of_
             df_cost.loc[curr_year, str(funder) +  ' software spend %'] = round((sw_funder_spend/all_funder_spend)*100, 2)
 
     # Create and save bar charts for all funding over years Institute has existed until 2017
-    df_cost_sub = df_cost.loc[SSI_YEARS, 'all funders software spend']
+    df_cost_sub = df_cost.loc[SUBSET_YEARS, 'all funders software spend']
     save_bar_chart(df_cost_sub, 'Year', 'Spend (£)', 'software_spend_all', False)
 
     # As previously, but just for each funder
     for funder in funders_in_data:
-        df_cost_funder_sub = df_cost.loc[SSI_YEARS, funder + ' software spend']
+        df_cost_funder_sub = df_cost.loc[SUBSET_YEARS, funder + ' software spend']
         save_bar_chart(df_cost_funder_sub, 'Year', 'Spend (£)', 'software_spend_' + funder, False)
 
-    export_to_csv(df_cost, STOREFILENAME, 'yearly_software_grants_costs_by_funder', index_write=True)
+    export_to_csv(df_cost_sub, STOREFILENAME, 'yearly_software_grants_costs_by_funder', index_write=True)
 
     logger.info('Calculated yearly costs of software-related grants.')
 
@@ -382,37 +394,38 @@ def get_software_grants_cost_by_funder(df_only_found, df, years_in_data, num_of_
 
 def average_annual_spend_on_software(df_cost, years_in_data, funders_in_data):
 
-    # Only for the years we've been around
-    df_cost_sub = df_cost.loc[SSI_YEARS]
+    # Get average figures only for the years we're interested in
+    df_cost_sub = df_cost.loc[SUBSET_YEARS]
 
-    # Get all years contained in data
-    all_years = years_in_data['all_years']
+    # Date range for chart title
+    drange = str(SUBSET_YEARS[0]) + '-' + str(SUBSET_YEARS[-1])
 
     # Initialise
     df_av_cost = pd.DataFrame(index=funders_in_data)
 
     for funder in funders_in_data:
-        df_av_cost.loc[funder, 'Average spend (£) 2010-2017'] = df_cost_sub[funder + ' software spend'].mean()
+        # Calculate average spend on software for funder
+        df_av_cost.loc[funder, 'Average software spend (£) ' + drange] = df_cost_sub[funder + ' software spend'].sum() / len(SUBSET_YEARS)
 
-        # Determine overall average % of software spending
-        total_spend = df_cost_sub[funder + ' total spend'].mean()
-        total_sw_spend = df_cost_sub[funder + ' software spend'].mean()
-        df_av_cost.loc[funder, 'Average spend (% of all funding) 2010-2017'] = round((total_sw_spend/total_spend)*100, 2)
+        # Determine overall average % of software spending over the period
+        total_spend = df_cost_sub[funder + ' total spend'].sum()
+        total_sw_spend = df_cost_sub[funder + ' software spend'].sum()
+        df_av_cost.loc[funder, 'Average software spend (% of all funding) ' + drange] = round((total_sw_spend/total_spend)*100, 2)
 
     # Extract amount average column, sort, and plot
-    df_av_spend_amount = df_av_cost['Average spend (£) 2010-2017']
+    df_av_spend_amount = df_av_cost['Average software spend (£) ' + drange]
     df_av_spend_amount = df_av_spend_amount.sort_values(ascending=True)
-    save_bar_chart(df_av_spend_amount, 'Funder', 'Average spend (£) 2010-2017',
+    save_bar_chart(df_av_spend_amount, 'Funder', 'Average software spend (£) ' + drange,
         'software_spend_all_average_amount', False)
 
     # Extract % average column, sort, and plot
-    df_av_spend_pct = df_av_cost['Average spend (% of all funding) 2010-2017']
+    df_av_spend_pct = df_av_cost['Average software spend (% of all funding) ' + drange]
     df_av_spend_pct = df_av_spend_pct.sort_values(ascending=True)
-    save_bar_chart(df_av_spend_pct, 'Funder','Average spend (% of all funding) 2010-2017',
+    save_bar_chart(df_av_spend_pct, 'Funder','Average software spend (% of all funding) ' + drange,
         'software_spend_all_average_percent', True)
 
     # Sort overall costs and save
-    df_av_cost = df_av_cost.sort_values(by='Average spend (£) 2010-2017', ascending=True)
+    df_av_cost = df_av_cost.sort_values(by='Average software spend (£) ' + drange, ascending=True)
     export_to_csv(df_av_cost, STOREFILENAME, 'average_software_grants_costs_by_funder', index_write=True)
 
     logger.info('Calculated average costs of software-related grants.')
@@ -440,12 +453,12 @@ def search_term_popularity(df_only_found, keyword_list, funders_in_data):
         # Sort ascending by count and generate bar chart
         df_chart_funder = df_term_pop[funder + '_count'].sort_values(ascending=True)
 
-        save_bar_chart(df_chart_funder, 'Keyword', 'Search term count',
+        save_bar_chart(df_chart_funder, 'Keyword', 'Keyword count',
             'search_term_popularity_' + funder, False)
 
     df_term_pop['Total'] = df_term_pop.sum(axis=1)
     df_chart_term_pop = df_term_pop.sort_values(by='Total', ascending=True)
-    save_bar_chart(df_chart_term_pop['Total'], 'Keyword', 'Search term count',
+    save_bar_chart(df_chart_term_pop['Total'], 'Keyword', 'Keyword count',
         'search_term_popularity_all', False)
 
     export_to_csv(df_term_pop, STOREFILENAME, 'search_term_popularity_all', index_write=True)
@@ -494,7 +507,7 @@ def main():
     search_term_popularity(df_only_found, SEARCH_TERM_LIST, funders_in_data)
 
     # Split the data by funder
-    software_grants_by_funder(df_only_found, years_in_data, num_of_grants_started, funders_in_data)
+    software_grants_by_funder(df, df_only_found, years_in_data, num_of_grants_started, funders_in_data)
 
     # Find costs of software-related grants by year, per funder
     df_cost = get_software_grants_cost_by_funder(df_only_found, df, years_in_data, num_of_grants_started, funders_in_data)
