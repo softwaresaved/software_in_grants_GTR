@@ -42,7 +42,6 @@ SEARCH_TERM_LIST = [
     'python',
     'quantitative analysis',
     'r language',
-    'in r',
     'scrapy',
     'scipy',
     'simulated',
