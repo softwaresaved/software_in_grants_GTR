@@ -15,7 +15,6 @@ import matplotlib.pyplot as plt
 from search_terms import SEARCH_TERM_LIST
 
 
-#DATAFILENAME = "./data/gtr_data_titles_and_abs_testdata.csv"
 DATAFILENAME = "./data/gtr_data_titles_and_abs.csv"
 STOREFILENAME = "./output/"
 PNGSTOREFILENAME = "./output/png/"
@@ -387,7 +386,10 @@ def get_software_grants_cost_by_funder(df_only_found, df, years_in_data, num_of_
     # As previously, but just for each funder
     for funder in funders_in_data:
         df_cost_funder_sub = df_cost.loc[SUBSET_YEARS, funder + ' software spend']
-        save_bar_chart(df_cost_funder_sub, 'Year', 'Spend (£)', 'software_spend_' + funder, False)
+        save_bar_chart(df_cost_funder_sub, 'Year', funder + ' spend (£)', 'software_spend_' + funder, False)
+
+        df_cost_pct_sub = df_cost.loc[SUBSET_YEARS, funder + ' software spend %']
+        save_bar_chart(df_cost_pct_sub, 'Year', funder + ' spend (%)', 'software_spend_percent_' + funder, True)
 
     export_to_csv(df_cost, STOREFILENAME, 'yearly_all_grants_costs_by_funder', index_write=True)
     export_to_csv(df_cost_sub, STOREFILENAME, 'yearly_software_grants_costs_by_funder', index_write=True)
