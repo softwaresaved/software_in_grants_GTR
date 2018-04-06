@@ -2737,3 +2737,14 @@
 2018-03-29 15:39:39,130 - __main__ - INFO - Calculated summaries of data.
 2018-03-29 15:39:41,861 - __main__ - INFO - Calculated yearly costs of software-related grants.
 2018-03-29 15:39:42,365 - __main__ - INFO - Calculated average costs of software-related grants.
+2018-04-06 23:03:12,026 - __main__ - INFO - Imported df includes 43723 records
+2018-04-06 23:03:12,083 - __main__ - INFO - Converted dates into datetime format.
+2018-04-06 23:03:12,100 - __main__ - INFO - 123 records were dropped because the project started before the year 2000.
+2018-04-06 23:03:12,112 - __main__ - INFO - 458 records were dropped because the start date was recorded as later than the end date.
+2018-04-06 23:03:12,132 - __main__ - INFO - There are 28 years in the data
+2018-04-06 23:03:12,956 - __main__ - INFO - Calculated annual spend
+2018-04-06 23:09:32,908 - __main__ - INFO - Saved data on all grants related to software
+2018-04-06 23:09:39,196 - __main__ - INFO - Calculated search term popularity across search results.
+2018-04-06 23:09:40,290 - __main__ - INFO - Calculated summaries of data.
+2018-04-06 23:09:44,857 - __main__ - INFO - Calculated yearly costs of software-related grants.
+2018-04-06 23:09:45,374 - __main__ - INFO - Calculated average costs of software-related grants.
