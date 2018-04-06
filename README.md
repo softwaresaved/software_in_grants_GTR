@@ -10,7 +10,7 @@ In this study, I'll investigate the successful grant applications provided by [G
 
 ## Summary of process
 
-* Get summary data on all research grants from Gateay to Research from the "All Data" csv download [on this page](http://gtr.rcuk.ac.uk/search/project?term=*). Store this as ```projectsearch-1507107194469.csv.``` (the number will change with each subsesquent download.
+* Get summary data on all research grants from Gateay to Research from the "All Data" csv download [on this page](http://gtr.rcuk.ac.uk/search/project?term=*). Store this as ```projectsearch-1507107194469.csv``` (the number will change with each subsesquent download).
 * Download details of research grants as XML documents using code written by [Steve Crouch](https://github.com/softwaresaved/training-set-collector).
 * Combine summary data with titles and abstracts from XML data (```combine_gtr_data.py``` used for this purpose)
 * Analyse results in Python
