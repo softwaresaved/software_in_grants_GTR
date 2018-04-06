@@ -1,31 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9"><gtr:id>3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9</gtr:id><gtr:name>University of Oxford</gtr:name><gtr:address><gtr:line1>University Chest</gtr:line1><gtr:line2>Wellington Square</gtr:line2><gtr:line4>Oxford</gtr:line4><gtr:postCode>OX1 2JD</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/67B34D05-3A52-4A09-8FF9-F2398D60E246"><gtr:id>67B34D05-3A52-4A09-8FF9-F2398D60E246</gtr:id><gtr:name>University of Surrey</gtr:name><gtr:address><gtr:line1>Registry</gtr:line1><gtr:line2>Stag Hill</gtr:line2><gtr:line4>Guildford</gtr:line4><gtr:line5>Surrey</gtr:line5><gtr:postCode>GU2 7XH</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/D9939870-0A15-46FF-B96E-96B3335C4C99"><gtr:id>D9939870-0A15-46FF-B96E-96B3335C4C99</gtr:id><gtr:name>EDF</gtr:name><gtr:address><gtr:line1>6 Quai Watier</gtr:line1><gtr:postCode>F-78400</gtr:postCode><gtr:region>Unknown</gtr:region></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/2114D91F-8CBE-4BF7-B5AF-0BAB21079E2D"><gtr:id>2114D91F-8CBE-4BF7-B5AF-0BAB21079E2D</gtr:id><gtr:name>Culham Centre for Fusion Energy (CCFE)</gtr:name></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/AB307619-D4FA-427E-A042-09DBEBA84669"><gtr:id>AB307619-D4FA-427E-A042-09DBEBA84669</gtr:id><gtr:name>Swansea University</gtr:name><gtr:address><gtr:line1>Singleton Park</gtr:line1><gtr:postCode>SA2 8PP</gtr:postCode><gtr:region>Wales</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/2FE3080E-5150-49E7-9CD3-5893709829D1"><gtr:id>2FE3080E-5150-49E7-9CD3-5893709829D1</gtr:id><gtr:name>National Physical Laboratory (NPL)</gtr:name></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/9C5F5DCA-59E7-4987-AE32-A75A36944391"><gtr:id>9C5F5DCA-59E7-4987-AE32-A75A36944391</gtr:id><gtr:name>Nantes University</gtr:name><gtr:address><gtr:line1>Nantes University</gtr:line1><gtr:line2>1 Quai de Tourville</gtr:line2><gtr:line3>BP 13522</gtr:line3><gtr:line4>Nantes</gtr:line4><gtr:line5>F-44035</gtr:line5><gtr:region>Outside UK</gtr:region><gtr:country>France</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.rcuk.ac.uk:80/organisation/818CD6C9-61EE-41F2-9F37-0C7A8F43E25D"><gtr:id>818CD6C9-61EE-41F2-9F37-0C7A8F43E25D</gtr:id><gtr:name>University of Birmingham</gtr:name><gtr:address><gtr:line1>Edgbaston Park Road</gtr:line1><gtr:line2>Edgbaston</gtr:line2><gtr:postCode>B15 2TT</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator></gtr:collaborations><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/4A348A76-B2D0-4DDD-804A-CE735A6D3798"><gtr:id>4A348A76-B2D0-4DDD-804A-CE735A6D3798</gtr:id><gtr:name>University of Bristol</gtr:name><gtr:department>Interface Analysis Centre</gtr:department><gtr:address><gtr:line1>Senate House</gtr:line1><gtr:line4>Bristol</gtr:line4><gtr:line5>Avon</gtr:line5><gtr:postCode>BS8 1TH</gtr:postCode><gtr:region>South West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/4A348A76-B2D0-4DDD-804A-CE735A6D3798"><gtr:id>4A348A76-B2D0-4DDD-804A-CE735A6D3798</gtr:id><gtr:name>University of Bristol</gtr:name><gtr:address><gtr:line1>Senate House</gtr:line1><gtr:line4>Bristol</gtr:line4><gtr:line5>Avon</gtr:line5><gtr:postCode>BS8 1TH</gtr:postCode><gtr:region>South West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9"><gtr:id>3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9</gtr:id><gtr:name>University of Oxford</gtr:name><gtr:address><gtr:line1>University Chest</gtr:line1><gtr:line2>Wellington Square</gtr:line2><gtr:line4>Oxford</gtr:line4><gtr:postCode>OX1 2JD</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/67B34D05-3A52-4A09-8FF9-F2398D60E246"><gtr:id>67B34D05-3A52-4A09-8FF9-F2398D60E246</gtr:id><gtr:name>University of Surrey</gtr:name><gtr:address><gtr:line1>Registry</gtr:line1><gtr:line2>Stag Hill</gtr:line2><gtr:line4>Guildford</gtr:line4><gtr:line5>Surrey</gtr:line5><gtr:postCode>GU2 7XH</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/D9939870-0A15-46FF-B96E-96B3335C4C99"><gtr:id>D9939870-0A15-46FF-B96E-96B3335C4C99</gtr:id><gtr:name>EDF</gtr:name><gtr:address><gtr:line1>6 Quai Watier</gtr:line1><gtr:postCode>F-78400</gtr:postCode><gtr:region>Unknown</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/2114D91F-8CBE-4BF7-B5AF-0BAB21079E2D"><gtr:id>2114D91F-8CBE-4BF7-B5AF-0BAB21079E2D</gtr:id><gtr:name>Culham Centre for Fusion Energy (CCFE)</gtr:name><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/AB307619-D4FA-427E-A042-09DBEBA84669"><gtr:id>AB307619-D4FA-427E-A042-09DBEBA84669</gtr:id><gtr:name>Swansea University</gtr:name><gtr:address><gtr:line1>Singleton Park</gtr:line1><gtr:postCode>SA2 8PP</gtr:postCode><gtr:region>Wales</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/2FE3080E-5150-49E7-9CD3-5893709829D1"><gtr:id>2FE3080E-5150-49E7-9CD3-5893709829D1</gtr:id><gtr:name>National Physical Laboratory (NPL)</gtr:name><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/9C5F5DCA-59E7-4987-AE32-A75A36944391"><gtr:id>9C5F5DCA-59E7-4987-AE32-A75A36944391</gtr:id><gtr:name>Nantes University</gtr:name><gtr:address><gtr:line1>Nantes University</gtr:line1><gtr:line2>1 Quai de Tourville</gtr:line2><gtr:line3>BP 13522</gtr:line3><gtr:line4>Nantes</gtr:line4><gtr:line5>F-44035</gtr:line5><gtr:region>Outside UK</gtr:region><gtr:country>France</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/818CD6C9-61EE-41F2-9F37-0C7A8F43E25D"><gtr:id>818CD6C9-61EE-41F2-9F37-0C7A8F43E25D</gtr:id><gtr:name>University of Birmingham</gtr:name><gtr:address><gtr:line1>Edgbaston Park Road</gtr:line1><gtr:line2>Edgbaston</gtr:line2><gtr:postCode>B15 2TT</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/EE89E014-8B67-41B6-A234-4BE7B0516035"><gtr:id>EE89E014-8B67-41B6-A234-4BE7B0516035</gtr:id><gtr:firstName>John Frederick</gtr:firstName><gtr:surname>Knott</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/C402055A-9981-492B-A021-393DC5B7C43A"><gtr:id>C402055A-9981-492B-A021-393DC5B7C43A</gtr:id><gtr:firstName>Peter</gtr:firstName><gtr:surname>Flewitt</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/B174C2BD-C43F-42D4-8EF7-813E194B4C27"><gtr:id>B174C2BD-C43F-42D4-8EF7-813E194B4C27</gtr:id><gtr:firstName>Keith</gtr:firstName><gtr:otherNames>Richard</gtr:otherNames><gtr:surname>Hallam</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/9744A75C-9448-4688-B84B-7593C2CC0697"><gtr:id>9744A75C-9448-4688-B84B-7593C2CC0697</gtr:id><gtr:firstName>ANTON</gtr:firstName><gtr:surname>SHTERENLIKHT</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=EP%2FH006729%2F1"><gtr:id>BB9E4539-13DA-4E5B-A6A3-63AB3F37ED9A</gtr:id><gtr:title>An Experimental and Modelling Approach to Engineering the Stability of Mixed Micro- and Nano-Grain Size Polycrystals to Improve Durability</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/H006729/1</gtr:grantReference><gtr:abstractText>The focus of this research proposal is to understand and control fracture processes in anomalous bimodal grain sized microstructures in the micro to nano regime of selected fcc, bcc and hcp metals and alloys. The idea has been stimulated by previous work which showed that coarse grains arising from anomalous grain growth in a nanoscale grain matrix improved ductility with little strength-loss penalty. It is therefore worthwhile to pursue the novel endeavour of how these mixed grain distributions could influence deformation and fracture resistance. A key feature of the research strategy is that it is founded on a proven multidisciplinary approach involving a research consortium of four university groups who have individual expertise in a range of topics related to material performance. Working together has resulted in an enhanced skill set, endorsed by two previous EPSRC grants to the group.The aims of the project will be achieved by an experimental programme involving designing and characterising conditions to achieve the required anomalous growth spanning the micro to nano length scales, modelling the grain growth/fracture process, measuring the deformation and the fracture resistance of the anomalous mixed grain size materials. Regular meetings and interchange will ensure that the project benefits from the synergy within the group. The project has the enthusiastic backing of Integran Technologies Inc and British Energy Ltd (see appended letter of support).</gtr:abstractText><gtr:fund><gtr:end>2013-10-04</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2010-01-05</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>442297</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Surrey</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Internal project meetings 2011</gtr:description><gtr:id>A7A420E7-5A18-41E5-85C1-23A3140DF9D1</gtr:id><gtr:piContribution>20 January 2011 University of Bristol / University of Birmingham @Bristol
-
-J Darnbrough, J Knott, P Flewitt, S Mahalingam
-
-
-
-21 February 2011 University of Bristol / University of Surrey @Bristol
-
-A Crocker, G Smith, J Darnbrough, P Flewitt, S Mahalingam
-
-
-
-17 March 2011 University of Bristol / University of Birmingham @Bristol
-
-J Darnbrough, JF Knott, P Flewitt, S Mahalingam
-
-
-
-16 May 2011 University of Bristol / University of Birmingham @Bristol
-
-J Darnbrough, JF Knott, P Flewitt, S Mahalingam
-
-
-
-18 May 2011 University of Bristol / University of Swansea @Bristol
-
-J Darnbrough, M Coleman, P Flewitt, S Mahalingam, V Randle</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2011-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>EDF Energy</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Grain growth in AGR fuel sleeve stainless steel</gtr:description><gtr:id>C1FC2AA4-A578-4808-875D-A1F5D27E69B9</gtr:id><gtr:piContribution>Quantification of the grain coarsening arising from heat treatments of sleeve material. This information on grain coarsening provides a basis for establishing the long-term intergrity (over service life) of AGR fuel sleeves.</gtr:piContribution><gtr:sector>Private</gtr:sector><gtr:start>2012-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>Culham Centre for Fusion Energy (CCFE)</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Nano-hardness testing of nano-polycrystalline materials</gtr:description><gtr:id>0AE13D29-FE80-47A6-B66C-E7731D823537</gtr:id><gtr:piContribution>Hardness measurements undertaken to monitor thermal degradation of nano-polycrystalline nickel. Nano-scale hardness measurements undertaken to monitor grain coarsening occurring within nano-polycrystalline nickel when subject to thermal exposure.</gtr:piContribution><gtr:sector>Public</gtr:sector><gtr:start>2013-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>Swansea University</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Project progress meetings</gtr:description><gtr:id>60708AD7-FD94-4656-8D26-723CBC4C666C</gtr:id><gtr:piContribution>10 June 2010 University of Bristol / University of Birmingham / University of Surrey / Swansea University / British Energy @Bristol
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations><gtr:collaborator url="http://gtr.ukri.org:80/organisation/3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9"><gtr:id>3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9</gtr:id><gtr:name>University of Oxford</gtr:name><gtr:address><gtr:line1>University Chest</gtr:line1><gtr:line2>Wellington Square</gtr:line2><gtr:line4>Oxford</gtr:line4><gtr:postCode>OX1 2JD</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.ukri.org:80/organisation/67B34D05-3A52-4A09-8FF9-F2398D60E246"><gtr:id>67B34D05-3A52-4A09-8FF9-F2398D60E246</gtr:id><gtr:name>University of Surrey</gtr:name><gtr:address><gtr:line1>Registry</gtr:line1><gtr:line2>Stag Hill</gtr:line2><gtr:line4>Guildford</gtr:line4><gtr:line5>Surrey</gtr:line5><gtr:postCode>GU2 7XH</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.ukri.org:80/organisation/D9939870-0A15-46FF-B96E-96B3335C4C99"><gtr:id>D9939870-0A15-46FF-B96E-96B3335C4C99</gtr:id><gtr:name>EDF</gtr:name><gtr:address><gtr:line1>6 Quai Watier</gtr:line1><gtr:postCode>F-78400</gtr:postCode><gtr:region>Outside UK</gtr:region></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.ukri.org:80/organisation/7989ED9B-5D1A-4201-A8BD-AB943285E55A"><gtr:id>7989ED9B-5D1A-4201-A8BD-AB943285E55A</gtr:id><gtr:name>National Physical Laboratory NPL</gtr:name><gtr:address><gtr:line1>National Physical Laboratory</gtr:line1><gtr:line4>Teddington</gtr:line4><gtr:line5>Middlesex</gtr:line5><gtr:postCode>TW11 0LW</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.ukri.org:80/organisation/AB307619-D4FA-427E-A042-09DBEBA84669"><gtr:id>AB307619-D4FA-427E-A042-09DBEBA84669</gtr:id><gtr:name>Swansea University</gtr:name><gtr:address><gtr:line1>Singleton Park</gtr:line1><gtr:postCode>SA2 8PP</gtr:postCode><gtr:region>Wales</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.ukri.org:80/organisation/5840D2CE-6F2A-45CB-B51E-3FF1FD13AC90"><gtr:id>5840D2CE-6F2A-45CB-B51E-3FF1FD13AC90</gtr:id><gtr:name>Culham Centre for Fusion Energy</gtr:name></gtr:collaborator><gtr:collaborator url="http://gtr.ukri.org:80/organisation/9C5F5DCA-59E7-4987-AE32-A75A36944391"><gtr:id>9C5F5DCA-59E7-4987-AE32-A75A36944391</gtr:id><gtr:name>Nantes University</gtr:name><gtr:address><gtr:line1>Nantes University</gtr:line1><gtr:line2>1 Quai de Tourville</gtr:line2><gtr:line3>BP 13522</gtr:line3><gtr:line4>Nantes</gtr:line4><gtr:line5>F-44035</gtr:line5><gtr:region>Outside UK</gtr:region><gtr:country>France</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.ukri.org:80/organisation/818CD6C9-61EE-41F2-9F37-0C7A8F43E25D"><gtr:id>818CD6C9-61EE-41F2-9F37-0C7A8F43E25D</gtr:id><gtr:name>University of Birmingham</gtr:name><gtr:address><gtr:line1>Edgbaston Park Road</gtr:line1><gtr:line2>Edgbaston</gtr:line2><gtr:postCode>B15 2TT</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator></gtr:collaborations><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/4A348A76-B2D0-4DDD-804A-CE735A6D3798"><gtr:id>4A348A76-B2D0-4DDD-804A-CE735A6D3798</gtr:id><gtr:name>University of Bristol</gtr:name><gtr:department>Interface Analysis Centre</gtr:department><gtr:address><gtr:line1>Senate House</gtr:line1><gtr:line4>Bristol</gtr:line4><gtr:line5>Avon</gtr:line5><gtr:postCode>BS8 1TH</gtr:postCode><gtr:region>South West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/4A348A76-B2D0-4DDD-804A-CE735A6D3798"><gtr:id>4A348A76-B2D0-4DDD-804A-CE735A6D3798</gtr:id><gtr:name>University of Bristol</gtr:name><gtr:address><gtr:line1>Senate House</gtr:line1><gtr:line4>Bristol</gtr:line4><gtr:line5>Avon</gtr:line5><gtr:postCode>BS8 1TH</gtr:postCode><gtr:region>South West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9"><gtr:id>3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9</gtr:id><gtr:name>University of Oxford</gtr:name><gtr:address><gtr:line1>University Chest</gtr:line1><gtr:line2>Wellington Square</gtr:line2><gtr:line4>Oxford</gtr:line4><gtr:postCode>OX1 2JD</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/67B34D05-3A52-4A09-8FF9-F2398D60E246"><gtr:id>67B34D05-3A52-4A09-8FF9-F2398D60E246</gtr:id><gtr:name>University of Surrey</gtr:name><gtr:address><gtr:line1>Registry</gtr:line1><gtr:line2>Stag Hill</gtr:line2><gtr:line4>Guildford</gtr:line4><gtr:line5>Surrey</gtr:line5><gtr:postCode>GU2 7XH</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/D9939870-0A15-46FF-B96E-96B3335C4C99"><gtr:id>D9939870-0A15-46FF-B96E-96B3335C4C99</gtr:id><gtr:name>EDF</gtr:name><gtr:address><gtr:line1>6 Quai Watier</gtr:line1><gtr:postCode>F-78400</gtr:postCode><gtr:region>Outside UK</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/7989ED9B-5D1A-4201-A8BD-AB943285E55A"><gtr:id>7989ED9B-5D1A-4201-A8BD-AB943285E55A</gtr:id><gtr:name>National Physical Laboratory NPL</gtr:name><gtr:address><gtr:line1>National Physical Laboratory</gtr:line1><gtr:line4>Teddington</gtr:line4><gtr:line5>Middlesex</gtr:line5><gtr:postCode>TW11 0LW</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/AB307619-D4FA-427E-A042-09DBEBA84669"><gtr:id>AB307619-D4FA-427E-A042-09DBEBA84669</gtr:id><gtr:name>Swansea University</gtr:name><gtr:address><gtr:line1>Singleton Park</gtr:line1><gtr:postCode>SA2 8PP</gtr:postCode><gtr:region>Wales</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/5840D2CE-6F2A-45CB-B51E-3FF1FD13AC90"><gtr:id>5840D2CE-6F2A-45CB-B51E-3FF1FD13AC90</gtr:id><gtr:name>Culham Centre for Fusion Energy</gtr:name><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/9C5F5DCA-59E7-4987-AE32-A75A36944391"><gtr:id>9C5F5DCA-59E7-4987-AE32-A75A36944391</gtr:id><gtr:name>Nantes University</gtr:name><gtr:address><gtr:line1>Nantes University</gtr:line1><gtr:line2>1 Quai de Tourville</gtr:line2><gtr:line3>BP 13522</gtr:line3><gtr:line4>Nantes</gtr:line4><gtr:line5>F-44035</gtr:line5><gtr:region>Outside UK</gtr:region><gtr:country>France</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/818CD6C9-61EE-41F2-9F37-0C7A8F43E25D"><gtr:id>818CD6C9-61EE-41F2-9F37-0C7A8F43E25D</gtr:id><gtr:name>University of Birmingham</gtr:name><gtr:address><gtr:line1>Edgbaston Park Road</gtr:line1><gtr:line2>Edgbaston</gtr:line2><gtr:postCode>B15 2TT</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/EE89E014-8B67-41B6-A234-4BE7B0516035"><gtr:id>EE89E014-8B67-41B6-A234-4BE7B0516035</gtr:id><gtr:firstName>John Frederick</gtr:firstName><gtr:surname>Knott</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/C402055A-9981-492B-A021-393DC5B7C43A"><gtr:id>C402055A-9981-492B-A021-393DC5B7C43A</gtr:id><gtr:firstName>Peter</gtr:firstName><gtr:surname>Flewitt</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/B174C2BD-C43F-42D4-8EF7-813E194B4C27"><gtr:id>B174C2BD-C43F-42D4-8EF7-813E194B4C27</gtr:id><gtr:firstName>Keith</gtr:firstName><gtr:otherNames>Richard</gtr:otherNames><gtr:surname>Hallam</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/9744A75C-9448-4688-B84B-7593C2CC0697"><gtr:id>9744A75C-9448-4688-B84B-7593C2CC0697</gtr:id><gtr:firstName>ANTON</gtr:firstName><gtr:surname>SHTERENLIKHT</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=EP%2FH006729%2F1"><gtr:id>BB9E4539-13DA-4E5B-A6A3-63AB3F37ED9A</gtr:id><gtr:title>An Experimental and Modelling Approach to Engineering the Stability of Mixed Micro- and Nano-Grain Size Polycrystals to Improve Durability</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/H006729/1</gtr:grantReference><gtr:abstractText>The focus of this research proposal is to understand and control fracture processes in anomalous bimodal grain sized microstructures in the micro to nano regime of selected fcc, bcc and hcp metals and alloys. The idea has been stimulated by previous work which showed that coarse grains arising from anomalous grain growth in a nanoscale grain matrix improved ductility with little strength-loss penalty. It is therefore worthwhile to pursue the novel endeavour of how these mixed grain distributions could influence deformation and fracture resistance. A key feature of the research strategy is that it is founded on a proven multidisciplinary approach involving a research consortium of four university groups who have individual expertise in a range of topics related to material performance. Working together has resulted in an enhanced skill set, endorsed by two previous EPSRC grants to the group.The aims of the project will be achieved by an experimental programme involving designing and characterising conditions to achieve the required anomalous growth spanning the micro to nano length scales, modelling the grain growth/fracture process, measuring the deformation and the fracture resistance of the anomalous mixed grain size materials. Regular meetings and interchange will ensure that the project benefits from the synergy within the group. The project has the enthusiastic backing of Integran Technologies Inc and British Energy Ltd (see appended letter of support).</gtr:abstractText><gtr:fund><gtr:end>2013-10-04</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2010-01-05</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>442297</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs><gtr:collaborationOutput><gtr:collaboratingOrganisation>EDF Energy</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Project progress meetings</gtr:description><gtr:id>33273273-33CC-4447-AC08-B40939329740</gtr:id><gtr:outcomeId>b966c240b966c254-1</gtr:outcomeId><gtr:piContribution>10 June 2010 University of Bristol / University of Birmingham / University of Surrey / Swansea University / British Energy @Bristol
 
 
 
@@ -49,195 +23,7 @@ J Darnbrough, M Coleman, P Flewitt, S Mahalingam, V Randle</gtr:piContribution><
 
 
 
-27 June 2013 University of Bristol / University of Birmingham / University of Surrey / EDF Energy @Bristol</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2010-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>National Physical Laboratory (NPL)</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Isochronal temperature resistivity monitoring</gtr:description><gtr:id>1758F010-B5F7-4DD1-AFC1-6EE44FC17B95</gtr:id><gtr:piContribution>Grain coarsening of nano-polycrystalline material from the nano- to the micro-scale has been monitored using the electrical resistivity system developed by Dr Bryan Roebuck of NPL. This provided an independent and novel way of monitoring grain coarsening over change of three orders of magnitude.</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2011-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Birmingham</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Internal project meetings 2011</gtr:description><gtr:id>0590CDF7-93E2-41AF-89C9-0AE151BD4ECC</gtr:id><gtr:piContribution>20 January 2011 University of Bristol / University of Birmingham @Bristol
-
-J Darnbrough, J Knott, P Flewitt, S Mahalingam
-
-
-
-21 February 2011 University of Bristol / University of Surrey @Bristol
-
-A Crocker, G Smith, J Darnbrough, P Flewitt, S Mahalingam
-
-
-
-17 March 2011 University of Bristol / University of Birmingham @Bristol
-
-J Darnbrough, JF Knott, P Flewitt, S Mahalingam
-
-
-
-16 May 2011 University of Bristol / University of Birmingham @Bristol
-
-J Darnbrough, JF Knott, P Flewitt, S Mahalingam
-
-
-
-18 May 2011 University of Bristol / University of Swansea @Bristol
-
-J Darnbrough, M Coleman, P Flewitt, S Mahalingam, V Randle</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2011-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>EDF Energy</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Project progress meetings</gtr:description><gtr:id>BF735E98-4E61-4435-AA49-55FD0ED31374</gtr:id><gtr:piContribution>10 June 2010 University of Bristol / University of Birmingham / University of Surrey / Swansea University / British Energy @Bristol
-
-
-
-25 November 2010 University of Bristol / University of Birmingham / University of Surrey / Swansea University / British Energy @Bristol
-
-
-
-16 June 2011 University of Bristol / University of Birmingham / University of Surrey / Swansea University / EDF Energy @Bristol
-
-
-
-15 December 2011 University of Bristol / University of Birmingham / University of Surrey / Swansea University / EDF Energy @Bristol
-
-
-
-21 June 2012 University of Bristol / University of Birmingham / University of Surrey / Swansea University / EDF Energy @Bristol
-
-
-
-22 November 2012 University of Bristol / University of Birmingham / University of Surrey / Swansea University / EDF Energy @Bristol
-
-
-
-27 June 2013 University of Bristol / University of Birmingham / University of Surrey / EDF Energy @Bristol</gtr:piContribution><gtr:sector>Private</gtr:sector><gtr:start>2010-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Surrey</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Internal project meetings 2012 (part 2)</gtr:description><gtr:id>2A77595F-0AB5-43A0-A099-7D2160095C77</gtr:id><gtr:piContribution>16 July 2012 University of Bristol @Bristol
-
-P Flewitt, S Mahalingam, J Darnbrough, A Shterenlikht, J Philips
-
-
-
-19 July 2012 University of Bristol / University of Surrey @Bristol
-
-P Flewitt, S Mahalingam, J Darnbrough, A Shterenlikht, J Philips, A Crocker, G Smith
-
-
-
-03 August 2012 University of Bristol / University of Birmingham @Bristol
-
-J Knott, P Flewitt, S Mahalingam, J Darnbrough
-
-
-
-04 September 2012 University of Bristol / University of Surrey @Bristol
-
-P Flewitt, S Mahalingam, J Darnbrough, A Shterenlikht, J Philips, A Crocker, G Smith
-
-
-
-12 October 2012 University of Bristol / University of Surrey @Bristol
-
-P Flewitt, S Mahalingam, J Darnbrough, A Shterenlikht, J Philips, A Crocker, G Smith
-
-
-
-25 October 2012 University of Bristol / University of Birmingham @Bristol
-
-J Knott, P Flewitt, S Mahalingam, J Darnbrough
-
-
-
-13 November 2012 University of Bristol University of Surrey / Imperial College @Bristol
-
-P Flewitt, S Mahalingam, J Darnbrough, A Shterenlikht, J Philips, G Smith, M Aliabadi, I Benditi</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2012-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Birmingham</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Internal project meetings 2012 (part 2)</gtr:description><gtr:id>0BBC0D6C-CA1B-4EA5-B475-9B789149F3EF</gtr:id><gtr:piContribution>16 July 2012 University of Bristol @Bristol
-
-P Flewitt, S Mahalingam, J Darnbrough, A Shterenlikht, J Philips
-
-
-
-19 July 2012 University of Bristol / University of Surrey @Bristol
-
-P Flewitt, S Mahalingam, J Darnbrough, A Shterenlikht, J Philips, A Crocker, G Smith
-
-
-
-03 August 2012 University of Bristol / University of Birmingham @Bristol
-
-J Knott, P Flewitt, S Mahalingam, J Darnbrough
-
-
-
-04 September 2012 University of Bristol / University of Surrey @Bristol
-
-P Flewitt, S Mahalingam, J Darnbrough, A Shterenlikht, J Philips, A Crocker, G Smith
-
-
-
-12 October 2012 University of Bristol / University of Surrey @Bristol
-
-P Flewitt, S Mahalingam, J Darnbrough, A Shterenlikht, J Philips, A Crocker, G Smith
-
-
-
-25 October 2012 University of Bristol / University of Birmingham @Bristol
-
-J Knott, P Flewitt, S Mahalingam, J Darnbrough
-
-
-
-13 November 2012 University of Bristol University of Surrey / Imperial College @Bristol
-
-P Flewitt, S Mahalingam, J Darnbrough, A Shterenlikht, J Philips, G Smith, M Aliabadi, I Benditi</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2012-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Surrey</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Internal project meetings 2010</gtr:description><gtr:id>882B5E3E-54EF-4E42-AB5F-6C2CECD72A8F</gtr:id><gtr:piContribution>26 January 2010 University of Bristol / University of Birmingham @Bristol
-
-J Knott, P Flewitt, S Mahalingam
-
-
-
-26 February 2010 University of Bristol / University of Birmingham @Oxford
-
-J Knott, P Flewitt, S Mahalingam
-
-
-
-08 March 2010 University of Bristol / University of Surrey @Surrey
-
-A Crocker, A Shterenlikht, G Smith, P Flewitt, S Mahalingam
-
-
-
-19 March 2010 University of Bristol / University of Birmingham @Oxford
-
-J Knott, P Flewitt, S Mahalingam
-
-
-
-19 April 2010 University of Bristol / University of Birmingham @Cambridge
-
-J Knott, P Flewitt, S Mahalingam
-
-
-
-13 May 2010 University of Bristol / University of Swansea @Swansea
-
-M Coleman, P Flewitt, S Mahalingam
-
-
-
-18 May 2010 University of Bristol / University of Birmingham @Bristol
-
-J Knott, P Flewitt, S Mahalingam
-
-
-
-04 August 2010 University of Bristol / University of Birmingham @Birmingham
-
-J Knott, P Flewitt, S Mahalingam
-
-
-
-26 August 2010 University of Bristol / University of Surrey @Surrey
-
-A Crocker, G Smith, P Flewitt, S Mahalingam
-
-
-
-01 September 2010 University of Bristol / University of Birmingham @Bristol
-
-J Knott, P Flewitt, S Mahalingam
-
-
-
-01 November 2010 University of Bristol / University of Birmingham @Birmingham
-
-J Knott, S Mahalingam</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2010-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>Swansea University</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Internal project meetings 2012 (part 1)</gtr:description><gtr:id>A7D1E6CF-D289-489C-8691-DB127892BF00</gtr:id><gtr:piContribution>18 January 2012 University of Bristol / University of Surrey @Surrey
+27 June 2013 University of Bristol / University of Birmingham / University of Surrey / EDF Energy @Bristol</gtr:piContribution><gtr:sector>Private</gtr:sector><gtr:start>2010-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>Swansea University</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Internal project meetings 2012 (part 1)</gtr:description><gtr:id>06FBFC86-9766-44AF-A92F-2B1A20C1FEFB</gtr:id><gtr:outcomeId>b9727c98b9727cb6-1</gtr:outcomeId><gtr:piContribution>18 January 2012 University of Bristol / University of Surrey @Surrey
 
 P Flewitt, S Mahalingam, J Darnbrough, A Crocker, G Smith, A Shterenlikht, J Philips
 
@@ -281,7 +67,133 @@ P Flewitt, S Mahalingam, J Darnbrough, A Crocker, G Smith
 
 12 June 2012 University of Bristol @Bristol
 
-P Flewitt, S Mahalingam, J Darnbrough, A Shterenlikht, J Philips</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2012-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>Swansea University</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Internal project meetings 2010</gtr:description><gtr:id>D7680BF1-DEED-4B1A-BDEF-7F2C6A291D9B</gtr:id><gtr:piContribution>26 January 2010 University of Bristol / University of Birmingham @Bristol
+P Flewitt, S Mahalingam, J Darnbrough, A Shterenlikht, J Philips</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2012-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Surrey</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Internal project meetings 2012 (part 2)</gtr:description><gtr:id>4FF1CF43-D894-4D8F-B15D-27BC51257C81</gtr:id><gtr:outcomeId>b9717b90b9717ba4-1</gtr:outcomeId><gtr:piContribution>16 July 2012 University of Bristol @Bristol
+
+P Flewitt, S Mahalingam, J Darnbrough, A Shterenlikht, J Philips
+
+
+
+19 July 2012 University of Bristol / University of Surrey @Bristol
+
+P Flewitt, S Mahalingam, J Darnbrough, A Shterenlikht, J Philips, A Crocker, G Smith
+
+
+
+03 August 2012 University of Bristol / University of Birmingham @Bristol
+
+J Knott, P Flewitt, S Mahalingam, J Darnbrough
+
+
+
+04 September 2012 University of Bristol / University of Surrey @Bristol
+
+P Flewitt, S Mahalingam, J Darnbrough, A Shterenlikht, J Philips, A Crocker, G Smith
+
+
+
+12 October 2012 University of Bristol / University of Surrey @Bristol
+
+P Flewitt, S Mahalingam, J Darnbrough, A Shterenlikht, J Philips, A Crocker, G Smith
+
+
+
+25 October 2012 University of Bristol / University of Birmingham @Bristol
+
+J Knott, P Flewitt, S Mahalingam, J Darnbrough
+
+
+
+13 November 2012 University of Bristol University of Surrey / Imperial College @Bristol
+
+P Flewitt, S Mahalingam, J Darnbrough, A Shterenlikht, J Philips, G Smith, M Aliabadi, I Benditi</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2012-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Birmingham</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Internal project meetings 2012 (part 2)</gtr:description><gtr:id>84444D14-DAC4-4905-9583-8C0AF2825FB9</gtr:id><gtr:outcomeId>b9717906b971791a-1</gtr:outcomeId><gtr:piContribution>16 July 2012 University of Bristol @Bristol
+
+P Flewitt, S Mahalingam, J Darnbrough, A Shterenlikht, J Philips
+
+
+
+19 July 2012 University of Bristol / University of Surrey @Bristol
+
+P Flewitt, S Mahalingam, J Darnbrough, A Shterenlikht, J Philips, A Crocker, G Smith
+
+
+
+03 August 2012 University of Bristol / University of Birmingham @Bristol
+
+J Knott, P Flewitt, S Mahalingam, J Darnbrough
+
+
+
+04 September 2012 University of Bristol / University of Surrey @Bristol
+
+P Flewitt, S Mahalingam, J Darnbrough, A Shterenlikht, J Philips, A Crocker, G Smith
+
+
+
+12 October 2012 University of Bristol / University of Surrey @Bristol
+
+P Flewitt, S Mahalingam, J Darnbrough, A Shterenlikht, J Philips, A Crocker, G Smith
+
+
+
+25 October 2012 University of Bristol / University of Birmingham @Bristol
+
+J Knott, P Flewitt, S Mahalingam, J Darnbrough
+
+
+
+13 November 2012 University of Bristol University of Surrey / Imperial College @Bristol
+
+P Flewitt, S Mahalingam, J Darnbrough, A Shterenlikht, J Philips, G Smith, M Aliabadi, I Benditi</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2012-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Oxford</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Measurement of local composition variations within nano-polycrystalline nickel</gtr:description><gtr:id>0721BC7A-6D0C-41F2-B8F5-4C0FC812A5EB</gtr:id><gtr:outcomeId>b9716b50b9716b64-1</gtr:outcomeId><gtr:piContribution>Measurements undertaken of the distribution of sulphur between nano- and micro-scale polycrystalline nickel. Measurement of local segregation to grain boundaries in nano-polycrystalline nickel and nickel-iron alloys.</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2011-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Birmingham</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Internal project meetings 2011</gtr:description><gtr:id>60C2BA67-FBE9-4B70-AA40-312FC68F5389</gtr:id><gtr:outcomeId>b9734ae2b9734af6-1</gtr:outcomeId><gtr:piContribution>20 January 2011 University of Bristol / University of Birmingham @Bristol
+
+J Darnbrough, J Knott, P Flewitt, S Mahalingam
+
+
+
+21 February 2011 University of Bristol / University of Surrey @Bristol
+
+A Crocker, G Smith, J Darnbrough, P Flewitt, S Mahalingam
+
+
+
+17 March 2011 University of Bristol / University of Birmingham @Bristol
+
+J Darnbrough, JF Knott, P Flewitt, S Mahalingam
+
+
+
+16 May 2011 University of Bristol / University of Birmingham @Bristol
+
+J Darnbrough, JF Knott, P Flewitt, S Mahalingam
+
+
+
+18 May 2011 University of Bristol / University of Swansea @Bristol
+
+J Darnbrough, M Coleman, P Flewitt, S Mahalingam, V Randle</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2011-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>National Physical Laboratory</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Isochronal temperature resistivity monitoring</gtr:description><gtr:id>1229FEBE-D24C-4B6F-979B-8C424EF676D1</gtr:id><gtr:outcomeId>b966cddab966cdee-1</gtr:outcomeId><gtr:piContribution>Grain coarsening of nano-polycrystalline material from the nano- to the micro-scale has been monitored using the electrical resistivity system developed by Dr Bryan Roebuck of NPL. This provided an independent and novel way of monitoring grain coarsening over change of three orders of magnitude.</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2011-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Surrey</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Project progress meetings</gtr:description><gtr:id>6EAD6553-DC86-4CB0-BEE9-115565FED920</gtr:id><gtr:outcomeId>b966bd4ab966bd68-1</gtr:outcomeId><gtr:piContribution>10 June 2010 University of Bristol / University of Birmingham / University of Surrey / Swansea University / British Energy @Bristol
+
+
+
+25 November 2010 University of Bristol / University of Birmingham / University of Surrey / Swansea University / British Energy @Bristol
+
+
+
+16 June 2011 University of Bristol / University of Birmingham / University of Surrey / Swansea University / EDF Energy @Bristol
+
+
+
+15 December 2011 University of Bristol / University of Birmingham / University of Surrey / Swansea University / EDF Energy @Bristol
+
+
+
+21 June 2012 University of Bristol / University of Birmingham / University of Surrey / Swansea University / EDF Energy @Bristol
+
+
+
+22 November 2012 University of Bristol / University of Birmingham / University of Surrey / Swansea University / EDF Energy @Bristol
+
+
+
+27 June 2013 University of Bristol / University of Birmingham / University of Surrey / EDF Energy @Bristol</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2010-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>Culham Centre for Fusion Energy</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Nano-hardness testing of nano-polycrystalline materials</gtr:description><gtr:id>6B9C6429-1DD3-4301-8713-BAAFEF884504</gtr:id><gtr:outcomeId>b9704a4ab9704a5e-1</gtr:outcomeId><gtr:piContribution>Hardness measurements undertaken to monitor thermal degradation of nano-polycrystalline nickel. Nano-scale hardness measurements undertaken to monitor grain coarsening occurring within nano-polycrystalline nickel when subject to thermal exposure.</gtr:piContribution><gtr:sector>Public</gtr:sector><gtr:start>2013-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Nantes</gtr:collaboratingOrganisation><gtr:country>France, French Republic</gtr:country><gtr:description>Hot stage microscopy to monitor grain coarsening of nano-polycrystalline nickel</gtr:description><gtr:id>BC3A8B15-DC07-4A08-8B98-AC957AB1D301</gtr:id><gtr:outcomeId>b966d78ab966d79e-1</gtr:outcomeId><gtr:piContribution>A novel electron-optical technique has been used to monitor grain coarsening of nano-polycrystalline nickel. This has provided further information to support the underlying mechanism leading to the formation and growth of abnormal grains in nano-polycrystalline nickel.</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2013-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>Swansea University</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Internal project meetings 2010</gtr:description><gtr:id>57B9F87E-69F2-4E16-B660-88E426BB63CC</gtr:id><gtr:outcomeId>b973cd6eb973cd8c-1</gtr:outcomeId><gtr:piContribution>26 January 2010 University of Bristol / University of Birmingham @Bristol
 
 J Knott, P Flewitt, S Mahalingam
 
@@ -343,7 +255,31 @@ J Knott, P Flewitt, S Mahalingam
 
 01 November 2010 University of Bristol / University of Birmingham @Birmingham
 
-J Knott, S Mahalingam</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2010-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Birmingham</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Internal project meetings 2012 (part 1)</gtr:description><gtr:id>C43CE31B-7C4A-4B7F-A258-F1CAA46E282C</gtr:id><gtr:piContribution>18 January 2012 University of Bristol / University of Surrey @Surrey
+J Knott, S Mahalingam</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2010-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>EDF Energy</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Project progress meetings</gtr:description><gtr:id>85644E9C-AFE6-42C9-AB16-ED25F980A9E7</gtr:id><gtr:outcomeId>b966c100b966c114-1</gtr:outcomeId><gtr:piContribution>10 June 2010 University of Bristol / University of Birmingham / University of Surrey / Swansea University / British Energy @Bristol
+
+
+
+25 November 2010 University of Bristol / University of Birmingham / University of Surrey / Swansea University / British Energy @Bristol
+
+
+
+16 June 2011 University of Bristol / University of Birmingham / University of Surrey / Swansea University / EDF Energy @Bristol
+
+
+
+15 December 2011 University of Bristol / University of Birmingham / University of Surrey / Swansea University / EDF Energy @Bristol
+
+
+
+21 June 2012 University of Bristol / University of Birmingham / University of Surrey / Swansea University / EDF Energy @Bristol
+
+
+
+22 November 2012 University of Bristol / University of Birmingham / University of Surrey / Swansea University / EDF Energy @Bristol
+
+
+
+27 June 2013 University of Bristol / University of Birmingham / University of Surrey / EDF Energy @Bristol</gtr:piContribution><gtr:sector>Private</gtr:sector><gtr:start>2010-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Surrey</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Internal project meetings 2012 (part 1)</gtr:description><gtr:id>8D266221-1C7E-46E4-93EC-16BA88713E19</gtr:id><gtr:outcomeId>b97277cab97277de-1</gtr:outcomeId><gtr:piContribution>18 January 2012 University of Bristol / University of Surrey @Surrey
 
 P Flewitt, S Mahalingam, J Darnbrough, A Crocker, G Smith, A Shterenlikht, J Philips
 
@@ -387,167 +323,7 @@ P Flewitt, S Mahalingam, J Darnbrough, A Crocker, G Smith
 
 12 June 2012 University of Bristol @Bristol
 
-P Flewitt, S Mahalingam, J Darnbrough, A Shterenlikht, J Philips</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2012-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Surrey</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Project progress meetings</gtr:description><gtr:id>0506EE08-6D83-45F2-89C3-8B177DE808F7</gtr:id><gtr:piContribution>10 June 2010 University of Bristol / University of Birmingham / University of Surrey / Swansea University / British Energy @Bristol
-
-
-
-25 November 2010 University of Bristol / University of Birmingham / University of Surrey / Swansea University / British Energy @Bristol
-
-
-
-16 June 2011 University of Bristol / University of Birmingham / University of Surrey / Swansea University / EDF Energy @Bristol
-
-
-
-15 December 2011 University of Bristol / University of Birmingham / University of Surrey / Swansea University / EDF Energy @Bristol
-
-
-
-21 June 2012 University of Bristol / University of Birmingham / University of Surrey / Swansea University / EDF Energy @Bristol
-
-
-
-22 November 2012 University of Bristol / University of Birmingham / University of Surrey / Swansea University / EDF Energy @Bristol
-
-
-
-27 June 2013 University of Bristol / University of Birmingham / University of Surrey / EDF Energy @Bristol</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2010-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Birmingham</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Project progress meetings</gtr:description><gtr:id>C2490209-38F1-41FF-B388-3BD1B86D3ED3</gtr:id><gtr:piContribution>10 June 2010 University of Bristol / University of Birmingham / University of Surrey / Swansea University / British Energy @Bristol
-
-
-
-25 November 2010 University of Bristol / University of Birmingham / University of Surrey / Swansea University / British Energy @Bristol
-
-
-
-16 June 2011 University of Bristol / University of Birmingham / University of Surrey / Swansea University / EDF Energy @Bristol
-
-
-
-15 December 2011 University of Bristol / University of Birmingham / University of Surrey / Swansea University / EDF Energy @Bristol
-
-
-
-21 June 2012 University of Bristol / University of Birmingham / University of Surrey / Swansea University / EDF Energy @Bristol
-
-
-
-22 November 2012 University of Bristol / University of Birmingham / University of Surrey / Swansea University / EDF Energy @Bristol
-
-
-
-27 June 2013 University of Bristol / University of Birmingham / University of Surrey / EDF Energy @Bristol</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2010-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Birmingham</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Internal project meetings 2010</gtr:description><gtr:id>70721C89-87DE-4930-BC42-295DB2B6141A</gtr:id><gtr:piContribution>26 January 2010 University of Bristol / University of Birmingham @Bristol
-
-J Knott, P Flewitt, S Mahalingam
-
-
-
-26 February 2010 University of Bristol / University of Birmingham @Oxford
-
-J Knott, P Flewitt, S Mahalingam
-
-
-
-08 March 2010 University of Bristol / University of Surrey @Surrey
-
-A Crocker, A Shterenlikht, G Smith, P Flewitt, S Mahalingam
-
-
-
-19 March 2010 University of Bristol / University of Birmingham @Oxford
-
-J Knott, P Flewitt, S Mahalingam
-
-
-
-19 April 2010 University of Bristol / University of Birmingham @Cambridge
-
-J Knott, P Flewitt, S Mahalingam
-
-
-
-13 May 2010 University of Bristol / University of Swansea @Swansea
-
-M Coleman, P Flewitt, S Mahalingam
-
-
-
-18 May 2010 University of Bristol / University of Birmingham @Bristol
-
-J Knott, P Flewitt, S Mahalingam
-
-
-
-04 August 2010 University of Bristol / University of Birmingham @Birmingham
-
-J Knott, P Flewitt, S Mahalingam
-
-
-
-26 August 2010 University of Bristol / University of Surrey @Surrey
-
-A Crocker, G Smith, P Flewitt, S Mahalingam
-
-
-
-01 September 2010 University of Bristol / University of Birmingham @Bristol
-
-J Knott, P Flewitt, S Mahalingam
-
-
-
-01 November 2010 University of Bristol / University of Birmingham @Birmingham
-
-J Knott, S Mahalingam</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2010-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Nantes</gtr:collaboratingOrganisation><gtr:country>France, French Republic</gtr:country><gtr:description>Hot stage microscopy to monitor grain coarsening of nano-polycrystalline nickel</gtr:description><gtr:id>FF6FABD4-491C-4C9D-8D36-47BC6E076EB4</gtr:id><gtr:piContribution>A novel electron-optical technique has been used to monitor grain coarsening of nano-polycrystalline nickel. This has provided further information to support the underlying mechanism leading to the formation and growth of abnormal grains in nano-polycrystalline nickel.</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2013-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Oxford</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Measurement of local composition variations within nano-polycrystalline nickel</gtr:description><gtr:id>A6556A8A-2061-4728-9CAA-C061F4F04E71</gtr:id><gtr:piContribution>Measurements undertaken of the distribution of sulphur between nano- and micro-scale polycrystalline nickel. Measurement of local segregation to grain boundaries in nano-polycrystalline nickel and nickel-iron alloys.</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2011-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>EDF Energy</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Project progress meetings</gtr:description><gtr:id>43FEAC41-05B2-458D-8869-B1E7DF77FCEB</gtr:id><gtr:piContribution>10 June 2010 University of Bristol / University of Birmingham / University of Surrey / Swansea University / British Energy @Bristol
-
-
-
-25 November 2010 University of Bristol / University of Birmingham / University of Surrey / Swansea University / British Energy @Bristol
-
-
-
-16 June 2011 University of Bristol / University of Birmingham / University of Surrey / Swansea University / EDF Energy @Bristol
-
-
-
-15 December 2011 University of Bristol / University of Birmingham / University of Surrey / Swansea University / EDF Energy @Bristol
-
-
-
-21 June 2012 University of Bristol / University of Birmingham / University of Surrey / Swansea University / EDF Energy @Bristol
-
-
-
-22 November 2012 University of Bristol / University of Birmingham / University of Surrey / Swansea University / EDF Energy @Bristol
-
-
-
-27 June 2013 University of Bristol / University of Birmingham / University of Surrey / EDF Energy @Bristol</gtr:piContribution><gtr:sector>Private</gtr:sector><gtr:start>2010-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>Swansea University</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Internal project meetings 2011</gtr:description><gtr:id>11F7EAD9-92CC-45DC-B97D-5B722E5F19F8</gtr:id><gtr:piContribution>20 January 2011 University of Bristol / University of Birmingham @Bristol
-
-J Darnbrough, J Knott, P Flewitt, S Mahalingam
-
-
-
-21 February 2011 University of Bristol / University of Surrey @Bristol
-
-A Crocker, G Smith, J Darnbrough, P Flewitt, S Mahalingam
-
-
-
-17 March 2011 University of Bristol / University of Birmingham @Bristol
-
-J Darnbrough, JF Knott, P Flewitt, S Mahalingam
-
-
-
-16 May 2011 University of Bristol / University of Birmingham @Bristol
-
-J Darnbrough, JF Knott, P Flewitt, S Mahalingam
-
-
-
-18 May 2011 University of Bristol / University of Swansea @Bristol
-
-J Darnbrough, M Coleman, P Flewitt, S Mahalingam, V Randle</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2011-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Surrey</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Internal project meetings 2013</gtr:description><gtr:id>5FD4C2F8-AE70-4A08-AA5B-B972EA9B4E1E</gtr:id><gtr:piContribution>25 January 2013 University of Bristol / University of Surrey @Bristol
+P Flewitt, S Mahalingam, J Darnbrough, A Shterenlikht, J Philips</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2012-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Surrey</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Internal project meetings 2013</gtr:description><gtr:id>2DA078ED-B256-4AE6-A5EF-A76D15EFF51C</gtr:id><gtr:outcomeId>b9665292b96652b0-1</gtr:outcomeId><gtr:piContribution>25 January 2013 University of Bristol / University of Surrey @Bristol
 
 P Flewitt, A Crocker, G Smith
 
@@ -567,7 +343,231 @@ J Knott, P Flewitt, J Darnbrough
 
 22 April 2013 University of Bristol / University of Birmingham @Bristol
 
-J Knott, P Flewitt, J Darnbrough</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2013-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Surrey</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Internal project meetings 2012 (part 1)</gtr:description><gtr:id>2F77ED9D-7DCE-49DA-980A-673236B899D1</gtr:id><gtr:piContribution>18 January 2012 University of Bristol / University of Surrey @Surrey
+J Knott, P Flewitt, J Darnbrough</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2013-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Birmingham</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Project progress meetings</gtr:description><gtr:id>8B2CA62B-910B-448F-ADF8-CDEF6B38D981</gtr:id><gtr:outcomeId>b966bad4b966bae8-1</gtr:outcomeId><gtr:piContribution>10 June 2010 University of Bristol / University of Birmingham / University of Surrey / Swansea University / British Energy @Bristol
+
+
+
+25 November 2010 University of Bristol / University of Birmingham / University of Surrey / Swansea University / British Energy @Bristol
+
+
+
+16 June 2011 University of Bristol / University of Birmingham / University of Surrey / Swansea University / EDF Energy @Bristol
+
+
+
+15 December 2011 University of Bristol / University of Birmingham / University of Surrey / Swansea University / EDF Energy @Bristol
+
+
+
+21 June 2012 University of Bristol / University of Birmingham / University of Surrey / Swansea University / EDF Energy @Bristol
+
+
+
+22 November 2012 University of Bristol / University of Birmingham / University of Surrey / Swansea University / EDF Energy @Bristol
+
+
+
+27 June 2013 University of Bristol / University of Birmingham / University of Surrey / EDF Energy @Bristol</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2010-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Surrey</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Internal project meetings 2010</gtr:description><gtr:id>A58089B5-9D46-4A4C-9E5B-79CDD8A0E3E4</gtr:id><gtr:outcomeId>b973c846b973c864-1</gtr:outcomeId><gtr:piContribution>26 January 2010 University of Bristol / University of Birmingham @Bristol
+
+J Knott, P Flewitt, S Mahalingam
+
+
+
+26 February 2010 University of Bristol / University of Birmingham @Oxford
+
+J Knott, P Flewitt, S Mahalingam
+
+
+
+08 March 2010 University of Bristol / University of Surrey @Surrey
+
+A Crocker, A Shterenlikht, G Smith, P Flewitt, S Mahalingam
+
+
+
+19 March 2010 University of Bristol / University of Birmingham @Oxford
+
+J Knott, P Flewitt, S Mahalingam
+
+
+
+19 April 2010 University of Bristol / University of Birmingham @Cambridge
+
+J Knott, P Flewitt, S Mahalingam
+
+
+
+13 May 2010 University of Bristol / University of Swansea @Swansea
+
+M Coleman, P Flewitt, S Mahalingam
+
+
+
+18 May 2010 University of Bristol / University of Birmingham @Bristol
+
+J Knott, P Flewitt, S Mahalingam
+
+
+
+04 August 2010 University of Bristol / University of Birmingham @Birmingham
+
+J Knott, P Flewitt, S Mahalingam
+
+
+
+26 August 2010 University of Bristol / University of Surrey @Surrey
+
+A Crocker, G Smith, P Flewitt, S Mahalingam
+
+
+
+01 September 2010 University of Bristol / University of Birmingham @Bristol
+
+J Knott, P Flewitt, S Mahalingam
+
+
+
+01 November 2010 University of Bristol / University of Birmingham @Birmingham
+
+J Knott, S Mahalingam</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2010-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Birmingham</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Internal project meetings 2010</gtr:description><gtr:id>3891CF51-5936-4F5F-93AE-89BF5D730C7A</gtr:id><gtr:outcomeId>b973c5d0b973c5e4-1</gtr:outcomeId><gtr:piContribution>26 January 2010 University of Bristol / University of Birmingham @Bristol
+
+J Knott, P Flewitt, S Mahalingam
+
+
+
+26 February 2010 University of Bristol / University of Birmingham @Oxford
+
+J Knott, P Flewitt, S Mahalingam
+
+
+
+08 March 2010 University of Bristol / University of Surrey @Surrey
+
+A Crocker, A Shterenlikht, G Smith, P Flewitt, S Mahalingam
+
+
+
+19 March 2010 University of Bristol / University of Birmingham @Oxford
+
+J Knott, P Flewitt, S Mahalingam
+
+
+
+19 April 2010 University of Bristol / University of Birmingham @Cambridge
+
+J Knott, P Flewitt, S Mahalingam
+
+
+
+13 May 2010 University of Bristol / University of Swansea @Swansea
+
+M Coleman, P Flewitt, S Mahalingam
+
+
+
+18 May 2010 University of Bristol / University of Birmingham @Bristol
+
+J Knott, P Flewitt, S Mahalingam
+
+
+
+04 August 2010 University of Bristol / University of Birmingham @Birmingham
+
+J Knott, P Flewitt, S Mahalingam
+
+
+
+26 August 2010 University of Bristol / University of Surrey @Surrey
+
+A Crocker, G Smith, P Flewitt, S Mahalingam
+
+
+
+01 September 2010 University of Bristol / University of Birmingham @Bristol
+
+J Knott, P Flewitt, S Mahalingam
+
+
+
+01 November 2010 University of Bristol / University of Birmingham @Birmingham
+
+J Knott, S Mahalingam</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2010-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Surrey</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Internal project meetings 2011</gtr:description><gtr:id>23B543D6-92DB-4851-BF7D-049CA657DC18</gtr:id><gtr:outcomeId>b9734d6cb9734d80-1</gtr:outcomeId><gtr:piContribution>20 January 2011 University of Bristol / University of Birmingham @Bristol
+
+J Darnbrough, J Knott, P Flewitt, S Mahalingam
+
+
+
+21 February 2011 University of Bristol / University of Surrey @Bristol
+
+A Crocker, G Smith, J Darnbrough, P Flewitt, S Mahalingam
+
+
+
+17 March 2011 University of Bristol / University of Birmingham @Bristol
+
+J Darnbrough, JF Knott, P Flewitt, S Mahalingam
+
+
+
+16 May 2011 University of Bristol / University of Birmingham @Bristol
+
+J Darnbrough, JF Knott, P Flewitt, S Mahalingam
+
+
+
+18 May 2011 University of Bristol / University of Swansea @Bristol
+
+J Darnbrough, M Coleman, P Flewitt, S Mahalingam, V Randle</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2011-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>Swansea University</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Internal project meetings 2011</gtr:description><gtr:id>A14F9075-F56B-4620-A2E2-A37C79DED860</gtr:id><gtr:outcomeId>b9734ea2b9734eb6-1</gtr:outcomeId><gtr:piContribution>20 January 2011 University of Bristol / University of Birmingham @Bristol
+
+J Darnbrough, J Knott, P Flewitt, S Mahalingam
+
+
+
+21 February 2011 University of Bristol / University of Surrey @Bristol
+
+A Crocker, G Smith, J Darnbrough, P Flewitt, S Mahalingam
+
+
+
+17 March 2011 University of Bristol / University of Birmingham @Bristol
+
+J Darnbrough, JF Knott, P Flewitt, S Mahalingam
+
+
+
+16 May 2011 University of Bristol / University of Birmingham @Bristol
+
+J Darnbrough, JF Knott, P Flewitt, S Mahalingam
+
+
+
+18 May 2011 University of Bristol / University of Swansea @Bristol
+
+J Darnbrough, M Coleman, P Flewitt, S Mahalingam, V Randle</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2011-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>Swansea University</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Project progress meetings</gtr:description><gtr:id>DA45787D-1769-4C8B-9BAA-22F84A31585C</gtr:id><gtr:outcomeId>b966be94b966bea8-1</gtr:outcomeId><gtr:piContribution>10 June 2010 University of Bristol / University of Birmingham / University of Surrey / Swansea University / British Energy @Bristol
+
+
+
+25 November 2010 University of Bristol / University of Birmingham / University of Surrey / Swansea University / British Energy @Bristol
+
+
+
+16 June 2011 University of Bristol / University of Birmingham / University of Surrey / Swansea University / EDF Energy @Bristol
+
+
+
+15 December 2011 University of Bristol / University of Birmingham / University of Surrey / Swansea University / EDF Energy @Bristol
+
+
+
+21 June 2012 University of Bristol / University of Birmingham / University of Surrey / Swansea University / EDF Energy @Bristol
+
+
+
+22 November 2012 University of Bristol / University of Birmingham / University of Surrey / Swansea University / EDF Energy @Bristol
+
+
+
+27 June 2013 University of Bristol / University of Birmingham / University of Surrey / EDF Energy @Bristol</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2010-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Birmingham</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Internal project meetings 2012 (part 1)</gtr:description><gtr:id>4F1370CC-03FA-4C29-BF7D-95C5B1C53F93</gtr:id><gtr:outcomeId>b9727a40b9727a54-1</gtr:outcomeId><gtr:piContribution>18 January 2012 University of Bristol / University of Surrey @Surrey
 
 P Flewitt, S Mahalingam, J Darnbrough, A Crocker, G Smith, A Shterenlikht, J Philips
 
@@ -611,4 +611,6 @@ P Flewitt, S Mahalingam, J Darnbrough, A Crocker, G Smith
 
 12 June 2012 University of Bristol @Bristol
 
-P Flewitt, S Mahalingam, J Darnbrough, A Shterenlikht, J Philips</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2012-01-01</gtr:start></gtr:collaborationOutput></gtr:collaborationOutputs><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>Objective 1. To investigate the parameters that control the evolution of grain size distribution in polycrystalline metals in the micro- to nano-grain size range, with a view to the establishment and characterisation of bimodal grain size distributions (Swansea and Bristol, including contributions from Professor Knott). An experimental study addressing the effect of tensile deformation on recrystallised grain size has been undertaken to explore the conditions leading to abnormal grain growth in: i) Type 316H austenitic stainless steel; ii) Micro-scale polycrystalline nickel; iii) Polycrystalline ferritic steel; and iv) Nuclear fuel clad stainless steel. Each was subject to a solution heat treatment followed by tensile deformations up to a maximum of approximately 50% strain and then a recrystallisation heat treatment. In each case, abnormally large grains were observed following prior strains of between 15 and 20%. The 2D and 3D grain size measurements were presented in terms of standard statistical analysis and simple graphical presentations to provide clear, visual appreciations of uni and bimodal distributions. This approach may be of general help in other analyses of this nature. The outputs from this objective have been linked to the modelling undertaken within Objective 2. In addition, there will be further discussions with EDF Energy to consider the implications of abnormal grain coarsening on the fabrication route, heat treatment and exposure during operation of fuel clad materials. In the case of the nano-scale nickel, two sources have been considered, with higher and lower impurity sulphur content. In the case of the higher impurity sulphur content, thermal ageing over the temperature range 350 to 600degC led to grain coarsening up to a size of ~500nm, at which point grain size stagnation occurred. At temperatures above 485degC, stagnation was followed by anomalous grain growth, whereby grains were formed with planar facets. The crystallography of these facets related to the growing grain rather than the normal, polyhedral geometry arising from energy balance of the boundary with adjacent grains. It has been proposed that the formation and growth of the abnormal grains is a result of a critical amount of impurity sulphur segregating to the boundaries, leading to a change in growth mechanism. The sulphur atoms weaken Ni-Ni bonds, allowing nickel atoms to move in the boundary volume at temperatures above 485degC uncorrelated to the lattice, resulting in an uninhibited ledge-type growth to produce the abnormal grains with planar boundaries. These latter boundaries are independent of the surrounding grain geometry. In the case of the low-sulphur-containing material, normal grain coarsening was observed, even at higher temperatures out to 100h. The work at Swansea showed that for a nano-nickel 18% iron alloy abnormal grain growth was suppressed. For the high sulphur nano-crystalline nickel, the bimodal grain size distribution was investigated in more detail. The anomalously large grains, typically 75-100um across, have an angular morphology that is not typical of the polyhedral grains within the overall distribution,. Using a combination of focused ion beam milling/imaging and electron backscatter diffraction, it has been established that the interfacial planes forming the overall grain boundaries include {110}, {210}, {112}, {310} and {311}. The kinetics of these processes have been followed using electrical resistivity measurements, in conjunction with NPL (Dr Bryan Roebuck), and by hot stage scanning electron microscopy, in conjunction with University of Nantes, France (Professor Frederic Christian). Objective 2. To develop a 3D geometric model to accommodate an anomalously large grain within a matrix of grains of known size distribution from the micro- to nano-scale (Surrey, Swansea and Bristol). 3D geometric models have been developed to describe uni and bimodal distributions of polyhedral grains. i) University of Surrey: In this case, geometric models were produced to allow a description of the grain size distribution for uni and bimodal distributions of grains. The generalised model was validated against experimental data, provided under Objective 1, and compared with the predictions obtained from the cellular automata model (see below). These models included grain misorientation and, therefore, provided a vehicle for considering crack propagation (see Objective 4). ii) University of Bristol: A 3D cellular automata model of nano-grain instability has been proposed. The model included three steps, nucleation, solidification and competition. The competition stage implemented a modified Gibbs-Thompson criterion to determine the direction and the magnitude of the grain boundary migration. The model predicted grain coarsening and abnormal grain growth. It was demonstrated how a cellular automata model could be used to predict nano-structures and their evolution, including abnormal grain growth, using a simple Gibbs-type relationship. The output from this model was compared with the geometrical model produced at the University of Surrey (see above). The model is freely available from http://seis.bris.ac.uk/~mexas/cgpack/. Neither the Surrey nor Bristol models are able to accommodate the anomalous grains arising in the high impurity sulphur nano-crystalline nickel. However, each model is applicable to abnormal polyhedral grain growth across the micro- and nano-length scale range. Objective 3. To investigate the fracture characteristics, both initiation and propagation interactively, using the 3D model and high resolution electron optical techniques within the temperature range from brittle to ductile fracture for polycrystals described in Objectives 1 and 2 above (Bristol and Surrey). The 3D geometric models developed at the University of Surrey allow brittle and ductile crack propagation to be investigated. These models take account of the applied stress axis, grain size, grain orientation, grain geometry - e.g.. elongation due to deformation - and relative brittle cleavage fracture and intergranular fracture energies. As a consequence, they accommodate variations in impurity element content at grain boundaries. The models have been applied to the propagation of brittle cleavage cracks on {100} planes in body centred alpha-iron from a coarser grain size region to a finer grain sized region (layered structure) and vice versa. As a consequence, these results have assisted interpretation of the experimental data obtained for a ferritic steel, as described under Objective 4. Similar layered structures have been produced using cellular automata modelling. Preliminary work has been undertaken to extend these models to include crack propagation. In addition, abnormally large grains have been considered. Objective 4. To measure the deformation and fracture resistance changes associated with the presence of anomalously large grains in micro- to nano-scale polycrystalline materials (as described in Objective 3) and also heat treated to produce changes in the energy of the grain boundaries as a result of impurity and minor alloying atom segregation (Bristol). Small scale testing was undertaken to evaluate the properties of both the micro- and nano-scale grain size materials. In the case of the polycrystalline micro-scale material, specially-developed small three-point bend geometry tests were undertaken to evaluate the material properties and fracture characteristics over a temperature range of -196 to 500degC. However, for the nano-scale polycrystalline material, micro-scale cantilever beam specimens - created using focused ion beam milling - were prepared and tested. The tests were conducted in situ in an FEI Helios DualBeam workstation and loaded using a customised Kleindiek force measurement probe. The latter was developed within this work programme at the University of Bristol. This allowed both load-displacement and imaging of the specimen throughout the duration of a test. Tests were undertaken, therefore, on both micro-scale and nano-scale polycrystalline materials, subject to a range of heat treatments. Micro-scale test: In the case of a ferritic steel (EN1A), a layered structure of coarse and fine grains was produced by thermo-mechanical treatment. The specimens were tested at a temperature of -196degC to investigate crack propagation from the coarser to finer grain region and vice versa. To allow characterisation of the orientation of the brittle cleavage fracture facets across this grain size range, a novel method has been developed to allow EBSD patterns to be obtained from specific brittle fracture facets selected from within a random array. In the case of crack propagation from finer to coarser grains, the process was continuous. However, for propagation from coarser to finer grains, an arrest was observed at the interface between the two grain geometries and propagation only continued within the fine grains when the load was raised. Initially, cracking followed an intergranular path before reverting to transgranular cleavage. In the case of nominally pure polycrystalline nickel (50ppm sulphur), a ductile-brittle transition has been observed for material with a mean grain size of ~200um. The nickel specimens were subject to two heat treatments, one cooling at a fast rate and the other at a slow rate from a solution heat treatment temperature. Both the work to initiate fracture and proportion of intergranular fracture were determined over the temperature range -196 to 200degC. A ductile-brittle fracture transition has been established. The brittle fracture mode is intergranular and a function of the sulphur impurity content at the grain boundaries. The presence of the sulphur at the grain boundaries of this micro-scale nickel reduces the cohesive strength by electron transfer between nickel and sulphur atoms, leaving the former more anodic. From the measurements of percentage of intergranular fracture, the strength of grain boundaries was established to be a function of sulphur grain boundary concentration. As the concentration of sulphur reduces from ~24at% to ~5at%, there is a corresponding reduction in the ductile-brittle transition temperature. This work across the grain size scale range demonstrates the importance of impurity sulphur, even at very low concentrations, in controlling the deformation and fracture characteristics of fcc nickel. These results have to be set in the context of the grain growth / coarsening characteristics described under Objective 1. The micro-scale preparation technique allowed cantilever beams to be selected from preferred positions in samples of the as-received nano-scale nickel, the grain-coarsened material and from anomalously large grains following a range of heat treatments. In the case of the high and low sulphur nano-polycrystalline nickel, the load-displacement characteristics have been measured. Significant ductile deformation was observed. However, in the case of the high sulphur nickel material subject to heat treatment to provide 500nm coarsened grains, both ductile and brittle fracture were observed, depending upon the selection of the grains within the test specimen. Hence, the material is probably within the ductile-brittle transition region, such that the outcome is conditional upon the specific grain boundaries sampled. In addition, it was possible to select test specimens from the anomalously large grains, namely single crystals, and observe the slip steps generated throughout the duration of the test. The distribution of slip steps was found to be dependent upon the size of specimen tested within this micro-scale range and is being linked to the outcome from a model developed at Oxford University (Dr Ed Tarleton). Objective 5. To provide a quantitative description of the engineering durability of polycrystalline materials based upon: (i) a mechanistic understanding; and (ii) a critical anomalous grain size criterion (Bristol, including contributions from Professor Knott, Swansea and Surrey). The present results have provided several important new insights into the durability of polycrystalline materials over the nano- to micro-scale range. i) Grain coarsening in nano-scale nickel is a function of impurity sulphur content. Indeed, the anomalous grains formed within the higher impurity content nickel indicate the significance with respect to the ability to use this material in higher temperature environments. Clearly, for the lower impurity content grain coarsening follows more conventional coarsening characteristics. Moreover, the formation of the anomalous grains leads to a significant degradation of the mechanical properties of the nano-polycrystalline nickel. However, it is noteworthy that the initial stages of coarsening to ~500nm grains followed by their stagnation is important since here sulphur is having an influence on this stability. In the lower impurity content material, stagnation was not observed. Hence, there is a need to establish the critical range of sulphur impurity content which allows such stabilisation without introducing anomalously large grains, and therefore provides an ability to potentially use these materials for extended periods at higher temperatures. ii) The observation of crack arrest in the ferritic steel when propagating brittle cleavage cracks from the coarser to finer grain size materials is significant for overall durability. This points to the ability to limit crack propagation within engineering components if the grain size is controlled, . iii) The work undertaken to investigate the grain coarsening within the micro-scale polycrystalline material reveals that the critical strain controls the production of bimodal grain size distributions. This has significant implications for thin walled components, such as nuclear fuel cladding, since the development of such grain size distributions - either during the fabrication heat treatment cycle or during service - could lead to easy crack propagation through the wall section.</gtr:description><gtr:exploitationPathways>In the summary of project findings, Objective 5, various potential non-academic applications are described: (i) defining heat treatment conditions for commercial nano-polycrystalline materials; (ii) identifying the mix of grain sizes in a layer structure to ensure arrest of cracks; (iii) for thin-walled components, such as nuclear fuel cladding, identifying the conditions that ensure fine grain sizes are retained, thereby optimising durability; and (iv) potentially commercially exploiting a technique for undertaking mechanical tests on micro-scale cantilever beam specimens. The micro-scale test procedure based on cantilever beam specimens undertaken in situ within a DualBeam workstation for ductile and brittle specimens has the potential to be developed further to a commercial system and, therefore, the potential to be exploited by main manufacturers of ion/electron beam instruments, or suppliers of dedicated accessories. The models developed by Surrey University to describe the polycrystalline grain structure and the associated coarsening as part of this project have the potential to be commercially exploited. The understanding developed related to the thermal stability of the nano-polycrystalline materials has provided the basis for considering the role of neutron irradiation on these systems. This has led to an EPSRC submission conjoint with the Schools of Physics and Chemistry, University of Bristol, and Materials Science, Oxford University.</gtr:exploitationPathways><gtr:id>F6E7A3A1-3499-486D-A631-11B32596D11D</gtr:id><gtr:sectors><gtr:sector>Aerospace, Defence and Marine,Energy</gtr:sector></gtr:sectors></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/81AFEAF8-9730-4CC6-9619-3ED62CBE4F2E"><gtr:id>81AFEAF8-9730-4CC6-9619-3ED62CBE4F2E</gtr:id><gtr:title>Fortran coarray library for 3D cellular automata microstructure simulation</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/165b940915055af290ee1fd0e562fd63"><gtr:id>165b940915055af290ee1fd0e562fd63</gtr:id><gtr:otherNames>A Shterenlikht (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2013-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/6D389E10-F745-493E-ADCD-B77A9857ECED"><gtr:id>6D389E10-F745-493E-ADCD-B77A9857ECED</gtr:id><gtr:title>Creating Three-Dimensional Models to Investigate Brittle Fracture in Polycrystalline Metals</gtr:title><gtr:parentPublicationTitle>Computers, Materials and Continua</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/38ab5497db1ee7eb3cce32e0c674689d"><gtr:id>38ab5497db1ee7eb3cce32e0c674689d</gtr:id><gtr:otherNames>G E Smith (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/DE74CB7A-15AA-4BE5-87CB-6368C4114D46"><gtr:id>DE74CB7A-15AA-4BE5-87CB-6368C4114D46</gtr:id><gtr:title>The Influence of Grain Size on Brittle Crack Propagation</gtr:title><gtr:parentPublicationTitle>Journal of Physics: Conference Series</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/813c4ac87d0a6484676193eb56ca595a"><gtr:id>813c4ac87d0a6484676193eb56ca595a</gtr:id><gtr:otherNames>Mahalingam S</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/1BE65785-B3D4-42E7-BBB6-2560DD768268"><gtr:id>1BE65785-B3D4-42E7-BBB6-2560DD768268</gtr:id><gtr:title>Growth of abnormal planar faceted grains in nanocrystalline nickel containing impurity sulphur</gtr:title><gtr:parentPublicationTitle>Acta Materialia</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/213b20425aee9b790689b5e44a94923f"><gtr:id>213b20425aee9b790689b5e44a94923f</gtr:id><gtr:otherNames>Darnbrough J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2014-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/CE956BD6-B138-446D-90A3-6E191573D469"><gtr:id>CE956BD6-B138-446D-90A3-6E191573D469</gtr:id><gtr:title>Investigation of anomalous grains in polynanocrystalline nickel</gtr:title><gtr:parentPublicationTitle>Journal of Physics: Conference Series</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/213b20425aee9b790689b5e44a94923f"><gtr:id>213b20425aee9b790689b5e44a94923f</gtr:id><gtr:otherNames>Darnbrough J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/CC0A48C6-5E5C-44C8-A2F1-0DCF3AA51284"><gtr:id>CC0A48C6-5E5C-44C8-A2F1-0DCF3AA51284</gtr:id><gtr:title>Role of sulphur across the micro-/nano-scale for polycrystalline nickel</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/4dad1f48c2406faa81dd5334743e2d44"><gtr:id>4dad1f48c2406faa81dd5334743e2d44</gtr:id><gtr:otherNames>Peter Flewitt (Speaker)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/84810F02-BB0F-47E9-8BBF-61A723C893C7"><gtr:id>84810F02-BB0F-47E9-8BBF-61A723C893C7</gtr:id><gtr:title>Investigation of Anomalous Grain Growth in Nanocrystalline Nickel and Nickel-Iron Alloy</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/4b72ffce5ce67384df9754915e5f0fc5"><gtr:id>4b72ffce5ce67384df9754915e5f0fc5</gtr:id><gtr:otherNames>Valerie Randle (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/3CE46BA8-799D-4DC8-B0C8-0BEF508C8812"><gtr:id>3CE46BA8-799D-4DC8-B0C8-0BEF508C8812</gtr:id><gtr:title>Anomalous Grain Growth Revisited</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/5ba7a2daf06d4ae9aa591b0123732e21"><gtr:id>5ba7a2daf06d4ae9aa591b0123732e21</gtr:id><gtr:otherNames>V Randle (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2013-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/C214BDAE-56F8-4618-803E-9AEA61EC1851"><gtr:id>C214BDAE-56F8-4618-803E-9AEA61EC1851</gtr:id><gtr:title>The Evolution of Bi-modal Grain Sized Microstructure Nanocrystalline Nickel</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/d25d9e77772bc052601cf8e9a697d307"><gtr:id>d25d9e77772bc052601cf8e9a697d307</gtr:id><gtr:otherNames>Mark Coleman (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2011-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/DC03F667-4B2F-4F73-BC08-EB2560775A86"><gtr:id>DC03F667-4B2F-4F73-BC08-EB2560775A86</gtr:id><gtr:title>The Effect of Grain Size on Deformation of Nickel Micro-Scale Cantilever Bend Tests</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/2e99d015662ec90da3511c30f75f8c48"><gtr:id>2e99d015662ec90da3511c30f75f8c48</gtr:id><gtr:otherNames>J E Darnbrough (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/5322864B-B9A1-4A00-B47F-7EE75D1890CD"><gtr:id>5322864B-B9A1-4A00-B47F-7EE75D1890CD</gtr:id><gtr:title>Anomalous grain growth revisited</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/5ba7a2daf06d4ae9aa591b0123732e21"><gtr:id>5ba7a2daf06d4ae9aa591b0123732e21</gtr:id><gtr:otherNames>V Randle (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/294E63E3-FB07-4204-B970-430CFEB85777"><gtr:id>294E63E3-FB07-4204-B970-430CFEB85777</gtr:id><gtr:title>Intergranular Crack Propagation in Polycrystalline Metals</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/7e2c295eb1f03f2f57bd721fd2c01919"><gtr:id>7e2c295eb1f03f2f57bd721fd2c01919</gtr:id><gtr:otherNames>G Smith (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/B14CEBD2-EB98-4C4A-A7DC-C23DDEA29200"><gtr:id>B14CEBD2-EB98-4C4A-A7DC-C23DDEA29200</gtr:id><gtr:title>Micro-scale testing of ductile and brittle cantilever beam specimens in situ with a dual beam workstation</gtr:title><gtr:parentPublicationTitle>Measurement Science and Technology</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/213b20425aee9b790689b5e44a94923f"><gtr:id>213b20425aee9b790689b5e44a94923f</gtr:id><gtr:otherNames>Darnbrough J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2013-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/F62A1B9E-21A2-4973-A74B-69FE1FD9E0EA"><gtr:id>F62A1B9E-21A2-4973-A74B-69FE1FD9E0EA</gtr:id><gtr:title>Effect of pre-strain on grain size distributions in 316H austenitic stainless steel</gtr:title><gtr:parentPublicationTitle>Journal of Materials Science</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/813c4ac87d0a6484676193eb56ca595a"><gtr:id>813c4ac87d0a6484676193eb56ca595a</gtr:id><gtr:otherNames>Mahalingam S</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2011-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/B7E2E5EB-10DE-4E2B-B3E6-F3D51FC066EE"><gtr:id>B7E2E5EB-10DE-4E2B-B3E6-F3D51FC066EE</gtr:id><gtr:title>Facture of polycrystalline nickel</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/59319227d7b8086b13a9ad8aeddfab49"><gtr:id>59319227d7b8086b13a9ad8aeddfab49</gtr:id><gtr:otherNames>S Mahalingam (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/A4C526C0-F2FF-442C-B47E-258132960DE7"><gtr:id>A4C526C0-F2FF-442C-B47E-258132960DE7</gtr:id><gtr:title>Fortran 2008 coarrays</gtr:title><gtr:parentPublicationTitle>ACM SIGPLAN Fortran Forum</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/83981ec76d2206fa9b5c3cb94fe25660"><gtr:id>83981ec76d2206fa9b5c3cb94fe25660</gtr:id><gtr:otherNames>Shterenlikht A</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/CE2C7C8F-3EC1-4F34-8E0C-CF09477D1FE8"><gtr:id>CE2C7C8F-3EC1-4F34-8E0C-CF09477D1FE8</gtr:id><gtr:title>The influence of temperature and grain boundary volume on the resistivity of nanocrystalline nickel</gtr:title><gtr:parentPublicationTitle>Journal of Applied Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/213b20425aee9b790689b5e44a94923f"><gtr:id>213b20425aee9b790689b5e44a94923f</gtr:id><gtr:otherNames>Darnbrough J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/CC88F5C0-F1BB-4E76-9A00-0FBAD05F911C"><gtr:id>CC88F5C0-F1BB-4E76-9A00-0FBAD05F911C</gtr:id><gtr:title>Closed-form solutions of hole distortion for use in deep-hole drilling measurements of residual stress in orthotropic plates</gtr:title><gtr:parentPublicationTitle>The Journal of Strain Analysis for Engineering Design</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/2df429da1617d3f6f602ff72c2f03b92"><gtr:id>2df429da1617d3f6f602ff72c2f03b92</gtr:id><gtr:otherNames>Garza C</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/46C560CD-BE78-4360-84E9-B967F3C133D6"><gtr:id>46C560CD-BE78-4360-84E9-B967F3C133D6</gtr:id><gtr:title>CELLULAR AUTOMATA MODELLING OF NANO-CRYSTALLINE INSTABILITY</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/26f7ff576769c178cfb3e0ef281d6f34"><gtr:id>26f7ff576769c178cfb3e0ef281d6f34</gtr:id><gtr:otherNames>Joseph Phillips (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/381E5888-79E4-4152-A70D-4AF6F6F3E0FB"><gtr:id>381E5888-79E4-4152-A70D-4AF6F6F3E0FB</gtr:id><gtr:title>The ductile?brittle transition for nominally pure polycrystalline nickel</gtr:title><gtr:parentPublicationTitle>Materials Science and Engineering: A</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/43382a8e1657f52279c6585b56784224"><gtr:id>43382a8e1657f52279c6585b56784224</gtr:id><gtr:otherNames>S. Mahalingam (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/FD595959-59F9-41CC-8755-BFD07FCC8DC1"><gtr:id>FD595959-59F9-41CC-8755-BFD07FCC8DC1</gtr:id><gtr:title>The Role of Grain Size on Deformation of 316H Austenitic Stainless Steel</gtr:title><gtr:parentPublicationTitle>Key Engineering Materials</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/813c4ac87d0a6484676193eb56ca595a"><gtr:id>813c4ac87d0a6484676193eb56ca595a</gtr:id><gtr:otherNames>Mahalingam S</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/E051BF5F-9259-4A1F-B03E-286644B593C6"><gtr:id>E051BF5F-9259-4A1F-B03E-286644B593C6</gtr:id><gtr:title>The effect of grain size on crack propagation in a ferritic steel</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/59319227d7b8086b13a9ad8aeddfab49"><gtr:id>59319227d7b8086b13a9ad8aeddfab49</gtr:id><gtr:otherNames>S Mahalingam (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/A4B8D2AC-6DDB-4B7A-B0A6-F6E1D49D489D"><gtr:id>A4B8D2AC-6DDB-4B7A-B0A6-F6E1D49D489D</gtr:id><gtr:title>Mixed grain size microstructures in nanocrystalline metals</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/4b72ffce5ce67384df9754915e5f0fc5"><gtr:id>4b72ffce5ce67384df9754915e5f0fc5</gtr:id><gtr:otherNames>Valerie Randle (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2011-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/84042517-4795-484B-B5A2-409D6A04AC50"><gtr:id>84042517-4795-484B-B5A2-409D6A04AC50</gtr:id><gtr:title>Micro-Scale Cantilever Testing of Linear Elastic and Elastic-Plastic Materials</gtr:title><gtr:parentPublicationTitle>Key Engineering Materials</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/213b20425aee9b790689b5e44a94923f"><gtr:id>213b20425aee9b790689b5e44a94923f</gtr:id><gtr:otherNames>Darnbrough J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/6E76D228-A759-42F4-9914-28E80793267E"><gtr:id>6E76D228-A759-42F4-9914-28E80793267E</gtr:id><gtr:title>The ductile-brittle transition for nominally pure polycrystalline nickel</gtr:title><gtr:parentPublicationTitle>Materials Science and Engineering: A</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/813c4ac87d0a6484676193eb56ca595a"><gtr:id>813c4ac87d0a6484676193eb56ca595a</gtr:id><gtr:otherNames>Mahalingam S</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2013-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/3C547B87-3493-4231-8EEC-AAF76F35DFB7"><gtr:id>3C547B87-3493-4231-8EEC-AAF76F35DFB7</gtr:id><gtr:title>Cellular automata modelling of nano-grain instability</gtr:title><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/165b940915055af290ee1fd0e562fd63"><gtr:id>165b940915055af290ee1fd0e562fd63</gtr:id><gtr:otherNames>A Shterenlikht (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/325C69B1-460F-43B2-B5FD-691704CB4AF6"><gtr:id>325C69B1-460F-43B2-B5FD-691704CB4AF6</gtr:id><gtr:title>Three-dimensional cellular automata modelling of cleavage propagation across crystal boundaries in polycrystalline microstructures</gtr:title><gtr:parentPublicationTitle>Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/83981ec76d2206fa9b5c3cb94fe25660"><gtr:id>83981ec76d2206fa9b5c3cb94fe25660</gtr:id><gtr:otherNames>Shterenlikht A</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">EP/H006729/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>E847DD9B-2053-4BC7-97A9-4213B185C968</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Materials sciences</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>772CD758-53CD-407F-9B2C-F2B861E86155</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Mechanical Engineering</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>20C8FC17-3001-41A5-8A75-6FF3CEFAB3B7</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Eng. Dynamics &amp; Tribology</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>561091A1-9FC9-4508-B1B2-2F3623E1FC9D</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Materials Characterisation</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>
+P Flewitt, S Mahalingam, J Darnbrough, A Shterenlikht, J Philips</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2012-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>EDF Energy</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Grain growth in AGR fuel sleeve stainless steel</gtr:description><gtr:id>27FE7DBB-6697-43EB-A4A5-EF778B2C8187</gtr:id><gtr:outcomeId>b966d4b0b966d4c4-1</gtr:outcomeId><gtr:piContribution>Quantification of the grain coarsening arising from heat treatments of sleeve material. This information on grain coarsening provides a basis for establishing the long-term intergrity (over service life) of AGR fuel sleeves.</gtr:piContribution><gtr:sector>Private</gtr:sector><gtr:start>2012-01-01</gtr:start></gtr:collaborationOutput></gtr:collaborationOutputs><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>Objective 1. To investigate the parameters that control the evolution of grain size distribution in polycrystalline metals in the micro- to nano-grain size range, with a view to the establishment and characterisation of bimodal grain size distributions (Swansea and Bristol, including contributions from Professor Knott). An experimental study addressing the effect of tensile deformation on recrystallised grain size has been undertaken to explore the conditions leading to abnormal grain growth in: i) Type 316H austenitic stainless steel; ii) Micro-scale polycrystalline nickel; iii) Polycrystalline ferritic steel; and iv) Nuclear fuel clad stainless steel. Each was subject to a solution heat treatment followed by tensile deformations up to a maximum of approximately 50% strain and then a recrystallisation heat treatment. In each case, abnormally large grains were observed following prior strains of between 15 and 20%. The 2D and 3D grain size measurements were presented in terms of standard statistical analysis and simple graphical presentations to provide clear, visual appreciations of uni and bimodal distributions. This approach may be of general help in other analyses of this nature. The outputs from this objective have been linked to the modelling undertaken within Objective 2. In addition, there will be further discussions with EDF Energy to consider the implications of abnormal grain coarsening on the fabrication route, heat treatment and exposure during operation of fuel clad materials. In the case of the nano-scale nickel, two sources have been considered, with higher and lower impurity sulphur content. In the case of the higher impurity sulphur content, thermal ageing over the temperature range 350 to 600degC led to grain coarsening up to a size of ~500nm, at which point grain size stagnation occurred. At temperatures above 485degC, stagnation was followed by anomalous grain growth, whereby grains were formed with planar facets. The crystallography of these facets related to the growing grain rather than the normal, polyhedral geometry arising from energy balance of the boundary with adjacent grains. It has been proposed that the formation and growth of the abnormal grains is a result of a critical amount of impurity sulphur segregating to the boundaries, leading to a change in growth mechanism. The sulphur atoms weaken Ni-Ni bonds, allowing nickel atoms to move in the boundary volume at temperatures above 485degC uncorrelated to the lattice, resulting in an uninhibited ledge-type growth to produce the abnormal grains with planar boundaries. These latter boundaries are independent of the surrounding grain geometry. In the case of the low-sulphur-containing material, normal grain coarsening was observed, even at higher temperatures out to 100h. The work at Swansea showed that for a nano-nickel 18% iron alloy abnormal grain growth was suppressed. For the high sulphur nano-crystalline nickel, the bimodal grain size distribution was investigated in more detail. The anomalously large grains, typically 75-100um across, have an angular morphology that is not typical of the polyhedral grains within the overall distribution,. Using a combination of focused ion beam milling/imaging and electron backscatter diffraction, it has been established that the interfacial planes forming the overall grain boundaries include {110}, {210}, {112}, {310} and {311}. The kinetics of these processes have been followed using electrical resistivity measurements, in conjunction with NPL (Dr Bryan Roebuck), and by hot stage scanning electron microscopy, in conjunction with University of Nantes, France (Professor Frederic Christian). Objective 2. To develop a 3D geometric model to accommodate an anomalously large grain within a matrix of grains of known size distribution from the micro- to nano-scale (Surrey, Swansea and Bristol). 3D geometric models have been developed to describe uni and bimodal distributions of polyhedral grains. i) University of Surrey: In this case, geometric models were produced to allow a description of the grain size distribution for uni and bimodal distributions of grains. The generalised model was validated against experimental data, provided under Objective 1, and compared with the predictions obtained from the cellular automata model (see below). These models included grain misorientation and, therefore, provided a vehicle for considering crack propagation (see Objective 4). ii) University of Bristol: A 3D cellular automata model of nano-grain instability has been proposed. The model included three steps, nucleation, solidification and competition. The competition stage implemented a modified Gibbs-Thompson criterion to determine the direction and the magnitude of the grain boundary migration. The model predicted grain coarsening and abnormal grain growth. It was demonstrated how a cellular automata model could be used to predict nano-structures and their evolution, including abnormal grain growth, using a simple Gibbs-type relationship. The output from this model was compared with the geometrical model produced at the University of Surrey (see above). The model is freely available from http://seis.bris.ac.uk/~mexas/cgpack/. Neither the Surrey nor Bristol models are able to accommodate the anomalous grains arising in the high impurity sulphur nano-crystalline nickel. However, each model is applicable to abnormal polyhedral grain growth across the micro- and nano-length scale range. Objective 3. To investigate the fracture characteristics, both initiation and propagation interactively, using the 3D model and high resolution electron optical techniques within the temperature range from brittle to ductile fracture for polycrystals described in Objectives 1 and 2 above (Bristol and Surrey). The 3D geometric models developed at the University of Surrey allow brittle and ductile crack propagation to be investigated. These models take account of the applied stress axis, grain size, grain orientation, grain geometry - e.g.. elongation due to deformation - and relative brittle cleavage fracture and intergranular fracture energies. As a consequence, they accommodate variations in impurity element content at grain boundaries. The models have been applied to the propagation of brittle cleavage cracks on {100} planes in body centred alpha-iron from a coarser grain size region to a finer grain sized region (layered structure) and vice versa. As a consequence, these results have assisted interpretation of the experimental data obtained for a ferritic steel, as described under Objective 4. Similar layered structures have been produced using cellular automata modelling. Preliminary work has been undertaken to extend these models to include crack propagation. In addition, abnormally large grains have been considered. Objective 4. To measure the deformation and fracture resistance changes associated with the presence of anomalously large grains in micro- to nano-scale polycrystalline materials (as described in Objective 3) and also heat treated to produce changes in the energy of the grain boundaries as a result of impurity and minor alloying atom segregation (Bristol). Small scale testing was undertaken to evaluate the properties of both the micro- and nano-scale grain size materials. In the case of the polycrystalline micro-scale material, specially-developed small three-point bend geometry tests were undertaken to evaluate the material properties and fracture characteristics over a temperature range of -196 to 500degC. However, for the nano-scale polycrystalline material, micro-scale cantilever beam specimens - created using focused ion beam milling - were prepared and tested. The tests were conducted in situ in an FEI Helios DualBeam workstation and loaded using a customised Kleindiek force measurement probe. The latter was developed within this work programme at the University of Bristol. This allowed both load-displacement and imaging of the specimen throughout the duration of a test. Tests were undertaken, therefore, on both micro-scale and nano-scale polycrystalline materials, subject to a range of heat treatments. Micro-scale test: In the case of a ferritic steel (EN1A), a layered structure of coarse and fine grains was produced by thermo-mechanical treatment. The specimens were tested at a temperature of -196degC to investigate crack propagation from the coarser to finer grain region and vice versa. To allow characterisation of the orientation of the brittle cleavage fracture facets across this grain size range, a novel method has been developed to allow EBSD patterns to be obtained from specific brittle fracture facets selected from within a random array. In the case of crack propagation from finer to coarser grains, the process was continuous. However, for propagation from coarser to finer grains, an arrest was observed at the interface between the two grain geometries and propagation only continued within the fine grains when the load was raised. Initially, cracking followed an intergranular path before reverting to transgranular cleavage. In the case of nominally pure polycrystalline nickel (50ppm sulphur), a ductile-brittle transition has been observed for material with a mean grain size of ~200um. The nickel specimens were subject to two heat treatments, one cooling at a fast rate and the other at a slow rate from a solution heat treatment temperature. Both the work to initiate fracture and proportion of intergranular fracture were determined over the temperature range -196 to 200degC. A ductile-brittle fracture transition has been established. The brittle fracture mode is intergranular and a function of the sulphur impurity content at the grain boundaries. The presence of the sulphur at the grain boundaries of this micro-scale nickel reduces the cohesive strength by electron transfer between nickel and sulphur atoms, leaving the former more anodic. From the measurements of percentage of intergranular fracture, the strength of grain boundaries was established to be a function of sulphur grain boundary concentration. As the concentration of sulphur reduces from ~24at% to ~5at%, there is a corresponding reduction in the ductile-brittle transition temperature. This work across the grain size scale range demonstrates the importance of impurity sulphur, even at very low concentrations, in controlling the deformation and fracture characteristics of fcc nickel. These results have to be set in the context of the grain growth / coarsening characteristics described under Objective 1. The micro-scale preparation technique allowed cantilever beams to be selected from preferred positions in samples of the as-received nano-scale nickel, the grain-coarsened material and from anomalously large grains following a range of heat treatments. In the case of the high and low sulphur nano-polycrystalline nickel, the load-displacement characteristics have been measured. Significant ductile deformation was observed. However, in the case of the high sulphur nickel material subject to heat treatment to provide 500nm coarsened grains, both ductile and brittle fracture were observed, depending upon the selection of the grains within the test specimen. Hence, the material is probably within the ductile-brittle transition region, such that the outcome is conditional upon the specific grain boundaries sampled. In addition, it was possible to select test specimens from the anomalously large grains, namely single crystals, and observe the slip steps generated throughout the duration of the test. The distribution of slip steps was found to be dependent upon the size of specimen tested within this micro-scale range and is being linked to the outcome from a model developed at Oxford University (Dr Ed Tarleton). Objective 5. To provide a quantitative description of the engineering durability of polycrystalline materials based upon: (i) a mechanistic understanding; and (ii) a critical anomalous grain size criterion (Bristol, including contributions from Professor Knott, Swansea and Surrey). The present results have provided several important new insights into the durability of polycrystalline materials over the nano- to micro-scale range. i) Grain coarsening in nano-scale nickel is a function of impurity sulphur content. Indeed, the anomalous grains formed within the higher impurity content nickel indicate the significance with respect to the ability to use this material in higher temperature environments. Clearly, for the lower impurity content grain coarsening follows more conventional coarsening characteristics. Moreover, the formation of the anomalous grains leads to a significant degradation of the mechanical properties of the nano-polycrystalline nickel. However, it is noteworthy that the initial stages of coarsening to ~500nm grains followed by their stagnation is important since here sulphur is having an influence on this stability. In the lower impurity content material, stagnation was not observed. Hence, there is a need to establish the critical range of sulphur impurity content which allows such stabilisation without introducing anomalously large grains, and therefore provides an ability to potentially use these materials for extended periods at higher temperatures. ii) The observation of crack arrest in the ferritic steel when propagating brittle cleavage cracks from the coarser to finer grain size materials is significant for overall durability. This points to the ability to limit crack propagation within engineering components if the grain size is controlled, . iii) The work undertaken to investigate the grain coarsening within the micro-scale polycrystalline material reveals that the critical strain controls the production of bimodal grain size distributions. This has significant implications for thin walled components, such as nuclear fuel cladding, since the development of such grain size distributions - either during the fabrication heat treatment cycle or during service - could lead to easy crack propagation through the wall section.</gtr:description><gtr:exploitationPathways>In the summary of project findings, Objective 5, various potential non-academic applications are described: (i) defining heat treatment conditions for commercial nano-polycrystalline materials; (ii) identifying the mix of grain sizes in a layer structure to ensure arrest of cracks; (iii) for thin-walled components, such as nuclear fuel cladding, identifying the conditions that ensure fine grain sizes are retained, thereby optimising durability; and (iv) potentially commercially exploiting a technique for undertaking mechanical tests on micro-scale cantilever beam specimens. The micro-scale test procedure based on cantilever beam specimens undertaken in situ within a DualBeam workstation for ductile and brittle specimens has the potential to be developed further to a commercial system and, therefore, the potential to be exploited by main manufacturers of ion/electron beam instruments, or suppliers of dedicated accessories. The models developed by Surrey University to describe the polycrystalline grain structure and the associated coarsening as part of this project have the potential to be commercially exploited. The understanding developed related to the thermal stability of the nano-polycrystalline materials has provided the basis for considering the role of neutron irradiation on these systems. This has led to an EPSRC submission conjoint with the Schools of Physics and Chemistry, University of Bristol, and Materials Science, Oxford University.</gtr:exploitationPathways><gtr:id>5CF176A9-6E80-406E-B087-23E0EC90FDD5</gtr:id><gtr:outcomeId>r-6523937654.2381367747d62a</gtr:outcomeId><gtr:sectors><gtr:sector>Aerospace, Defence and Marine,Energy</gtr:sector></gtr:sectors></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication><gtr:id>B4D2320D-E34C-4633-B22F-609C912F953D</gtr:id><gtr:title>Fortran coarray library for 3D cellular automata microstructure simulation</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/165b940915055af290ee1fd0e562fd63"><gtr:id>165b940915055af290ee1fd0e562fd63</gtr:id><gtr:otherNames>A Shterenlikht (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2013-01-01</gtr:date><gtr:outcomeId>m_649049798813d61f42</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>AB5DB941-1BB9-4CA2-BDE3-3B6D16AD2BC0</gtr:id><gtr:title>Kinetics and dynamics of planar abnormal grain growth in nanocrystalline nickel</gtr:title><gtr:parentPublicationTitle>Acta Materialia</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/213b20425aee9b790689b5e44a94923f"><gtr:id>213b20425aee9b790689b5e44a94923f</gtr:id><gtr:otherNames>Darnbrough J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a2fe7b1b7e454.46322276</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>0F247FB7-2FA1-425F-B381-DB5E51C834EA</gtr:id><gtr:title>Growth of abnormal planar faceted grains in nanocrystalline nickel containing impurity sulphur</gtr:title><gtr:parentPublicationTitle>Acta Materialia</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/213b20425aee9b790689b5e44a94923f"><gtr:id>213b20425aee9b790689b5e44a94923f</gtr:id><gtr:otherNames>Darnbrough J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2014-01-01</gtr:date><gtr:outcomeId>doi_55f95e95e4251ac3</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>245A4989-A4E8-4354-A346-A1446A175612</gtr:id><gtr:title>Anomalous grain growth revisited</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/5ba7a2daf06d4ae9aa591b0123732e21"><gtr:id>5ba7a2daf06d4ae9aa591b0123732e21</gtr:id><gtr:otherNames>V Randle (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date><gtr:outcomeId>m_341026994314091e92</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>B5999A5A-B424-4104-8CAE-F7440A5C7324</gtr:id><gtr:title>The Evolution of Bi-modal Grain Sized Microstructure Nanocrystalline Nickel</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/d25d9e77772bc052601cf8e9a697d307"><gtr:id>d25d9e77772bc052601cf8e9a697d307</gtr:id><gtr:otherNames>Mark Coleman (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2011-01-01</gtr:date><gtr:outcomeId>m_729188149713efbb50</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>13D92211-289A-417F-9526-5B87625437B9</gtr:id><gtr:title>The effect of grain size on crack propagation in a ferritic steel</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/59319227d7b8086b13a9ad8aeddfab49"><gtr:id>59319227d7b8086b13a9ad8aeddfab49</gtr:id><gtr:otherNames>S Mahalingam (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date><gtr:outcomeId>m_261970373414050cd0</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>197D3B9E-FE8C-42DF-A270-E925D6872787</gtr:id><gtr:title>Effect of pre-strain on grain size distributions in 316H austenitic stainless steel</gtr:title><gtr:parentPublicationTitle>Journal of Materials Science</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/813c4ac87d0a6484676193eb56ca595a"><gtr:id>813c4ac87d0a6484676193eb56ca595a</gtr:id><gtr:otherNames>Mahalingam S</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2011-01-01</gtr:date><gtr:outcomeId>doi_55f95e95e41bb5ab</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>C9631F34-97DF-48A6-99D5-D9277C45A479</gtr:id><gtr:title>The ductile?brittle transition for nominally pure polycrystalline nickel</gtr:title><gtr:parentPublicationTitle>Materials Science and Engineering: A</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/43382a8e1657f52279c6585b56784224"><gtr:id>43382a8e1657f52279c6585b56784224</gtr:id><gtr:otherNames>S. Mahalingam (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date><gtr:outcomeId>m_5239052359136c5472</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>A9C3F43C-3523-4154-9B91-5407D4846808</gtr:id><gtr:title>The influence of temperature and grain boundary volume on the resistivity of nanocrystalline nickel</gtr:title><gtr:parentPublicationTitle>Journal of Applied Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/213b20425aee9b790689b5e44a94923f"><gtr:id>213b20425aee9b790689b5e44a94923f</gtr:id><gtr:otherNames>Darnbrough J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date><gtr:outcomeId>56d5ad01ea3873.54980360</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>1DE1BBF3-E098-42F9-B51B-15DB1F864B7B</gtr:id><gtr:title>Investigation of Anomalous Grain Growth in Nanocrystalline Nickel and Nickel-Iron Alloy</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/4b72ffce5ce67384df9754915e5f0fc5"><gtr:id>4b72ffce5ce67384df9754915e5f0fc5</gtr:id><gtr:otherNames>Valerie Randle (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date><gtr:outcomeId>m_26990117741409419c</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>2AC9460F-59D6-4ED3-941B-F54514033FB3</gtr:id><gtr:title>Micro-Scale Cantilever Testing of Linear Elastic and Elastic-Plastic Materials</gtr:title><gtr:parentPublicationTitle>Key Engineering Materials</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/213b20425aee9b790689b5e44a94923f"><gtr:id>213b20425aee9b790689b5e44a94923f</gtr:id><gtr:otherNames>Darnbrough J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date><gtr:outcomeId>doi_53d088088d397f0e</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>4BE01FCB-02CF-4752-B34A-944002BB252D</gtr:id><gtr:title>Investigation of anomalous grains in polynanocrystalline nickel</gtr:title><gtr:parentPublicationTitle>Journal of Physics: Conference Series</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/213b20425aee9b790689b5e44a94923f"><gtr:id>213b20425aee9b790689b5e44a94923f</gtr:id><gtr:otherNames>Darnbrough J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date><gtr:outcomeId>doi_53d0440446179cad</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>BB253641-0593-4096-9798-F0114A96C624</gtr:id><gtr:title>Role of sulphur across the micro-/nano-scale for polycrystalline nickel</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/4dad1f48c2406faa81dd5334743e2d44"><gtr:id>4dad1f48c2406faa81dd5334743e2d44</gtr:id><gtr:otherNames>Peter Flewitt (Speaker)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date><gtr:outcomeId>m_295999683714012c28</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>E2067359-5C87-44F0-A3D4-63A5A841E89C</gtr:id><gtr:title>Anomalous Grain Growth Revisited</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/5ba7a2daf06d4ae9aa591b0123732e21"><gtr:id>5ba7a2daf06d4ae9aa591b0123732e21</gtr:id><gtr:otherNames>V Randle (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2013-01-01</gtr:date><gtr:outcomeId>m_910483921414091dde</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>B7187CD0-7010-42C7-A136-4EE237D03780</gtr:id><gtr:title>Facture of polycrystalline nickel</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/59319227d7b8086b13a9ad8aeddfab49"><gtr:id>59319227d7b8086b13a9ad8aeddfab49</gtr:id><gtr:otherNames>S Mahalingam (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date><gtr:outcomeId>m_953436422214050c30</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>8BD95ED1-6CA3-4E7F-BD71-A732B3AD2F75</gtr:id><gtr:title>CELLULAR AUTOMATA MODELLING OF NANO-CRYSTALLINE INSTABILITY</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/26f7ff576769c178cfb3e0ef281d6f34"><gtr:id>26f7ff576769c178cfb3e0ef281d6f34</gtr:id><gtr:otherNames>Joseph Phillips (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date><gtr:outcomeId>m_169640251113e5f9e4</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>511B69D5-D8F8-41E1-9022-4A78C0835C8D</gtr:id><gtr:title>Creating Three-Dimensional Models to Investigate Brittle Fracture in Polycrystalline Metals</gtr:title><gtr:parentPublicationTitle>Computers, Materials and Continua</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/38ab5497db1ee7eb3cce32e0c674689d"><gtr:id>38ab5497db1ee7eb3cce32e0c674689d</gtr:id><gtr:otherNames>G E Smith (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date><gtr:outcomeId>m_3431648325137bf9fe</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>677FD010-6E9D-4767-BBE1-4F4CF85E5569</gtr:id><gtr:title>The ductile-brittle transition for nominally pure polycrystalline nickel</gtr:title><gtr:parentPublicationTitle>Materials Science and Engineering: A</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/813c4ac87d0a6484676193eb56ca595a"><gtr:id>813c4ac87d0a6484676193eb56ca595a</gtr:id><gtr:otherNames>Mahalingam S</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2013-01-01</gtr:date><gtr:outcomeId>doi_53d001001dd049e7</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>7E16E36A-51CC-465A-9BFF-0DE21AAB64A5</gtr:id><gtr:title>Intergranular Crack Propagation in Polycrystalline Metals</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/7e2c295eb1f03f2f57bd721fd2c01919"><gtr:id>7e2c295eb1f03f2f57bd721fd2c01919</gtr:id><gtr:otherNames>G Smith (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date><gtr:outcomeId>m_585820632413e05aa2</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>C9C063E5-0222-4E3C-A418-2A00880C3B8C</gtr:id><gtr:title>Micro-scale testing of ductile and brittle cantilever beam specimens
+ 
+ with a dual beam workstation</gtr:title><gtr:parentPublicationTitle>Measurement Science and Technology</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/213b20425aee9b790689b5e44a94923f"><gtr:id>213b20425aee9b790689b5e44a94923f</gtr:id><gtr:otherNames>Darnbrough J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2013-01-01</gtr:date><gtr:outcomeId>doi_53d0420428155351</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>5CDC4A7C-52B4-412D-A3AB-C105C18AAD9C</gtr:id><gtr:title>Cellular automata modelling of nano-grain instability</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/165b940915055af290ee1fd0e562fd63"><gtr:id>165b940915055af290ee1fd0e562fd63</gtr:id><gtr:otherNames>A Shterenlikht (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date><gtr:outcomeId>m_107324321913d62064</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>C76672A4-2954-4F0E-83C6-8F6426576AC3</gtr:id><gtr:title>The Effect of Grain Size on Deformation of Nickel Micro-Scale Cantilever Bend Tests</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/2e99d015662ec90da3511c30f75f8c48"><gtr:id>2e99d015662ec90da3511c30f75f8c48</gtr:id><gtr:otherNames>J E Darnbrough (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date><gtr:outcomeId>m_305229112613e3b0bc</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>B39BFA6D-8A3B-45EB-B27F-5F57469C9B95</gtr:id><gtr:title>Mixed grain size microstructures in nanocrystalline metals</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/4b72ffce5ce67384df9754915e5f0fc5"><gtr:id>4b72ffce5ce67384df9754915e5f0fc5</gtr:id><gtr:otherNames>Valerie Randle (Author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2011-01-01</gtr:date><gtr:outcomeId>m_2647164516140942b4</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>62D5BBB3-F40A-4601-8FC6-7C410990F006</gtr:id><gtr:title>The Influence of Grain Size on Brittle Crack Propagation</gtr:title><gtr:parentPublicationTitle>Journal of Physics: Conference Series</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/813c4ac87d0a6484676193eb56ca595a"><gtr:id>813c4ac87d0a6484676193eb56ca595a</gtr:id><gtr:otherNames>Mahalingam S</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date><gtr:outcomeId>doi_53d0440446218ef5</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>5DE116F3-E52F-463F-AE7C-813CE80F61A7</gtr:id><gtr:title>The Role of Grain Size on Deformation of 316H Austenitic Stainless Steel</gtr:title><gtr:parentPublicationTitle>Key Engineering Materials</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/813c4ac87d0a6484676193eb56ca595a"><gtr:id>813c4ac87d0a6484676193eb56ca595a</gtr:id><gtr:otherNames>Mahalingam S</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date><gtr:outcomeId>doi_53d088088d30d4f2</gtr:outcomeId></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">EP/H006729/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>E847DD9B-2053-4BC7-97A9-4213B185C968</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Materials sciences</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>772CD758-53CD-407F-9B2C-F2B861E86155</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Mechanical Engineering</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>20C8FC17-3001-41A5-8A75-6FF3CEFAB3B7</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Eng. Dynamics &amp; Tribology</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>561091A1-9FC9-4508-B1B2-2F3623E1FC9D</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Materials Characterisation</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

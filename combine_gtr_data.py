@@ -8,11 +8,12 @@ import csv
 import math
 import urllib.request
 from xml.etree import cElementTree as et
+import xml.etree
 import time
 import logging
 
 DATASTORE = './data/'
-DATAFILENAME = 'gtrdata-clean.csv'
+DATAFILENAME = 'gtrdata-clean-20180406.csv'
 LOGGERLOCATION = "./log_combine_gtr_data.log"
 
 
@@ -81,8 +82,9 @@ def populate_dataframe(df):
     """
 
     # Define where XML data is stored and the namespace it uses
-    FILE_PATH = 'file:///Users/user/Git/software_in_grants_GTR/data/xml_data/'
-    XML_NAMESPACE = 'http://gtr.rcuk.ac.uk/api'
+    FILE_PATH = 'file:///Users/user/Projects/SSI/software_in_grants_GTR/data/xml_data/'
+    #XML_NAMESPACE = 'http://gtr.rcuk.ac.uk/api'
+    XML_NAMESPACE = 'http://gtr.ukri.org/api'
 
 
     def retrieve_xml_from_url(filename):
@@ -106,7 +108,8 @@ def populate_dataframe(df):
             xml_root = et.fromstring(xml_str)
         # The except part is mainly needed if you're getting the data from the API
         # rather than dragging it in from a file like we're doing in this program
-        except (urllib.request.HTTPError, urllib.request.URLError) as err:
+        except (urllib.request.HTTPError, urllib.request.URLError,
+                xml.etree.ElementTree.ParseError) as err:
             print(filename + ": " + str(err))
 
         return xml_root
@@ -122,7 +125,10 @@ def populate_dataframe(df):
         xml_root = retrieve_xml_from_url(xml_doc)
         # The .text is needed to extract the text from the XML element rather than just getting some
         # nonsense summary data
-        df.loc[curr_project,'abstract'] = xml_root.find('./gtr:projectComposition/gtr:project/gtr:abstractText', {'gtr': XML_NAMESPACE}).text
+        if xml_root:
+            df.loc[curr_project, 'abstract'] = xml_root.find('./gtr:projectComposition/gtr:project/gtr:abstractText', {'gtr': XML_NAMESPACE}).text
+        else:
+            df.loc[curr_project, 'abstract'] = ''
 
     return df
 

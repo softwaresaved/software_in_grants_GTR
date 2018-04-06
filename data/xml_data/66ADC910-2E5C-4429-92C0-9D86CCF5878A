@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/B6FB652A-60C3-48DD-9A33-075D1F759B48"><gtr:id>B6FB652A-60C3-48DD-9A33-075D1F759B48</gtr:id><gtr:name>University of Warwick</gtr:name><gtr:department>Mathematics</gtr:department><gtr:address><gtr:line1>Warwickshire</gtr:line1><gtr:line4>Coventry</gtr:line4><gtr:line5>West Midlands</gtr:line5><gtr:postCode>CV4 7AL</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/B6FB652A-60C3-48DD-9A33-075D1F759B48"><gtr:id>B6FB652A-60C3-48DD-9A33-075D1F759B48</gtr:id><gtr:name>University of Warwick</gtr:name><gtr:address><gtr:line1>Warwickshire</gtr:line1><gtr:line4>Coventry</gtr:line4><gtr:line5>West Midlands</gtr:line5><gtr:postCode>CV4 7AL</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/7E7E17C3-5BB7-4898-A703-74BFE7BD6F07"><gtr:id>7E7E17C3-5BB7-4898-A703-74BFE7BD6F07</gtr:id><gtr:firstName>Dmitriy</gtr:firstName><gtr:surname>Rumynin</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/4359A00A-AE52-40E5-A0A2-4260920E3404"><gtr:id>4359A00A-AE52-40E5-A0A2-4260920E3404</gtr:id><gtr:firstName>Miles</gtr:firstName><gtr:surname>Reid</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=EP%2FL018314%2F1"><gtr:id>66ADC910-2E5C-4429-92C0-9D86CCF5878A</gtr:id><gtr:title>Warwick EPSRC Symposium on Derived Categories and Applications</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/L018314/1</gtr:grantReference><gtr:abstractText>The planned 2014-2015 Warwick EPSRC symposium is a year long concentrated activity on the theory and applications of derived categories. The subject of derived categories emerged in the second half of the 20th century as a distillation of the ideas of homological algebra, which calculates invariants of a topological space such as its &amp;quot;number of n-dimensional holes&amp;quot;. While more high brow and abstract than the more primary methods of attaching invariants to a mathematical or physical object, the derived category has a number of important advantages, allowing us to see so-called &amp;quot;quantum symmetries&amp;quot; of manifolds that are inaccessible to more conventional theories. They are thus an essential ingredient of attempts to understand the mathematics of physically important theories such as string theory, mirror symmetry and supersymmetry.
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/B6FB652A-60C3-48DD-9A33-075D1F759B48"><gtr:id>B6FB652A-60C3-48DD-9A33-075D1F759B48</gtr:id><gtr:name>University of Warwick</gtr:name><gtr:department>Mathematics</gtr:department><gtr:address><gtr:line1>Warwickshire</gtr:line1><gtr:line4>Coventry</gtr:line4><gtr:line5>West Midlands</gtr:line5><gtr:postCode>CV4 7AL</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/B6FB652A-60C3-48DD-9A33-075D1F759B48"><gtr:id>B6FB652A-60C3-48DD-9A33-075D1F759B48</gtr:id><gtr:name>University of Warwick</gtr:name><gtr:address><gtr:line1>Warwickshire</gtr:line1><gtr:line4>Coventry</gtr:line4><gtr:line5>West Midlands</gtr:line5><gtr:postCode>CV4 7AL</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/7E7E17C3-5BB7-4898-A703-74BFE7BD6F07"><gtr:id>7E7E17C3-5BB7-4898-A703-74BFE7BD6F07</gtr:id><gtr:firstName>Dmitriy</gtr:firstName><gtr:surname>Rumynin</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/4359A00A-AE52-40E5-A0A2-4260920E3404"><gtr:id>4359A00A-AE52-40E5-A0A2-4260920E3404</gtr:id><gtr:firstName>Miles</gtr:firstName><gtr:surname>Reid</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=EP%2FL018314%2F1"><gtr:id>66ADC910-2E5C-4429-92C0-9D86CCF5878A</gtr:id><gtr:title>Warwick EPSRC Symposium on Derived Categories and Applications</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/L018314/1</gtr:grantReference><gtr:abstractText>The planned 2014-2015 Warwick EPSRC symposium is a year long concentrated activity on the theory and applications of derived categories. The subject of derived categories emerged in the second half of the 20th century as a distillation of the ideas of homological algebra, which calculates invariants of a topological space such as its &amp;quot;number of n-dimensional holes&amp;quot;. While more high brow and abstract than the more primary methods of attaching invariants to a mathematical or physical object, the derived category has a number of important advantages, allowing us to see so-called &amp;quot;quantum symmetries&amp;quot; of manifolds that are inaccessible to more conventional theories. They are thus an essential ingredient of attempts to understand the mathematics of physically important theories such as string theory, mirror symmetry and supersymmetry.
 
 Starting from the top, the more theoretical aspects covered during the year involve abstract notions such as higher category theory, DG enhancements and derived geometry. These are substantial generalisations of conventional geometry and category theory, and the theory is currently at the level of understanding and standardising the foundations of the new subject. This is an exciting stage in the development of a mathematical theory, but not one that can be convincingly explained in simple terms. Our symposium will run several schools and workshops at different levels expanding on these matters.
 
@@ -25,7 +25,125 @@ As with other recent Warwick EPSRC symposia, the 2014-2014 Symposium on Derived 
 
 3. Supporting several leading UK groups in this active and vibrant area and enhancing their position at the cutting edge of research.
 
-In particular, this project supports the drive on the part of UK universities to generate top-quality research. This is far from merely a matter of national prestige; no country can maintain economic success without a strong scientific base and outstanding universities and, in particular, without strong foundations in mathematical research.</gtr:potentialImpactText><gtr:fund><gtr:end>2015-08-31</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2014-09-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>159849</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs><gtr:disseminationOutput><gtr:description>Derived Algebraic Geometry,with a focus on derived symplectic techniques</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>67ED3053-768D-47C9-B908-D5A7D6A5D8E9</gtr:id><gtr:impact>Concentration period and school, then workshop
+In particular, this project supports the drive on the part of UK universities to generate top-quality research. This is far from merely a matter of national prestige; no country can maintain economic success without a strong scientific base and outstanding universities and, in particular, without strong foundations in mathematical research.</gtr:potentialImpactText><gtr:fund><gtr:end>2015-08-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2014-09-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>159849</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs><gtr:disseminationOutput><gtr:description>Introductory School on Derived Categories Mon 8th - Fri 12th September 2014, University of Warwick</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>B6199756-EBCF-48BD-BD4E-1C78F4ADF277</gtr:id><gtr:impact>Introductory School on Derived Categories Mon 8th - Fri 12th September 2014, University of Warwick
+
+This school is aimed at broad audience, including PhD students, early postdocs and specialists in neighbouring areas. It is an opening event of the 2014-2015 Warwick EPSRC symposium &amp;quot;Derived categories and their applications&amp;quot;, serving as an introduction and an essential technical preparation. The school comprises four lecture courses, several stand-alone talks and a number of exercise sessions.
+
+Organisers: Alexander Efimov (Warwick), Timothy Logvinenko (Cardiff), Miles Reid (Warwick)
+
+Three lecture courses: Tom Bridgeland (Sheffield), Alexander Kuznetsov (Steklov Institute), Timothy Logvinenko (Cardiff)
+
+Bridgeland: Introduction to derived categories and stability conditions (6 lectures)
+Kuznetsov: Semiorthogonal decomposition of derived categories (6 lectures)
+Logvinenko: Introduction to DG-categories (5 lectures)
+
+Guest lectures: Dominic Joyce (Oxford), Hiraku NAKAJIMA (RIMS)
+
+Contact: LogvinenkoT at cardiff ac uk
+
+Program:
+http://www.cantab.net/users/t.logvinenko/2014-wrwsym/01-intro-program.html</gtr:impact><gtr:outcomeId>56dd6e9e59bff4.07976753</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www.cantab.net/users/t.logvinenko/2014-wrwsym/01-intro-program.html</gtr:url><gtr:year>2014</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Workshop: &quot;Derived categories and birational geometry&quot;</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>405B2F6E-B188-4566-8FC1-1EC6F6343EA5</gtr:id><gtr:impact>Workshop Derived categories and birational geometry&amp;quot;
+Mon 1st - Sat 6th June 2015, University of Warwick
+
+The goal of this workshop is to bring together specialists in birational geometry and derived categories to develop and capitalise on some of the advances made in the last decade in these subjects. These include Kawamata's description of Minimal Model Program for derived categories of toric stacks, Van den Berg and Iyama-Wemyss' constructions of noncommutative resolutions of singularities and Kuznetsov-Lunts'
+construction of a categorical resolution of irrational singularities.
+
+Scope: Minimal model program via derived categories. Mori contractions and exceptional objects, flops and spherical objects. Categorical resolution of singularities. Birational invariants via derived categories. Homological projective duality.
+
+Organisers: Alexander Kuznetsov (Steklov Institute), Timothy Logvinenko (Cardiff)
+
+Speakers: Nicolas Addington (Duke), Valery Alexeev (Georgia), Alexei Bondal (Steklov), Agnieszka Bodzenta-Skibinska (HSE), Marcello Bernardara (Toulouse), Tom Bridgeland (Sheffield), Paolo Cascini (Imperial), Alessio Corti (Imperial), Tom Ducat (Warwick), Alexander Efimov (Steklov and HSE), Daniel Halpern-Leistner(Columbia), Daniel Huybrechts (Bonn), Colin Ingalls (New Brunswick), Dmitri Kaledin (Steklov), Ludmil Katzarkov (Vienna), Yujiro Kawamata (Tokyo), Valery Lunts (Indiana), Dmitri Orlov (Steklov), Evgeny Shinder (Sheffield), Richard Thomas (Imperial), Yukinobu Toda (IPMU), Michel Van den Bergh (Hasselt), Michael Wemyss (Edinburgh), Jaroslaw Wlodarczyk (Purdue)
+
+Program
+http://www.cantab.net/users/t.logvinenko/2014-wrwsym/08-birg-program.html</gtr:impact><gtr:outcomeId>56dd7062794af0.02728583</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www.cantab.net/users/t.logvinenko/2014-wrwsym/08-birg-program.html</gtr:url><gtr:year>2015</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Workshop: &quot;DG-enhancements and higher category methods&quot;</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>4CD5AD62-ACED-40ED-8869-A2BBCA8B996D</gtr:id><gtr:impact>Workshop
+&amp;quot;DG-enhancements and higher category methods&amp;quot;
+Mon 8th - Fri 12th December 2014, University of Warwick
+
+The conference will focus on recent developments arising from higher category theory, including DG enhancements of derived categories and Kontsevich's program of noncommutative geometry that treats abstract DG categories geometrically.
+
+Scope: DG, A_infty and higher categories. Enhancements. Derived Morita theory. DG categories of matrix factorisations. Moduli of objects in a DG category. Noncommutative geometry and noncommutative Hodge theory.
+Noncommutative motives.
+
+Organisers: Alexander Efimov (Steklov/Warwick), Dmitri Kaledin (Steklov), Timothy Logvinenko (Cardiff)
+
+Speakers:
+Sergey Arkhipov (Aarhus), Oren Ben-Bassat (Oxford), Yuri Berest (Cornell), Jonathan Block (UPenn), Andrew Blumberg (Texas), Agnieszka Bodzenta-Skibinska (HSE), Alexei Bondal (Steklov and IPMU), Ezra Getzler (Chicago), Alexander Kuznetsov (Steklov), Wendy Lowen (Antwerpen), Valery Lunts (Indiana), Francois Petit (Edinburgh), Olaf Schn&amp;uuml;rer (Bonn), Michel Van den Bergh (Hasselt), Michel Vaquie (Toulouse), Vadim Vologodsky (Oregon), Amnon Yekutieli (Ben Gurion)
+
+Program
+http://www.cantab.net/users/t.logvinenko/2014-wrwsym/03-hcat-program.html</gtr:impact><gtr:outcomeId>56dd6f1f93efd6.62599747</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www.cantab.net/users/t.logvinenko/2014-wrwsym/03-hcat-program.html</gtr:url><gtr:year>2014</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Workshop &quot;McKay correspondence, orbifolds, quivers&quot;</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>64C8EAB1-31A1-4540-B8F3-B2DF8E3D1D00</gtr:id><gtr:impact>Workshop &amp;quot;McKay correspondence, orbifolds, quivers&amp;quot;
+Mon 15th - Fri 19th September 2014, University of Warwick
+
+The workshop aims to highlight a currently thriving area of research, including its links with representation theory, dimer models and symplectic geometry, and to map out new directions of research, such as derived geometry applied to the case of GL(3), SL(4) and higher dimensions.
+
+Scope: Derived category techniques linking orbifold geometry, quiver representations, dimer models, etc. The derived category of a Deligne-Mumford stack and the McKay correspondence. Quiver varieties.
+Dimer models. Mutations. Bipartite field theories.
+
+Organisers: Alastair Craw (Bath), Timothy Logvinenko (Cardiff), Miles Reid (Warwick)
+
+Speakers: Christian Boehning (Hamburg), Sergey Galkin (HSE, Moscow), Mikhail Gorsky (Paris 7), Amihay Hanany (Imperial), Akira ISHII (Hiroshima), Yukari ITO (Nagoya), Alastair King (Bath), Joe Karmazyn (Edinburgh), Chunyi Li (Edinburgh), Christina Manolache (Imperial), Hiraku NAKAJIMA (RIMS, Kyoto), David Ploog (Hannover), Evgeny Shinder (Edinburgh), Ian Shipman (UMich), Pawel Sosna (Hamburg), Michael Wemyss
+(Edinburgh)
+
+Program:
+http://www.cantab.net/users/t.logvinenko/2014-wrwsym/02-mck-program.html
+
+Adjacent activity:
+
+BrAG (British Algebraic Geometry) meeting @ University of Warwick, 22nd-24th September, 2014
+
+Organisers: Arend Bayer (Edinburgh), Milena Hering (Edinburgh), Diane Maclagan (Warwick), Balazs Szendroi (Oxford)</gtr:impact><gtr:outcomeId>56dd6ede4d3622.48205184</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www.cantab.net/users/t.logvinenko/2014-wrwsym/02-mck-program.html</gtr:url><gtr:year>2014</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Conference: Derived categories, algebra and representation theory</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>B0DDCEF2-8B5A-4305-AB6C-30A8C39B5D2C</gtr:id><gtr:impact>Conference
+Derived categories, algebra and representation theory Mon 23rd-Fri 27th March 2015
+
+Organisers: Iain Gordon, Dmitriy Rumynin, Toby Stafford
+
+A week long conference.
+
+There are two classes of algebras whose representation theory perpetuates the elegance of the representation theory of simple finite dimensional Lie algebras: rational Cherednik algebras and finite W-algebras. Their modern study began around 2002 and inherited a range of diverse ideas and methods from Lie algebras: D-modules, localisations, quantisations, derived categories, etc. These ideas have propagated to many other subjects: algebraic geometry, modular representation theory and theoretical physics, to name but a few. Two recent examples of their fertility are the AGT conjecture and the fusion of the geometric Langlands program with string theory. We propose to hold a workshop, centered on algebraic and representation theoretic aspects of this circle of ideas.
+
+Speakers: Pramod Achar (Louisiana), Gwyn Bellamy (Glasgow), Tobias Dyckerhoff (Oxford), Victor Ginzburg (Chicago), David Jordan (Edinburgh), Alastair King (Bath), Wendy Lowen (Antwerpen), Kevin McGerty (Oxford), Vanessa Miemietz (East Anglia), Alexander Premet (Manchester), Catharina Stroppel (Bonn), Balazs Szendroi (Oxford), Michel Van den Bergh (Hasselt), Ben Webster (Virginia)
+
+Program
+http://www.cantab.net/users/t.logvinenko/2014-wrwsym/06-algrt-program.html</gtr:impact><gtr:outcomeId>56dd6fd3d62719.83549137</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www.cantab.net/users/t.logvinenko/2014-wrwsym/06-algrt-program.html</gtr:url><gtr:year>2015</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>EPSRC Warwick Symposium 2014-15: Derived Categories and Applications</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>DE96325F-792C-43DD-8B35-93C93E8A24C4</gtr:id><gtr:impact>EPSRC Warwick Symposium 2014-15:
+Derived Categories and Applications
+Sep 2014 - Aug 2015, University of Warwick
+
+The 2014-2015 Warwick EPSRC symposium is a year long concentrated activity on the theory and applications of derived categories. The aspects it covers range from higher category theory, derived geometry and homological mirror symmetry to applications in classical algebraic geometry and representation theory.
+
+Organisers: Miles Reid (Warwick), Timothy Logvinenko (Cardiff), Dmitri Rumynin (Warwick), Toby Stafford (Manchester)
+
+Event Coorganisers: Arend Bayer (Edinburgh), Kai Behrend (University of British Columbia), Tom Bridgeland (Sheffield), Alastair Craw (Bath), Alexander Efimov (Warwick and Steklov Institute), Barbara Fantechi (Trieste), Iain Gordon (Edinburgh), Mark Gross (Cambridge), Dmitri Kaledin (Steklov Institute), Ludmil Katzarkov (UCI/Vienna), Yujiro Kawamata (Tokyo), Alexander Kuznetsov (Steklov Institute), Peter Newstead (Liverpool)
+
+Full details available from
+http://www.cantab.net/users/t.logvinenko/2014-wrwsym/
+http://www2.warwick.ac.uk/fac/sci/maths/research/events/2014-15/symposium/</gtr:impact><gtr:outcomeId>56dd6e5e974751.00436597</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www2.warwick.ac.uk/fac/sci/maths/research/events/2014-15/symposium/</gtr:url><gtr:year>2014,2015</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Workshop &quot;Homological Mirror Symmetry and Hodge Theory&quot;</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>E8675E0F-C052-484D-80FD-68ABA0F8E3CB</gtr:id><gtr:impact>Workshop &amp;quot;Homological Mirror Symmetry and Hodge Theory&amp;quot;
+Mon 29th June - Fri 3rd July 2015, University of Warwick
+
+The Homological Mirror Symmetry conjecture (HMS) was first proposed by Maxim Kontsevich in his 1994 ICM talk. This suggested that mirror symmetry could be explained as an isomorphism between symplectic and complex geometry, made explicit as an isomorphism between the Fukaya category of Lagrangians and the derived category of coherent sheaves.
+
+Since it was first proposed, huge strides have been made. The foundations of the Fukaya category have solidified, and many cases of HMS have been actually proven, including for Landau-Ginzburg mirrors to toric varieties, certain hypersurfaces in projective space, and punctured Riemann surfaces. Other recent progress is leading to a greater understanding of what needs to be done to complete a proof of HMS in general.
+
+This workshop will draw together many key players in the field, specialists both on the symplectic side and the complex side. We hope that the workshop will provide an environment which will foster new progress on HMS and related questions.
+
+Scope: Homological Mirror Symmetry. TQFT. Quantum integrable systems.
+Wall Crossing. BPS spectrum and Gaiotto-Moore-Neitzke construction. DT theory. Alday-Gaiotto-Tachikawa conjectures. Homological invariants of knots and their relation to string theory. Stability Hodge Structures.
+
+Organisers: Mark Gross (Cambridge), Ludmil Katzarkov (Vienna and Miami)
+
+Speakers: Mohammed Abouzaid (Columbia), Matt Ballard (South Carolina), Colin Diemer (Miami), Paul Hacking (UMass), Paul Horja (Vienna), Ailsa Keating (Columbia), Sean Keel (Texas), Tyler Kelly (Cambridge), Gabriel Kerr (Kansas State), Diego Matessi (Milan), Artan Sheshmani (Ohio State), Ivan Smith (Cambridge), Yan Soibelman (Kansas State), Balazs Szendroi (Oxford), Jingyu Zhao (Columbia)
+
+Program
+https://www2.warwick.ac.uk/fac/sci/maths/research/events/2014-15/symposium/hmsht/programme/</gtr:impact><gtr:outcomeId>56dd70e5028644.74384583</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>https://www2.warwick.ac.uk/fac/sci/maths/research/events/2014-15/symposium/hmsht/programme/</gtr:url><gtr:year>2015</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Concentration period and Workshop: &quot;Geometry from stability conditions&quot;</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>8F49269B-5F7C-4B0B-97AA-999F893CA2DE</gtr:id><gtr:impact>Concentration period and Workshop
+&amp;quot;Geometry from stability conditions&amp;quot;
+Mon 16th - Fri 20th February 2015, University of Warwick
+
+Surrounding the workshop, from February 8 until February 27, there will be a three week concentration period on connections between birational geometry and stability conditions. Everyone is invited to attend. Please see the links above for the schedule of talks in the weeks before and after the workshop.
+
+The topic of this workshop will be applications of the theory of stability conditions to results in algebraic geometry.
+
+Scope: Birational geometry of moduli spaces. Stability conditions on threefolds. Potential connections to the Gross-Siebert programme via wall-crossing and mirror symmetry.
+
+Organisers: Arend Bayer (Edinburgh), Tom Bridgeland (Sheffield)
+
+Speakers: Aaron Bertram (Utah), Alastair Craw (Bath), Izzet Coskun (UIC), Mark Gross (Cambridge), Jack Huizenga (UIC), Akishi Ikeda (Tokyo), Kohei Iwaki (Kyoto), Chunyi Li (Edinburgh), Antony Maciocia (Edinburgh), Emanuele Macr&amp;igrave; (Ohio State), Howard Nuer (Rutgers), Dulip Piyaratne (IPMU), Ivan Smith (Cambridge), Paolo Stellari (Milano), Jacopo Stoppa (Pavia), Tom Sutherland (Pavia), Yukinobu Toda (IMPU), Matthew Woolf (UIC), Kota Yoshioka (Kobe), Yu Qiu (NTNU)</gtr:impact><gtr:outcomeId>56dd6f6033f742.50071902</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:year>2015</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Derived Algebraic Geometry,with a focus on derived symplectic techniques</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>9B4BDFAC-D643-4FC6-8E50-D79BF4A398E6</gtr:id><gtr:impact>Concentration period and school, then workshop
 Organiser: Kai Behrend
 
 Derived Algebraic Geometry,
@@ -47,138 +165,7 @@ Talk Titles
  Vladimir Baranovsky: Formal Geometry and Quantization of Sheaves Oren Ben-Bassat: Multiple Lagrangian Intersections Emile Bouaziz: Derived symplectic loop schemes Chris Brav: A Darboux theorem for shifted symplectic derived stacks Ben Davison: Integrality of DT invariants and Yangian actions Ezra Getzler: Higher groupoids Victor Ginzburg: Indecomposable objects and potentials over a finite field Owen Gwilliam: Anomalies and families of Batalain-Vilkovisky field theories Dominic Joyce: Categorification of -1-shifted symplectic derived schemes using perverse sheaves Mikhail Kapranov: Derived varieties of complexes Ludmil Katzarkov: Sheaves of Categories and Applications Valerio Melani: Shifted Poisson structures on affine derived stacks Jon Pridham: Shifted symplectic and Poisson structures Nick Rozenblyum: Symplectic groupoids and shifted Poisson structures Nicolo Sibilla: Derived loop stacks and categorification of orbifold products Yan Soibelman: Perverse sheaves of A-infinity categories and wall-crossing formulas Boris Tsygan: Microlocal methods and higher structures in symplectic geometry Michel Vaqui&amp;eacute;: Systems of points in saturated dg-categories Ping Xu: Eplicit formulas for shifted Poisson and shifted symplectic structures on [G/G]
 
 Program
-http://www.math.ubc.ca/~behrend/warwick/</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www.math.ubc.ca/~behrend/warwick/</gtr:url><gtr:year>2015</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Introductory School on Derived Categories Mon 8th - Fri 12th September 2014, University of Warwick</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>5BCE49E0-42FF-4898-8A27-EBC9ABC25CE9</gtr:id><gtr:impact>Introductory School on Derived Categories Mon 8th - Fri 12th September 2014, University of Warwick
-
-This school is aimed at broad audience, including PhD students, early postdocs and specialists in neighbouring areas. It is an opening event of the 2014-2015 Warwick EPSRC symposium &amp;quot;Derived categories and their applications&amp;quot;, serving as an introduction and an essential technical preparation. The school comprises four lecture courses, several stand-alone talks and a number of exercise sessions.
-
-Organisers: Alexander Efimov (Warwick), Timothy Logvinenko (Cardiff), Miles Reid (Warwick)
-
-Three lecture courses: Tom Bridgeland (Sheffield), Alexander Kuznetsov (Steklov Institute), Timothy Logvinenko (Cardiff)
-
-Bridgeland: Introduction to derived categories and stability conditions (6 lectures)
-Kuznetsov: Semiorthogonal decomposition of derived categories (6 lectures)
-Logvinenko: Introduction to DG-categories (5 lectures)
-
-Guest lectures: Dominic Joyce (Oxford), Hiraku NAKAJIMA (RIMS)
-
-Contact: LogvinenkoT at cardiff ac uk
-
-Program:
-http://www.cantab.net/users/t.logvinenko/2014-wrwsym/01-intro-program.html</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www.cantab.net/users/t.logvinenko/2014-wrwsym/01-intro-program.html</gtr:url><gtr:year>2014</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Conference: Derived categories, algebra and representation theory</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>EB00182F-8FC4-43FE-A327-E7084F6BF980</gtr:id><gtr:impact>Conference
-Derived categories, algebra and representation theory Mon 23rd-Fri 27th March 2015
-
-Organisers: Iain Gordon, Dmitriy Rumynin, Toby Stafford
-
-A week long conference.
-
-There are two classes of algebras whose representation theory perpetuates the elegance of the representation theory of simple finite dimensional Lie algebras: rational Cherednik algebras and finite W-algebras. Their modern study began around 2002 and inherited a range of diverse ideas and methods from Lie algebras: D-modules, localisations, quantisations, derived categories, etc. These ideas have propagated to many other subjects: algebraic geometry, modular representation theory and theoretical physics, to name but a few. Two recent examples of their fertility are the AGT conjecture and the fusion of the geometric Langlands program with string theory. We propose to hold a workshop, centered on algebraic and representation theoretic aspects of this circle of ideas.
-
-Speakers: Pramod Achar (Louisiana), Gwyn Bellamy (Glasgow), Tobias Dyckerhoff (Oxford), Victor Ginzburg (Chicago), David Jordan (Edinburgh), Alastair King (Bath), Wendy Lowen (Antwerpen), Kevin McGerty (Oxford), Vanessa Miemietz (East Anglia), Alexander Premet (Manchester), Catharina Stroppel (Bonn), Balazs Szendroi (Oxford), Michel Van den Bergh (Hasselt), Ben Webster (Virginia)
-
-Program
-http://www.cantab.net/users/t.logvinenko/2014-wrwsym/06-algrt-program.html</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www.cantab.net/users/t.logvinenko/2014-wrwsym/06-algrt-program.html</gtr:url><gtr:year>2015</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>EPSRC Warwick Symposium 2014-15: Derived Categories and Applications</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>380B43AF-4D7B-4978-9534-F2DA91F3F003</gtr:id><gtr:impact>EPSRC Warwick Symposium 2014-15:
-Derived Categories and Applications
-Sep 2014 - Aug 2015, University of Warwick
-
-The 2014-2015 Warwick EPSRC symposium is a year long concentrated activity on the theory and applications of derived categories. The aspects it covers range from higher category theory, derived geometry and homological mirror symmetry to applications in classical algebraic geometry and representation theory.
-
-Organisers: Miles Reid (Warwick), Timothy Logvinenko (Cardiff), Dmitri Rumynin (Warwick), Toby Stafford (Manchester)
-
-Event Coorganisers: Arend Bayer (Edinburgh), Kai Behrend (University of British Columbia), Tom Bridgeland (Sheffield), Alastair Craw (Bath), Alexander Efimov (Warwick and Steklov Institute), Barbara Fantechi (Trieste), Iain Gordon (Edinburgh), Mark Gross (Cambridge), Dmitri Kaledin (Steklov Institute), Ludmil Katzarkov (UCI/Vienna), Yujiro Kawamata (Tokyo), Alexander Kuznetsov (Steklov Institute), Peter Newstead (Liverpool)
-
-Full details available from
-http://www.cantab.net/users/t.logvinenko/2014-wrwsym/
-http://www2.warwick.ac.uk/fac/sci/maths/research/events/2014-15/symposium/</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www2.warwick.ac.uk/fac/sci/maths/research/events/2014-15/symposium/</gtr:url><gtr:year>2014,2015</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>School: Derived Categories, Weyl Algebras and Hodge Theory</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>F93FC8C7-33C8-425D-9C89-BDD2BF2A2022</gtr:id><gtr:impact>School: Derived Categories, Weyl Algebras and Hodge Theory Mon 16th-Fri 20th March 2015, University of Warwick
-
-Organisers: Dmitriy Rumynin, Toby Stafford
-
-A week long school preceding the &amp;quot;Derived categories, algebra and representation theory&amp;quot; conference. For PhD students/early postdocs.
-
-Includes mini-courses on:
-
-
-Mini-course speakers: Geordie Williamson (MPIM): Derived Categories of Constructible Sheaves, Jean-Baptiste Teyssier (Berlin) Weyl Algebras, Luca Migliorini (Bologna), Hodge Theory: Hodge structures, Hodge modules, Decomposition Theorem.
-Guest speakers: Frances Kirwan (Oxford), Wolfgang Soergel (Freiburg)
-
-Program
-http://www.cantab.net/users/t.logvinenko/2014-wrwsym/05-waho-program.html</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www.cantab.net/users/t.logvinenko/2014-wrwsym/05-waho-program.html</gtr:url><gtr:year>2015</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Workshop &quot;McKay correspondence, orbifolds, quivers&quot;</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>D7A0762E-1F90-44E1-B4B8-D61DDD4D7E41</gtr:id><gtr:impact>Workshop &amp;quot;McKay correspondence, orbifolds, quivers&amp;quot;
-Mon 15th - Fri 19th September 2014, University of Warwick
-
-The workshop aims to highlight a currently thriving area of research, including its links with representation theory, dimer models and symplectic geometry, and to map out new directions of research, such as derived geometry applied to the case of GL(3), SL(4) and higher dimensions.
-
-Scope: Derived category techniques linking orbifold geometry, quiver representations, dimer models, etc. The derived category of a Deligne-Mumford stack and the McKay correspondence. Quiver varieties.
-Dimer models. Mutations. Bipartite field theories.
-
-Organisers: Alastair Craw (Bath), Timothy Logvinenko (Cardiff), Miles Reid (Warwick)
-
-Speakers: Christian Boehning (Hamburg), Sergey Galkin (HSE, Moscow), Mikhail Gorsky (Paris 7), Amihay Hanany (Imperial), Akira ISHII (Hiroshima), Yukari ITO (Nagoya), Alastair King (Bath), Joe Karmazyn (Edinburgh), Chunyi Li (Edinburgh), Christina Manolache (Imperial), Hiraku NAKAJIMA (RIMS, Kyoto), David Ploog (Hannover), Evgeny Shinder (Edinburgh), Ian Shipman (UMich), Pawel Sosna (Hamburg), Michael Wemyss
-(Edinburgh)
-
-Program:
-http://www.cantab.net/users/t.logvinenko/2014-wrwsym/02-mck-program.html
-
-Adjacent activity:
-
-BrAG (British Algebraic Geometry) meeting @ University of Warwick, 22nd-24th September, 2014
-
-Organisers: Arend Bayer (Edinburgh), Milena Hering (Edinburgh), Diane Maclagan (Warwick), Balazs Szendroi (Oxford)</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www.cantab.net/users/t.logvinenko/2014-wrwsym/02-mck-program.html</gtr:url><gtr:year>2014</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Workshop &quot;Homological Mirror Symmetry and Hodge Theory&quot;</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>AE9B3199-A1B6-4E60-9458-10A85427E2CF</gtr:id><gtr:impact>Workshop &amp;quot;Homological Mirror Symmetry and Hodge Theory&amp;quot;
-Mon 29th June - Fri 3rd July 2015, University of Warwick
-
-The Homological Mirror Symmetry conjecture (HMS) was first proposed by Maxim Kontsevich in his 1994 ICM talk. This suggested that mirror symmetry could be explained as an isomorphism between symplectic and complex geometry, made explicit as an isomorphism between the Fukaya category of Lagrangians and the derived category of coherent sheaves.
-
-Since it was first proposed, huge strides have been made. The foundations of the Fukaya category have solidified, and many cases of HMS have been actually proven, including for Landau-Ginzburg mirrors to toric varieties, certain hypersurfaces in projective space, and punctured Riemann surfaces. Other recent progress is leading to a greater understanding of what needs to be done to complete a proof of HMS in general.
-
-This workshop will draw together many key players in the field, specialists both on the symplectic side and the complex side. We hope that the workshop will provide an environment which will foster new progress on HMS and related questions.
-
-Scope: Homological Mirror Symmetry. TQFT. Quantum integrable systems.
-Wall Crossing. BPS spectrum and Gaiotto-Moore-Neitzke construction. DT theory. Alday-Gaiotto-Tachikawa conjectures. Homological invariants of knots and their relation to string theory. Stability Hodge Structures.
-
-Organisers: Mark Gross (Cambridge), Ludmil Katzarkov (Vienna and Miami)
-
-Speakers: Mohammed Abouzaid (Columbia), Matt Ballard (South Carolina), Colin Diemer (Miami), Paul Hacking (UMass), Paul Horja (Vienna), Ailsa Keating (Columbia), Sean Keel (Texas), Tyler Kelly (Cambridge), Gabriel Kerr (Kansas State), Diego Matessi (Milan), Artan Sheshmani (Ohio State), Ivan Smith (Cambridge), Yan Soibelman (Kansas State), Balazs Szendroi (Oxford), Jingyu Zhao (Columbia)
-
-Program
-https://www2.warwick.ac.uk/fac/sci/maths/research/events/2014-15/symposium/hmsht/programme/</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>https://www2.warwick.ac.uk/fac/sci/maths/research/events/2014-15/symposium/hmsht/programme/</gtr:url><gtr:year>2015</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Workshop: &quot;Derived categories and birational geometry&quot;</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>A538CA25-C383-4A0E-809A-16B65814EA6E</gtr:id><gtr:impact>Workshop Derived categories and birational geometry&amp;quot;
-Mon 1st - Sat 6th June 2015, University of Warwick
-
-The goal of this workshop is to bring together specialists in birational geometry and derived categories to develop and capitalise on some of the advances made in the last decade in these subjects. These include Kawamata's description of Minimal Model Program for derived categories of toric stacks, Van den Berg and Iyama-Wemyss' constructions of noncommutative resolutions of singularities and Kuznetsov-Lunts'
-construction of a categorical resolution of irrational singularities.
-
-Scope: Minimal model program via derived categories. Mori contractions and exceptional objects, flops and spherical objects. Categorical resolution of singularities. Birational invariants via derived categories. Homological projective duality.
-
-Organisers: Alexander Kuznetsov (Steklov Institute), Timothy Logvinenko (Cardiff)
-
-Speakers: Nicolas Addington (Duke), Valery Alexeev (Georgia), Alexei Bondal (Steklov), Agnieszka Bodzenta-Skibinska (HSE), Marcello Bernardara (Toulouse), Tom Bridgeland (Sheffield), Paolo Cascini (Imperial), Alessio Corti (Imperial), Tom Ducat (Warwick), Alexander Efimov (Steklov and HSE), Daniel Halpern-Leistner(Columbia), Daniel Huybrechts (Bonn), Colin Ingalls (New Brunswick), Dmitri Kaledin (Steklov), Ludmil Katzarkov (Vienna), Yujiro Kawamata (Tokyo), Valery Lunts (Indiana), Dmitri Orlov (Steklov), Evgeny Shinder (Sheffield), Richard Thomas (Imperial), Yukinobu Toda (IPMU), Michel Van den Bergh (Hasselt), Michael Wemyss (Edinburgh), Jaroslaw Wlodarczyk (Purdue)
-
-Program
-http://www.cantab.net/users/t.logvinenko/2014-wrwsym/08-birg-program.html</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www.cantab.net/users/t.logvinenko/2014-wrwsym/08-birg-program.html</gtr:url><gtr:year>2015</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Concentration period and Workshop: &quot;Geometry from stability conditions&quot;</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>1C55E394-5188-4C48-9168-CCC5F0CFBDB0</gtr:id><gtr:impact>Concentration period and Workshop
-&amp;quot;Geometry from stability conditions&amp;quot;
-Mon 16th - Fri 20th February 2015, University of Warwick
-
-Surrounding the workshop, from February 8 until February 27, there will be a three week concentration period on connections between birational geometry and stability conditions. Everyone is invited to attend. Please see the links above for the schedule of talks in the weeks before and after the workshop.
-
-The topic of this workshop will be applications of the theory of stability conditions to results in algebraic geometry.
-
-Scope: Birational geometry of moduli spaces. Stability conditions on threefolds. Potential connections to the Gross-Siebert programme via wall-crossing and mirror symmetry.
-
-Organisers: Arend Bayer (Edinburgh), Tom Bridgeland (Sheffield)
-
-Speakers: Aaron Bertram (Utah), Alastair Craw (Bath), Izzet Coskun (UIC), Mark Gross (Cambridge), Jack Huizenga (UIC), Akishi Ikeda (Tokyo), Kohei Iwaki (Kyoto), Chunyi Li (Edinburgh), Antony Maciocia (Edinburgh), Emanuele Macr&amp;igrave; (Ohio State), Howard Nuer (Rutgers), Dulip Piyaratne (IPMU), Ivan Smith (Cambridge), Paolo Stellari (Milano), Jacopo Stoppa (Pavia), Tom Sutherland (Pavia), Yukinobu Toda (IMPU), Matthew Woolf (UIC), Kota Yoshioka (Kobe), Yu Qiu (NTNU)</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:year>2015</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Workshop: &quot;DG-enhancements and higher category methods&quot;</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>BD6D3A08-3D1B-43A6-865D-DCA10061E14F</gtr:id><gtr:impact>Workshop
-&amp;quot;DG-enhancements and higher category methods&amp;quot;
-Mon 8th - Fri 12th December 2014, University of Warwick
-
-The conference will focus on recent developments arising from higher category theory, including DG enhancements of derived categories and Kontsevich's program of noncommutative geometry that treats abstract DG categories geometrically.
-
-Scope: DG, A_infty and higher categories. Enhancements. Derived Morita theory. DG categories of matrix factorisations. Moduli of objects in a DG category. Noncommutative geometry and noncommutative Hodge theory.
-Noncommutative motives.
-
-Organisers: Alexander Efimov (Steklov/Warwick), Dmitri Kaledin (Steklov), Timothy Logvinenko (Cardiff)
-
-Speakers:
-Sergey Arkhipov (Aarhus), Oren Ben-Bassat (Oxford), Yuri Berest (Cornell), Jonathan Block (UPenn), Andrew Blumberg (Texas), Agnieszka Bodzenta-Skibinska (HSE), Alexei Bondal (Steklov and IPMU), Ezra Getzler (Chicago), Alexander Kuznetsov (Steklov), Wendy Lowen (Antwerpen), Valery Lunts (Indiana), Francois Petit (Edinburgh), Olaf Schn&amp;uuml;rer (Bonn), Michel Van den Bergh (Hasselt), Michel Vaquie (Toulouse), Vadim Vologodsky (Oregon), Amnon Yekutieli (Ben Gurion)
-
-Program
-http://www.cantab.net/users/t.logvinenko/2014-wrwsym/03-hcat-program.html</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www.cantab.net/users/t.logvinenko/2014-wrwsym/03-hcat-program.html</gtr:url><gtr:year>2014</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Conference &quot;Fourier-Mukai, 34 years on&quot;</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>F95D3493-2648-4FF4-ABD2-1DB97CBC11A5</gtr:id><gtr:impact>Conference &amp;quot;Fourier-Mukai, 34 years on&amp;quot;
+http://www.math.ubc.ca/~behrend/warwick/</gtr:impact><gtr:outcomeId>56dd7028132521.26687949</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www.math.ubc.ca/~behrend/warwick/</gtr:url><gtr:year>2015</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Conference &quot;Fourier-Mukai, 34 years on&quot;</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>7B28A1D8-0FB8-4363-BD4F-249D92470137</gtr:id><gtr:impact>Conference &amp;quot;Fourier-Mukai, 34 years on&amp;quot;
 VBAC2015 (Vector Bundles on Algebraic Curves 2015) Mon 15th - Fri 19th June 2015, Mathematics Research Centre, University of Warwick Supported by EPSRC, London Mathematical Society and Foundation Compositio
 
 Fourier-Mukai transforms were introduced in a celebrated paper of Mukai in 1981. His motivation was to obtain new information about certain moduli spaces. Since then, the theory has been massively developed and applied. The VBAC 2015 workshop will review these developments and draw attention to potential new applications.
@@ -196,4 +183,17 @@ Local organisers: Peter Newstead (Liverpool), Miles Reid (Warwick)
 Speakers: Arend Bayer (Edinburgh), Carmelo Di Natale (Cambridge), Roman Fedorov (Kansas), Francesco Genovese (Pavia), Martin Gulbrandsen (Stavanger), Katrina Honigs (Berkeley), Victoria Hoskins (FU Berlin), Inder Kaur (FU Berlin), Herbert Lange (Erlangen), Cristina L&amp;oacute;pez-Mart&amp;iacute;n (Salamanca), Antony Maciocia (Edinburgh), Margarida Melo (Coimbra/Roma Tre), Mudumbai Seshachalu Narasimhan (TIFR, Bangalore), Dmitri Orlov (Steklov), David Ploog (Hannover), Sundararaman Ramanan (Chennai), J&amp;oslash;rgen Rennemo (Imperial), Alice Rizzardo (Edinburgh), Fernando Sancho de Salas (Salamanca), Paolo Stellari (Milan), Szilard Szabo (Renyi Institute), Carlos Tejero Prieto (Salamanca), Kota Yoshioka (Kobe)
 
 Program
-http://www.cantab.net/users/t.logvinenko/2014-wrwsym/09-vbac-program.html</gtr:impact><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www.cantab.net/users/t.logvinenko/2014-wrwsym/09-vbac-program.html</gtr:url><gtr:year>2015</gtr:year></gtr:disseminationOutput></gtr:disseminationOutputs><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/E3A06B74-9E27-4E42-850E-1352FDF933FE"><gtr:id>E3A06B74-9E27-4E42-850E-1352FDF933FE</gtr:id><gtr:title>Derived Reid's recipe for abelian subgroups of SL3(C)</gtr:title><gtr:parentPublicationTitle>Journal f?r die reine und angewandte Mathematik (Crelles Journal)</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/9f82dd67e4ac5876299d59953fc9df3c"><gtr:id>9f82dd67e4ac5876299d59953fc9df3c</gtr:id><gtr:otherNames>Cautis S</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2014-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/B59609B2-5483-42D8-9BC1-36E4C3E7D8AE"><gtr:id>B59609B2-5483-42D8-9BC1-36E4C3E7D8AE</gtr:id><gtr:title>Bar category of modules and homotopy adjunction for tensor functors</gtr:title><gtr:parentPublicationTitle>ArXiv e-prints</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/76b70d8752216164cee620e8a6b33046"><gtr:id>76b70d8752216164cee620e8a6b33046</gtr:id><gtr:otherNames>Anno Rina</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date></gtr:publication><gtr:publication url="http://gtr.rcuk.ac.uk:80/publication/E6249767-4EAB-4F19-BE41-0A3CC35C3589"><gtr:id>E6249767-4EAB-4F19-BE41-0A3CC35C3589</gtr:id><gtr:title>Spherical DG-functors</gtr:title><gtr:parentPublicationTitle>The Journal of the European Mathematical Society</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.rcuk.ac.uk:80/person/f92f5542f75de993093c2da4330a9e32"><gtr:id>f92f5542f75de993093c2da4330a9e32</gtr:id><gtr:otherNames>Anno R</gtr:otherNames></gtr:author></gtr:authors></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">EP/L018314/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>DEA11FBC-BEED-4EDD-890B-97D728462D26</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Mathematical sciences</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>27F853CB-FB22-4B9D-82D7-542648D097F0</gtr:id><gtr:percentage>90</gtr:percentage><gtr:text>Algebra &amp; Geometry</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>ABA2EC9F-6524-443A-BB92-7DF199FE4B25</gtr:id><gtr:percentage>10</gtr:percentage><gtr:text>Mathematical Physics</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>
+http://www.cantab.net/users/t.logvinenko/2014-wrwsym/09-vbac-program.html</gtr:impact><gtr:outcomeId>56dd70a4c32400.30352683</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www.cantab.net/users/t.logvinenko/2014-wrwsym/09-vbac-program.html</gtr:url><gtr:year>2015</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>School: Derived Categories, Weyl Algebras and Hodge Theory</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>FED35723-5619-483D-8239-CCAD7C91698D</gtr:id><gtr:impact>School: Derived Categories, Weyl Algebras and Hodge Theory Mon 16th-Fri 20th March 2015, University of Warwick
+
+Organisers: Dmitriy Rumynin, Toby Stafford
+
+A week long school preceding the &amp;quot;Derived categories, algebra and representation theory&amp;quot; conference. For PhD students/early postdocs.
+
+Includes mini-courses on:
+
+
+Mini-course speakers: Geordie Williamson (MPIM): Derived Categories of Constructible Sheaves, Jean-Baptiste Teyssier (Berlin) Weyl Algebras, Luca Migliorini (Bologna), Hodge Theory: Hodge structures, Hodge modules, Decomposition Theorem.
+Guest speakers: Frances Kirwan (Oxford), Wolfgang Soergel (Freiburg)
+
+Program
+http://www.cantab.net/users/t.logvinenko/2014-wrwsym/05-waho-program.html</gtr:impact><gtr:outcomeId>56dd6f9675fa92.85353646</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www.cantab.net/users/t.logvinenko/2014-wrwsym/05-waho-program.html</gtr:url><gtr:year>2015</gtr:year></gtr:disseminationOutput></gtr:disseminationOutputs><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication><gtr:id>BAB99909-8D40-422E-B025-B4D102DA54F3</gtr:id><gtr:title>Spherical DG-functors</gtr:title><gtr:parentPublicationTitle>The Journal of the European Mathematical Society</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/f92f5542f75de993093c2da4330a9e32"><gtr:id>f92f5542f75de993093c2da4330a9e32</gtr:id><gtr:otherNames>Anno R</gtr:otherNames></gtr:author></gtr:authors><gtr:outcomeId>56defabdb32b73.61969072</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>19F7EFA4-3CCA-4967-A689-65D97C974010</gtr:id><gtr:title>Bar category of modules and homotopy adjunction for tensor functors</gtr:title><gtr:parentPublicationTitle>ArXiv e-prints</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/76b70d8752216164cee620e8a6b33046"><gtr:id>76b70d8752216164cee620e8a6b33046</gtr:id><gtr:otherNames>Anno Rina</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date><gtr:outcomeId>5884c7edc82498.44722074</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>2E05B46C-EF47-49A0-BD60-ECB2DBE21A0F</gtr:id><gtr:title>Derived Reid's recipe for abelian subgroups of SL3(C)</gtr:title><gtr:parentPublicationTitle>Journal f?r die reine und angewandte Mathematik (Crelles Journal)</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/9f82dd67e4ac5876299d59953fc9df3c"><gtr:id>9f82dd67e4ac5876299d59953fc9df3c</gtr:id><gtr:otherNames>Cautis S</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>56dcc1b98fac23.52116674</gtr:outcomeId></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">EP/L018314/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>DEA11FBC-BEED-4EDD-890B-97D728462D26</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Mathematical sciences</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>27F853CB-FB22-4B9D-82D7-542648D097F0</gtr:id><gtr:percentage>90</gtr:percentage><gtr:text>Algebra &amp; Geometry</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>ABA2EC9F-6524-443A-BB92-7DF199FE4B25</gtr:id><gtr:percentage>10</gtr:percentage><gtr:text>Mathematical Physics</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,2 +1,456 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gtr:projectOverview xmlns:gtr="http://gtr.rcuk.ac.uk/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.rcuk.ac.uk:80/organisation/3A5E126D-C175-4730-9B7B-E6D8CF447F83"><gtr:id>3A5E126D-C175-4730-9B7B-E6D8CF447F83</gtr:id><gtr:name>University College London</gtr:name><gtr:department>Physics and Astronomy</gtr:department><gtr:address><gtr:line1>Gower Street</gtr:line1><gtr:line4>London</gtr:line4><gtr:postCode>WC1E 6BT</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.rcuk.ac.uk:80/organisation/3A5E126D-C175-4730-9B7B-E6D8CF447F83"><gtr:id>3A5E126D-C175-4730-9B7B-E6D8CF447F83</gtr:id><gtr:name>University College London</gtr:name><gtr:address><gtr:line1>Gower Street</gtr:line1><gtr:line4>London</gtr:line4><gtr:postCode>WC1E 6BT</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/D532E128-F737-4728-90E5-3EE0E21D8371"><gtr:id>D532E128-F737-4728-90E5-3EE0E21D8371</gtr:id><gtr:firstName>Emily</gtr:firstName><gtr:otherNames>Laura</gtr:otherNames><gtr:surname>Nurse</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/48EEAF08-8EA3-43F5-A471-BC2386902C8C"><gtr:id>48EEAF08-8EA3-43F5-A471-BC2386902C8C</gtr:id><gtr:firstName>Ryan</gtr:firstName><gtr:otherNames>James</gtr:otherNames><gtr:surname>Nichol</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/91419895-AA43-4285-99FF-A90D2AB177A6"><gtr:id>91419895-AA43-4285-99FF-A90D2AB177A6</gtr:id><gtr:firstName>Amy</gtr:firstName><gtr:otherNames>Lynn</gtr:otherNames><gtr:surname>Connolly</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/80391E90-07A9-4277-A73F-7668D6325A68"><gtr:id>80391E90-07A9-4277-A73F-7668D6325A68</gtr:id><gtr:firstName>Jennifer</gtr:firstName><gtr:otherNames>Anne</gtr:otherNames><gtr:surname>Thomas</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/49F3259D-008B-4051-8A55-C8D98F9E1387"><gtr:id>49F3259D-008B-4051-8A55-C8D98F9E1387</gtr:id><gtr:firstName>David</gtr:firstName><gtr:otherNames>Simon</gtr:otherNames><gtr:surname>Waters</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/D6E28823-7714-448B-B8AF-0EAE1E9EC2A1"><gtr:id>D6E28823-7714-448B-B8AF-0EAE1E9EC2A1</gtr:id><gtr:firstName>Nikolaos</gtr:firstName><gtr:surname>Konstantinidis</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/C2F21DE0-5542-447C-847F-28A32D249186"><gtr:id>C2F21DE0-5542-447C-847F-28A32D249186</gtr:id><gtr:firstName>Mario</gtr:firstName><gtr:surname>Campanelli</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/425A49C6-7E51-490A-A98D-5D072BF84E0E"><gtr:id>425A49C6-7E51-490A-A98D-5D072BF84E0E</gtr:id><gtr:firstName>Jonathan</gtr:firstName><gtr:otherNames>Mark</gtr:otherNames><gtr:surname>Butterworth</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/B32487AC-8249-496A-8D9C-DB83B19D70AF"><gtr:id>B32487AC-8249-496A-8D9C-DB83B19D70AF</gtr:id><gtr:firstName>Matthew</gtr:firstName><gtr:surname>Wing</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/DD0052C8-989A-4DBB-A125-A7E2EFDD9DB1"><gtr:id>DD0052C8-989A-4DBB-A125-A7E2EFDD9DB1</gtr:id><gtr:firstName>Mark</gtr:firstName><gtr:otherNames>Andrew</gtr:otherNames><gtr:surname>Lancaster</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.rcuk.ac.uk:80/person/520834BB-0A66-4B19-9E97-756117231B90"><gtr:id>520834BB-0A66-4B19-9E97-756117231B90</gtr:id><gtr:firstName>Ruben</gtr:firstName><gtr:surname>Saakyan</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.rcuk.ac.uk:80/projects?ref=ST%2FH001158%2F2"><gtr:id>7389FF92-25B3-47B4-9F6E-CF1E67A227FC</gtr:id><gtr:title>Experimental Particle Physics at UCL</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>ST/H001158/2</gtr:grantReference><gtr:abstractText>Experimental particle physics seeks to study extremely small sizes, or equivalently extremely high energies. It in effect probes the conditions that existed in the universe a fraction of a second after the Big Bang. These unique conditions that we are studying ultimately allowed stars, galaxies, planets &amp;amp; finally life to form &amp;amp; dictate how the universe will evolve far into the future. We are studying the underlying nature of the physical universe in terms of fundamental forces &amp;amp; particles. Experiments capable of reaching these extremes of energy &amp;amp; size are very technically challenging. The challenges include devising precision detectors which can operate in hostile environments, particle accelerators which can achieve high energy collisions, super-sensitive detectors capable of identifying very rare decays with very small 'background noise', high-speed electronics which can read out millions of pieces of information per second, &amp;amp; robust, flexible software which can analyse the data in a distributed computing system all over the world. Thus another consequence of an active particle physics activity is a stimulation of technological developments, the training of people skilled in the development &amp;amp; use of innovative technology &amp;amp; improvements in industrial manufacturing capability. This is a 'rolling grant', which means that it covers a broad variety of particle physics experiments. The rolling grant underpins the base of highly skilled research &amp;amp; technical staff allowing UCL to be a leader in experimental physics at the very highest levels. It provides a measure of career security, as well as travel &amp;amp; equipment money. This also allows the group to function effectively in the training of PhD students &amp;amp; young post-doctoral researchers. Crucially, the scientific advances that this grant will support are grounded in &amp;amp; will be tested by experimental observations. The science this grant will support includes: - Understanding the mechanism that gives particles mass by searching for new fundamental particles such as the Higgs boson &amp;amp; examining in detail the interactions of W bosons (the particles responsible for the weak nuclear force) at the highest energies using the ATLAS detector at CERN's LHC &amp;amp; by measuring very precisely the mass of the W boson using the CDF detector at the Tevatron collider. - Understanding why we live in a universe that is dominated by matter with only a tiny anti-matter component which is at odds with the conditions immediately following the Big Bang when matter &amp;amp; antimatter co-existed in equal amounts. We will study in detail the properties of the neutrino, which is a stable, uncharged, almost massless particle released in radioactive beta decays &amp;amp; decays of unstable particles. The study is performed at the MINOS, NEMO-III &amp;amp; ultimately SuperNEMO (which we are building) experiments that are searching for rare processes where neutrinos change their identity &amp;amp; for rare beta decay processes releasing two electrons &amp;amp; no neutrinos. - Understanding the nature of the strong nuclear force through measurements of the internal structure of the proton using the ZEUS detector at the HERA collider. - Searching for phenomena at extremely high energy which can help to define a more fundamental theory that unifies the twin pillars of 20th century physics: Einstein's theory of General Relativity &amp;amp; Quantum Mechanics. We are searching for the interaction of ultra-high energy neutrinos with the Antarctic ice using the ANITA experiment &amp;amp; R&amp;amp;D towards experiments searching for the exceedingly rare process whereby a muon (a heavy electron type particle) spontaneously converts into an electron. Some of this work is funded on other grants but is underpinned by the technical expertise that is supported by this rolling grant. Continuity &amp;amp; support for the technical base in the UCL High Energy Physics Group &amp;amp; for the young researchers to develop is vital to progress the science &amp;amp; the benefits that it brings.</gtr:abstractText><gtr:fund><gtr:end>2012-09-30</gtr:end><gtr:funder url="http://gtr.rcuk.ac.uk:80/organisation/D7F4F462-0518-4784-908A-D12633C139B3"><gtr:id>D7F4F462-0518-4784-908A-D12633C139B3</gtr:id><gtr:name>STFC</gtr:name></gtr:funder><gtr:start>2010-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>3249880</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">ST/H001158/2</gtr:identifier></gtr:identifiers><gtr:projectHierarchy><gtr:parents><gtr:parent><gtr:id>85EDF709-F488-44DA-9E84-F83513DC6908</gtr:id><gtr:grantRef>ST/H001158/1</gtr:grantRef><gtr:amount>1403341.87</gtr:amount><gtr:start>2009-10-01</gtr:start><gtr:end>2011-03-31</gtr:end><gtr:children><gtr:child rel="Transfer"><gtr:id>7389FF92-25B3-47B4-9F6E-CF1E67A227FC</gtr:id><gtr:grantRef>ST/H001158/2</gtr:grantRef><gtr:amount>3249880.36</gtr:amount><gtr:start>2010-10-01</gtr:start><gtr:end>2012-09-30</gtr:end><gtr:children/></gtr:child></gtr:children></gtr:parent></gtr:parents></gtr:projectHierarchy><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>09D33363-1F2C-4CCD-A4B9-4CAA0DD34A4C</gtr:id><gtr:percentage>5</gtr:percentage><gtr:text>Facility Development</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>A50650F5-D901-49C3-AA30-F625AC696676</gtr:id><gtr:percentage>10</gtr:percentage><gtr:text>Particle Astrophysics</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>C2898760-D7E5-4B25-A236-E7869CD74F88</gtr:id><gtr:percentage>85</gtr:percentage><gtr:text>Particle physics - experiment</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>BF8C9667-2697-4493-8519-7787831D008B</gtr:id><gtr:percentage>5</gtr:percentage><gtr:text>Accelerator R&amp;D</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>200B9B9B-68EC-4D70-B889-6BD5F4538080</gtr:id><gtr:percentage>85</gtr:percentage><gtr:text>Beyond the Standard Model</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>760D5B7E-1353-4BD7-8172-CFFC4A254A5C</gtr:id><gtr:percentage>10</gtr:percentage><gtr:text>Cosmology</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/3A5E126D-C175-4730-9B7B-E6D8CF447F83"><gtr:id>3A5E126D-C175-4730-9B7B-E6D8CF447F83</gtr:id><gtr:name>University College London</gtr:name><gtr:department>Physics and Astronomy</gtr:department><gtr:address><gtr:line1>Gower Street</gtr:line1><gtr:line4>London</gtr:line4><gtr:postCode>WC1E 6BT</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/3A5E126D-C175-4730-9B7B-E6D8CF447F83"><gtr:id>3A5E126D-C175-4730-9B7B-E6D8CF447F83</gtr:id><gtr:name>University College London</gtr:name><gtr:address><gtr:line1>Gower Street</gtr:line1><gtr:line4>London</gtr:line4><gtr:postCode>WC1E 6BT</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/D532E128-F737-4728-90E5-3EE0E21D8371"><gtr:id>D532E128-F737-4728-90E5-3EE0E21D8371</gtr:id><gtr:firstName>Emily</gtr:firstName><gtr:otherNames>Laura</gtr:otherNames><gtr:surname>Nurse</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/48EEAF08-8EA3-43F5-A471-BC2386902C8C"><gtr:id>48EEAF08-8EA3-43F5-A471-BC2386902C8C</gtr:id><gtr:firstName>Ryan</gtr:firstName><gtr:otherNames>James</gtr:otherNames><gtr:surname>Nichol</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/91419895-AA43-4285-99FF-A90D2AB177A6"><gtr:id>91419895-AA43-4285-99FF-A90D2AB177A6</gtr:id><gtr:firstName>Amy</gtr:firstName><gtr:otherNames>Lynn</gtr:otherNames><gtr:surname>Connolly</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/80391E90-07A9-4277-A73F-7668D6325A68"><gtr:id>80391E90-07A9-4277-A73F-7668D6325A68</gtr:id><gtr:firstName>Jennifer</gtr:firstName><gtr:otherNames>Anne</gtr:otherNames><gtr:surname>Thomas</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/49F3259D-008B-4051-8A55-C8D98F9E1387"><gtr:id>49F3259D-008B-4051-8A55-C8D98F9E1387</gtr:id><gtr:firstName>David</gtr:firstName><gtr:otherNames>Simon</gtr:otherNames><gtr:surname>Waters</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/D6E28823-7714-448B-B8AF-0EAE1E9EC2A1"><gtr:id>D6E28823-7714-448B-B8AF-0EAE1E9EC2A1</gtr:id><gtr:firstName>Nikolaos</gtr:firstName><gtr:surname>Konstantinidis</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/C2F21DE0-5542-447C-847F-28A32D249186"><gtr:id>C2F21DE0-5542-447C-847F-28A32D249186</gtr:id><gtr:firstName>Mario</gtr:firstName><gtr:surname>Campanelli</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/425A49C6-7E51-490A-A98D-5D072BF84E0E"><gtr:id>425A49C6-7E51-490A-A98D-5D072BF84E0E</gtr:id><gtr:firstName>Jonathan</gtr:firstName><gtr:otherNames>Mark</gtr:otherNames><gtr:surname>Butterworth</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/B32487AC-8249-496A-8D9C-DB83B19D70AF"><gtr:id>B32487AC-8249-496A-8D9C-DB83B19D70AF</gtr:id><gtr:firstName>Matthew</gtr:firstName><gtr:surname>Wing</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/520834BB-0A66-4B19-9E97-756117231B90"><gtr:id>520834BB-0A66-4B19-9E97-756117231B90</gtr:id><gtr:firstName>Ruben</gtr:firstName><gtr:surname>Saakyan</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/DD0052C8-989A-4DBB-A125-A7E2EFDD9DB1"><gtr:id>DD0052C8-989A-4DBB-A125-A7E2EFDD9DB1</gtr:id><gtr:firstName>Mark</gtr:firstName><gtr:otherNames>Andrew</gtr:otherNames><gtr:surname>Lancaster</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=ST%2FH001158%2F2"><gtr:id>7389FF92-25B3-47B4-9F6E-CF1E67A227FC</gtr:id><gtr:title>Experimental Particle Physics at UCL</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>ST/H001158/2</gtr:grantReference><gtr:abstractText>Experimental particle physics seeks to study extremely small sizes, or equivalently extremely high energies. It in effect probes the conditions that existed in the universe a fraction of a second after the Big Bang. These unique conditions that we are studying ultimately allowed stars, galaxies, planets &amp;amp; finally life to form &amp;amp; dictate how the universe will evolve far into the future. We are studying the underlying nature of the physical universe in terms of fundamental forces &amp;amp; particles. Experiments capable of reaching these extremes of energy &amp;amp; size are very technically challenging. The challenges include devising precision detectors which can operate in hostile environments, particle accelerators which can achieve high energy collisions, super-sensitive detectors capable of identifying very rare decays with very small 'background noise', high-speed electronics which can read out millions of pieces of information per second, &amp;amp; robust, flexible software which can analyse the data in a distributed computing system all over the world. Thus another consequence of an active particle physics activity is a stimulation of technological developments, the training of people skilled in the development &amp;amp; use of innovative technology &amp;amp; improvements in industrial manufacturing capability. This is a 'rolling grant', which means that it covers a broad variety of particle physics experiments. The rolling grant underpins the base of highly skilled research &amp;amp; technical staff allowing UCL to be a leader in experimental physics at the very highest levels. It provides a measure of career security, as well as travel &amp;amp; equipment money. This also allows the group to function effectively in the training of PhD students &amp;amp; young post-doctoral researchers. Crucially, the scientific advances that this grant will support are grounded in &amp;amp; will be tested by experimental observations. The science this grant will support includes: - Understanding the mechanism that gives particles mass by searching for new fundamental particles such as the Higgs boson &amp;amp; examining in detail the interactions of W bosons (the particles responsible for the weak nuclear force) at the highest energies using the ATLAS detector at CERN's LHC &amp;amp; by measuring very precisely the mass of the W boson using the CDF detector at the Tevatron collider. - Understanding why we live in a universe that is dominated by matter with only a tiny anti-matter component which is at odds with the conditions immediately following the Big Bang when matter &amp;amp; antimatter co-existed in equal amounts. We will study in detail the properties of the neutrino, which is a stable, uncharged, almost massless particle released in radioactive beta decays &amp;amp; decays of unstable particles. The study is performed at the MINOS, NEMO-III &amp;amp; ultimately SuperNEMO (which we are building) experiments that are searching for rare processes where neutrinos change their identity &amp;amp; for rare beta decay processes releasing two electrons &amp;amp; no neutrinos. - Understanding the nature of the strong nuclear force through measurements of the internal structure of the proton using the ZEUS detector at the HERA collider. - Searching for phenomena at extremely high energy which can help to define a more fundamental theory that unifies the twin pillars of 20th century physics: Einstein's theory of General Relativity &amp;amp; Quantum Mechanics. We are searching for the interaction of ultra-high energy neutrinos with the Antarctic ice using the ANITA experiment &amp;amp; R&amp;amp;D towards experiments searching for the exceedingly rare process whereby a muon (a heavy electron type particle) spontaneously converts into an electron. Some of this work is funded on other grants but is underpinned by the technical expertise that is supported by this rolling grant. Continuity &amp;amp; support for the technical base in the UCL High Energy Physics Group &amp;amp; for the young researchers to develop is vital to progress the science &amp;amp; the benefits that it brings.</gtr:abstractText><gtr:fund><gtr:end>2012-09-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/D7F4F462-0518-4784-908A-D12633C139B3"><gtr:id>D7F4F462-0518-4784-908A-D12633C139B3</gtr:id><gtr:name>STFC</gtr:name></gtr:funder><gtr:start>2010-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>3249880</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication><gtr:id>23D984AE-BDB5-4B4D-8266-9F0D249AA02C</gtr:id><gtr:title>Determination of the strong coupling constant 
+ $$\alpha _\mathrm {s}$$
+ 
+ 
+ 
+ a
+ s
+ 
+ 
+ 
+ from transverse energy-energy correlations in multijet events at 
+ $$\sqrt{s} = 8~\hbox {TeV}$$</gtr:title><gtr:parentPublicationTitle>The European Physical Journal C</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab05acb2773.21697406</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>8A1A5597-AD4C-4102-AD74-6BF67DA9C932</gtr:id><gtr:title>Measurements of the production cross section of a [Formula: see text] boson in association with jets incollisions at [Formula: see text]&amp;nbsp;TeV with the ATLAS detector.</gtr:title><gtr:parentPublicationTitle>The European physical journal. C, Particles and fields</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:issn>1434-6044</gtr:issn><gtr:outcomeId>5a9ab0623d1f55.23432077</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>5CA52422-2745-48DF-BDBC-D9DE3D9CDE7E</gtr:id><gtr:title>Fiducial, total and differential cross-section measurements of-channel single top-quark production incollisions at 8&amp;nbsp;TeV using data collected by the ATLAS detector.</gtr:title><gtr:parentPublicationTitle>The European physical journal. C, Particles and fields</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:issn>1434-6044</gtr:issn><gtr:outcomeId>5a9ab062ad7d36.75982503</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>989C9DBC-9028-42F3-9F1E-7EFF7C91F466</gtr:id><gtr:title>Top-quark mass measurement in the all-hadronic 
+
+
+ 
+t
+
+t
+&amp;macr;
+
+
+
+$$ t\overline{t} $$
+ decay channel at 
+
+
+ 
+
+s
+
+=
+8
+
+
+$$ \sqrt{s}=8 $$
+ TeV with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Journal of High Energy Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab061be5f47.19705253</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>18D0060E-929E-4BB3-8979-5E49F82A14C9</gtr:id><gtr:title>Evidence for the 
+
+
+ 
+H
+?
+b
+
+b
+&amp;macr;
+
+
+
+$$ H\to b\overline{b} $$
+ decay with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Journal of High Energy Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab057612f80.49591521</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>AC57866B-CD78-4078-A4B2-7F4989F73A0D</gtr:id><gtr:title>Probing the W tb vertex structure in t-channel single-top-quark production and decay in pp collisions at 
+
+
+ 
+
+s
+
+=
+8
+
+
+$$ \sqrt{s}=8 $$
+ TeV with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Journal of High Energy Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab061850954.72859299</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>C15CD461-A369-43A2-9A3B-7D5986828322</gtr:id><gtr:title>Measurement of long-range multiparticle azimuthal correlations with the subevent cumulant method in
+ 
+ and
+ 
+ +Pb collisions with the ATLAS detector at the CERN Large Hadron Collider</gtr:title><gtr:parentPublicationTitle>Physical Review C</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2018-01-01</gtr:date><gtr:outcomeId>5a9ab05726b720.01001641</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>63F79C9B-E041-4BC1-87E2-674D549F48FA</gtr:id><gtr:title>Search for heavy resonances decaying into WW in the $$e\nu \mu \nu $$e??? final state in pp collisions at $$\sqrt{s}=13$$s=13 $$\,\text {TeV}$$TeV with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>The European Physical Journal C</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2018-01-01</gtr:date><gtr:outcomeId>5a9ab05277e890.15369951</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>6ADD4F3B-38CA-4AC0-ADF5-12E2D6511AAA</gtr:id><gtr:title>Searches for the Z? decay mode of the Higgs boson and for new high-mass resonances in pp collisions at 
+
+
+ 
+
+s
+
+=
+13
+
+
+$$ \sqrt{s}=13 $$
+ TeV with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Journal of High Energy Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab05893c432.59045476</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>1FB9CB15-D1D7-4050-B98B-56ABEEE78C77</gtr:id><gtr:title>Search for the direct production of charginos and neutralinos in final states with tau leptons in $$\sqrt{s} = 13\,\mathrm{TeV}$$s=13TeV pp collisions with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>The European Physical Journal C</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2018-01-01</gtr:date><gtr:outcomeId>5a9ab05653bd56.52469599</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>09D57524-A74C-4843-B6AB-172BAA55D11A</gtr:id><gtr:title>Search for new phenomena in a lepton plus high jet multiplicity final state with the ATLAS experiment using 
+
+
+ 
+
+s
+
+=
+13
+
+
+$$ \sqrt{s}=13 $$
+ TeV proton-proton collision data</gtr:title><gtr:parentPublicationTitle>Journal of High Energy Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab05ef02aa6.82849285</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>243A2A44-C0C1-4121-9CE3-BE8A352B9578</gtr:id><gtr:title>Measurement of the 
+
+
+ 
+t
+
+t
+&amp;macr;
+
+?
+
+
+$$ t\overline{t}\gamma $$
+ production cross section in proton-proton collisions at 
+
+
+ 
+
+s
+
+=
+8
+
+
+$$ \sqrt{s}=8 $$
+ TeV with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Journal of High Energy Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab05d2316d7.55816025</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>6B85B2E9-6253-44FB-A9AE-5458F215B646</gtr:id><gtr:title>Measurement of longitudinal flow decorrelations in Pb+Pb collisions at $$\sqrt{s_{\text {NN}}}=2.76$$sNN=2.76 and 5.02 TeV with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>The European Physical Journal C</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2018-01-01</gtr:date><gtr:outcomeId>5a9ab0553e0497.65475027</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>37C52B80-1E94-4C83-8984-AD3C91563FD0</gtr:id><gtr:title>Jet reconstruction and performance using particle flow with the ATLAS Detector.</gtr:title><gtr:parentPublicationTitle>The European physical journal. C, Particles and fields</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:issn>1434-6044</gtr:issn><gtr:outcomeId>5a9ab0605b1b71.82675613</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>E8583F5C-789E-4F87-9042-6A1D2A091502</gtr:id><gtr:title>Study of the material of the ATLAS inner detector for Run 2 of the LHC</gtr:title><gtr:parentPublicationTitle>Journal of Instrumentation</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab05a961aa5.98273554</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>E0E8F9F7-62C3-4B7A-8D62-6B125DAB24C0</gtr:id><gtr:title>Measurement of 
+ $$WW/WZ \rightarrow \ell \nu q q^{\prime }$$
+ 
+ 
+ 
+ 
+ W
+ W
+ /
+ W
+ Z
+ ?
+ l
+ ?</gtr:title><gtr:parentPublicationTitle>The European Physical Journal C</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab05d5ebca5.15772040</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>D2F6BEE9-D957-4BF3-8643-42C46499D82D</gtr:id><gtr:title>Measurement of multi-particle azimuthal correlations in pp, p&amp;nbsp;+&amp;nbsp;Pb and low-multiplicity Pb&amp;nbsp;+&amp;nbsp;Pb collisions with the ATLAS detector.</gtr:title><gtr:parentPublicationTitle>The European physical journal. C, Particles and fields</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:issn>1434-6044</gtr:issn><gtr:outcomeId>5a9ab05e12e836.88060440</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>C8A215E2-4CD4-40B7-B1ED-5BE9D7950171</gtr:id><gtr:title>Search for dark matter at [Formula: see text] in final states containing an energetic photon and large missing transverse momentum with the ATLAS detector.</gtr:title><gtr:parentPublicationTitle>The European physical journal. C, Particles and fields</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:issn>1434-6044</gtr:issn><gtr:outcomeId>5a9ab05f6f2c59.29478445</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>6A2ACC99-83F5-4E4B-8AFC-EA1DB2A8A270</gtr:id><gtr:title>Study of 
+ $$WW\gamma $$
+ 
+ 
+ 
+ 
+ W
+ W
+ ?
+ 
+ 
+ 
+ and 
+ $$WZ\gamma $$</gtr:title><gtr:parentPublicationTitle>The European Physical Journal C</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab05958a1e4.80970850</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>02C174F4-8D4A-4A4A-9851-2DAD58EB0B10</gtr:id><gtr:title>Search for pair production of vector-like top quarks in events with one lepton, jets, and missing transverse momentum in 
+
+
+ 
+
+s
+
+=
+13
+
+
+$$ \sqrt{s}=13 $$
+ TeV pp collisions with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Journal of High Energy Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab05d9b4828.68332551</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>4C13BB53-F49C-4E74-AC9B-33D1F9B7547B</gtr:id><gtr:title>Measurement of $$\tau $$t polarisation in $$Z/\gamma ^{*}\rightarrow \tau \tau $$Z/?*?tt decays in proton-proton collisions at $$\sqrt{s}=8$$s=8 TeV with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>The European Physical Journal C</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2018-01-01</gtr:date><gtr:outcomeId>5a9ab054f34f21.97603262</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>F7C10B55-A9F9-42CB-9204-CECB5EB40AC1</gtr:id><gtr:title>Measurement of the cross section for inclusive isolated-photon production in pp collisions at
+ 
+ using the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Physics Letters B</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab063de4ee3.18011409</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>53AC76A3-12D4-4D2C-B2CF-890284D73FDC</gtr:id><gtr:title>Measurement of the exclusive ?? ? ? + ? - process in proton-proton collisions at
+ 
+ TeV with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Physics Letters B</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2018-01-01</gtr:date><gtr:outcomeId>5a9ab056e370b2.98010510</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>131AE6EC-F7B7-4E9B-8F3D-FF1F54C574DB</gtr:id><gtr:title>Direct top-quark decay width measurement in the $$\mathbf {\varvec{t\bar{t}}}$$tt&amp;macr; lepton+jets channel at $$\sqrt{s}=8~\text {TeV}$$s=8TeV with the ATLAS experiment</gtr:title><gtr:parentPublicationTitle>The European Physical Journal C</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2018-01-01</gtr:date><gtr:outcomeId>5a9ab0547c2b34.53422498</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>EDCA586B-4687-492B-977D-95201F4B74D6</gtr:id><gtr:title>Search for additional heavy neutral Higgs and gauge bosons in the ditau final state produced in 36 fb-1 of pp collisions at 
+
+
+
+s
+
+=
+13
+
+
+$$ \sqrt{s}=13 $$
+ TeV with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Journal of High Energy Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2018-01-01</gtr:date><gtr:outcomeId>5a9ab0540591b5.25599350</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>687C6F9D-2A76-4C3F-9C27-924A566C8E2F</gtr:id><gtr:title>Study of ordered hadron chains with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Physical Review D</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab053b98e23.05960355</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>8A0BC0D0-DB91-48DA-B667-7B636CC0EC74</gtr:id><gtr:title>Measurement of b-hadron pair production with the ATLAS detector in proton-proton collisions at 
+
+
+ 
+
+s
+
+=
+8
+
+
+$$ \sqrt{s}=8 $$
+ TeV</gtr:title><gtr:parentPublicationTitle>Journal of High Energy Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab05e496536.39040047</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>60B7D7FA-E18E-4333-A94D-FE6283AAC509</gtr:id><gtr:title>Measurement of lepton differential distributions and the top quark mass in 
+ $$t\bar{t}$$
+ 
+ 
+ 
+ 
+ t
+ 
+ 
+ t</gtr:title><gtr:parentPublicationTitle>The European Physical Journal C</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab053491d97.00305301</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>2190A027-667D-479C-B70D-ADF6F37BFAF3</gtr:id><gtr:title>Search for heavy resonances decaying to a W or Z boson and a Higgs boson in the
+ 
+ final state in pp collisions at
+ 
+ with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Physics Letters B</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab058d62d47.13438509</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>AF734AD1-C332-4331-937D-BDA54E9F4844</gtr:id><gtr:title>Search for new phenomena in high-mass diphoton final states using 37 fb -1 of proton-proton collisions collected at
+ 
+ with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Physics Letters B</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab059d15bd2.89486092</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>45712F72-C6B0-45AD-B2DC-B29FC2379D76</gtr:id><gtr:title>Performance of the ATLAS track reconstruction algorithms in dense environments in LHC Run 2.</gtr:title><gtr:parentPublicationTitle>The European physical journal. C, Particles and fields</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:issn>1434-6044</gtr:issn><gtr:outcomeId>5a9ab05f34df94.43793626</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>9EF050E3-FA48-4BCF-A096-C7DF5EDBD529</gtr:id><gtr:title>Search for dark matter in association with a Higgs boson decaying to two photons at
+ 
+ with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Physical Review D</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab05c5f0c07.18580319</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>CD764DD7-C4C3-432C-96ED-C2F639C19210</gtr:id><gtr:title>Performance of the ATLAS Transition Radiation Tracker in Run 1 of the LHC: tracker properties</gtr:title><gtr:parentPublicationTitle>Journal of Instrumentation</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab06200cc90.06881603</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>CA9A0568-CC5C-4622-A4A6-579E1F18998D</gtr:id><gtr:title>Search for new phenomena with large jet multiplicities and missing transverse momentum using large-radius jets and flavour-tagging at ATLAS in 13 TeV pp collisions</gtr:title><gtr:parentPublicationTitle>Journal of High Energy Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab058199769.69228061</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>A6FE09A2-B5EF-4AE6-9224-A87323E68394</gtr:id><gtr:title>Search for a scalar partner of the top quark in the jets plus missing transverse momentum final state at 
+
+
+ 
+
+s
+
+=
+13
+
+
+$$ \sqrt{s}=13 $$
+ TeV with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Journal of High Energy Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab054b66a87.53853979</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>DF60E7D7-7673-4F67-ADF9-C7A2783918A5</gtr:id><gtr:title>Measurements of electroweak [Formula: see text] production and constraints on anomalous gauge couplings with the ATLAS detector.</gtr:title><gtr:parentPublicationTitle>The European physical journal. C, Particles and fields</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:issn>1434-6044</gtr:issn><gtr:outcomeId>5a9ab06111b2b0.22932021</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>F6FF91A3-1EC5-4F5B-B28C-504CE7688739</gtr:id><gtr:title>Measurement of charged-particle distributions sensitive to the underlying event in 
+
+
+ 
+
+s
+
+=
+13
+
+
+$$ \sqrt{s}=13 $$
+ TeV proton-proton collisions with the ATLAS detector at the LHC</gtr:title><gtr:parentPublicationTitle>Journal of High Energy Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab0642625f9.72819384</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>F350A607-A612-42D9-B419-07F4C7520EAB</gtr:id><gtr:title>Measurement of differential cross sections of isolated-photon plus heavy-flavour jet production in pp collisions at
+ 
+ using the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Physics Letters B</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2018-01-01</gtr:date><gtr:outcomeId>5a9ab051a60554.33731508</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>89605F61-B4B2-44D8-8489-470BE5373D20</gtr:id><gtr:title>Search for diboson resonances with boson-tagged jets in pp collisions at
+ 
+ with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Physics Letters B</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2018-01-01</gtr:date><gtr:outcomeId>5a9ab0569ea246.31901922</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>74EB52AD-48CA-40BF-8F9E-5275E0433B10</gtr:id><gtr:title>Search for new phenomena in high-mass final states with a photon and a jet from $$pp$$pp collisions at $$\sqrt{s}$$s = 13&amp;nbsp;TeV with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>The European Physical Journal C</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2018-01-01</gtr:date><gtr:outcomeId>5a9ab052b36393.18362695</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>CF2BFD3B-4BFF-4A7C-BC4F-B2324AABC436</gtr:id><gtr:title>Jet energy scale measurements and their systematic uncertainties in proton-proton collisions at
+ 
+ with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Physical Review D</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab0608d0c86.23701719</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>2C8ADB6A-DAF1-4EE2-AF74-53CBC9F3BFCD</gtr:id><gtr:title>Search for pair production of heavy vector-like quarks decaying to high-p
+ T W bosons and b quarks in the lepton-plus-jets final state in pp collisions at 
+
+
+ 
+
+s
+
+=
+13
+
+
+$$ \sqrt{s}=13 $$
+ TeV with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Journal of High Energy Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab05a199156.45617231</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>DA93F13E-D2B8-48B9-9C23-8EFAC2984439</gtr:id><gtr:title>Measurement of the cross-section for electroweak production of dijets in association with a Z boson in pp collisions at
+ 
+ with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Physics Letters B</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab052eef216.10264158</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>A977C5FC-CEBE-43AA-9EDE-629A95C9F46B</gtr:id><gtr:title>Measurement of the W-boson mass in pp collisions at $$\sqrt{s}=7\, \hbox {TeV}$$s=7TeV with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>The European Physical Journal C</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2018-01-01</gtr:date><gtr:outcomeId>5a9ab063a3b1c3.20758076</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>D7781546-FC13-483D-947B-D5C0399BCD04</gtr:id><gtr:title>Search for squarks and gluinos in events with an isolated lepton, jets, and missing transverse momentum at
+ 
+ with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Physical Review D</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab056105673.79507769</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>0BAE8BB3-46EC-4C5E-9D37-792606C5A688</gtr:id><gtr:title>Measurements of integrated and differential cross sections for isolated photon pair production in
+ 
+ collisions at
+ 
+ with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Physical Review D</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab05fa76750.20761794</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>B73E86BA-5F37-425F-87C9-15958DAAAE18</gtr:id><gtr:title>Analysis of the Wtb vertex from the measurement of triple-differential angular decay rates of single top quarks produced in the t-channel at 
+
+
+ 
+
+s
+
+=
+8
+
+
+$$ \sqrt{s}=8 $$
+ TeV with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Journal of High Energy Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab0599457d8.88046780</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>98331477-777C-453F-9F51-DBB0C41C7980</gtr:id><gtr:title>Measurement of inclusive and differential cross sections in the H ? ZZ
+ * ? 4l decay channel in pp collisions at 
+
+
+ 
+
+s
+
+=
+13
+
+
+$$ \sqrt{s}=13 $$
+ TeV with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Journal of High Energy Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab057d927e2.64967403</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>76C1BA56-088A-40D5-A1F8-B21B120F69C1</gtr:id><gtr:title>Measurement of the Drell-Yan triple-differential cross section in pp collisions at 
+
+
+ 
+
+s
+
+=
+8
+
+
+$$ \sqrt{s}=8 $$
+ TeV</gtr:title><gtr:parentPublicationTitle>Journal of High Energy Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab0523042a2.12277723</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>8DDB11A3-3510-4D3A-80A0-BE192C786E70</gtr:id><gtr:title>Search for
+ 
+ 
+ -parity-violating top squarks in
+ 
+ 
+ collisions with the ATLAS experiment</gtr:title><gtr:parentPublicationTitle>Physical Review D</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2018-01-01</gtr:date><gtr:outcomeId>5a9ab051e48745.32150004</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>03BAA604-6FD8-4392-A162-42A6CE91BCEE</gtr:id><gtr:title>Measurement of the inclusive jet cross-sections in proton-proton collisions at 
+
+
+ 
+
+s
+
+=
+8
+
+
+$$ \sqrt{s}=8 $$
+ TeV with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Journal of High Energy Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab05cdbd868.51541177</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>1178A5A1-DE89-471B-AD60-593B75C41609</gtr:id><gtr:title>Evidence for light-by-light scattering in heavy-ion collisions with the ATLAS detector at the LHC</gtr:title><gtr:parentPublicationTitle>Nature Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab062ec8c29.07266918</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>7BA975DA-FCD2-45A2-9B23-8CEFE90FD28F</gtr:id><gtr:title>Search for the Dimuon Decay of the Higgs Boson in pp Collisions at sqrt[s]=13 TeV with the ATLAS Detector.</gtr:title><gtr:parentPublicationTitle>Physical review letters</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:issn>0031-9007</gtr:issn><gtr:outcomeId>5a9ab05dd1acc8.68284539</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>0DB87BDF-493A-4097-9827-A4F406D7A1ED</gtr:id><gtr:title>Measurement of the W + W - production cross section in pp collisions at a centre-of-mass energy of
+ 
+ TeV with the ATLAS experiment</gtr:title><gtr:parentPublicationTitle>Physics Letters B</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab06273a776.39184102</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>14F18FB0-B4E7-4F4C-9481-7B944F3F0186</gtr:id><gtr:title>Search for Dark Matter Produced in Association with a Higgs Boson Decaying to bb[over &amp;macr;] Using 36 fb^{-1} of pp Collisions at sqrt[s]=13 TeV with the ATLAS Detector.</gtr:title><gtr:parentPublicationTitle>Physical review letters</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:issn>0031-9007</gtr:issn><gtr:outcomeId>5a9ab05b92e561.74177527</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>362A4BEB-3D3D-4A8E-8443-2245F1EF0923</gtr:id><gtr:title>Identification and rejection of pile-up jets at high pseudorapidity with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>The European Physical Journal C</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab05e7beee9.68493776</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>413D18CB-623E-4807-8F07-C2A118BB7EC9</gtr:id><gtr:title>Search for Heavy Higgs Bosons A/H Decaying to a Top Quark Pair in pp Collisions at sqrt[s]=8 TeV with the ATLAS Detector.</gtr:title><gtr:parentPublicationTitle>Physical review letters</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:issn>0031-9007</gtr:issn><gtr:outcomeId>5a9ab0591fba88.76362229</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>A19032CA-597D-4CD1-A341-706C4DCDDF07</gtr:id><gtr:title>Measurement of detector-corrected observables sensitive to the anomalous production of events with jets and large missing transverse momentum in 
+ $$\varvec{pp}$$
+ 
+ 
+ 
+ 
+ p
+ p
+ 
+ 
+ 
+ collisions</gtr:title><gtr:parentPublicationTitle>The European Physical Journal C</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab05a5aaec2.39419295</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>11579AA8-6B99-4B24-A599-5A77F3CE00FD</gtr:id><gtr:title>Measurement of the
+ 
+ production cross section in the
+ 
+ final state in
+ 
+ collisions at
+ 
+ using the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Physical Review D</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab061517f78.09465579</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>9B698517-0880-44EC-86BA-D760B68081B1</gtr:id><gtr:title>Femtoscopy with identified charged pions in proton-lead collisions at
+ 
+ TeV with ATLAS</gtr:title><gtr:parentPublicationTitle>Physical Review C</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab05fdf04f0.75754847</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>29D0DA1B-FFC8-4BEA-A604-E402F5836C20</gtr:id><gtr:title>Search for new phenomena in dijet events using
+ 
+ of
+ 
+ collision data collected at
+ 
+ with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Physical Review D</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab060cbe2b8.12745767</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>C5DF80C8-FBEC-4ADE-AEF0-54EAF342385A</gtr:id><gtr:title>Measurement of jet fragmentation in Pb+Pb and pp collisions at 
+ $$\sqrt{{s_\mathrm{NN}}} = 2.76$$
+ 
+ 
+ 
+ 
+ 
+ 
+ s
+ NN</gtr:title><gtr:parentPublicationTitle>The European Physical Journal C</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab0636df920.33751270</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>46F982BE-CBBB-433C-BE88-EA064B18CAB7</gtr:id><gtr:title>Measurement of jet p T correlations in Pb + Pb and pp collisions at
+ 
+ with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Physics Letters B</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab05bce7e59.93653982</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>7B6E2C2A-C4EF-4594-B837-AB07CF38177A</gtr:id><gtr:title>cross-section measurements and search for anomalous triple gauge couplings in 13&amp;nbsp;TeV
+ 
+ collisions with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Physical Review D</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2018-01-01</gtr:date><gtr:outcomeId>5a9ab0537e3676.26927996</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>F5B349F1-BEAB-4A74-B207-39E50BA1C5FB</gtr:id><gtr:title>Search for dark matter produced in association with bottom or top quarks in $$\sqrt{s}=13$$s=13&amp;nbsp;TeV pp collisions with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>The European Physical Journal C</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2018-01-01</gtr:date><gtr:outcomeId>5a9ab05146a9d7.57460622</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>50491045-79F8-4B09-AADD-8AF6B7E54415</gtr:id><gtr:title>Studies of Z? production in association with a high-mass dijet system in pp collisions at 
+
+ 
+
+s
+
+=
+8
+
+ 
+$$ \sqrt{s}=8 $$
+ TeV with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Journal of High Energy Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab05eb5f2f3.25885537</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>EB6F8E06-35D7-4AF2-BA87-7E663726A4D7</gtr:id><gtr:title>Search for new high-mass phenomena in the dilepton final state using 36 fb-1 of proton-proton collision data at 
+
+
+ 
+
+s
+
+=
+13
+
+
+$$ \sqrt{s}=13 $$
+ TeV with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Journal of High Energy Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab05b1ef477.45681282</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>B32CD47B-2D15-4441-A877-1BAF7619CF40</gtr:id><gtr:title>Search for supersymmetry in final states with two same-sign or three leptons and jets using 36 fb-1 of 
+
+
+ 
+
+s
+
+=
+13
+
+
+$$ \sqrt{s}=13 $$
+ TeV pp collision data with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Journal of High Energy Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab05ca28ff0.13425824</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>9F425DCE-8132-412A-81A4-C8A685E57C92</gtr:id><gtr:title>Search for direct top squark pair production in final states with two leptons in 
+ $$\sqrt{s} = 13$$
+ 
+ 
+ 
+ 
+ s
+ 
+ =
+ 13
+ 
+ 
+ 
+ TeV pp collisions</gtr:title><gtr:parentPublicationTitle>The European Physical Journal C</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab0579bdd51.69254982</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>84B13F22-5336-4065-AC55-26C454D20852</gtr:id><gtr:title>Measurement of the k
+ t splitting scales in Z ? ll events in pp collisions at 
+
+
+ 
+
+s
+
+=
+8
+
+
+$$ \sqrt{s}=8 $$
+ TeV with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Journal of High Energy Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab060272aa0.77729202</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>3B3D394E-2C9B-4781-B7A0-041895A865F6</gtr:id><gtr:title>Search for direct top squark pair production in events with a Higgs or Z boson, and missing transverse momentum in 
+
+
+ 
+
+s
+
+=
+13
+
+
+$$ \sqrt{s}=13 $$
+ TeV pp collisions with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Journal of High Energy Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab05c1e4023.37853537</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>03EE2CE6-7EEC-4E93-B3E6-ECD34AFD3DA2</gtr:id><gtr:title>Search for an invisibly decaying Higgs boson or dark matter candidates produced in association with a Z boson in pp collisions at
+ 
+ with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Physics Letters B</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2018-01-01</gtr:date><gtr:outcomeId>5a9ab0557766c3.91218872</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>757DF3B7-D31A-4EB4-A58A-5A9EB0D1A767</gtr:id><gtr:title>Search for supersymmetry in events with b-tagged jets and missing transverse momentum in pp collisions at 
+
+
+ 
+
+s
+
+=
+13
+
+
+$$ \sqrt{s}=13 $$
+ TeV with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Journal of High Energy Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab055b02c19.73304830</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>113D1D3B-56A0-4209-AB77-89420DA41407</gtr:id><gtr:title>Search for top quark decays t ? qH, with H ? ??, in 
+
+
+
+s
+
+=
+13
+
+
+$$ \sqrt{s}=13 $$
+ TeV pp collisions using the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Journal of High Energy Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab05b573959.01497585</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>7E51155C-4B55-4022-975A-4DADAE564B18</gtr:id><gtr:title>Measurements of top-quark pair differential cross-sections in the lepton+jets channel in pp collisions at 
+
+
+ 
+
+s
+
+=
+13
+
+
+$$ \sqrt{s}=13 $$
+ TeV using the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Journal of High Energy Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a9ab05850d643.81241268</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>511A1A59-DC60-4A01-A52F-EF82332B5A30</gtr:id><gtr:title>A search for resonances decaying into a Higgs boson and a new particle X in the XH ? qqbb final state with the ATLAS detector</gtr:title><gtr:parentPublicationTitle>Physics Letters B</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e8588cf1da2ce392a484d044a4ff8211"><gtr:id>e8588cf1da2ce392a484d044a4ff8211</gtr:id><gtr:otherNames>Aaboud M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2018-01-01</gtr:date><gtr:outcomeId>5a9ab05441dd93.77757768</gtr:outcomeId></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">ST/H001158/2</gtr:identifier></gtr:identifiers><gtr:projectHierarchy><gtr:parents><gtr:parent><gtr:id>85EDF709-F488-44DA-9E84-F83513DC6908</gtr:id><gtr:grantRef>ST/H001158/1</gtr:grantRef><gtr:amount>1403341.87</gtr:amount><gtr:start>2009-10-01</gtr:start><gtr:end>2011-03-31</gtr:end><gtr:children><gtr:child rel="Transfer"><gtr:id>7389FF92-25B3-47B4-9F6E-CF1E67A227FC</gtr:id><gtr:grantRef>ST/H001158/2</gtr:grantRef><gtr:amount>3249880.36</gtr:amount><gtr:start>2010-10-01</gtr:start><gtr:end>2012-09-30</gtr:end><gtr:children/></gtr:child></gtr:children></gtr:parent></gtr:parents></gtr:projectHierarchy><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>09D33363-1F2C-4CCD-A4B9-4CAA0DD34A4C</gtr:id><gtr:percentage>5</gtr:percentage><gtr:text>Facility Development</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>A50650F5-D901-49C3-AA30-F625AC696676</gtr:id><gtr:percentage>10</gtr:percentage><gtr:text>Particle Astrophysics</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>C2898760-D7E5-4B25-A236-E7869CD74F88</gtr:id><gtr:percentage>85</gtr:percentage><gtr:text>Particle physics - experiment</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>BF8C9667-2697-4493-8519-7787831D008B</gtr:id><gtr:percentage>5</gtr:percentage><gtr:text>Accelerator R&amp;D</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>200B9B9B-68EC-4D70-B889-6BD5F4538080</gtr:id><gtr:percentage>85</gtr:percentage><gtr:text>Beyond the Standard Model</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>760D5B7E-1353-4BD7-8172-CFFC4A254A5C</gtr:id><gtr:percentage>10</gtr:percentage><gtr:text>Cosmology</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>
