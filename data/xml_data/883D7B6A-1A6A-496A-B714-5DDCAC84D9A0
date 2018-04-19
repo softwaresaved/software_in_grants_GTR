@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/EE1D1D4E-03D6-4D45-9048-74BFF08DA68A"><gtr:id>EE1D1D4E-03D6-4D45-9048-74BFF08DA68A</gtr:id><gtr:name>Peptinnovate Limited</gtr:name><gtr:address><gtr:line1>90 HIGH HOLBORN</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>WC1V 6XX</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/EE1D1D4E-03D6-4D45-9048-74BFF08DA68A" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>EE1D1D4E-03D6-4D45-9048-74BFF08DA68A</gtr:id><gtr:name>Peptinnovate Limited</gtr:name><gtr:address><gtr:line1>90 HIGH HOLBORN</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>WC1V 6XX</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>100000.0</gtr:offerGrant><gtr:projectCost>201194.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/9F4257D2-0106-4D3C-B453-C7196B0F347E"><gtr:id>9F4257D2-0106-4D3C-B453-C7196B0F347E</gtr:id><gtr:firstName>Andrew</gtr:firstName><gtr:surname>Lightfoot</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710193"><gtr:id>883D7B6A-1A6A-496A-B714-5DDCAC84D9A0</gtr:id><gtr:title>Peptinnovate's re-evolution in treating inflammatory diseases:Peptinnovate Limited will build on nature's ingenuity by exploiting naturally occurring molecules, which are present in ~2 billion people worldwide efficacious in treating inflammatory disease</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710193</gtr:grantReference><gtr:abstractText>Tuberculosis (TB) bacteria are present in about 2 billion people worldwide; they have evolved
+over 1000?s of years to remain hidden in the body by producing proteins that modulate the
+host's immune system. These chaperonin proteins have been shown to interact with and
+reduce the body's natural inflammatory process.
+Peptinnovate?s innovation:
+Peptinnovate?s innovative approach is to unlock the anti-inflammatory activity of these
+proteins and to develop new medicines for debilitating diseases such as rheumatoid arthritis
+and chronic obstructive pulmonary disease (COPD) by building on evolution and nature's
+ingenuity to modify these proteins to more drug-like molecules.
+Aim:
+This project will enable our lead molecule PIN201104 to be progressed through the
+preclinical activities to deliver a molecule towards Phase 1 and 2 clinical trials in rheumatoid
+arthritis.
+Objectives:
+? To further expand the demonstrated efficacy in key animal models of inflammation
+? To demonstrate the safety in toxicology and safety studies
+? To demonstrate manufacturability to the desired quality standard
+? To prepare a suitable stable formulation for future dosing in the clinic
+Main benefits, likely outcomes and impacts:
+The worldwide market for inflammatory disease treatment is vast (&amp;gt;$70 billion), however
+recent safety scares have been attributed to a number of key drugs. A novel anti-inflammatory
+medicine with a benign safety profile is desperately required by millions of patients.
+Peptinnovate?s approach of building on nature?s ingenuity and design means that the safety
+profile and efficacy represent a high probability of success.
+This paradigm shift in potential treatment options will have a profound impact on the lives of
+millions of patients, reducing the burden on the healthcare providers and helping to build a
+large, UK based, sustainable biopharmaceutical company.</gtr:abstractText><gtr:fund><gtr:end>2013-11-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2012-06-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>100000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710193</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

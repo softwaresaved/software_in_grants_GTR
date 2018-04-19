@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/C5BED6FA-906A-4F03-997B-159BC7BED640"><gtr:id>C5BED6FA-906A-4F03-997B-159BC7BED640</gtr:id><gtr:name>Faradion Limited</gtr:name><gtr:address><gtr:line1>Faradion Limited
+Leafield Technical Centre
+Langley</gtr:line1><gtr:city>Witney</gtr:city><gtr:postCode>OX29 9EF</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/C5BED6FA-906A-4F03-997B-159BC7BED640" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>C5BED6FA-906A-4F03-997B-159BC7BED640</gtr:id><gtr:name>Faradion Limited</gtr:name><gtr:address><gtr:line1>Faradion Limited
+Leafield Technical Centre
+Langley</gtr:line1><gtr:city>Witney</gtr:city><gtr:postCode>OX29 9EF</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>100000.0</gtr:offerGrant><gtr:projectCost>205693.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710002"><gtr:id>025A4E61-1861-4E6B-BCDE-374151FDEE62</gtr:id><gtr:title>New Advanced Battery Materials by Faradion Ltd</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710002</gtr:grantReference><gtr:abstractText>Efficient and low cost energy storage is a crucial requirement for many high technology
+markets including low carbon vehicles, mobile communications and renewable energy.
+Rechargeable batteries are advancing in technology to meet these market demands but they
+are currently hindered by high cost, weight and volume and significant safety issues. There is
+a huge opportunity for a company to develop new battery technology to tackle these key
+issues and this is what this project aims to do.
+Faradion intends to develop a new range advanced battery materials based on sodium-ion that
+significantly reduce the cost of advanced batteries. The electric-vehicle market represent
+today`s largest opportunity for new battery materials. All market research data suggests that
+the markets for these materials will be growing at rates exceeding 120% throughout the next 5
+years and beyond, so that the size of the market for batteries in electric vehicles will have
+grown by $23Bn by 2020. However it is also clear that today`s materials are not adequate for
+the market?s demands and there will need to be major technical improvements if the full
+market potential is to be realised. The battery pack for a full electric vehicle currently costs up
+to 50% of the total vehicle (less for a hybrid) and current EVs are still too expensive for the
+mass market. The growth of the market is highly dependent on a reduction in battery pack
+costs which will require significantly less expensive electrode materials. Beyond electric
+vehicles new low cost batteries will have market opportunities in consumer electronics ($14bn
+in 2016 for batteries) and grid/renewable energy storage ($2.5bn in 2016 for batteries).
+To answer this market need Faradion is looking to exploit the unrecognised potential of
+sodium-ion batteries which can match the performance of lithium-ion batteries but use
+significantly cheaper, more sustainable and safer materials. The output from this project will
+be proof of technical viability for the new materials along with associated IP protection. To
+exploit this IP Faradion will first develop a range of cell demonstrators (a follow-on project)
+to prove the performance of the technology at cell level and to investigate production options.
+Following this Faradion will be in a position to partner with an existing cell manufacturer
+(such as Sanyo, Samsung, LG, etc.) to look at productionisation.
+For this fast moving market Faradion will follow an aggressive development plan; completing
+this proof-of-concept project in 6 months and then having demonstrator cells in 18 months.
+This will enable Faradion to address the market need ahead of competitors. With cost being a
+key driver this technology benefits from being able to drop into existing production lines
+using the same equipment and the resulting batteries will be indistinguishable from standard liion
+batteries making them simple replacements ? this will result in low cost fast technology
+introduction.</gtr:abstractText><gtr:fund><gtr:end>2012-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2011-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>100000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710002</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

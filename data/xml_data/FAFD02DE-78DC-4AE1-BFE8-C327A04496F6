@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/26BEC508-1EA0-49A7-894D-165806C0C7BC"><gtr:id>26BEC508-1EA0-49A7-894D-165806C0C7BC</gtr:id><gtr:name>Foodient Ltd.</gtr:name><gtr:address><gtr:line1>Cornwall House 31 Lionel Street
+Birmingham</gtr:line1><gtr:city>Birmingham</gtr:city><gtr:postCode>B3 1AP</gtr:postCode><gtr:region>West Midlands</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/26BEC508-1EA0-49A7-894D-165806C0C7BC" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>26BEC508-1EA0-49A7-894D-165806C0C7BC</gtr:id><gtr:name>Foodient Ltd.</gtr:name><gtr:address><gtr:line1>Cornwall House 31 Lionel Street
+Birmingham</gtr:line1><gtr:city>Birmingham</gtr:city><gtr:postCode>B3 1AP</gtr:postCode><gtr:region>West Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>225320.0</gtr:offerGrant><gtr:projectCost>510983.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/D1D01B4B-19C6-46F5-ADDB-8AAAE23D4BEF"><gtr:id>D1D01B4B-19C6-46F5-ADDB-8AAAE23D4BEF</gtr:id><gtr:firstName>Nick</gtr:firstName><gtr:surname>Holzherr</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720462"><gtr:id>FAFD02DE-78DC-4AE1-BFE8-C327A04496F6</gtr:id><gtr:title>Revolutionising home cooking through smartdata</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720462</gtr:grantReference><gtr:abstractText>Rising food prices and obesity are key issues around the world. Conservative projections
+predict that 2.16 billion adults will be overweight and 1.12 billion adults will be obese by
+2030. Globally, food prices are near their historic peaks, and food price volatility is widely
+seen as the ?new normal?.
+Whisk proposes to create a recommendation engine to give users recipes suggestions to cook
+with leftover ingredients, suggestions for meals tailored to specific dietary requirements and
+suggestions for recipes that each specific user will enjoy based on their flavour profile. The
+recommendation engine will be able to process any digital recipe in real-time, using state-ofthe-
+art Natural Language Processing on top of a comprehensive food knowledge ontology.
+Users will have access to important nutritional, flavour and wasted leftover information
+wherever they find their recipes.
+This project will provides users with the ability to receive insights and recommendations to
+improve their quality of life in a life-changing way. Whisk?s existing footprint and
+partnerships will mean that functionality developed in this project will be made available of
+millions of people upon completion. The service will be free of charge for users and funded
+through FMCG and Supermarket advertising.
+Whisk is a popular digital shopping list application that allows users to add any recipe they
+find online to a single shopping list and then, with a few clicks, purchase the ingredients from
+any online supermarket they like. Since launching in January 2013, Whisk has made a sizable
+footprint within the world of online recipes and shopping. It has integrated Tesco, Ocado,
+Waitrose and Asda, is working with the world?s largest digital food publishing brands and
+advertises top global FMCG brands within shopping lists. Since December 2013, over 8
+million people see Whisk functionality on over 200,000 publisher partner recipes each month.
+2014 will see Whisk expand it's reach internationally.</gtr:abstractText><gtr:fund><gtr:end>2015-09-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2014-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>225320</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720462</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

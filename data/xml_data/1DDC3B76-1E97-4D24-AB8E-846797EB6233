@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/929CF831-2418-4609-9C66-8DF091B0A87F"><gtr:id>929CF831-2418-4609-9C66-8DF091B0A87F</gtr:id><gtr:name>European Thermodynamics Limited</gtr:name><gtr:address><gtr:line1>8 Priory Business Park
+Wistow Road
+Kibworth Harcourt</gtr:line1><gtr:city>Leicester</gtr:city><gtr:postCode>LE8 0RX</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/929CF831-2418-4609-9C66-8DF091B0A87F" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>929CF831-2418-4609-9C66-8DF091B0A87F</gtr:id><gtr:name>European Thermodynamics Limited</gtr:name><gtr:address><gtr:line1>8 Priory Business Park
+Wistow Road
+Kibworth Harcourt</gtr:line1><gtr:city>Leicester</gtr:city><gtr:postCode>LE8 0RX</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>85055.0</gtr:offerGrant><gtr:projectCost>121507.0</gtr:projectCost></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/DF44917B-CC59-40C0-8C6A-1B92F625F946" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>DF44917B-CC59-40C0-8C6A-1B92F625F946</gtr:id><gtr:name>The Manufacturing Technology Centre Limited</gtr:name><gtr:address><gtr:line1>MTC LTD ANSTY PARK, PILOT WAY , ANSTY</gtr:line1><gtr:city>COVENTRY</gtr:city><gtr:postCode>CV7 9JU</gtr:postCode><gtr:region>West Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>28160.0</gtr:offerGrant><gtr:projectCost>28160.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/11295EFE-8EAF-4F60-B3E7-BA048C7CD4BA"><gtr:id>11295EFE-8EAF-4F60-B3E7-BA048C7CD4BA</gtr:id><gtr:firstName>Barri</gtr:firstName><gtr:surname>Stirrup</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=132214"><gtr:id>1DDC3B76-1E97-4D24-AB8E-846797EB6233</gtr:id><gtr:title>HunTER High efficiency Thermo ElectRic Cooling</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Feasibility Studies</gtr:grantCategory><gtr:grantReference>132214</gtr:grantReference><gtr:abstractText>The potential market for Thermo-Electric technology is 56 billion, with 26bn for transportation cooling alone.
+
+Current commercial Thermo-Electrics for cooling applications are typically based on Bismuth Telluride (Bi2Te3)
+
+where the Figure of Merit, ZT peak is 1.0 @ 80oC and average ZT over Thermo-Electric Cooling (TEC) operating
+
+temperature of 0.8, limiting the maximum heat flow (Qmax) to 52.2W, the maximum temperature difference
+
+(Tmax) to 74oC and the Coefficient of Performance (CoP) of 1.46 for a typical TEC module.
+
+HUNTER will develop advanced materials solutions based on Phonon scattering through grain boundary
+
+engineering; Engineering of antisites and Metal-semiconductor interface for electron filtering to create n- and
+
+p-type Thermo-Electric BiTe alloys with average ZT1 across the effective operating temperature range. By
+
+achieving this performance, we will be able to increase TEC module efficiency so that Qmax &amp;gt; 57.3W, Tmax
+
+&amp;gt;78oC and CoP 1.94, this is beyond anything achieved previously. By achieving this we will create global USPs
+
+for TEC modules with particular application for automotive zonal cooling applications. Project Summary</gtr:abstractText><gtr:fund><gtr:end>2017-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2016-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>113215</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">132214</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

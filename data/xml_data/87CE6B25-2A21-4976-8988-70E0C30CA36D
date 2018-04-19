@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/68694121-1F5E-4707-BC9C-1419407E5331"><gtr:id>68694121-1F5E-4707-BC9C-1419407E5331</gtr:id><gtr:name>The Sustainable Home Survey Company C.I.C.</gtr:name><gtr:address><gtr:line1>29 SHAND STREET</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>SE1 2ES</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/68694121-1F5E-4707-BC9C-1419407E5331" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>68694121-1F5E-4707-BC9C-1419407E5331</gtr:id><gtr:name>The Sustainable Home Survey Company C.I.C.</gtr:name><gtr:address><gtr:line1>29 SHAND STREET</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>SE1 2ES</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>24500.0</gtr:offerGrant><gtr:projectCost>41881.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700615"><gtr:id>87CE6B25-2A21-4976-8988-70E0C30CA36D</gtr:id><gtr:title>Hot Water Detective 'HWD' - Proof of Market Project</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700615</gtr:grantReference><gtr:abstractText>The Sustainable Home Survey Company (SHS) is a leading community-focused energy
+management assessment company and social incubator. To date, SHS?s management team has
+delivered over 15 low carbon ventures and actively supports team members in identifying and
+growing spin-out companies.
+As an adjunct to its core business, SHS has identified a need for an innovative, low cost
+solution to domestic hot water control ??The Hot Water Detective? (HWD). HWD is
+designed to save energy on hot water heating and mitigate the risk of Legionnaires? disease
+through providing i) a cloud-based system for monitoring real-time hot water temperatures,
+and ii) a UV light disinfection device for eradicating microbiological contamination.
+In the UK, 14.3m homes have hot water storage tanks that are exposed to unnecessary
+financial inefficiencies:
+a) Significant loss of the water tanks? thermal energy due to out-dated, non-digitized control
+systems;
+b) Maintaining higher than necessary water tank temperatures (~10&amp;deg;C higher) for mitigating
+the risk of legionella bacteria - the average domestic hot water tank is kept at 65-70 &amp;deg;C.
+c) Biennial water tank safety checks (average of &amp;pound;150/property) for rented properties ?
+protecting tenants from risk of legionella. From January 2015 Legionella risk mitigation is
+mandatory for any private or social landlords (ACOP L8, Health &amp;amp; Safety at Work Act 1974)
+HWD remotely monitors water temperatures to save up to &amp;pound;100 per year on energy bills
+(through improved and more sensitive, real-time control), whilst mitigating the risk of
+legionella to remove the need for water tank health and safety checks.
+It is anticipated that successful deployment of this HWD system across the UK domestic
+market has the potential to reduce annual domestic heating costs by &amp;pound;970m amongst
+vulnerable tenants, save a further &amp;pound;650m/year for landlords through minimizing water tank
+health and safety audits in rented sector, and deliver lifetime carbon savings of 1.97 mt CO2e</gtr:abstractText><gtr:fund><gtr:end>2016-02-29</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2015-09-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>24500</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700615</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

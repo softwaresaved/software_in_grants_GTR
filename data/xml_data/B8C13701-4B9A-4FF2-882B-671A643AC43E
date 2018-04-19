@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/5E33A0BF-4C6B-4B1B-BDC6-FBBD81BE27C6"><gtr:id>5E33A0BF-4C6B-4B1B-BDC6-FBBD81BE27C6</gtr:id><gtr:name>Workabode Limited</gtr:name><gtr:address><gtr:line1>DUKES COURT 32 DUKE STREET , ST JAMES'S</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>SW1Y 6DF</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/5E33A0BF-4C6B-4B1B-BDC6-FBBD81BE27C6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>5E33A0BF-4C6B-4B1B-BDC6-FBBD81BE27C6</gtr:id><gtr:name>Workabode Limited</gtr:name><gtr:address><gtr:line1>DUKES COURT 32 DUKE STREET , ST JAMES'S</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>SW1Y 6DF</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>109296.0</gtr:offerGrant><gtr:projectCost>242879.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/75701545-7627-4011-9C11-B4644D67FD19"><gtr:id>75701545-7627-4011-9C11-B4644D67FD19</gtr:id><gtr:firstName>Trevor</gtr:firstName><gtr:surname>O Hara</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720755"><gtr:id>B8C13701-4B9A-4FF2-882B-671A643AC43E</gtr:id><gtr:title>Development of an integrated Mobile Workspace Platform ? hardware and software to turn empty and underutilised office space into mobile working destinations.</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720755</gtr:grantReference><gtr:abstractText>2 billion+ square feet of new office space has been built worldwide in the past 30 years,
+however 49% of this work space currently lies under-occupied at any one time (Manhattan
+Analytics :2014). Fuelled by changing work patterns &amp;amp; a rapid advance in technology, work
+has become agile, distributed &amp;amp; flexible with an increasingly mobile workforce. Additionally,
+rigid leasing structure, inflexible rental agreements, strict covenants &amp;amp; a one-size-fits-all
+approach have trapped companies into corporate footprints incompatible with modern work
+patterns.
+The traditional office is increasingly becoming commercially obsolete &amp;amp; technologically ill
+equipped to meet the demands of the mobile workforce. To address, we intend to develop an
+integrated Mobile Work space Platform that will enable any business centre, empty work space
+or under utilised office to instantly become an accessible, integrated mobile work space -
+tapping into the huge demand for flexible, collaborative work environments.
+Utilising beacon hardware &amp;amp; location-based connection algorithms, the platform will consist
+of the key three elements;
+1. Access ? a work space management system incorporating ?plug and play? beacon hardware
+&amp;amp; software to allow mobile workers to discover, access &amp;amp; use facilities near wherever they
+are;
+2. Connection ? an integrated suite of embedded desktop, project management &amp;amp; productivity
+tools on a single platform
+3. Collaboration ? a proximity-based social &amp;amp; skills network to facilitate interaction between
+people, projects &amp;amp; workplaces.
+This low cost, impact solution to the problem of unde rutilised existing office space has the
+potential to change the way space is let to worker and companies ? opening up a potential
+&amp;pound;200m secondary market for under-used work space (DTZ:2015).
+Our ambition is to move far beyond simple ecommerce sites that list work space and design a
+technology platform to turn any empty work space into an instantly accessible, integrated on demand
+workplace.</gtr:abstractText><gtr:fund><gtr:end>2017-02-28</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2016-03-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>109296</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720755</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

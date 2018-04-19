@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/F3E4DBF5-9E94-422F-BF9E-97C6F54B0ED0"><gtr:id>F3E4DBF5-9E94-422F-BF9E-97C6F54B0ED0</gtr:id><gtr:name>Beluga Learning Ltd</gtr:name><gtr:address><gtr:line1>10 NORWICH STREET</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>EC4A 1BD</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/F3E4DBF5-9E94-422F-BF9E-97C6F54B0ED0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>F3E4DBF5-9E94-422F-BF9E-97C6F54B0ED0</gtr:id><gtr:name>Beluga Learning Ltd</gtr:name><gtr:address><gtr:line1>10 NORWICH STREET</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>EC4A 1BD</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>100000.0</gtr:offerGrant><gtr:projectCost>178390.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710203"><gtr:id>5EB99227-D1BB-42F4-A6BD-DC10D7C96224</gtr:id><gtr:title>Beluga Learning - 'LATTE' (Learning Analytics Through Touch-based Education)</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710203</gtr:grantReference><gtr:abstractText>In the Learning Analytics Through Touch-based Education (LATTE) Project research will be
+undertaken into the collection, collation and analysis of learning metrics e.g. user response
+and interactions. These metrics will be derived from information gathered from a free,
+learning ?app? targeted at Key Stages 2-4 education in Mathematics. The ?app? will present
+touch-based, Mathematical, formative learning activities to learners. The corresponding
+responses and actions of the learners to these activities are reported to a remote analytics
+engine. This information is analysed to provide a wide range of metrics to characterize the
+performance and capabilities of the learner in the context of the peer group on a local,
+regional, national and international scale. The realisation of this capability requires research
+into:
+1) the analytics-oriented generic content model that will be used as the basis for determining
+progress through the content (the model must be capable of reflecting any content created for
+the subject matter);
+2) the new algorithms that are required to map the touch-based actions into the corresponding
+learning activities presented through the content;
+3) the new algorithms used to analyse the learning activity data to identify the strengths and
+weaknesses of the learner with respect to the learning objectives and expected outcomes (the
+aim is to look for hidden correlations, to include historic data acquired from prior learning
+activities, to determine pedagogic relevant measurements and to demonstrate learning
+progress against learning standards).
+The key deliverable will be a Proof-of-Concept (PoC) demonstration to show that it is possible
+to:
+1) create a touch-based learning content ?app? from which key state information can be
+reported;
+2) analyse the data and create appropriate metrics from which it is possible to describe the
+capabilities of the learner; and
+3) analyse the data to track learning progress against learning standards.</gtr:abstractText><gtr:fund><gtr:end>2012-10-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2012-05-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>100000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710203</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

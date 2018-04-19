@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/C3B24982-DE4C-4F86-A28A-2019755D033C"><gtr:id>C3B24982-DE4C-4F86-A28A-2019755D033C</gtr:id><gtr:name>Zagres Limited</gtr:name><gtr:address><gtr:line1>Wellington House
+East Road</gtr:line1><gtr:city>Cambridge</gtr:city><gtr:postCode>CB1 1BH</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/C3B24982-DE4C-4F86-A28A-2019755D033C" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>C3B24982-DE4C-4F86-A28A-2019755D033C</gtr:id><gtr:name>Zagres Limited</gtr:name><gtr:address><gtr:line1>Wellington House
+East Road</gtr:line1><gtr:city>Cambridge</gtr:city><gtr:postCode>CB1 1BH</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>25000.0</gtr:offerGrant><gtr:projectCost>43071.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/115B2A45-5BFB-4ADB-8896-19282028DD1B"><gtr:id>115B2A45-5BFB-4ADB-8896-19282028DD1B</gtr:id><gtr:firstName>Ehsan</gtr:firstName><gtr:surname>Jalebi</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700444"><gtr:id>0496DE2F-D31F-4338-ADDA-DC1F9EA2ECE8</gtr:id><gtr:title>Zagres Ltd - Study, assessment and proof of market potentials and economics of a new Gallium Nitride inverter technology for domestic energy storage applications</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700444</gtr:grantReference><gtr:abstractText>Energy storage, both on domestic and industrial levels, is vital in enabling greater penetration
+of renewable electricity generation and development of smart grids, and to reduce the need for
+fossil fuel peaking plants. According to a Technology Innovation Needs Assessment (TINA)
+by the Low Carbon Innovation Group published in Aug 2012, 27.4 GW of grid-connected
+energy storage is needed to enable UK achieving its carbon reduction targets for 2050.
+Realising this capacity is rather ambitious given today?s installed capacity being less than 3
+GW, mainly dominated by large-scale pumped hydro storage (PHS). There is limited space to
+expand PHS in the UK, so other options for storage need to be explored. Grid-connected
+domestic energy storage (GCD ES) can offer an important contribution to realising 2050
+targets, as much as 10 GW equivalent to two million household installations, predicted by
+TINA.
+The majority of GCD ES solutions are based on batteries and their associated AC-DC power
+electronics inverters. Existing battery and inverter technologies are expensive and have low
+efficiency, preventing widespread adoption of GCD ES. Commercially available inverters for
+energy storage applications are made from Silicon-based Insulated Gate Bipolar Transistor (Si-
+IGBT) devices, which are costly and have moderate efficiency. The inverter is a major
+component of a GCD ES system and hence, its cost reduction and efficiency improvement
+will directly affect the system economics and net ?cost of energy?.
+Zagres, spun out from Cambridge University Engineering Department, has developed a new
+inverter technology based on Gallium Nitride High-Electron-Mobility Transistor (GaN
+HEMT) devices, which promises significant improvements over Si-IGBT based inverters; its
+exploitation can reduce the cost and size of energy storage inverters and increase power
+conversion efficiency, contributing towards achieving more cost-effective energy storage
+systems.</gtr:abstractText><gtr:fund><gtr:end>2015-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2014-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>25000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700444</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

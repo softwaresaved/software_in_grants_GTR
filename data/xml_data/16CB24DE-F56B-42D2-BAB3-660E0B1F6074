@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/A0E7FF3C-155A-4163-BFAC-3F7D66F0EE40"><gtr:id>A0E7FF3C-155A-4163-BFAC-3F7D66F0EE40</gtr:id><gtr:name>Isotera Ltd</gtr:name><gtr:address><gtr:line1>UNIT 4 SPENCER COURT HOWARD ROAD , EATON SOCON</gtr:line1><gtr:city>ST. NEOTS</gtr:city><gtr:postCode>PE19 8ET</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/A0E7FF3C-155A-4163-BFAC-3F7D66F0EE40" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>A0E7FF3C-155A-4163-BFAC-3F7D66F0EE40</gtr:id><gtr:name>Isotera Ltd</gtr:name><gtr:address><gtr:line1>UNIT 4 SPENCER COURT HOWARD ROAD , EATON SOCON</gtr:line1><gtr:city>ST. NEOTS</gtr:city><gtr:postCode>PE19 8ET</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>167956.0</gtr:offerGrant><gtr:projectCost>373235.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720071"><gtr:id>16CB24DE-F56B-42D2-BAB3-660E0B1F6074</gtr:id><gtr:title>iSotera essential modules development</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720071</gtr:grantReference><gtr:abstractText>iSotera is a spin-out from Juice Technology, created to commercialise a game changing
+system developed to concept stage by Juice to power up and control LED lighting fixtures. It
+creates a de-skilled, tool-less system that is easy to install, upgrade and maintain
+and maximally reduces capital, installation, operating and end-of-life costs.
+Market research done in Q1 of 2011 with a Proof of Market grant from EEDA confirmed that:
+? the adoption of LEDs in lighting is starting to happen and is expected to grow with 40-50%
+p.a. in the next 5 years
+? the market for Lighting Control Systems (LCS) is set to double until 2015
+? the iSotera system addresses key recognised problems with LED lighting and LCS
+? the iSotera system is likely to represent a step change in costs of such systems
+? no fundamental obstacles for its market adoption have been identified
+Over the last 12 months strong interest has been obtained from the lighting and construction
+industry.
+The aim of the project is to develop the key modules of the system to prototype stage with the
+performance, look &amp;amp; feel and cost structure representative of the final product. Industry
+adoption also critically depends on the market?s confidence that the system will become
+available in sufficient breadth. Therefore it is proposed to develop 2 main system
+configurations at different power levels: a 200W and a 500W version, which differ materially.
+This will confirm that the system is suitable for enough applications to be attractive to the
+target market - commercial lighting.
+This project is likely to have strong environmental, economic and social impact:
+? accelerated adoption of the most energy efficient lighting systems
+? the creation of up to 75 high quality jobs in the UK over 5 years with additional work
+for other companies in the UK
+? as part of Building Management Systems making buildings more intelligent,
+contributing to well being, health and security.</gtr:abstractText><gtr:fund><gtr:end>2013-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2012-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>167956</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720071</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

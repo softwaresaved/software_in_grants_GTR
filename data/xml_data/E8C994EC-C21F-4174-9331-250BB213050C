@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/3F1E1DA3-F1DD-4FD3-AAD3-6894B19EF414"><gtr:id>3F1E1DA3-F1DD-4FD3-AAD3-6894B19EF414</gtr:id><gtr:name>Helionix Developments Limited</gtr:name><gtr:address><gtr:line1>THE PINES GARDEN OFFICE BEACH ROAD , ST MARGARETS BAY</gtr:line1><gtr:city>DOVER</gtr:city><gtr:postCode>CT15 6DZ</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/3F1E1DA3-F1DD-4FD3-AAD3-6894B19EF414" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>3F1E1DA3-F1DD-4FD3-AAD3-6894B19EF414</gtr:id><gtr:name>Helionix Developments Limited</gtr:name><gtr:address><gtr:line1>THE PINES GARDEN OFFICE BEACH ROAD , ST MARGARETS BAY</gtr:line1><gtr:city>DOVER</gtr:city><gtr:postCode>CT15 6DZ</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>88535.0</gtr:offerGrant><gtr:projectCost>147559.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/493D6466-819A-4D9F-AD5E-2E4023439A22"><gtr:id>493D6466-819A-4D9F-AD5E-2E4023439A22</gtr:id><gtr:firstName>Marc</gtr:firstName><gtr:surname>Carey</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710525"><gtr:id>E8C994EC-C21F-4174-9331-250BB213050C</gtr:id><gtr:title>Ultra Low Impact Chalk Tile Construction System</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710525</gtr:grantReference><gtr:abstractText>Ultra Low Impact Chalk Tile Construction System
+Aims:
+? To develop a structural building tile using abundant natural materials with no negative
+human or environmental health impacts;
+? To develop an ultra-low environmental impact manufacturing process and building
+system;
+? To accelerate construction sector innovation to improve sustainability performance.
+Objectives:
+? To develop and test a) the tile product; b) a low-impact manufacturing process for the
+tile; c) an ultra-low impact building system using the tile as a primary structural component
+with cost constraints comparable to market conditions;
+? To secure IP for the above;
+? To assess embodied energy, carbon and water impacts of the tile, manufacturing
+process and build system;
+This project will test low impact manufacturing options for a chalk-based tile using a building
+system where the tile is the primary structural component, applying sophisticated construction
+engineering previously tested in the multi-award winning Pines Calyx ultra low carbon
+building.
+The project is innovative because it aims:
+a) To create a break-through in construction product manufacturing with very low
+embodied environmental impacts, using abundant natural materials with zero waste and no
+harmful health impacts;
+b) To develop a system suited to localised manufacturing for building affordable ultralow
+impact homes and buildings;
+c) To benefit a range of TSB programmes i.e. priorities 1 and 5 of the Low Impact
+Building Innovation Platform and the Modern Built Environment KTN;
+d) To establish a ?design classic? to market the products and services and quickly
+establish brand value;
+e) To create a product, manufacturing process, build system and business which
+maximise sustainability benefits (economic, social and environmental) and not merely
+minimise negative impacts.
+The project will initiate an R&amp;amp;D programme that aims to unlock a range of paradigm shifting
+ultra low impact construction models for the circular economy.</gtr:abstractText><gtr:fund><gtr:end>2015-09-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2014-07-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>88535</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710525</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

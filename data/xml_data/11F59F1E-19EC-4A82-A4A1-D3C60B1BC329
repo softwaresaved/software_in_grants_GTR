@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/16C46B3F-3B2B-45E0-97BD-1B60764782A0"><gtr:id>16C46B3F-3B2B-45E0-97BD-1B60764782A0</gtr:id><gtr:name>Dearman Engine Company Limited</gtr:name><gtr:address><gtr:line1>7 Henrietta Street 
+Covent Garden</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>WC2E 8PS</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/16C46B3F-3B2B-45E0-97BD-1B60764782A0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>16C46B3F-3B2B-45E0-97BD-1B60764782A0</gtr:id><gtr:name>Dearman Engine Company Limited</gtr:name><gtr:address><gtr:line1>7 Henrietta Street 
+Covent Garden</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>WC2E 8PS</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>25000.0</gtr:offerGrant><gtr:projectCost>65120.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/D4F9AB58-9B2C-4FF2-8300-DC5F2D3DD86D"><gtr:id>D4F9AB58-9B2C-4FF2-8300-DC5F2D3DD86D</gtr:id><gtr:firstName>Sarah</gtr:firstName><gtr:surname>Trew</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700388"><gtr:id>11F59F1E-19EC-4A82-A4A1-D3C60B1BC329</gtr:id><gtr:title>Proof of Market: Japan</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700388</gtr:grantReference><gtr:abstractText>The Dearman Engine Company (DEC) is a UK based technology developer. The Dearman
+Engine is an innovative heat engine that converts ambient or waste heat into shaft power using
+liquid air or nirtrogen as a working fluid. The technology is the subject of multiple
+collaborative research and development projects financed through various combinations of
+government and private investment exploring its application to transport refrigeration, waste
+heat recovery and zero-emission vehicles.
+Up to 20% of diesel consumed by a refrigerated truck is used for cooling. Along with the
+direct fuel cost, CO2 emissions are ~50 tonnes per year per truck from cooling. The Dearman
+Engine can be used in transport refrigeration applications by extracting ?coolth? from the low
+temperature working fluid (liquid air), which boils at -196?C and using the resulting shaft
+power to drive a refrigeration cycle.
+A consortium of DEC, MIRA, Air Products and Loughborough University is currently 6
+months into a TSB IDP8 project to build and test a Dearman engine refrigeration system fitted
+in a commercial vehicle for demonstration in 2014. The technology will move to field trials in
+2015 and low volume manufacture by 2016. Other projects are underway to develop waste
+heat recovery applications.
+This proof of market project seeks to explore the opportunity for developing an additional
+exploitation path for the technology in the Japanese market. Japan is the world?s third largest
+economy and invests $3.9bn a year in energy technology R&amp;amp;D. It has an extensive cold chain
+that generates more than $1.6bn a year in revenue that operates in a manner that is distinct
+from European models utilising different vehicles and distribution models creating the
+potential for further innovation. Japan also offers the opportunity of being the base for a
+further exploitation route into the rest of the Asia pacific region.</gtr:abstractText><gtr:fund><gtr:end>2015-02-28</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2014-06-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>25000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700388</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

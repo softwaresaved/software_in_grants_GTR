@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/4ACE2F67-D528-46D0-AAD6-E295ED0D596E"><gtr:id>4ACE2F67-D528-46D0-AAD6-E295ED0D596E</gtr:id><gtr:name>Super Local Limited</gtr:name><gtr:address><gtr:line1>46 COOPERS COURT , CHURCH ROAD</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>W3 8PN</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/4ACE2F67-D528-46D0-AAD6-E295ED0D596E" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>4ACE2F67-D528-46D0-AAD6-E295ED0D596E</gtr:id><gtr:name>Super Local Limited</gtr:name><gtr:address><gtr:line1>46 COOPERS COURT , CHURCH ROAD</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>W3 8PN</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>24889.0</gtr:offerGrant><gtr:projectCost>35556.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/42424392-E630-493E-95AC-C49CB115D292"><gtr:id>42424392-E630-493E-95AC-C49CB115D292</gtr:id><gtr:firstName>Toby</gtr:firstName><gtr:surname>Webb</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=132281"><gtr:id>1C76EACB-CE00-4A09-8CA3-234455AED58C</gtr:id><gtr:title>Signalbox Urban API: ubiquitous positioning for smart cities</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>EU-Funded</gtr:grantCategory><gtr:grantReference>132281</gtr:grantReference><gtr:abstractText>Location underpins the operation of a vast range of smart city applications. Examples include real-time
+
+transport apps and mapping applications, guidance systems for people with sight loss, satnav systems for
+
+vehicles, high-value asset tracking systems, emergency response systems, and parking apps.
+
+Currently these applications rely on satellite systems such as GPS to determine their position. Yet in many
+
+urban areas satellite signals are disrupted, leading to a poor location accuracy, or no position at all. Therefore,
+
+there is a need for alternative technologies that can supplement GPS to allow location everywhere all the time
+
+? so called ?ubiquitous positioning?.
+
+Signalbox Urban API is a product that provides ubiquitous positioning across entire urban areas - delivering
+
+pinpoint city-wide positioning and location-based triggering for IoT objects and nomadic devices. For this study,
+
+we will analyse the systems performance in Singapore, and foster partnerships with third-party product
+
+manufacturers to help us address the Asian market.</gtr:abstractText><gtr:fund><gtr:end>2016-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2016-02-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>24889</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">132281</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

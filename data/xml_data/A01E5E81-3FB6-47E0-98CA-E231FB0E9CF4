@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/13E24B77-EDFF-4AC6-B108-C6B8A8571012"><gtr:id>13E24B77-EDFF-4AC6-B108-C6B8A8571012</gtr:id><gtr:name>Motivation Direct Ltd</gtr:name><gtr:address><gtr:line1>BROCKLEY ACADEMY BROCKLEY LANE , BACKWELL</gtr:line1><gtr:city>BRISTOL</gtr:city><gtr:postCode>BS48 4AQ</gtr:postCode><gtr:region>South West</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/13E24B77-EDFF-4AC6-B108-C6B8A8571012" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>13E24B77-EDFF-4AC6-B108-C6B8A8571012</gtr:id><gtr:name>Motivation Direct Ltd</gtr:name><gtr:address><gtr:line1>BROCKLEY ACADEMY BROCKLEY LANE , BACKWELL</gtr:line1><gtr:city>BRISTOL</gtr:city><gtr:postCode>BS48 4AQ</gtr:postCode><gtr:region>South West</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>24316.0</gtr:offerGrant><gtr:projectCost>40528.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/5DBBEA22-F75F-485D-B6B7-BDD067A4DA67"><gtr:id>5DBBEA22-F75F-485D-B6B7-BDD067A4DA67</gtr:id><gtr:firstName>Carolyn</gtr:firstName><gtr:surname>Harvey</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700222"><gtr:id>A01E5E81-3FB6-47E0-98CA-E231FB0E9CF4</gtr:id><gtr:title>Researching the market for urinary continence management products in low income countries</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700222</gtr:grantReference><gtr:abstractText>Through this project, Motivation will identify how to overcome barriers in the market for
+urinary continence management products (UCMP) in developing countries. UCMP market
+research will analyse organisations involved in UCMP provision, including government
+ministries, hospitals and health-focused non-governmental organisations (NGOs). The
+research will quantify the estimated demand for UCMP products, identify potential customers
+and their funding mechanisms, and suggest innovative new ways to deliver products to
+countries with limited urological expertise.
+In most developing countries, there is a lack of trained urologists and limited health budget
+allocation for UCMPs. As a result, many people die of preventable urinary health
+complications. Motivation will start the research by establishing a UK-based urinary
+management advisory board, including urologists, healthcare professionals and specialist
+urinary management organisations, which will advise on product, training and prescription
+options for safe provision of UCMPs in countries where urological expertise is limited. This
+innovative approach will make the UK a leading source of UCMP expertise for developing
+economies.
+The second phase of the research will analyse current prescription and funding processes.
+Interviews and surveys with healthcare professionals and end users will provide qualitative
+and quantitative data about UCMP delivery and prescription mechanisms, potential
+customers? budgets for UCMPs, and the pathway from product importation to patient
+delivery.
+Ultimately, Motivation aims to open up an as yet untapped UCMP global exportation market.
+With an estimated 200 million people worldwide experiencing urinary incontinence,
+Motivation would be a leading supplier of UCMPs in developing economies. Not only would
+this new market increase UK exports, but it would also improve the survival rate of end users
+who previously could not access UCMPs.</gtr:abstractText><gtr:fund><gtr:end>2013-12-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2013-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>24316</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700222</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

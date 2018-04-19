@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/0E457993-32C8-4F50-916C-72E1A5D0F378"><gtr:id>0E457993-32C8-4F50-916C-72E1A5D0F378</gtr:id><gtr:name>Andrew Lucas Limited</gtr:name><gtr:address><gtr:line1>5 JARDINE HOUSE , HARROVIAN BUSINESS VILLAGE</gtr:line1><gtr:city>BESSBOROUGH ROAD</gtr:city><gtr:postCode>HA1 3EX</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/0E457993-32C8-4F50-916C-72E1A5D0F378" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>0E457993-32C8-4F50-916C-72E1A5D0F378</gtr:id><gtr:name>Andrew Lucas Limited</gtr:name><gtr:address><gtr:line1>5 JARDINE HOUSE , HARROVIAN BUSINESS VILLAGE</gtr:line1><gtr:city>BESSBOROUGH ROAD</gtr:city><gtr:postCode>HA1 3EX</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>100000.0</gtr:offerGrant><gtr:projectCost>186576.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710837"><gtr:id>CC433D6D-C971-413D-BBCD-F2BA5414C57A</gtr:id><gtr:title>Noon</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710837</gtr:grantReference><gtr:abstractText>Every day, the UK insurance industry pay out ~&amp;pound;2.5M in ?Escape of Water - EoW? claims as a
+result of burst pipes/faults in a property?s plumbing system. EoW currently represents the
+biggest threat to property accounting for 24% of all domestic property insurance claims. EoW
+from domestic properties also presents a significant environmental impact: ~9.7bn litres of
+water is lost every yr due to domestic appliances breaking their connection; the average
+household leaks up to 45K litres of water per yr as a result of leaky appliances &amp;amp; leaking
+pipes.
+Smart meters offer a partial solution, providing consumers with the opportunity to monitor
+their usage in (near) real time. However no existing system effectively addresses the
+significant issue of EoW, with the actual adoption of any form of smart water metering tech
+still behind that of the energy sector (just 7 out of 25 water utilities in the UK offering smarter
+metering) as a result of a no. of key tech challenges:
+-Current techs do not allow the householder any form of control/action, ie switch appliances
+on/off
+-Limited meter battery life, impacting cost benefit, storage capacity &amp;amp; transmission range of
+data
+-Lack of inter-operability between networks
+-Privacy &amp;amp; security concerns
+Based on consultation with UK Insurers &amp;amp; Utility companies, Andrew Lucas - AL (leading
+smart home tech designer) aim to address these limitations through the development of a
+unique low cost smart system that will allow for effective management of EoW. Strong
+interest has been expressed from Insurers to use Noon as an incentive as part of a policy -
+providing additional piece of mind to their customers. AL also seek to target utility companies
+&amp;amp; sustainable homes, direct B2C taking advantage of the global smart water meter market
+forecast to reach &amp;pound;747M by 2020. Mkt entry Qu4 2017.</gtr:abstractText><gtr:fund><gtr:end>2017-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2016-03-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>100000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710837</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

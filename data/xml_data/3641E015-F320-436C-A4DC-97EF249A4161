@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/97B11DA7-271C-4A22-BE02-88C87E09E7EF"><gtr:id>97B11DA7-271C-4A22-BE02-88C87E09E7EF</gtr:id><gtr:name>Hollycroft Associates</gtr:name><gtr:address><gtr:line1>Suite 2 
+135 high street</gtr:line1><gtr:city>Sevenoaks</gtr:city><gtr:postCode>TN13 1UP</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/97B11DA7-271C-4A22-BE02-88C87E09E7EF" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>97B11DA7-271C-4A22-BE02-88C87E09E7EF</gtr:id><gtr:name>Hollycroft Associates</gtr:name><gtr:address><gtr:line1>Suite 2 
+135 high street</gtr:line1><gtr:city>Sevenoaks</gtr:city><gtr:postCode>TN13 1UP</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>25000.0</gtr:offerGrant><gtr:projectCost>42821.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/7D7B7023-BA3C-4A8F-AAFB-CA15E0604BD6"><gtr:id>7D7B7023-BA3C-4A8F-AAFB-CA15E0604BD6</gtr:id><gtr:firstName>Philip</gtr:firstName><gtr:surname>Haines</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700109"><gtr:id>3641E015-F320-436C-A4DC-97EF249A4161</gtr:id><gtr:title>Ka-band Tracking VSAT Antenna for Satellite Communications on the Move</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700109</gtr:grantReference><gtr:abstractText>The past year has seen the launch of several new-generation Ka-band satellites (including
+Avanti's Hylas and Eutelsat's Ka-Sat in Europe) which provide a significant increase in
+capacity for broadband users in regions beyond the reach of current terrestrial systems. These
+satellites are part of a trend towards the availability of Ka-band globally, with some 60 Kaband
+satellites either already in orbit or scheduled to be launched by 2014.
+In addition to the uplift this will give to the satellite delivered broadband sector this also
+represents a significant opportunity for the mobile satcom sector, and UK-based mobile
+satellite provider Inmarsat is already involved in the procurement of a fleet of Ka-band
+satellites for mobile use.
+For some years Hollycroft Associates has been actively involved in the development of
+satellite delivered broadband to high speed trains in Europe and has identified the need for a
+low-cost, high-throughput terminal for use in a mobile environment that can take advantage of
+the availability of lower cost Ka-band capacity. As yet there are no such terminals available in
+the commercial market and consequently Hollycroft Associates proposes to develop a
+complete terminal design which draws on individual subsystem capabilities available in the
+UK and which could be readily developed into a commercial product. This would re-establish
+a UK satellite terminal capability, opening up opportunities for export in the mobile ground
+terminal sector.
+We have already undertaken a brief three-month feasibility study and have identified a small
+group of UK companies that could work together in the supply chain to bring an appropriate
+product to market. Whilst some internal development funding will be available from
+Hollycroft Associates and from these companies, there would also be a need for some external
+funding and thus a proof of market is the essential next step in securing this external funding.</gtr:abstractText><gtr:fund><gtr:end>2012-11-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2012-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>25000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700109</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

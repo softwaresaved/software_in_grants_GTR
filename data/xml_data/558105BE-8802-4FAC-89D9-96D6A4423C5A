@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/559863CC-6961-4061-B9AF-DE0B12B2EBF1"><gtr:id>559863CC-6961-4061-B9AF-DE0B12B2EBF1</gtr:id><gtr:name>Pushpull Technology Ltd</gtr:name><gtr:address><gtr:line1>43-45 DORSET STREET</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>W1U 7NA</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/559863CC-6961-4061-B9AF-DE0B12B2EBF1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>559863CC-6961-4061-B9AF-DE0B12B2EBF1</gtr:id><gtr:name>Pushpull Technology Ltd</gtr:name><gtr:address><gtr:line1>43-45 DORSET STREET</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>W1U 7NA</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>99000.0</gtr:offerGrant><gtr:projectCost>165683.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/DB7D8920-9505-4EB5-A57B-2307512F603B"><gtr:id>DB7D8920-9505-4EB5-A57B-2307512F603B</gtr:id><gtr:firstName>David</gtr:firstName><gtr:surname>Jones</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710620"><gtr:id>558105BE-8802-4FAC-89D9-96D6A4423C5A</gtr:id><gtr:title>PushPull Technology: An investigation into the technical feasibility of a zero-knowledge platform for secure data and file sharing</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710620</gtr:grantReference><gtr:abstractText>description of your proposal provided. Provision of this description is mandatory.
+An investigation into the technical feasibility of a zero-knowledge platform for secure data
+and file sharing.
+The platform will enable local groups of users to share information without the need for a web
+service or a cloud-hosted master copy of the data, thus avoiding many of the privacy and
+security issues currently facing existing cloud-based file sharing systems.
+The platform will enable groups of users in the same physical location to establish pop-up
+networks of smartphones and tablets using the devices? own WIFI and Bluetooth for
+communication.
+Where devices are not in direct range of each other, the platform will intelligently utilise
+intermediate devices to relay data between senders and recipients.
+The storage of and access to information within the group will be controlled by the user
+configurable settings according to an innovative new model.
+Shared data will be encrypted with innovative group focussed encryption techniques.
+The platform will exposed to other systems and mobile Apps via an API.
+The specific aims of this Proof of Concept project are to:
+? formulate the requirements for the platform
+? design a model for the parameterisation and interaction of the various features to be
+offered by the platform
+? design and build a basic prototype to demonstrate core features of the platform
+? investigate the current related intellectual property and define a strategy
+The commercial applications of such a platform are potentially broad ranging from business
+collaborative tools, to offline file sharing, to kids? local gaming groups.</gtr:abstractText><gtr:fund><gtr:end>2015-08-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2014-12-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>99000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710620</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

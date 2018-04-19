@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/0ECFAB26-C137-4F72-87B2-2883EB841FE3"><gtr:id>0ECFAB26-C137-4F72-87B2-2883EB841FE3</gtr:id><gtr:name>Blendology Limited</gtr:name><gtr:address><gtr:line1>11 HIGHDOWN ROAD</gtr:line1><gtr:city>LEAMINGTON SPA</gtr:city><gtr:postCode>CV31 1XT</gtr:postCode><gtr:region>West Midlands</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/0ECFAB26-C137-4F72-87B2-2883EB841FE3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>0ECFAB26-C137-4F72-87B2-2883EB841FE3</gtr:id><gtr:name>Blendology Limited</gtr:name><gtr:address><gtr:line1>11 HIGHDOWN ROAD</gtr:line1><gtr:city>LEAMINGTON SPA</gtr:city><gtr:postCode>CV31 1XT</gtr:postCode><gtr:region>West Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>20013.0</gtr:offerGrant><gtr:projectCost>33355.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/A232E354-7155-42BE-94EA-947529415055"><gtr:id>A232E354-7155-42BE-94EA-947529415055</gtr:id><gtr:firstName>Grants</gtr:firstName><gtr:surname>Team</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700070"><gtr:id>15DC8AE2-9493-45D8-9E0E-3326E8BFDD8A</gtr:id><gtr:title>Mixing real-life and online networks</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700070</gtr:grantReference><gtr:abstractText>Blendology is the company behind an exciting concept that captures real-life social and
+professional encounters, like digital handshakes, and shares that information in an online
+interface.
+This project addresses the business opportunity that has been created by new digital
+technologies in the form of an inexpensive portable electronic device that can be used to
+enable people to effortlessly exchange contact information during sponsored events such as
+music festivals, sports venues, conferences and exhibitions. Now more than ever, people
+understand the value of extending their social and professional networks. Equally, brand
+managers are aware of the importance of identifying and empowering potential brand
+ambassadors ? event attendees with a high propensity to form new social connections ? since
+these people provide highly efficient viral marketing channels.
+Success of the business is dependent on early mass adoption of the proposed device by a
+significant proportion of event attendees. Hence it will be made available to brand managers
+and event organisers at a very low cost, comparable to that of a USB stick give-away, which
+they will then distribute to users for free. Brand and event organisers buy the device,
+secondary revenue streams come from advanced statistical services and optional branding and
+customisation of the device.
+The Proof of Market project will investigate the following areas:
+* Market opportunity;
+* Direct and indirect competition;
+* Perceived value of the product to the user and the buyer;
+* Messaging, communication and positioning of the brand;
+* Device design and usability, testing of space-models;
+* Platform design and usability;
+* Distribution channels and adoption rates, and
+* Intellectual property potential.
+Results of this research will define marketing strategy and shape the product, in order to
+enable the early mass adoption that is vital for success. This is a new way to connect in reallife.</gtr:abstractText><gtr:fund><gtr:end>2012-02-29</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2012-01-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>20013</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700070</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

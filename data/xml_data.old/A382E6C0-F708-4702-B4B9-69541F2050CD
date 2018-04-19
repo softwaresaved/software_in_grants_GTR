@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations><gtr:collaborator url="http://gtr.ukri.org:80/organisation/D042F6A0-A621-4B1C-BC72-CE4C9C4DFB39"><gtr:id>D042F6A0-A621-4B1C-BC72-CE4C9C4DFB39</gtr:id><gtr:name>European Society of Anaesthesiologists (ESA)</gtr:name></gtr:collaborator></gtr:collaborations><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/EC23DA53-CA73-4104-A3F6-2A9523484E69"><gtr:id>EC23DA53-CA73-4104-A3F6-2A9523484E69</gtr:id><gtr:name>Queen's University of Belfast</gtr:name><gtr:department>Electronics Electrical Eng and Comp Sci</gtr:department><gtr:address><gtr:line1>University Road</gtr:line1><gtr:line4>Belfast</gtr:line4><gtr:line5>County Antrim</gtr:line5><gtr:postCode>BT7 1NN</gtr:postCode><gtr:region>Northern Ireland</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/EC23DA53-CA73-4104-A3F6-2A9523484E69"><gtr:id>EC23DA53-CA73-4104-A3F6-2A9523484E69</gtr:id><gtr:name>Queen's University of Belfast</gtr:name><gtr:address><gtr:line1>University Road</gtr:line1><gtr:line4>Belfast</gtr:line4><gtr:line5>County Antrim</gtr:line5><gtr:postCode>BT7 1NN</gtr:postCode><gtr:region>Northern Ireland</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/D042F6A0-A621-4B1C-BC72-CE4C9C4DFB39"><gtr:id>D042F6A0-A621-4B1C-BC72-CE4C9C4DFB39</gtr:id><gtr:name>European Society of Anaesthesiologists (ESA)</gtr:name><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/0DF84113-499A-463D-90EB-6B1F8E3C251D"><gtr:id>0DF84113-499A-463D-90EB-6B1F8E3C251D</gtr:id><gtr:firstName>D</gtr:firstName><gtr:otherNames>John</gtr:otherNames><gtr:surname>Morrow</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/CB941FE4-CBDA-421D-83E7-0C09D733112B"><gtr:id>CB941FE4-CBDA-421D-83E7-0C09D733112B</gtr:id><gtr:firstName>Robert</gtr:firstName><gtr:otherNames>James</gtr:otherNames><gtr:surname>Best</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=EP%2FN508408%2F1"><gtr:id>A382E6C0-F708-4702-B4B9-69541F2050CD</gtr:id><gtr:title>Large Scale Storage for Network Services</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/N508408/1</gtr:grantReference><gtr:abstractText>The UK has a growing share of sources of energy that are variable or intermittent in their supply of electricity and that
+cannot provide the same level of system security as conventional power plants. This is leading to increasing constraints on
+renewable generation, particularly in Northern Ireland, which come at considerable cost to the consumer.
+The proposed project will connect a 10MW Lithium Ion battery array to Northern Ireland's grid - the largest and only
+transmission connected battery of its kind in the whole of Europe - in order to work with the transmission system operator
+and other stakeholders to evaluate and substantiate the value of storage in providing flexible services.
+The project will address any perceived operation concerns and show its value in addressing the energy trilemma, driving
+the market and catalysing future growth of energy storage.
+In order to raise the system non-synchronous penetration limit (SNSP) and reduce wind curtailment, more advanced
+system flexibility is needed. A grid scale battery array can provide immediate power within milliseconds of a trip -
+effectively emulating the effects of conventional inertia, without moving parts. Nor do batteries need to be synchronised
+with the grid - providing the equivalent service of back-up power stations but without having to inefficiently run power plants
+at part load. They also provide the ability to store excess wind which would otherwise have to be curtailed, with a round trip
+efficiency of over 90%. In other words, battery storage would enhance system security, displace inefficient part loading
+plant and relax constraints capping wind power use. This will lower grid carbon emissions and will save the system money
+by reducing pay-out on wind curtailment and constraints. All three legs of the energy trilemma, security, cost and
+sustainability, will therefore be addressed.
+QUB will undertake monitoring and simulation activities within the project. QUB is already unique among its peers by way
+of access to plant data and has amassed significant expertise in power system asset monitoring based on the development
+(over 10 years) of wide-area monitoring using both commercial and QUB-developed Phasor Measurement Units (PMUs).
+Northern Ireland has particularly ambitious renewables targets, with an objective of 40% of electricity from renewable
+resources by 2020. The majority of this is coming from an expansion in intermittent onshore wind generation. Due to the
+non-synchronous nature of wind power, and the small and weakly interconnected grid infrastructure in Northern Ireland, the
+amount of instantaneous electricity currently acceptable from non synchronous resources (both wind and HVDC
+interconnector imports) is limited to 50% of demand. This is to ensure sufficient synchronous inertia and controllable output
+is available from conventional power plants to ensure stable operation of the grid. The consumer cost of this 50% cap is
+significant and growing as more wind is added to the system. Zero fuel cost, low carbon wind energy has to be curtailed, at
+cost, in order to instead pay to run part loaded conventional power plants out of economic merit in the name of system
+security. This is a situation that is clearly not tenable, politically or economically, in the long term and is a significant
+impediment towards the 40% renewable electricity target.</gtr:abstractText><gtr:potentialImpactText>The project will deliver benefits at three levels:
+- Individual Project Participants
+- Power System Operators and Stakeholders
+- Wider Society
+The project is an Innovate UK funded collaborative project. Lead partner AES Kilroot Power Ltd operates 520 MW of
+capacity in two dual fuel oil/coal generating units. Through the additional gas-fired generation at Ballylumford Power
+Station in Larne, AES is a major participant in the all-island Single Electricity Market. AES is a $16bn global company with
+200MW of storage resources in operation and construction. AES has declared its ambition to deploy up to 100MW of
+transmission grid connected storage at Kilroot.
+The project will deliver a 10MW pilot-scale battery storage array and will position AES to exploit the capabilities of storage
+in the Single Electricity Market, particularly in the provision of fast-response grid services. AES will be the primary and
+short-term economic beneficiary from the project.
+The project has received commitment from the System Operator for Northern Ireland (SONI, Northern Ireland's
+Transmission System Operator (TSO)), the Utility Regulator for Northern Ireland (UREGNI) and Northern Ireland Electricity
+(NIE, Northern Ireland Distribution Network Operator (DNO)) to participate in the Steering Group for the project.
+Consequently, the major stakeholders in Northern Ireland's energy system will be able to contribute to the activities of the
+project as well as receive early sight of project results. The project will directly inform future policy for energy storage on the
+Northern Ireland grid both as a provider of network services and for energy aggregation/arbitrage.
+Under the 2008 Climate Change Act the UK is committed to reducing greenhouse gas emissions by 34% by 2020 and 80%
+by 2050 and under the EU 2009 Renewables Directive the UK is required to achieve 15% of gross final energy
+consumption from renewable sources by 2020. Under its Strategic Energy Framework (2010) the Northern Ireland
+Executive has committed Northern Ireland to a target of 40% of electricity from renewable sources by 2020.
+Storage is key to reducing the curtailment of wind generation and to raising the amount of wind that can be accommodated
+on the grid. This project will directly catalyse the deployment of storage across the all-island grid and support the
+attainment of the above renewable energy targets. By contributing to the development of a sustainable power system the
+project will deliver the wider economic benefit of supporting a sustainable economy. In terms of societal impact the project
+serves the three dimensions of the energy trilemma y contribution to (1) Affordable Energy (2) Security of Supply and (3)
+Sustainability.
+The lessons of this project and any future expanded storage facility will have UK, European and global significance and will
+inform policy makers and system operators as they transition their power systems to accommodate significant renewables
+deployment.</gtr:potentialImpactText><gtr:fund><gtr:end>2018-04-23</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2015-04-24</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>364317</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs><gtr:collaborationOutput><gtr:collaboratingOrganisation>European Society of Anaesthesiologists (ESA)</gtr:collaboratingOrganisation><gtr:country>European Union (EU)</gtr:country><gtr:description>AES Collaboration Agreement</gtr:description><gtr:id>5B5C732A-8645-4424-9C30-6E5E8453D010</gtr:id><gtr:impact>none to date</gtr:impact><gtr:outcomeId>56cb39030770f7.54627698-1</gtr:outcomeId><gtr:partnerContribution>Data &amp;amp; knowledge exchange.</gtr:partnerContribution><gtr:piContribution>Data &amp;amp; knowledge exchange.</gtr:piContribution><gtr:sector>Charity/Non Profit</gtr:sector><gtr:start>2015-01-01</gtr:start></gtr:collaborationOutput></gtr:collaborationOutputs><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs><gtr:furtherFundingOutput><gtr:amountPounds>63182</gtr:amountPounds><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:currCode>GBP</gtr:currCode><gtr:currCountryCode>United Kingdom</gtr:currCountryCode><gtr:currLang>en_GB</gtr:currLang><gtr:description>EPSRC Doctoral Training Partnership - PhD Studentship</gtr:description><gtr:end>2020-03-02</gtr:end><gtr:fundingOrg>Queen's University Belfast</gtr:fundingOrg><gtr:id>C441E27D-20A1-4E9A-9A73-7852F50C4881</gtr:id><gtr:outcomeId>56cb3a5d8e8f63.77166610</gtr:outcomeId><gtr:sector>Academic/University</gtr:sector><gtr:start>2016-10-01</gtr:start></gtr:furtherFundingOutput></gtr:furtherFundingOutputs><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">EP/N508408/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>F95121C7-7C31-40CE-BDBC-1E2BF025AEA6</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Energy</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>97AD4D1C-4499-4C7E-AF8A-FE9EFE56E306</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Energy Storage</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

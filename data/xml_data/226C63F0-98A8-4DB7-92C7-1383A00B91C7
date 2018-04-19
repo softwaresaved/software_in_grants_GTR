@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/E19BB887-A272-4F81-93A9-11AAB78083F1"><gtr:id>E19BB887-A272-4F81-93A9-11AAB78083F1</gtr:id><gtr:name>Reality3 (Communications) Limited</gtr:name><gtr:address><gtr:line1>Unit B1E
+The Business Park</gtr:line1><gtr:city>Pleasely Vale</gtr:city><gtr:postCode>NG19 8RL</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/E19BB887-A272-4F81-93A9-11AAB78083F1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>E19BB887-A272-4F81-93A9-11AAB78083F1</gtr:id><gtr:name>Reality3 (Communications) Limited</gtr:name><gtr:address><gtr:line1>Unit B1E
+The Business Park</gtr:line1><gtr:city>Pleasely Vale</gtr:city><gtr:postCode>NG19 8RL</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>25000.0</gtr:offerGrant><gtr:projectCost>41979.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/4C96BEB7-1393-46CA-8B93-6B46346B7F59"><gtr:id>4C96BEB7-1393-46CA-8B93-6B46346B7F59</gtr:id><gtr:firstName>Mike</gtr:firstName><gtr:surname>Burkinshaw</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700116"><gtr:id>226C63F0-98A8-4DB7-92C7-1383A00B91C7</gtr:id><gtr:title>Majax</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700116</gtr:grantReference><gtr:abstractText>MAJAX will provide an automated system to replace current methods of contacting groups of
+people immediately after a serious accident or incident. We are requesting funding to carry
+out a strategic market review to assess the feasibility, requirements and costing of this project.
+If and when major accidents do occur various teams or groups of people will need to be
+informed for differing reasons. For example, if a major road traffic accident occurs medical
+staff will need to be alerted. If there are a high number of casualties requiring surgery,
+hospitals may need to call in additional staff to cope with this. Existing systems usually take
+the form of a ?phone tree? and those with several levels can take up to 90 minutes to circulate
+and has many weaknesses as as system
+MAJAX allows a manager to send an instantaneous automated message to individuals or
+groups of people in the form of an email, text message or recorded voice message. It also
+allows the manager to see who has responded to the message, and view details of their
+location, availability and any other relevant information. In comparison to the phone tree
+system or other emergency response cascade systems MAJAX is far more efficient and
+reliable. Once this information is received by the manager they will be able to use it to
+coordinate additional teams and resources far more quickly, which can literally make the
+difference between life and death in emergency situations.
+MAJAX will be a software system with the capability to be hosted on our own servers, or by
+the organisation utilising the system. After some preliminary market research it appears that
+there is currently no software on the market capable of performing the tasks MAJAX will. We
+hope funding from the TSB will allow us to conduct further, in depth market analysis to
+ascertain the demand and market for the product.</gtr:abstractText><gtr:fund><gtr:end>2012-09-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2012-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>25000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700116</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

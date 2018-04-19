@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/91B7BD90-AB8A-48F7-B732-F1BCE0DA11D1"><gtr:id>91B7BD90-AB8A-48F7-B732-F1BCE0DA11D1</gtr:id><gtr:name>Protium MS Ltd</gtr:name><gtr:address><gtr:line1>P.O. Box 326</gtr:line1><gtr:postCode>CW12 9AX</gtr:postCode><gtr:region>Unknown</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/91B7BD90-AB8A-48F7-B732-F1BCE0DA11D1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>91B7BD90-AB8A-48F7-B732-F1BCE0DA11D1</gtr:id><gtr:name>Protium MS Ltd</gtr:name><gtr:address><gtr:line1>P.O. Box 326</gtr:line1><gtr:postCode>CW12 9AX</gtr:postCode><gtr:region>Unknown</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>59250.0</gtr:offerGrant><gtr:projectCost>98750.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/83E89E13-3A77-430F-BF88-75415B09B7F5"><gtr:id>83E89E13-3A77-430F-BF88-75415B09B7F5</gtr:id><gtr:firstName>Genevieve</gtr:firstName><gtr:surname>Boshoff</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710526"><gtr:id>273E3E5C-17CD-4444-8DB4-8B6151523C88</gtr:id><gtr:title>Development of a clumped isotope laser ratiometer sample preparation and inlet system</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710526</gtr:grantReference><gtr:abstractText>Clumped isotope analysis is a new analytical technique to characterise temperature histories
+of oil and gas bearing carbonate rock formations. This information is crucial for oil
+exploration to determine where and at what depth oil reservoirs are most likely to be
+discovered. Other techniques are used to obtain temperature histories but depend upon the
+presence of fluid inclusions. However, inclusions are not always present and do not provide
+the same precision as clumped isotope analysis.
+Despite the clear benefits, globally only 12 laboratories use this technique. This is because
+clumped isotope analysis requires the use of customised high precision mass spectrometers
+and inlets. These systems cost in excess of &amp;pound;500K and can only analyse 2 to 3 samples per
+day. This technique will only become accessible to the oil and gas industry if costs can be
+reduced and the speed of analysis increased.
+Protium intends to develop a new sample preparation system that will allow isotope laser
+ratiometry to be used instead of high precision mass spectrometers. The lower cost of laser
+ratiometers could reduce overall equipment costs by up to two thirds.
+This system would also automate the analytical process thereby increasing sample throughout.
+The proposed system would process samples at a rate of 30 a day compared to 3 using
+existing techniques. If the project is successful, it will lead to the development of the first
+automated system for laser ratiometer clumped isotope analysis.
+Protium will achieve this by:
+1. Developing an efficient rock acid digestion system and water removal traps.
+2. Developing novel chemical traps to remove organic contaminants.
+3. Modifying existing bulk isotope laser ratiometery inlet and electronic flow control
+technology developed by Protium during a recently completed TSB funded development
+project (Ref. 100984).</gtr:abstractText><gtr:fund><gtr:end>2015-11-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2014-06-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>59250</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710526</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/8AC7050B-620E-4BAB-8F6D-6D1D485A1D4B"><gtr:id>8AC7050B-620E-4BAB-8F6D-6D1D485A1D4B</gtr:id><gtr:name>Micro Nav Limited</gtr:name><gtr:address><gtr:line1>41-47 SEABOURNE ROAD</gtr:line1><gtr:city>BOURNEMOUTH</gtr:city><gtr:postCode>BH5 2HU</gtr:postCode><gtr:region>South West</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/8AC7050B-620E-4BAB-8F6D-6D1D485A1D4B" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>8AC7050B-620E-4BAB-8F6D-6D1D485A1D4B</gtr:id><gtr:name>Micro Nav Limited</gtr:name><gtr:address><gtr:line1>41-47 SEABOURNE ROAD</gtr:line1><gtr:city>BOURNEMOUTH</gtr:city><gtr:postCode>BH5 2HU</gtr:postCode><gtr:region>South West</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>250000.0</gtr:offerGrant><gtr:projectCost>801184.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/5E45CAAF-86DD-4A9F-9EAD-EC693EE506E7"><gtr:id>5E45CAAF-86DD-4A9F-9EAD-EC693EE506E7</gtr:id><gtr:firstName>anna</gtr:firstName><gtr:surname>nolan</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720412"><gtr:id>1C2299D2-0718-4E08-BA37-FA9B047933A5</gtr:id><gtr:title>Micro Nav Ltd - Pilot Training: Simulated Air Traffic Control Environment for Flight Simulation Training Devices</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720412</gtr:grantReference><gtr:abstractText>What is the Need?
+The lack of realistic simulated other aircraft and Air Traffic Control (ATC) communications
+in flight simulators has been called ?the missing link? in pilot training. As a result, the most
+advanced training devices simulating today?s most sophisticated aircraft still lack fundamental
+realism in environment and communications.
+This project will develop a fundamentally new major sub-system within flight simulation
+training devices (FSTDs), helping to keep the UK at the forefront of simulator technical
+development and more widely, the flight training market.
+Leap in Flight Simulator Performance
+This technology will create a step-change in flight simulator fidelity and application,
+providing pilots, at all levels of training, with a more realistic busy airspace environment
+outside the cockpit and more representative pilot communication workloads.
+Regulatory Backing
+This system will meet guidance first introduced by the International Civil Aviation
+Organisation (ICAO), and over time will become a regulatory requirement in flight simulation
+training devices, thus generating industry-wide global commercial demand. An enhanced
+ATC environment is already mandated by the European Aviation Safety Agency (EASA) for
+flight simulators used for the Multi-Crew Pilot Licence.
+Enhancing Worldwide Aviation Safety
+Human factors, and in particular, communications are recognized areas having contributed to
+many aircraft incidents and accidents. This project will further enhance both civil and military
+pilot training delivering enhanced aviation safety worldwide.
+Micro Nav Ltd.
+Micro Nav Ltd., based in Bournemouth UK, is a highly specialized developer and supplier of
+Simulated Air Traffic Control (ATC) Systems. The company is the proud recipient of the
+Queen?s Award for Enterprise (2010) for its performance in international trade and has been
+ranked in the Sunday Times HSBC Tech Track 100 (2010) and International Track (2011)
+league tables.</gtr:abstractText><gtr:fund><gtr:end>2016-01-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2014-02-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>250000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720412</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

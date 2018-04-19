@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/84A661AD-4B1D-44C7-9145-FBDA45E2EA7D"><gtr:id>84A661AD-4B1D-44C7-9145-FBDA45E2EA7D</gtr:id><gtr:name>Stby Limited</gtr:name><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/84A661AD-4B1D-44C7-9145-FBDA45E2EA7D" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>84A661AD-4B1D-44C7-9145-FBDA45E2EA7D</gtr:id><gtr:name>Stby Limited</gtr:name><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>20787.0</gtr:offerGrant><gtr:projectCost>29695.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/D4954AD5-997B-4ACF-A06A-4B5E03FD4F36"><gtr:id>D4954AD5-997B-4ACF-A06A-4B5E03FD4F36</gtr:id><gtr:firstName>Megan</gtr:firstName><gtr:surname>Anderson</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=132601"><gtr:id>07BBF8C0-4ABF-4FE4-8E3A-6EEDA40D9E9C</gtr:id><gtr:title>Globally Networked Innovation Management Coaching for INGOs: A Feasibility Study</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Feasibility Studies</gtr:grantCategory><gtr:grantReference>132601</gtr:grantReference><gtr:abstractText>A 2016 BOND report surveyed 62 international non-governmental organisations (INGOs) to gauge
+
+innovation capacity among them. Findings concluded that the group is in the early stages of their
+
+innovation journey and that there is still significant room for consolidation and improvement in how
+
+innovation is supported. The research also found that just 14% of survey respondents reported having
+
+received formal innovation training, suggesting that INGOs are not proactively seeking to manage and
+
+drive innovation. STBY ltd. seeks to address this market need by developing a globally networked, blended
+
+training and coaching programme for user-centred innovation management, tailored specifically for
+
+INGOs. This offering builds upon previous work by STBY in the international development field, namely
+
+the DIY Toolkit. In order to take this idea forward, we need to further develop our business case and
+
+secure new strategic partnerships overseas. We are therefore seeking funding for concept work, and
+
+travel and subsistence costs to build new partnerships overseas and explore the feasibility of this offering.</gtr:abstractText><gtr:fund><gtr:end>2017-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2016-12-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>20787</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">132601</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

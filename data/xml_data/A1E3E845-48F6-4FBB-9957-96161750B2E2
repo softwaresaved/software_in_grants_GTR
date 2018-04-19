@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/5E728746-5FFE-4F01-ADE2-A9E3F4D49F3A"><gtr:id>5E728746-5FFE-4F01-ADE2-A9E3F4D49F3A</gtr:id><gtr:name>One Five West</gtr:name><gtr:address><gtr:line1>155 Kings Road
+Old Trafford</gtr:line1><gtr:city>Manchester</gtr:city><gtr:postCode>M16 0FL</gtr:postCode><gtr:region>North West</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/5E728746-5FFE-4F01-ADE2-A9E3F4D49F3A" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>5E728746-5FFE-4F01-ADE2-A9E3F4D49F3A</gtr:id><gtr:name>One Five West</gtr:name><gtr:address><gtr:line1>155 Kings Road
+Old Trafford</gtr:line1><gtr:city>Manchester</gtr:city><gtr:postCode>M16 0FL</gtr:postCode><gtr:region>North West</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>24300.0</gtr:offerGrant><gtr:projectCost>35430.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/E23281B4-9971-4AE4-88CC-C7268229997D"><gtr:id>E23281B4-9971-4AE4-88CC-C7268229997D</gtr:id><gtr:firstName>Sophie</gtr:firstName><gtr:surname>Bullock</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=132419"><gtr:id>A1E3E845-48F6-4FBB-9957-96161750B2E2</gtr:id><gtr:title>What sensors, materials and interface can we develop in order to establish an efficient and robust sensor, that can be used readily and reliably in outdoor settings?</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Feasibility Studies</gtr:grantCategory><gtr:grantReference>132419</gtr:grantReference><gtr:abstractText>One Five West will be developing plug-in-and -play proximity sensor kits that have waterproof and
+
+wireless capabilities, allowing instant production abilities outside. Through their development at on the
+
+Arts+Tech accelerator programme at MadLab, they are focusing their research on creating robust sensor
+
+modules that will improve the workflow of creatives who want an all-in-one solution in order to quickly
+
+prototype their ideas.
+
+They will be researching waterproof materials and sensors in order to prototype a reliable proximity
+
+measure to effect audio outputs.
+
+They will be working directly with individual artists to develop interactive works across performance and
+
+interactive storytelling. With the development of this project, they intend to increase opportunities for
+
+artists by empowering them to have affordable access to creative and innovative applications of
+
+technology.</gtr:abstractText><gtr:fund><gtr:end>2017-07-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2016-11-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>24300</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">132419</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

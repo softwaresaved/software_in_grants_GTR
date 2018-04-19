@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/D1774113-D5D2-4B7C-A412-66A90FE4B96F"><gtr:id>D1774113-D5D2-4B7C-A412-66A90FE4B96F</gtr:id><gtr:name>University of Cambridge</gtr:name><gtr:department>Pure Maths and Mathematical Statistics</gtr:department><gtr:address><gtr:line1>Lensfield Road</gtr:line1><gtr:line4>Cambridge</gtr:line4><gtr:postCode>CB2 1EW</gtr:postCode><gtr:region>East of England</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/D1774113-D5D2-4B7C-A412-66A90FE4B96F"><gtr:id>D1774113-D5D2-4B7C-A412-66A90FE4B96F</gtr:id><gtr:name>University of Cambridge</gtr:name><gtr:address><gtr:line1>Lensfield Road</gtr:line1><gtr:line4>Cambridge</gtr:line4><gtr:postCode>CB2 1EW</gtr:postCode><gtr:region>East of England</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>FELLOW</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/B52F5A0F-8E53-4853-BD1B-7917A34FEEC9"><gtr:id>B52F5A0F-8E53-4853-BD1B-7917A34FEEC9</gtr:id><gtr:name>Aalborg Hospital</gtr:name><gtr:address><gtr:line1>Forskningens Hus</gtr:line1><gtr:line2>Sdr. Skovvej 15</gtr:line2><gtr:postCode>DK-9000</gtr:postCode><gtr:region>Outside UK</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/318AC768-EEB4-4E03-BDA4-9E3753674661"><gtr:id>318AC768-EEB4-4E03-BDA4-9E3753674661</gtr:id><gtr:firstName>Richard</gtr:firstName><gtr:otherNames>John</gtr:otherNames><gtr:surname>Samworth</gtr:surname><gtr:roles><gtr:role><gtr:name>FELLOW</gtr:name></gtr:role><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=EP%2FP031447%2F1"><gtr:id>C1D88296-3F03-4441-9232-B7DDA9B98ED5</gtr:id><gtr:title>Statistical methodology and theory for the Big Data era (Ext.)</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Fellowship</gtr:grantCategory><gtr:grantReference>EP/P031447/1</gtr:grantReference><gtr:abstractText>This is an extension of the Fellowship 'New challenges in
+high-dimensional statistical inference' (EP/J017213/1).
+
+The project will involve developing methodology and theory for a range
+of modern statistical problems from high-dimensional and nonparametric
+statistical inference. Such problems lie at the heart of modern 
+data science, an area where the UK urgently needs to grow its capacity.
+
+Specific challenges to be addressed include the development of methods
+for dimension reduction, variable selection and uncertainty
+quantification, among several others. These are some of the
+fundamental problems faced by practitioners in the Big Data era, and
+demand highly innovative solutions. Our proposed techniques will be
+proven to be robust via appropriate theoretical justification, and
+will be implemented in free, open source software so as to maximise
+the impact of the research.</gtr:abstractText><gtr:potentialImpactText>Big Data are transforming the way we live. These days, we can access
+an almost unimaginably large wealth of knowledge by typing a few
+keywords into an internet search engine and use apps on our mobile
+telephones or other smart devices to monitor or improve our health.
+Many recent advances in healthcare are partly due to improved, highly
+data-intensive scanning equipment in hospitals, and the development of
+new, effective drug treatments, which have been the result of
+extensive scientific study with data at its core.
+
+This proposal addresses some of the fundamental and important
+statistical challenges that arise in handling the modern data sets
+that routinely arise in the applications above, as well as many
+others. These challenges include dimension reduction, variable
+selection and uncertainty quantification. It therefore has the
+potential for high societal and economic impact, both in the immediate
+applications considered and through later transfer of the innovative
+new methods that will be developed.
+
+In the UK, we are currently facing a great shortage of well-trained
+data scientists, across both science and industry. This proposal will
+go some way towards addressing this deficiency, since the two
+post-doctoral research associates employed will be exposed to
+cutting-edge problems in the field, and will acquire the crucial
+skills that are in so much demand in many sectors of the economy,
+including academia, and the technology and pharmaceuticals sectors.
+
+I am the main organiser of a six-month Isaac Newton Institute
+programme on 'Statistical Scalability' that will form one of the major
+impact activities of the proposal. End users of modern statistical
+methodology and theory from science and industry will be integrated
+into the programme (for instance, through an `Open for Business' day
+that will be co-organised with the Turing Gateway for Mathematics) to
+ensure wide dissemination and cross-fertilisation of the ideas. They
+will therefore benefit from exposure to the ideas of the top
+researchers who will participate in the programme, and can translate
+the key messages into their own communities.
+
+Through the collaboration with Martin Bogsted and his cancer genetics
+group, we will improve understanding of the prognostic value of gene
+expressions from various B-cell malignancies. In particular, we will
+ascertain which genes are associated with short survival for specific
+diseases and which have a common association with short survival for
+multiple diseases. The societal benefit will be shortcuts in
+identifying the applicability of drugs, which have the potential to be 
+incorporated into clinical trials.</gtr:potentialImpactText><gtr:fund><gtr:end>2020-11-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2017-12-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>610894</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">EP/P031447/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>DEA11FBC-BEED-4EDD-890B-97D728462D26</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Mathematical sciences</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>62309876-5C71-411C-B1A7-1B2907AFB5A8</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Statistics &amp; Appl. Probability</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

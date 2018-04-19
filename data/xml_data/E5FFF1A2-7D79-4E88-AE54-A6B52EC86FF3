@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/4FC8DBA5-1E86-4406-9DF2-FB8E419D7B7D"><gtr:id>4FC8DBA5-1E86-4406-9DF2-FB8E419D7B7D</gtr:id><gtr:name>Vertizan Limited</gtr:name><gtr:address><gtr:line1>THE MANSION BLETCHLEY PARK , SHERWOOD DRIVE, BLETCHLEY</gtr:line1><gtr:city>MILTON KEYNES</gtr:city><gtr:postCode>MK3 6EB</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/4FC8DBA5-1E86-4406-9DF2-FB8E419D7B7D" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>4FC8DBA5-1E86-4406-9DF2-FB8E419D7B7D</gtr:id><gtr:name>Vertizan Limited</gtr:name><gtr:address><gtr:line1>THE MANSION BLETCHLEY PARK , SHERWOOD DRIVE, BLETCHLEY</gtr:line1><gtr:city>MILTON KEYNES</gtr:city><gtr:postCode>MK3 6EB</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>10901.0</gtr:offerGrant><gtr:projectCost>18186.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/022DEC92-A250-411C-AB22-FB64C3AF01CB"><gtr:id>022DEC92-A250-411C-AB22-FB64C3AF01CB</gtr:id><gtr:firstName>Susan</gtr:firstName><gtr:surname>Redmond</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700261"><gtr:id>E5FFF1A2-7D79-4E88-AE54-A6B52EC86FF3</gtr:id><gtr:title>M2M interoperability test and verification tool</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700261</gtr:grantReference><gtr:abstractText>This project addresses a constraint on the deployment of machine to machine (&amp;quot;M2M&amp;quot;) low
+power wireless networks that must work faultlessly.
+Loosely, M2M industrial networks mimic the established Bluetooth protocol which links
+paired consumer devices such as an iPod and a headset. M2M is newer, and shipments of
+devices are projected to reach 25 billion by 2015.
+As with Bluetooth, M2M protocols embody standards to ensure that devices from one supplier
+talk to those from another. But there is a difference between their environments: when
+Bluetooth fails, perhaps causing a lost connection between iPod and headset, a consumer can
+reboot the system. But in M2M there is no operator present to reboot the link. So failure
+must be avoided, particularly where the on-cost is high; and failure is not an option in life
+critical applications.
+Leading promoters of M2M protocols, such as Zigbee and Weightless, recognise the need for
+flawless inter-operability, and fear that adoption of M2M systems will be sub-optimal if, as
+with Bluetooth, their standards are not met. Coveritas promotes a technology for verifying
+software. It harnesses the power of randomisation to automatically generate use case tests
+that go far beyond conventional test routines and can find bugs that are missed by other
+techniques. This technology could provide the verification standard for inter-operability
+across the whole M2M sector.
+Our current product would require a major development to become a test and verification tool
+for determining the robustness of M2M systems. As an SME, Coveritas will need to turn to
+the capital markets to fund this, and so plans a careful examination of the market
+requirements, which if positive, will support the case for raising equity capital.
+In brief, the current project is to characterise the market's requirement for an unmet need: ie
+for the means to verify adherence to standards established for M2M low power radio
+networks.</gtr:abstractText><gtr:fund><gtr:end>2013-10-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2013-08-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>10901</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700261</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

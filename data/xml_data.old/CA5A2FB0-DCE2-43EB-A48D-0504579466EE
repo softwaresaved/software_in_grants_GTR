@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9"><gtr:id>3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9</gtr:id><gtr:name>University of Oxford</gtr:name><gtr:department>Mathematical Institute</gtr:department><gtr:address><gtr:line1>University Chest</gtr:line1><gtr:line2>Wellington Square</gtr:line2><gtr:line4>Oxford</gtr:line4><gtr:postCode>OX1 2JD</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9"><gtr:id>3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9</gtr:id><gtr:name>University of Oxford</gtr:name><gtr:address><gtr:line1>University Chest</gtr:line1><gtr:line2>Wellington Square</gtr:line2><gtr:line4>Oxford</gtr:line4><gtr:postCode>OX1 2JD</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/0F18FD1E-85EE-462A-9E2D-E7D86768D85D"><gtr:id>0F18FD1E-85EE-462A-9E2D-E7D86768D85D</gtr:id><gtr:firstName>Jonathan</gtr:firstName><gtr:surname>Pila</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=EP%2FN008359%2F1"><gtr:id>CA5A2FB0-DCE2-43EB-A48D-0504579466EE</gtr:id><gtr:title>Model theory, functional transcendence, and diophantine geometry</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/N008359/1</gtr:grantReference><gtr:abstractText>This project will further the recent exciting applications of ideas from mathematical logic to topics in functional transcendence and diophantine geometry.
+ 
+Functional transcendence is the study of when certain functions cannot be related by non-trivial algebraic equations. For example, there is no non-trivial algebraic relation between the functions log(x) and exp(x). This is a very special instance of a result due to Ax which characterises all algebraic relations between functions and their exponentials in terms of very simple linear relations on the functions. Using ideas from mathematical logic we will prove far reaching generalizations of Ax's result involving various other maps in place of the exponential.
+
+Diophantine geometry is the study of solutions of equations (in the integers, say) via the geometry of the solutions in larger fields such as the complex numbers. Using ideas from mathematical logic together with the functional transcendence results discussed above, we will prove new results in diophantine geometry. Typically, these results will assert that some solution has only finitely many solutions. In some instances, we can already prove this for the equations under study but we know no way, even in principle, to find all solutions. One important aspect of our project is to make further use of ideas from mathematical logic to enable us to give algorithms to find all solutions in certain cases.</gtr:abstractText><gtr:potentialImpactText>Knowledge
+
+Our project aims to develop interactions between model theory and
+number theory, in particular to apply methods of o-minimality
+to obtain new results in diophantine geometry. The applications of
+o-minimality to diophantine problems are relatively new but have
+already achieved significant results. Our project also touches on functional transcendence and differential algebraic problems,
+and we expect that our project will lead to new knowledge in those
+areas. Generally, our project should further encourage the use of
+model-theoretic tools such as o-minimality in number theory and
+cognate areas. Some of our work may lead to new knowledge
+in the model theory of Pfaffian structures, concerning complexity
+and effectivity issues, and may then lead to advances in applications
+of these structures in some applied problems in neural networks
+and economics.
+
+People
+
+Past interactions interactions between number theorists and model
+theorists have brought new tools and problems to the attention of
+both communities, to the benefit of many individual researchers.
+The recent applications of o-minimality to
+diophantine problems have already functioned in this way, and
+we expect that our project will further contribute to
+deepening and strengthening those interactions. In particular, the
+project will both broaden and deepen the expertise of the researchers directly involved, especially that of the PDRAs.
+
+Workshops
+
+Our workshops should function as an effective and rapid forum
+for the dissemination of knowledge and interaction of the
+various research communities. They will both be inter-disciplinary
+and will be structured to maximise discussion and
+cross-fertilisation of ideas.
+
+Society and economy
+
+While we do not expect direct economic impact from our project,
+lying as it does within pure mathematics, there may be aspects of
+our work relevant to applied problems. Model theory of Pfaffian systems
+is applied to problems in network complexity. Effectivity questions
+in number theory are connected with fundamental distributional
+questions that impact on algorithmic complexity.
+We will be alive to these possibilities.</gtr:potentialImpactText><gtr:fund><gtr:end>2019-01-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2016-02-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>379671</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs><gtr:disseminationOutput><gtr:description>Multiplicative and modular diophantine problems</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:geographicReach>National</gtr:geographicReach><gtr:id>2D799D0B-9017-4852-BF64-700BCE795635</gtr:id><gtr:impact>A small meeting organized by Professor Igor Rivin on the occasion of Professor Peter Sarnak (princeton, IAS)
+receiving an honourary doctorate from University of St Andrews.</gtr:impact><gtr:outcomeId>58aede4470f0a4.57499403</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:year>2016</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Some Zilber-Pink-type problems</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>C2263502-E6AA-43ED-905C-27CB095B6A3F</gtr:id><gtr:impact>A talk in the ``Geometrie et Theorie des modeles'' in Paris. There was interesting discussion among
+the speakers and audience about issues of mutual interest from different perspectives.</gtr:impact><gtr:outcomeId>58aedf239a76a6.43082544</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:year>2017</gtr:year></gtr:disseminationOutput></gtr:disseminationOutputs><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication><gtr:id>52D730F2-2AA6-44AA-8CC3-BF8971BAD084</gtr:id><gtr:title>On a modular Fermat equation</gtr:title><gtr:parentPublicationTitle>Commentarii Mathematici Helvetici</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/4d6cf5dc7f5a3203d93b475212b23fd3"><gtr:id>4d6cf5dc7f5a3203d93b475212b23fd3</gtr:id><gtr:otherNames>Pila J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>58aedbdb1c6572.90759222</gtr:outcomeId></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">EP/N008359/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>DEA11FBC-BEED-4EDD-890B-97D728462D26</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Mathematical sciences</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>27F853CB-FB22-4B9D-82D7-542648D097F0</gtr:id><gtr:percentage>30</gtr:percentage><gtr:text>Algebra &amp; Geometry</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>9A30FDC6-AEB7-447C-A30E-0EF6BDB406FB</gtr:id><gtr:percentage>70</gtr:percentage><gtr:text>Logic &amp; Combinatorics</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

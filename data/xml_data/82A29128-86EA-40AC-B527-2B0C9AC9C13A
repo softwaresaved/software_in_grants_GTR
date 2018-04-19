@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/72DC5193-ABD6-4774-990B-2D5B2CDA5716"><gtr:id>72DC5193-ABD6-4774-990B-2D5B2CDA5716</gtr:id><gtr:name>Ipsotek Limited</gtr:name><gtr:address><gtr:line1>ACRE HOUSE , 11-15 WILLIAM ROAD</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>NW1 3ER</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/72DC5193-ABD6-4774-990B-2D5B2CDA5716" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>72DC5193-ABD6-4774-990B-2D5B2CDA5716</gtr:id><gtr:name>Ipsotek Limited</gtr:name><gtr:address><gtr:line1>ACRE HOUSE , 11-15 WILLIAM ROAD</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>NW1 3ER</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>229711.0</gtr:offerGrant><gtr:projectCost>510470.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/E3DC8C2E-74B3-4726-A8A9-9549F3842572"><gtr:id>E3DC8C2E-74B3-4726-A8A9-9549F3842572</gtr:id><gtr:firstName>Andrew</gtr:firstName><gtr:surname>Eggington</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720505"><gtr:id>82A29128-86EA-40AC-B527-2B0C9AC9C13A</gtr:id><gtr:title>Multi Camera Real Time Object Tracker' - 'Tag and Track' (TnT)</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720505</gtr:grantReference><gtr:abstractText>Ipsotek Ltd (Ipsotek) is an established market innovator with unique video content analysis
+techniques and IPR based on enriched video metadata. The key objectives/aims of the project
+are to be able to accurately, automatically and retrospectively ?Tag and Track? (TnT) specific
+moving objects through an area covered by multiple cameras.
+The TnT project aims to extend these concepts by developing new solutions for;
+1) Scene understanding;
+2) Crowded scene analysis;
+3) Algorithms and models to enhance metadata and analysis performance;
+plus undertake
+4) Site based operational demonstrators for validation of performance.
+The majority of present day intelligent ?detect &amp;amp; alarm? systems provide only rudimentary
+automated triggers. In other areas video used for retrospective event analysis and forensics
+requires close scrutiny of footage which can currently only be achieved manually. This is also
+limited to single channel (camera) content and is therefore time-consuming, costly and errorprone.
+The innovation and novel aspects of TnT will include:
+1) Solving the problem of tracking objects in a single crowded scene. This is a limitation in all
+video analytics systems that significantly hampers deployment in real world environments.
+This alone merits consideration for advancing Video Analytics generally but when applied to
+the project it will significantly lift the commercial opportunity;
+2) Unique and innovative metadata enrichment;
+3) Increasing intra-camera recognition for effective enhancement of appearance models.
+The main benefits will include:
+1) Provision of true capability for real time and retrospective automated moving object
+tracking with enhanced object identity data across multi-camera scenes with complex
+backgrounds;
+2) Considerably more effective forensic video tracking capabilities saving time and increasing
+search success rates;
+3) A robust framework on which to develop and productise practical applications having
+solved key technology roadblocks</gtr:abstractText><gtr:fund><gtr:end>2016-04-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2015-02-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>229711</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720505</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

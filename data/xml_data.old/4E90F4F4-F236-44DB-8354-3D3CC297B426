@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9"><gtr:id>3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9</gtr:id><gtr:name>University of Oxford</gtr:name><gtr:department>Statistics</gtr:department><gtr:address><gtr:line1>University Chest</gtr:line1><gtr:line2>Wellington Square</gtr:line2><gtr:line4>Oxford</gtr:line4><gtr:postCode>OX1 2JD</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9"><gtr:id>3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9</gtr:id><gtr:name>University of Oxford</gtr:name><gtr:address><gtr:line1>University Chest</gtr:line1><gtr:line2>Wellington Square</gtr:line2><gtr:line4>Oxford</gtr:line4><gtr:postCode>OX1 2JD</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/4A348A76-B2D0-4DDD-804A-CE735A6D3798"><gtr:id>4A348A76-B2D0-4DDD-804A-CE735A6D3798</gtr:id><gtr:name>University of Bristol</gtr:name><gtr:address><gtr:line1>Senate House</gtr:line1><gtr:line4>Bristol</gtr:line4><gtr:line5>Avon</gtr:line5><gtr:postCode>BS8 1TH</gtr:postCode><gtr:region>South West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/B58E2D77-120A-4B2F-B68C-1475661ABBE9"><gtr:id>B58E2D77-120A-4B2F-B68C-1475661ABBE9</gtr:id><gtr:firstName>Robin</gtr:firstName><gtr:otherNames>James</gtr:otherNames><gtr:surname>Evans</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=EP%2FN020294%2F1"><gtr:id>4E90F4F4-F236-44DB-8354-3D3CC297B426</gtr:id><gtr:title>Causal Inference from Partial Statistical Information</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/N020294/1</gtr:grantReference><gtr:abstractText>Much of statistical theory is concerned with the analysis of a single
+data set, obtained from an experiment, survey, or study. However in
+many fields which most urgently demand new statistical methodology,
+problems do not fit this paradigm. Instead data are gathered from
+multiple settings under different experimental conditions, which may
+measure different variables or be sampling from different
+populations. This leads to situations in which it is unclear how to
+combine statistical information in a way that provides a coherent
+solution agreeing with all studies, and which properly quantifies the
+uncertainty in the estimation process.
+
+The gold-standard method for answering causal questions is the
+randomised controlled trial (RCT), but RCTs are extremely expensive
+and usually end without a positive result. Meanwhile biology and
+medicine are at the forefront of the big data revolution, as more and
+more is being measured at greater and greater resolutions; the 100,000
+Genomes Project and UK Biobank each contain tens of thousands of
+genetic and phenotypic measurements on hundreds of thousands of
+people. Electronic healthcare records will generate Terabytes of
+medical information about tens of millions of people. Many of the
+quantities measured in these data sets cannot be experimentally
+controlled for practical, financial or ethical reasons.
+
+This project aims to uncover how much we can learn about the causal
+mechanisms underlying multiple large and complex data sets without
+performing experiments, or with limited experimental data: to learn 
+as much as possible about the world just by looking.</gtr:abstractText><gtr:potentialImpactText>Causal inference is the very basis of all science: the fields that
+will benefit most from any new methodology are epidemiology and
+medicine, but also include other areas of genetics and biology,
+ecology, sociology, economics, political science, computer science and
+robotics. The methods developed in this project will be done so in 
+collaboration with industry and academic partners to ensure that
+they are practical and applicable to existing problems.
+
+The main impact pathway we envisage is via the development of accurate
+uncertainty quantification from complicated experimental designs, and
+by enabling much more efficient use of new or existing (cheap)
+observational data. The project will directly or indirectly lead to:
+
+* Methods that more efficiently analyse causal relationships from
+ various sources of observational or other non-experimental data.
+ Ideally this can be augmented with targetted experiments to verify
+ the inference; if not the result can be used as part of a larger
+ evidence base to demonstrate causation.
+
+* The ability to apply standard statistical techniques to causal
+ models with parametric structure.
+
+* Allowing advances in high-dimensional model selection to be used for
+ causal inference with 'big data'.
+
+* Experimental designs that provide the maximum possible information
+ about causal structure from a limited number of experiments.
+
+The project will make it easier to use existing datasets to propose
+plausible causal relationships between, for example, a person's
+genome, their lifestyle and other observed characteristics, and health
+outcomes. In conjunction with industry partners, we will use this to 
+assist in developing software that aids diagnosis of respiratory disease.
+
+As well as indirect impact through greater power for
+healthcare researchers to understand the mechanisms of disease, this
+can benefit the economy and society directly by leading to new
+interventions and influencing public policy.
+
+Other potential applications include
+
+ * the modelling of temporal directed networks in biology or
+ sociology;
+
+ * more advanced analysis of large-scale surveys carried out for
+ official statistical purposes;
+
+ * new designs for randomised trials, both in medical and in social
+ science contexts.
+
+The methods produced will be as accessible as possible so as to
+encourage widespread usage outside the statistics community.
+Open-source software will allow researchers to make use of and build
+upon the new statistical techniques. The project will train a
+postdoctoral researcher in the software development.
+
+Finally, our results will reinforce the importance of causal inference
+as a discipline, which is fundamental to science as a whole.</gtr:potentialImpactText><gtr:fund><gtr:end>2018-07-03</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2016-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>99004</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">EP/N020294/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>DEA11FBC-BEED-4EDD-890B-97D728462D26</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Mathematical sciences</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>62309876-5C71-411C-B1A7-1B2907AFB5A8</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Statistics &amp; Appl. Probability</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

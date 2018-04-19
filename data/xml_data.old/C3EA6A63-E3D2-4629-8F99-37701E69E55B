@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/FBA10D69-BE5C-42A8-9DCF-4214809173FB"><gtr:id>FBA10D69-BE5C-42A8-9DCF-4214809173FB</gtr:id><gtr:name>London South Bank University</gtr:name><gtr:department>Fac of Eng Science &amp; Built Env</gtr:department><gtr:address><gtr:line1>103 Borough Road</gtr:line1><gtr:line4>London</gtr:line4><gtr:postCode>SE1 0AA</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/FBA10D69-BE5C-42A8-9DCF-4214809173FB"><gtr:id>FBA10D69-BE5C-42A8-9DCF-4214809173FB</gtr:id><gtr:name>London South Bank University</gtr:name><gtr:address><gtr:line1>103 Borough Road</gtr:line1><gtr:line4>London</gtr:line4><gtr:postCode>SE1 0AA</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/CB13001C-29A6-473A-A649-787606A76771"><gtr:id>CB13001C-29A6-473A-A649-787606A76771</gtr:id><gtr:firstName>Graeme</gtr:firstName><gtr:otherNames>Gregery</gtr:otherNames><gtr:surname>Maidment</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/915856E4-C095-4CF7-90B9-57CAA00CDEF4"><gtr:id>915856E4-C095-4CF7-90B9-57CAA00CDEF4</gtr:id><gtr:firstName>Metkel</gtr:firstName><gtr:surname>Yebiyo</gtr:surname><gtr:roles><gtr:role><gtr:name>RESEARCHER</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/41BCDDAA-EA6B-4C9A-8DC7-D3F888405F47"><gtr:id>41BCDDAA-EA6B-4C9A-8DC7-D3F888405F47</gtr:id><gtr:firstName>Alex</gtr:firstName><gtr:surname>Paurine</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=EP%2FP016146%2F1"><gtr:id>C3EA6A63-E3D2-4629-8F99-37701E69E55B</gtr:id><gtr:title>Development of a new generation of high efficiency heat pumps using pre-heated air supply</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/P016146/1</gtr:grantReference><gtr:abstractText>This project is a feasibility study into the proposal of using solar collectors which when integrated into buildings can pre
+warm the air fed into ASHP (Air Source Heat Pumps)
+
+Pre-feasibility modelling indicates that by using solar air collectors to pre-heat the air supply to specially optimised ASHPs
+we will be able to increase the efficiency of ASHPs to the extent that 1) the carbon emissions (per kWh of heat) from their
+use will be significantly lower than the emissions associated with energy efficient gas boilers and 2) the cost of heat will
+(within the 2020s) become lower than that from efficient gas boilers.
+The findings could therefore lead to a step-change in the competitiveness of ASHPs relative to gas boilers. This will
+accelerate the mainstream deployment of ASHPs in the UK, initially within new build housing and new commercial
+buildings and subsequently into the existing UK building stock.
+
+The project will specifically investigate:
+Appraisal of system design options
+Development of a detailed thermodynamic system design model and demand-side model(s),
+Formulation of control and modulation strategies
+Investigation into optimisation of system components (with particular attention to working fluids, fluid flow rates, heat
+exchanger and controller)
+Calculation of theoretical system performance in different climates and undertaking of cost benefit and benchmarking
+analysis.
+
+This project will contribute towards addressing the UK's energy trilemma by reducing emissions by leading to a supply of
+renewable heat with lower carbon emissions than mains gas and of renewable cooling with significantly lower emissions
+than electricity powered compressor-based cooling systems; improving security of supply by significantly reducing demand
+for fossil fuels; and reducing cost by providing a high-efficiency ASHP capable of generating heat (for space heating, water
+heating and cooling) at a lower cost than both mains gas and other renewable energy/&amp;quot;clean energy&amp;quot; options.</gtr:abstractText><gtr:potentialImpactText>London South Bank University (LSBU) will be working with Energy Transitions Ltd (who are the lead organisation) on this
+project. As this is an Innovate UK funded competition, the research LSBU will undertake for Energy Transitions will consist
+of a number of feasibility studies into the novel proposal of using solar collectors integrated in to buildings to pre-heat the
+air used by Air Source Heat Pumps
+
+The project has the potential to develop a world-leading solution capable of achieving substantial sales within the
+developing renewable heating and cooling markets across Europe, Asia and North America. The UK has existing ASHP
+and solar air collector industries and the capacity to grow these to meet the opportunities that our innovative system will
+create both in UK and overseas markets.
+
+This project is well timed: firstly the EU's Energy Performance of Buildings Directive requires that all new buildings in the
+EU are 'nearly zero energy' from 2020 and many other countries around the world, including China and the US, also have
+policies to build low carbon buildings; and secondly this innovative system can make a substantial contribution to meeting
+the UK's carbon budgets in the 2020s and beyond.
+
+Thus, this British company and its clients will benefit in a number of ways and the company success will drive economic
+growth and create new jobs within the UK construction and building services industries.</gtr:potentialImpactText><gtr:fund><gtr:end>2017-09-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2016-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>61254</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>still working on the project</gtr:description><gtr:exploitationPathways>too early to say</gtr:exploitationPathways><gtr:id>E9D8B29F-4F49-49D2-B7EE-790CAAA77A74</gtr:id><gtr:outcomeId>58bdc1cdeaa9c9.08425672</gtr:outcomeId><gtr:sectors><gtr:sector>Energy</gtr:sector></gtr:sectors></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">EP/P016146/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>F95121C7-7C31-40CE-BDBC-1E2BF025AEA6</gtr:id><gtr:percentage>25</gtr:percentage><gtr:text>Energy</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>1175C1D0-52DD-4F11-A1B8-E080CABC3609</gtr:id><gtr:percentage>25</gtr:percentage><gtr:text>Solar Technology</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

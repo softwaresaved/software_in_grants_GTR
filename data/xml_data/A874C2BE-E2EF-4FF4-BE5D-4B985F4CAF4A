@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/16C46B3F-3B2B-45E0-97BD-1B60764782A0"><gtr:id>16C46B3F-3B2B-45E0-97BD-1B60764782A0</gtr:id><gtr:name>Dearman Engine Company Limited</gtr:name><gtr:address><gtr:line1>7 Henrietta Street 
+Covent Garden</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>WC2E 8PS</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/16C46B3F-3B2B-45E0-97BD-1B60764782A0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>16C46B3F-3B2B-45E0-97BD-1B60764782A0</gtr:id><gtr:name>Dearman Engine Company Limited</gtr:name><gtr:address><gtr:line1>7 Henrietta Street 
+Covent Garden</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>WC2E 8PS</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>99986.0</gtr:offerGrant><gtr:projectCost>289060.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/D4F9AB58-9B2C-4FF2-8300-DC5F2D3DD86D"><gtr:id>D4F9AB58-9B2C-4FF2-8300-DC5F2D3DD86D</gtr:id><gtr:firstName>Sarah</gtr:firstName><gtr:surname>Trew</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710401"><gtr:id>A874C2BE-E2EF-4FF4-BE5D-4B985F4CAF4A</gtr:id><gtr:title>High Efficiency Waste Heat Recovery/Refrigeration Unit</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710401</gtr:grantReference><gtr:abstractText>This project will deliver a proof of concept, validated with hardware experimentation, of an
+innovative system for efficient ICE waste heat recovery with mobile refrigeration/air
+conditioning benefits. This system will use low grade waste heat sources like the coolant loop
+of an IC engine to drive a Dearman heat-engine that uses liquid nitrogen (LN2) as a ?fuel? and
+cold source; the heat-engine will be used to peak shave the IC engine's duty cycle and the
+liquid nitrogen will be used as a source of cold for air conditioning or refrigeration when
+required.
+The primary market for this technology is likely to be urban Heavy Duty Vehicles (HDVs),
+including refrigerated delivery trucks and city buses. An optimised system has the potential to
+deliver significant diesel fuel savings (up to 30%) and an operator payback of &amp;lt; 2 years for
+systems requiring the chilling component and &amp;lt; 3 years for pure heat recovery applications.
+Urban HDV operators have significant exposure to fuel price volatility and local air quality
+regulation and so are a receptive market. By 2025 it is estimated that the global market for
+buses and coaches will be 875k units/yr, of which over 50% will have significant airconditioning
+needs. In the same timeframe, urban delivery vehicle sales will be greater than
+2.5m units/yr, of which over 300k will be chilled or frozen delivery.
+The project will build on existing research into the base Dearman Engine and will focus on
+increasing the engine's performance as well as exploring its integration into IC engine thermal
+systems. Model-based system exploration of component sizes and configurations will be
+supported by research into the response of the Dearman Engine to higher operating pressures
+and various grades of IC engine rejected heat. Supporting activity will develop an exploitation
+plan including review of markets, feedback from potential users and integrators,
+understanding manufacturing options and preparing a plan for a future prototype stage.</gtr:abstractText><gtr:fund><gtr:end>2014-10-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2013-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>99986</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710401</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

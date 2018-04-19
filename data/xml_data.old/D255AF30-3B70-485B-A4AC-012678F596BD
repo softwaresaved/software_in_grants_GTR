@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations><gtr:collaborator url="http://gtr.ukri.org:80/organisation/818CD6C9-61EE-41F2-9F37-0C7A8F43E25D"><gtr:id>818CD6C9-61EE-41F2-9F37-0C7A8F43E25D</gtr:id><gtr:name>University of Birmingham</gtr:name><gtr:address><gtr:line1>Edgbaston Park Road</gtr:line1><gtr:line2>Edgbaston</gtr:line2><gtr:postCode>B15 2TT</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator></gtr:collaborations><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/ECA474B6-9AAC-445C-97E4-019D2A903C89"><gtr:id>ECA474B6-9AAC-445C-97E4-019D2A903C89</gtr:id><gtr:name>University of Cumbria</gtr:name><gtr:department>Faculty of Health and Wellbeing</gtr:department><gtr:address><gtr:line1>University of Cumbria</gtr:line1><gtr:line2>Fusehill Street</gtr:line2><gtr:line4>Carlisle</gtr:line4><gtr:postCode>CA1 2HH</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/ECA474B6-9AAC-445C-97E4-019D2A903C89"><gtr:id>ECA474B6-9AAC-445C-97E4-019D2A903C89</gtr:id><gtr:name>University of Cumbria</gtr:name><gtr:address><gtr:line1>University of Cumbria</gtr:line1><gtr:line2>Fusehill Street</gtr:line2><gtr:line4>Carlisle</gtr:line4><gtr:postCode>CA1 2HH</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/818CD6C9-61EE-41F2-9F37-0C7A8F43E25D"><gtr:id>818CD6C9-61EE-41F2-9F37-0C7A8F43E25D</gtr:id><gtr:name>University of Birmingham</gtr:name><gtr:address><gtr:line1>Edgbaston Park Road</gtr:line1><gtr:line2>Edgbaston</gtr:line2><gtr:postCode>B15 2TT</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/32F4C0BC-6B69-46C2-B2B5-30D1D271D977"><gtr:id>32F4C0BC-6B69-46C2-B2B5-30D1D271D977</gtr:id><gtr:firstName>Mervyn</gtr:firstName><gtr:surname>Conroy</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=AH%2FJ500069%2F1"><gtr:id>D255AF30-3B70-485B-A4AC-012678F596BD</gtr:id><gtr:title>Connected Health and Social Care Communities</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>AH/J500069/1</gtr:grantReference><gtr:abstractText>In the context of service integration and development, communities in Health and Social Care require interrogation: analysis enables identification of community in relation to governance, professional practice and user/citizen constituencies. Knowledge, understandings and identities within different communities need recognition if cross-community engagement and development work is to be undertaken; those who themselves cross communities or identify with multiple health and social care communities may be valuable 'connectors', in either formal or informal roles. In contrast to predominant theories in organisational studies (e.g. functionalist; social learning), humanities offers the lens of virtue ethics with which to examine connectedness in communities and change over time. Workshop activity found that whilst policy can be disruptive of pre-existing communities in health and social care, communities can respond, to affirm their purpose and seek joint understandings of purpose with others. Future research should explore how communities in health and social care respond to changing circumstances, and what factors influence whether community forms and capacity are enabled or threatened by policy and practice developments.</gtr:abstractText><gtr:fund><gtr:end>2011-08-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/1291772D-DFCE-493A-AEE7-24F7EEAFE0E9"><gtr:id>1291772D-DFCE-493A-AEE7-24F7EEAFE0E9</gtr:id><gtr:name>AHRC</gtr:name></gtr:funder><gtr:start>2011-03-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>32403</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Birmingham</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:department>School of Education</gtr:department><gtr:description>Collaboration between Health Services Management Centre and Department of Social Policy and Social Work at University of Birmingham</gtr:description><gtr:id>BE3C3039-5C2C-436B-B106-D68D75D88C3F</gtr:id><gtr:impact>Conroy, M, Clarke, H. &amp;amp; Wilson, L. (2012) Connected Health and Social Care Communities. AHRC final report
+http://www.ahrc.ac.uk/documents/project-reports-and-reviews/connected-communities/connected-health-and-social-care-communities/</gtr:impact><gtr:outcomeId>58bae323299df2.33451571-1</gtr:outcomeId><gtr:partnerContribution>The scoping review mapped out:
+Conceptualisations and meanings of 'community' in health and social care: what
+is being invoked by &amp;quot;community&amp;quot; in the health and social care domain?
+Personalisation and health and social care communities: what is the relationship
+between personalised policy and practice, and communities?
+Connectivity within and between health and social care communities in the
+context of policy: how does connectivity function in changing governance and
+user community contexts?
+The methods used were:
+Literature review: examining knowledge and debate concerning &amp;quot;communities&amp;quot; in
+health and social care.
+Networking/Collaborative Activity:
+1. Workshop learning event to identify key communities in the lived experience
+of participants to inform the literature review.
+2. A seminar event with invited participants to present findings and identify
+future directions in &amp;quot;health and social care communities&amp;quot; research.</gtr:partnerContribution><gtr:piContribution>Three main activities were carried out in partnership:
+1) Scoping review
+2) Literature review: examining knowledge and debate concerning &amp;quot;communities&amp;quot; in
+health and social care.
+3) Networking/Collaborative Activity:</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2011-01-01</gtr:start></gtr:collaborationOutput></gtr:collaborationOutputs><gtr:disseminationOutputs><gtr:disseminationOutput><gtr:description>Engagement Activity: 1. Workshop learning event to identify key communities in the lived experience of participants to inform the literature review. 2. A seminar event with invited participants to present findings and identify future directions in &quot;health and social care communities&quot; research.</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>Regional</gtr:geographicReach><gtr:id>3AE299D1-4232-402A-A6B0-40F26A1C6122</gtr:id><gtr:impact>Identities, ascribed identities and the role of organisations in defining community/ies
+were central to discussion. The value of the &amp;quot;reticulist&amp;quot; (who can carry knowledge and
+understanding between communities) was posited, recognising that knowledge and
+cultures in different sites requires acknowledgement and understanding. Change over
+time and increased barriers around communities (e.g. practice-based; service-user
+group) were identified as linked to resources and competition. Concerns included
+marginalisation and restriction of engagement through top-down definitions of
+community. 
+
+Top-down versus citizen-led approaches to community building were discussed:
+health/patient-focused ascriptions of community membership were viewed as having a
+narrower &amp;quot;vulnerability&amp;quot; focus and individualising impact, whilst a wider community
+development remit was seen as more empowering, encompassing more citizens, and
+involving wider influencers on well-being (e.g. housing). Whilst community building
+with/by citizens in the health and social care arena was viewed positively as a balance
+against consumer-based engagement, there was concern that individuals in communities
+who can mobilise themselves will fare better, risking strengthening inequalities.
+Individuals who belong to local communities acting as &amp;quot;connectors&amp;quot; between structures
+and citizens were seen as a potentially inclusive model: this was explored in the
+literature following the workshop, and reflects developing &amp;quot;community navigator&amp;quot; practice
+in the UK (e.g. Care Navigators: Turning Point, 2010; Bruce et al 2011). 
+
+In order to apply the theoretical lens afforded by MacIntyre it becomes important to
+understand the notion of virtue as a mean growing out of engagement with that practice,
+not predefined. Any community needs rules or an ethos to hold it together: Aristotle in
+Nichomachean Ethics (1958) suggests a set of virtue continuums (Courage, Generosity,
+Magnificence, Pride, Anger, Truth and Indignation). MacIntyre was careful to avoid such
+definitions, and we therefore allowed the accounts from our workshop practitioners to
+define the virtues of connectedness in H&amp;amp;SCCs. Using a virtue continuum lens we
+mapped stories of connected communities from our workshop participants (Figure 1 in the report at the URL).
+
+Within the workshop we heard examples of practice which countered policy and practice
+impositions perceived as potentially disruptive of communities by pre-defining the terms
+of engagement: the focus was the incremental development of working relationships 
+within and across communities, engaging with the learning in communities and seeking
+to develop a common purpose.
+
+The seminar suggested that the above theorising was helpful to participants in
+understanding connectedness as a set of continuums. Participants talked about &amp;quot;moving
+from the orange to the blue&amp;quot; (see figure 1 in the report at the URL) and vice versa. It seemed to give them a way of expressing
+their social reality of connectedness when working in H&amp;amp;SCCs. Notable by their absence,
+both in the workshop and feedback seminar, were accounts of sacred/profane or
+moral/immoral continuums which is arguably consistent with MacIntyre&amp;quot;s thesis that the
+resources to maintain such ethical debates have become disrupted. 
+
+The ways that communities transmit their practice ethics (MacIntyre, 1985) and support
+membership generativity (i.e. their contribution to future generations of their material
+creations, knowledge and culture: Imada, 2004) require research, policy and practice
+attention, particularly when models of delivery are experiencing rapid change. By way of
+example, the recent white paper (Department of Health 2010) issued under the Coalition
+government presents a solution to the challenge of cost savings which is inherently
+structural functional: removing layers of &amp;quot;bureaucracy&amp;quot; (SHAs and PCTs) and handing
+responsibility for the commissioning of healthcare to new structures (GP Consortia). A
+CoP lens shows the potential for shared learning and knowledge bonds being lost.
+MacIntyre&amp;quot;s lens presents an even more disturbing loss, of practice ethics that build over
+time in any community: the generational handing down of practice knowledge and ethics 
+is highly likely to be disrupted as we have seen previously, in mental health services
+(Conroy, 2010).
+
+Future research should explore how organisational, practice and user/citizen
+communities which engage in health and social care respond to change, and what factors
+influence whether community forms and capacity are enabled or threatened by policy
+and practice developments.
+
+Further research should contribute to our understanding of how health and social care
+policy implementation impacts on communities&amp;quot; lived-experience, health and well being.
+This paper offers a &amp;quot;connected continuum&amp;quot; model, based on MacIntyre&amp;quot;s virtue ethics
+(1985), which has been shown to be helpful in understanding more about the complexity
+of connectedness and its relationship to health and wellbeing and which has potential for
+application with other communities.</gtr:impact><gtr:outcomeId>58baeef8b06222.59298536</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www.ahrc.ac.uk/documents/project-reports-and-reviews/connected-communities/connected-health-and-social-care-communities/</gtr:url><gtr:year>2011</gtr:year></gtr:disseminationOutput></gtr:disseminationOutputs><gtr:exploitationOutputs/><gtr:furtherFundingOutputs><gtr:furtherFundingOutput><gtr:amountPounds>860000</gtr:amountPounds><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:currCode>GBP</gtr:currCode><gtr:currCountryCode>United Kingdom</gtr:currCountryCode><gtr:currLang>en_GB</gtr:currLang><gtr:description>Connected Communities</gtr:description><gtr:end>2018-05-02</gtr:end><gtr:fundingOrg>Arts &amp; Humanities Research Council (AHRC)</gtr:fundingOrg><gtr:fundingRef>RRBO18360</gtr:fundingRef><gtr:id>652C1606-4148-4A28-8DD7-E7FC5EC4586B</gtr:id><gtr:outcomeId>58bae91b45b784.72217836</gtr:outcomeId><gtr:sector>Public</gtr:sector><gtr:start>2015-05-01</gtr:start></gtr:furtherFundingOutput></gtr:furtherFundingOutputs><gtr:impactSummaryOutputs><gtr:impactSummaryOutput><gtr:description>I use the findings in teaching with my post-graduate students who are all managers, leaders or clinicians in the health and social care sector to help them improve their practices.
+
+The findings are also currently being used by doctors in my latest project 'Phronesis and the Medical Community' to gain a better understanding of their ethical decision making. The virtue continuum model helps them reflect on their practice and what they need to take into account before making an ethical decision which could have a life or death impact on one or more patients.</gtr:description><gtr:firstYearOfImpact>2012</gtr:firstYearOfImpact><gtr:id>C10A14B1-4715-4574-A24C-CC76B6F1875C</gtr:id><gtr:impactTypes><gtr:impactType>Societal,Policy &amp; public services</gtr:impactType></gtr:impactTypes><gtr:outcomeId>58bb02126c8d49.28705823</gtr:outcomeId><gtr:sector>Communities and Social Services/Policy,Healthcare</gtr:sector></gtr:impactSummaryOutput></gtr:impactSummaryOutputs><gtr:intellectualPropertyOutputs><gtr:intellectualPropertyOutput><gtr:description>In order to apply the theoretical lens afforded by MacIntyre it becomes important to
+understand the notion of virtue as a mean growing out of engagement with that practice,
+not predefined. Any community needs rules or an ethos to hold it together: Aristotle in
+Nichomachean Ethics (1958) suggests a set of virtue continuums (Courage, Generosity,
+Magnificence, Pride, Anger, Truth and Indignation). MacIntyre was careful to avoid such
+definitions, and we therefore allowed the accounts from our workshop practitioners to
+define the virtues of connectedness in H&amp;amp;SCCs. Using a virtue continuum lens we
+mapped stories of connected communities from our workshop participants (Figure 1 - see the URL report).
+
+Within the workshop we heard examples of practice which countered policy and practice
+impositions perceived as potentially disruptive of communities by pre-defining the terms
+of engagement: the focus was the incremental development of working relationships 
+within and across communities, engaging with the learning in communities and seeking
+to develop a common purpose.</gtr:description><gtr:grantRef>AH/J500069/1</gtr:grantRef><gtr:id>C442666F-2E11-4678-983A-BA92F93A0077</gtr:id><gtr:impact>The seminar suggested that the above theorising was helpful to participants in
+understanding connectedness as a set of continuums. Participants talked about &amp;quot;moving
+from the orange to the blue&amp;quot; and vice versa. It seemed to give them a way of expressing
+their social reality of connectedness when working in H&amp;amp;SCCs. Notable by their absence,
+both in the workshop and feedback seminar, were accounts of sacred/profane or
+moral/immoral continuums which is arguably consistent with MacIntyre's thesis that the
+resources to maintain such ethical debates have become disrupted.</gtr:impact><gtr:licensed>No</gtr:licensed><gtr:outcomeId>58baf5cb3aedf4.27738201</gtr:outcomeId><gtr:protection>Protection not required</gtr:protection><gtr:title>Virtue Continuum Model for mapping the stories of communities working together to bring successes</gtr:title><gtr:yearProtectionGranted>2011</gtr:yearProtectionGranted></gtr:intellectualPropertyOutput></gtr:intellectualPropertyOutputs><gtr:keyFindingsOutput><gtr:description>The seminar suggested that the virtue continuum model was helpful to participants in
+understanding connectedness of the health and social care community as a set of continuums. Participants talked about &amp;quot;moving
+from the orange to the blue&amp;quot; and vice versa. It seemed to give them a way of expressing
+their social reality of connectedness when working on projects together. Notable by their absence,
+both in the workshop and feedback seminar, were accounts of sacred/profane or
+moral/immoral continuums which is arguably consistent with MacIntyre's thesis that the
+resources to maintain such ethical debates have become disrupted.</gtr:description><gtr:exploitationPathways>Recommendations for future research:
+Navigators and 'reticulists'
+Research should identify opportunities for and barriers to community development,
+foregrounding people&amp;quot;s lived conceptions of community. Multiple community
+memberships, cross-community engagement, and the experience of managing different
+identities in different communities (incorporating lay, political or professional health and
+social care perspectives) should be priorities in future research. The developing research
+focus on community/care navigators in the UK should be expanded to incorporate citizen
+navigators (engaging with multiple H&amp;amp;SCCs in a personal capacity), formal (paid and
+voluntary) navigators (engaged to link people of their own personal communities with
+services), and professional navigators (&amp;quot;reticulists&amp;quot; who are able to enter different health
+and social care policy/service realms and engage positively in different structural and
+cultural environments).
+Policy for generative health and social care communities?
+The ways that communities transmit their practice ethics (MacIntyre, 1985) and support
+membership generativity (i.e. their contribution to future generations of their material
+creations, knowledge and culture: Imada, 2004) require research, policy and practice
+attention, particularly when models of delivery are experiencing rapid change. By way of
+example, the recent white paper (Department of Health 2010) issued under the Coalition
+government presents a solution to the challenge of cost savings which is inherently
+structural functional: removing layers of &amp;quot;bureaucracy&amp;quot; (SHAs and PCTs) and handing
+responsibility for the commissioning of healthcare to new structures (GP Consortia). A
+CoP lens shows the potential for shared learning and knowledge bonds being lost.
+MacIntyre&amp;quot;s lens presents an even more disturbing loss, of practice ethics that build over
+time in any community: the generational handing down of practice knowledge and ethics 
+is highly likely to be disrupted as we have seen previously, in mental health services
+(Conroy, 2010).
+Future research should explore how organisational, practice and user/citizen
+communities which engage in health and social care respond to change, and what factors
+influence whether community forms and capacity are enabled or threatened by policy
+and practice developments.
+Complexities of connectedness
+Further research should contribute to our understanding of how health and social care
+policy implementation impacts on communities&amp;quot; lived-experience, health and well being.
+This paper offers a &amp;quot;connected continuum&amp;quot; model, based on MacIntyre&amp;quot;s virtue ethics
+(1985), which has been shown to be helpful in understanding more about the complexity
+of connectedness and its relationship to health and wellbeing and which has potential for
+application with other communities.</gtr:exploitationPathways><gtr:id>2AB09DFB-60B7-49FB-8F73-4E5DE69EA2CF</gtr:id><gtr:outcomeId>58baff44efa446.35774382</gtr:outcomeId><gtr:sectors><gtr:sector>Communities and Social Services/Policy,Education,Environment,Healthcare,Government, Democracy and Justice</gtr:sector></gtr:sectors><gtr:url>http://www.ahrc.ac.uk/documents/project-reports-and-reviews/connected-communities/connected-health-and-social-care-communities/</gtr:url></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs><gtr:policyInfluenceOutput><gtr:areas/><gtr:description>Workshop influence on policy makers</gtr:description><gtr:geographicReach>Local/Municipal/Regional</gtr:geographicReach><gtr:id>DBE5DC73-86D9-441C-95F8-552ED4C90798</gtr:id><gtr:impact>Workshop impact: 
+Using a virtue continuum lens we mapped stories of connected communities from our workshop participants (see Figure 1 in the report at the URL).
+
+Within the workshop we heard examples of practice which countered policy and practice
+impositions perceived as potentially disruptive of communities by pre-defining the terms
+of engagement: the focus was the incremental development of working relationships 
+within and across communities, engaging with the learning in communities and seeking
+to develop a common purpose.
+
+Feedback Seminar impact:
+The seminar suggested that the above theorising was helpful to participants in
+understanding connectedness as a set of continuums. Participants talked about &amp;quot;moving
+from the orange to the blue&amp;quot; and vice versa. It seemed to give them a way of expressing
+their social reality of connectedness when working in H&amp;amp;SCCs. Notable by their absence,
+both in the workshop and feedback seminar, were accounts of sacred/profane or
+moral/immoral continuums which is arguably consistent with MacIntyre&amp;quot;s thesis that the
+resources to maintain such ethical debates have become disrupted.</gtr:impact><gtr:outcomeId>58baf0d23a7011.77891141</gtr:outcomeId><gtr:type>Influenced training of practitioners or researchers</gtr:type><gtr:url>http://www.ahrc.ac.uk/documents/project-reports-and-reviews/connected-communities/connected-health-and-social-care-communities/</gtr:url></gtr:policyInfluenceOutput></gtr:policyInfluenceOutputs><gtr:productOutputs><gtr:productOutput><gtr:clinicalTrial>true</gtr:clinicalTrial><gtr:description>The seminar suggested that the virtue continuum model was helpful to participants in
+understanding connectedness as a set of continuums. Participants talked about &amp;quot;moving
+from the orange to the blue&amp;quot; and vice versa. It seemed to give them a way of expressing
+their social reality of connectedness when working in H&amp;amp;SCCs. Notable by their absence,
+both in the workshop and feedback seminar, were accounts of sacred/profane or
+moral/immoral continuums which is arguably consistent with MacIntyre&amp;quot;s thesis that the
+resources to maintain such ethical debates have become disrupted.
+
+This model is now being used in the 'Phronesis and Medical Community' which is a follow on project (Conroy et al 2015) focusing on doctors and ethical decision making. This research aims to answer what it means to doctors to make good ethical decisions.</gtr:description><gtr:id>DE9423FE-565E-4C46-8C4F-02AA31782B11</gtr:id><gtr:impact>The seminar suggested that the model was helpful to participants (policy makers, practitioners and researchers) in
+understanding connectedness as a set of continuums. Participants talked about &amp;quot;moving
+from the orange to the blue&amp;quot; and vice versa. It seemed to give them a way of expressing
+their social reality of connectedness when working in Health &amp;amp; Social Care Communities. Notable by their absence,
+both in the workshop and feedback seminar, were accounts of sacred/profane or
+moral/immoral continuums which is arguably consistent with MacIntyre&amp;quot;s thesis that the
+resources to maintain such ethical debates have become disrupted.The 
+
+It is early days on the Phronesis and the Medical Community project but we are already using the model to analyse the data and will be presenting it as an intervention as part of the early findings at the next workshop on 6 April 2017.</gtr:impact><gtr:outcomeId>58baf8af8cde30.47426385</gtr:outcomeId><gtr:stage>Refinement.  Clinical</gtr:stage><gtr:status>Under active development/distribution</gtr:status><gtr:title>Virtue Continuum Model</gtr:title><gtr:type>Health and Social Care Services</gtr:type><gtr:ukcrnIsctnId>AHRC Grant (RRBO18360)</gtr:ukcrnIsctnId><gtr:url>http://www.ahrc.ac.uk/documents/project-reports-and-reviews/connected-communities/connected-health-and-social-care-communities/</gtr:url><gtr:yearDevCompleted>2016</gtr:yearDevCompleted></gtr:productOutput></gtr:productOutputs><gtr:researchDatabaseAndModelOutputs><gtr:researchDatabaseAndModelOutput><gtr:description>MacIntyre&amp;quot;s colossal body of writing on ethics that positions his mid career thesis After
+Virtue (1985) contain very strong arguments of what we have lost in our understanding
+of community and societal connections. That loss is of shared virtues which operate
+through practice in service of wellbeing for all in society. In MacIntyre&amp;quot;s virtues-goodspractices-institution
+schema (Moore and Beadle 2006) practice excellence offers rewards
+for practitioners and citizens (internal goods), binds practitioners in one practice group
+together, binds different practice groups together across institutional boundaries and
+further still binds people across sectors in any given community. The theory
+encompasses dynamic development of community connections by members who are
+continually clarifying their personal aims by meshing with collective aims in a way that
+serves the wellbeing of all in society. VE can be viewed as building on SF and social
+learning theories to encompass the ethical connections between all practitioners in any
+given society regardless of discipline. 
+
+The way MacIntyre envisages the collective relationship of practices, the narrative of the
+institution and their potential disruption is summarised by McCann and Brownsberger
+(1990) who stress the centrality of telos (purpose) to human life. Disruption may involve
+loss of a shared sense of telos and a corresponding lack of agreement concerning social
+practices and the virtues that underpin them. For MacIntyre (1985) disruption and
+corruption derive more often than not from an (individual or collective) bias in focus on
+external goods (money, status and power) rather than on internal goods.
+Workshop illustration: virtue as a mean
+In order to apply the theoretical lens afforded by MacIntyre it becomes important to
+understand the notion of virtue as a mean growing out of engagement with that practice,
+not predefined. Any community needs rules or an ethos to hold it together: Aristotle in
+Nichomachean Ethics (1958) suggests a set of virtue continuums (Courage, Generosity,
+Magnificence, Pride, Anger, Truth and Indignation). MacIntyre was careful to avoid such
+definitions, and we therefore allowed the accounts from our workshop practitioners to
+define the virtues of connectedness in H&amp;amp;SCCs. Using a virtue continuum lens we
+mapped stories of connected communities from our workshop participants (Figure 1 - see the URL).
+
+Within the workshop we heard examples of practice which countered policy and practice
+impositions perceived as potentially disruptive of communities by pre-defining the terms
+of engagement: the focus was the incremental development of working relationships 
+within and across communities, engaging with the learning in communities and seeking
+to develop a common purpose. 
+
+The virtue continuum model has been developed in the subsequent 'Phronesis and the Medical Community' award</gtr:description><gtr:id>879909BA-E7C1-4B82-88CE-7916A808672E</gtr:id><gtr:impact>The seminar suggested that the model was helpful to participants in
+understanding connectedness as a set of continuums. Participants talked about &amp;quot;moving
+from the orange to the blue&amp;quot; and vice versa. It seemed to give them a way of expressing
+their social reality of connectedness when working in Health and Social Care Communities. Notable by their absence,
+both in the workshop and feedback seminar, were accounts of sacred/profane or
+moral/immoral continuums which is arguably consistent with MacIntyre&amp;quot;s thesis that the
+resources to maintain such ethical debates have become disrup</gtr:impact><gtr:outcomeId>58baf516586e67.80748256</gtr:outcomeId><gtr:providedToOthers>true</gtr:providedToOthers><gtr:title>Virtue Continuum Model</gtr:title><gtr:type>Data analysis technique</gtr:type><gtr:url>http://www.ahrc.ac.uk/documents/project-reports-and-reviews/connected-communities/connected-health-and-social-care-communities/</gtr:url><gtr:yearFirstProvided>2015</gtr:yearFirstProvided></gtr:researchDatabaseAndModelOutput></gtr:researchDatabaseAndModelOutputs><gtr:researchMaterialOutputs><gtr:researchMaterialOutput><gtr:description>The scoping review mapped out:
+Conceptualisations and meanings of 'community' in health and social care: what
+is being invoked by &amp;quot;community&amp;quot; in the health and social care domain?
+Personalisation and health and social care communities: what is the relationship
+between personalised policy and practice, and communities?
+Connectivity within and between health and social care communities in the
+context of policy: how does connectivity function in changing governance and
+user community contexts?
+
+In order to apply the theoretical lens afforded by MacIntyre (1981) it becomes important to
+understand the notion of virtue as a mean growing out of engagement with that practice,
+not predefined. Any community needs rules or an ethos to hold it together: Aristotle in
+Nichomachean Ethics (1958) suggests a set of virtue continuums (Courage, Generosity,
+Magnificence, Pride, Anger, Truth and Indignation). MacIntyre was careful to avoid such
+definitions, and we therefore allowed the accounts from our workshop practitioners to
+define the virtues of connectedness in H&amp;amp;SCCs. Using a 'virtue continuum' lens we
+mapped stories of connected communities from our workshop participants (Figure 1 - see the URL report).
+
+Within the workshop we heard examples of practice which countered policy and practice
+impositions perceived as potentially disruptive of communities by pre-defining the terms
+of engagement: the focus was the incremental development of working relationships 
+within and across communities, engaging with the learning in communities and seeking
+to develop a common purpose.
+
+
+The methods used were:
+Literature review: examining knowledge and debate concerning &amp;quot;communities&amp;quot; in
+health and social care.
+Networking/Collaborative Activity:
+1. Workshop learning event to identify key communities in the lived experience
+of participants to inform the literature review.
+2. A seminar event with invited participants to present findings and identify
+future directions in &amp;quot;health and social care communities&amp;quot; research.</gtr:description><gtr:id>1C6E477C-0027-4350-91BF-BA48E02CDA89</gtr:id><gtr:impact>The seminar suggested that the theorising (virtue continuum model) was helpful to participants in
+understanding connectedness as a set of continuums. Participants talked about &amp;quot;moving
+from the orange to the blue&amp;quot; and vice versa. It seemed to give them a way of expressing
+their social reality of connectedness when working in H&amp;amp;SCCs. Notable by their absence,
+both in the workshop and feedback seminar, were accounts of sacred/profane or
+moral/immoral continuums which is arguably consistent with MacIntyre's thesis that the
+resources to maintain such ethical debates have become disrupted.</gtr:impact><gtr:outcomeId>58baf3f7ed08a9.33004134</gtr:outcomeId><gtr:providedToOthers>true</gtr:providedToOthers><gtr:title>Scoping Review, workshop and feedback seminar using 'Virtue Continuum Model' developed as part of the research</gtr:title><gtr:type>Improvements to research infrastructure</gtr:type><gtr:url>http://www.ahrc.ac.uk/documents/project-reports-and-reviews/connected-communities/connected-health-and-social-care-communities/</gtr:url><gtr:yearFirstProvided>2015</gtr:yearFirstProvided></gtr:researchMaterialOutput></gtr:researchMaterialOutputs><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication><gtr:id>71286198-78BA-4D23-814A-506670A0AD95</gtr:id><gtr:title>Connected Health and Social Care Communities</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/28284e82d223fc9175e91ae1c2ef9d1d"><gtr:id>28284e82d223fc9175e91ae1c2ef9d1d</gtr:id><gtr:otherNames>Conroy, M.</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date><gtr:outcomeId>58bae086aabaa5.44723554</gtr:outcomeId></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">AH/J500069/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

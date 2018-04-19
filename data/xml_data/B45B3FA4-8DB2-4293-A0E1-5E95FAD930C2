@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/2C975D2A-3EDC-4438-BE46-C0E2D6098B5C"><gtr:id>2C975D2A-3EDC-4438-BE46-C0E2D6098B5C</gtr:id><gtr:name>Pattenden Machinery Limited</gtr:name><gtr:address><gtr:line1>PRESTON CROSS , LEDBURY</gtr:line1><gtr:city>HEREFORDSHIRE</gtr:city><gtr:postCode>HR8 2LJ</gtr:postCode><gtr:region>West Midlands</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/2C975D2A-3EDC-4438-BE46-C0E2D6098B5C" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>2C975D2A-3EDC-4438-BE46-C0E2D6098B5C</gtr:id><gtr:name>Pattenden Machinery Limited</gtr:name><gtr:address><gtr:line1>PRESTON CROSS , LEDBURY</gtr:line1><gtr:city>HEREFORDSHIRE</gtr:city><gtr:postCode>HR8 2LJ</gtr:postCode><gtr:region>West Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>72307.0</gtr:offerGrant><gtr:projectCost>180768.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=730002"><gtr:id>B45B3FA4-8DB2-4293-A0E1-5E95FAD930C2</gtr:id><gtr:title>Rasberry Tunnel Rig</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Legacy RDA Grant for R&amp;D</gtr:grantCategory><gtr:grantReference>730002</gtr:grantReference><gtr:abstractText>Aims -
+To develop a machine that will significantly increase the hand pickinQ\ output of
+Raspberries grown in polytunnels.
+The availability of picking labour is becoming the biggest problem facing growers. If the
+issue is not resolved crops will increasingly remain unharvested and will rot in the fields.
+A successful project will result in a machine with a small crew that will reduce the
+harvesting labour by a targeted 40%.
+Deliverables -
+pre-production prototype
+drawing and specification for production
+procedures for operation
+Test report following field trials
+Reasons for the work -
+The Raspberry is a very delicate fruit that is easily damaged by wind, rain, excess heat,
+mishandling and inappropriate storage.
+Growing the fruit in polytunnels reduces the risk of damage from the weather and will
+help to sustain the industry in changing climatic conditions.
+The delicate nature of the fruit means that it must be hand picked, but finding picking
+labour is becoming the growers' biggest problem.
+If the industry is to survive it must find a solution to the labour problem.
+The aims of the project are to reduce the picking labour for Raspberries grown in
+polytunnels by 40% and to reduce imports, which in recent years have impacted UK
+homegrown sales, so reducing food miles.</gtr:abstractText><gtr:fund><gtr:end>2012-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2009-07-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>72307</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">730002</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

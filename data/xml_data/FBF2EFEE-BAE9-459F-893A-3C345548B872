@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/D5A7020E-4749-42AE-89FC-A90CE6B6AB98"><gtr:id>D5A7020E-4749-42AE-89FC-A90CE6B6AB98</gtr:id><gtr:name>Haydale Composite Solutions Limited</gtr:name><gtr:address><gtr:line1>Unit 10
+Charnwood Business Park
+North Road</gtr:line1><gtr:city>Loughborough</gtr:city><gtr:postCode>LE11 1QJ</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/D5A7020E-4749-42AE-89FC-A90CE6B6AB98" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>D5A7020E-4749-42AE-89FC-A90CE6B6AB98</gtr:id><gtr:name>Haydale Composite Solutions Limited</gtr:name><gtr:address><gtr:line1>Unit 10
+Charnwood Business Park
+North Road</gtr:line1><gtr:city>Loughborough</gtr:city><gtr:postCode>LE11 1QJ</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>93633.0</gtr:offerGrant><gtr:projectCost>158539.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/9D69D03B-0C31-47D6-AB41-5AB70903FAF5"><gtr:id>9D69D03B-0C31-47D6-AB41-5AB70903FAF5</gtr:id><gtr:firstName>David</gtr:firstName><gtr:surname>Chambers</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710318"><gtr:id>FBF2EFEE-BAE9-459F-893A-3C345548B872</gtr:id><gtr:title>Proof of Concept project to prove supporting technologies for Ultra-large Composite Flywheel deployment in Energy Storage</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710318</gtr:grantReference><gtr:abstractText>This project focuses on the UKs growing need for energy storage solutions to support
+renewable energy deployments &amp;amp; grid integration &amp;amp; to reduce strain on the national grid
+during peak times as outlined in the TSB?s Energy Supply Strategy 2012 ? ?supporting
+renewable energy deployments through energy storage developments to meet legally binding
+targets for greenhouse gas reduction?. The proposed solution is to develop much larger
+Composite Flywheels producing MWh?s rather than kWh?s with existing solutions. Key
+objectives are to prove the technical &amp;amp; cost feasibility &amp;amp; benefits of large composite flywheel
+energy storage. Through discussions with potential end-users, the commercial product
+requires the following objectives/applications: Low Voltage Ride Through insensitive, VAr
+management, storage efficiency, spinning reserve, Black Start, rapid response with fast
+ramping &amp;amp; small footprint.
+Project innovation is to prove the concept of an in-situ manufacturing process capable of
+building composite flywheels with the quality of bond &amp;amp; inclusion size to support the
+demands of hoop &amp;amp; radial stress. Further innovation is to develop a magnetic bearing
+arrangement supported on a frustrated cone to centre the rotor &amp;amp; compensate for radial growth
+during operation. The system will run in a vacuum utilising Halbach arrays to support the
+flywheel weight for friction free running.
+Key project benefits are to prove the concept innovations in the workshop &amp;amp; to complete
+basic material strength trials to validate the theoretical design work &amp;amp; manufacturing process.
+This enables EPL to develop an exploitation roadmap to further develop the technology to
+build an initial prototype flywheel in conjunction with key material &amp;amp; systems partners. If
+successful, the project contributes to the longer term goal of resolving energy storage issues in
+the UK &amp;amp; abroad &amp;amp; supports the deployment of renewable energy systems &amp;amp; strengthening
+local grid usage &amp;amp; stability.</gtr:abstractText><gtr:fund><gtr:end>2014-10-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2013-05-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>93633</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710318</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

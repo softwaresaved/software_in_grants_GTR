@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/4549D56E-404F-4845-BC44-B942A1569350"><gtr:id>4549D56E-404F-4845-BC44-B942A1569350</gtr:id><gtr:name>3D Industries Limited</gtr:name><gtr:address><gtr:line1>c/o Dr S Rejal
+11 Rivermill
+151 Grosvenor Road</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>SW1V 3JN</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/4549D56E-404F-4845-BC44-B942A1569350" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>4549D56E-404F-4845-BC44-B942A1569350</gtr:id><gtr:name>3D Industries Limited</gtr:name><gtr:address><gtr:line1>c/o Dr S Rejal
+11 Rivermill
+151 Grosvenor Road</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>SW1V 3JN</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>100000.0</gtr:offerGrant><gtr:projectCost>179495.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710130"><gtr:id>9CA6D318-8512-4BA2-AA3B-25EB4B4FF5E1</gtr:id><gtr:title>Application of Cutting Edge 3D Shape Search Technology to the Radical Reconfiguration of the Global Industrial Part Sourcing Market</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710130</gtr:grantReference><gtr:abstractText>Project to develop an online platform to match buyers and suppliers of industrial parts using
+the world?s leading 3D shape-based search technology. This automation will revolutionise the
+global part-sourcing and manufacturing marketplace by bringing efficiency, accuracy, speed
+and transparency to the process. Sourcing will be possible in moments, rather than hours, days
+or even weeks!
+The project offers an ideal mix of strong and well-aligned team, unique inimitable technology,
+and significant market opportunity. The team has been approached by one of the largest
+databases of 3D industrial parts for partnership and this project would aim to help meet that
+demand and make the rapid transition to full-scale commercial exploitation.
+The team consists of a PhD in manufacturing who worked with the founder of the world?s
+largest part sourcing website (US based), as well as 2 PhDs in 3D search technology who
+together form the world?s leading knowledge-base in this next-generation internet technology.
+The project is expected to take 12 months and cost &amp;pound; 179,495. The estimated 3D parts search
+market is worth at least $100 million per year, is growing at 30% annually and is untapped.
+The team?s technology and execution are superior to that of the sole existing company in this
+arena, and thus large market share and returns are expected.
+Route to market will be through direct approach to manufacturers, ?ecosystem? partnerships,
+as well as syndications and affiliations for rapid expansion.
+Commercial scale-up will be readily possible, and there are numerous monetization avenues
+available. Strong growth paths and exit strategies exist.
+Early discussions with potential users have been highly encouraging. Further, the team and
+idea were selected as one of 5 leading prospects in a London-wide assessment by leading VCs
+and investors in late August 2011.
+There are significant implications for UK competitiveness in both the internet and high-value
+manufacturing in</gtr:abstractText><gtr:fund><gtr:end>2013-05-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2012-03-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>100000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710130</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

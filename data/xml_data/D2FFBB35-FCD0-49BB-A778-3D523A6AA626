@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/E0483549-A244-4915-ADD8-FC5ADF51BF8D"><gtr:id>E0483549-A244-4915-ADD8-FC5ADF51BF8D</gtr:id><gtr:name>Paralant Ltd.</gtr:name><gtr:address><gtr:line1>58 RUSHAM ROAD</gtr:line1><gtr:city>EGHAM</gtr:city><gtr:postCode>TW20 9LP</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/E0483549-A244-4915-ADD8-FC5ADF51BF8D" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>E0483549-A244-4915-ADD8-FC5ADF51BF8D</gtr:id><gtr:name>Paralant Ltd.</gtr:name><gtr:address><gtr:line1>58 RUSHAM ROAD</gtr:line1><gtr:city>EGHAM</gtr:city><gtr:postCode>TW20 9LP</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>89446.0</gtr:offerGrant><gtr:projectCost>149076.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/4A12D1B0-CF2F-4595-B3F1-0FCC58053A4E"><gtr:id>4A12D1B0-CF2F-4595-B3F1-0FCC58053A4E</gtr:id><gtr:firstName>Phillip</gtr:firstName><gtr:surname>Power</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710042"><gtr:id>D2FFBB35-FCD0-49BB-A778-3D523A6AA626</gtr:id><gtr:title>Concurrent Proof of Concept</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710042</gtr:grantReference><gtr:abstractText>In a market research study into software development for multi-core and heterogeneous
+systems that include GPU processors, Concurrent Systems identified:
++ A strong need to make use of the increased compute capabilities these systems provide to
+meet current and future application performance points
++ These systems are too difficult to program for most developers
++ There is an opportunity for Concurrent Systems to provide tools to the developer for manycore
+and heterogeneous application programming
+Applications undergo constant improvements in features and performance to maintain their
+competitive edge and to meet growing customer expectations. There is therefore a demand to
+keep pace with the latest hardware technology releases and to obtain the best performance
+from them. Today, and for the foreseeable future, this means using many-core and
+heterogeneous systems. Many-core processors have created a technology gap between the
+hardware and the software that runs on them. It is common to have developers who are
+experts in their field rather than specialists in many-core program design.
+Improved productivity tools and programming models will ease development concerns and
+increase the speed of market adoption. There are a number of products on the market today
+that attempt to address parallelization either through code analysis and applying programming
+model pragmas, or through automated code generation. Concurrent Systems? solution is an
+innovative approach to the problem.
+The underlining points to our philosophy on the optimal utilization of compute resources are:
+1. Performance comes from parallelism
+2. Efficiency comes from data locality
+To successfully address this market Concurrent Systems needs to apply these principles in
+development tools that will enable better products to be created for current and future manycore
+and heterogeneous architectures. A tool that assists the developer in locating bottlenecks
+and designing applications to account for architectural features, such as caching, SSE, SIMD
+units, creates a great opportunity for achieving high performance and scalability.
+There is a large number of existing applications that were developed taking into account
+hardware constraints of technology available at the time. These constraints are no longer
+relevant today. A lot of this code persists in applications without modification and this has a
+detrimental performance impact. These applications would benefit from refactoring. Tools
+that allow both novice and experienced developers to highlight the limiting factors of their
+application will result in software that can be developed rapidly and make efficient use of
+current and future architectural features.</gtr:abstractText><gtr:fund><gtr:end>2012-12-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2011-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>89446</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710042</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

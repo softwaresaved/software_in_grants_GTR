@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/68694121-1F5E-4707-BC9C-1419407E5331"><gtr:id>68694121-1F5E-4707-BC9C-1419407E5331</gtr:id><gtr:name>The Sustainable Home Survey Company C.I.C.</gtr:name><gtr:address><gtr:line1>29 SHAND STREET</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>SE1 2ES</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/68694121-1F5E-4707-BC9C-1419407E5331" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>68694121-1F5E-4707-BC9C-1419407E5331</gtr:id><gtr:name>The Sustainable Home Survey Company C.I.C.</gtr:name><gtr:address><gtr:line1>29 SHAND STREET</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>SE1 2ES</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>24498.0</gtr:offerGrant><gtr:projectCost>40946.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/AFCEF941-6F50-412E-ABD9-07F2D01FD33D"><gtr:id>AFCEF941-6F50-412E-ABD9-07F2D01FD33D</gtr:id><gtr:firstName>James</gtr:firstName><gtr:surname>Byrne</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700501"><gtr:id>35ACB3C1-839A-4339-B3E3-279842580D52</gtr:id><gtr:title>Sustainable Home Survey (UFloor - Low cost underfloor insulation system)</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700501</gtr:grantReference><gtr:abstractText>As one of the UK?s leading community-focused energy assessment company and social
+incubator the Sustainable Home Survey Company (SHS), has delivered over 10,000 domestic
+assessments, accumulating firsthand insight on the condition of UK homes. SHS?s
+management team has delivered over 15 low carbon ventures to market and actively
+encourages the identification and development of spin-out ventures.
+The UK has made a commitment to reduce greenhouse gas emissions by at least 80% by
+2050. Amongst the most cost-effective means of achieving this is the retrofit of existing
+homes to minimum levels of energy efficiency, which must almost always begin with fabric
+improvements via insulation. Increasing energy prices and energy insecurity constitute an
+additional imperative for practical solutions. So far efforts have largely centred on easier
+measures such as cavity wall insulation. However, to fully realise an energy efficient building
+stock effort needs to concentrate on further measures, such as floor insulation which is
+currently neglected for numerous reasons ? primarily disruption to residents and pay-back
+periods in excess of 20 years.
+Substantial innovation is required in the development of floor insulation systems thereby
+allowing the per-dwelling cost reductions required to enable delivery at scale.
+SHS has developed two prototype designs which have the potential to make the insulation of
+suspended timber floors more affordable and less disruptive to residents.
+Early discussions with leading installers and a review of existing literature suggests that our
+proposed installation systems are technically feasible across a range of housing types and
+ages.
+However, our current assessment relies on certain market and technology assumptions. This
+study?s objective is to understand the floor insulation value chain, including alternative
+options, and produce a technology development plan prior to securing proof-of-concept
+funding</gtr:abstractText><gtr:fund><gtr:end>2015-06-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2015-02-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>24498</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700501</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -13,7 +13,7 @@ import time
 import logging
 
 DATASTORE = './data/'
-DATAFILENAME = 'gtrdata-clean-20180406.csv'
+DATAFILENAME = 'gtrdata-clean-20180419.csv'
 LOGGERLOCATION = "./log_combine_gtr_data.log"
 
 
@@ -37,7 +37,7 @@ def import_csv_to_df(filename):
     """
 
     return pd.read_csv(filename)
-   
+
 
 def export_to_csv(df, location, filename):
     """
@@ -50,7 +50,7 @@ def export_to_csv(df, location, filename):
 
 
 def prepare_df(df):
-    
+
     # Use the project ID as the index
     df.set_index('ProjectId', inplace=True)
 
@@ -61,7 +61,6 @@ def prepare_df(df):
 
 
 def drop_non_grants(df):
-
     """ Only want 'Research Grant' categories in the data, so this drops everything but
         them from the dataframe
     """
@@ -91,7 +90,7 @@ def populate_dataframe(df):
         """
         This was copied from Steve Crouch's training set collector repo:
         https://github.com/softwaresaved/training-set-collector
-    
+
         It's purpose is to retrieve and return a GtR XML document from a given URL source.
         """
 
@@ -146,6 +145,8 @@ def kill_the_spare(df):
     return(df)
 
 def main():
+    # TODO: run this across multiple sets of data to process, e.g.
+    #       all grants data from GtR, or just a subset
 
     start_time = time.time()
 
@@ -156,16 +157,18 @@ def main():
     df = prepare_df(df)
 
     # Remove anything that isn't a grant
-    df = drop_non_grants(df)
+    # TODO: verify we don't need this - this search is done
+    #       at an earlier stage during download
+    #df = drop_non_grants(df)
 
     df = populate_dataframe(df)
 
     df = kill_the_spare(df)
 
-    export_to_csv(df, DATASTORE, 'gtr_data_titles_and_abs')
+    export_to_csv(df, DATASTORE, 'gtr_data_titles_and_abs-all')
 
     execution_time = (time.time() - start_time)/60
-    
+
     logger.info('The program took ' + str(execution_time) + ' minutes to complete')
 
 

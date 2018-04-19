@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/920C4F0F-6740-4D03-B951-AF281EE4F161"><gtr:id>920C4F0F-6740-4D03-B951-AF281EE4F161</gtr:id><gtr:name>Ultromex Ltd</gtr:name><gtr:address><gtr:line1>Mersey Wharf Business Park,Dock Road South</gtr:line1><gtr:city>Wirral</gtr:city><gtr:postCode>CH62 4SF</gtr:postCode><gtr:region>North West</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/920C4F0F-6740-4D03-B951-AF281EE4F161" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>920C4F0F-6740-4D03-B951-AF281EE4F161</gtr:id><gtr:name>Ultromex Ltd</gtr:name><gtr:address><gtr:line1>Mersey Wharf Business Park,Dock Road South</gtr:line1><gtr:city>Wirral</gtr:city><gtr:postCode>CH62 4SF</gtr:postCode><gtr:region>North West</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>81847.0</gtr:offerGrant><gtr:projectCost>136411.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/4B8EE47C-9005-43B4-9BAE-EAB6F66844AA"><gtr:id>4B8EE47C-9005-43B4-9BAE-EAB6F66844AA</gtr:id><gtr:firstName>Paul</gtr:firstName><gtr:surname>Goodwin</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710459"><gtr:id>75E7507C-06EF-4883-ADA0-14BC2D3363E3</gtr:id><gtr:title>Proof of concept for a new process to recover metals from furnace slag &amp;amp; dross with a 90% energy saving</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710459</gtr:grantReference><gtr:abstractText>Slag is a by-product of metal smelting, and several 100,000 tonnes of it are produced every
+year in the process of refining metals and making alloys. Slag usually takes the form of a
+loose aggregate with lumps of varying size. Slag contains impurities from the metals, which
+float to the top during the smelting process. Also, slag forms a protective crust of non-metallic
+&amp;amp; metallic oxides on the surface, protecting the liquid metal underneath from oxidation.
+When smelting is complete, the slag is skimmed off and deposited in a slag heap to ?age?.
+Slag actually has many uses, and rarely goes to waste, but it is used in low value applications
+such as ballast in concrete and in aggregate road materials. However, slag retains significant
+amounts of metals, and these are sometimes recovered by re-melting the slag, but this is
+extremely expensive with a very high energy burden.
+Our idea is to use a novel technology to selectively break down the non-metallic components
+of slag from the metallic particles. This novel technology was originally developed to recycle
+waste glass and is relatively new, and has not been applied commercially to other materials.
+We have carried out some simple tests and the results indicate there is some degree of
+preferential reduction and separation of metal from non-metal particles.
+Further research will allow us to explore the novel process more closely, and we believe that
+with modifications the technology could be refined to treat a variety of different NFM slag
+materials very effectively and should significantly improve metal recovery from all slag. The
+metal recovery route will vary from material to material but almost any metal recovery from
+slag could be achieved using our concept process route.
+The benefits of the proposed process vs existing process are:
+? 90% saving in energy cost
+? Rapid local turnaround of material
+? 90% cut in the carbon footprint
+? Retain control of metal recovered.
+? Enable smelters to recover more metal</gtr:abstractText><gtr:fund><gtr:end>2015-02-28</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2014-02-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>81847</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710459</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/68D42105-A627-4065-AFD9-CB5228C49B1F"><gtr:id>68D42105-A627-4065-AFD9-CB5228C49B1F</gtr:id><gtr:name>Roli Ltd.</gtr:name><gtr:address><gtr:line1>2 Glebe Road</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>E8 4BD</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/68D42105-A627-4065-AFD9-CB5228C49B1F" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>68D42105-A627-4065-AFD9-CB5228C49B1F</gtr:id><gtr:name>Roli Ltd.</gtr:name><gtr:address><gtr:line1>2 Glebe Road</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>E8 4BD</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>97800.0</gtr:offerGrant><gtr:projectCost>163000.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710455"><gtr:id>819AD4DF-50D9-4646-9DA7-FBDE0AFB436B</gtr:id><gtr:title>Sensei-POC</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710455</gtr:grantReference><gtr:abstractText>There are nascent problems that face the future of ?located? HCI (peripherals devices that
+enable people to interact with non-mobile computing devices, like desktops and laptops). We
+will always want to benefit from the larger screens and greater computing power that located
+computers enable. But located HCI has seen far less innovation than mobile HCI, and the
+innovation we have seen has serious limitations.
+Sensei is a new concept in physical interface design, a new kind of physical input device for
+personal computers which integrates tactile and spatial data to create a new set of user
+interaction possibilities. The product will be a fusion of the interaction concept behind our
+music hardware Seaboard product and the motion-control paradigm of Leap Motion- or Kinectstyle
+controllers.
+ROLI is a technology start-up whose initial focus has been music hardware. We are
+undertaking the Sensei project because it directly aligns with our primary mission, which is to
+empower people through intuitive technology. What this means in more practical terms is that
+we invent, design and build products and technologies ? both hardware and software ? whose
+stated aim is to increase the bandwidth of interaction between human ingenuity and the digital
+frontier. Our proprietary SEA Interface technology is a disruptive platform hardware
+innovation that enables high resolution pressure sensors to be embedded in any form factor
+and enables groundbreaking interactive device applications in a wide range of industries.
+Sensei is a novel application of the SEA Interface that is intended as an improvement over
+existing desktop peripherals. Development of Sensei not only plays to ROLI?s strengths,
+utilising our design and engineering expertise, it also helps us fulfil our primary company
+mission.
+The purpose of this project is to create a proof-of-concept prototype demonstrating the core
+functionality of the Sensei concept over the course of 9 months.</gtr:abstractText><gtr:fund><gtr:end>2016-08-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2015-12-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>97800</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710455</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

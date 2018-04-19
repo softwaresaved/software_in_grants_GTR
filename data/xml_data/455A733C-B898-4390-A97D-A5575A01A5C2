@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/72528D06-E6D8-4D35-95A4-2F148C6702C4"><gtr:id>72528D06-E6D8-4D35-95A4-2F148C6702C4</gtr:id><gtr:name>Sfh Oxford Limited</gtr:name><gtr:address><gtr:line1>Critchleys Accountants Greyfriars Court,Paradise Square</gtr:line1><gtr:city>Oxford</gtr:city><gtr:postCode>OX1 1BE</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/72528D06-E6D8-4D35-95A4-2F148C6702C4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>72528D06-E6D8-4D35-95A4-2F148C6702C4</gtr:id><gtr:name>Sfh Oxford Limited</gtr:name><gtr:address><gtr:line1>Critchleys Accountants Greyfriars Court,Paradise Square</gtr:line1><gtr:city>Oxford</gtr:city><gtr:postCode>OX1 1BE</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>90153.0</gtr:offerGrant><gtr:projectCost>150256.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/A232E354-7155-42BE-94EA-947529415055"><gtr:id>A232E354-7155-42BE-94EA-947529415055</gtr:id><gtr:firstName>Grants</gtr:firstName><gtr:surname>Team</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710014"><gtr:id>455A733C-B898-4390-A97D-A5575A01A5C2</gtr:id><gtr:title>Next Generation Pressure Sensor for Leg Ulcer Treatment</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710014</gtr:grantReference><gtr:abstractText>Leg ulcers are a common, chronic, recurring condition and a major cause of morbidity, pain
+and health service cost. More than 600,000 people within the UK suffer from leg ulcers at any
+one time, with prevalence increasing with age.
+Leg ulceration is most commonly caused by venous hypertension resulting from valvular
+incompetence in the superficial, deep, or perforating veins. Sustained venous hypertension
+causes swelling, restricted blood flow and damage to the skin and other tissues. Most ulcers
+are associated with venous disease, but other contributing factors include immobility, obesity,
+trauma, arterial disease and diabetes.
+The management of leg ulcers represents a significant clinical challenge and a major drain on
+financial resources. In the UK, the treatment of venous leg ulceration represents a total cost to
+the NHS of nearly &amp;pound;600m a year. Much of this cost is accounted for by community nursing
+services with district nurses spending up to half of their time caring for ulcer patients. The
+personal cost to each individual with ulceration, is however un-measurable.
+Compression is the standard therapy for the treatment of venous leg ulcers. Sustained
+graduated compression controls oedema and supports venous blood flow back to the heart.
+The most effective level of compression to overcome venous hypertension has been
+determined to be around 40 mm Hg at the ankle and 15 mm Hg below the knee. Of the range
+of bandages currently used for leg ulcer treatment, multiple layer compression bandages
+specifically designed to produce predetermined levels of compression are classified as the best
+current solution.
+Despite such measures, surveys of reported practice of leg ulcer care have demonstrated that
+practice often falls short of that which is ideal with much related to the training and
+experience of the practitioner. A study delivered by 3M (Schuren &amp;amp; Mohr 2008) involving the
+application of 744 compression bandages indicated that sufficient graduated compression was
+observed in only 53 applications (92% failure).
+In addition to patient discomfort, poor management of leg ulcers increases healing time and
+accelerates re-ulceration rates, leading to additional costs in treatment.
+Through the current project, SFH aim to address the need for improved accuracy in
+compression therapy. Their unique ?pressure sensor? technology (patent applied for) will
+enable the optimum levels of graduated compression to be reached with 100% accuracy,
+thereby increasing rates of healing and improving recuperation. The technology will enable
+qualified, but non-specialist nursing staff to apply appropriate levels of compression and by
+minimising the time taken to apply bandaging, will allow for cost reductions and greater
+patient throughput.
+The project aims to develop a basic prototype of the technology demonstrating the technical
+feasibility of the approach. If successful, further prototyping will ensue with market entry
+within 18 months.</gtr:abstractText><gtr:fund><gtr:end>2012-09-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2011-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>90153</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710014</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

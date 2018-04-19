@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/ABD996A4-5D46-463B-B4DD-FC8F1A445E9E"><gtr:id>ABD996A4-5D46-463B-B4DD-FC8F1A445E9E</gtr:id><gtr:name>H W Communications Limited</gtr:name><gtr:address><gtr:line1>Parkfield
+Greaves Road</gtr:line1><gtr:city>Lancaster</gtr:city><gtr:postCode>LA1 4TZ</gtr:postCode><gtr:region>North West</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/ABD996A4-5D46-463B-B4DD-FC8F1A445E9E" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>ABD996A4-5D46-463B-B4DD-FC8F1A445E9E</gtr:id><gtr:name>H W Communications Limited</gtr:name><gtr:address><gtr:line1>Parkfield
+Greaves Road</gtr:line1><gtr:city>Lancaster</gtr:city><gtr:postCode>LA1 4TZ</gtr:postCode><gtr:region>North West</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>99613.0</gtr:offerGrant><gtr:projectCost>166021.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710136"><gtr:id>F06ACDBA-4681-4619-9E7D-384612A7A04F</gtr:id><gtr:title>BrightWay - Making Smart Phones Smarter - via Automatic Context Classification</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710136</gtr:grantReference><gtr:abstractText>Each type of mobility used by a person from driving a car, travelling on a high speed train or
+walking in a shopping mall sets a framework of contextual relevance.
+BrightWay?s primary objective is a proof of concept for a first of a kind operationally robust
+solution using smartphones for the real time classification of a person?s mode of mobility
+(walking, running, cycling, car, bus, train and the Underground). A key target is to achieve
+95%+ accuracy in order to realise the anticipated economic, social and environmental impacts
+and benefits. Examples are: (1) reduced CO2 emissions via greater awareness by individuals
+and organisations of their mobility carbon footprint, (2) better contextual interpretation of
+people?s activity to provide information that has a high economic or social value to them in
+that context.
+Although BrightWay?s project scope is primarily concerned with classifying mobility modes
+and their environmental impact, its post project exploitation extends to the whole realm of
+location based services (LBS) in the consumer, corporate and social services sectors. The
+context aware features designed into the BrightWay platform along with its resource efficient
+implementation for smartphones will widen the potential base of LBS users. BrightWay will
+enable LBS service providers to personalise information for the right people at the right time
+in the right place. This benefit is especially relevant to mobile advertising.
+BrightWay will incorporate highly innovative techniques for real time classification of the
+modes of mobility as well as contextual features in the surrounding environment. A second
+project objective is to provide developers a tool to access the classification engine via an API.
+This will give the UK mobile services sector a head start in creating ?game changing? context
+based services (CBS) for a global marketplace in which the UK can become a centre of
+excellence.</gtr:abstractText><gtr:fund><gtr:end>2013-07-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2012-02-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>99613</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710136</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

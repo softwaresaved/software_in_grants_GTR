@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/EAAD4D43-BD15-432B-9385-2DBD0C65958D"><gtr:id>EAAD4D43-BD15-432B-9385-2DBD0C65958D</gtr:id><gtr:name>University of Bath</gtr:name><gtr:department>Electronic and Electrical Engineering</gtr:department><gtr:address><gtr:line1>University of Bath</gtr:line1><gtr:line2>Claverton Down</gtr:line2><gtr:line4>Bath</gtr:line4><gtr:line5>Avon</gtr:line5><gtr:postCode>BA2 7AY</gtr:postCode><gtr:region>South West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/EAAD4D43-BD15-432B-9385-2DBD0C65958D"><gtr:id>EAAD4D43-BD15-432B-9385-2DBD0C65958D</gtr:id><gtr:name>University of Bath</gtr:name><gtr:address><gtr:line1>University of Bath</gtr:line1><gtr:line2>Claverton Down</gtr:line2><gtr:line4>Bath</gtr:line4><gtr:line5>Avon</gtr:line5><gtr:postCode>BA2 7AY</gtr:postCode><gtr:region>South West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/9E5DFC84-BF00-4DE2-900F-B81B4F85775C"><gtr:id>9E5DFC84-BF00-4DE2-900F-B81B4F85775C</gtr:id><gtr:firstName>Furong</gtr:firstName><gtr:surname>Li</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/B34A4BBE-E516-45DF-9C36-E390A5492787"><gtr:id>B34A4BBE-E516-45DF-9C36-E390A5492787</gtr:id><gtr:firstName>Ran</gtr:firstName><gtr:surname>Li</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/52001384-605D-4DE4-85BB-817515D8844C"><gtr:id>52001384-605D-4DE4-85BB-817515D8844C</gtr:id><gtr:firstName>Simon</gtr:firstName><gtr:surname>Le Blond</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=EP%2FP030114%2F1"><gtr:id>555F0EDF-EA6A-4700-BE6C-8EDC51F6B1D6</gtr:id><gtr:title>Energy Management in Botswana and Sub Saharan Africa (EMBOSSA)</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/P030114/1</gtr:grantReference><gtr:abstractText>The nature of current Botswana electricity market can be summarized as: low security and high cost.
+
+Low security: the country sees an annual consumption around 3650 GWh, where at least 70% electricity is imported from
+South Africa. Such high dependency is a cause of great concern to the country's energy security, which is severely affected
+after the South Africa energy crisis in 2008. Coupled with its sole generation plant (Morupule) under refurbishment, the
+country is grappling with load shedding which occurs on a daily basis. Even with a well-documented load-shedding
+schedule in place, unexpected load shedding occurs when a locality's energy demand exceeds 50 MW. The industry
+productivity and household life quality are thus severely affected.
+
+High cost: Botswana has a population just over 2 million, 13.4% of which are living in extreme poverty (less than $1.25 per
+day), 30.6% in poverty and only 2.7% in urban areas. With a national average income less than &amp;pound;500 per household per
+month, household has to pay &amp;pound;30-100 electricity bills per month depending on the season, which accounts for
+approximately 13% of the total income.
+
+Swanbarton, a UK SME, will lead a consortium of University of Bath, University of Botswana Clean Energy Research
+Centre (CERC) and Yuasa Batteries UK in testing the technical and commercial feasibility of a system to support people in
+Sub-Saharan Africa and Southern Asia through the project of EMBOSSA. EMBOSSA will address this problem by enabling
+them to have a low-cost energy store sufficient to ensure constant lighting and mobile communications. The energy store
+will be capable of construction locally, mostly from recycled materials (including second-life car batteries and smartphones)
+and following designs which we will provide as open source, at prices affordable even for poor households. The energy
+store will be controlled by battery management software with an optimisation system embedded. It makes charge/discharge
+decisions based onhe electricity tariff, demand estimation and load shedding schedule. The idea is to charge the battery
+during off-peak times and discharge during peak-time or load shedding periods to: i) saving energy bills and ii) improving
+electricity security.
+
+The key innovations are:
+i) As the battery system is recycled, it delivers energy security at a price point that's an order of magnitude lower than
+comparable European and North American solutions.
+
+ii) It uses mobile communications technology to integrate the home system to the electricity supplier's systems so that the
+energy management system could optimize multiple objectives including energy cost, energy security and network
+congestion.
+
+iii) It improves the optimisation performance by integrating real-time load profile estimation from cloud data, which provides an accurate and dynamic understanding of household demand.
+
+This project will test the technical and commercial feasibility of such a system to support people in Sub-Saharan Africa. The
+system will help householders by ensuring that essential services are not interrupted by power cuts, and help them to
+reduce energy bills. It also helps electricity companies to make fewer power cuts at times of peak load and defer network
+investment.
+
+The recycled hardware will not only stimulate local recycling economy but also give redundant hardware containing toxic
+materials a second life and saved from landfill. A single kerosene lamp will generate a tonne of carbon over five years.
+EMBOSSA will also reduce air pollution by enabling local poor households by reducing the use of kerosene.</gtr:abstractText><gtr:potentialImpactText>The direct beneficiary of project EMBOSSA will be Swanbarton and other related UK industry, Botswana energy
+consumers and network operators.
+
+UK industry
+Current energy storage management system usually has three limitations: i) one single unified control system without
+considering the variance of customers behaviours and needs; ii) static load profiling without considering the variance over
+days; iii) high cost. These issues become particularly critical in Botswana and developing countries due to the wide range
+of customer social-eco status, uncertainty in customers' behaviours and low income. Our innovation in customer tailored
+optimisation and dynamic load profiling will boost the product development of Swanbarton and give it the business
+advantage in Botswana. Coupled with the novel recycled open-source hardware plan, this ambitious project becomes
+feasible and promising Successful project outcomes will stimulate an emerging buoyant market to the benefit of many other
+related energy companies, for example battery manufacturers. It will also boost the recycle economy and increase job
+opportunity in the UK.
+
+Botswana Economy benefits
+The product will reduce customer energy bills by charging at off-peak periods and discharging at peak times. Given the
+time-of-use reflect the network condition, our energy management system will effectively reduce network congestions and
+thus lower the risk of outage and defer network reinforcement. Also, the recycled hardware will stimulate the local recycling
+economy including used car battery and smartphones.
+
+Botswana Social benefits
+EMBOSSA will provide affordable energy management system to enhance energy security. As power outage occurs on a
+daily basis in many SSA countries, EMBOSSA will be able to maintain essential service during these periods. This will
+improve local education by giving children the light with which to study without interruption.
+EMOSSA will also enhance public health by enabling remote villages to use electricity lighting instead of toxic kerosene,
+paraffin or candles. Over 600 million people in Africa (91% population) do not have access to electricity. EMBOSSA could
+also provide power for essential activities in hospitals including emergency treatment, surgery and refrigeration of organs,
+vaccines and medication.
+EMBOSSA will also protect networks against demand surges at the end of load shedding periods. The tailored control will
+enable each type of customer to use electricity efficiently without compromising life quality. As 70% Botswana's energy is
+imported from South Africa, EMBOSSA will help the country towards energy independence, especially when the import isdisrupted.
+
+Botswana Environmental benefits
+In Botswana, 250000 tons of waste is generated annually; however, only 38% of this is properly disposed. EMBOSSA will
+give redundant hardware containing toxic materials a second life, saving it from landfill. A single kerosene lamp will
+generate a tonne of carbon over five years. EMBOSSA will also reduce air pollution by enabling local poor households by
+reducing the use of kerosene</gtr:potentialImpactText><gtr:fund><gtr:end>2018-04-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2017-05-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>101206</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication><gtr:id>7878F821-1C2D-417B-B81D-21A426AFF55F</gtr:id><gtr:title>A Shared Network Access Business Model for Distribution Networks</gtr:title><gtr:parentPublicationTitle>IEEE Transactions on Power Systems</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/59a1c4ef33847998a9a50ff958335bab"><gtr:id>59a1c4ef33847998a9a50ff958335bab</gtr:id><gtr:otherNames>Li R</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2018-01-01</gtr:date><gtr:outcomeId>5a9ab65e6aee19.26667498</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>28BE982D-E275-4D62-92F1-5BC026EFCBA0</gtr:id><gtr:title>A novel hierarchical contribution factor based model for distribution use-of-system charges</gtr:title><gtr:parentPublicationTitle>Applied Energy</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/051dea896965c11682564b739821a77d"><gtr:id>051dea896965c11682564b739821a77d</gtr:id><gtr:otherNames>Sharma A</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:issn>03062619</gtr:issn><gtr:outcomeId>5a9ab76c60a632.33274199</gtr:outcomeId></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">EP/P030114/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>F95121C7-7C31-40CE-BDBC-1E2BF025AEA6</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Energy</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>BE7CEC14-3FA2-49BC-89EE-062447C269C1</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Energy Efficiency</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>97AD4D1C-4499-4C7E-AF8A-FE9EFE56E306</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Energy Storage</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations><gtr:collaborator url="http://gtr.ukri.org:80/organisation/98832328-91A0-495B-94D6-9E0103C0BFF9"><gtr:id>98832328-91A0-495B-94D6-9E0103C0BFF9</gtr:id><gtr:name>Tata Limited UK</gtr:name></gtr:collaborator></gtr:collaborations><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/A0A585E0-6B0D-4643-A3A6-47943B4CBFEF"><gtr:id>A0A585E0-6B0D-4643-A3A6-47943B4CBFEF</gtr:id><gtr:name>University of Liverpool</gtr:name><gtr:department>Cultures, Languages and Area Studies</gtr:department><gtr:address><gtr:line1>Senate House</gtr:line1><gtr:line2>Abercromby Square</gtr:line2><gtr:line4>Liverpool</gtr:line4><gtr:postCode>L69 3BX</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/A0A585E0-6B0D-4643-A3A6-47943B4CBFEF"><gtr:id>A0A585E0-6B0D-4643-A3A6-47943B4CBFEF</gtr:id><gtr:name>University of Liverpool</gtr:name><gtr:address><gtr:line1>Senate House</gtr:line1><gtr:line2>Abercromby Square</gtr:line2><gtr:line4>Liverpool</gtr:line4><gtr:postCode>L69 3BX</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/98832328-91A0-495B-94D6-9E0103C0BFF9"><gtr:id>98832328-91A0-495B-94D6-9E0103C0BFF9</gtr:id><gtr:name>Tata Limited UK</gtr:name><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/FC7ECBF3-A230-4C9B-A762-3F84B732D649"><gtr:id>FC7ECBF3-A230-4C9B-A762-3F84B732D649</gtr:id><gtr:firstName>Kate</gtr:firstName><gtr:surname>Marsh</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/B8BD8E2E-6022-4A4B-93E3-1F243F7A985C"><gtr:id>B8BD8E2E-6022-4A4B-93E3-1F243F7A985C</gtr:id><gtr:firstName>Ian</gtr:firstName><gtr:surname>Magedera</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=AH%2FD001137%2F1"><gtr:id>A253D522-0EF8-4365-B4E3-E758D288FFFA</gtr:id><gtr:title>Peripheral Voices and European Colonialism: Representations of India in French Literature and Culture 1750-1962</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>AH/D001137/1</gtr:grantReference><gtr:abstractText>Between 1763 and 1947 five French colonies - 'la cendrillon des colonies fran&amp;ccedil;aises' [the Cinderella of the French colonies] - existed within the 'Jewel in the Crown' which was British India. This project assesses how the status of these &amp;Eacute;tablissements (colonies occupied but politically marginal) affects all French-language representations of India and Indian cultures in literary, historiographical and journalistic discourses.\n\nIts comparative, triangular methodology, questioning the colonizer versus the colonized binary which persists within colonial discourse analysis, constitutes a salutary model with which to study colonialization and colonialism, and a corrective to the still-prevalent misapprehension of much English-language postcolonial theory that India is an exclusively Anglophone space.</gtr:abstractText><gtr:fund><gtr:end>2011-06-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/1291772D-DFCE-493A-AEE7-24F7EEAFE0E9"><gtr:id>1291772D-DFCE-493A-AEE7-24F7EEAFE0E9</gtr:id><gtr:name>AHRC</gtr:name></gtr:funder><gtr:start>2006-09-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>194754</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs><gtr:artisticAndCreativeProductOutput><gtr:description>Dance performance, public lectures and fashion shows, hands-on art workshops for children aged 4 to 6</gtr:description><gtr:id>737355BC-462E-4875-9A26-FEF7D6C4CF32</gtr:id><gtr:impact>'L'Inde en France et la France en Inde: De Bombay &amp;agrave; Hardelot', A four-page feature article
+in Nouvelles de l'Inde, 403 (October-November 2011), 8-11. Nouvelles de l'Inde is the
+bulletin of the Embassy of India in France. The article co-opts the exhibition to comment on
+the longevity and depth of Franco-Indian relations.
+2. Four articles in the municipal magazine, Courrier de Neufch&amp;acirc;tel-Hardelot: (February 2011,
+p.12; March 2011, p.12; July 2011, cover and p.4; August 2011, p.9). The August 2011
+issue also contains a photograph of the exhibition site with visitors. These articles
+corroborate the benefits for Hardelot residents and for tourists visiting the resort of a
+themed programme of summer activities, of a new perspective gained about the resort's
+history, and of enhanced civic identity.
+3. Three articles in La Voix du Nord and La Semaine dans le Boulonnais, two regional
+newspapers with distribution across northern France:
+Impact case study (REF3b)
+Page 4
+(i) '&amp;Eacute;mouvant hommage aux militaires indiens morts en 1914 dans le Boulonnais' (this
+article corroborates the involvement of local officials (shown holding the cemetery record in
+the photograph), and news media in raising awareness of the presence of Indian war
+graves in the wider region);
+(ii) 'Exposition Tata: une pr&amp;eacute;sence indienne de renom &amp;agrave; Hardelot' (this article corroborates
+the importance of the Hardelotois' new perspective at a regional level);
+(iii) 'Une exposition pour f&amp;ecirc;ter les cinquante ans de pr&amp;eacute;sence de la famille Tata' (this article
+corroborates the importance at a regional level of the enhanced civic identity of the
+inhabitants of Hardelot).
+4. 'Tata!' A feature report on France 3 Television, 29 July 2011. France 3 has an audience of
+several million across northern France. Despite various requests, it has not been possible
+to access an archive copy of this item, although the President of the Hardelot Tourist Office
+can give a summary of its content. This television report corroborates the importance and
+interest of the new insights into the history of the resort at a supra-regional and national
+level.</gtr:impact><gtr:outcomeId>56e09577b3faf1.57897724</gtr:outcomeId><gtr:title>Programme of India Related Cultural Events in Hardelot, France</gtr:title><gtr:type>Performance (Music, Dance, Drama, etc)</gtr:type><gtr:url>http://www.lasemainedansleboulonnais.fr/actualite/Autour_de_Boulogne/Le_Boulonnais/2011/08/03/article_une_presence_indienne_de_renom_a_hardelo.shtml</gtr:url><gtr:yearFirstProvided>2011</gtr:yearFirstProvided></gtr:artisticAndCreativeProductOutput></gtr:artisticAndCreativeProductOutputs><gtr:collaborationOutputs><gtr:collaborationOutput><gtr:collaboratingOrganisation>Tata Limited UK</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>'From Bombay to Hardelot: the early history of Tata Group in France.' An open-air exhibition and summer programme of cultural events and their legacy for EU-India trade.</gtr:description><gtr:id>3C1A1CEA-4914-4251-9C32-D889DC67B49E</gtr:id><gtr:impact>Ian Magedera's research on French-Indian relations led to collaboration with the multinational Tata
+Group around a series of events linking the company's history and that of the French resort town of
+Hardelot. The research took place between 2008 and 2013. Impact activities began in 2011 and
+are ongoing. The project benefited Tata Group by providing material for use in public relations and
+in consciousness-raising among its large workforce. The citizens of Hardelot benefited from the
+promotion of tourism, a new perspective on their history, and enhanced civic identity. The research
+made leaders in industry and government aware of the history of Franco-Indian economic
+relations, and was accepted as offering a new point of reference for future business dialogue.</gtr:impact><gtr:outcomeId>56e092627ac953.31842037-1</gtr:outcomeId><gtr:partnerContribution>The activities detailed below enriched the cultural life of the population of Hardelot itself, of French
+and international visitors to the town, and of the employees of Tata Group. They enabled public
+exploration of a previously little-known connection between France and India, including the first
+case of an Indian company investing in France, prompting reflection on issues related to the future
+challenges of globalization in France.
+1. Major public exhibition
+The first and principal outcome of the collaboration was an exhibition displayed on a series of
+large-format all-weather panels (for confidentiality reasons this link is password-protected), 
+and sited along the primary pedestrian access route
+from the town centre to Hardelot Beach at the height of the summer season from 24 June to 24
+September 2011. Anticipating its importance for the town's prestige and future heritage tourism
+from India, the Mayor's office and the Hardelot Tourist Office allocated US$ 21,000 to support the
+events. TG matched this funding, in the interests of its company profile in France and Europe. The
+Tourist Office and the Mayor decided to make the exhibition the centrepiece of Hardelot's cultural
+offering throughout the summer of 2011, and all official events, from public lectures and fashion
+shows to hands-on art workshops for children aged 4 to 6, had an Indian theme that year. A full colour
+brochure publicising the exhibition and these events, and including all dates and times, was
+prepared by the Tourist Office. The opening ceremony on 29 July 2011 was attended by locals
+from Hardelot (some of whom live in the properties once owned by the Tatas), the Chief of Mission
+at the Indian Embassy in Paris, the Mayor of Hardelot, the regional Head of Tata Communications,
+and a chief archivist from TCA, Pune, India.
+In the event, some 14,000 visitors, both locals and tourists from other parts of France, Belgium, the
+Netherlands and the UK viewed the exhibition. It was also covered extensively in the media. The
+coverage included a feature on France 3 Television broadcast as part of the evening news bulletin
+on 29 July 2011. This included a short interview with Magedera and with locals expressing their
+attachment to their town's connection with India. Two locals testify to the fact that before the
+exhibition they did not know who the Tatas were, how many properties they owned in the town, or
+how important TG had become. In India, through a copyright exchange agreement, Tata Central
+Archives - India's oldest company archive and a key beneficiary - has been able to enhance its
+collections with the material from the exhibition and make it available to people in India.
+
+2. Public outreach and capacity building
+The research for this project also unearthed how, during the First World War, the British Indian
+Army set up a hospital in a Hardelot hotel to treat injured Indian soldiers (panel 11 of the exhibition
+was devoted to this period). Archival research done under Magedera's guidance in the UK by Dr
+William Leigh (a mature undergraduate student in History at the University of Liverpool), led to an
+illustrated public lecture on &amp;lt;&amp;lt; Les soldats indiens &amp;agrave; Hardelot pendant la Grande Guerre &amp;gt;&amp;gt;, delivered
+by Dr Leigh in Hardelot on 5 August 2011. This event was hosted in a municipal meeting room and
+attended by twenty-five Hardelotois and by members of the Conseil des sages, a group of senior
+business and public sector figures. A further demonstration of the exhibition's successful capacity
+building is that, through the involvement of local officials and news media, it raised awareness of
+the presence of First-World-War Indian war graves in the region during a commemoration visit to
+Hardelot by Commonwealth academics (from Australia, New Zealand, India and Canada), 15-16
+September 2011 (see Sources to corroborate the impact, below).
+3. Legacy impact in 2012: permanent display of exhibition panels
+In February 2012, Tata Communications (a multinational telecommunications infrastructure
+company with 7,700 staff and a revenue of US$ 2.6 billion in 2011) requested permission to
+reproduce fifteen of the exhibition panels for permanent display in the staff offices of their
+European headquarters in Neuilly-sur-Seine, near Paris. Fifty key personnel are employed at this
+site. This represents acknowledgement of the potential of the exhibition panels to support
+corporate identity in a multinational environment.
+4. Legacy impact in 2013: the exhibition contextualizes trade relations between Europe and
+India
+Magedera's research and its dissemination have opened up new channels for dialogue in
+international business by raising awareness of the history of interchanges between France and
+India. On 28 March 2013, the External Trade Commission of Brittany hosted a conference on TG,
+entitled Rencontre entre Inde et Bretagne, which emphasized France's role in TG's early
+internationalization. After viewing the exhibition panels in Hardelot, External Trade Commissioner
+Jean-Claude Breton chose the panels to form a physical centrepiece at the conference venue.
+Keynote speakers at the conference included Mr Anwar Hasan (the Head of Tata UK) and Mr B.
+Muthuraman (Vice Chairman of Tata Steel). Impact from this research is ongoing. Although outside
+the census period, it is important to note that the exhibition started a nationwide tour on 14
+September 2013 with a two-week display in Morlaix, Brittany, followed by a one-week display in
+Lorient, Brittany. It will subsequently visit Paris and Lille, and a number of other major centres to be
+confirmed.</gtr:partnerContribution><gtr:piContribution>Ian Magedera carried out all of the research detailed in this case study while in post at
+Liverpool. Tata Group (TG) is an Indian multinational enterprise founded in 1868. With its UK
+workforce of 45,000 at Jaguar Land Rover and other companies, TG is the largest foreign
+employer in this country, where it has been active since 1907. TG's first investments in Europe
+were made in Hardelot, around the time of the town's foundation in 1905 as a private resort on the
+Channel coast. The research which underpins this case study began in 2008, when the hitherto unexplored
+presence of Tata in Europe was revealed as a result of Magedera's research into the life of the
+Frenchwoman, Suzanne Bri&amp;egrave;re (1880-1923). She featured in a wider project on non-English
+European women ('Indian Videshini') who have attained positions of leadership in India since the
+1890s. This in turn developed out of an AHRC-funded study of Representations of India in French
+Literature and Culture that commenced in 2006 (item 1 in References to the research, below).
+Bri&amp;egrave;re's husband, R.D. Tata, was one of the four original partners of TG. With their family of five
+children, the Tatas played an active part in Hardelot between its foundation in 1905 and the start of
+the First World War in 1914. Magedera's initial research on Suzanne Bri&amp;egrave;re was carried out at Tata
+Central Archives (TCA) in Pune, India, in 2008. From December 2010, Magedera also made two
+research visits to Hardelot to evaluate local sources relating to TG.
+Among the materials found in India and France were postcards and other correspondence which
+threw light on the ways in which Suzanne Bri&amp;egrave;re negotiated her dual French-Indian identity in
+linguistic and cultural terms. This became the subject of a 2013 book chapter by Magedera (item 2
+in References to the research, below). A further significant finding arose from Magedera's
+examination both of property deeds relating to TG's investments and of the testimony of those who
+ran the Hardelot holding company. These indicate that investment by this branch of the Tata family
+in Hardelot extended beyond private interests to the purchase of commercial properties in the
+company's name in 1905, possibly the first case of inward investment into Europe by an Indian
+company. New insights into the dialogue between European culture and Indian industry emerged
+from exploration of the links between Hardelot and the automotive and aviation industries. Driving
+and flying were publicized as key leisure activities in Hardelot, and these became both personal
+passions and important business concerns of TG. The aviator-entrepreneur Louis Bl&amp;eacute;riot and his
+pilots landed their aeroplanes on the hard sand beach at low tide. Suzanne Bri&amp;egrave;re made her
+maiden flight in 1913 and her son spent his childhood among aeroplanes. In 1932, he founded 
+Tata Indian Airways, which became Air India in 1953. Not surprisingly, the concentration in
+Hardelot of prominent business families such as the Merciers (champagne), the Bl&amp;eacute;riots (aviation),
+and others representing manufacturing and textiles, meant that the resort functioned as a locus of
+technology transfer. More generally, this research contributed to the argument that Magedera
+developed in his book chapter (item 2 in References to the research, below), that Indian elites have
+maintained their position in the face of multiple challenges by strategically incorporating foreigners
+of a particular kind.</gtr:piContribution><gtr:sector>Private</gtr:sector><gtr:start>2008-01-01</gtr:start></gtr:collaborationOutput></gtr:collaborationOutputs><gtr:disseminationOutputs><gtr:disseminationOutput><gtr:description>Les Militaires indiens a Hardelot pendant la Grande Guerre</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:geographicReach>Local</gtr:geographicReach><gtr:id>1FFF8904-1355-4A6D-9B68-D1D44BC461A9</gtr:id><gtr:impact>The research for this project also unearthed how, during the First World War, the British Indian
+Army set up a hospital in a Hardelot hotel to treat injured Indian soldiers (panel 11 of the exhibition
+was devoted to this period). Archival research done under Magedera's guidance in the UK by Dr
+William Leigh (a mature undergraduate student in History at the University of Liverpool), led to an
+illustrated public lecture on &amp;lt;&amp;lt; Les soldats indiens &amp;agrave; Hardelot pendant la Grande Guerre &amp;gt;&amp;gt;, delivered
+by Dr Leigh in Hardelot on 5 August 2011. This event was hosted in a municipal meeting room and
+attended by twenty-five Hardelotois and by members of the Conseil des sages, a group of senior
+business and public sector figures. A further demonstration of the exhibition's successful capacity
+building is that, through the involvement of local officials and news media, it raised awareness of
+the presence of First-World-War Indian war graves in the region during a commemoration visit to
+Hardelot by Commonwealth academics (from Australia, New Zealand, India and Canada), 15-16
+September 2011 (see Sources to corroborate the impact, below)</gtr:impact><gtr:outcomeId>56e0971915e475.19215861</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Public/other audiences</gtr:primaryAudience><gtr:year>2011</gtr:year></gtr:disseminationOutput></gtr:disseminationOutputs><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs><gtr:impactSummaryOutput><gtr:description>Ian Magedera's research on French-Indian relations led to collaboration with the multinational Tata
+Group around a series of events linking the company's history and that of the French resort town of
+Hardelot. The research took place between 2008 and 2013. Impact activities began in 2011 and
+are ongoing. The project benefited Tata Group by providing material for use in public relations and
+in consciousness-raising among its large workforce. The citizens of Hardelot benefited from the
+promotion of tourism, a new perspective on their history, and enhanced civic identity. The research
+made leaders in industry and government aware of the history of Franco-Indian economic
+relations, and was accepted as offering a new point of reference for future business dialogue</gtr:description><gtr:firstYearOfImpact>2008</gtr:firstYearOfImpact><gtr:id>751937E6-A853-4100-A95C-0D5B2E1180B5</gtr:id><gtr:impactTypes><gtr:impactType>Cultural,Societal,Economic</gtr:impactType></gtr:impactTypes><gtr:outcomeId>56e09871102f87.53183940</gtr:outcomeId><gtr:sector>Communities and Social Services/Policy,Creative Economy,Digital/Communication/Information Technologies (including Software),Education,Leisure Activities, including Sports, Recreation and Tourism,Culture, Heritage, Museums and Collections</gtr:sector></gtr:impactSummaryOutput></gtr:impactSummaryOutputs><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>This award, the AHRC's first major award in the field of Francophone Postcolonial Studies and Comparative Colonial Studies on the triangular relation between France, India and Britain, has made significant and lasting contributions to the understanding of the role of the French presence in India from the mid-eighteenth century to the mid-twentieth century and its effect on late twentieth and contemporary twenty-first century relations between India and France and the UK. 
+
+First, in addition to the academic publications, the award surveyed the range and depth of French-language representations of India and how they were affected by the minor coloniser status of the French and British hegemony in S. Asia during the British Raj. The survey has borne a digital resource frenchbooksonindia.wordpress.com (and its predecessor sites) which has galvanized over 60 academic and non-academic volunteers from sixth-formers to professors to web designers and photographers around the world to find sources, to edit them and to provide original scholarly content such as summaries in French and English. French Books on India has the potential to become a new model for the critical and collaborative digital humanities.
+
+Second, the full extent of the French presence in India was established. Initially the project began with a hypothesis that the French were subaltern colonizers, colonized in some way by the British as the French exerted sovereignty over groups of Indians in the 507 square kilometres of territory that they controlled. The project established that they (and other European powers such as the Portuguese, Dutch and the Danes) should be considered as minor colonizers in India. The study of their contribution is as crucial to develop a complete history of India-Europe relations.
+
+Third, the research had unexpected, unplanned outcomesin the economic and cultural domain because it focused not only on cultural artefacts such as books, but also on people as go-betweens between two (France and India) or even three cultures (France, India and Britain). These impacts are detailed in the Narrative Impact Section.</gtr:description><gtr:exploitationPathways>Historians of India in India and in Europe and North America can use our conclusions and methods for the study of the other minor colonizers in India such as the Portuguese, the Danes and the Dutch. The full and complete understanding of the relations between India and Europe is essential for an emerging nation which is as important as India in global terms. This has been recognized by the British Council and by the establishment of the UK-India Education and Research Initiative and the University of Liverpool's own India Fellowships programme. Organizations such as the Indian Council for Historical Research have already recognized the importance of French-language source materials in the history of India, but there is more to that can be done.</gtr:exploitationPathways><gtr:id>5A9A99DD-D228-44CE-AC18-C096B588DA27</gtr:id><gtr:outcomeId>56e0a0030c7604.28126796</gtr:outcomeId><gtr:sectors><gtr:sector>Digital/Communication/Information Technologies (including Software),Education,Leisure Activities, including Sports, Recreation and Tourism,Culture, Heritage, Museums and Collections,Security and Diplomacy</gtr:sector></gtr:sectors><gtr:url>https://www.liverpool.ac.uk/modern-languages-and-cultures/research/french-books-on-india/</gtr:url></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication><gtr:id>E4CF521B-9D9D-460C-A283-EF4651CC72D2</gtr:id><gtr:title>Narratives of the French Empire: Fiction, Nostalgia, and Imperial Rivalries, 1784 to the Present.</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/cb15609e19c7d8a3583548e387a8dd50"><gtr:id>cb15609e19c7d8a3583548e387a8dd50</gtr:id><gtr:otherNames>Marsh K</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2013-01-01</gtr:date><gtr:isbn>978-0739176566</gtr:isbn><gtr:outcomeId>56e084dbe8fd55.36657305</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>3762BA41-4D25-442C-8D04-D027E2FA175E</gtr:id><gtr:title>French Books on India</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/39ebb57fd0890bb3eddd91a7a92bf300"><gtr:id>39ebb57fd0890bb3eddd91a7a92bf300</gtr:id><gtr:otherNames>Magedera I H</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2011-01-01</gtr:date><gtr:isbn>9780852619223</gtr:isbn><gtr:outcomeId>56e08e9f94e4f6.49006934</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>B3FF2C0A-6903-4C07-8441-202F0FADCCC5</gtr:id><gtr:title>History/Stories of India</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/cb15609e19c7d8a3583548e387a8dd50"><gtr:id>cb15609e19c7d8a3583548e387a8dd50</gtr:id><gtr:otherNames>Marsh K</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2009-01-01</gtr:date><gtr:isbn>0230-63709-4</gtr:isbn><gtr:outcomeId>56e08b4f8e0589.52398503</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>58725832-B4DA-4BFC-8EDC-2CB8BB626523</gtr:id><gtr:title>History/Stories of India</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/39ebb57fd0890bb3eddd91a7a92bf300"><gtr:id>39ebb57fd0890bb3eddd91a7a92bf300</gtr:id><gtr:otherNames>Magedera I H</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2009-01-01</gtr:date><gtr:isbn>0230-63709-4</gtr:isbn><gtr:outcomeId>56e08c35460156.84760687</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>F7A22992-CFE7-46DC-BDA4-E29EE74FFD17</gtr:id><gtr:title>Arrested Development: the Shape of &amp;quot;French India&amp;quot; after the Treaties of Paris of 1763 and 1814</gtr:title><gtr:parentPublicationTitle>Interventions: International Journal of Postcolonial Studies</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/39ebb57fd0890bb3eddd91a7a92bf300"><gtr:id>39ebb57fd0890bb3eddd91a7a92bf300</gtr:id><gtr:otherNames>Magedera I H</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2010-01-01</gtr:date><gtr:outcomeId>56e08977c18277.19112325</gtr:outcomeId></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">AH/D001137/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>062860E1-C81F-4028-9095-19A5E6455C70</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Languages &amp; Literature</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>EF860896-6A4B-4EF6-A42E-F78E49ED901F</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Post-Colonial Studies</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

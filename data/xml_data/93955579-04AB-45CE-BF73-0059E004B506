@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/86B4D2F1-90AE-414C-8AAF-C314956339A1"><gtr:id>86B4D2F1-90AE-414C-8AAF-C314956339A1</gtr:id><gtr:name>Barnard Microsystems Limited</gtr:name><gtr:address><gtr:line1>Brentmead House
+Britannia Road</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>N12 9RU</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/86B4D2F1-90AE-414C-8AAF-C314956339A1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>86B4D2F1-90AE-414C-8AAF-C314956339A1</gtr:id><gtr:name>Barnard Microsystems Limited</gtr:name><gtr:address><gtr:line1>Brentmead House
+Britannia Road</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>N12 9RU</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>98717.0</gtr:offerGrant><gtr:projectCost>164529.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/99771245-3199-4881-8A84-41FA4A188F70"><gtr:id>99771245-3199-4881-8A84-41FA4A188F70</gtr:id><gtr:firstName>Joseph</gtr:firstName><gtr:surname>Barnard</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710645"><gtr:id>93955579-04AB-45CE-BF73-0059E004B506</gtr:id><gtr:title>rpaDataMap = UASA II = Mapping multisensor data from Remotely Piloted Aircraft</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710645</gtr:grantReference><gtr:abstractText>We are developing Remotely Piloted Aircraft (RPA) for use throughout the world in
+scientific, commercial (oil and mineral exploration and oil pipeline monitoring) and state
+(border patrol and the management of disaster relief efforts) applications.
+The aim of this project is to demonstrate the feasibility of software using 3D computer game
+technology to process, integrate and display a stream of multi-sensor data from RPA in real
+time:
+? high-resolution (6kp x 4kp) digital and video (4K) cameras
+? thermal imaging (640p x 480p) camera
+? scanning LIDAR rangefinder
+? electromagnetic imaging sensor, capable of imaging through foliage and beneath the
+surface of the Earth
+? 3 axis precision magnetometer
+This 12 month Proof of Concept (?PoC?) project is a follow on from our UASA Proof of
+Market Project 700280, in which we confirmed the market for electromagnetic imaging from
+a RPA.
+In this &amp;quot;Big Data&amp;quot; application, the software will process data from sensors on airborne
+platforms, to automatically generate and update a 3D view of the terrain. The software will
+have Internet connectivity to enable the evolving 3D representation to be viewed in the same
+way as players in an online computer game monitor developments.
+To increase the market size, this software could also be used as 3D CAD software. One could
+create an object using a standard 3D CAD approach, such as extrusion of a 2D design, to
+create other objects. As players do in an online computer game, people could work together,
+from home, on the 3D design.
+The economic benefits will stem from the provision of managed services to the oil, gas and
+mineral exploration companies and from the sale of copies of the software for use in both
+civilian and in military applications. Societal benefits include contributing to environmental
+protection by the early detection of oil leaks using fuel-efficient RPA and furthering the
+search for natural resources.</gtr:abstractText><gtr:fund><gtr:end>2016-01-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2015-02-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>98717</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710645</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -5,6 +5,6 @@ __pycache__
 log_gtr_analysis.log
 
 # These are too large for GitHub
-data/gtr_data_titles_and_abs.csv
-output/final_df.csv
-output/only_grants_related_to_software.csv
+data/gtr_data_titles_and_abs*.csv
+output/*/final_df.csv
+output/*/only_grants_related_to_software.csv

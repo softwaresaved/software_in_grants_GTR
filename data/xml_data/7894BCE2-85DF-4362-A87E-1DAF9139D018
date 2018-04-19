@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/5A540626-A11A-4C0F-A62B-9C8D68DA58BF"><gtr:id>5A540626-A11A-4C0F-A62B-9C8D68DA58BF</gtr:id><gtr:name>Mix360 Ltd</gtr:name><gtr:address><gtr:line1>15 MANOR WAY , EGHAM</gtr:line1><gtr:city>SURREY</gtr:city><gtr:postCode>TW20 9NQ</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/5A540626-A11A-4C0F-A62B-9C8D68DA58BF" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>5A540626-A11A-4C0F-A62B-9C8D68DA58BF</gtr:id><gtr:name>Mix360 Ltd</gtr:name><gtr:address><gtr:line1>15 MANOR WAY , EGHAM</gtr:line1><gtr:city>SURREY</gtr:city><gtr:postCode>TW20 9NQ</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>11130.0</gtr:offerGrant><gtr:projectCost>18646.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/353C591D-0A85-4837-9240-81ABEBD2A659"><gtr:id>353C591D-0A85-4837-9240-81ABEBD2A659</gtr:id><gtr:firstName>Toby</gtr:firstName><gtr:surname>Hart</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700510"><gtr:id>7894BCE2-85DF-4362-A87E-1DAF9139D018</gtr:id><gtr:title>Pressure Ulcer Risk Reduction Tool for Out Patients after Spinal Injurues</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700510</gtr:grantReference><gtr:abstractText>Pressure ulcers are a huge problem for the NHS with 412,000 people in the UK likely to
+develop a pressure ulcer annually. The cost to the NHS of treatment is estimated at between
+&amp;pound;1.4 and 2.1 billion pa, most of which is nurse time. This excludes the cost of surgical
+intervention(1)
+These ulcers are caused by continued pressure on a part of the body where there is a bony
+prominence; spinal cord injury patients are at increased risk due to their lack of mobility and
+sensation.
+Spinal Research, the UK?s leading research charity in this field, documents that around 1000
+people in the UK suffer a spinal cord injury annually; they are primarily young adults, 80% of
+which are male.
+Our project addresses this issue by providing a diagnostic tool in an environment where one
+does not exist, which will be ?prescribed? to spinal cord injury outpatients enabling them to
+take a photographic record of their skin to identify areas that are at risk of infection. These
+images can then be used to trigger advice on preventative measures to help reduce the risk of
+ulcers, delivered via a mobile app.
+The app will contain structured advice on mitigating the risk of pressure ulcers and also
+aggregates a repository of anonymous evidence of ulcer development for further research to
+develop improved advice and techniques to reduce the risk still further.
+The delivery of data to consultants will be developed at a later stage taking into account the
+workflow needs of the consultants to help it seamlessly merge into their current practices and
+improve the effectiveness and efficiency of the solution.
+The project encompasses a software solution, a diagnostic process, a knowledge
+dissemination tool, service delivery improvement and a method for analysing effectiveness of
+current procedures. Initially we need to assess whether an app would be an effective delivery
+mechanism for the patient.
+(1)Bennett G. Dealey C. Posnett J. The cost of pressure ulcers in the UK. Age and Ageing vol.
+33 2004</gtr:abstractText><gtr:fund><gtr:end>2015-06-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2015-02-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>11130</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700510</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

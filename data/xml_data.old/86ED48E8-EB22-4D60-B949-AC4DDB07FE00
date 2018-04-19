@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/46B41008-0EB4-4E28-BBFB-E98366999EC5"><gtr:id>46B41008-0EB4-4E28-BBFB-E98366999EC5</gtr:id><gtr:name>Durham University</gtr:name><gtr:department>Physics</gtr:department><gtr:address><gtr:line1>Old Shire Hall</gtr:line1><gtr:line2>Old Elvet</gtr:line2><gtr:line4>Durham</gtr:line4><gtr:line5>County Durham</gtr:line5><gtr:postCode>DH1 3HP</gtr:postCode><gtr:region>North East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/46B41008-0EB4-4E28-BBFB-E98366999EC5"><gtr:id>46B41008-0EB4-4E28-BBFB-E98366999EC5</gtr:id><gtr:name>Durham University</gtr:name><gtr:address><gtr:line1>Old Shire Hall</gtr:line1><gtr:line2>Old Elvet</gtr:line2><gtr:line4>Durham</gtr:line4><gtr:line5>County Durham</gtr:line5><gtr:postCode>DH1 3HP</gtr:postCode><gtr:region>North East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/95F9753D-FEDE-4DEF-845E-614C14FA4486"><gtr:id>95F9753D-FEDE-4DEF-845E-614C14FA4486</gtr:id><gtr:firstName>Edward</gtr:firstName><gtr:otherNames>William</gtr:otherNames><gtr:surname>Glover</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/613D1425-8CFA-43DF-BB4B-D4D342038911"><gtr:id>613D1425-8CFA-43DF-BB4B-D4D342038911</gtr:id><gtr:firstName>Michael</gtr:firstName><gtr:surname>Spannowsky</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/7CE1DAA5-4A2E-45B4-A194-94583F9BED4D"><gtr:id>7CE1DAA5-4A2E-45B4-A194-94583F9BED4D</gtr:id><gtr:firstName>Simon</gtr:firstName><gtr:otherNames>David</gtr:otherNames><gtr:surname>Badger</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/36FD8AD2-C7A1-4CC5-B705-44AE9D5FAC3D"><gtr:id>36FD8AD2-C7A1-4CC5-B705-44AE9D5FAC3D</gtr:id><gtr:firstName>Silvia</gtr:firstName><gtr:surname>Pascoli</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/77F73A65-5DB0-459A-9826-EF4059486FED"><gtr:id>77F73A65-5DB0-459A-9826-EF4059486FED</gtr:id><gtr:firstName>Benjamin</gtr:firstName><gtr:surname>Pecjak</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/DAB9CC7F-E100-40AB-BD2C-7155597CD77F"><gtr:id>DAB9CC7F-E100-40AB-BD2C-7155597CD77F</gtr:id><gtr:firstName>Richard Keith</gtr:firstName><gtr:surname>Ellis</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/58752181-8C89-4259-99E5-A15C5F76E758"><gtr:id>58752181-8C89-4259-99E5-A15C5F76E758</gtr:id><gtr:firstName>Celine</gtr:firstName><gtr:surname>Boehm</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/64D575E2-FB52-4A54-B2AB-C62C85EE372D"><gtr:id>64D575E2-FB52-4A54-B2AB-C62C85EE372D</gtr:id><gtr:firstName>Alexander</gtr:firstName><gtr:surname>Lenz</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/D446DDD4-A00E-4867-B18B-454F5800E9D3"><gtr:id>D446DDD4-A00E-4867-B18B-454F5800E9D3</gtr:id><gtr:firstName>Jeppe</gtr:firstName><gtr:otherNames>Rosenkrantz</gtr:otherNames><gtr:surname>Andersen</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/C063F5E1-A037-48BE-A7EE-58469862E7A8"><gtr:id>C063F5E1-A037-48BE-A7EE-58469862E7A8</gtr:id><gtr:firstName>Fabrizio</gtr:firstName><gtr:surname>Caola</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/D3609CA5-406B-460A-B50C-5312AE8A5568"><gtr:id>D3609CA5-406B-460A-B50C-5312AE8A5568</gtr:id><gtr:firstName>Valentin</gtr:firstName><gtr:otherNames>V</gtr:otherNames><gtr:surname>Khoze</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/4F86BBDB-A545-45E4-9052-5CB96BFBEED5"><gtr:id>4F86BBDB-A545-45E4-9052-5CB96BFBEED5</gtr:id><gtr:firstName>Daniel</gtr:firstName><gtr:surname>Maitre</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/ECDF1225-3676-4362-A3D2-7825E34391CA"><gtr:id>ECDF1225-3676-4362-A3D2-7825E34391CA</gtr:id><gtr:firstName>Andrea</gtr:firstName><gtr:surname>Wulzer</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/BC7A9F7F-F24B-46C8-9340-CE5F373FF4A5"><gtr:id>BC7A9F7F-F24B-46C8-9340-CE5F373FF4A5</gtr:id><gtr:firstName>Frank</gtr:firstName><gtr:otherNames>Martin</gtr:otherNames><gtr:surname>Krauss</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/8D31AA3F-E5E9-46F6-B2CE-9B2EDC4CA05E"><gtr:id>8D31AA3F-E5E9-46F6-B2CE-9B2EDC4CA05E</gtr:id><gtr:firstName>Steve</gtr:firstName><gtr:surname>Abel</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/F17CDC33-79C5-4A9C-B5BE-577CD3BEEB6D"><gtr:id>F17CDC33-79C5-4A9C-B5BE-577CD3BEEB6D</gtr:id><gtr:firstName>David</gtr:firstName><gtr:otherNames>G.</gtr:otherNames><gtr:surname>Cerdeno</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=ST%2FP001246%2F1"><gtr:id>86ED48E8-EB22-4D60-B949-AC4DDB07FE00</gtr:id><gtr:title>Institute for Particle Physics Phenomenology, Oct 2018 - Sept 2020</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>ST/P001246/1</gtr:grantReference><gtr:abstractText>Particle physics research informs us about the nature of matter on
+very small scales. As we step down the length scales below the length
+scale of the atom, 10^(-10) meters, and past the length scale of the
+atomic nucleus, 10^(-15) meters, we enter the realm of particle
+physics. In this realm there are three well identified interactions.
+First, the strong interactions, which are responsible for the binding
+of quarks and gluons to produce protons, neutrons and other particles
+collectively called hadrons. Second, the electroweak interactions,
+responsible both for the radiation of photons (light) from matter and
+the radiation of the carriers of the weak force, the W and Z bosons,
+discovered at CERN in the 1983. Third, the interactions of the Higgs
+bosons. The Higgs boson was discovered at CERN in 2012.
+
+The interactions of all of these ingredients are controlled by a
+mathematical structure, known as the Standard Model (SM) gauge theory
+of electromagnetic, weak and strong interactions. This theory has so
+far withstood all the challenges posed by various accelerators, of
+which the latest and most energetic is the LHC. The SM is confirmed
+--- with the unification of electromagnetism and weak interactions
+proved and tested to one part per mille. Strong interaction effects
+have been tested to the per cent level. 
+
+The quarks, the ingredients of the hadrons, come in six different types
+which are referred to as flavours. Flavour phenomena have contributed
+as much as the gauge principle in shaping the overall structure of the
+SM and it is the existence of flavours that gives the SM its family
+and generation structure. In the quark sector the SM description of
+flavour phenomena and the CKM picture of mixing and CP violation is
+now verified at the few per cent level. In the lepton sector, the
+flavours of leptons are the electron, the muon and the tau and their
+associated neutrinos. The observation of neutrino oscillations, and
+the consequence that neutrinos have mass, calls for an extension of
+the SM. Detailed examination of the charged and neutral leptons is 
+of increasing importance.
+
+In 2015, the Large Hadron Collider (LHC) started to accelerate and
+collide protons at much higher energies than ever before, 13 TeV. The
+high energy reach of the LHC will allow the detailed study of the
+Higgs boson and exploration of TeV scale physics. However, the LHC
+experiments are significantly more complex than any previous particle
+physics experiment. Identifying the nature of physics at the TeV scale
+will require intense collaborative efforts between experimentalists
+and theorists. On the theoretical side, high-precision calculations of
+SM processes are needed to distinguish possible signals of new physics
+from SM backgrounds. Possible hints of new physics need to be compared
+with different models of physics beyond the SM in order to disentangle
+the underlying structure of TeV-scale physics. The IPPP has already
+established close connections with the UK and international
+experimental groups and is perfectly placed to help maximise the UK
+contribution to understanding the LHC data.
+
+Once the energy scale of new physics is identified, there will be a
+strong effort in planning and designing the next generation of
+particle physics experiments. The IPPP will continue its role in
+assessing the physics potential and the design of future accelerators.
+The next decade promises to be pivotal in our understanding of the
+microscopic world. The IPPP will address fundamental questions about
+electroweak symmetry breaking, the structure of space-time, flavour
+physics and CP violation, neutrinos and lepton-flavour violation, and
+how particle physics connects with astrophysics and cosmology.</gtr:abstractText><gtr:potentialImpactText>The excitement of basic science can have impact beyond the limits of
+Academia. In order to fulfil that promise the IPPP attaches great
+importance to publicizing its activities to the wider public, and in
+particular to raising the awareness of particle physics in
+schools. IPPP is also committed to equipping our PhD graduates and RAs
+with the necessary skills and experience for a rewarding career in
+academic or industrial research.
+
+Outreach
+--IPPP benefits from a full-time outreach officer, funded by the University
+
+--Our innovative outreach project Higgs to Hubble (https://www.dur.ac.uk/physics.outreach/)
+continues to have a positive impact by using our research to engage and enthuse school
+children, their teachers and the wider community and stimulate their interest.
+
+--Since 2012 IPPP has acted as host for a bi-annual residential Ogden Trust A2 Physics
+Symposium.
+
+--Our programme for the general public has provided a broad spectrum of talks through
+a variety of learned organisations, including the British Association, the Royal Insti-
+tution and the Institute of Physics, and through the many regional and nationally co-
+ordinated science festivals.
+
+--We also create original and relevant teaching resources based upon our research and
+use this material in workshops as part of Continuing Professional Development courses
+and training support sessions for teachers.
+
+--We also host an annual one day event for local teachers. A Day for Everyone Teaching
+Physics is designed to extend both specialist and non specialist teachers knowledge and
+understanding of physics and provide ideas for practical activities for the classroom.
+
+--In Autumn 2015, we initiated &amp;quot;Saturday Morning Physics&amp;quot;, an annual series of 6 public
+lectures primarily aimed at high-school students, with an audience of up to 50. 
+
+--For the past two years, we have organised a weekly one-hour Code Club at a local primary
+school based around python programming with a raspbery pi.
+
+Education &amp;amp; Training
+
+--We train our PhD graduates and RAs with the necessary skills and
+experience to allow them how to think independently and critically,
+and use analytic and computational skills to solve complex problems.
+
+--Together with our colleagues in the Department of Mathematical
+Sciences, we run a formal training programme in theoretical particle
+physics for PhD students (and also MSc students, via the MSc in
+Particle, Fields and Cosmology).
+
+--The main areas IPPP can contribute to training are in the close
+supervision in research projects that aid the development of a wide
+range of skills including advanced software development, abstract
+thought, high performance computing, as well as the capability of
+collaborative research both locally and internationally.</gtr:potentialImpactText><gtr:fund><gtr:end>2020-09-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/D7F4F462-0518-4784-908A-D12633C139B3"><gtr:id>D7F4F462-0518-4784-908A-D12633C139B3</gtr:id><gtr:name>STFC</gtr:name></gtr:funder><gtr:start>2018-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>2981782</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">ST/P001246/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>9C124926-5968-486F-9B51-CCEB6C4E9650</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Particle physics - theory</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>D1CFDBA8-6B0A-4F3B-A5BD-26C5EA182FA7</gtr:id><gtr:percentage>40</gtr:percentage><gtr:text>Phenomenology</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>87664074-78C7-4224-9F97-36D3F3EF0984</gtr:id><gtr:percentage>20</gtr:percentage><gtr:text>Quantum Field Theory</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>8B766AA4-78ED-447F-A6A6-7FE1A8DC4187</gtr:id><gtr:percentage>5</gtr:percentage><gtr:text>String Theory</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>9940145C-197A-4249-A190-A135B3FB0478</gtr:id><gtr:percentage>35</gtr:percentage><gtr:text>The Standard Model</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

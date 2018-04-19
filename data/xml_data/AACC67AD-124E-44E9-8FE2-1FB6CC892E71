@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/46387D84-F71E-4B7D-8C7D-9C288F113510"><gtr:id>46387D84-F71E-4B7D-8C7D-9C288F113510</gtr:id><gtr:name>Imperial College London</gtr:name><gtr:department>Dept of Computing</gtr:department><gtr:address><gtr:line1>South Kensington Campus</gtr:line1><gtr:line2>Exhibition Road</gtr:line2><gtr:line4>London</gtr:line4><gtr:postCode>SW7 2AZ</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/46387D84-F71E-4B7D-8C7D-9C288F113510"><gtr:id>46387D84-F71E-4B7D-8C7D-9C288F113510</gtr:id><gtr:name>Imperial College London</gtr:name><gtr:address><gtr:line1>South Kensington Campus</gtr:line1><gtr:line2>Exhibition Road</gtr:line2><gtr:line4>London</gtr:line4><gtr:postCode>SW7 2AZ</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>FELLOW</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/103A8DC6-57CA-41B0-AF1F-D4E73199B113"><gtr:id>103A8DC6-57CA-41B0-AF1F-D4E73199B113</gtr:id><gtr:name>nVIDIA</gtr:name><gtr:address><gtr:line1>2701 San Tomas Expressway</gtr:line1><gtr:postCode>95050</gtr:postCode><gtr:region>Outside UK</gtr:region><gtr:country>United States</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/FCFA1ED6-EF13-415A-8218-423DB19E9844"><gtr:id>FCFA1ED6-EF13-415A-8218-423DB19E9844</gtr:id><gtr:name>AMD Global</gtr:name><gtr:address><gtr:line1>One AMD Place</gtr:line1><gtr:line2>P.O. Box 3453</gtr:line2><gtr:postCode>94088-3453</gtr:postCode><gtr:region>Outside UK</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/60426BE9-3EA3-4382-9FF7-752EC3CE27BD"><gtr:id>60426BE9-3EA3-4382-9FF7-752EC3CE27BD</gtr:id><gtr:name>Imagination Technologies Ltd UK</gtr:name><gtr:address><gtr:line1>Imagination House</gtr:line1><gtr:line2>Home Park Estate</gtr:line2><gtr:postCode>WD4 8LZ</gtr:postCode><gtr:region>East of England</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/25488491-A8FF-454A-A39D-3C98E0C10823"><gtr:id>25488491-A8FF-454A-A39D-3C98E0C10823</gtr:id><gtr:name>INRIA Paris - Rocquencourt</gtr:name><gtr:address><gtr:line1>Domaine de Voluceau - Rocquencourt</gtr:line1><gtr:line2>B P 105</gtr:line2><gtr:line4>Le Chesnay</gtr:line4><gtr:line5>F-78153</gtr:line5><gtr:region>Outside UK</gtr:region><gtr:country>France</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/1850C875-CBFE-4487-AD7B-A5EA05A06BA3"><gtr:id>1850C875-CBFE-4487-AD7B-A5EA05A06BA3</gtr:id><gtr:name>ARM Ltd</gtr:name><gtr:address><gtr:line1>Central Building</gtr:line1><gtr:line2>110 Fulbourn Road</gtr:line2><gtr:line4>Cambridge</gtr:line4><gtr:postCode>CB1 9NJ</gtr:postCode><gtr:region>East of England</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/749528A8-4F65-41C4-8474-BBAA74D2ED37"><gtr:id>749528A8-4F65-41C4-8474-BBAA74D2ED37</gtr:id><gtr:firstName>Alastair</gtr:firstName><gtr:otherNames>Francis</gtr:otherNames><gtr:surname>Donaldson</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role><gtr:role><gtr:name>FELLOW</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=EP%2FN026314%2F1"><gtr:id>AACC67AD-124E-44E9-8FE2-1FB6CC892E71</gtr:id><gtr:title>Reliable Many-Core Programming</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Fellowship</gtr:grantCategory><gtr:grantReference>EP/N026314/1</gtr:grantReference><gtr:abstractText>The computational demands of modern computer applications make the
+pursuit of high performance more critical than ever, and mobile,
+battery-powered devices, as well as concerns related to climate
+change, require high performance to co-exist with energy-efficiency.
+Due to physical limits, the traditional means for improving hardware
+performance by increasing processor frequency now carries an
+unacceptably high energy cost. Advances in processor fabrication
+technology instead allow the construction of many-core processors,
+where hundreds or thousands of processing elements are placed on a
+single chip, promising high performance and energy-efficiency through
+sheer volume of processing elements.
+
+Many-core devices are present in practically all consumer devices,
+including smartphones and tablets. As a result, the general public in
+developed countries interact with many-core software daily. Many-core
+technology is also used to accelerate safety-critical software in
+domains such as medical imaging and autonomous vehicle navigation.
+
+It is thus important that many-core software should be reliable. This
+requires reliable software from programmers, but also a reliable
+&amp;quot;stack&amp;quot; to support this software, including compilers that allow
+software to execute on many-core devices, and the many-core devices
+themselves. Recent work on formal verification and testing by myself
+and other researchers has identified serious technical problems
+spanning the many-core stack. These problems undermine confidence in
+applications of many-core technology: defective many-core software
+could risk fatal accidents in critical domains, and impact negatively
+on users in other important application areas.
+
+My long-term vision is that the reliability of many-core programming
+can be transformed through breakthroughs in programming language
+specification, formal verification and test case generation, enabling
+automated tools to assist programmers and platform vendors in
+constructing reliable many-core applications and language
+implementations. The aim of this five-year Fellowship is to undertake
+foundational research to investigate a number of open problems whose
+solution is key to enabling this long-term vision.
+
+First, I seek to investigate whether it is possible to precisely
+express the intricacies of many-core programming language using formal
+mathematics, providing a rigorous basis on which software and language
+implementations can be constructed.
+
+Second, I aim to tackle several open problems that stand in the way of
+effective formal verification of many-core software, which would allow
+developers to obtain strong guarantees that such software will operate
+as required.
+
+Third, I will investigate raising this level of rigour beyond
+many-core languages. A growing trend is for applications to be written
+in relatively simple, high-level representations, and then
+automatically translated into high-performance many-core code. This
+translation process must preserve the meaning of programs; I will
+investigate methods for formally certifying that it does.
+
+Fourth, I will formulate new methods for testing many-core language
+implementations, exploiting the rigorous language definitions brought
+by my approach to enable high test coverage of subtle language
+features.
+
+Collectively, progress on these problems promises to enable a
+*high-assurance* many-core stack. I will demonstrate one instance of
+such a stack for the industry-standard OpenCL language and the PENCIL
+high-level language, showing that high-level PENCIL programs can be
+reliably compiled into rigorously-defined OpenCL, integrated with
+verified library components, and deployed on thoroughly tested
+implementations from many-core vendors.
+
+Partnership with four leading many-core technology vendors, AMD, ARM,
+Imagination Technologies and NVIDIA, provides excellent opportunities
+for the advances the Fellowship makes to have broad industrial impact.</gtr:abstractText><gtr:potentialImpactText>The project has a large set of potential beneficiaries. The ultimate
+beneficiaries of my long-term vision for reliable many-core
+programming are end-users of software that employs many-core
+acceleration. Because many-core hardware now ships with practically
+all desktop, laptop and mobile devices, society is starting to
+interact with many-core software on a daily basis. By leading to
+improvements in the robustness of this software, and the platforms on
+which it operates, my proposed project offers significant societal
+benefit. Many-core technology is increasingly employed in
+safety-critical contexts, for example it has found application in
+medical imaging, pedestrian detection, and autonomous navigation for
+self-driving cars. Reliability improvements in these areas offer to
+make society safer. The rise of many-core technology also presents
+new attack vectors that pose cyber-security and cyber-terrorism risks;
+the advanced reasoning techniques that my research will bring will
+allow many-core software to be rigorously engineered to defend against
+these threats.
+
+The fundamental advances made during the project will have long-term
+academic impact, yielding results that researchers in several fields
+can exploit. See the &amp;quot;Academic Beneficiaries&amp;quot; form for more details.
+
+My Fellowship has very high potential for industrial impact.
+Many-core platform vendors, including my project partners AMD, ARM,
+Imagination Technologies and NVIDIA and several other companies, will
+be able to exploit the Fellowship research to improve many-core
+language implementations, increasing their market value. There is
+potential for commercial exploitation of the research outcomes by tool
+providers, and the wide range of software developers who apply
+many-core acceleration in diverse domains will be able to build more
+reliable software using the advanced analyses the Fellowship will
+bring. All these stakeholders will benefit from the transformation in
+the rigour of many-core programming language design offered by my
+approach. Specifically, the 80+ industrial contributing members of
+the Khronos Group will be beneficiaries of improvements to OpenCL and
+related APIs that arise from the project. The large and growing
+market associated with many-core technology means that uptake by
+industry has the potential to lead to corresponding economic impact.
+
+Close collaboration with industry during the Fellowship will give rise
+to industrial impact on the Fellowship partners early during the
+five-year project, and my strong impact plans will help to broaden
+this impact to other industrial beneficiaries during the project
+lifetime, leading to widespread industrial adoption over a 5-10-year
+period. This widespread adoption has the potential to transform
+many-core programming, impacting on industrial practice in the long
+term and benefiting society for decades to come.</gtr:potentialImpactText><gtr:fund><gtr:end>2021-10-02</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2016-10-03</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>1005751</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication><gtr:id>97613FC6-0A16-4127-853F-3F9C7539C741</gtr:id><gtr:title>Automated testing of graphics shader compilers</gtr:title><gtr:parentPublicationTitle>Proceedings of the ACM on Programming Languages</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/4d31bd5c118828012549edcb29f8a90c"><gtr:id>4d31bd5c118828012549edcb29f8a90c</gtr:id><gtr:otherNames>Donaldson A</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a2fe939d58e25.61714572</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>3F3BF009-6F92-4DBB-9490-DFC069D0B772</gtr:id><gtr:title>Floating-point symbolic execution: A case study in N-version programming</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e4978195fea1c32640049e19f2787f86"><gtr:id>e4978195fea1c32640049e19f2787f86</gtr:id><gtr:otherNames>Liew D</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5aa7ef0c81fb18.08766601</gtr:outcomeId></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">EP/N026314/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>EB5F16BB-2772-4DDE-BD6C-3B7A6914B64C</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Info. &amp; commun. Technol.</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>76783275-A9F8-4B4E-B314-51363124259C</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Fundamentals of Computing</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

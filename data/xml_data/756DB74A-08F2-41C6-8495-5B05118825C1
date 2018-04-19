@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/4CF74281-F247-473A-9A3B-ED37A5C21C5F"><gtr:id>4CF74281-F247-473A-9A3B-ED37A5C21C5F</gtr:id><gtr:name>Xylostream Technology Limited</gtr:name><gtr:address><gtr:line1>2 VENTURE ROAD, SOUTHAMPTON SCIENCE PARK , CHILWORTH</gtr:line1><gtr:city>SOUTHAMPTON</gtr:city><gtr:postCode>SO16 7NP</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/4CF74281-F247-473A-9A3B-ED37A5C21C5F" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>4CF74281-F247-473A-9A3B-ED37A5C21C5F</gtr:id><gtr:name>Xylostream Technology Limited</gtr:name><gtr:address><gtr:line1>2 VENTURE ROAD, SOUTHAMPTON SCIENCE PARK , CHILWORTH</gtr:line1><gtr:city>SOUTHAMPTON</gtr:city><gtr:postCode>SO16 7NP</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>100008.0</gtr:offerGrant><gtr:projectCost>168876.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/F1F0CB3C-5D5D-4D49-82B1-23C889143178"><gtr:id>F1F0CB3C-5D5D-4D49-82B1-23C889143178</gtr:id><gtr:firstName>Adrian</gtr:firstName><gtr:surname>Bell</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710334"><gtr:id>756DB74A-08F2-41C6-8495-5B05118825C1</gtr:id><gtr:title>Xylostream UHD Proof of Concept (UHDPOC)</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710334</gtr:grantReference><gtr:abstractText>The Xylostream Ultra High Definition Proof of Concept project (UHDPOC) will confirm the
+performance benefits available from the new High Efficiency Video Coding (HEVC) standard
+approved in January 2013 in the application area of Ultra High Definition Television
+(UHDTV).
+Today?s High Definition (HD) TV channels require ~6 Mbit/s of network bandwidth using
+current H.264/MPEG-4 AVC compression technology for delivery to consumer devices at
+reasonable picture quality. The targeted benefit of HEVC is a 2:1 improvement in coding
+efficiency over AVC, especially for large format pictures, meaning HD can be delivered in
+~3Mbit/s.
+The new HEVC standard, soon to be called H.265, defines a complex toolset for video
+encoding, but not how to use it. The proposed project is focused on the R&amp;amp;D to realise a
+deployable algorithm for UHDTV applications from the HEVC toolset. This will be achieved
+through innovative algorithm development creating a step change in performance.
+This will have a dramatic impact on the TV delivery business, allowing HD channels to be
+delivered more cost-effectively and enabling growth in the number of HD channels. It will
+also aid the simultaneous delivery of several different TV programs over IP networks to
+multiple devices in the home and new TV services to mobile phones.
+In addition, HEVC is essential for enabling new services such as the latest UHDTV formats,
+which have about ?4k? pixels per line (specifically 3840 x 2160 lines), or 4 times the pixel
+density of today?s screens. Although UHD content is already being produced and UHDTV
+sets are available for sale in the UK, there is as yet no cost-effective means of delivering UHD
+content into the home.
+Without HEVC, UHDTV is unlikely to become an economic success. The UK media sector,
+which contributes ~10% to total UK exports, will be a primary beneficiary of a new global
+market in UHD content, and so insuring HEVC is suited to UHDTV delivery is critical to the
+UK media industry.</gtr:abstractText><gtr:fund><gtr:end>2014-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2013-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>100008</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710334</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

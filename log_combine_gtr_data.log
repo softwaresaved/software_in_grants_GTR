@@ -26,3 +26,19 @@
 2018-04-06 22:49:55,122 - __main__ - INFO - After restricting df to Research Grants only, the df has 43734 records
 2018-04-06 22:52:39,362 - __main__ - INFO - After removing blank titles or abstracts, the df has 43723 records
 2018-04-06 22:52:42,908 - __main__ - INFO - The program took 2.8052740971247356 minutes to complete
+2018-04-09 08:38:51,861 - __main__ - INFO - Importing data...
+2018-04-09 08:38:52,197 - __main__ - INFO - Imported df includes 43734 records
+2018-04-09 08:38:52,212 - __main__ - INFO - After restricting df to Research Grants only, the df has 43734 records
+2018-04-09 08:39:46,825 - __main__ - INFO - Importing data...
+2018-04-09 08:39:47,149 - __main__ - INFO - Imported df includes 43734 records
+2018-04-09 08:39:47,160 - __main__ - INFO - After restricting df to Research Grants only, the df has 43734 records
+2018-04-09 08:42:40,864 - __main__ - INFO - After removing blank titles or abstracts, the df has 43723 records
+2018-04-09 08:42:43,047 - __main__ - INFO - The program took 2.93704111178716 minutes to complete
+2018-04-19 11:19:11,783 - __main__ - INFO - Importing data...
+2018-04-19 11:19:12,411 - __main__ - INFO - Imported df includes 75106 records
+2018-04-19 11:19:12,428 - __main__ - INFO - After restricting df to Research Grants only, the df has 43734 records
+2018-04-19 11:21:31,172 - __main__ - INFO - After removing blank titles or abstracts, the df has 43723 records
+2018-04-19 11:21:33,715 - __main__ - INFO - The program took 2.3655264139175416 minutes to complete
+2018-04-19 11:42:11,391 - __main__ - INFO - Importing data...
+2018-04-19 11:47:42,641 - __main__ - INFO - After removing blank titles or abstracts, the df has 75092 records
+2018-04-19 11:47:46,116 - __main__ - INFO - The program took 5.578753781318665 minutes to complete

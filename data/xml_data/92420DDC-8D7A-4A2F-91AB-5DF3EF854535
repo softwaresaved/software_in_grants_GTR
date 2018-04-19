@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/CAEC654E-9108-480A-A031-B18B5E73E761"><gtr:id>CAEC654E-9108-480A-A031-B18B5E73E761</gtr:id><gtr:name>Alcove Limited</gtr:name><gtr:address><gtr:line1>44 WESTBRIDGE RD</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>SW11 3PW</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/CAEC654E-9108-480A-A031-B18B5E73E761" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>CAEC654E-9108-480A-A031-B18B5E73E761</gtr:id><gtr:name>Alcove Limited</gtr:name><gtr:address><gtr:line1>44 WESTBRIDGE RD</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>SW11 3PW</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>17710.0</gtr:offerGrant><gtr:projectCost>25300.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/3243B7F1-FDFF-4322-A888-A5F6E66AC815"><gtr:id>3243B7F1-FDFF-4322-A888-A5F6E66AC815</gtr:id><gtr:firstName>Alexandra</gtr:firstName><gtr:surname>Eavis</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=132657"><gtr:id>92420DDC-8D7A-4A2F-91AB-5DF3EF854535</gtr:id><gtr:title>Healthcare at home</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Feasibility Studies</gtr:grantCategory><gtr:grantReference>132657</gtr:grantReference><gtr:abstractText>Alcove is an Internet-of-Things-powered care ecosystem designed to keep older adults in their own
+
+homes, avoiding the need for costly residential care. Alcove repurposes modern consumer technology,
+
+from werables to wireless sensors, and wrappers it in a bespoke software layer, to create a customer
+
+experience which looks and feels like any other consumer app. Alcove helps better inform and connect
+
+older adults, their families and the formal care system, to better safeguard people and improve their
+
+quality of life. The HEALTHCARE AT HOME feasibility study is looking at the commercial viablity of a
+
+commercial roll out of this enabling technology in New Zealand including to those with dementia. It is a
+
+collaboration with Nurse Maude, a large homecare provider, and St.. John, New Zealand's largest telecare
+
+provider. It will provide all necessary prepartion for a large pilot with 90 older adults with dementia. This
+
+will provide the evidence on which to base a large commercial rollout, both to care providers and directly
+
+to consumers to help them better care for loved ones and reduce stress that they experience as caregivers.</gtr:abstractText><gtr:fund><gtr:end>2017-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2017-01-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>17710</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">132657</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

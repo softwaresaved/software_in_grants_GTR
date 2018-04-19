@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/64B994B2-E648-4F27-AA61-B94F18DBC740"><gtr:id>64B994B2-E648-4F27-AA61-B94F18DBC740</gtr:id><gtr:name>United Living (South) Limited</gtr:name><gtr:address><gtr:line1>MEDIA HOUSE , AZALEA DRIVE</gtr:line1><gtr:city>SWANLEY</gtr:city><gtr:postCode>BR8 8HU</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/64B994B2-E648-4F27-AA61-B94F18DBC740" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>64B994B2-E648-4F27-AA61-B94F18DBC740</gtr:id><gtr:name>United Living (South) Limited</gtr:name><gtr:address><gtr:line1>MEDIA HOUSE , AZALEA DRIVE</gtr:line1><gtr:city>SWANLEY</gtr:city><gtr:postCode>BR8 8HU</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>164409.0</gtr:offerGrant><gtr:projectCost>304912.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/27A9BB27-4758-4C9E-9673-6AEF865E84B0"><gtr:id>27A9BB27-4758-4C9E-9673-6AEF865E84B0</gtr:id><gtr:firstName>christopher</gtr:firstName><gtr:surname>cheshire</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=620051"><gtr:id>8CD508D5-E862-40B6-AF36-E2C77A751BBC</gtr:id><gtr:title>Whole House In-Situ Carbon &amp;amp; Energy Reduction Solution (WHISCERS)</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Collaborative R&amp;D</gtr:grantCategory><gtr:grantReference>620051</gtr:grantReference><gtr:abstractText>WHISCERS is a system for installing internal wall insulation with minimal mess, whilst the resident remains in the property. It involves measuring the walls in the property using a Laser device that enables fast and highly accurate measurement. Information is then sent electronically to a computer controlled off-site cutting machine that is rapid, precise and mess-free.
+The key success of WHISCERS? is that residents stay in occupation during the work, which brings the cost down considerably. Off-site cutting of the insulation panels reduces the mess and time spent in the home and it is much safer; it also minimises dust and wasted insulation materials. As the board is cut off-site it is particularly suitable to metropolitan/urban sites or sites where compound space is at a premium.
+The system has been installed in a few homes in London and we are now critically looking to scale up the installations to more and a wider variety of properties.
+This bid seeks funding to further develop and monitor WHISCERS in a variety of properties, in particular to test it in varying construction types, as found in different European countries.
+In summary
+?Traditional IWI install c&amp;pound;110m2 excl survey costs, WHISCERS is c&amp;pound;88m2 inclusive of all costs
+?Using Kooltherm K18 we can reduce the U Value from c1.9 to 0.3 in most cases of housing
+?Traditional install time for 2 bed flat 5-6 days, WHISCERS 2-3 days
+?Waste take back is c6% (recently measured) as opposed to c10% in traditional refurbishment
+?Resident energy bills can be reduced by c30% if they follow on site guidance to correctly heat and use their homes post install
+?Reduction in heat loss through walls of c40% are more than achievable
+?Saves home loss payments which could be as much as &amp;pound;4000 per install for the housing provider
+?Generates fewer complaints 95% satisfaction on most recent scheme
+?Payback is circa 14 years or less on the basic calculation and zero if you add in savings on statutory payments to residents for home loss and disturbance etc
+?Meets Target Zero aspiration strategy for Health and Safety
+?Easy to train new installers
+?Creates technical and manual jobs
+?Suitable for re-skilling existing trades
+?Would fit a training academy structure
+?Contributes to local economy through the energy savings it potentially creates (mini Stern impact aspirations)
+?Lends itself to creating a network of off site cutting facilities to reduce delivery road miles
+?An opportunity to bring people into permanent employment
+Improves poorly heated housing and therefore can increase residents health and life opportunities (we have a joint study with L B Camden about to start)
+?Laser total station survey skills can be transferred to new into work trainees
+?CAD drawings generate accurate install data
+?Data transfer to CNC cutter is seamless and removes extra drawing issues/confusion etc
+?Individual flats programmed for greater resident liaison
+?Board cuts maximised on CNC cutter to maximise board usage/reduce waste
+?Low waste all collected directly at the cutting factory
+?Cut to suit site conditions/facilitates easy rapid install
+?Up to 30% cost/time saving
+?Safe, safe, safe</gtr:abstractText><gtr:fund><gtr:end>2015-02-28</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2012-03-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>164409</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">620051</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

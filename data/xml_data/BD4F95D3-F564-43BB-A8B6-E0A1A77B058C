@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/F415F4EB-C855-4582-828A-30E574ABA791"><gtr:id>F415F4EB-C855-4582-828A-30E574ABA791</gtr:id><gtr:name>Novarix Limited</gtr:name><gtr:address><gtr:line1>The Core Business Centre
+Milton Hill
+Abingdon</gtr:line1><gtr:postCode>OX13 6AB</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/F415F4EB-C855-4582-828A-30E574ABA791" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>F415F4EB-C855-4582-828A-30E574ABA791</gtr:id><gtr:name>Novarix Limited</gtr:name><gtr:address><gtr:line1>The Core Business Centre
+Milton Hill
+Abingdon</gtr:line1><gtr:postCode>OX13 6AB</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>245000.0</gtr:offerGrant><gtr:projectCost>705848.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/E33151CD-582C-4369-BF47-C14717639C74"><gtr:id>E33151CD-582C-4369-BF47-C14717639C74</gtr:id><gtr:firstName>John</gtr:firstName><gtr:surname>Scott</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720135"><gtr:id>BD4F95D3-F564-43BB-A8B6-E0A1A77B058C</gtr:id><gtr:title>Novarix - Vein Visualisation Aid</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720135</gtr:grantReference><gtr:abstractText>One of the world?s most common medical procedures is a major source of infection risk and
+discomfort to patients. If it is not performed quickly it can lead to increased healthcare costs
+and extended treatment times. The procedure in question is the insertion of a cannula into a
+vein for the delivery of IV Therapy or to collect blood samples.
+An estimated 90% of all hospital admissions in the USA have a cannula inserted for drug
+administration, saline drips, blood sampling etc. with over 1bn cannulations performed
+annually worldwide. Finding good quality veins to cannulate in patients is often not
+straightforward and studies have shown that 1 in 4 patients require 3 or more attempts, with
+some having to endure 10 or more.
+Novarix is developing a hand-held viewing device that uses near infrared light to display a
+patient?s vascular structure. This patented device identifies difficult to find veins so that first
+stick success rate improves significantly and in so doing reduces costs, infection risks and
+treatment times. Proof of concept devices have been evaluated by hospitals and clinicians in
+the UK, France and Denmark and the response is characterised by the following quote:
+?The Novarix device proved to be excellent at locating peripheral veins and has benefited
+experienced nurses in my team. I think it will be a greater help for more inexperienced
+personnel ? - S Henneberg, Head of Dept of Anaesthesia, Rigshospitalet, Copenhagen
+Novarix believes that there is a substantial medical need and economic argument for the
+device which his exciting interest from a number of major medical device companies and
+distributors. In light of this positive validation of the device Novarix is now at a stage where a
+major upgrading of the existing unit is required before taking the device into manufacture and
+further evaluations. We are seeking funding to complete all development work before
+launching the product in 12 months? time.</gtr:abstractText><gtr:fund><gtr:end>2013-10-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2012-08-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>245000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720135</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/8C345504-A7B0-4D7E-B5FC-32C860CBE4D8"><gtr:id>8C345504-A7B0-4D7E-B5FC-32C860CBE4D8</gtr:id><gtr:name>Slipstream Engineering Design Limited</gtr:name><gtr:address><gtr:line1>11 Mercury Quays, Ashley Lane,</gtr:line1><gtr:city>Shipley,</gtr:city><gtr:postCode>BD17 7DB</gtr:postCode><gtr:region>Yorkshire and the Humber</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/8C345504-A7B0-4D7E-B5FC-32C860CBE4D8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>8C345504-A7B0-4D7E-B5FC-32C860CBE4D8</gtr:id><gtr:name>Slipstream Engineering Design Limited</gtr:name><gtr:address><gtr:line1>11 Mercury Quays, Ashley Lane,</gtr:line1><gtr:city>Shipley,</gtr:city><gtr:postCode>BD17 7DB</gtr:postCode><gtr:region>Yorkshire and the Humber</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>20946.0</gtr:offerGrant><gtr:projectCost>29922.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/B18FDA05-7BA8-4FE9-9FCF-94D15B4ED83A"><gtr:id>B18FDA05-7BA8-4FE9-9FCF-94D15B4ED83A</gtr:id><gtr:firstName>Sarah</gtr:firstName><gtr:surname>Gregory</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=132608"><gtr:id>83F7764A-735E-436E-A1E3-3F3F727F4883</gtr:id><gtr:title>Absolute Positioning By Radar</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Feasibility Studies</gtr:grantCategory><gtr:grantReference>132608</gtr:grantReference><gtr:abstractText>Accuracy of navigation at sea is essential for safety. Increasingly, the main method of navigation is through
+
+the use of satellite navigation. This technology is however prone to disruption, either intentionally or
+
+otherwise, due to low signal strengths and interference. Systems used with safety of life implications
+
+clearly need to be reliable and resilient. With this in mind, key organisations such as the International
+
+Association of Marine Aids to Navigation (IALA) and the International Maritime Organisation (IMO) have
+
+identified a need for a backup service for Positioning, Navigation, and Timing (PNT). Radar and enhanced
+
+radar becons (E-RACONs) have been cited as a viable back up system.
+
+Current RACON technology cannot provide absolute positioning information due to constraints in their
+
+accuracy as well as there poor performance in responding to new technology solid state radar. This study
+
+will seek to establish innovation partnerships to help facilite the development of a digital signal processor
+
+sub-system for an E-RACON demonstrator.</gtr:abstractText><gtr:fund><gtr:end>2017-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2016-12-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>20946</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">132608</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

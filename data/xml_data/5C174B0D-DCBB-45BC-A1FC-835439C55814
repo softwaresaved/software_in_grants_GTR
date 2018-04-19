@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/F3B4D4A3-CAA3-469E-AA28-8BA9B7519A33"><gtr:id>F3B4D4A3-CAA3-469E-AA28-8BA9B7519A33</gtr:id><gtr:name>Thecadcube Ltd</gtr:name><gtr:address><gtr:line1>16/1 SPRINGVALLEY GARDENS</gtr:line1><gtr:city>EDINBURGH</gtr:city><gtr:postCode>EH10 4QG</gtr:postCode><gtr:region>Scotland</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/F3B4D4A3-CAA3-469E-AA28-8BA9B7519A33" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>F3B4D4A3-CAA3-469E-AA28-8BA9B7519A33</gtr:id><gtr:name>Thecadcube Ltd</gtr:name><gtr:address><gtr:line1>16/1 SPRINGVALLEY GARDENS</gtr:line1><gtr:city>EDINBURGH</gtr:city><gtr:postCode>EH10 4QG</gtr:postCode><gtr:region>Scotland</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>2500.0</gtr:offerGrant><gtr:projectCost>4200.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700043"><gtr:id>5C174B0D-DCBB-45BC-A1FC-835439C55814</gtr:id><gtr:title>theCadCUBE 3D Catalogue Technology: Market Evaluation and Website development</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700043</gtr:grantReference><gtr:abstractText>theCadCUBE is a developing 3D catalogue technology service which will provide an online
+library of digital products available for download in various CAD formats. The objects will
+accurately and realistically represent the designs of independent manufacturers.
+theCadCUBE's innovative online service will provide a valuable tool for professionals and
+students across numerous design disciplines. It will also provide a unique, digital format of
+'Product Placement' for manufacturers to reach their target audience in new ways.
+In the current economic recession, efficiency is an extremely marketable characteristic for any
+business. This is particularly important within the design industry, with more pressure than
+ever to complete projects on time and within budget. theCadCUBE will speed up design
+projects whilst maintaining the high standards expected and incorporating real life
+manufacturer designed objects.
+For manufacturers, theCadCUBE will offer a unique and affordable form of advertising,
+taking advantage of the current 'buzz' around 'Product Placement'.
+The key to making theCadCUBE a success will be a study that will provide a thorough
+understanding of a range of topics and issues including the market drivers and opportunity,
+barriers and high-level feasibility. This study, combined with the development of a
+professional, stylish and functional website, will see theCadCUBE develop into a leading UK
+business.
+The main features of theCadCUBE include:
+? The option to freely download the CAD file of each object to be included within a
+larger design project
+? A unique advertising and product placement format will allow manufacturers to
+attract new customers within an international market
+? Dramatically improved efficiency for professionals throughout a variety of design
+disciplines
+? A 3D catalogue of products from leading manufacturers on one website, making them
+easily searchable</gtr:abstractText><gtr:fund><gtr:end>2012-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2011-12-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>2500</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700043</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/5BFB9036-9D16-4AB9-A9EF-097BB6FBD69A"><gtr:id>5BFB9036-9D16-4AB9-A9EF-097BB6FBD69A</gtr:id><gtr:name>Aston University</gtr:name><gtr:department>Sch of Languages and Social Sciences</gtr:department><gtr:address><gtr:line1>Aston Triangle</gtr:line1><gtr:line4>Birmingham</gtr:line4><gtr:postCode>B4 7ET</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/5BFB9036-9D16-4AB9-A9EF-097BB6FBD69A"><gtr:id>5BFB9036-9D16-4AB9-A9EF-097BB6FBD69A</gtr:id><gtr:name>Aston University</gtr:name><gtr:address><gtr:line1>Aston Triangle</gtr:line1><gtr:line4>Birmingham</gtr:line4><gtr:postCode>B4 7ET</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/02F2CF18-6FC9-45B5-852B-F74EDFCD5D05"><gtr:id>02F2CF18-6FC9-45B5-852B-F74EDFCD5D05</gtr:id><gtr:firstName>Timothy</gtr:firstName><gtr:otherNames>David</gtr:otherNames><gtr:surname>Grant</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/E30318E1-F29F-49C7-99F6-6D093AF44A5C"><gtr:id>E30318E1-F29F-49C7-99F6-6D093AF44A5C</gtr:id><gtr:firstName>Gertrud</gtr:firstName><gtr:surname>Reershemius</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/B1449B62-A3ED-4BBE-9246-CEB6D19BF36D"><gtr:id>B1449B62-A3ED-4BBE-9246-CEB6D19BF36D</gtr:id><gtr:firstName>Urszula</gtr:firstName><gtr:otherNames>Irena</gtr:otherNames><gtr:surname>Clark</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/C5751684-8DA4-4957-8370-40F9F71C741C"><gtr:id>C5751684-8DA4-4957-8370-40F9F71C741C</gtr:id><gtr:firstName>David</gtr:firstName><gtr:otherNames>John</gtr:otherNames><gtr:surname>Pollard</gtr:surname><gtr:roles><gtr:role><gtr:name>RESEARCHER</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/A5F49A06-ED14-4929-B479-F01E6C27DAE3"><gtr:id>A5F49A06-ED14-4929-B479-F01E6C27DAE3</gtr:id><gtr:firstName>Sarah</gtr:firstName><gtr:surname>Hayes</gtr:surname><gtr:orcidId>0000-0001-8633-0155</gtr:orcidId><gtr:roles><gtr:role><gtr:name>RESEARCHER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=ES%2FJ011975%2F1"><gtr:id>5671E480-43B9-412A-863B-1D2ACAB59B93</gtr:id><gtr:title>Curriculum Innovation: Integrating QM into undergraduate programmes in Linguistics in the School of Languages and Social Sciences, Aston University.</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>ES/J011975/1</gtr:grantReference><gtr:abstractText>&lt;p>This project designs, implement and evaluates a programme of quantitative methods teaching targeted at UG linguistics students. In many UK universities Linguistics/Applied Linguistics is taught as part of undergraduate programmes in English, English Language and Modern Foreign Languages and as a result QM teaching is not integral to curricula. With regard to QM linguistics students are different from other social science students such as psychologists or sociologists for example, because many will have given up maths based subjects at 16 and will not have studied maths beyond GCSE level. On the whole, colleagues in both EL and MFL shy away from incorporating QM into the curriculum and assessment of their modules, mainly because their own education and research have lacked QM. Thus, the fragile teaching base of QM in social science UG programmes as identified by MacInnes (2009:2), is virtually absent in UG programmes which contain modules in EL/MFL/Linguistics/Applied linguistics. However, increasingly, postgraduate and research students in these subjects want to apply QM methods to the analysis of data, with an ensuing skills gap.This project develops and evaluates teaching of QM to linguists based within their current taught modules and taking into account their prior knowledge and experience.&lt;/p></gtr:abstractText><gtr:potentialImpactText>The initial beneficiaries of this research are undergraduate students (UG) of linguistics, following programmes in English Language (EL) and MFL:German within the School of Languages and Social Sciences at Aston University. QM L&amp;amp;T materials will be integrated into the teaching and assessment of a designated number of modules at all three levels of the programmes. 
+
+In terms of disseminating the QM L&amp;amp;T materials to the academic community more widely, the Project Team propose writing a textbook: Quantitative Research Methods for Linguists with an accompanying website, with a publisher such as Routledge or Palgrave. The decision to disseminate the material in this way, rather than a website available more freely, is to maximise the website's sustainability beyond the life of the project and into the future. In addition, projects which already have freely available websites such as the Ge-Wiss The West Midlands English: Speech and Society, as part of their design, will have QM exercises linked specifically to them, and cross link to the text book companion website and others, such as the British Library's forthcoming Voices of the UK site. 
+
+Other impact activities planned as part of the project is to research the T&amp;amp;L impact of the QM materials, and to publish at least one article in a research led Learning and Teaching journal such as The International Journal of Learning and Teaching in Higher Education.
+
+In addition, the feasibility of establishing a Midlands Consortium of University teachers and lecturers in Linguistics to disseminate the work of the project will be explored as part of the project.</gtr:potentialImpactText><gtr:fund><gtr:end>2013-09-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/924BE15C-91F2-4AAD-941A-3F338324B6AE"><gtr:id>924BE15C-91F2-4AAD-941A-3F338324B6AE</gtr:id><gtr:name>ESRC</gtr:name></gtr:funder><gtr:start>2012-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>79864</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs><gtr:disseminationOutput><gtr:description>'Embedding quantitative methods in political sociology, race, ethnicity and migration'</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:id>3464023D-1C53-4A7C-88C8-16C7771AA34E</gtr:id><gtr:impact>We hosted this workshop as part of the Cardiff University WISERD unit ESRC RDI Teaching Quantitative Methods Workshop Series</gtr:impact><gtr:outcomeId>r-4705806928.4128092ab15c96</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme></gtr:disseminationOutput></gtr:disseminationOutputs><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs><gtr:impactSummaryOutput><gtr:description>Grant Reference: 
+ ES/J011975/1
+Investigator/s:
+ Tim Grant, Urszula Clark, Gertrud Reesshemius
+Project Title: 
+ Curriculum Innovation: Integrating QM into undergraduate programmes in Linguistics in the School of Languages and Social Sciences, Aston University.
+
+
+Description 
+
+Please include a short overview of the projects impacts (max 2000 characters with spaces).
+
+
+
+As designed this project's impacts were increased competence and confidence in QM methods for students of English Language linguistics and of German language. We have shown progress in both of these areas. Further to this we have had impact on the confidence and comet3ence for QM teaching of Aston University linguistics lecturing staff and to a lesser degree on linguistics lecturers at other institutions. 
+
+These impacts are detailed below.
+
+
+ 
+1. Scientific impact
+
+A Please summarise below the scientific impact(s) your project has had. [Max 2000 Characters with spaces]
+
+
+In our bid document our aims were to impact upon students and then staff of linguistics at Aston University and then staff and students in the wider community of UK linguistics. Our essential findings were that as the literature review predicted the competence and confidence in working with number and statistical methods amongst these groups was very low. We found that a programme for staff across the curricula was essential to raise student competence and confidence and that an embedded programme across the modular degree programmes was effective at raising abilities.
+
+
+
+B Please outline the findings and outputs from your project which have had the scientific impact(s) outlined in 1A. [Max 2000 Characters with spaces]
+
+In summary the direct findings of the project were that 
+i. There is a significant need to improve the confidence and competence in working with number and basic quantitative methods for students of English Language linguistics and of German language.
+ii. Embedded content-based QM learning is valuable and necessary. Separate, generic QM modules which do not refer to the student's primary interest in the specific topics of their discipline may have a role in reinforcing the embedded learning but otherwise have limited value.
+iii. The modular teaching system, which is standard across most UK universities, is antipathetical to delivering and maintaining a well-structured embedded QM curriculum. It is necessary to have authoritative programme-level oversight and design of QM content to ensure it is designed, introduced and remains present across the breadth of a programme. 
+iv. It is possible, and desirable, to teach quantitative methods away from computer laboratories. 
+In disciplines where the use of quantitative methods seems novel, or where traditional quantitative skills are in retreat and restricted to a limited number of teaching staff, then the importance of broad staff training in QM cannot be underestimated. Thus far the project team have produced two academic papers which describe the findings of the project and aime flso have presented at a number to academic QM audiences. (see section C)
+
+Papers
+? Grant, T., Clark, U., Grieve, J., Reershemius, G., Plappert, G., Pollard, D., Hayes, S. (in submission 2014) Integrating QM into undergraduate programmes in Linguistics and Modern Foreign Languages Teaching in Higher Education.
+
+? Pollard, D. &amp;amp; Reershemius, G. (accepted for publication ), Verstehen, was z&amp;auml;hlt. Ein Forschungsbericht &amp;uuml;ber quantitative Arbeitsformen im Linguistik- und Deutsch-als-Fremdsprache-Unterricht in Gro&amp;szlig;britannien. Deutsch als Fremdsprache.
+We have had a proposal for a text book accepted for publication and ar3e working on this book now. The book follows the prinicples of the project in that it teaches QM through a series of worked examples using real world linguistics problmes and data.
+ 
+
+
+C Please outline how these impacts were achieved. [Max 2000 Characters with spaces]
+
+
+As well as the two papers mentioned in Section A and the workshops run explicitly as part of the project we have attended a number of conference presenting and interacting with academic audiences with pedagogical QM interest.
+Event: Teaching Quantitative Methods Workshop 1 
+? Sarah Hayes, as a delegate
+? 27 March 2012
+? Royal Statistical Society, London
+? Organising institution: Cardiff University, Quantac, Wizerd
+
+Event: Quantitative Methods Workshop 2: Integrating Quantitative Methods in Substantive Social Science Modules: Social Inequalities and Stratification, Sociology of Education 
+? Sarah Hayes, as a delegate
+? 28 June 2012
+? Cardiff University
+
+Event: Teaching Quantiative methods 
+? Dr Tim Grant, Dr Urszula Clark, Professor Gertrud Reershemius, David Pollard, Sarah Hayes, Dr Gary Plappert, Dr Jack Grieve
+? 31 Jan 2013. 
+? Title of poster preswentation : Integrating quantitative methods into undergraduate programmes in linguistics.
+? Location: Royal Statistical Society. 
+
+Event: Teaching Quantitative Methods Workshop 4: 
+? Tim Grant &amp;amp; Urszula Clark as speakers, Sarah Hayes, as a delegate
+? 25 March 2013 
+? Title of papers &amp;quot;We need to talk about numbers. Introducing QM to the linguistics undergraduate&amp;quot;
+? Location: Aston University
+? Organising institution: Cardiff University, Quantac, Wizerd
+
+Event: Quantitative Methods Teaching and Pedagogy Conference 
+? Sarah Hayes
+? Title of paper: 'Significance beyond the numbers: assessing first year Sociology students'
+? 28 June 2013
+? Cardiff University, Quantac, Wizerd
+
+Event: Exploring developments in technology, blended learning and the integration of quantitative methods and substantive teaching 
+? Sarah Hayes
+? Title of paper: &amp;quot;Rewarding, challenging,.and at times even fun! Our reflections on weaving Quantitative Methods into substantive modules for Linguists&amp;quot;
+? 5 September 2013
+? Location: Sociology Dept, University of Surrey
+
+
+D Please outline who the findings and outputs outlined above had an impact upon. This can include specific academics/researchers through to broader academic groups. [Max 2000 Characters with spaces]
+
+
+We ran separate workshops within Aston University, first for Aston linguistics lecturing staff and then for different student groups. As a result of this work QM material has been introduced across modules in the linguistics curricula in English and MFL: German. The positive impact on QM skills and confidence was revealed by pre post questionnaire, by focus group and importantly by assessment outcome.
+
+In addition to this we ran a workshop for academics from the wider academic linguistics community attended by lecturing staff from other institutions. This had led to ongoing talks with two institutions who are exploring using the Aston model to embed QM teaching within their own curricula.
+
+Through the various academic events and conferences we have attended as part of the broader QMI funding stream we have influenced the other projects and the broader audiences who attended.
+
+
+
+2. Economic and societal impact
+
+A Please summarise below the economic and societal impact(s) your project has had. [Max 2000 Characters with spaces]
+
+Economic and societal impact is harder to measure in the shorter term for this project. 
+
+Our linguistics graduates will be more numerate with greater understanding of QM. We already have a single example of an English language linguistics graduate who achieved employment post graduation in a role which requires him to use his statistical skills and he is of the opinion that the QM learning encouraged him to take on a quantitative dissertation which in turn gave him the confidence to apply for this job. Although it is hard to extrapolate from this single example this is the nature of impact we are aiming to achieve and it is gratifying to have this even in this first year of graduates.
+
+
+
+B Please outline the findings and outputs from your project which have had the economic and societal impact(s) outlined in 2A. [Max 2000 Characters with spaces]
+
+
+In the project bid we predicted that there would be three sets of beneficiaries upon which we hoped to have impact. These were 
+i) Undergraduate students of English Language (EL) and MFL: German at Aston University;
+ ii) Undergraduate students of Linguistics in EL and MFL at other universities in the UK and beyond; 
+and iii) University lecturers, researchers and teachers in English and MFL Linguistics. 
+
+We can clearly identify that we have had positive impact upon all three groups. The Impact on both UG students at Aston and University lecturers at Aston were measured as part of the project and reported in the papers cited in 1A. 
+
+Dissemination to the broader audiences was carried out as detailed below in 2C and anecdotally we are aware of a further university in which our ideas and methods for QM teaching to English language students a have are being piloted in a further UK Higher Education Institution. Beyond this there have not yet been recordable impacts from our dissemination activities.
+
+
+C Please outline how these impacts were achieved. [Max 2000 Characters with spaces]
+
+
+As part of the QMI funding initiative we have attended a number of QMI events and disseminated our findings to other teachers of QM methods. 
+
+We also held our own events at Aston to encourage further changes to the curricula within Aston University's School of Languages and Social Sciences and then subsequently a workshop for lecturers of linguistics from other institutions. At least one attendee at this workshop has made curricula changes now impacting upon her students. 
+
+
+
+D Please outline who the findings and outputs outlined above had an impact upon. This can be at a broad societal level through to specific individuals or groups. [Max 2000 Characters with spaces]
+
+
+These were 
+i) Undergraduate students of English Language (EL) and MFL: German at Aston University;
+ii) Undergraduate students of Linguistics in EL and MFL at other universities in the UK and beyond; 
+and iii) University lecturers, researchers and teachers in English and MFL Linguistics. 
+
+
+
+
+ 
+3. Unexpected and potential future impacts
+A Unexpected Impacts
+Please note which, if any, of the impacts that your research has had were unexpected at the outset of the project, explaining where possible why you think this was the case. [Max 2000 Characters with spaces]
+
+The most notable unexpected impact was from the QM training offered to staff. 
+
+This training was designed to give language and linguistics lecturing staff enough confidence to embed QM materials into their undergraduate modules. Some of these staff who previously would have described themselves as purely qualitative researchers is now using quantitative methods in their own research outputs. For other staff previously employed as learning technologists, their new found quantitative methods knowledge has directly resulted in promotion and successful application for lecturing positions.
+
+
+B Potential Future Impacts
+If you have a clear idea of the impact your project is likely to have in the future please detail these below. [Max 2000 Characters with spaces]
+
+
+We would hope as the embedded curricula runs through the four year degree programmes to see greater and more sustained impact on the QM skills of our graduates. 
+
+
+
+4. Impact limitations 
+A Limited scientific impact
+Please state below any major scientific difficulties that have limited the scientific impact of your project. The statement should refer to an effect on impact rather than simply detail research difficulties or other project activity problems. [Max 2000 Characters with spaces]
+
+The project ran just for an eighteen month period and focussed principally on just one semester's teaching. This means that any improvement in student competence and confidence was likely to be slight but can be built on. The first year students who received the embedded QM syllabus will receive further reinforcement and new learning in their second year and this in turn will be built upon in their final year of learning. However, it is only by longitudinal evaluation of this cohort and following cohorts can the full impact of the project can be assessed. 
+
+
+B Limited economic and societal impact
+ESRC recognises that some of the research it funds will not have an economic or societal impact in the short term. Please explain briefly below if this is the case for your project, and refer to your grant application where relevant. [Max 2000 Characters with spaces]
+
+The problem of addressing QM deficit amongst language and linguistics students raises issues of short term research funding and short term institutional focus on the problem raises an issue about the longer term impact of the project on future cohorts of students and their QM competence and confidence. If impact is to be real and sustained longitudinal research following cohorts through a complete three year programme would be necessary and even longer funding to incentive institutions to persist with QM teaching will be necessary. 
+
+Although enthusiasm for QM teaching for Aston language and linguistics students remains strong, without persistent institutional focus is it highly likely that year-on-year minor changes at the module level will dilute the coherent programme of study which was designed and implemented and the long term impact of the project on future generations of students will be lost.
+Declarations
+Please read the statements below. Submitting this Impact Report confirms your agreement. 
+? This Impact Report is an accurate statement of the impacts of the research to date. All co-investigators named in the proposal to your Research Council or appointed subsequently have seen and approved the Report. 
+? Details of any subsequent activity, outputs and impacts will be recorded and added to the new output system which will replace the Research Outcomes System (ROS) from September 2014.
+
+Confidential Nominations 
+(not required for Seminar Series, Knowledge Exchange and Follow-On Funding grants)
+
+In this section, you are invited to nominate the following: 
+
+Nominated Rapporteurs: 
+At least two independent reviewers who will be able to evaluate your research. Individuals should not be based at the funded institute or be at the same institute as the Principal or Co-Investigators.
+
+Full name Email address Postal address Telephone
+Professor John Mcinnes
+ John.MacInnes@ed.ac.uk
+Sociology
+School of Social and Political Science
+University of Edinburgh
+5.05 Chrystal Macmillan Building
+15a George Square
+Edinburgh
+UK 
+
++44 (0)131 651 3867
+Dr Sin Yi Cheung CheungSY@cf.ac.uk 
+Cardiff School of Socail Sciences, 
+Cardiff University,
+Cardiff
+Wales
+CF10 3XQ
+UK +44 (0)29 208 75446
+
+Nominated Outputs:
+Two outputs which you would like to be considered in the evaluation of your research, where these are not available in electronic form, eight hard copies should be provided for circulation to the rapporteurs.
+
+Output type
+(eg journal article, book, newspaper article, conference proceedings, toolkit, online resource) Publication details
+(eg author name, title, date, publisher details, URL for an online resource)
+
+Journal article Pollard, D. &amp;amp; Reershemius, G. (accepted for publication ), Verstehen, was z&amp;auml;hlt. Ein Forschungsbericht &amp;uuml;ber quantitative Arbeitsformen im Linguistik- und Deutsch-als-Fremdsprache-Unterricht in Gro&amp;szlig;britannien. Deutsch als Fremdsprache.
+http://www.uni-leipzig.de/daf/
+
+Book proposal Electronic copy attached.</gtr:description><gtr:firstYearOfImpact>2012</gtr:firstYearOfImpact><gtr:id>94B86983-CFE5-41A7-BFFF-AA953939EF06</gtr:id><gtr:impactTypes><gtr:impactType>Policy &amp; public services</gtr:impactType></gtr:impactTypes><gtr:outcomeId>5448a29cd5d831.54927942</gtr:outcomeId><gtr:sector>Education</gtr:sector></gtr:impactSummaryOutput></gtr:impactSummaryOutputs><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication><gtr:id>1463E540-4DB8-46C4-9AE4-DB4EAE3F827C</gtr:id><gtr:title>Verstehen, was z&amp;auml;hlt. Ein Forschungsbericht &amp;uuml;ber quantitative Arbeitsformen im Linguistik- und Deutsch-als-Fremdsprache-Unterricht in Gro&amp;szlig;britannien.</gtr:title><gtr:parentPublicationTitle> Deutsch als Fremdsprache.</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/7abdcc0189f188e0b126c0cdad0f6a93"><gtr:id>7abdcc0189f188e0b126c0cdad0f6a93</gtr:id><gtr:otherNames>Pollard, D. &amp; Reershemius, G. (accepted for publication ),</gtr:otherNames></gtr:author></gtr:authors><gtr:outcomeId>5448a3956aa636.89370488</gtr:outcomeId></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">ES/J011975/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>B94A2498-60DA-4055-A957-686B6CB42654</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Linguistics</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>BC807E7B-C08E-46F6-9E44-E65554CFBA4B</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Applied Linguistics</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>15BC6F17-6453-42B4-836A-01286E6D8068</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Comput./Corpus Linguistics</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>670B21EC-383C-4A51-856D-14A82FAE3EC0</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Language Variation &amp; Change</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>2606D7FE-3D1B-4A58-B497-DB1B211EFF02</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Sociolinguistics</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

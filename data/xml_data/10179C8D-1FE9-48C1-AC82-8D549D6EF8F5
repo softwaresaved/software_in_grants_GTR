@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/46387D84-F71E-4B7D-8C7D-9C288F113510"><gtr:id>46387D84-F71E-4B7D-8C7D-9C288F113510</gtr:id><gtr:name>Imperial College London</gtr:name><gtr:department>Dept of Computing</gtr:department><gtr:address><gtr:line1>South Kensington Campus</gtr:line1><gtr:line2>Exhibition Road</gtr:line2><gtr:line4>London</gtr:line4><gtr:postCode>SW7 2AZ</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/46387D84-F71E-4B7D-8C7D-9C288F113510"><gtr:id>46387D84-F71E-4B7D-8C7D-9C288F113510</gtr:id><gtr:name>Imperial College London</gtr:name><gtr:address><gtr:line1>South Kensington Campus</gtr:line1><gtr:line2>Exhibition Road</gtr:line2><gtr:line4>London</gtr:line4><gtr:postCode>SW7 2AZ</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role><gtr:role><gtr:name>FELLOW</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/1572D092-45CE-486E-81F1-AF070B085B95"><gtr:id>1572D092-45CE-486E-81F1-AF070B085B95</gtr:id><gtr:firstName>David</gtr:firstName><gtr:otherNames>Anthony</gtr:otherNames><gtr:surname>Ham</gtr:surname><gtr:roles><gtr:role><gtr:name>FELLOW</gtr:name></gtr:role><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=NE%2FK008951%2F1"><gtr:id>10179C8D-1FE9-48C1-AC82-8D549D6EF8F5</gtr:id><gtr:title>Abstracting the environment: automating geoscientific simulation</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Fellowship</gtr:grantCategory><gtr:grantReference>NE/K008951/1</gtr:grantReference><gtr:abstractText>This project will deliver a revolutionary increase in the ability of
+geoscientists to implement computer simulations, especially for
+emerging parallel hardware, and to work with the results of simulations.
+
+Computer simulation of processes in the Earth system has become one of
+the key tools if science. In the atmosphere and ocean and from frozen
+ice sheets to the molten rock of the Earth's mantle, simulations of
+fluids and solids are ubiquitous and essential tools. These are
+critical processes: many of the world's largest computers are engaged
+in simulating them.
+
+The numerical methods used to produce these models are becoming
+rapidly more sophisticated. At the same time the emergence of
+massively parallel computer hardware presents the opportunity for
+unprecedented levels of resolution. However, the complexity of the
+numerics and the new hardware is such that it is becoming very
+difficult for researchers to write computer code which is correct,
+sufficiently high performance and sufficiently usable. Conventional
+software development essentially requires superhuman developers who
+are simultaneously geoscientists, mathematicians and computer
+scientists.
+
+In essence these difficulties occur because conventional computer code
+mixes the numerics and the parallel implementation. Instead, models
+could be developed by specifying the numerical methods in a high-level
+computer language similar to the maths, and the parallel
+implementation could be generated automatically. This would enable
+experts in numerical modelling to specify their algorithm, and arrive
+at correct, parallel code at a tiny fraction of current development
+costs. 
+
+This automatic generation of models is a reality today for scientists
+and engineers working on smaller-scale and simplified simulation
+problems. However the curvature of the earth, the extreme flatness of
+geophysical domains and the scale of the domains involved mean that
+geoscientists have additional needs which require deep changes in
+simulation code generation systems. I will extend code generation
+techniques to meet these special challenges, and therefore deliver
+automation to geoscientific model development.
+
+Much science does not just depend on simulating processes: it also
+depends on studying the sensitivity of systems, optimising inputs and
+parameters, stability analysis and error analysis. All of these
+processes require an adjoint model: essentially the gradient of the
+original simulation. Developing adjoint models is so complex that only
+the largest national centres can typically afford to develop
+them. Using code generation, I have already demonstrated that this can
+be made almost automatic for some types of model. I will extend this
+capability to other discretisations which are more common in the
+geosciences, and thereby put the powerful tool that adjoints are into
+the hands of the individual scientists and students who conduct much
+of the cutting edge geoscience.
+
+The largest simulations, particularly of the climate system, produce
+so much complex data that much important science occurs by studying
+the output of archived simulations. For large collections of data from
+many models, even the process of calculating statistics is labourious
+and error-prone. It is also currently impossible to verify if
+published data analyses are correctly calculated. I will extend the
+automated generation of simulation software to allow for an automated
+data query language. This make this form of data science far less 
+labour-intensive, will allow data science with properly published methods, 
+will reduce sources of error and will allow scientists to work effectively 
+with the massive data sets of the future.</gtr:abstractText><gtr:potentialImpactText>Commercial and public bodies simulating geoscientific problems
+=======================================
+
+This project will deliver ability to simulate complex geophysical 
+phenomena by using limited staff time to writing short pieces of code
+and automatically utilising modern parallel hardware. The automatic
+availability of adjoint models makes this capacity truly revolutionary.
+
+As a first example collegues at Imperial have worked with Tidal
+Generation Ltd., a UK tidal power generation company, to optimise the
+placement of tidal turbines to produce the maximal electrical
+power. Using the existing automatic generation capability, idealised
+cases are possible. This fellowship would enable realistic scenarios to
+be simulated. Making the best use of the UK's tidal resources would be
+of immense economic value.
+
+The ability to create automated and adjointed models enables the study
+of the sensitivity of environmental systems to parameters. A few
+examples:
+
+* Adjoint storm surge and flooding models would enable the
+Environment Agency to know which missing data would best improve
+forecasts. 
+
+* An adjoint coastal flow model would enable the effect of fish-farm
+proximity on productivity and disease propagation to be rigorously
+analysed. This could enable the calculation of per-farm optimal
+separation, rather than the current one size fits all approach.
+
+* Adjoint small-scale atmosphere models can be used by
+urban planners to understand the effect of traffic management measures 
+on local air quality.
+
+The Met Office weather and climate forecasting
+-----------------------------------------------------
+
+The Met Office is currently in the early stages of a total rebuild of
+their climate and weather forecasting systems, a project in which I am
+closely involved. The capability delivered by this fellowship will
+enable rapid prototyping of Met Office capability, and advances
+demonstrated here in aspects such as vertical structuring and
+automation of adjoints are likely to be taken up by that project. 
+Adjoint simulations is utterly critical to the data assimilation process 
+which makes the weather forecast accurate.
+
+Engineering simulations
+============== 
+
+The ability to automate simulations on large, high aspect ratio,
+curved domains is critical to the geosciences. However it will also
+enable the automation of simulation in a vast array of engineering
+contexts. Thin-walled structures are ubiquitous in engineering
+applications. Car and aircraft bodies, machine components, glass and plastic
+plates, all are shell-like structures critical to engineering
+performance and safety. 
+
+The extensions to automated modelling which enable simulation
+in columnar meshes on the sphere will also enable the automation of
+simulations on arbitrary curved, thin domains. Combined with the
+automated ability to conduct adjoint simulations, this will enable
+automated design optimisation to be employed by small, dynamic
+entrants into engineering fields, as well as massively reducing the
+cost of doing so by larger companies.
+
+Policy maker and public confidence in climate model analysis
+======================================
+
+The extension of the high-level simulation specification language UFL
+into an automated query language for large data sets will clearly
+benefit the scientists working with that data. However it will also
+enable those scientists to publish their methods in a far more precise
+and accurate way than is currently possible. The ability to be
+absolutely precise about how data was analysed and processed is
+critical if public and policy-maker confidence in climate science is
+to be maintained. Indeed, the Oxburgh Report on the Climate Research
+Unit at the University of East Anglia highlighted the need to devote
+more attention &amp;quot;to archiving data and algorithms and recording exactly
+what they did&amp;quot;. The outcome of this fellowship will enable scientiists
+to do the last of these.</gtr:potentialImpactText><gtr:fund><gtr:end>2018-08-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/8A03ED41-E67D-4F4A-B5DD-AAFB272B6471"><gtr:id>8A03ED41-E67D-4F4A-B5DD-AAFB272B6471</gtr:id><gtr:name>NERC</gtr:name></gtr:funder><gtr:start>2013-09-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>492313</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs><gtr:disseminationOutput><gtr:description>Firedrake Course at CNRS</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>841E8C64-2833-40AB-A6E2-2D002AC6A7CB</gtr:id><gtr:impact>The Firedrake team conducted a training course at CNRS in Paris teaching the Firedrake software stack to practitioners from various French institutions.</gtr:impact><gtr:outcomeId>58c667d641c172.79110994</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://calcul.math.cnrs.fr/spip.php?article274</gtr:url><gtr:year>2017</gtr:year></gtr:disseminationOutput></gtr:disseminationOutputs><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs><gtr:softwareAndTechnicalProductOutput><gtr:description>Firedrake is an automated system for the portable solution of partial differential equations using the finite element method (FEM). Firedrake enables users to employ a wide range of discretisations to an infinite variety of PDEs and employ either conventional CPUs or GPUs to obtain the solution.</gtr:description><gtr:id>1BA7FDF1-20E3-482B-8853-642BAD421726</gtr:id><gtr:impact>Firedrake is a principle test platform for the development of Gung Ho, the future UK Met Office dynamical core.</gtr:impact><gtr:outcomeId>545cc8d77af1f6.68823698</gtr:outcomeId><gtr:title>Firedrake</gtr:title><gtr:type>Software</gtr:type><gtr:url>http://www.firedrakeproject.org/</gtr:url><gtr:yearFirstProvided>2013</gtr:yearFirstProvided></gtr:softwareAndTechnicalProductOutput></gtr:softwareAndTechnicalProductOutputs><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication><gtr:id>38545A97-013A-42AB-A951-799A4B4D2F44</gtr:id><gtr:title>Scale-selective dissipation in energy-conserving finite-element schemes for two-dimensional turbulence</gtr:title><gtr:parentPublicationTitle>Quarterly Journal of the Royal Meteorological Society</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/12419ec548aa68c17303b2040245f64a"><gtr:id>12419ec548aa68c17303b2040245f64a</gtr:id><gtr:otherNames>Natale A</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a82cff0748ab1.91772469</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>7A82FE1B-19F5-46F3-BC9B-4962E976FB54</gtr:id><gtr:title>An Algorithm for the Optimization of Finite Element Integration Loops</gtr:title><gtr:parentPublicationTitle>ACM Transactions on Mathematical Software</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/3a2a827912216ea1731e83c938b423aa"><gtr:id>3a2a827912216ea1731e83c938b423aa</gtr:id><gtr:otherNames>Luporini F</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:issn>0098-3500</gtr:issn><gtr:outcomeId>5a350baa14a6a8.29425303</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>447426AF-78C7-4C87-B223-08F0BCE7F439</gtr:id><gtr:title>A Parallel Edge Orientation Algorithm for Quadrilateral Meshes</gtr:title><gtr:parentPublicationTitle>SIAM Journal on Scientific Computing</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/c91b5beb33049b30ef7c666348c19acd"><gtr:id>c91b5beb33049b30ef7c666348c19acd</gtr:id><gtr:otherNames>Homolya M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date><gtr:outcomeId>585d4c4cea7199.36107319</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>12B99BC5-8571-4511-9B60-25C80D84EBED</gtr:id><gtr:title>A structure-exploiting numbering algorithm for finite elements on
+extruded meshes, and its performance evaluation in Firedrake</gtr:title><gtr:parentPublicationTitle>Geoscientific Model Development</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/651ae5a0b562adccbd5f00c036e7cf45"><gtr:id>651ae5a0b562adccbd5f00c036e7cf45</gtr:id><gtr:otherNames>Bercea G</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date><gtr:issn>1991-959X</gtr:issn><gtr:outcomeId>5a350adc73f6d5.95016172</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>7C4C3FA4-34A6-42A5-82ED-21F56EF08E96</gtr:id><gtr:title>Cross-Loop Optimization of Arithmetic Intensity for Finite Element Local Assembly</gtr:title><gtr:parentPublicationTitle>ACM Transactions on Architecture and Code Optimization</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/3a2a827912216ea1731e83c938b423aa"><gtr:id>3a2a827912216ea1731e83c938b423aa</gtr:id><gtr:otherNames>Luporini F</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date><gtr:outcomeId>doi_55fa9da9d9cdd641</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>7CB3D222-A3B1-4C39-881A-0CD06C65C5F8</gtr:id><gtr:title>A numbering algorithm for finite elements on extruded meshes which avoids the unstructured mesh penalty</gtr:title><gtr:parentPublicationTitle>Geoscientific Model Development Discussions</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/651ae5a0b562adccbd5f00c036e7cf45"><gtr:id>651ae5a0b562adccbd5f00c036e7cf45</gtr:id><gtr:otherNames>Bercea G</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date><gtr:outcomeId>585d6cc76e58c1.96343242</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>8A02CB06-FAEF-4887-BA25-17091BA3B586</gtr:id><gtr:title>Automated Generation and Symbolic Manipulation of Tensor Product Finite Elements</gtr:title><gtr:parentPublicationTitle>SIAM Journal on Scientific Computing</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/d13d244b0cb8b5c6f67721a66bf071a3"><gtr:id>d13d244b0cb8b5c6f67721a66bf071a3</gtr:id><gtr:otherNames>McRae A</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date><gtr:outcomeId>585d6c1319b969.30149646</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>4A49FCB3-2A3D-4B01-901F-8F5909199D62</gtr:id><gtr:title>Thetis coastal ocean model: discontinuous Galerkin discretization for the three-dimensional hydrostatic equations</gtr:title><gtr:parentPublicationTitle>Geoscientific Model Development Discussions</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/3415a56b7d95d0c1b6eb66ad1bd2e58c"><gtr:id>3415a56b7d95d0c1b6eb66ad1bd2e58c</gtr:id><gtr:otherNames>K?rn? T</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2018-01-01</gtr:date><gtr:outcomeId>5a9960f65bf601.58730114</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>2C8F76C3-C37E-4E4B-AF6F-B1CF22EB8C53</gtr:id><gtr:title>Firedrake</gtr:title><gtr:parentPublicationTitle>ACM Transactions on Mathematical Software</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/2d36cc7195f179d83f9ee0994b0594a5"><gtr:id>2d36cc7195f179d83f9ee0994b0594a5</gtr:id><gtr:otherNames>Rathgeber F</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date><gtr:outcomeId>588b2239a13c65.80025433</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>A0058D01-2D9E-4078-956F-E26C3AF6AAC1</gtr:id><gtr:title>On-the-Fly Data Synopses</gtr:title><gtr:parentPublicationTitle>ACM SIGMOD Record</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/2569d6d756b3a374bc29ab6289f65b7f"><gtr:id>2569d6d756b3a374bc29ab6289f65b7f</gtr:id><gtr:otherNames>Heinis T</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date><gtr:outcomeId>5675f18866b7c</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>CFB5E3FD-C78C-414B-8C91-78A04270EE30</gtr:id><gtr:title>A Seamless Multilevel Ensemble Transform Particle Filter</gtr:title><gtr:parentPublicationTitle>SIAM Journal on Scientific Computing</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/f2576f87baae0cfc6caecaf1853e0e99"><gtr:id>f2576f87baae0cfc6caecaf1853e0e99</gtr:id><gtr:otherNames>Gregory A</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a82ceb449a0d8.60813249</gtr:outcomeId></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">NE/K008951/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>E4C03353-6311-43F9-9204-CFC2536D2017</gtr:id><gtr:percentage>15</gtr:percentage><gtr:text>Atmospheric phys. &amp; chemistry</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>EE4457DB-92A3-44EA-8D5F-77013CC107E0</gtr:id><gtr:percentage>15</gtr:percentage><gtr:text>Climate &amp; Climate Change</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>6E910789-6B8D-4B73-B5B0-F3156942B558</gtr:id><gtr:percentage>15</gtr:percentage><gtr:text>Geosciences</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>EB5F16BB-2772-4DDE-BD6C-3B7A6914B64C</gtr:id><gtr:percentage>40</gtr:percentage><gtr:text>Info. &amp; commun. Technol.</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>E05CFC1B-8264-49AB-8A54-E3A86F404707</gtr:id><gtr:percentage>15</gtr:percentage><gtr:text>Marine environments</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>EE4457DB-92A3-44EA-8D5F-77013CC107E0</gtr:id><gtr:percentage>15</gtr:percentage><gtr:text>Climate &amp; Climate Change</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>59CF5FB3-F46B-448B-AECF-47852750EF3C</gtr:id><gtr:percentage>15</gtr:percentage><gtr:text>Large Scale Dynamics/Transport</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>C6842010-EC71-44DF-B79C-64B1BA9B3BDE</gtr:id><gtr:percentage>15</gtr:percentage><gtr:text>Mantle &amp; Core Processes</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>723BA0F8-3ECD-4E2A-A39E-44936EAC1517</gtr:id><gtr:percentage>15</gtr:percentage><gtr:text>Ocean Circulation</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>E05CFE0B-163D-412D-A3C2-28E89B2CA336</gtr:id><gtr:percentage>40</gtr:percentage><gtr:text>Software Engineering</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/86B4D2F1-90AE-414C-8AAF-C314956339A1"><gtr:id>86B4D2F1-90AE-414C-8AAF-C314956339A1</gtr:id><gtr:name>Barnard Microsystems Limited</gtr:name><gtr:address><gtr:line1>Brentmead House
+Britannia Road</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>N12 9RU</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/86B4D2F1-90AE-414C-8AAF-C314956339A1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>86B4D2F1-90AE-414C-8AAF-C314956339A1</gtr:id><gtr:name>Barnard Microsystems Limited</gtr:name><gtr:address><gtr:line1>Brentmead House
+Britannia Road</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>N12 9RU</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>24000.0</gtr:offerGrant><gtr:projectCost>40000.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/99771245-3199-4881-8A84-41FA4A188F70"><gtr:id>99771245-3199-4881-8A84-41FA4A188F70</gtr:id><gtr:firstName>Joseph</gtr:firstName><gtr:surname>Barnard</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700136"><gtr:id>406DE50C-AAE8-44A4-9F0E-29D88A66092E</gtr:id><gtr:title>AGPI Sensor = Airborne Ground Penetrating Imaging Sensor</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700136</gtr:grantReference><gtr:abstractText>The aim of this 6 month Proof of Market project is to investigate the commercial feasibility of
+a sensor to image a 3D sub-surface structure from an aircraft, using either a frequency chirped,
+or an Ultra-Wideband Impulse radio signal, that is transmitted from an antenna mounted on
+each wing tip of an aircraft. This is analogous to the illumination of the underlying terrain
+using two searchlights, except that the signals pass through the underlying ground, to a depth
+depending on the conductivity of the soil, or ice, enabling the detection of sub-surface
+features. The reflected signals from dielectric discontinuities, such as rocks, are detected by
+two linear phase sensitive arrays of antennas, mounted on the underside of the wings.
+As the aircraft flies along, a 2D array of reflected signals is digitised and recorded for
+subsequent data processing. This is like performing an acoustic seismic survey but using an
+aircraft rather than a &amp;quot;vibroseis&amp;quot; truck, or a team of people carrying the seismic sensors, to
+achieve a far larger coverage per survey day, regardless of the harshness of the terrain.
+We will explore ways in which we could subsequently work with Dr Hugh Corr at the British
+Antarctic Survey (BAS), to enable the 3D profiling of the ice in the Antarctic, which can be
+up to 5 km in depth. In a follow on activity to this project, we would use our experience in
+microwave imaging and the BAS experience with a Ground Penetrating RADAR, to develop
+a prototype sensor and the associated data processing software.
+This sensor will find use in oil, gas and mineral exploration work, representing the business
+oriented aspect of this work. Societal benefits include contributing to measurements of
+melting ice in Antarctica and furthering the search for oil and minerals.
+The economic benefits will stem from sales of this sensor, which will be attached to the
+underside of the wings of our InView unmanned aircraft, for use in exploration work and in
+military applications.</gtr:abstractText><gtr:fund><gtr:end>2013-01-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2012-08-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>24000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700136</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

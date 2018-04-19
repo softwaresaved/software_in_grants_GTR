@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/F9C50AD7-5776-4409-9A85-E63AD58C9113"><gtr:id>F9C50AD7-5776-4409-9A85-E63AD58C9113</gtr:id><gtr:name>B G Research Limited</gtr:name><gtr:address><gtr:line1>BIOGENE HOUSE 6 THE BUSINESS CENTRE , HARVARD WAY</gtr:line1><gtr:city>KIMBOLTON</gtr:city><gtr:postCode>PE28 0NJ</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/F9C50AD7-5776-4409-9A85-E63AD58C9113" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>F9C50AD7-5776-4409-9A85-E63AD58C9113</gtr:id><gtr:name>B G Research Limited</gtr:name><gtr:address><gtr:line1>BIOGENE HOUSE 6 THE BUSINESS CENTRE , HARVARD WAY</gtr:line1><gtr:city>KIMBOLTON</gtr:city><gtr:postCode>PE28 0NJ</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>57900.0</gtr:offerGrant><gtr:projectCost>122333.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/BC160D93-E1A2-4D43-AA01-FB4C8F913D9A"><gtr:id>BC160D93-E1A2-4D43-AA01-FB4C8F913D9A</gtr:id><gtr:firstName>Nelson</gtr:firstName><gtr:surname>Nazareth</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710055"><gtr:id>69BC15BE-DB36-4007-BA98-B1CC51336C38</gtr:id><gtr:title>Rapid point of care DNA extraction system</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710055</gtr:grantReference><gtr:abstractText>The end goal of the project is the proof of concept demonstrator for rapid extraction of high
+quality DNA that could be performed in the field. Existing techniques either require
+significant expertise and manpower, large automation systems or are simply too time
+consuming to be performed in a ?while you wait' situation. The ability to perform low cost and
+rapid DNA extractions out of the laboratory environment would be of great benefit in markets
+such as forensics, human medicine and pen side animal testing. The core technology could
+also be incorporated into
+larger laboratory based systems to further broaden the market for the technology.
+The core technology being explored in the proposal would be suitable for incorporation into a
+wide range of other instrumentation as well as being able to be marketed as either a stand
+alone laboratory system or field based and handheld unit.
+Currently there is only a single system available in the marketplace that incorporates this step
+and it is considerably more time consuming and expensive than the approach being
+considered in this proposal.It isd also not portable so would miss a key niche:the Point of
+Care(POC) one.
+The key benefit in the marketplace would be the time taken for extraction and the minimal
+number of steps required. Traditional approaches requiring multiple steps and additional
+reagents or equipment such as magnetic beads and centrifuges. The proposed proof of concept
+is to rapidly lyse the cells containing the DNA by optimised ?Ultra-rapid?freeze thawing
+cycles in a suitable buffer medium. This would reduce the time taken to extract the DNA to
+less than 5 minutes.
+This could then be incorporated into downstream processes provided by many other
+companies, hence bringing in licensing revenue, but also combined with BioGene's rapid PCR
+technology and therefore making a UK built portable DNA testing system that is low
+cost,'world's fastest' and portable..all unique user benefits.
+Whilst the POC market is a key one,the low cost of ownership and compact size would allow
+penetration of the lab market.
+BioGene manufacture their own instrumentation and have a dedicated team of scientists and
+engineers and as as a result are well placed to realise the aims of thee project within the
+proscribed timescales.</gtr:abstractText><gtr:fund><gtr:end>2013-02-28</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2011-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>57900</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710055</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

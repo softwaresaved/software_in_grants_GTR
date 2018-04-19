@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/F5594395-3A41-4D40-A0AA-8A7BD2DEFF53"><gtr:id>F5594395-3A41-4D40-A0AA-8A7BD2DEFF53</gtr:id><gtr:name>Renewable Technical Services Limited</gtr:name><gtr:address><gtr:line1>UNIT 2 CONSTELLATION PARK , ORION WAY</gtr:line1><gtr:city>KETTERING</gtr:city><gtr:postCode>NN15 6NL</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/F5594395-3A41-4D40-A0AA-8A7BD2DEFF53" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>F5594395-3A41-4D40-A0AA-8A7BD2DEFF53</gtr:id><gtr:name>Renewable Technical Services Limited</gtr:name><gtr:address><gtr:line1>UNIT 2 CONSTELLATION PARK , ORION WAY</gtr:line1><gtr:city>KETTERING</gtr:city><gtr:postCode>NN15 6NL</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>120696.0</gtr:offerGrant><gtr:projectCost>301739.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=730080"><gtr:id>25F91D36-D20A-44F9-97A5-E0B1BF4E5004</gtr:id><gtr:title>Development of in situ repair of damaged wind turbine blades</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Legacy RDA Grant for R&amp;D</gtr:grantCategory><gtr:grantReference>730080</gtr:grantReference><gtr:abstractText>Thls project aims to develop an innovative cost-effective maintenance solution for offshore wind
+tutfiine btades in situ. The project has three key paratletand combined objectiveJ:
+1. Development of a methodology for the fast, safe, accurate and reliable inspection of offshore
+wind turbine blades (in situ) through the use of an Unmanned Aerial Vehicle comprising a model
+helicopter and camera equipment
+2. Development of a novel access system to enable the safe and effective repair in situ of offshore
+wind turbine blades- no need for removal
+3. Development of a novel, fast, reliable process for the in situ repair of damaged wind turbine
+blades
+The tasks outlined in section 17 detail how these objectives will be achieved.
+The main driver for this project is the need for a reliable long term supply of energy from offshore
+wind turbines. High availability is crucial for the economics of any wind farm. Given the need for
+frequent manual interventions, access systems and maintenance processes are highly important
+to maintain availability. It is acknowledged that as turbine and wind farm sizes increase and as
+Round 3 projects are built further offshore, access will become even more critical to project
+viability.
+The innovation of this access and repair system for the in situ inspection and repair of offshore
+wind turbine blades lies in: ,
+-Tile use, development and integration of UAV technology, the associated cameras and the
+I software imaging package to enable remote inspection of the wind turbine blade - increasing
+safety whilst maintaining the accuracy of repair diagnosis
+-The development of a UAV based inspection solution that:
+can be utilised in close proximity to offshore wind turbine blades whilst maintaining accuracy of
+inspection, can be controlled accurately and consistently in adverse weather conditions out at sea,
+and can be safely and repeatedly launched and landed onto a suitable platform mounted on an
+access vessel at sea
+- The development of a fast, reliable, flexible repair system for the in situ repair of carbon
+composite turbine blades - utilising dry curing techniques rather than the current preferred 'wet
+lay up' methodology
+-The development of a light yet robust, safe, flexible, access system to enable blade repairs to be
+undertaken in situ.
+The deliverables from this project will enable a step change in the method and technologies
+1 associated with the inspection and repair of offshore wind turbine blades.
+RTS has considerable experience in the access, inspection and maintenance field and has
+undertaken ad-hoc trials of the three key elements of this project which will provide a sound basis
+1 for this further required development work.</gtr:abstractText><gtr:fund><gtr:end>2011-11-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2010-06-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>120696</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">730080</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

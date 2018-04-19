@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations><gtr:collaborator url="http://gtr.ukri.org:80/organisation/D9939870-0A15-46FF-B96E-96B3335C4C99"><gtr:id>D9939870-0A15-46FF-B96E-96B3335C4C99</gtr:id><gtr:name>EDF</gtr:name><gtr:address><gtr:line1>6 Quai Watier</gtr:line1><gtr:postCode>F-78400</gtr:postCode><gtr:region>Outside UK</gtr:region></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.ukri.org:80/organisation/DF292AE6-5F7E-43E9-9264-76CD73C6EB71"><gtr:id>DF292AE6-5F7E-43E9-9264-76CD73C6EB71</gtr:id><gtr:name>Nuclear Institute</gtr:name></gtr:collaborator><gtr:collaborator url="http://gtr.ukri.org:80/organisation/DEB1D86E-16E3-41E3-A7DB-A6087CB76814"><gtr:id>DEB1D86E-16E3-41E3-A7DB-A6087CB76814</gtr:id><gtr:name>Areva</gtr:name><gtr:address><gtr:line1>PO Box 30</gtr:line1><gtr:line2>Lichfield Road</gtr:line2><gtr:line4>Stafford</gtr:line4><gtr:postCode>ST17 4LN</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.ukri.org:80/organisation/06B0A798-0586-4428-AB69-2BB7C37F25C1"><gtr:id>06B0A798-0586-4428-AB69-2BB7C37F25C1</gtr:id><gtr:name>Department of Energy and Climate Change</gtr:name><gtr:address><gtr:line1>3rd Floor - Area B</gtr:line1><gtr:line2>3 Whitehall Place</gtr:line2><gtr:postCode>SW1A 2AW</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.ukri.org:80/organisation/514C4B87-4B6D-49C2-A9BC-A8E72C78E198"><gtr:id>514C4B87-4B6D-49C2-A9BC-A8E72C78E198</gtr:id><gtr:name>National Nuclear Laboratory</gtr:name></gtr:collaborator></gtr:collaborations><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/68D0E3C9-9246-4CFC-B5E9-48584CF82993"><gtr:id>68D0E3C9-9246-4CFC-B5E9-48584CF82993</gtr:id><gtr:name>University of Manchester</gtr:name><gtr:department>Materials</gtr:department><gtr:address><gtr:line1>Oxford Road</gtr:line1><gtr:city>Manchester</gtr:city><gtr:postCode>M13 9PL</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/68D0E3C9-9246-4CFC-B5E9-48584CF82993"><gtr:id>68D0E3C9-9246-4CFC-B5E9-48584CF82993</gtr:id><gtr:name>University of Manchester</gtr:name><gtr:address><gtr:line1>Oxford Road</gtr:line1><gtr:city>Manchester</gtr:city><gtr:postCode>M13 9PL</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/D9939870-0A15-46FF-B96E-96B3335C4C99"><gtr:id>D9939870-0A15-46FF-B96E-96B3335C4C99</gtr:id><gtr:name>EDF</gtr:name><gtr:address><gtr:line1>6 Quai Watier</gtr:line1><gtr:postCode>F-78400</gtr:postCode><gtr:region>Outside UK</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/DF292AE6-5F7E-43E9-9264-76CD73C6EB71"><gtr:id>DF292AE6-5F7E-43E9-9264-76CD73C6EB71</gtr:id><gtr:name>Nuclear Institute</gtr:name><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/DEB1D86E-16E3-41E3-A7DB-A6087CB76814"><gtr:id>DEB1D86E-16E3-41E3-A7DB-A6087CB76814</gtr:id><gtr:name>Areva</gtr:name><gtr:address><gtr:line1>PO Box 30</gtr:line1><gtr:line2>Lichfield Road</gtr:line2><gtr:line4>Stafford</gtr:line4><gtr:postCode>ST17 4LN</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/06B0A798-0586-4428-AB69-2BB7C37F25C1"><gtr:id>06B0A798-0586-4428-AB69-2BB7C37F25C1</gtr:id><gtr:name>Department of Energy and Climate Change</gtr:name><gtr:address><gtr:line1>3rd Floor - Area B</gtr:line1><gtr:line2>3 Whitehall Place</gtr:line2><gtr:postCode>SW1A 2AW</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/514C4B87-4B6D-49C2-A9BC-A8E72C78E198"><gtr:id>514C4B87-4B6D-49C2-A9BC-A8E72C78E198</gtr:id><gtr:name>National Nuclear Laboratory</gtr:name><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/43C2502D-05E6-414B-8DC7-0F04600A12C4"><gtr:id>43C2502D-05E6-414B-8DC7-0F04600A12C4</gtr:id><gtr:name>Museum of Science and Industry MOSI</gtr:name><gtr:address><gtr:line1>Liverpool Road</gtr:line1><gtr:line2>Castlefield</gtr:line2><gtr:line4>Manchester</gtr:line4><gtr:postCode>M3 4FP</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/D3D5C6E0-422E-4C4A-979F-72B2AE9D5B5F"><gtr:id>D3D5C6E0-422E-4C4A-979F-72B2AE9D5B5F</gtr:id><gtr:firstName>Kevin</gtr:firstName><gtr:otherNames>Tiow</gtr:otherNames><gtr:surname>Tan</gtr:surname><gtr:roles><gtr:role><gtr:name>RESEARCHER_COI</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/6489069F-236E-4ACB-A515-0BA47E727DBC"><gtr:id>6489069F-236E-4ACB-A515-0BA47E727DBC</gtr:id><gtr:firstName>Andrew</gtr:firstName><gtr:otherNames>Hamilton</gtr:otherNames><gtr:surname>Sherry</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/41F0C3EB-96EC-49AB-8B0E-C19D02C54748"><gtr:id>41F0C3EB-96EC-49AB-8B0E-C19D02C54748</gtr:id><gtr:firstName>John</gtr:firstName><gtr:otherNames>Wyn</gtr:otherNames><gtr:surname>Roberts</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/172EC949-610A-4AAC-B568-439FC3D74B7F"><gtr:id>172EC949-610A-4AAC-B568-439FC3D74B7F</gtr:id><gtr:firstName>Philip</gtr:firstName><gtr:surname>Withers</gtr:surname><gtr:orcidId>0000-0002-1946-5647</gtr:orcidId><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=EP%2FH047824%2F1"><gtr:id>EEF03F7B-B7C1-4CE0-9881-99E5F2F47D9B</gtr:id><gtr:title>So you think you know about nuclear energy!</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Other Grant</gtr:grantCategory><gtr:grantReference>EP/H047824/1</gtr:grantReference><gtr:abstractText>The Dalton Nuclear Institute at The University of Manchester is committed to undertaking research into nuclear technologies, training new graduate students as well as an engaging public outreach Programme. With the closure of the majority of Nuclear Power Plant Visitor Centres, there are now very few resources available to educate the public. The Nuclear Energy Exhibition at the Manchester Museum of Science and Industry (MOSI) is badly out of date, being established soon after Chernobyl. Consequently, we wanted to identify a successful model for public engagement that could help to communicate important nuclear issues and that might lead to a revamp of the Nuclear Energy Exhibition at the museum involving both real and virtual interactives.Building on the success of the 'So you think you can build a jet engine' public engagement programme the new proposal aims to identify best practices that have already been successfully trialled and apply them to educating young audiences and families about nuclear energy. Through a combination of a 3D visualisation model, complimentary 2D models, a physical model and other learning tools young audiences will be engaged and educated about the various challenges involved with the UK civil nuclear programme.Partnering with the Manchester Museum of Science (MOSI) and Industry will enable the project to benefit from their expertise and the exhibition space that is devoted to nuclear energy in the museum. Partnering with STEMPOINT Greater Manchester will enable the project to benefit from their existing networks of schools in the Greater Manchester area. They will also provide the initial training for our students and staff to become registered STEM Ambassadors.The project will develop a toolkit of resources specifically aimed at our target audiences - families with children between the ages of eight and fourteen and KS3/KS4 pupils and teachers. The emphasis is very much on engagement via hands-on, challenging, interactive exhibits, whether used in the Museum or face to face. This is in line with market research carried out by the Museum highlighting the need to provide an appropriate range of interactive exhibits to reinforce hard science . The project will develop presentations, discussion topics, simulations, spreadsheets, video clips and interactive tests challenging our audience to consider nuclear energy within the context of other sources of energy. Much of it will be closely related to research currently being undertaken within the Dalton Nuclear Institute, for example on waste storage, maximising fuel utilisation and decommissioning.</gtr:abstractText><gtr:potentialImpactText>The depth and number of the engagements varies from one engagement activity to another. Much of our assessment of the potential impact is gained from the previous experience. Impact on the Young Engineers: Experience shows that many of trained engagement engineers become heavily involved in the project. Initially this is simply giving them the confidence and training to deal with their target audience, but many then go on to take a role in developing the engagement tools or become responsible for some activity within the program. It is envisaged that they will become STEM Ambassadors, and as such will remain in contact with STEMPOINT Greater Manchester beyond the lifetime of this project, perhaps going into schools or responding to outreach calls once graduated. This is especially timely given the lack of young role models in the nuclear industry at the present time. Debate Days: These are very intensive 6 hour engagements. Our experience gained to date shows that year 11 students take environmental issues very seriously and relish the chance to question experts, delve deeper behind the issues raised in the media and to come to their own conclusions. Exhibition visitors: the Jet Engine Experience tells us that many visitors spend no more than a few minutes engaging with certain aspects of the exhibit. Our strategy of attendees 'earning' EPSRC give-aways by completing a number of tasks has conferred a sense of achievement on our young visitors, who often engage in all 10 Jet Engine tools to complete their 'jet engine driving licence', who typically spend 20 minutes collecting their 'stamps'. We have given out over 3000 EPSRC giveaways in this manner and will adopt a similar strategy on the Energy Challenge. Engine Design Challenge: This challenge provides feedback on what they have taken from the 3D journey. Visitors receive a badge according to their performance on the Jet Engine they design - some try iteratively to discover what materials give each outcome (engine flies, explodes, smells, etc). Badges quantifying their ability to design and run a nuclear reactor will be awarded ('my lights went out', 'my reactor was safe', 'my reactor shut-down', etc). While some students can spend over 30 minutes most find that they can complete the challenge once in 3 minutes. For the nuclear challenge the aim will be to give students a feel for the competing demands of energy supply. Top Trump Cards: Our materials cards are just being reprinted (another 2000 packs). They can be used in a number of ways by schoolteachers. Initial feedback on the Energy Cards is very supportive. We have already identified 30 different energy sources (2000 initial print run); these cards will satisfy a need for allowing students to identify the strengths and weaknesses of different modes and to build up a broad portfolio of energy supply based on their personal preference. Our research shows that much can be gained from 10 minutes exposure at the end of a lesson. The wider impact and benefit of this project will be maximised by meeting the recommendations of the PPE Evaluation Report (2008). R23: We will submit a formal evaluation report building on the reporting and feedback undertaken each quarter and reported to the Project management Committee. R24 We will make available our learning outcomes to EPSRC through-out the project key learning outcomes from current and recently completed projects, hopefully by involvement in Regional PPE workshops (see track record). R25: We will make available case studies highlighting our work, including details of lessons learned, as exemplars of best practice for potential future applicants and to broadcast the societal benefits of EPSRC's activities more widely. R32: We will take up an ambassadorial role within the University of Manchester working with the Beacon for Public Engagement to promote public engagement and the training of DTC students in public engagement.</gtr:potentialImpactText><gtr:fund><gtr:end>2013-11-09</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2010-05-10</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>215471</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs><gtr:collaborationOutput><gtr:collaboratingOrganisation>EDF Energy</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Development of Nuclear Reactor Simulator Game - input from EDF Energy</gtr:description><gtr:id>D0F29FB8-7CD2-4477-974D-1F54B8E756EA</gtr:id><gtr:outcomeId>b9d7cb98b9d7cbac-1</gtr:outcomeId><gtr:piContribution>Professional advice received from industry to make sure the virtual nuclear reactor operated in as realistic a way as possible (whilst still being a playable game).</gtr:piContribution><gtr:sector>Private</gtr:sector><gtr:start>2013-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>Nuclear Institute</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:department>Nuclear Institute Young Generation Network</gtr:department><gtr:description>Engineering Your Future Events with NI YGN</gtr:description><gtr:id>5283E563-01AE-4726-86FA-8C5E0E0FCC26</gtr:id><gtr:outcomeId>b96671dcb96671fa-1</gtr:outcomeId><gtr:piContribution>School events on 'Engineering Your Future' run in partnership with the Nuclear Institute's Young Generation Network</gtr:piContribution><gtr:sector>Charity/Non Profit</gtr:sector><gtr:start>2010-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>Areva</gtr:collaboratingOrganisation><gtr:country>France, French Republic</gtr:country><gtr:description>Development of Nuclear Reactor Simulator Game - input from AREVA</gtr:description><gtr:id>834081B9-498C-47A1-B591-DEF481BB31B2</gtr:id><gtr:outcomeId>b9d7debcb9d7ded0-1</gtr:outcomeId><gtr:piContribution>Professional advice received from industry to make sure the virtual nuclear reactor operated in as realistic a way as possible (whilst still being a playable game).</gtr:piContribution><gtr:sector>Private</gtr:sector><gtr:start>2013-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>Department of Energy and Climate Change</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Development of 'Top Trumps' style energy cards (educational resource) - David McKay feedback</gtr:description><gtr:id>DE68300F-762D-4160-B968-94BAC603C487</gtr:id><gtr:outcomeId>b9d79682b9d796a0-1</gtr:outcomeId><gtr:piContribution>David McKay ? DECC Chief Scientific Advisor ? provided feedback for us on the energy cards. His suggestions were applied to an updated version of the cards along with other improvements.</gtr:piContribution><gtr:sector>Public</gtr:sector><gtr:start>2012-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>National Nuclear Laboratory</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Smallpeice Trust Nuclear Engineering Summer School (with NNL)</gtr:description><gtr:id>29D6985A-C812-4504-BC5A-1C23D98A1C9A</gtr:id><gtr:outcomeId>b9705eccb9705ee0-1</gtr:outcomeId><gtr:piContribution>For four days over the Summer holidays in 2011, 2012 &amp;amp; 2013 a group of approx. 50 Year 10 &amp;amp; Year 11 school students were brought together at The University of Manchester to take part in The Smallpeice Trust Nuclear Engineering residential summer school in collaboration with National Nuclear Laboratory (NNL). 
+
+
+
+Students took part in learning new ways of solving practical engineering problems under the guidance of experienced nuclear engineers, discovered more about some of the topical issues surrounding nuclear energy and developed a deeper understanding of the wide range of career prospects available to nuclear industry professionals. Based on the University campus, students took part in a variety of talks (given by University of Manchester staff), tours of facilities and a major hands-on project to solve a nuclear waste issue, culminating in a ?Dragon?s Den? style pitch situation. A 'Question Time' event was held on one of the evenings with a panel consisting of academics and industry professionals. Our energy database playing cards were also used during one of the activity sessions with a certificate awarded for the 'winner'.</gtr:piContribution><gtr:sector>Public</gtr:sector><gtr:start>2011-01-01</gtr:start></gtr:collaborationOutput></gtr:collaborationOutputs><gtr:disseminationOutputs><gtr:disseminationOutput><gtr:description>Article on Dalton Nuclear Institute's outreach activities in Nuclear Industry Association's IndustryLink publication - Autumn 2013</gtr:description><gtr:form>A magazine, newsletter or online publication</gtr:form><gtr:id>6DDF7F79-7E8C-4ECB-9D99-594198C4651A</gtr:id><gtr:impact>Vicky Plane wrote an article on Dalton Nuclear Institute's outreach activities entitled 'Helping the Public Get to Grips with Nuclear Science and Engineering' which was published in NIA's magazine 'Industry Link' in Autumn 2013: http://issuu.com/nuclear_industry_association/docs/industrylink_september13 (see p5/32).</gtr:impact><gtr:outcomeId>r-3397793353.9057090ca658de</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://issuu.com/nuclear_industry_association/docs/industrylink_september13</gtr:url><gtr:year>2013</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Educational tool - 'Top Trumps' style energy database cards</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:id>BFC3299D-54D6-4E1A-B533-C4CA21796D31</gtr:id><gtr:impact>The 'top trumps' style card game helps build an understanding of the pros and cons and sustainability across a wide range of different energy sources, from fossil fuels and renewables through to nuclear fission and fusion. The cards help communicate the requirement for a mix of low-carbon, secure and affordable energy options. Comparable measures are given on each card for energy density, reliability, sustainability and cost efficiency.
+
+? Used as giveaways and engagement tools at events and talks
+
+? Sets given to teachers for use in class
+
+? Packs of card have been used widely (sent to e.g. the Paul Scherrer Institute, CEA Caderache, Chalmers University and KIT).
+
+? PPT landscape version of energy cards produced for classroom delivery
+
+? PDF of energy cards available to download online
+
+? The energy cards were also translated into Thai for the Department of Nuclear Engineering at Chulalongkorn University
+
+? The energy cards even featured at a Queen's Anniversary Prize celebration at the House of Commons where a newly updated version was launched on 14th June 2012.
+
+? We have made several sets of improvements to the energy cards based on improvements along the way and are now on to version 4.</gtr:impact><gtr:outcomeId>r-936441897.35543160ba6a25e</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:year>2010</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Face-to-face exhibitions</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:id>2F1098B5-40B1-44E1-A957-1BCDE22DF991</gtr:id><gtr:impact>We exhibited at over 38 events over the course of the programme. Some of the key ones included:
+
+Big Bang Fair 2010 (Big Bang Fair North West - Liverpool), 2011 (London ExCeL centre), 2013 (London ExCeL centre)
+
+Cheltenham Science Festival 2013 
+
+Manchester Science Festival - University of Manchester Science Spectacular 2011, 2012, 2013
+
+National Science &amp;amp; Engineering Week (Manchester) 2013
+
+
+
+Over 108,000 attended the events of which we directly engaged with over 15,000 people on our stands.</gtr:impact><gtr:outcomeId>r-7436349147.4058010ba62e8c</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:year>2010</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Temporary display at museum - John Dalton</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:id>4745472B-2196-4A21-84A2-964EF3D1D5D9</gtr:id><gtr:impact>Provided contribution relating to nuclear research towards temporary display on John Dalton at Manchester's Museum of Science and Industry (MOSI) in 2013.
+
+
+
+In addition meeting with new Director was held in 2012. Refreshing their permanent nuclear exhibit has not been a priority for MOSI following withdrawal of government funding and takeover by National Museum of Science Group - they have been working hard to balance the books before any new investment.
+
+
+
+Dalton Nuclear Institute has offered to install the nuclear reactor simulator game and supply the 'Top Trumps' style energy cards for the museum shop.</gtr:impact><gtr:outcomeId>r-1996481467.03511620ca47d8e</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:year>2013</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Industry and public talks</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:id>3A0F362B-776F-427C-BE16-63A9F97930BA</gtr:id><gtr:impact>Talks given to the general public and industry on all aspects of nuclear power.
+
+
+
+25 talks were held over the course of the programme, with over 1.5K attendees.
+
+
+
+Talks included a Percival Lecture delivered by Prof Andrew Sherry to the Manchester Literary and Philosophical Society and at an Institute of Directors NW breakfast meeting.</gtr:impact><gtr:outcomeId>r-9453093613.919890ba66fc8</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:year>2010</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Educational resource - 3D reactor fly through / virtual nuclear reactor simulator game</gtr:description><gtr:form>A formal working group, expert panel or dialogue</gtr:form><gtr:id>A45B627F-8F1B-404A-B578-3D368E0B8BE8</gtr:id><gtr:impact>This is a hands-on computer simulation game where players take control of a modern nuclear reactor using three simplified controls and make their own decisions to run it as efficiently as possible whilst matching the energy demand. The game incorporates educational 'did you know?' facts to explain in accessible language the various components that make up a pressurised water reactor (PWR), bringing these to life with real-life analogies (such as the fact that the four coolant pumps in a typical nuclear reactor could empty an Olympic-sized swimming pool in as little as 1 minute 20 seconds).
+
+
+
+? The game is used as an interactive exhibition centerpiece at STEM events
+
+? Demos of the game are given in talks on nuclear energy to school children and teachers to increase understanding of how nuclear energy is produced and how modern reactors operate.
+
+? An online version of the game is available on the University's Dalton Nuclear Institute website - http://www.dalton.manchester.ac.uk/nrs/.</gtr:impact><gtr:outcomeId>r-1800472281.68740130ba63a8a</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:url>http://www.dalton.manchester.ac.uk/nrs/</gtr:url><gtr:year>2010</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>'Engineering Your Future' Events</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:id>45DFC052-2DC0-4AFC-8F9B-F0C67B13A195</gtr:id><gtr:impact>Events for school pupils giving information about future career avenues in the nuclear energy industry.
+
+
+
+14 events took place during the course of the programme with over 900 attendees.</gtr:impact><gtr:outcomeId>r-9627391099.582790ba7e72c</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Schools</gtr:primaryAudience><gtr:year>2010</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Hitchhiker's Guide to Nuclear - podcast &amp; blog</gtr:description><gtr:form>A press release, press conference or response to a media enquiry/interview</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>BC547A76-942A-4BAE-B827-0C2A6B9E64AA</gtr:id><gtr:impact>Helped promote and contribute to The University of Manchester's PhD student's podcast &amp;amp; blog - http://nuclearhitchhiker.blogspot.co.uk/
+
+
+
+This includes posts relating to current nuclear issues in the news as well as providing some information on the Dalton Nuclear Institute's work on outreach activities as part of the 'So You Think...' programme. See articles included here: http://nuclearhitchhiker.blogspot.co.uk/search/label/Article 
+
+
+
+The site contains a mix of podcasts and articles uploaded by the PhD students involved - including debates, discussions and interviews on a range of nuclear-related topics.
+
+__________________________________________________
+
+
+
+TEXT FROM THE WEBSITE: &amp;quot;As part of the Nuclear Society at Manchester University, it's the group's mandate to educate and inform the public as to how nuclear energy, as well as radiation and other related issues, affect all of us. Be it in terms of politics, economics, health or the environment, nuclear energy, whether we like it or not, will have an integral part to play in Britain's future energy strategy.
+
+
+
+With this in mind, we decided it prudent and wise to start a podcast talking about these issues with the wider public in mind. Along with students from all sections of nuclear research, we aim to ramble on haphazardly about all things nuclear and question whether it is necessarily the imminent danger certain facets of the media would lead us to believe?
+
+
+
+We'll talk about everything associated with nuclear from PWRs, EPRs,FCI, THORP, LLW, ILW, HLW and every other bewildering acronym under the Sun all the way through to perceptions of nuclear in film, books and the media!&amp;quot;
+
+
+
+___________________________________________________
+
+
+
+Also see link to independent review on the blog: http://atomicinsights.com/another-blogger-for-nuclear-energy-hitchhikers-guide-to-nuclear/</gtr:impact><gtr:outcomeId>r-5712731644.2436842b837b54</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>'Meet the Scientist' Days at the Museum of Science &amp; Industry</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:id>EA990990-600B-406B-A309-CA8DCFA97223</gtr:id><gtr:impact>x8 'Meet the Scientist' days held at the Museum of Science and Industry (MOSI) in Manchester - involving PhD students and research fellows (linking with Nuclear FiRST DTC (http://www.ukerc.ac.uk/support/Nuclear+FiRST+CDT) and Science Grrl (sciencegrrl.co.uk/_)).
+
+
+
+Almost 9.5K attended events and we directly engaged with over 1.5K.</gtr:impact><gtr:outcomeId>r-5908019296.7392680ba6932c</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:url>http://www.ukerc.ac.uk/support/Nuclear+FiRST+CDT(sciencegrrl.co.uk/</gtr:url><gtr:year>2010</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>School visits</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:id>1CB1203B-5C67-48EE-AE8F-B8E1B0EFA561</gtr:id><gtr:impact>These included visits to schools and distribution of educational materials across the UK.
+
+
+
+We undertook 26 school visits during the course of the programme, reaching over 2,000 pupils.</gtr:impact><gtr:outcomeId>r-2918272049.0901470ba6bce4</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:year>2010</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Teacher training</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:id>E12FB395-16B1-4102-AC0F-93BC9D174BBC</gtr:id><gtr:impact>More than 40 teach the teacher activities were delivered during the course of the programme reaching over 400 teachers.
+
+
+
+As well as 'Teach the Teacher' training delivered by John Roberts, activities included:
+
+? Andrew Sherry, Director of The University of Manchester's Dalton Nuclear Institute, has delivered talks to teachers (see a copy of the lecture given to Physics teachers at the University of Liverpool here - http://www.dalton.manchester.ac.uk/engage/community/accesseducationalmaterial/ (bottom right-hand click-though box)
+
+Teacher visits to University
+
+? Dalton Nuclear Institute had a stand at The University of Manchester's STEM Teacher Conference: Information Fair in 2013 (attended by almost 200 teachers across the UK - made up of teachers of Maths, Physics, Biology and Chemistry).
+
+? 50 packs of cards sent to Tarah Patel at Museum of Science and Industry in Manchester for a teacher CPD day.</gtr:impact><gtr:outcomeId>r-9984390465.5281370ba7e9f2</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Schools</gtr:primaryAudience><gtr:url>http://www.dalton.manchester.ac.uk/engage/community/accesseducationalmaterial/</gtr:url><gtr:year>2010</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>School talks</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:id>6822AAF8-D42C-4CA6-8D72-A201725E254A</gtr:id><gtr:impact>Talks held for school pupils and teachers on different aspects of nuclear power (e.g. 'Nuclear Energy - Facts Behind the Fuss' and 'So you think you know about radioactivity?')
+
+
+
+One key talk was Prof Andrew Sherry's STAR Lecture which can be viewed here: https://www.youtube.com/user/DaltonNuclear. This was delivered to over 160 attendees in October 2012 (made up of GCSE students and their teachers visiting The University of Manchester). The talk communicates the importance of energy and the issues surrounding the sources and supply of it. Professor Sherry discussed the energy mix required to keep the lights on and minimise negative environmental impact. Nuclear energy was covered in detail, with information on the key challenges, how nuclear reactors work, management of radioactive waste and the importance of materials and research in this field.
+
+
+
+13 talks were held in total over the course of the programme with over 800 attendees.</gtr:impact><gtr:outcomeId>r-9344714376.4651530ba6ba50</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:url>https://www.youtube.com/user/</gtr:url><gtr:year>2010</gtr:year></gtr:disseminationOutput></gtr:disseminationOutputs><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs><gtr:impactSummaryOutput><gtr:description>The work undertaken under this grant led, in part, to Prof. Andrew Sherry (PI) leading the Nuclear Industry Council (NIC) work stream on public understanding of nuclear energy. The Nuclear Industry Council is one of a number of Industry Councils set up under the previous Coalition Government. Chaired by the Ministers of DECC and BIS and Lord John Hutton of Furness, Chairman of the Nuclear Industry Association, the NIC includes a number of work streams on cost, skills, international engagement and public understanding of nuclear energy.
+
+This involved all major parts of the UK nuclear industry and academia - notably the Universities of Manchester, Cardiff, Birmingham and Imperial College. A strategy was developed, &amp;quot;In the public Eye: Nuclear Energy and Society&amp;quot; (www.gov.uk/government/uploads/system/uploads/attachment_data/file/360669/In_the_Public_Eye_-_Nuclear_Energy_and_Society_-_NICJuly2014.pdf) that was endorsed by the Nuclear Industry Council in July 2014.
+
+This strategy was followed by the development and subsequent launch of a Concordat, &amp;quot;Nuclear Energy and Society: A Concordat for Public Engagement&amp;quot;, in December 2015 that was endorsed by all members of the Nuclear industry Council and other nuclear stakeholder (http://www.niauk.org/nuclear-industry-council).
+
+This was reported by World Nuclear News (www.world-nuclear-news.org/V-In-the-public-eye-nuclear-energy-and-society-0312151.html).
+
+The work has led to international interest, most notably in Japan, which is seeking to build public confidence in nuclear energy following the Fukushima Nuclear Accident. Prof. Sherry and Prof Gerry Thomas (Imperial College) visited Japan five years after Fukushima to provide advice and to speak to industry, Government and local stakeholder groups in March 2015. A reciprocal visit of Japanese Government and industry stakeholder to the UK took place in late 2015.
+
+The National Nuclear Laboratory is now sponsoring work, alongside the Welsh Government and Sellafield Ltd. to assess the public attitudes to the Concordat, with a view to updating the principles set out in the light of the feedback.
+
+The Nuclear Innovation Research Advisory Board, a body set up by Ministers to advise Government on research needs for nuclear energy, chaired by Dame Sue Ion and with Prof. Sherry a member, have recommended further research in the area of public understanding of nuclear energy. This is likely to be supported within the next 12-24 months.</gtr:description><gtr:firstYearOfImpact>2014</gtr:firstYearOfImpact><gtr:id>1525CA6C-8375-4221-9D4A-703796325178</gtr:id><gtr:impactTypes><gtr:impactType>Societal,Policy &amp; public services</gtr:impactType></gtr:impactTypes><gtr:outcomeId>56d05ab56321b2.28161257</gtr:outcomeId><gtr:sector>Energy</gtr:sector></gtr:impactSummaryOutput></gtr:impactSummaryOutputs><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>'So You Think You Know About Nuclear Energy!' was a public engagement programme delivered by The University of Manchester's Dalton Nuclear Institute between 10th May 2010 and 9th November 2013. 
+
+
+
+There is an acknowledgement within the nuclear industry that work needs to be done to enhance public perceptions of nuclear energy, especially to help fully realise the positive economic impact of the nuclear sector for the UK which the Government's Nuclear Industrial Strategy will deliver. In the context of a need for low carbon, sustainable and affordable energy sources to meet the increasing pressures of demand, and the UK's challenging but necessary 2050 carbon emission targets, nuclear power is seen by the Government as key to delivering the country's electricity requirements from a clean source of energy. The importance of outreach activities and improved public understanding of this field has therefore been brought to the fore. EPSRC has been ahead of its time in providing funding to help improve perceptions of nuclear energy, aiding better communication about the topic across key target audience groups (KS3/4 school children, teachers and families).
+
+
+
+During the course of the 'So You Think You Know...' programme The University of Manchester's aim was to impart to the public a better understanding of nuclear energy production, demystifying the subject and addressing common misconceptions, in a way that was both educational and fun. On top of this, it's Dalton Nuclear Institute provided information on the most recent nuclear R&amp;amp;D developments, such as educating the public on new nuclear manufacturing as part of it's NNUMAN research programme. Giving reassurance on the inherent safety of modern nuclear reactors was an important theme, as well as providing information about nuclear waste management to address concerns. We interacted with a range of people, from strong advocates through to ardent objectors, those who had a good understanding of the industry through to those who knew very little on what was seen by them as quite a mysterious subject. Many were positive about nuclear energy and wanted more information on developments such as the new power station at Hinkley and use of different types of fuel, others were highly sceptical and wanted to discuss the incident at Fukushima and Chernobyl and how waste is dealt with. As information given by academics tends to be perceived by the public as being more trustworthy than information from industry in general, we see it as our duty to interact with as many people as possible and give expert opinion to the media to educate, demystify and dismantle misinformed perceptions in an objective and honest way, especially during times of high profile coverage of the industry such as that which followed the 2011 Fukushima incident. 
+
+
+
+Programme Summary and Outcomes:
+
+? Activities undertaken during the course of the programme have included exhibiting at science fairs, giving talks to school children, talks for the general public, 'teach the teacher' training, 'Meet the scientist' days at museums, Nuffield Foundation student research projects at our Dalton Cumbrian Facility and residential courses at the University in nuclear engineering.
+
+? Between May 2010 and November 2013 approx. 380,000 people have attended the events, talks and conferences which we have been at (made up of over 13,000 school pupils, almost 650 teachers, over 354,000 families, over 2,000 industry and approx. 9,000 where demographics were not recorded).
+
+? We have directly engaged with over 16,000 people at exhibition stands during the course of the programme.
+
+? The activities undertaken have had a wide geographical reach - with events taking place across the UK (and abroad), including: Accrington, Bangor, Bolton, Burnley, Cheltenham, Cumbria, Daresbury, Farnborugh, Glossop, Liverpool, London, Macclesfield, Manchester, Northwich, Poland, Poynton, Preston, Teeside, Whitehaven, Workington and York.
+
+? We have also received great qualitative feedback on our activities, e.g.:
+
+
+
+&amp;quot;Thank you for your invitation both the students and staff really enjoyed the day (Andrew Sherry's STAR Lecuture on Nuclear Energy in the 21st Century), so much so we had front row seats! The lecture was very informative and relates very well to the topic they are studying at the moment for their GCSE. The interactive nature of the lecture also appealed well to students in particular students commented on the simulation used to show (rather than tell) them how a nuclear plant actually works down to the smallest detail! Of course the trump cards went down a treat. Thanks again!&amp;quot; - Martine Walls, Teacher of Design &amp;amp; Technology, Middleton Technology School (teacher)
+
+
+
+&amp;quot;Thanks for organising such a fantastic exhibition stand! I really enjoyed the day. The diverse range of people that visited, in terms of age, background and knowledge in the field of nuclear energy, meant that I had to constantly change the methods I used to answer their questions. This really forced me to place my area of research into a wider context and actually caused me to consider ideas and concepts that hadn't previously occurred to me. It was an opportunity for knowledge to be shared between the person asking the question and myself, and I ended up learning a lot. I learnt to adapt in order to provide the appropriate response to the varying audiences.Teachers definitely loved the top trumps cards. People were interested in waste disposal and the contribution of the Dalton Cumbrian Facility to the nuclear field and what exactly the Dalton Cumbrian Facility is.Thanks for such an enjoyable day - I'd definitely want to be involved with any similar future events.&amp;quot; - Aneeqa Khan, University of Manchester postgraduate student involved in helping to man Dalton Nuclear Institute's exhibition stand at the Cheltenham Science Festival in 2013 (student STEM volunteer)
+
+
+
+&amp;quot;A colleague of mine attended the (University of Manchester's Dalton Nuclear Institute) breakfast talk this morning and we played a game a top trumps over lunch. This is a fantastic way of highlighting the benefits and limitations of current energy sources. Would you be able to send some additional boxes for my colleagues.&amp;quot; - Mark Beament. BEng. MSc. ICIOB. RMAPS., Project Manager, Team Leader, Sinclair Knight Merz (industry employee)
+
+
+
+&amp;quot;I have just found out about your top trumps energy cards. I like the sound of the top trumps as a collector i find the educational side of cards a great way for kids and adults to learn things, a lot of Winning Moves Top Trumps are fictional subjects i.e Moshi Monsters, So decks like Nuclear trumps is very appealing.&amp;quot; - Matt Chambers, West Midlands (member of public)
+
+
+
+&amp;quot;I think they (energy database 'top trumps' cards) are brilliant and when also discussed with the team, they can see multiple uses for them too. If at all possible, we would be delighted to have as many of these wonderful cards as we can (to use as teaching tools ourselves) but if there are the opportunities for larger numbers, that would be marvellous for our developing trainees too.&amp;quot; - Dean of Faculty of Education at Edge Hill University (academic)
+
+
+
+&amp;quot;I am a science teacher at secondary school. I attended a training event the other day and a teacher from another school mentioned they had some playing cards from The University of Manchester's Dalton Nuclear Institute. I was wondering how I could get packs of these cards. They would be very useful in my teaching and could be incorporated into schemes of work.&amp;quot; - Jayne Melling (teacher)
+
+
+
+&amp;quot;One of my students went on a Smallpeice course, and came back completely changed. He is now really attentive in Physics class. He even showed me some trump card games (Manchester energy database) that he used. I was wondering whether it would be possible to obtain few card sets from you to use when I teach energy to my year 10.&amp;quot; - Caroline Neuberg, Fulneck School (teacher)
+
+
+
+&amp;quot;The Big Bang event was a thoroughly rewarding experience for me, in being able to share my knowledge and enthusiasm for nuclear technology whilst inspiring the minds of tomorrow, and informing people how the University's Dalton Nuclear Institute provides a great platform for further nuclear education.&amp;quot; - Benjamin Carter, student studying for an MSc in Nuclear Science and Technology (student and exhibition stand volunteer)
+
+
+
+Toolkit deliverables:
+
+
+
+? Toolkit deliverables include our 'Top Trumps' style energy database cards and our Nuclear Reactor Simulator game - both developed as fun, interactive educational tools to communicate key concepts (please see below for further details). Over 5,000 top trumps energy cards have been distributed during the course of the programme with fantastic feedback received from a range of teachers, young people, general public, skills bodies and also the Ministry of Defence.
+
+? There are links on the Dalton Nuclear Institute's website for teachers to access our educational materials - both within the 'Enage/Community' (http://www.dalton.manchester.ac.uk/engage/community/ ) &amp;amp; 'Study' (http://www.dalton.manchester.ac.uk/study/ ) sections. There is also an educational resources page here: - http://www.dalton.manchester.ac.uk/engage/community/accesseducationalmaterial/
+
+
+
+'Top Trumps' style energy cards:
+
+This 'top trumps' style card game helps build an understanding of the pros and cons and sustainability across a wide range of different energy sources, from fossil fuels and renewables through to nuclear fission and fusion. The cards help communicate the requirement for a mix of low-carbon, secure and affordable energy options. Comparable measures are given on each card for energy density, reliability, sustainability and cost efficiency.
+
+? Used as giveaways and engagement tools at events and talks
+
+? Class sets given to teachers for use in classroom as a learning tool
+
+? Packs of card have been used widely (sent to e.g. the Paul Scherrer Institute, CEA Caderache, Chalmers University, KIT, University of S&amp;atilde;o Paulo Institute of Chemistry, Federal University of Rio Grande do Sul and a prisoner at HMP Long Lartin Prison for use in their studies on energy) and have been requested by others across industry and academia for use in their own STEM outreach activities for greater reach (e.g. React Engineering for their 'React Foundation' outreach work with the London Science Museum and National Nuclear Laboratory for their work with schools).
+
+? PowerPoint landscape version of energy cards produced for classroom delivery - available online
+
+? PDF version of energy cards available to download online
+
+? The energy cards were also translated into Thai for the Department of Nuclear Engineering at Chulalongkorn University. 
+
+
+
+Reactor fly through / virtual nuclear reactor simulator game:
+
+This is a hands-on computer simulation game where players take control of a modern nuclear reactor and make their own decisions to run it as efficiently as possible whilst matching the energy demand. The game incorporates educational 'did you know?' facts to explain in accessible language the various components that make up a pressurised water reactor (PWR), bringing these to life with real-life analogies.
+
+? The game is used as an interactive exhibition centerpiece at STEM events
+
+? Demos of the game are given in talks on nuclear energy to school children and teachers to increase understanding of how nuclear energy is produced and how modern reactors operate
+
+? An online version of the game is available on the University's Dalton Nuclear Institute website - http://www.dalton.manchester.ac.uk/nrs/ 
+
+In addition the University has procured a full PWR reactor simulator. This GSE Systems VPanel? simulator, installed with the generic PWR model, is for more advanced training and deeper nuclear reactor operation knowledge. This is used to enhance our nuclear higher learning programmes, can be used to improve general awareness and provide more detailed scenario-based training.
+
+
+
+'Meet the Scientist/Engineer' Days:
+
+? x8 'Meet the Scientist' days have been held during the course of the programme at the Museum of Science and Industry in Manchester involving PhD students and research fellows (linking with Nuclear FiRST DTC (http://www.ukerc.ac.uk/support/Nuclear+FiRST+CDT) and Science Grrl (sciencegrrl.co.uk/_)).
+
+
+
+Teach the Teachers:
+
+? John Roberts has delivered almost 40 teach the teacher activities
+
+? Andrew Sherry, Director of The University of Manchester's Dalton Nuclear Institute, has delivered talks to teachers (see a copy of the lecture given to Physics teachers at the University of Liverpool here - http://www.dalton.manchester.ac.uk/engage/community/accesseducationalmaterial/ (bottom right-hand click-though box)
+
+? Dalton Nuclear Institute had a stand at The University of Manchester's STEM Teacher Conference: Information Fair in 2013 (attended by almost 200 teachers across the UK - made up of teachers of Maths, Physics, Biology and Chemistry).
+
+
+
+Media coverage:
+
+? The University of Manchester's Dalton Nuclear Institute academics have been involved in media interviews on the TV and radio, written articles and have regularly appeared in press coverage (see the following link for a video of a selection of media clips - https://www.dropbox.com/sh/rxeic6me9a5wydn/q7dXqmUIVF ) 
+
+? Vicky Plane wrote an article summarising Dalton Nuclear Institute's outreach activities which was published in NIA's magazine 'Industry Link' in Autumn 2013 - http://issuu.com/nuclear_industry_association/docs/industrylink_september13 (see p5/32)</gtr:description><gtr:exploitationPathways>The activities undertaken and developed as part of the 'So You Think You Know..' programme have continued since it finished in November 2013 and are still on-going, with further plans being made to build on work in the public understanding of nuclear energy.
+
+
+
+In the UK: 
+
+Following the announcement of the Government's Nuclear Industrial Strategy in March 2013, a subgroup of the Nuclear Industry Council has been set up to specifically focus on the 'Public Understanding of Nuclear Energy' which is Chaired by Prof Andrew Sherry, Director of the Dalton Nuclear Institute.
+
+
+
+In addition, as part of the Nuclear Innovation Research Advisory Board (NIRAB) Prof Andrew Sherry is leading the development of recommendations for future research on the public understanding of nuclear energy which is to be re-submitted to Government in 2014. 
+
+
+
+Future plans for development in this area include building links with museums, schools and careers advisors to help inform the general public and young people, and developing plans to create other reactor simulator games for different reactor types, e.g. Advanced Boiling Water Reactor.
+
+
+
+The Dalton Nuclear Institute already has contacts within the Museum of Science and Industry (MOSI) in Manchester and with the London Science Museum and has had discussions about future involvement with them.
+
+
+
+Academics from The University of Manchester's Dalton Nuclear Institute will also have involvement in a 'Sense About Science' energy panel in 2014. 
+
+
+
+In Europe:
+
+Research is being undertaken within Europe relating to the public opinion of the nuclear industry and nuclear energy. As part of the NUGENIA consortium, Dalton Nuclear Institute is working on the objective of increasing public awareness about nuclear energy as detailed in NUGENIA's 2013 Roadmap. This covers applying the Aarhus convention (http://ec.europa.eu/environment/aarhus/), increasing the openness to the public on safety, increasing public involvement in research and ultimately helping to contribute to public acceptance.</gtr:exploitationPathways><gtr:id>64533C48-B7E1-4905-BA9D-A41BA9A7C0F3</gtr:id><gtr:outcomeId>r-7056421774.49206177596340</gtr:outcomeId><gtr:sectors><gtr:sector>Energy,Environment</gtr:sector></gtr:sectors><gtr:url>http://www.dalton.manchester.ac.uk/engage/community/</gtr:url></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">EP/H047824/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>F95121C7-7C31-40CE-BDBC-1E2BF025AEA6</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Energy</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>0FE8D416-B45D-49A3-928D-3B94E03E72DD</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Energy - Nuclear</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

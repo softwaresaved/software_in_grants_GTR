@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/D13E6D5B-37EC-4645-BAD5-655AB7BDE048"><gtr:id>D13E6D5B-37EC-4645-BAD5-655AB7BDE048</gtr:id><gtr:name>UP Investments Limited</gtr:name><gtr:address><gtr:line1>1 North Lodge
+South Horrington</gtr:line1><gtr:city>Wells</gtr:city><gtr:postCode>BA5 3DZ</gtr:postCode><gtr:region>South West</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/D13E6D5B-37EC-4645-BAD5-655AB7BDE048" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>D13E6D5B-37EC-4645-BAD5-655AB7BDE048</gtr:id><gtr:name>UP Investments Limited</gtr:name><gtr:address><gtr:line1>1 North Lodge
+South Horrington</gtr:line1><gtr:city>Wells</gtr:city><gtr:postCode>BA5 3DZ</gtr:postCode><gtr:region>South West</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>158600.0</gtr:offerGrant><gtr:projectCost>352500.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/48444F3E-2D43-4E6B-BA4D-AAF0D5C46D86"><gtr:id>48444F3E-2D43-4E6B-BA4D-AAF0D5C46D86</gtr:id><gtr:firstName>James</gtr:firstName><gtr:surname>Rai</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720609"><gtr:id>939028BA-8C40-41CF-B3A7-91BDDE51E367</gtr:id><gtr:title>investUP - building an exchange prototype</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720609</gtr:grantReference><gtr:abstractText>The BIG project
+To develop an exchange prototype which will allow investors to 'cash in' and sell their
+investments in privately held companies. This is an untapped market worth over &amp;pound;300bn in the
+UK. Crowdfunding is booming but an effective secondary market remains elusive. The
+investUP (known as UP) exchange prototype will feature technical innovations to address
+issues of pricing, liquidity and restrictions on transfer. This prototype will be built to work
+alongside UP's existing crowdfunding aggregator. The exchange will feature unique technical
+innovations designed to adapt the traditional exchange model for the emergent crowdfunding
+market of investing/lending to private companies.
+What's UP (the state of play)
+investUP (www.investUP.co) makes crowd-investing easy for investors. UP gives you access
+to the world of debt &amp;amp; equity crowdfunding and helps end users:
+? discover deals more quickly
+? invest directly
+? track their investments
+With around 100 investment based crowdfunding platforms in the UK, investors are spoilt for
+choice, but also limited by the impracticalities of registering with multiple sites. UP makes the
+choice a simple one, join UP and choose from investment opportunities taken from the
+leading crowdfunding sites in the UK. Put simply, UP currently helps investors discover, track
+and grow their investments. The exchange takes this one step further.
+What is the exchange prototype?
+The exchange prototype offers an effective solution to a problem which remains only partially
+solved - a universally available secondary market for debt &amp;amp; equity investments in privately
+held companies. The goal is to create meaningful liquidity at this level.</gtr:abstractText><gtr:fund><gtr:end>2016-06-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2015-07-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>158600</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720609</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

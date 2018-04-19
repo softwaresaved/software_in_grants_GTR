@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/67290926-19DE-4F4A-9F1C-ED4B3A8EDCE8"><gtr:id>67290926-19DE-4F4A-9F1C-ED4B3A8EDCE8</gtr:id><gtr:name>Laser Optical Engineering Limited</gtr:name><gtr:address><gtr:line1>Building 72A
+The Air Cargo Centre 
+Argosy Road
+East Midlands Airport</gtr:line1><gtr:city>Castle Donnington</gtr:city><gtr:postCode>DE74 2SA</gtr:postCode><gtr:region>East Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/67290926-19DE-4F4A-9F1C-ED4B3A8EDCE8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>67290926-19DE-4F4A-9F1C-ED4B3A8EDCE8</gtr:id><gtr:name>Laser Optical Engineering Limited</gtr:name><gtr:address><gtr:line1>Building 72A
+The Air Cargo Centre 
+Argosy Road
+East Midlands Airport</gtr:line1><gtr:city>Castle Donnington</gtr:city><gtr:postCode>DE74 2SA</gtr:postCode><gtr:region>East Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>200020.0</gtr:offerGrant><gtr:projectCost>445380.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/98A88EBB-332E-448E-AF93-96EE50255E8C"><gtr:id>98A88EBB-332E-448E-AF93-96EE50255E8C</gtr:id><gtr:firstName>Fiona</gtr:firstName><gtr:surname>Warner</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720162"><gtr:id>93ADB02B-5D7C-48BE-BCBB-DA1F7F0E7368</gtr:id><gtr:title>Stand Off Explosive Residue Detection for Cargo</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720162</gtr:grantReference><gtr:abstractText>We have developed a new technology that can spot explosive residue. The main advantage of
+this technology is that it operates in real time, images the residue which then automatically
+signals an alert when a substance is spotted. This is a brand new approach to to explosive
+detection. Current technologies can only manually alert to the presence of explosive material,
+our technology can pin point the exact location on a whole consignment. The most commonly
+used techniques at present are x-ray screening and physical examination including sniffer
+dogs. Our technology will provide a vigilance that is constantly available unlike dogs who
+only have a 20 minute attention span and can take anything up to 8 hours to arrive on site.
+The key aim of this project is to develop a system prototype for scanning cargo. The
+proposed prototype will be a portable unit that can be taken on site.
+The main benefits of this technology are that a detection can be made without relying on
+human interpretation ; it is stand off and therefore does not affect throughput; all cargo can be
+scanned for surface traces of explosives rather than hand searching every item with a sniffer
+dog or only scanning a random selection. This will result in 100% cargo screening and
+security.
+Under ICAO law, all air cargo leaving a country is that nation's responsibility. These security
+controls are regulated by the Department's Transport Security and Contingencies Directorate
+[TRANSEC]. Under UK rules, outbound cargo can only be considered secure either if it has
+originated from a secure source or if it has undergone appropriate screening either at the
+airport or during transportation.</gtr:abstractText><gtr:fund><gtr:end>2014-08-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2012-08-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>200020</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720162</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

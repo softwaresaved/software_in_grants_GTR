@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/40CA73EC-DDA7-43C8-BE95-69C7697C255E"><gtr:id>40CA73EC-DDA7-43C8-BE95-69C7697C255E</gtr:id><gtr:name>Kuber Ventures Limited</gtr:name><gtr:address><gtr:line1>25 SACKVILLE STREET</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>W1S 3AX</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/40CA73EC-DDA7-43C8-BE95-69C7697C255E" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>40CA73EC-DDA7-43C8-BE95-69C7697C255E</gtr:id><gtr:name>Kuber Ventures Limited</gtr:name><gtr:address><gtr:line1>25 SACKVILLE STREET</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>W1S 3AX</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>114874.0</gtr:offerGrant><gtr:projectCost>255276.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6A516367-A296-4AFC-B289-97B0E6021963"><gtr:id>6A516367-A296-4AFC-B289-97B0E6021963</gtr:id><gtr:firstName>Dermot</gtr:firstName><gtr:surname>Campbell</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720633"><gtr:id>167239C6-0DD9-4719-9EA8-A20C340D9DD0</gtr:id><gtr:title>KuberViewPlus- Development of Prototype</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720633</gtr:grantReference><gtr:abstractText>The availability of risk capital for high potential, young SMEs is crucial in the advancement
+of future UK based innovation &amp;amp; economic growth. HMRC?s flagship tax incentive
+investment schemes Enterprise Investment Scheme &amp;amp; Seed EIS (SEIS) have become crucial
+in the promotion of UK SME funding by providing investment lead tax incentives to High Net
+worth Individuals (HNIs).
+EIS/SEIS have seen continued growth in recent years but the extent of this growth has been
+constrained as Independent Financial Advisors (IFA) have shied away from EIS/SEIS due to:
+High risk liability; Lower economic incentives; Complex paper based systems; and lack of
+EIS system knowledge. Constraints have led to the significant under-utilisation of EIS/SEIS
+by HNIs resulting in missed opportunities for HNI tax breaks, UK SME investment &amp;amp; job
+creation.
+Kuber seek to address the market opportunity of reducing costs, time, difficulty &amp;amp; compliance
+boundaries when investing EIS/SEIS schemes. To date Kuber has developed &amp;amp;launched an
+alpha prototype of KuberView (KVW) - a novel, web-based (paperless), dedicated EIS/SEIS
+multi-manager platform which has shown clear potential in addressing cost &amp;amp; time with 122
+HNIs, 10 fund managers &amp;amp; 42 IFA firms users. Crucially recent user trials have identified
+essential end user needs: Investment platform integration: streamline investor process cutting
+time/cost; ?DIY? EIS tools: enabling HNIs with limited EIS knowledge to select/invest by
+themselves; Compliant/secure document storage - mitigate compliance risk &amp;amp; improving
+security.
+Kuber seek to develop a pre-production prototype of KuberViewPlus (KVW+) in order to
+satisfy user need &amp;amp; address KVW limitations. KVW+ represents a step-change advancement
+on current EIS/SEIS &amp;amp; KVW processes addressing all current limitations with a number of
+innovations presenting a number of tech challenges. Once developed KVW+ will be targeted
+at IFAs &amp;amp; HNIs where costs/time savings are considerable. Market entry 2016.</gtr:abstractText><gtr:fund><gtr:end>2016-04-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2015-05-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>114874</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720633</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

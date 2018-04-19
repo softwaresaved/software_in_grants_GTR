@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/71A79D5E-4B54-41DF-83B3-FD2A36E73F69"><gtr:id>71A79D5E-4B54-41DF-83B3-FD2A36E73F69</gtr:id><gtr:name>Anvil Semiconductors Limited</gtr:name><gtr:address><gtr:line1>C/O HPL Prototypes
+Windmill Industrial Estate
+Birmingham Road
+Alleysley</gtr:line1><gtr:city>Coventry</gtr:city><gtr:postCode>CV5 9QE</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/71A79D5E-4B54-41DF-83B3-FD2A36E73F69" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>71A79D5E-4B54-41DF-83B3-FD2A36E73F69</gtr:id><gtr:name>Anvil Semiconductors Limited</gtr:name><gtr:address><gtr:line1>C/O HPL Prototypes
+Windmill Industrial Estate
+Birmingham Road
+Alleysley</gtr:line1><gtr:city>Coventry</gtr:city><gtr:postCode>CV5 9QE</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>51058.0</gtr:offerGrant><gtr:projectCost>85097.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/7AA203E0-6692-41BA-BC43-D07ACF40FB80"><gtr:id>7AA203E0-6692-41BA-BC43-D07ACF40FB80</gtr:id><gtr:firstName>Peter</gtr:firstName><gtr:surname>Ward</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710019"><gtr:id>964023FD-66C9-42ED-A998-CFD408F29957</gtr:id><gtr:title>Commercial SiC Power Electronics</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710019</gtr:grantReference><gtr:abstractText>The current power semiconductor market ($10bn) is dominated by silicon. The performance
+of which has improved steadily over the past 20 years, but has now reached the stage where
+its fundamental material properties limit the capability and efficiency of power semiconductor
+systems. The superior material properties of Silicon Carbide (SiC) have been recognised as
+the way forward yet to date SiC transistors have very poor performance and production costs
+are prohibitive. This proof of concept proposal is to prove Anvil Semiconductor?s solutions
+to the two main issues preventing SiC taking its potential market share ($2.6bn): the cost of
+the substrate and the ability to produce good quality gate oxides (and thus produce good
+quality transistors).
+This work enables the development of low cost Silicon Carbide (SiC) power electronic
+components suitable for mass market applications, the first of which are electric vehicles and
+power inverters for domestic photovoltaics. Together these are predicted to account for 60%
+of the potential SiC market (2019).
+The current generation of SiC components based on the hexagonal form (4H-SiC) are
+inherently expensive; a 100mm wafer of 4H-SiC costs ~&amp;pound;1,000 compared to ~ &amp;pound;20 for a Si
+wafer. Further it is likely that 100mm will be the main 4H-SiC wafer diameter for at least the
+next six years- restricting size based economies of scale. Thus 4H-SiC components are
+unlikely to be viable in cost sensitive applications. A low cost alternative route using a thin
+SiC layer deposited on a Si wafer has been demonstrated on 150mm wafers and provides a
+route to even larger diameters (3C-SiC/Si). This has technical challenges but Anvil
+Semiconductors has some key IP which it needs to demonstrate has no technological barriers
+to prevent it making the components needed by system builders.
+An ideal application of SiC is the drive inverter for electric vehicles because of its improved
+power efficiency, increased robustness in high temperature environments and importantly the
+dramatic reduction of size/mass of the system. Yole (Appendix A) show that the use of SiC
+components instead of Si would result in an overall system cost increase of $31; not an
+acceptable solution. However with the lower cost version of SiC proposed here, there would
+be a system saving of ~$100. This would enable car designers to take advantage of the space,
+energy and robustness savings of SiC.
+Another application for low cost SiC devices is the power conversion in domestic scale
+(~5kW) photovoltaic panels. Although current Si-based inverters are very efficient (97%),
+they are bulky and expensive, and have slow switching speeds leading to the need for
+physically large passive components and heatsinks. SiC components will reduce the size and
+costs of the capacitors, inductors and system cooling needed. However, a component
+technology with similar costs to Si is essential in order to achieve an overall reduction in
+system cost, ie 3C-SiC/Si.</gtr:abstractText><gtr:fund><gtr:end>2012-07-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2011-11-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>51058</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710019</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

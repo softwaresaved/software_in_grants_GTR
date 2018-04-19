@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/A57C7B2A-CDFD-4CC9-A07B-F1795083B6E5"><gtr:id>A57C7B2A-CDFD-4CC9-A07B-F1795083B6E5</gtr:id><gtr:name>Engineering the Blue Limited</gtr:name><gtr:address><gtr:line1>145-157 ST JOHN STREET</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>EC1V 4PW</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/A57C7B2A-CDFD-4CC9-A07B-F1795083B6E5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>A57C7B2A-CDFD-4CC9-A07B-F1795083B6E5</gtr:id><gtr:name>Engineering the Blue Limited</gtr:name><gtr:address><gtr:line1>145-157 ST JOHN STREET</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>EC1V 4PW</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>11615.0</gtr:offerGrant><gtr:projectCost>19358.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/759E24E3-AE88-4BBD-AEF8-5325D6AFE35C"><gtr:id>759E24E3-AE88-4BBD-AEF8-5325D6AFE35C</gtr:id><gtr:firstName>Stef</gtr:firstName><gtr:surname>Church</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700223"><gtr:id>AD6847D1-9C00-4A93-B140-633E1484ABF9</gtr:id><gtr:title>Proof of Market for Micro Precision Aerial Delivery (Engineering the Blue Limited)</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700223</gtr:grantReference><gtr:abstractText>The project comprises an assessment of the commercial viability of a range of conceptual
+technologies that would facilitate precision air drop* of smaller packages than is currently
+feasible or cost effective. Current precision air drop systems are focused on large payloads
+(always greater than 100kg and usually greater than 1000kg) that suit traditional military use
+cases. In this project we will assess concepts for much smaller and much lower cost systems,
+looking at the market fit of these concepts against a range of commercial opportunities. Each
+of the potential cost reductions and performance enhancements is linked to innovations that
+we believe are unique and hence probably worthy of appropriate protection.
+The project that we will take the form of a detailed assessment that will comprise:
+(i) market research that considers the current market for the proposed systems
+(ii) market testing of the notional performance/price points for the proposed systems
+(iii) analysis of competing technologies and potential competitors in the market
+(iv) a determination of the protection opportunities for the intellectual property potential that
+is believed to exist
+(v) a detailed assessment of costs, timescales and funding requirements going forward and a
+recommendation regarding next steps
+A successful outcome at the end of this project will allow us to attract further investment to
+enable the following activities:
+(i) Protection of intellectual property
+(ii) Engineering work to develop a proof of concept system
+(iii) Further market engagement with a view to finding potential trial customers
+* Precision Air Drop systems supply loads dropped from aircraft by parachute. The
+parachutes feature control systems to allow them to be steered to specific locations
+automatically. The systems are in wide military use for the delivery of large payloads of
+supplies to ground forces.</gtr:abstractText><gtr:fund><gtr:end>2013-10-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2013-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>11615</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700223</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

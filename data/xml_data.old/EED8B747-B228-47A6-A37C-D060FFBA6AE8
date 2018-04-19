@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/B6FB652A-60C3-48DD-9A33-075D1F759B48"><gtr:id>B6FB652A-60C3-48DD-9A33-075D1F759B48</gtr:id><gtr:name>University of Warwick</gtr:name><gtr:department>Mathematics</gtr:department><gtr:address><gtr:line1>Warwickshire</gtr:line1><gtr:line4>Coventry</gtr:line4><gtr:line5>West Midlands</gtr:line5><gtr:postCode>CV4 7AL</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/B6FB652A-60C3-48DD-9A33-075D1F759B48"><gtr:id>B6FB652A-60C3-48DD-9A33-075D1F759B48</gtr:id><gtr:name>University of Warwick</gtr:name><gtr:address><gtr:line1>Warwickshire</gtr:line1><gtr:line4>Coventry</gtr:line4><gtr:line5>West Midlands</gtr:line5><gtr:postCode>CV4 7AL</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/C9F8EE74-F879-4019-82F0-DE6CDF680595"><gtr:id>C9F8EE74-F879-4019-82F0-DE6CDF680595</gtr:id><gtr:firstName>Roman</gtr:firstName><gtr:surname>Kotecky</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/6524A1E0-9850-415F-9775-46850782B4B3"><gtr:id>6524A1E0-9850-415F-9775-46850782B4B3</gtr:id><gtr:firstName>Daniel</gtr:firstName><gtr:surname>Ueltschi</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/09038C15-9AD3-490D-BF9F-2A009D6EB993"><gtr:id>09038C15-9AD3-490D-BF9F-2A009D6EB993</gtr:id><gtr:firstName>Stefan</gtr:firstName><gtr:surname>Adams</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=EP%2FK015400%2F1"><gtr:id>EED8B747-B228-47A6-A37C-D060FFBA6AE8</gtr:id><gtr:title>Warwick EPSRC Symposium in the Statistical Mechanics / Mathematics of Phase Transitions</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/K015400/1</gtr:grantReference><gtr:abstractText>This is a proposal for a symposium to be held during the academic year 2013-2014 at the Mathematics Research Centre (MRC) of the University of Warwick. The overall theme is mathematical statistical physics with a particular emphasis on the extension of its methods to a range of disciplines within mathematics as well as its applications in physics and other sciences. 
+
+Mathematical statistical mechanics developed from its focus on rigorous foundations of statistical physics to become an exciting and active area of research devoted to various aspects of collective phenomena. Remarkably, its methods designed originally for exploring phase transitions are providing effective tools in other branches of mathematics: combinatorics, discrete mathematics, probability, analysis, and computer science. They turned out to be especially useful for investigations of asymptotics with abrupt thresholds and universal behaviour at criticality, the topics brought together under the heading &amp;quot;Mathematics of Phase Transitions&amp;quot;. This is exemplified by impressive successes in various disciplines.
+
+ a) In probability: studies of universal critical behaviour of various two-dimensional systems based on Schramm's SLE led to spectacular advances
+ and opened a whole new field of modern mathematics with Fields Medals awarded in 2006 and 2010.
+
+ b) In discrete mathematics and computer science: the theory of random discrete structures that is crucial for these disciplines has been truly 
+ revolutionised by new ideas from statistical mechanics.
+
+ c) In analysis: investigations of macroscopic nonlinear PDE, as applied, for example, in nonlinear elasticity or in investigations of phase
+ coexistence, based on underlying microscopic atomic models are gaining prominence.
+
+The symposium will facilitate a year-long sustained research activity on mathematical aspects of statistical physics with emphasis on its links to other mathematical disciplines. It will foster international links and collaborations and attract the attention of the UK mathematical community to this newly emerging and highly active area and enable the innovative use of the potential of branches of mathematics that are well established in the UK.
+
+In practical terms the symposium will be structured around six week-long workshops in various research areas of international significance pertaining to the general theme of the symposium. All important areas of mathematics where the methods of statistical physics play a significant role will be covered, with participation of leading international and national experts.
+In addition, there will be a visitor programme and a number of other supporting activities (mini-courses, seminars) designed to sustain the level of activity through the year.</gtr:abstractText><gtr:potentialImpactText>Statistical Mechanics and phase transitions play a fundamental part in our understanding of the world and have had proven impact on every branch of science, engineering and social sciences. Methods of statistical mechanics are used everywhere: material science, computation, the weather and climate change, demographics, economics, communications, cell biology, particle physics, etc. However, it is also a mathematical discipline in its own right with deep connections across the spectrum of pure and applied mathematics and relevance in probability theory (large deviation theory, critical phenomena, many-body systems), discrete mathematics and computer science (message passing algorithms, low density parity check codes), analysis (variational problems, PDEs, quantum mechanics). This symposium will bolster the scientific base of the subject and ensure continued impact.
+
+The main impact of national importance of this symposium will be on the mathematical community by
+
+ - Strengthening the multidisciplinary knowledge base and links within the concerned branches of mathematics in the UK;
+ - Bringing the best people worldwide to the UK in order to enhance its research basis and to promote their collaboration with UK researchers (including 
+ postdocs and post-graduate students); 
+ - Maintaining UK leadership at the cutting edge of research in this active and vibrant area.
+
+In particular, this project will support UK universities drive to be among the prime generators of top-quality research. Of course this is not only a matter of prestige, as no country in the world can expect to maintain long term economic success without a strong scientific base and strong universities and, in particular, without a strong mathematical foundation.
+
+Although the primary beneficiaries of this project will be researchers working in mathematics in general, and mathematical statistical mechanics and applied mathematics in particular, we envisage that the symposium will affect some areas of combinatorics, material science, economics, biology, physics, computer science and engineering. Several workshops will indeed explore the connections to these disciplines. In all these areas of research, the threshold phenomena like phase transitions play a central role and can be studied and analysed with the methods and basic principles of mathematical statistical mechanics. 
+
+In computer science, an area where the mathematics of phase transitions to be developed in the framework of the Symposium has a potentially immediate impact is the development of low density parity check codes (LDPC). This is one of the rare success stories where mathematical progress has quite directly had a significant practical commercially successful impact. The second area where this project has a potential practical impact is efficient Satisfiability Problems solving (SAT solving). Message passing algorithms based on statistical mechanics ideas seem to outperform standard methods on various important benchmarks. However, the theoretical understanding of message passing algorithms is currently very limited. To materialise the potential impact, we are going to proactively promote the symposium to the LDPC and SAT solving communities.</gtr:potentialImpactText><gtr:fund><gtr:end>2014-08-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2013-09-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>148681</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs><gtr:disseminationOutput><gtr:description>Many-Body Quantum Systems (University of Warwick)</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>13FE5322-6280-42AF-A0EA-C5C189A72F38</gtr:id><gtr:impact>Conference Held at University of Warwick, 17-21 March 2014
+
+Organisers: R. Seiringer (Vienna), D. Ueltschi
+
+Phase transitions in quantum many body systems were discussed. New research directions were highlighted.
+
+Invited speakers:
+Sven Bachmann (Munich)
+Serena Cenatiempo (Zurich)
+Nilanjana Datta (Cambridge)
+Dirk Deckert (UC Davis)
+Wojciech Dybalski (ETH Zurich)
+Alessandro Giuliani (Roma Tre)
+Gian Michele Graf (ETH Zurich)
+Christian Hainzl (T&amp;uuml;bingen)
+Vojkan Jak?ic (McGill)
+Sabine Jansen (Bochum)
+Alain Joye (Grenoble)
+Antti Knowles (Courant Institute)
+Max Lein (Toronto)
+Mathieu Lewin (Cergy-Pontoise)
+Elliott Lieb (Princeton)
+Bruno Nachtergaele (UC Davis)
+Giuseppe de Nittis (Erlangen)
+Phan Tranh Nam (Vienna)
+Jan Philip Solovej (Copenhagen)
+Stefan Teufel (T&amp;uuml;bingen)
+Simone Warzel (Munich)
+Jakob Yngvason (Vienna)
+
+In addition to the talks during the workshop, open problem sessions were organised where new research directions were identified discussed.</gtr:impact><gtr:outcomeId>5478930c5ccdb3.84449433</gtr:outcomeId><gtr:partOfOfficialScheme>true</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www2.warwick.ac.uk/fac/sci/maths/research/events/2013-2014/statmech/SU</gtr:url><gtr:year>2014</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Computational coarse-graining of many-body systems (University of Warwick)</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>44A91E57-EE9B-442F-8A80-217F26E12F8F</gtr:id><gtr:impact>Conference Held at University of Warwick, 9-13 December 2013
+
+Organisers: S. Adams (Warwick), J. Ball (Oxford), C. Le Bris (Paris), C. Ortner (Warwick)
+
+Phase transitions were discussed in the framework of many body systems and nonlinear elasticity.
+
+Invited speakers:
+
+Alexander, Gareth (Warwick)
+Csanyi, Gabor (Cambridge)
+Jansen, Sabine (Universiteit Leiden)
+K&amp;ouml;nig, Wolfgang (Weierstrass Institut, Berlin)
+Legoll, Frederic (Ecole des Ponts, Paris)
+Leimkuhler, Ben (Edinburgh)
+Lelievre, Tony (Ecole des Ponts, Paris)
+Luskin, Mitch (Minnesota)
+Majumdar, Apala (Bath)
+Neugebauer, J&amp;ouml;rg (MPI f&amp;uuml;r Eisenforschung)
+Palffy-Muhoray, Peter (Kent State)
+Plechac, Peter (Delaware)
+Shapeev, Alex (Minnesota)
+Slastikov, Valeriy (Bristol)
+Simpson, Gideon (Drexel)
+Suhov, Yuri (Cambridge)
+Tsagkarogianni, Dimitrios (Crete)
+Voter, Art (Los Alamos)
+Wilkinson, Mark (Ecole normale superieure)
+Wilson, Mark (Durham)
+Weare, Jonathan (Chicago)
+Zannoni, Claudio (Bologna)
+Zarnescu, Arghir (Sussex)
+
+New research directions concerning theory of phase transitions and multiscale analysis were identified and discussed.</gtr:impact><gtr:outcomeId>5478920da4db31.77643629</gtr:outcomeId><gtr:partOfOfficialScheme>true</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www2.warwick.ac.uk/fac/sci/maths/research/events/2013-2014/statmech/ABBO</gtr:url><gtr:year>2013</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Combinatorics and Statistical Mechanics (University of Warwick)</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>A807D998-877D-410F-9399-70D250BA89DA</gtr:id><gtr:impact>Conference Held at University of Warwick, 7-11 April 2014
+
+Organisers: R. Koteck&amp;yacute; (Warwick), A. Sokal (UCL), D. Ueltschi (Warwick)
+ 
+Various links of statistical mechanics and combinatorics were discussed. A special attention was paid to new developments in theory of cluster expansions.
+
+Invited speakers:
+Mikl&amp;oacute;s Ab&amp;eacute;rt (Budapest)
+Marton Balazs (Bristol)
+Nathana&amp;euml;l Berestycki (Cambridge)
+Ohad Feldheim (Tel Aviv)
+Roberto Fern&amp;aacute;ndez (Utrecht)
+Alexey Gladkich (Tel Aviv)
+June Huh (Michigan)
+Gady Kozma (Weizmann Institute)
+Peter M&amp;ouml;rters (Bath)
+Aldo Procacci (Minas Gerais)
+Elena Pulvirenti (Leiden)
+Christian Scullard (Livermore)
+Yinon Spinka (Tel Aviv)
+Jan Swart (Prague)
+Adrian Tanasa (Paris)
+Stephen Tate (Warwick)
+Christoph Temmel (Amsterdam)
+Balint T&amp;oacute;th (Bristol / Budapest)
+
+New directions concerning research of phase transitions in combinatorics were identified and discussed.</gtr:impact><gtr:outcomeId>54789416010741.48650989</gtr:outcomeId><gtr:partOfOfficialScheme>true</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www2.warwick.ac.uk/fac/sci/maths/research/events/2013-2014/statmech/KSU</gtr:url><gtr:year>2014</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Gradient random fields (University of Warwick)</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>FE8DBDB2-AE07-4D96-8870-665CDD599D23</gtr:id><gtr:impact>Conference held at University of Warwick, 26-30 May 2014
+
+Organisers: S. Adams (Warwick), J.-D. Deuschel (Berlin), R. Koteck&amp;yacute; (Warwick)
+
+The talks during the workshop clarified various aspects of the theory of gradient fields including its multi-scale aspects and renormalisation group approach.
+
+Invited speakers:
+A. Abdesselam (Virginia); 
+R.Bauerschmidt (IAS Princeton); 
+M. Biskup (Los Angeles); 
+E. Bolthausen (Zurich); 
+D. Brydges (UBC Vancouver); 
+A. Chandra (Virginia), 
+C. Cotar (UCL London); 
+J. Ding (Stanford); 
+M. Disertori (Rouen/Bonn); 
+M. Hairer (Warwick), 
+T. Helmuth (UBC Vancouver); 
+T. Kumagai (Kyoto); 
+R. Rhodes (Paris); 
+H. Shen (Princeton) ; 
+T. Spencer (IAS Princeton); 
+A. Tomberg (UBC Vancouver); 
+V. Vargas (Paris); 
+H. Weber (Warwick); 
+O. Zeitouni (Weizmann; UMN)
+
+New research directions specified, links between renormalisation group approach and new regularity theory of stochastic differential equations were discussed.</gtr:impact><gtr:outcomeId>5478952f4da2e1.37730220</gtr:outcomeId><gtr:partOfOfficialScheme>true</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www2.warwick.ac.uk/fac/sci/maths/research/events/2013-2014/statmech/ADK</gtr:url><gtr:year>2014</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Phase transitions in discrete structures and computational problems (University of Warwick)</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>7C917554-E86B-4078-9CF5-0D17E3FA3E0A</gtr:id><gtr:impact>Conference held at University of Warwick, 5-9 May 2014
+
+Organisers: A. Coja-Oghlan (Frankfurt), M. Jerrum (Queen Mary, University of London), O. Pikhurko (Warwick), G. Sorkin (LSE)
+
+Threshold phenomena in computer science were discussed from the point of view of mathematics of phase transitions.
+
+Invited Speakers:
+Dimitris Achlioptas (UCSC/RACTI)
+Victor Bapst (Frankfurt)
+Ton Coolen (Kings College, London)
+Charilaos Efthymiou (Frankfurt)
+Silvio Franz (Paris Sud)
+David Galvin (Notre Dame)
+David Gamarnik (MIT)
+Leslie Ann Goldberg (Oxford)
+Svante Janson (Uppsala)
+Mihyun Kang (TU-Graz)
+Florent Krzakala (Paris)
+Eyal Lubetzky (Microsoft, Seattle)
+Nicolas Macris (EPFL)
+Marc Mezard (Paris Sud)
+Mike Molloy (Toronto)
+Kosta Panagiotou (Munich)
+Dana Randall (Georgia Tech)
+Oliver Riordan (Oxford)
+Federico Ricci-Tersenghi (La Sapienza)
+David Saad (Aston, Birmingham)
+Guilhem Semerjian (ENS, Paris)
+Perla Sousi (Cambridge)
+Eric Vigoda (Georgia Tech)
+Lutz Warnke (Cambridge)
+Riccardo Zecchina (Torino)
+
+New directions linking research in computer science and mathematical statistical physics identified and discussed.</gtr:impact><gtr:outcomeId>547894bd0f09b3.94133769</gtr:outcomeId><gtr:partOfOfficialScheme>true</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www2.warwick.ac.uk/fac/sci/maths/research/events/2013-2014/statmech/CJPS</gtr:url><gtr:year>2014</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Models from Statistical Mechanics in Applied Sciences (University of Warwick)</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>EA73AFC2-3219-48A5-B748-46DCBC689941</gtr:id><gtr:impact>Conference Held at University of Warwick, 9-13 September 2013
+
+Organisers: Stefan Grosskinsky (Warwick), Ostap Hryniv (Durham), Florian Theil (Warwick)
+
+The talks at the workshop highlighted various links concerning mathematical problems of phase transitions and applications in several branches of science.
+
+Invited speakers:
+
+Tibor Antal (Edingburgh)
+C&amp;eacute;cile Appert-Rolland (Orsay)
+Baruch Barzel (Harvard &amp;amp; Northeastern, Boston)
+Ginestra Bianconi (QM London)
+Richard Blythe (Edinburgh)
+Freddy Bouchet (Lyon)
+Tiziana di Matteo (King's College)
+Eric Vanden-Eijnden (NYU)
+Martin Evans (Edinburgh)
+Tobias Galla (Manchester)
+Alexander N. Gorban (Leicester)
+Malte Henkel (Nancy)
+Vassili Kolokoltsov (Warwick)
+Tobias Kuna (Reading)
+Alan McKane (Manchester)
+Satya Majumdar (Orsay)
+Mauro Mobilia (Leeds)
+David Mukamel (Weizmann Institute)
+Marco Sarich (FU Berlin)
+Andreas Schadschneider (Cologne)
+Gunter M. Sch&amp;uuml;tz (J&amp;uuml;lich)
+Sorin Solomon (Hebrew University Jerusalem)
+Didier Sornette (ETH Zurich)
+Julien Taillieur (Paris 7)
+Victor Yakovenko (Maryland)
+
+New research directions of research were identified and discussed. Future activity was concerning the application of phase transitions in applied sciences was planned.</gtr:impact><gtr:outcomeId>54789138599cd7.46037959</gtr:outcomeId><gtr:partOfOfficialScheme>true</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www2.warwick.ac.uk/fac/sci/maths/research/events/2013-2014/statmech/GHT</gtr:url><gtr:year>2013</gtr:year></gtr:disseminationOutput></gtr:disseminationOutputs><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">EP/K015400/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>DEA11FBC-BEED-4EDD-890B-97D728462D26</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Mathematical sciences</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>93E27C3B-6D00-4F18-BBE3-96C05C8F92B2</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Non-linear Systems Mathematics</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

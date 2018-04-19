@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/9CA0F4B0-ED85-46DE-B4E1-7A8E5D0F41C9"><gtr:id>9CA0F4B0-ED85-46DE-B4E1-7A8E5D0F41C9</gtr:id><gtr:name>Wirewax Ltd</gtr:name><gtr:address><gtr:line1>Studio 54
+Clink Street Studios
+1 Clink Street</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>SE1 9DG</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/9CA0F4B0-ED85-46DE-B4E1-7A8E5D0F41C9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>9CA0F4B0-ED85-46DE-B4E1-7A8E5D0F41C9</gtr:id><gtr:name>Wirewax Ltd</gtr:name><gtr:address><gtr:line1>Studio 54
+Clink Street Studios
+1 Clink Street</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>SE1 9DG</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>250000.0</gtr:offerGrant><gtr:projectCost>555560.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/CFE48988-E3A5-4082-9D57-09E49B218137"><gtr:id>CFE48988-E3A5-4082-9D57-09E49B218137</gtr:id><gtr:firstName>Alessio</gtr:firstName><gtr:surname>Dore</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720804"><gtr:id>18AB7B6B-2862-4344-87B4-F42E7A0085FE</gtr:id><gtr:title>WIREWAX - IntelliTag</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720804</gtr:grantReference><gtr:abstractText>Global IP video traffic will account for 79% of all consumer Internet traffic by 2018. With
+video content increasingly consumed online instead of via broadcast TV, ad spends are
+migrating to the web. However, web video is still a passive medium which does not fully
+exploit all the potentials of digital web technologies. Interactive video aims at filling this gap
+by creating engaging user experiences such as clickable or shoppable videos or immersive
+storytelling. Interactive videos are typically produced as single, very customised projects by
+creative designers and software developers for a specific video identified by the client. This
+procedure is limiting the exploitation of interactive videos into the current online video
+market where thousands of videos are released every day both for advertisement or content
+broadcasting. With IntelliTag, users will be able to efficiently, automatically or semiautomatically,
+create a large number of interactive videos just by specifying a set of metadata
+without the need of any specific technical knowledge. Tags or ?hotspots? in the form of
+graphical calls-to-action will be linked to the specific elements appearing in the video and
+their motion will be tracked to allow the viewer to interact with the actual moving element.
+The system will be provided with an intuitive Graphical User Interface (GUI) which will
+allow the user to specify the elements of the videos that need to be made interactive. The user
+will be able to create overlays to be associated to a specific metadata in order to display
+product information, behind the scenes videos, competitions and any other external content to
+be linked to the video. Through this process the video will be made ?intelligent? and
+connected to the web around. The system will make use of the most advanced Computer
+Vision and Machine Learning algorithms to extract semantic information from visual and
+audio data and associate them with interactive content to be displayed in the video.</gtr:abstractText><gtr:fund><gtr:end>2017-10-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2016-05-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>250000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720804</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/2B0772D0-9A55-49BA-B97D-90B2531BBD43"><gtr:id>2B0772D0-9A55-49BA-B97D-90B2531BBD43</gtr:id><gtr:name>Rds Technology Limited</gtr:name><gtr:address><gtr:line1>CIRENCESTER ROAD , MINCHINHAMPTON</gtr:line1><gtr:city>STROUD</gtr:city><gtr:postCode>GL6 9BH</gtr:postCode><gtr:region>South West</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/2B0772D0-9A55-49BA-B97D-90B2531BBD43" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>2B0772D0-9A55-49BA-B97D-90B2531BBD43</gtr:id><gtr:name>Rds Technology Limited</gtr:name><gtr:address><gtr:line1>CIRENCESTER ROAD , MINCHINHAMPTON</gtr:line1><gtr:city>STROUD</gtr:city><gtr:postCode>GL6 9BH</gtr:postCode><gtr:region>South West</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>250000.0</gtr:offerGrant><gtr:projectCost>726396.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/4A0E552C-EE82-4192-83F2-0605CA14C825"><gtr:id>4A0E552C-EE82-4192-83F2-0605CA14C825</gtr:id><gtr:firstName>Richard</gtr:firstName><gtr:surname>Danby</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720018"><gtr:id>0F71460E-326C-461E-86F5-A5044F9754C5</gtr:id><gtr:title>ISOBUS and Windows CE based Machinery Controller</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720018</gtr:grantReference><gtr:abstractText>RDS develops and manufactures electronics for monitoring and control of off-road mobile
+machinery. The company operates primarily in the agricultural and construction machinery
+sector. The use of electronics on such machinery has rapidly accelerated over recent years.
+Over 80% of RDS production is exported.
+To remain competitive in a global market, RDS seeks assistance in developing an innovative
+range of instruments and significantly raise the technological base of its products.
+The proposed project will develop a Windows platform to provide an advanced new basis for
+future products.
+A major objective for the project is to use the mobile Windows platform to provide a UK
+sourced solution to comply with ISO Standard 11783, more commonly known as ISOBUS.
+This is a highly complex standard extending to 14 sections and over 940 pages.
+In non-technical terms, ISOBUS is a communication system between tractor and implement.
+This enables any tractor suitably equipped with a 'Virtual Terminal' (VT) to communicate
+seamlessly to any implement suitably equipped with a 'Job Computer' (JC). Once the two
+pieces of machinery are attached together, the tractor and implement will work in harmony.
+For harmony to prevail, both the VT and the JC must conform to the details of the ISOBUS
+standard. It should be stressed that (as far as aware) no other UK electronics company is
+offering an ISOBUS solution, nor is any other UK company developing such a solution.
+During the evolution of the system described above, RDS will expect to have other 'spin-off'
+developments for other, non-ISOBUS applications.
+Technology Area: Electronics/Mechatronics
+Finance.
+Company Contribution: &amp;pound;476,396
+Grant Applied for: &amp;pound;250,000
+Sum: &amp;pound;726,396
+Percentage Requested: 34%
+Dates: As soon as possible, e.g. two years commencing May or June 2011.
+Location: The work will predominantly be undertaken at RDS offices, in Stroud, Glos. Some
+test work will be field based.</gtr:abstractText><gtr:fund><gtr:end>2013-09-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2011-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>250000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720018</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/7F118559-2A0E-4BA6-AAC6-12731E497AEF"><gtr:id>7F118559-2A0E-4BA6-AAC6-12731E497AEF</gtr:id><gtr:name>Seawater GreenhouSE Limited</gtr:name><gtr:address><gtr:line1>2A GREENWOOD ROAD , LONDON</gtr:line1><gtr:postCode>E8 1AB</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/7F118559-2A0E-4BA6-AAC6-12731E497AEF" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>7F118559-2A0E-4BA6-AAC6-12731E497AEF</gtr:id><gtr:name>Seawater GreenhouSE Limited</gtr:name><gtr:address><gtr:line1>2A GREENWOOD ROAD , LONDON</gtr:line1><gtr:postCode>E8 1AB</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>20664.0</gtr:offerGrant><gtr:projectCost>29520.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/37989962-10E5-45F4-A140-B0591CF9FAFE"><gtr:id>37989962-10E5-45F4-A140-B0591CF9FAFE</gtr:id><gtr:firstName>Charlie</gtr:firstName><gtr:surname>Paton</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=132558"><gtr:id>2DD9F45B-C0C0-481C-B692-06CD1AC901A0</gtr:id><gtr:title>Developing Opportunities for Seawater Greenhouse in South Africa</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Feasibility Studies</gtr:grantCategory><gtr:grantReference>132558</gtr:grantReference><gtr:abstractText>The study will assess the potential for application of the Seawater Greenhouse process along the arid
+
+coasline of South Africa and Namibia. Using climate data from the region, we will model how the approach
+
+will perform, cooling and humidifying the climate and generating a new source of fresh water for
+
+irrigation. Agriculture in the region is currently marginal and risky, as evaporation exceeds precipitation
+
+several-fold.
+
+Successful implementation will result from teamwork, combining academic, commercial and polititical
+
+interests locally, to establish an entity with the required skills, support, know-how and resources to
+
+develop and implement a successful project that leads to commercial scale-up. Many of these have already
+
+been identified, but so too have gaps, and these we will seek to fill.
+
+We will also investigate established frameworks for cross cutting research, development and
+
+implementation, such as the Newton and Agri-tech Catalyst programs.</gtr:abstractText><gtr:fund><gtr:end>2017-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2017-01-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>20664</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">132558</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

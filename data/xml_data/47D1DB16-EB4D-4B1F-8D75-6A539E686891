@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/C4101823-0D51-41A5-B23B-DB3F33697661"><gtr:id>C4101823-0D51-41A5-B23B-DB3F33697661</gtr:id><gtr:name>Snelflight Ltd</gtr:name><gtr:address><gtr:line1>30 NEW ROAD , BRIGHTON</gtr:line1><gtr:city>EAST SUSSEX</gtr:city><gtr:postCode>BN1 1BN</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/C4101823-0D51-41A5-B23B-DB3F33697661" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>C4101823-0D51-41A5-B23B-DB3F33697661</gtr:id><gtr:name>Snelflight Ltd</gtr:name><gtr:address><gtr:line1>30 NEW ROAD , BRIGHTON</gtr:line1><gtr:city>EAST SUSSEX</gtr:city><gtr:postCode>BN1 1BN</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>99991.0</gtr:offerGrant><gtr:projectCost>200503.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/F0231D0E-1D74-469B-9AE8-FED6363E11B6"><gtr:id>F0231D0E-1D74-469B-9AE8-FED6363E11B6</gtr:id><gtr:firstName>Phil</gtr:firstName><gtr:surname>Jermyn</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710396"><gtr:id>47D1DB16-EB4D-4B1F-8D75-6A539E686891</gtr:id><gtr:title>HoverSafe - Safe Unmanned Aerial Vehicle Technology For Civilian Purposes</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710396</gtr:grantReference><gtr:abstractText>We aim to put the UK at the forefront of the small advanced civilian UAV market by
+developing a UAV that can be deployed immediately on arrival at a site and flown safely with
+minimal fuss and no training. Our technology is based around using virtual or physical tethers,
+providing control, safety and simplicity in use.
+The civilian UAV market is set to expand dramatically globally, with the convergence of
+multiple technologies and demand stimulated by the massive increase in UAV use by the
+military. Civilian uses include surveying, conservation, film and television, agriculture,
+policing and many others.
+The market is currently constrained by aviation rules, but in many countries these rules are
+being reviewed with a view to allowing civilian UAVs. In addition, the physically tethered
+version of our technology may not be covered by most aviation restrictions currently in place.
+Falling from height is the most common cause of fatalities at work, with 40 deaths in the UK
+in 2011/12 and 374,000 working days lost.. Using UAVs to inspect high structures such as
+bridges, wind turbines, chimneys and roofs could remove the need for tens of thousands of
+risky operations per year.
+UAVs could revolutionise such activities as conservation - surveying populations of birds and
+animals, inspecting habitats and assessing forestry or monitoring agricultural and fishing
+practices.
+One of the key barriers to these uses for UAVs is ease of operation - many UAVs require
+significant flying skills. Others require complex equipment in the field, or for communications
+and control.
+In addition, safety is paramount and has not typically been the highest priority for UAVs - for
+example, in military use, the safety considerations are very different to those in civilian use.
+The outcome of this project will be an easy to use, safe UAV technology ready to be used by
+specific markets in the UK and abroad.</gtr:abstractText><gtr:fund><gtr:end>2015-04-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2013-11-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>99991</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710396</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

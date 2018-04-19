@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/BAA67FDA-E35B-4D8B-9044-E3C561DF88D6"><gtr:id>BAA67FDA-E35B-4D8B-9044-E3C561DF88D6</gtr:id><gtr:name>Team Enterprises</gtr:name><gtr:address><gtr:line1>The Coach House
+Ealing</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>W13 9QX</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/BAA67FDA-E35B-4D8B-9044-E3C561DF88D6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>BAA67FDA-E35B-4D8B-9044-E3C561DF88D6</gtr:id><gtr:name>Team Enterprises</gtr:name><gtr:address><gtr:line1>The Coach House
+Ealing</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>W13 9QX</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>24912.0</gtr:offerGrant><gtr:projectCost>41520.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/222A1D14-6EE5-4F1C-94CE-3C9CAF7B77A9"><gtr:id>222A1D14-6EE5-4F1C-94CE-3C9CAF7B77A9</gtr:id><gtr:firstName>Mike</gtr:firstName><gtr:surname>Rowley</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700291"><gtr:id>6CC891A3-AFEA-4857-B5F1-340E628F12ED</gtr:id><gtr:title>New Bike Storage solution</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700291</gtr:grantReference><gtr:abstractText>Households in built-up areas with limited outside space have the problem of where to store
+their bikes securely and conveniently.
+Storing a bike presents three issues:
+? protecting it from the elements
+? concealing it from view
+? locking it to a fixing
+Outbuildings (garages, sheds) are the obvious solution where space is available, providing
+good protection and hiding the bike from view. They are not necessarily secure however, can
+be costly and for many are not an option due to space restrictions.
+For many city dwellers the alternatives are to leave the bike
+? at the front of the property attached by D Locks or chains to railings etc The bikes are
+exposed to the elements and on full view, which encourages speculative thieving.
+? in a rear garden covered by a fabric sheet. This is not convenient to put on and off and
+not very effective at keeping the bike dry
+? inside the house, hanging on hooks in hallways or generally around the home where
+of course they are very much in the way and clutter up the living space.
+The ?Bike Port? is a range of products designed to provide a solution to these problems. The
+shelter consists of a set of panels that attach to a wall with a unique bracket. The bike is
+secured using a wall anchor.
+The main advantages of the Bike Port concept are that
+? It provides better protection against the weather than a simple fabric cover
+? It takes up less space than a shed
+? It hides the bike from view and offers a means of locking the bike to a fixing.
+? It also has the advantage of folding flat against a wall when the bike is removed so it
+can be installed in a narrow side passage if necessary.</gtr:abstractText><gtr:fund><gtr:end>2014-05-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2013-11-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>24912</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700291</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

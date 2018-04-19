@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/63A7C928-3A19-4C14-812F-370961534DAC"><gtr:id>63A7C928-3A19-4C14-812F-370961534DAC</gtr:id><gtr:name>John Innes Centre</gtr:name><gtr:department>Biological Chemistry</gtr:department><gtr:address><gtr:line1>Norwich Research Park</gtr:line1><gtr:line2>Colney</gtr:line2><gtr:line3>Norwich</gtr:line3><gtr:line4>Norwich</gtr:line4><gtr:postCode>NR4 7UH</gtr:postCode><gtr:region>East of England</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/63A7C928-3A19-4C14-812F-370961534DAC"><gtr:id>63A7C928-3A19-4C14-812F-370961534DAC</gtr:id><gtr:name>John Innes Centre</gtr:name><gtr:address><gtr:line1>Norwich Research Park</gtr:line1><gtr:line2>Colney</gtr:line2><gtr:line3>Norwich</gtr:line3><gtr:line4>Norwich</gtr:line4><gtr:postCode>NR4 7UH</gtr:postCode><gtr:region>East of England</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/04D76F30-BDEF-45A1-82ED-3946C84E9824"><gtr:id>04D76F30-BDEF-45A1-82ED-3946C84E9824</gtr:id><gtr:firstName>Rob</gtr:firstName><gtr:surname>Field</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=BB%2FN010272%2F1"><gtr:id>885EF352-8DE5-4A55-8C04-AEE41F3E57EB</gtr:id><gtr:title>14 ERA-CAPS. Designing starch - harnessing carbohydrate polymer synthesis in plants</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>BB/N010272/1</gtr:grantReference><gtr:abstractText>Starch is a natural product produced by most land plants and algae with remarkable physicochemical
+properties. It is composed of two polymers of glucose: amylose, a predominantly linear polymer, and amylopectin, which also contains branch points, resulting in a tree-like structure. The simple constituents of starch is contrasted by its complex and highly ordered structure, in which crystalline and amorphous layers alternate in a defined and regular fashion. This structure gives starch unique
+physicochemical properties, which make it an exceptionally tightly packed energy storage that is of
+such tremendous importance for the human diet and economy as a whole. Despite decades of intense
+research, it is still not understood how precisely starch granule biogenesis initiates and progresses. A
+relatively small number of enzymes are involved, but it is unclear how their activities are coordinated
+in order to ultimately control the structure and properties of starch.
+The objective of our project is to gain a profound understanding of the regulation and control of the
+biophysical and biochemical processes involved in the formation of the complex polymeric structure
+that is the starch granule. We will apply this understanding to recreate the synthesis of starch in the test tube
+and learn to control its physical and chemical properties in a targeted way. By producing starch
+synthesising enzymes in yeast, an organism not natively producing starch, we will design starches with
+new properties.</gtr:abstractText><gtr:technicalSummary>Starch is a natural product produced by most land plants and algae with remarkable physicochemical
+properties. Starch is composed of two polymers of glucose: amylose, a predominantly linear polymer
+of alpha-1,4 linked glucose units, and amylopectin, which also contains alpha-1,6 linkages (branch points)
+resulting in a tree-like structure. The simple constituents of starch (one type of monomer and two
+types of linkages) is contrasted by its complex and highly ordered structure, in which crystalline and
+amorphous layers alternate in a defined and regular fashion. This structure gives starch unique
+physicochemical properties, which make it an exceptionally tightly packed energy storage that is of
+such tremendous importance for the human diet and economy as a whole. Despite decades of intense
+research, it is still not understood how precisely starch granule biogenesis initiates and progresses. A
+relatively small number of enzymes are involved, but it is unclear how their activities are coordinated
+in order to ultimately control the structure and properties of starch.
+The objective of our project is to gain a profound understanding of the regulation and control of the
+biophysical and biochemical processes involved in the formation of the complex polymeric structure
+that is the starch granule. We will apply this understanding to recreate the synthesis of starch in vitro
+and learn to control its physical and chemical properties in a targeted way. By expressing starch
+synthesising enzymes in yeast, an organism not natively producing starch, we will design starches with
+desired properties in vivo. This will be translated back in planta to genetically engineer plants
+producing starch with desired, pre-defined physicochemical properties.</gtr:technicalSummary><gtr:potentialImpactText>Who will benefit from this research?
+
+The goal of this research is to provide a fundamental underpinning that will enable the generation of new starches with defined properties through genetic engineering - i.e. synthetic biology. As such, the project will benefit:
+
+. scientists with an interest in starch structure, properties and applications
+. scientists with an interest in metabolic engineering
+. the food processing, pharmaceutical tableting and paper processing industries, which makes of starches with different properties
+. the bioenergy industry, with interests in the generation and controlled degradation of sugar-based feedstocks
+
+How will they benefit from this research?
+
+The ability to genetically 'dial-up' starch properties will enable:
+
+. better controlled drug release from tablets, supporting improved medication
+. improved food functionality, potentially with lower calorific impact on and hence health benefits for the consumer
+
+These impacts ought to be achievable within 5-10 years of the finalisation of standard operating procedures arising from this program.
+
+Synthetic biology approaches to be develop din this program will provide a basis set of components for wider glycoengineering, with potential impact on the production and efficacy of biopharmaceuticals. 
+
+The program also challenges convention and will provide an opportunity for the postdocs in the program to span physical and life sciences, theory and experiment, acquiring contemporary skills for the biotech job market.</gtr:potentialImpactText><gtr:fund><gtr:end>2018-09-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/2512EF1C-401B-4222-9869-A770D4C5FAC7"><gtr:id>2512EF1C-401B-4222-9869-A770D4C5FAC7</gtr:id><gtr:name>BBSRC</gtr:name></gtr:funder><gtr:start>2015-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>400751</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">BB/N010272/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>F442B6BE-8B89-4C01-8D3B-E8A4D320B672</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Biomolecules &amp; biochemistry</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>2607D197-52EE-40CA-A1D5-A46D18C3F97F</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Microbial sciences</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>21792584-97FF-4E36-9A3A-B992BE1DF6A4</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Bioenergetics</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>75BBF8D4-D2E9-4106-B484-743614789AF9</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Microorganisms</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

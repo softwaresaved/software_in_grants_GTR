@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/B27A8418-A71E-4A7F-9AFD-DF6317A9B658"><gtr:id>B27A8418-A71E-4A7F-9AFD-DF6317A9B658</gtr:id><gtr:name>Biovation UK Limited</gtr:name><gtr:address><gtr:line1>c/o Kpmg Llp 37 Albyn Place</gtr:line1><gtr:city>Aberdeen</gtr:city><gtr:postCode>AB10 1JB</gtr:postCode><gtr:region>Scotland</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/B27A8418-A71E-4A7F-9AFD-DF6317A9B658" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>B27A8418-A71E-4A7F-9AFD-DF6317A9B658</gtr:id><gtr:name>Biovation UK Limited</gtr:name><gtr:address><gtr:line1>c/o Kpmg Llp 37 Albyn Place</gtr:line1><gtr:city>Aberdeen</gtr:city><gtr:postCode>AB10 1JB</gtr:postCode><gtr:region>Scotland</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>25002.0</gtr:offerGrant><gtr:projectCost>47888.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/D7AD109B-B07C-4A35-9361-908334B759D3"><gtr:id>D7AD109B-B07C-4A35-9361-908334B759D3</gtr:id><gtr:firstName>John</gtr:firstName><gtr:surname>Everingham</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700506"><gtr:id>EE8BEE8B-3AD6-4408-871D-CC657F49AFAB</gtr:id><gtr:title>Novel Advanced SCI Instrumentation for CMC Joint</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700506</gtr:grantReference><gtr:abstractText>The joint at the base of the thumb is referred to as the carpometacarpal (CMC) joint. CMC
+joint wears &amp;amp; develop arthritis. Osteoarthritis (OA) is the most common form of arthritis,
+causing loss of movement, stiffness, pain, &amp;amp; ultimately surgery is required. Surgical options
+are:
+1) Trapeziectomy - removal of arthritic bone
+2) Arthrodesis - fusion of the bone
+3) Total joint replacement (TJR)
+4) Metacarpal osteotomy - bone fragments cut/modified
+5) Early stem cell technology
+6) Denervation - small nerves divided, to relieve pain.
+Most operations for CMC joint OA have lengthy recovery after surgery &amp;amp; impaired pinch
+strength.
+Cartiva Inc. developed a Synthetic Cartilage Implant (SCI); a polyvinyl alcohol (PVA)
+cryogel that mimics natural cartilage. SCI is currently used as an effective surgical option for
+OA, treating defects in the foot 1st/2nd Metatarsal Phalangeal Joint (MTPJ) providing fast
+recovery, being less invasive than Total Joint Replacement (TJR) &amp;amp; used as intermediate
+treatment to postpone or possibly eradicate TJR. Studies have shown that grip &amp;amp; pinch
+strength are significantly improved &amp;amp; nearly full range of motion returns when using SCI for
+CMC joint OA. The Cartiva? SCI could treat early stage lesions in the CMC joint &amp;amp; provide
+additional years of joint health &amp;amp; active lifestyle, potentially eradicating TJR &amp;amp; revisional
+surgery.
+The MTPJ SCI, does not match the saddle joint configuration of the CMC joint, therefore,
+Cartiva Inc. propose to develop a saddle shaped SCI to match the biomechanics of the CMC
+joint. MTPJ SCI instrumentation would not be compatible with a saddle shaped SCI. B-UK
+propose to research the CMC joint market to see if extending the companies technology into
+this market would be a good return of investment with hopes to ultimately develop single use
+instrumentation that delivers 1) Ease of handling 2) implant loading, control &amp;amp; orientation
+during delivery 3) implantation mechanism 4) Single use</gtr:abstractText><gtr:fund><gtr:end>2015-07-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2015-02-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>25002</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700506</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/DACD9CB4-B2CB-4771-86EC-F44F6EEAB063"><gtr:id>DACD9CB4-B2CB-4771-86EC-F44F6EEAB063</gtr:id><gtr:name>Sound Approach Limited</gtr:name><gtr:address><gtr:line1>85 WILLES ROAD</gtr:line1><gtr:city>LEAMINGTON SPA</gtr:city><gtr:postCode>CV31 1BS</gtr:postCode><gtr:region>West Midlands</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/DACD9CB4-B2CB-4771-86EC-F44F6EEAB063" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>DACD9CB4-B2CB-4771-86EC-F44F6EEAB063</gtr:id><gtr:name>Sound Approach Limited</gtr:name><gtr:address><gtr:line1>85 WILLES ROAD</gtr:line1><gtr:city>LEAMINGTON SPA</gtr:city><gtr:postCode>CV31 1BS</gtr:postCode><gtr:region>West Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>88289.0</gtr:offerGrant><gtr:projectCost>147149.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/FD87BA28-CA8A-465E-984B-F0A3053E756A"><gtr:id>FD87BA28-CA8A-465E-984B-F0A3053E756A</gtr:id><gtr:firstName>Mick</gtr:firstName><gtr:surname>Gordon</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710064"><gtr:id>C2407707-37BF-4D41-8683-9B72F4EAE92A</gtr:id><gtr:title>Creation of a proof-of-concept, wet wipe dispense technology for both portable pouch pack and plastic tubs.</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710064</gtr:grantReference><gtr:abstractText>Sound Approach Ltd was set-up as a start-up company in 2004 by Mick Gordon who has
+conceived the innovative ideas. Mick has invested considerable effort into developing the
+business model and has invested nearly &amp;pound;250k of his personal money into the project to date.
+The mission of Sound Approach Ltd is to develop innovative technologies that solve known
+problems related to dispensing wet wipes, and then licence the resultant I.P. to selected multinationals.
+It is well known that wet wipes dispense inefficiently from their containers. Up to 30% of
+wipes are wasted due to a combination of multiple wipes ?streaming? out of the packs and
+wipes prematurely drying out. These problems remain unresolved leaving a huge opportunity
+for the provider of the correct solution. Solutions have been developed and patented by Sound
+Approach Ltd which solve these problems.
+The inefficiency with which wipes dispense from tubs has made deploying wipes from fixed,
+lockable dispensers completely unviable. But extensive research has indicated that there are
+burning requirements for wet wipe dispensing systems within the commercial and medical
+sector :
+(i) Within healthcare establishments they can be used for cleaning hands and other body parts
+as well as surfaces,
+(ii) Within the food industry (eateries, food manufacturers etc) they could be great help to
+enable staff to comply with prevailing hygiene regulations and to enable diners to cleanse
+their hands before and after dining.
+(iii) Within public toilet cubicles to enable easy cleansing of toilet seats prior to usage or
+private parts cleansing after toilet usage.
+But in order to be feasibly deployed and enable these new applications to be addressed, the
+consumables must be locked within the dispenser so as to protect them from pilferage. In
+order to minimise disruption, this therefore means that the wipes must dispense extremely
+reliably from their containers, one-at-a-time, leaving ample 'tail' for the next user to grasp and
+the consumable container must be able to keep the wipes wet.
+Lockable ?KlenzPod dispensers have been developed to a very high standard by the Sound
+Approach. They securely attach to a variety of supports and certain models allow for the spent
+wipes to be disposed of at the point of usage. One of the objectives of this project is therefore
+to produce reliably performing consumables so that KlenzPod can effectively address the
+huge opportunities that have been identified.
+Similarly, developing more efficient dispense systems for pouch packs of wipes will provide
+the chosen licensees with a major competitive advantage. By offering the domestic consumer
+a product that will obviate the present frustrations and costs associated to using wet wipes,
+they will be able to increase their share of the massive, growing $ 4.0 billion annual market
+for pouch packs of wet wipes. The ?proof-of-concept? samples featuring these innovations are
+therefore eagerly awaited by major companies.</gtr:abstractText><gtr:fund><gtr:end>2012-08-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2011-09-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>88289</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710064</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

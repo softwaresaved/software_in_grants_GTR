@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/7CE35516-E3E7-4D26-A81F-94B7712CD1D1"><gtr:id>7CE35516-E3E7-4D26-A81F-94B7712CD1D1</gtr:id><gtr:name>Dataslide (UK) Llp</gtr:name><gtr:address><gtr:line1>249 LONDON ROAD , ST LEONARDS ON SEA</gtr:line1><gtr:city>EAST SUSSEX</gtr:city><gtr:postCode>TN37 6LU</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/7CE35516-E3E7-4D26-A81F-94B7712CD1D1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>7CE35516-E3E7-4D26-A81F-94B7712CD1D1</gtr:id><gtr:name>Dataslide (UK) Llp</gtr:name><gtr:address><gtr:line1>249 LONDON ROAD , ST LEONARDS ON SEA</gtr:line1><gtr:city>EAST SUSSEX</gtr:city><gtr:postCode>TN37 6LU</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>99684.0</gtr:offerGrant><gtr:projectCost>166140.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710024"><gtr:id>41F6A0C1-0923-41EC-956A-61BA5654F51E</gtr:id><gtr:title>Dataslide Proof-of-Concept Demonstrator</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710024</gtr:grantReference><gtr:abstractText>The total market for data storage is estimated to be over $30bn. It is forecast to continue
+growing at +10%pa, driven by increased use of video, the rapid growth of cloud computing,
+and the continued explosive growth in mobile devices. Hard disc drives are an established
+technology, and in consumer devices have achieved capacities of over 1000GB. However, in
+business data centres, where high integrity of data is a must, the standard module is 72GB in a
+2&amp;frac12; inch package. The market for these modules alone is over $4bn, since they fail and need
+replacing regularly. These hard disc drives are close to their technical limit ? they can?t spin
+much faster than the current 12,000 rpm, and they are always restricted to a single read-write
+head operating in serial mode. The first Dataslide product could readily be packaged to
+replicate the performance and functionality of these modules, with potentially higher
+reliability. And estimated energy use of the Dataslide device would be less than 25% of the
+equivalent hard disc drive. Western Digital, Seagate, Oracle and Cisco have all expressed
+interest in using Dataslide, once they can be convinced it can work
+Solid state (semiconductor) memory is increasingly used in mobile devices ? mobile phones,
+tablet computers and high-end laptops. It?s not widely known outside the storage industry that
+solid state memory has a number of unsolved problems. The write speed is much slower than
+the read speed; individual cells can wear out after more than 10 write operations ? not a big
+problem for consumer devices but a critical issue in high integrity applications; the software
+overhead of interfacing to solid state storage is a big problem for mobile phone
+manufacturers; and solid state storage also consumes considerable battery power. The
+Dataslide device could be packaged for mobile devices, and would potentially solve these
+problems. There are over 1bn mobile phones purchased annually ? a growing proportion are
+smart phones with increasing internal memory. And the market for tablet computers is just
+taking off. Qualcomm, the originator and owner of the CDMA technology underlying
+today?s 3G phones, and the largest fab-less semiconductor company in the world, has
+expressed interest in using the Dataslide concept in its mobile device designs. And Samsung,
+the leading producer of solid state memory, has also expressed interest</gtr:abstractText><gtr:fund><gtr:end>2012-08-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2012-03-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>99684</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710024</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

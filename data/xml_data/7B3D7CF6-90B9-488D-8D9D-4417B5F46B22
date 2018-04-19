@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/88C5F7F9-8DCC-41C9-BC4F-F37DA01075C7"><gtr:id>88C5F7F9-8DCC-41C9-BC4F-F37DA01075C7</gtr:id><gtr:name>University of East Anglia</gtr:name><gtr:department>Chemistry</gtr:department><gtr:address><gtr:line1>Earlham Road</gtr:line1><gtr:line4>Norwich</gtr:line4><gtr:line5>Norfolk</gtr:line5><gtr:postCode>NR4 7TJ</gtr:postCode><gtr:region>East of England</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/88C5F7F9-8DCC-41C9-BC4F-F37DA01075C7"><gtr:id>88C5F7F9-8DCC-41C9-BC4F-F37DA01075C7</gtr:id><gtr:name>University of East Anglia</gtr:name><gtr:address><gtr:line1>Earlham Road</gtr:line1><gtr:line4>Norwich</gtr:line4><gtr:line5>Norfolk</gtr:line5><gtr:postCode>NR4 7TJ</gtr:postCode><gtr:region>East of England</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/08C6DD0B-581C-4C1A-A5F6-3E158889B1A2"><gtr:id>08C6DD0B-581C-4C1A-A5F6-3E158889B1A2</gtr:id><gtr:firstName>Stephen</gtr:firstName><gtr:otherNames>Hugh</gtr:otherNames><gtr:surname>Ashworth</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=EP%2FF066716%2F1"><gtr:id>7B3D7CF6-90B9-488D-8D9D-4417B5F46B22</gtr:id><gtr:title>The New Norwich Science Olympiad</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Other Grant</gtr:grantCategory><gtr:grantReference>EP/F066716/1</gtr:grantReference><gtr:abstractText>From around 1980 for about twenty years a Science Olympiad was held at the University of East Anglia (UEA), in Norwich. It was a two day event which attracted thousands of school children from around the county to the UEA. For a number of reasons including changes at the University and increasing pressure in schools the event has not been organised for a number of years.We feel the time is now right to restart and re-establish the Olympiad. There is currently a drive to encourage more youngsters to take science, technology, engineering and mathematics (STEM) subjects beyond the age of sixteen. Organisations such as AimHigher are busy trying to raise the aspirations of schoolchildren by getting them onto University campuses.We have a new vision for the Olympiad: we would like to make it more inclusive rather than exclusive. Whereas in previous years schools have picked their best scientists to maximise the chance of success we aim to involve more of the class. Events over the two days will be targeted at ages 8-17.The run-up to the Olympiad will start in early in the year (perhaps in Science Week) with the launch of the group rounds of an internet quiz: Top Class. This has been developed as a separate project which involves whole classes playing against one another against the clock. The final of the quiz would be part of the main event. By expanding participation every year we aim to be able to involve more than 10,000 schoolchildren by the final year.There is already sufficient funding in place to run a scaled down version of the Olympiad in 2008. The present application will enable us to maintain the momentum and use the time to put funding on a sustainable footing.</gtr:abstractText><gtr:fund><gtr:end>2011-09-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2008-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>161661</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs><gtr:disseminationOutput><gtr:description>The Norwich Science Olympiad</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>Regional</gtr:geographicReach><gtr:id>B8675D00-F180-4B3B-8388-CE399ABF67C3</gtr:id><gtr:impact>The Olympiad was a two day event which ran each year of the three year project. On the first day 400 schoolchildren from Years 3-6 came on to campus and each year group had a specific competition, there were also workshops and a demonstration lecture and an awards ceremony at the end of the day. On the second day the competitions were longer and the competitors were drawn from Years 7-10 and Year 12. Usually around 300 schoolchildren competed.
+
+Many schools noted how enthusiastic the children were both during and after the day.</gtr:impact><gtr:outcomeId>54513f415d9958.67341910</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Schools</gtr:primaryAudience><gtr:url>http://www.norwichscienceolympiad.org.uk</gtr:url><gtr:year>2009,2010,2011</gtr:year></gtr:disseminationOutput></gtr:disseminationOutputs><gtr:exploitationOutputs/><gtr:furtherFundingOutputs><gtr:furtherFundingOutput><gtr:amountPounds>2000</gtr:amountPounds><gtr:country>Germany, Federal Republic of</gtr:country><gtr:currCode>GBP</gtr:currCode><gtr:currCountryCode>United Kingdom</gtr:currCountryCode><gtr:currLang>en_GB</gtr:currLang><gtr:description>Bayer CropScience</gtr:description><gtr:end>2012-02-02</gtr:end><gtr:fundingOrg>Bayer</gtr:fundingOrg><gtr:id>F1181B1A-8E33-4502-BF6A-44C4DF8827C3</gtr:id><gtr:outcomeId>r-4343224730.66227906a5b52c</gtr:outcomeId><gtr:sector>Private</gtr:sector><gtr:start>2011-02-01</gtr:start></gtr:furtherFundingOutput><gtr:furtherFundingOutput><gtr:amountPounds>50000</gtr:amountPounds><gtr:country>European Union (EU)</gtr:country><gtr:currCode>GBP</gtr:currCode><gtr:currCountryCode>United Kingdom</gtr:currCountryCode><gtr:currLang>en_GB</gtr:currLang><gtr:description>Comenuis Regio</gtr:description><gtr:end>2012-02-02</gtr:end><gtr:fundingOrg>European Commission</gtr:fundingOrg><gtr:id>B6E7E8CA-8BBE-4E3D-863B-E60F133185A1</gtr:id><gtr:outcomeId>5ec6f0c25ec6f0d6</gtr:outcomeId><gtr:sector>Public</gtr:sector><gtr:start>2010-03-01</gtr:start></gtr:furtherFundingOutput></gtr:furtherFundingOutputs><gtr:impactSummaryOutputs><gtr:impactSummaryOutput><gtr:description>Three Olympiads were run during the course of the grant. Each impacted the following:
+
+400 primary school children (total 1200)
+
+300 secondary school children (total 900)
+
+A team of sixteen teachers and retired teachers including staff from the education department.
+
+
+
+The teachers devised competitive tasks which ran on two consecutive days in June / July on each of the three years of the grant. Planning usually started in January and regular meetings were held which contribute to the CPD of the active teachers.
+
+
+
+Independently an internet based competition was held which involved whole classes of both year 6 and year 9 pupils in competitions - Top Class. The finals of these competitions were held in conjunction with the Olympiad and involved a total of around 1,500 pupils over the three years of the grant.
+
+
+
+Another team of education professionals was involved in the design of the tasks for the stage show final and the staging of the final show.
+
+The Olympiad competitions allowed many schoolchildren to compete to complete tasks that they would not have come across before at school. Competitions were staged for Years 3-10 and 12 with additional internet based competitions for Years 6 and 9. This impacted around 1,500 local schoolchildren eachyear.
+
+Beneficiaries: Pupils, education professionals
+
+Contribution Method: No research carried out on this Public Engagement grant.</gtr:description><gtr:firstYearOfImpact>2009</gtr:firstYearOfImpact><gtr:id>7771386F-F3C0-4CA1-B695-A1E3E8C76C2C</gtr:id><gtr:impactTypes><gtr:impactType>Societal</gtr:impactType></gtr:impactTypes><gtr:outcomeId>m-6974024434.549757de24d206</gtr:outcomeId><gtr:sector>Education</gtr:sector></gtr:impactSummaryOutput></gtr:impactSummaryOutputs><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>The Olympiad always has events for all the Year-Groups from 3 to 12. They include practical and quiz competitions. 
+
+
+
+Practical Competitions 
+
+The practical competitions take place over two days in the laboratories and other locations at UEA. There are practical competitions for each of nine year groups, with 100 or so pupils taking part in each. The competitions are designed, primarily by teachers, to be fun, as well as challenging, e.g. 
+
+Year 4 From a sample of six colourless liquids, discover the recipe for Dragon's Blood, a yellow liquid that fizzes. 
+
+Year 6 Discover the location of buried treasure on a map by carrying out experiments in which the results indicate the co-ordinates of points on the treasure trail. 
+
+Year 8 Determine how a length of plastic tubing can be arranged to enable a marble to roll down it, and land on a target at any defined distance from the tube. 
+
+Year 10 Determine the density of an Alka Seltzer tablet. 
+
+Year 12 Using a map and selected analytical reagents, determine the source of samples of water taken from different locations in the course of a local river. 
+
+
+
+Top Class in Science 
+
+Over the lasts four years, we have developed a unique and innovative quiz competition, Top Class in Science, that is designed to open up the Olympiad to all pupils in a class, not just the relatively small number that can take part in the practical events at UEA. This competition currently runs with Years 6 and 9. 
+
+
+
+Top Class in Science uses the Internet to run quiz matches between two classes, each in a different school. All the pupils in each class are allocated to ten teams. The teams in one class are paired with teams in the other to play games. These ten games constitute a match. In each game, the opposing teams simultaneously download the same set of multiple-choice questions to their computers. The quicker a team gives the correct answer to a question, the more points are won. The team with the greater number of points wins the game. The class with the greater number of games wins the match. All the questions refer to high-quality images. They test the pupils in concrete visual terms, not abstract verbal terms. 
+
+
+
+Matches are structured to lead over the Summer Term to a grand final stage show between two schools. In many schools, the competition starts before Easter with internal matches to decide which class will proceed to the inter-school phase. 
+
+
+
+Each grand final stage show takes place in a theatre at UEA before a large audience of pupils, parents, teachers and members of the general public, such as civic dignitaries. It has a professionally designed set, on which the pupils tackle practical science problems involving large-scale apparatus and theatrical props, e.g. 
+
+Chemistry Select and use items bought in a supermarket to determine which of two 2-litre flasks contains water, and which contains caustic soda. 
+
+Biology Use a list of the relevant dominant and recessive genes, and a kit of specially made large wooden cut-outs, to construct a profile of a child that would be born to Roger Hargreaves' characters, Mr Strong and Little Miss Happy. 
+
+Physics Given the formula for the period of swing, use a stop watch to determine the lengths of pendulums approximately 10' long hanging from the stage roof 
+
+
+
+We already have plans in place for the Olympiad next year and are planning to sustain it in the future. The Top Class quiz is presently undergoing a pilot with four classes in S. Africa prior to applying for support to extend the competition to further schools.</gtr:description><gtr:exploitationPathways>The competitive events developed for these Olympiads could be adapted for implementation by others or used directly.</gtr:exploitationPathways><gtr:id>E3211455-CFEB-44C4-AE84-DE35F6BACDCC</gtr:id><gtr:outcomeId>r-135494377.590244987799153a</gtr:outcomeId><gtr:sectors><gtr:sector>Education</gtr:sector></gtr:sectors><gtr:url>http://www.norwichscienceolympiad.org.uk/Evaluations.html</gtr:url></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">EP/F066716/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>863FC58A-7217-42EA-B076-663F2D770BB8</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Chemical measurement</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>1820CCC5-B4C4-47E9-B81F-8F49AC606F0E</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Chemical Structure</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

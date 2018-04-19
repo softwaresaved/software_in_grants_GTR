@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/85759F51-E26C-4BC0-8C30-2EF0FA3C366B"><gtr:id>85759F51-E26C-4BC0-8C30-2EF0FA3C366B</gtr:id><gtr:name>Esoterix Systems Limited</gtr:name><gtr:address><gtr:line1>14 HIGHFIELD GROVE , BRISTOL</gtr:line1><gtr:postCode>BS7 8QH</gtr:postCode><gtr:region>South West</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/85759F51-E26C-4BC0-8C30-2EF0FA3C366B" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>85759F51-E26C-4BC0-8C30-2EF0FA3C366B</gtr:id><gtr:name>Esoterix Systems Limited</gtr:name><gtr:address><gtr:line1>14 HIGHFIELD GROVE , BRISTOL</gtr:line1><gtr:postCode>BS7 8QH</gtr:postCode><gtr:region>South West</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>93450.0</gtr:offerGrant><gtr:projectCost>155763.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/F69D531C-0F15-4A0B-B4A9-CFB9D46B9A51"><gtr:id>F69D531C-0F15-4A0B-B4A9-CFB9D46B9A51</gtr:id><gtr:firstName>David</gtr:firstName><gtr:surname>Stewart</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710057"><gtr:id>BCDC4195-C8A1-410A-92C9-3F1DA38018C8</gtr:id><gtr:title>Automated Bus Routing (ABR)</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710057</gtr:grantReference><gtr:abstractText>The need for a transport system which uses on-demand routing arises principally from the
+shortcomings of the current options available for local journeys. The average Briton makes
+821 trips of below 10 miles annually (National Travel Survey: 2008) with the realistic choices
+of transport (outside London) being:
+? Walking/Cycling. However, this is slow, impractical for longer journeys and often
+inconvenient for children, the elderly, the mobility disadvantaged, and those with luggage.
+Cycling can also be dangerous - there were 3,277 deaths or serious injuries in London alone in
+2009.
+? Buses. However, these services are not point to point, they may be infrequent and/or
+unreliable, and they are not always available, particularly in low density areas.
+? Driving. However, this requires access to a vehicle (which 20% of British households
+do not have) and can be expensive, especially if parking charges apply.
+? Taxis. However, a 6 mile journey in London will cost in the range &amp;pound;17 - &amp;pound;30.
+What travellers want is a low cost, point to point service available on demand with a low
+journey time and the minimum of hassle. Our codename for this concept, which would
+typically be delivered by a fleet of minibuses, is Automated Bus Routing (ABR). It works like
+this (the full use case is appended):
+? The traveller contacts the ABR provider with their desired pick-up location, pick-up
+time, drop-off location, and (optionally) a request to minimise a key attribute of the journey
+such as cost or duration.
+? The ABR provider offers the traveller a journey option consisting of a pick-up time,
+drop-off time, number of transfers (if necessary), price, and quality of service guarantee, for
+example in the permissible deviation in drop-off time.
+? If the traveller accepts the offer, they are billed and the ABR provider delivers the
+service. If the quality of service guarantees are not met then part of the fee is reimbursed.
+The concept of dynamic routing is not new. A 1968 US Congress report investigated the
+social benefits of the idea but concluded that the necessary technology to monitor vehicle
+locations (it being pre-GPS) did not exist. Nevertheless low tech versions of such systems
+have evolved (examples are given below), but just not typically in the developed Western
+world where scheduled public transport services have long been pervasive and
+institutionalised.
+What is needed, now the technology exists or is in reach, is a paradigm shift in our approach
+to creating new and more efficient transport systems. That in itself requires the benefits of
+ABR to be clear and demonstrable. This project aims to provide that by:
+? Creating prototype software for the dynamic re-routing of buses to deliver passengers?
+on-demand journeys (codenamed the ABR Algorithm or ABRA).
+? Creating a simulation platform to demonstrate that ABRA can deliver the benefits
+claimed of ABR in a range of realistic scenarios (codenamed the Computer Aided
+Demonstration of ABRA or CADABRA).</gtr:abstractText><gtr:fund><gtr:end>2012-11-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2012-02-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>93450</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710057</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

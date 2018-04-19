@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/9E265647-41E0-43BF-A00C-02F48EFE9FE0"><gtr:id>9E265647-41E0-43BF-A00C-02F48EFE9FE0</gtr:id><gtr:name>Subsea Asset Location Technologies Limited</gtr:name><gtr:address><gtr:line1>19 Portland Marina
+Osprey Quay Hamm Beach Road</gtr:line1><gtr:city>Portland</gtr:city><gtr:postCode>DT5 1DX</gtr:postCode><gtr:region>South West</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/9E265647-41E0-43BF-A00C-02F48EFE9FE0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>9E265647-41E0-43BF-A00C-02F48EFE9FE0</gtr:id><gtr:name>Subsea Asset Location Technologies Limited</gtr:name><gtr:address><gtr:line1>19 Portland Marina
+Osprey Quay Hamm Beach Road</gtr:line1><gtr:city>Portland</gtr:city><gtr:postCode>DT5 1DX</gtr:postCode><gtr:region>South West</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>76080.0</gtr:offerGrant><gtr:projectCost>138706.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/FA03EBDB-C70F-4DCB-A592-520489620B9C"><gtr:id>FA03EBDB-C70F-4DCB-A592-520489620B9C</gtr:id><gtr:firstName>Carl</gtr:firstName><gtr:surname>Tiltman</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710486"><gtr:id>ACFD14EB-B079-4449-85BA-6EC05D5EC832</gtr:id><gtr:title>STREAM ? Sonar Technology for Remote Environmental Monitoring</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710486</gtr:grantReference><gtr:abstractText>Offshore oil production is increasingly moving to deeper water and to autonomous, surfaceless
+operation. About 30% of the 85.1 million barrels/day ($3.48 trillion) global oil production
+comes from offshore wells (2010). This increases the impact of oil leaks: deep-sea leaks
+usually go unnoticed until the oil reaches the surface, causing significant delays to mitigation
+and clean-up. There are clear indications that untended leaks are present at both active and
+abandoned wells (e.g. &amp;gt;2,800 and &amp;gt; 27,000 respectively - Gulf of Mexico), but little action is
+taken by either companies or governments. This is partly due to gaps in technical capabilities:
+current technologies take only infrequent ?snapshot? measurements, are obscured by sand
+from the seabed or are too expensive for widespread use.
+We propose to exploit our patented SonarBell&amp;reg; technology, developed in conjunction with
+DSTL, in an affordable system for continuous, autonomous and robust measurement of water
+composition, through its acoustic properties of seawater. This project will develop the model
+relating acoustic measurements to contaminant concentration and build a proof-of-concept
+prototype of our device. We will show that our technology can identify the presence of
+contaminants in a model system and identify operational needs such as improved accuracy,
+range, or selectivity.
+Successful completion of this project will be followed by development of a pre-commercial
+prototype, for which we intend to raise additional funding. We will commercialise STREAM
+in partnership with Subsea7, a major tier 1 service provider to the oil &amp;amp; gas industry; our
+projections show the product will generate a turnover of &amp;pound;15m by 2021. We expect to reinvest
+revenues from STREAM into the company, growing our technical and R&amp;amp;D capacity
+for further development projects. This project will generate jobs and revenues for the UK
+economy, while cementing the country?s reputation as a world-leader in sustainable
+development.</gtr:abstractText><gtr:fund><gtr:end>2014-11-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2014-05-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>76080</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710486</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

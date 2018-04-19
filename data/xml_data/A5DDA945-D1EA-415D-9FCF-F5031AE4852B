@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/3B96EEEE-1185-4CFD-B768-A7BE5D59920A"><gtr:id>3B96EEEE-1185-4CFD-B768-A7BE5D59920A</gtr:id><gtr:name>Fianium Limited</gtr:name><gtr:address><gtr:line1>UNIT 20 COMPASS POINT , ENSIGN WAY</gtr:line1><gtr:city>HAMBLE SOUTHAMPTON</gtr:city><gtr:postCode>SO31 4RA</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/3B96EEEE-1185-4CFD-B768-A7BE5D59920A" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>3B96EEEE-1185-4CFD-B768-A7BE5D59920A</gtr:id><gtr:name>Fianium Limited</gtr:name><gtr:address><gtr:line1>UNIT 20 COMPASS POINT , ENSIGN WAY</gtr:line1><gtr:city>HAMBLE SOUTHAMPTON</gtr:city><gtr:postCode>SO31 4RA</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>175248.0</gtr:offerGrant><gtr:projectCost>389441.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/A3DEBF26-DA43-431C-8B72-E308B4E0F0A7"><gtr:id>A3DEBF26-DA43-431C-8B72-E308B4E0F0A7</gtr:id><gtr:firstName>John</gtr:firstName><gtr:surname>Clowes</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720759"><gtr:id>A5DDA945-D1EA-415D-9FCF-F5031AE4852B</gtr:id><gtr:title>FEMTOPLANE-DoP &amp;quot;FEMTOsecond fibre oscillator PLANar waveguide amplifiEr laser system to enable globally affordable cataract surgery - Development of Prototype&amp;quot;</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720759</gtr:grantReference><gtr:abstractText>Cataract surgery is one of the most common surgical procedures, with nearly 24 million
+procedures performed worldwide each year. Driven by an ageing population, the annual
+market is growing and is forecast to exceed &amp;pound;1.6 Billion by 2019.
+Introduced in 2010, Femtosecond laser cataract surgery (FLCS) is regarded to be the most
+important advancement in technology, enabling procedures to be automated, reducing the
+need for skilled surgeons and enabling perfect vision without the need for spectacles or
+contact lenses.
+FLCS is currently dependent on expensive, bulky and unreliable femtosecond laser systems
+with price tags ranging from &amp;pound;300K to &amp;pound;370K. FLCS procedures are not supported by
+national or private health services and have therefore only been available to the most-wealthy
+patients.
+FEMTOPLANE-DoP builds on a highly successful Innovate-UK collaborative R&amp;amp;D project
+between Fianium and the University of Southampton where the project team proved the
+concept of an innovative femtosecond laser architecture, demonstrating specifications far
+exceeding those required for FLCS yet with potential to be ultra-compact, robust, air-cooled
+and have low cost of build and ownership.
+Within FEMTOPLANE-DoP, a fully integrated prototype femtosecond laser will be built and
+qualified to FLCS specification requirements and will demonstrate up to 85% reduction in
+price (volume target &amp;pound;30K) and 80% reduction in size compared to existing state-of-art FLCS
+lasers.
+The innovative laser system will be highly disruptive, leading to widespread penetration of
+FLCS throughout the world and enabling patients in the poorest countries to benefit from the
+highest-quality procedures.
+Successful delivery of the prototype will be the first commercialisation step towards having a
+medically qualified laser source in production within 3-4 years of project completion and a
+20X return on investment by 2020.</gtr:abstractText><gtr:fund><gtr:end>2017-06-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2016-02-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>175248</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720759</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

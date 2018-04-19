@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/8014B9BF-917D-4E52-B563-FD32F292E52E"><gtr:id>8014B9BF-917D-4E52-B563-FD32F292E52E</gtr:id><gtr:name>Fidel Limited</gtr:name><gtr:address><gtr:line1>9TH FLOOR , 107 CHEAPSIDE</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>EC2V 6DN</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/8014B9BF-917D-4E52-B563-FD32F292E52E" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>8014B9BF-917D-4E52-B563-FD32F292E52E</gtr:id><gtr:name>Fidel Limited</gtr:name><gtr:address><gtr:line1>9TH FLOOR , 107 CHEAPSIDE</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>EC2V 6DN</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>250018.0</gtr:offerGrant><gtr:projectCost>557329.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720785"><gtr:id>B9C4C039-671B-4FB1-A5B6-FEFDD41ABC65</gtr:id><gtr:title>Fidel ltd - Card-Linked Loyalty (CLL)</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720785</gtr:grantReference><gtr:abstractText>Customer loyalty schemes, such as Tesco Club Card, Boots Advantage Card and Nectar, have
+been long-proven to positively impact upon customer retention and sales uplift.
+These schemes are popular with customers (Nectar has 19m customers). However 80% of
+offline retailers do not have them, and with 280k retailers in the UK generating &amp;pound;300bn
+revenues each year, there is significant potential and urgent need for expansion.
+The value of loyalty schemes to retailers is significant, with customers who have loyalty cards
+spending 4x more. However an overwhelming majority of retailers do not know their
+customers are. Whilst 83% of people are members of a loyalty scheme, a woeful 58% do not
+use them because current approaches to loyalty schemes are full of friction and inefficiency.
+Sources: Retail Research, Rosetta, Dailybreak, Colloquy, BBC, Telegraph
+Retail loyalty schemes have hardly evolved over the last twenty years and the process is
+anything but streamlined and efficient.
+There are fundamental problems with existing loyalty programs (whether digital or not):
+1) Customers are forced to present/swipe/scan a plastic card, key ring, mobile app or paper
+stamps.
+2) All systems require added time at point of sale, which slows down operations.
+This is highly inefficient. We intend to solve this. The industry is in need of disruption!
+Our goal is to make loyalty and retention marketing simple for both merchants and
+consumers, and to enable retailers to increase revenues.
+Our technology will deliver customer insights, business intelligence &amp;amp; subsequently automate
+retention marketing via predictive analytics. We are a lean start-up that has raised seed
+funding, has a capable management and operational team in place and is already revenue
+generating.
+We need to develop new ways to integrate volumes of financial transaction data from
+disparate payment platforms, securely in real-time. This project will explore the technical
+feasibility and commercial potential of this.</gtr:abstractText><gtr:fund><gtr:end>2017-11-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2016-09-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>250018</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720785</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/27EE2793-9ED2-4B4D-8CF1-7E422B6DA65C"><gtr:id>27EE2793-9ED2-4B4D-8CF1-7E422B6DA65C</gtr:id><gtr:name>Virtus Concrete Solutions Limited</gtr:name><gtr:address><gtr:line1>46 HAMILTON SQUARE</gtr:line1><gtr:city>BIRKENHEAD</gtr:city><gtr:postCode>CH41 5AR</gtr:postCode><gtr:region>North West</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/27EE2793-9ED2-4B4D-8CF1-7E422B6DA65C" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>27EE2793-9ED2-4B4D-8CF1-7E422B6DA65C</gtr:id><gtr:name>Virtus Concrete Solutions Limited</gtr:name><gtr:address><gtr:line1>46 HAMILTON SQUARE</gtr:line1><gtr:city>BIRKENHEAD</gtr:city><gtr:postCode>CH41 5AR</gtr:postCode><gtr:region>North West</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>78352.0</gtr:offerGrant><gtr:projectCost>130587.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/F6A996DA-CF05-4310-B28B-2BE717296EB4"><gtr:id>F6A996DA-CF05-4310-B28B-2BE717296EB4</gtr:id><gtr:firstName>Paul</gtr:firstName><gtr:surname>Goodwin</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710424"><gtr:id>99C107A8-2054-4AEA-A1AC-2549FF0F0D08</gtr:id><gtr:title>Creating low-cost, interlocking, relocatable barrier blocks, from 100% recycled materials, using novel geopolymer from recycled CRT glass</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710424</gtr:grantReference><gtr:abstractText>Although
+cement is a strong construction material, its manufacture produces the same weight
+of CO2 as it does cement (this was 5 billion tonnes last year). An alternative eco-friendly
+setting agent can be produced from sodium and aluminium silicates, that combine to form a
+geopolymer ? a glassy rock-like material that can be made harder and more durable than
+concrete.
+We have identified an opportunity to produce geopolymer material in an exceptionally eco-
+friendly way by utilising waste streams from another recycling process ? one developed by
+our sister company to remove toxic lead from CRT glass screens. Once the lead is removed
+and prepared for sale, they have a clean output stream of mixed silicates. Our project is to
+develop the method to prepare this silicate material into the form that it can be used to form a
+geopolymer.
+This geopolymer is intended to be stronger, denser, more resistant to chemical attack and
+more waterproof than concrete. We plan to develop it for use in our 1-tonne ?Lego? style
+interlocking blocks.
+These blocks provide an easy to install, flexible and re-usable construction system with
+unparalleled protection from impact, blast and water. It is suitable for temporary, emergency
+or permanent construction. It is a flexible &amp;amp; low cost construction system that is easy to use,
+quick &amp;amp; simple to build, dismantle &amp;amp; re-locate. Due to its unique interlocking design it can be
+dry laid, or it can be laid with mortar for a permanent solution. No maintenance is required.
+Two men can dry lay a 50-metre long 1.2m high wall in just 1 hour. It can be used for a wide
+variety of applications such as;
+?
+Flood Defence - permanent or mobile as part of Environment Agency?s strategy
+?
+Land Defence - landslide protection &amp;amp; erosion control (permanent or mobile)
+?
+Security &amp;amp; Construction - walls, compounds, barriers
+?
+Transport - road &amp;amp; culvert repairs, railway embankments, barriers
+?
+Bulk Storage &amp;amp; Segregation ? construction; agriculture; recycling</gtr:abstractText><gtr:fund><gtr:end>2014-11-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2013-12-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>78352</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710424</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/16C46B3F-3B2B-45E0-97BD-1B60764782A0"><gtr:id>16C46B3F-3B2B-45E0-97BD-1B60764782A0</gtr:id><gtr:name>Dearman Engine Company Limited</gtr:name><gtr:address><gtr:line1>7 Henrietta Street 
+Covent Garden</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>WC2E 8PS</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/16C46B3F-3B2B-45E0-97BD-1B60764782A0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>16C46B3F-3B2B-45E0-97BD-1B60764782A0</gtr:id><gtr:name>Dearman Engine Company Limited</gtr:name><gtr:address><gtr:line1>7 Henrietta Street 
+Covent Garden</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>WC2E 8PS</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>24750.0</gtr:offerGrant><gtr:projectCost>41650.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/D4F9AB58-9B2C-4FF2-8300-DC5F2D3DD86D"><gtr:id>D4F9AB58-9B2C-4FF2-8300-DC5F2D3DD86D</gtr:id><gtr:firstName>Sarah</gtr:firstName><gtr:surname>Trew</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700350"><gtr:id>2F4E9D4D-BC54-4763-82BB-C938E2027208</gtr:id><gtr:title>The Dearman Engine Market: Proof of Market in India</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700350</gtr:grantReference><gtr:abstractText>Up to 20% of the diesel consumed by a refrigerated truck is used for refrigeration, causing
+CO2 emissions of up to 50 tonnes per year per truck for cooling alone. Diesel powered truck
+refrigeration also emits emissions including NOx.
+If cold chains continue to grow on a business-as-usual model in the developed world alone
+(10% year on year), the air pollution, health, climate and financial impacts would be
+enormous. But if developing countries follow the same carbon and diesel intensive model,
+multiplied by their own population and economic growth; the impact on air, health, climate as
+well as financial damage, will be unmanageable. It is vital they do not follow the path taken
+by developed economies.
+In India, cold chain investment is expected to total up to $10 billion over the next five years.
+Non-grocery industries built on cold chains such as chilled pharmaceuticals and convenience
+food are also growing rapidly; 15% and 34% pa respectively.
+A new and sustainable cold chain for refrigerated storage and transport is seen as an
+imperative. Liquid air technologies have the potential to create a market which provides a
+clean solution.
+The Dearman Engine Company is harnessing liquid air to deliver cleaner (zero emission) and
+cheaper transport refrigeration. A Dearman engine refrigeration system will be fitted in a
+commercial vehicle for demonstration in 2014, moving to field trials and low volume
+manufacture by 2015.
+Through grants and tax relief, the Indian Government has designated the cold chain a 'sunrise
+sector'. This presents a major commercial opportunity for the Dearman engine; also delivering
+economic, environmental and societal impact.
+This project has 4 core stages:
+1. Research - market analysis, development of the business case and identification
+routes/barriers to market and commercialisation
+2. Market discussion - including hosting a cold chain seminar in Chennai, India
+3. Reporting and roadmap for delivery
+4. Dissemination and engagement</gtr:abstractText><gtr:fund><gtr:end>2014-10-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2014-01-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>24750</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700350</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

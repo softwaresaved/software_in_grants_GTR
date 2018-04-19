@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/F415F4EB-C855-4582-828A-30E574ABA791"><gtr:id>F415F4EB-C855-4582-828A-30E574ABA791</gtr:id><gtr:name>Novarix Limited</gtr:name><gtr:address><gtr:line1>The Core Business Centre
+Milton Hill
+Abingdon</gtr:line1><gtr:postCode>OX13 6AB</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/F415F4EB-C855-4582-828A-30E574ABA791" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>F415F4EB-C855-4582-828A-30E574ABA791</gtr:id><gtr:name>Novarix Limited</gtr:name><gtr:address><gtr:line1>The Core Business Centre
+Milton Hill
+Abingdon</gtr:line1><gtr:postCode>OX13 6AB</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>132346.0</gtr:offerGrant><gtr:projectCost>294103.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/E33151CD-582C-4369-BF47-C14717639C74"><gtr:id>E33151CD-582C-4369-BF47-C14717639C74</gtr:id><gtr:firstName>John</gtr:firstName><gtr:surname>Scott</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720736"><gtr:id>D21F9576-0E20-41D7-9D4A-E7DA68298663</gtr:id><gtr:title>Novarix Vein Visualisation Device</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720736</gtr:grantReference><gtr:abstractText>Every year more than 1bn peripheral cannulas are used globally to draw blood or to deliver
+intravenous therapy, making the insertion of a cannula into a vein one of the world?s most
+common medical procedures.
+Yet it?s not always straightforward: at least 1 in 4 patients require 3 or more stick attempts,
+with some having to endure 10 or more, and once in place up to 50% of all cannulas fail
+through inflammation of the vein (phlebitis), infection, blockage, infiltration and most
+dangerously extravasation [Helm et al, 2015] and require replacement.
+These issues can dramatically extend treatment times, cause significant pain and serious
+injury to patients and rapidly escalate healthcare costs.
+In recent years the use of near-infrared (NIR) imaging has been introduced to help clinicians
+find difficult veins and to assess a patient?s vascular structure to ensure that the right cannula
+is inserted into the best vein. In the UK the Infection Prevention Society now recommends the
+use of IR vein imaging devices.
+However, scientific and user feedback suggests that, although useful for many patients, NIRbased
+imaging needs greater consistency and clarity of visualisation across all patient types to
+be fully accepted and widely adopted by the medical community.
+Novarix, the company behind the IV-Eye, a first generation NIR device, is one of the UK?s
+pioneers in the field of NIR vein detection. The company is now seeking Innovate UK?s
+support to harness recently identified technological advances in order to drive forward radical
+innovation and the development of a second generation NIR vein imager.
+Novarix intends to combine advances in optics, electronics and software algorithms in a new
+device capable of visualisation of a patient?s vascular system with industry leading clarity,
+accuracy and depth. This will allow the company to capitalise on a growing market
+opportunity &amp;amp; to build a world-leading UK technology platform with a wide-range of followon
+applications.</gtr:abstractText><gtr:fund><gtr:end>2017-05-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2015-12-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>132346</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720736</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

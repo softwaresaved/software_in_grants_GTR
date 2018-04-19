@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations><gtr:collaborator url="http://gtr.ukri.org:80/organisation/B6FB652A-60C3-48DD-9A33-075D1F759B48"><gtr:id>B6FB652A-60C3-48DD-9A33-075D1F759B48</gtr:id><gtr:name>University of Warwick</gtr:name><gtr:address><gtr:line1>Warwickshire</gtr:line1><gtr:line4>Coventry</gtr:line4><gtr:line5>West Midlands</gtr:line5><gtr:postCode>CV4 7AL</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.ukri.org:80/organisation/9C10D78F-6430-4CA7-9528-B96B0762A4C6"><gtr:id>9C10D78F-6430-4CA7-9528-B96B0762A4C6</gtr:id><gtr:name>Cardiff University</gtr:name><gtr:address><gtr:line1>Research &amp; Consultancy</gtr:line1><gtr:line2>PO Box 923</gtr:line2><gtr:line4>Cardiff</gtr:line4><gtr:line5>South Glamorgan</gtr:line5><gtr:postCode>CF10 3TE</gtr:postCode><gtr:region>Wales</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.ukri.org:80/organisation/283B13E3-C296-4C2D-B7C3-6DD3E276045F"><gtr:id>283B13E3-C296-4C2D-B7C3-6DD3E276045F</gtr:id><gtr:name>National Eisteddfod of Wales</gtr:name><gtr:address><gtr:line1>Unit 15</gtr:line1><gtr:line2>Mold Business Park</gtr:line2><gtr:line3>Wrexham Road</gtr:line3><gtr:postCode>CH7 1XP</gtr:postCode><gtr:region>East of England</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.ukri.org:80/organisation/E4757A6E-7326-472B-9979-B47D77A65446"><gtr:id>E4757A6E-7326-472B-9979-B47D77A65446</gtr:id><gtr:name>Aberystwyth University</gtr:name><gtr:address><gtr:line1>Old College</gtr:line1><gtr:line2>King Street</gtr:line2><gtr:line3>Ceredigion</gtr:line3><gtr:line4>Aberystwyth</gtr:line4><gtr:line5>Dyfed</gtr:line5><gtr:postCode>SY23 2AX</gtr:postCode><gtr:region>Wales</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator></gtr:collaborations><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/07883787-C252-44BB-81D1-81AECF29A9A1"><gtr:id>07883787-C252-44BB-81D1-81AECF29A9A1</gtr:id><gtr:name>Diamond Light Source</gtr:name><gtr:department>CEO's Office</gtr:department><gtr:address><gtr:line1>Diamond House</gtr:line1><gtr:line2>Harwell Science and Innovation Camp</gtr:line2><gtr:line3>Didcot</gtr:line3><gtr:line4>Oxfordshire</gtr:line4><gtr:postCode>OX11 0DE</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/07883787-C252-44BB-81D1-81AECF29A9A1"><gtr:id>07883787-C252-44BB-81D1-81AECF29A9A1</gtr:id><gtr:name>Diamond Light Source</gtr:name><gtr:address><gtr:line1>Diamond House</gtr:line1><gtr:line2>Harwell Science and Innovation Camp</gtr:line2><gtr:line3>Didcot</gtr:line3><gtr:line4>Oxfordshire</gtr:line4><gtr:postCode>OX11 0DE</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/B6FB652A-60C3-48DD-9A33-075D1F759B48"><gtr:id>B6FB652A-60C3-48DD-9A33-075D1F759B48</gtr:id><gtr:name>University of Warwick</gtr:name><gtr:address><gtr:line1>Warwickshire</gtr:line1><gtr:line4>Coventry</gtr:line4><gtr:line5>West Midlands</gtr:line5><gtr:postCode>CV4 7AL</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/9C10D78F-6430-4CA7-9528-B96B0762A4C6"><gtr:id>9C10D78F-6430-4CA7-9528-B96B0762A4C6</gtr:id><gtr:name>Cardiff University</gtr:name><gtr:address><gtr:line1>Research &amp; Consultancy</gtr:line1><gtr:line2>PO Box 923</gtr:line2><gtr:line4>Cardiff</gtr:line4><gtr:line5>South Glamorgan</gtr:line5><gtr:postCode>CF10 3TE</gtr:postCode><gtr:region>Wales</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/283B13E3-C296-4C2D-B7C3-6DD3E276045F"><gtr:id>283B13E3-C296-4C2D-B7C3-6DD3E276045F</gtr:id><gtr:name>National Eisteddfod of Wales</gtr:name><gtr:address><gtr:line1>Unit 15</gtr:line1><gtr:line2>Mold Business Park</gtr:line2><gtr:line3>Wrexham Road</gtr:line3><gtr:postCode>CH7 1XP</gtr:postCode><gtr:region>East of England</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/E4757A6E-7326-472B-9979-B47D77A65446"><gtr:id>E4757A6E-7326-472B-9979-B47D77A65446</gtr:id><gtr:name>Aberystwyth University</gtr:name><gtr:address><gtr:line1>Old College</gtr:line1><gtr:line2>King Street</gtr:line2><gtr:line3>Ceredigion</gtr:line3><gtr:line4>Aberystwyth</gtr:line4><gtr:line5>Dyfed</gtr:line5><gtr:postCode>SY23 2AX</gtr:postCode><gtr:region>Wales</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/7AEAE99E-401E-43B6-B948-8FADA9503DE9"><gtr:id>7AEAE99E-401E-43B6-B948-8FADA9503DE9</gtr:id><gtr:firstName>Alun</gtr:firstName><gtr:surname>Ashton</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/1E669F50-1676-45B5-BC38-4D80258052B1"><gtr:id>1E669F50-1676-45B5-BC38-4D80258052B1</gtr:id><gtr:firstName>Andy</gtr:firstName><gtr:surname>Evans</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/5090CE89-5A57-46A5-B804-527AC236FE70"><gtr:id>5090CE89-5A57-46A5-B804-527AC236FE70</gtr:id><gtr:firstName>David</gtr:firstName><gtr:otherNames>Lawson</gtr:otherNames><gtr:surname>Price</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=ST%2FP001750%2F1"><gtr:id>11BC57FD-B138-42C4-9CC7-8EED4718361A</gtr:id><gtr:title>Light for Wales - Diamond Light Source Exhibition at the National Eisteddfod of Wales</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>ST/P001750/1</gtr:grantReference><gtr:abstractText>The National Eisteddfod is the premier cultural festival of Wales, held mainly in Welsh. It is an 8 day festival held annually during early August at different locations within Wales, Denbigh in 2013, Llanelli in 2014 and Montgomeryshire in 2015. The National Eisteddfod will be held at Abergavenny in 2016 which is located in Monmouthshire, on the Welsh border. Total attendance at each festival usually exceeds 160,000. The site includes a main pavilion of capacity 3,500, with approximately 10 smaller satellite pavilions, including the Science &amp;amp; Technology pavilion, all surrounded by some 300 commercial and other stands. At each of the 2012-2015 Eisteddfodau, the total space allocated to Science was: pavilion and other buildings (600sqm) and external exhibitions (400 sqm). Attendance at the Science Exhibition has consistently been in excess of 20,000 over 8 days for each of the past 3 years.
+
+The aims of the science tent as a whole are:
+
+1. Promote the Public Understanding of Science - To provide innovative opportunities for visitors to become better informed about various aspects of Science and Technology (STEM) subjects.
+2. To provide STFC facilities and Welsh &amp;quot;science-producing&amp;quot; bodies such as Universities with an opportunity to showcase their achievements locally, regionally and globally.
+3. Create interest and excitement in STEM subjects leading to improved attainment in Science KS3, KS4 and KS5 and to motivate students.
+4. To stimulate young people to consider careers in STEM subjects.
+
+In 2015 a group heavily involving Diamond Light Source attended the National Eisteddfod using material funded by an STFC grant. The activity was well received and we have been approached to return with a varied activity.
+
+The aims of this project are:
+
+- To promote the work done at Diamond to non-typical audiences i.e. the festival visitors will not be a 'standard' science festival audience
+- To support and highlight other exhibitions at the festival that will be specifically covering some of the research carried out at Diamond
+- To inspire youngsters to think about careers in STEM subjects
+- To highlight the impact on society of the work done at Diamond
+- To utilise the specialist welsh language resources produced for last year's event.
+- To build trust, understanding and support from the public for the work done at Diamond
+- To highlight the national aspect of the research done by Diamond i.e. although based in Oxfordshire it is a national facility and is also 'Welsh' science.
+- To build on the successes of Diamond's previous involvement at the Eisteddfod, but in a different location and audience.
+- To provide a platform for Welsh scientists working at Diamond to engage with the public</gtr:abstractText><gtr:potentialImpactText>The resources and ideas will be distributed both by the national Eisteddfod and Diamond Light Source.
+
+The National Eisteddfod will issue a press release which will also be online at the National Eisteddfod website, Facebook page and Twitter feed. The project will also be featured in the festival's monthly newsletter which has a circulation of 20,000 and also the Science newsletter. Details of the project will be sent to all schools in Wales. The project and its outcomes will also be featured in the Science Alliance Wales newsletter, ASE newsletter to schools and through the STEMNET providers in Wales (See-Science.co.uk), the Welsh Government's newsletter to schools 'Dysg'. The National Science Academy is also an important outlet to disseminate the project. The project will also be disseminated to the National HE STEM programme.
+
+The event itself will be highlighted though Diamond (and university) media streams (web/Facebook/twitter etc.) as well as publicising them to others through radio/TV/media contacts.
+
+Part of the aim of the project is to reutilise existing material and to maximise its impact, so the majority of the resources are already available, but an exhibition at the festival would highlight them and bring them to a much wider audience.</gtr:potentialImpactText><gtr:fund><gtr:end>2016-08-28</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/D7F4F462-0518-4784-908A-D12633C139B3"><gtr:id>D7F4F462-0518-4784-908A-D12633C139B3</gtr:id><gtr:name>STFC</gtr:name></gtr:funder><gtr:start>2016-07-29</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>5875</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs><gtr:artisticAndCreativeProductOutput><gtr:description>The Welsh medium broadcaster S4C's flagship science programme &amp;quot;Dibendraw&amp;quot; has dedicated one programme to showcase the Science at Diamond. For last year's National Eisteddfod a 7 minute film of the program was adapted. The film explains how the Synchrotron works, and features Welsh scientists who work and/or use the facility. The film was played continuously as part of the exhibition and is available for all schools.</gtr:description><gtr:id>5C55AB11-8246-48E4-87FF-A37699C18957</gtr:id><gtr:impact>Increased emphasis on Diamond being part of the National community.</gtr:impact><gtr:outcomeId>58bd3b6935b954.11105315</gtr:outcomeId><gtr:title>Short film about Diamond based on S4C's flagship science program &quot;Dibendraw&quot;</gtr:title><gtr:type>Film/Video/Animation</gtr:type><gtr:yearFirstProvided>2015</gtr:yearFirstProvided></gtr:artisticAndCreativeProductOutput></gtr:artisticAndCreativeProductOutputs><gtr:collaborationOutputs><gtr:collaborationOutput><gtr:collaboratingOrganisation>Cardiff University</gtr:collaboratingOrganisation><gtr:department>Division of Infection and Immunity</gtr:department><gtr:description>Public Engagement with the National Eisteddfod of Wales and various Diamond User Groups</gtr:description><gtr:id>1A8BF2D5-3E57-4E8B-A1A1-D0A58F18526A</gtr:id><gtr:impact>- An increased number of students choosing to study STEM subjects at a higher level (this is difficult to measure, but evidence has shown that exposure to both careers in STEM subjects and the impact they have has a positive effect on their take-up)
+
+- Raised awareness of the part that Wales plays in both funding Diamond and the science that is carried out at the facility
+
+- Utilisation of the Welsh language resources that had already been developed
+
+- Increased relations with our user groups - Cardiff university have since committed to collaborating on other public engagement events at Diamond
+
+- Greater public awareness of the existence of Diamond and the impact of the science carried out
+
+- Greater public appreciation of the scientific system, specifically how Welsh universities use Diamond as a resource to carry out their research
+
+- Greater interest in future events to be held at Diamond and other STFC facilities (open days etc.) - this has been shown by increased contact from groups in Wales requesting more information</gtr:impact><gtr:outcomeId>58bd3518d93295.63846181-3</gtr:outcomeId><gtr:partnerContribution>The Eisteddfod provided the venue, infrastructure, support facilities (marquee, power, insurance etc) as well as the organisation of the festival (promotion, parking etc i.e. getting the visits to come and see us).
+
+Warwick and Cardiff Universities provided staff during the week as well as content for the stand (they came with information to talk about their work with Diamond)</gtr:partnerContribution><gtr:piContribution>We provided a public engagement stand, literature, content and staffing to interact with the public to the festival. We also provided support both in terms of content and logisitic for our partner universities who participated on the stand.</gtr:piContribution><gtr:start>2016-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>National Eisteddfod of Wales</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Public Engagement with the National Eisteddfod of Wales and various Diamond User Groups</gtr:description><gtr:id>771A7CCC-43B3-4C86-92DF-0357B0C3E667</gtr:id><gtr:impact>- An increased number of students choosing to study STEM subjects at a higher level (this is difficult to measure, but evidence has shown that exposure to both careers in STEM subjects and the impact they have has a positive effect on their take-up)
+
+- Raised awareness of the part that Wales plays in both funding Diamond and the science that is carried out at the facility
+
+- Utilisation of the Welsh language resources that had already been developed
+
+- Increased relations with our user groups - Cardiff university have since committed to collaborating on other public engagement events at Diamond
+
+- Greater public awareness of the existence of Diamond and the impact of the science carried out
+
+- Greater public appreciation of the scientific system, specifically how Welsh universities use Diamond as a resource to carry out their research
+
+- Greater interest in future events to be held at Diamond and other STFC facilities (open days etc.) - this has been shown by increased contact from groups in Wales requesting more information</gtr:impact><gtr:outcomeId>58bd3518d93295.63846181-1</gtr:outcomeId><gtr:partnerContribution>The Eisteddfod provided the venue, infrastructure, support facilities (marquee, power, insurance etc) as well as the organisation of the festival (promotion, parking etc i.e. getting the visits to come and see us).
+
+Warwick and Cardiff Universities provided staff during the week as well as content for the stand (they came with information to talk about their work with Diamond)</gtr:partnerContribution><gtr:piContribution>We provided a public engagement stand, literature, content and staffing to interact with the public to the festival. We also provided support both in terms of content and logisitic for our partner universities who participated on the stand.</gtr:piContribution><gtr:sector>Charity/Non Profit</gtr:sector><gtr:start>2016-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Warwick</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:department>Institute of Digital Healthcare</gtr:department><gtr:description>Public Engagement with the National Eisteddfod of Wales and various Diamond User Groups</gtr:description><gtr:id>931FDEA2-3A40-46F9-9A10-345736E6621A</gtr:id><gtr:impact>- An increased number of students choosing to study STEM subjects at a higher level (this is difficult to measure, but evidence has shown that exposure to both careers in STEM subjects and the impact they have has a positive effect on their take-up)
+
+- Raised awareness of the part that Wales plays in both funding Diamond and the science that is carried out at the facility
+
+- Utilisation of the Welsh language resources that had already been developed
+
+- Increased relations with our user groups - Cardiff university have since committed to collaborating on other public engagement events at Diamond
+
+- Greater public awareness of the existence of Diamond and the impact of the science carried out
+
+- Greater public appreciation of the scientific system, specifically how Welsh universities use Diamond as a resource to carry out their research
+
+- Greater interest in future events to be held at Diamond and other STFC facilities (open days etc.) - this has been shown by increased contact from groups in Wales requesting more information</gtr:impact><gtr:outcomeId>58bd3518d93295.63846181-2</gtr:outcomeId><gtr:partnerContribution>The Eisteddfod provided the venue, infrastructure, support facilities (marquee, power, insurance etc) as well as the organisation of the festival (promotion, parking etc i.e. getting the visits to come and see us).
+
+Warwick and Cardiff Universities provided staff during the week as well as content for the stand (they came with information to talk about their work with Diamond)</gtr:partnerContribution><gtr:piContribution>We provided a public engagement stand, literature, content and staffing to interact with the public to the festival. We also provided support both in terms of content and logisitic for our partner universities who participated on the stand.</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2016-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>Aberystwyth University</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:department>Luminescence Research Laboratory</gtr:department><gtr:description>Public Engagement with the National Eisteddfod of Wales and various Diamond User Groups</gtr:description><gtr:id>93A51336-9F06-4181-A565-4326CC81FCAD</gtr:id><gtr:impact>- An increased number of students choosing to study STEM subjects at a higher level (this is difficult to measure, but evidence has shown that exposure to both careers in STEM subjects and the impact they have has a positive effect on their take-up)
+
+- Raised awareness of the part that Wales plays in both funding Diamond and the science that is carried out at the facility
+
+- Utilisation of the Welsh language resources that had already been developed
+
+- Increased relations with our user groups - Cardiff university have since committed to collaborating on other public engagement events at Diamond
+
+- Greater public awareness of the existence of Diamond and the impact of the science carried out
+
+- Greater public appreciation of the scientific system, specifically how Welsh universities use Diamond as a resource to carry out their research
+
+- Greater interest in future events to be held at Diamond and other STFC facilities (open days etc.) - this has been shown by increased contact from groups in Wales requesting more information</gtr:impact><gtr:outcomeId>58bd3518d93295.63846181-4</gtr:outcomeId><gtr:partnerContribution>The Eisteddfod provided the venue, infrastructure, support facilities (marquee, power, insurance etc) as well as the organisation of the festival (promotion, parking etc i.e. getting the visits to come and see us).
+
+Warwick and Cardiff Universities provided staff during the week as well as content for the stand (they came with information to talk about their work with Diamond)</gtr:partnerContribution><gtr:piContribution>We provided a public engagement stand, literature, content and staffing to interact with the public to the festival. We also provided support both in terms of content and logisitic for our partner universities who participated on the stand.</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2016-01-01</gtr:start></gtr:collaborationOutput></gtr:collaborationOutputs><gtr:disseminationOutputs><gtr:disseminationOutput><gtr:description>Stand/Exhibition as part of the Science Paviallion at the 2016 National Eisteddfod of Wales</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>National</gtr:geographicReach><gtr:id>A83A957B-2338-4C0A-912D-0E6B82C5FA3B</gtr:id><gtr:impact>The National Eisteddfod is the premier cultural festival of Wales, held mainly in Welsh. It is an 8 day festival held annually during early August at different locations within Wales, Denbigh in 2013, Llanelli in 2014 and Montgomeryshire in 2015. The National Eisteddfod was held at Abergavenny in 2016 which is located in Monmouthshire, on the Welsh border. Total attendance at each festival usually exceeds 160,000. The site includes a main pavilion of capacity 3,500, with approximately 10 smaller satellite pavilions, including the Science &amp;amp; Technology pavilion, all surrounded by some 300 commercial and other stands. Attendance at the Science Exhibition has consistently been in excess of 20,000 over 8 days for each of the past 3 years.
+
+Diamond Light Source attended the festival with a series of activities which are detailed below (this is taken from the grant application, the activities were all carried out).
+
+Intended Purpose:
+- To promote the work done at Diamond to non-typical audiences i.e. the festival visitors will not be a 'standard' science festival audience
+- To support and highlight other exhibitions at the festival that will be specifically covering some of the research carried out at Diamond
+- To inspire youngsters to think about careers in STEM subjects
+- To highlight the impact on society of the work done at Diamond
+- To utilise the specialist welsh language resources produced for last year's event.
+- To build trust, understanding and support from the public for the work done at Diamond
+- To highlight the national aspect of the research done by Diamond i.e. although based in Oxfordshire it is a national facility and is also 'Welsh' science.
+- To build on the successes of Diamond's previous involvement at the Eisteddfod, but in a different location and audience.
+- To provide a platform for Welsh scientists working at Diamond to engage with the public
+
+
+The intended outcomes were:
+- An increased number of students choosing to study STEM subjects at a higher level (this is difficult to measure, but evidence has shown that exposure to both careers in STEM subjects and the impact they have has a positive effect on their take-up)
+- Raised awareness of the part that Wales plays in both funding Diamond and the science that is carried out at the facility
+- Utilisation of the Welsh language resources that have already been developed
+- Greater public awareness of the existence of Diamond and the impact of the science carried out
+- Greater public appreciation of the scientific system, specifically how Welsh universities use Diamond as a resource to carry out their research
+- Greater interest in future events to be held at Diamond and other STFC facilities (open days etc.)
+
+
+While it is difficult to measure these we have seen an increased number of contacts from members of the public based in Wales, this is seen in the number of people asking to visit our open days and the number of public interest groups based in Wales that have requested talks on the facility (several of which has been given). We had hoped to interact with 4000 members of the public and while we estimate that our stall interacted with less than the intended number (between 2000-2500 individuals), most of the interactions were relatively high impact (5-10 min conversations), which was longer than we had anticipated.
+
+
+
+Activities Undertaken
+
+
+
+Exhibition &amp;amp; display area - Hands on Demos, Simulations and models.
+As part of the National Eisteddfod of Wales there is a science marquee containing a number of exhibitions and stalls. Diamond would run and staff an exhibition stand containing the following:
+ 
+1 - Information on the Diamond Light Source facility and experiments.
+Diamond would provide its own public engagement materials including; 3-d screens, interactive simulations of the machine and hands-on-experiments including using LEGO beamlines to take crystallography measurements.
+
+The main resource will be the experienced Diamond staff, who will use the resources to explain how Diamond functions and some of the applications that is used for.
+
+Bilingual displays have already been developed and will be used by the staff to communicate with visitors.
+
+2 - Diamond Light Source Users 
+Diamond Light Source has many users, as part of the exhibition they will have demonstrations and information about their work on the stand, it is anticipated there will be one user per day from the following:
+
+a) Dr David Cole, T-Cell research, Cardiff University
+Diamond has many users based at Welsh research establishments. David Cole uses Diamond to further his research on T-Cells. T-cells are essential for human immunity. The devastating effects of a lower than normal number of just one type of T-cell are all too evident in HIV/AIDS. 
+
+b) Dr Joanna Collingwood, Neurodegenerative Diseases, Warwick University
+One of the themes of the science pavilion is diseases of the brain, some of which Joanna researches at the Diamond Light Source Facility. Joanna focusses on the imaging and quantification of transition metal ion distribution in the human brain, with particular application to identifying changes in neurodegenerative disorders (e.g. Alzheimer's, Parkinson's, Multiple System Atrophy, and others).
+
+
+
+3 - Linked Exhibitions
+As well as explaining to the public the research that is carried out at Diamond Light Source, the exhibition will be linked to other exhibitions also at the festival. By collaborating with regards our content we will be able to support the narrative of each other. Specifically:
+
+Cardiff University/Techniquest T-cell planetarium film
+As part of a grant from The Wellcome Trust Dr David Cole of Cardiff University has produced a film about his work on T-Cells and how they can be re-programmed to fight cancer. This describes how T-Cells work to a young school audience, why they are not very good at fighting cancer normally, and how Diamond Light Source is being used to help make super hero cancer T-cells for new treatments.
+
+By having a Diamond exhibition alongside the film we can reinforce the message from the film as well as making available 'Diamond experts' who can answer any questions. Equally visitors to the Diamond exhibition can be directed to the animation to reinforce the type of research we carry out and why it is important to human health.
+
+Aberystwyth University - Materials Physics 
+Researchers from Aberystwyth University use Diamond Light Source to study carbon-based materials such as diamond, graphite and graphene. A team led by Prof Andy Evans will be exhibiting at the festival and as part of that will be covering how synchrotron light is used for their research.
+
+By running a Diamond exhibition alongside the Aberystwyth team we can reinforce the messages and the links between Diamond, its application and Welsh universities. 
+
+4- Diamond Light Welsh Film and National Competition 
+The Welsh medium broadcaster S4C's flagship science programme &amp;quot;Dibendraw&amp;quot; has dedicated one programme to showcase the Science at Diamond. For last year's National Eisteddfod a 7 minute film of the program was adapted. The film explains how the Synchrotron works, and features Welsh scientists who work and/or use the facility. The film will be played continuously as part of the exhibition and is available for all schools.
+ 
+A photograph of some of the material produced for last year's event, which will be reused.</gtr:impact><gtr:outcomeId>58bd3a78073763.39349278</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Public/other audiences</gtr:primaryAudience><gtr:year>2016</gtr:year></gtr:disseminationOutput></gtr:disseminationOutputs><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">ST/P001750/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

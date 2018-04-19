@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/45ACD932-DC7D-416D-B529-E9B5DC747F6F"><gtr:id>45ACD932-DC7D-416D-B529-E9B5DC747F6F</gtr:id><gtr:name>Inspection Technologies Ltd</gtr:name><gtr:address><gtr:line1>26 ADELAIDE ROAD</gtr:line1><gtr:city>LEAMINGTON SPA</gtr:city><gtr:postCode>CV31 3PL</gtr:postCode><gtr:region>West Midlands</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/45ACD932-DC7D-416D-B529-E9B5DC747F6F" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>45ACD932-DC7D-416D-B529-E9B5DC747F6F</gtr:id><gtr:name>Inspection Technologies Ltd</gtr:name><gtr:address><gtr:line1>26 ADELAIDE ROAD</gtr:line1><gtr:city>LEAMINGTON SPA</gtr:city><gtr:postCode>CV31 3PL</gtr:postCode><gtr:region>West Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>51326.0</gtr:offerGrant><gtr:projectCost>73323.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/5DD05D91-FFB9-4A2C-A50A-894FD2058EA0"><gtr:id>5DD05D91-FFB9-4A2C-A50A-894FD2058EA0</gtr:id><gtr:firstName>Geoff</gtr:firstName><gtr:surname>Diamond</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=132443"><gtr:id>F691EA35-6BA7-4FEC-B01A-5FC7C7B0ED96</gtr:id><gtr:title>EIS Board</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Feasibility Studies</gtr:grantCategory><gtr:grantReference>132443</gtr:grantReference><gtr:abstractText>A novel system for the detection of corrosion defects under thermal insulation based on Electrical Impedance 
+
+Spectroscopy (EIS). It addresses the problem of detection of corrosion under thermal insulation especially that 
+
+covered with thick, heavy lagging and surrounded with an outer metal cladding. Water which enters can collect 
+
+and be trapped accelerating the corrosion process especially at high temperatures. 
+
+Most current SoA requires often requires the removal of the underlying insulation, are expensive, slow, highly 
+
+localised, are usually labour intensive, and often involve shutting down operations. Our approach - 
+
+?Does not require the removal of thermal insulation 
+
+?Can scan the entire surface of very long lengths of insulated pipeline instantaneously 
+
+?Is quick and relatively inexpensive to install 
+
+?Can detect both sudden catastrophic leaks and breaches 
+
+?Provides a complete real-time 24 hour corrosion monitoring system in large, dense pipeline networks.</gtr:abstractText><gtr:fund><gtr:end>2017-12-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2017-01-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>51326</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">132443</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/2F578B8B-DAAF-43C8-8FA2-18EE526A7256"><gtr:id>2F578B8B-DAAF-43C8-8FA2-18EE526A7256</gtr:id><gtr:name>Powervault Ltd</gtr:name><gtr:address><gtr:line1>14 Marshalsea Rd</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>SE1 1HL</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/2F578B8B-DAAF-43C8-8FA2-18EE526A7256" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>2F578B8B-DAAF-43C8-8FA2-18EE526A7256</gtr:id><gtr:name>Powervault Ltd</gtr:name><gtr:address><gtr:line1>14 Marshalsea Rd</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>SE1 1HL</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>84408.0</gtr:offerGrant><gtr:projectCost>140681.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/E95E9F44-1A98-42BE-9C5E-99047F638DA4"><gtr:id>E95E9F44-1A98-42BE-9C5E-99047F638DA4</gtr:id><gtr:firstName>Andrew</gtr:firstName><gtr:surname>Wordsworth</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710414"><gtr:id>54D38812-DB96-4C80-9FB5-B4CADD18691A</gtr:id><gtr:title>PowerVault (Domestic Energy Storage - Technical Demonstration Project)</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710414</gtr:grantReference><gtr:abstractText>Following
+a successful ?Proof of Market? study undertaken with support from the Technology
+Strategy Board?s SMART Scheme, a limited company, PowerVault Ltd, has been formed to
+commercially exploit the novel energy storage technology.
+Powervault aims to be the UK?s first specialist provider of cost-effective distributed energy
+storage solutions to domestic homes and SMEs, lowering consumers? electricity bills whilst
+reducing peak grid electricity demand.
+The Powervault device is designed to work with most battery storage technologies. Our
+background IP, for which we have patent applications in process, lies in the control and
+integration elements of the storage device and in its interface with the existing household
+electrical system.
+The device allows consumers to benefit from low demand/marginal prices thereby delivering
+lower average tariffs to the individual household. The device is capable of remote dispatch via
+existing household Wi-Fi links; ultimately allowing additional benefits to be derived from grid
+services.
+The primary objective of the Proof of Concept project is to demonstrate the technical
+performance and economic benefits of the ?Alpha? device. This will address a number of
+questions raised during the ?Proof of Market? study on actual performance in the domestic
+environment. These include the perceived technical and commercial limitations of small scale
+storage devices, consumer acceptance of a novel technology, and the applicability across a
+range of household demand profiles.
+Up to 20 of the devices will be deployed, primarily within properties with solar PV installed.
+We will conduct base-lining, usage monitoring and behavioural analysis to identify direct
+benefits to the householder.
+Overall, this Proof of Concept project will provide a showcase for the operation of distributed
+energy storage and help establish a UK based company which will facilitate the electricity
+grid to absorb greater quantities of intermittent renewable energy.</gtr:abstractText><gtr:fund><gtr:end>2015-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2014-01-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>84408</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710414</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/E6623E8B-B518-42B2-B7C0-2999D224BDFB"><gtr:id>E6623E8B-B518-42B2-B7C0-2999D224BDFB</gtr:id><gtr:name>SENSE BIODETECTION LIMITED</gtr:name><gtr:address><gtr:line1>26 Fettiplace Road
+Marcham</gtr:line1><gtr:city>Abingdon</gtr:city><gtr:postCode>OX13 6PL</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/E6623E8B-B518-42B2-B7C0-2999D224BDFB" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>E6623E8B-B518-42B2-B7C0-2999D224BDFB</gtr:id><gtr:name>SENSE BIODETECTION LIMITED</gtr:name><gtr:address><gtr:line1>26 Fettiplace Road
+Marcham</gtr:line1><gtr:city>Abingdon</gtr:city><gtr:postCode>OX13 6PL</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>20889.0</gtr:offerGrant><gtr:projectCost>29841.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/DB625F2E-F70C-419D-88E3-4DF41109F9A1"><gtr:id>DB625F2E-F70C-419D-88E3-4DF41109F9A1</gtr:id><gtr:firstName>Harry</gtr:firstName><gtr:surname>Lamble</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=132549"><gtr:id>A498E2B4-C5C7-4358-86AD-B6BAF02F8399</gtr:id><gtr:title>A UK - India Collaboration to Drive Innovation in Cervial Cancer Screening</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Feasibility Studies</gtr:grantCategory><gtr:grantReference>132549</gtr:grantReference><gtr:abstractText>Cervical cancer is the leading cause of cancer death in Indian women between the ages of 30 and 69. Only
+
+around 3.1% of women undergo screening tests in India versus 77.5% in the UK, a discrepancy meaning that the
+
+age standardised mortality rate from this disease is almost 7 times higher in India. This project aims to conduct
+
+market research and further establish a relationship between the UK lead organisation Sense Biodetection
+
+Limited and Indian diagnostics company Bhat Bio-Tech alongside clinical experts at SDM Medical College
+
+Hospital. Our long-term aim is to collaboratively develop and market a novel cervical cancer screening product
+
+in the form of a low cost, single-use molecular test for detection of infection by High Risk Human Papilloma
+
+Virus (hrHPV) which is directly linked with 99.7% of cervical cancer cases. In contrast to existing approaches,
+
+our test would eliminate the need for centralised testing facilities and infrastructure and so overcome barriers
+
+to adoption in the Indian market. Through initially focussing on the Indian market, we will develop a low-cost
+
+solution that also has wider potential to alleviate the costly burden of cervical screening within the NHS.</gtr:abstractText><gtr:fund><gtr:end>2017-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2016-12-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>20889</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">132549</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

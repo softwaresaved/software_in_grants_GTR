@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/86B4D2F1-90AE-414C-8AAF-C314956339A1"><gtr:id>86B4D2F1-90AE-414C-8AAF-C314956339A1</gtr:id><gtr:name>Barnard Microsystems Limited</gtr:name><gtr:address><gtr:line1>Brentmead House
+Britannia Road</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>N12 9RU</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/86B4D2F1-90AE-414C-8AAF-C314956339A1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>86B4D2F1-90AE-414C-8AAF-C314956339A1</gtr:id><gtr:name>Barnard Microsystems Limited</gtr:name><gtr:address><gtr:line1>Brentmead House
+Britannia Road</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>N12 9RU</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>97936.0</gtr:offerGrant><gtr:projectCost>163227.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/99771245-3199-4881-8A84-41FA4A188F70"><gtr:id>99771245-3199-4881-8A84-41FA4A188F70</gtr:id><gtr:firstName>Joseph</gtr:firstName><gtr:surname>Barnard</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710576"><gtr:id>3693A4E8-7403-4E1F-AB51-4D2422BA7E64</gtr:id><gtr:title>ACTION - UARAD III = Airborne Collision Detection sensor for use on Unmanned Aircraft</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710576</gtr:grantReference><gtr:abstractText>This Proof of Concept (&amp;quot;PoC&amp;quot;) project is a follow on from our UARAD Proof of Market
+(&amp;quot;PoM&amp;quot;) Project 700298, in which we confirmed the market for this sensor. In this project, we
+propose the design, development and characterisation of an all weather airborne object
+collision detection sensor for use on unmanned aircraft (&amp;quot;UA&amp;quot;).
+We are developing UA for use throughout the world in oil and mineral exploration and border
+patrol applications. The greatest technical challenge to the use of UA operating Beyond Line
+Of Sight (&amp;quot;BLOS&amp;quot;) is the deployment of a collision detection sensor. This is required by our
+potential UA customers.
+We plan to develop and demonstrate a technology that augments the capabilities of a stereo
+vision sensor, to enable the detection of airborne objects, such as other aircraft, balloons and
+birds, (a) at night, (b) in the clouds and (c) approaching from the sun. Our idea is to embed a
+microwave transmitter (&amp;quot;Tx&amp;quot;) module in the nose of the UA together with a linear array of
+microwave receiver (&amp;quot;Rx&amp;quot;) modules within the leading edge of the wings of the UA to form a
+linear electromagnetic imaging sensor. We will also use the same Tx and Rx modules on a
+rotating platform on the underside of the UA to provide a 360&amp;deg; detection coverage. These two
+microwave sensors form the ACTION sensor.
+Once this sensor has been proven on UA, Cliff Whittaker at the Civil Aviation Authority
+suggested that it could be used on light aircraft, so contributing to the safety of manned
+aviation. An environmental benefit would be that UA create less pollution per km flown than
+their manned counterparts.
+We will use inexpensive components developed for the cell phone industry to keep the
+ACTION sensor cost to less than &amp;pound;16,680. BML is engaged with oil, gas and mineral
+exploration companies that have the means to pay for this technology and the incentive to
+support the exploitation of this work.</gtr:abstractText><gtr:fund><gtr:end>2015-09-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2014-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>97936</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710576</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

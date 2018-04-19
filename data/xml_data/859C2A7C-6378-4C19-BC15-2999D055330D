@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/1203204D-2927-4149-B36B-50506E5B4A47"><gtr:id>1203204D-2927-4149-B36B-50506E5B4A47</gtr:id><gtr:name>Grid Edge Limited</gtr:name><gtr:address><gtr:line1>10b Mclaren Building</gtr:line1><gtr:line2>Priory Queensway</gtr:line2><gtr:postCode>B4 7LR</gtr:postCode><gtr:region>Unknown</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/1203204D-2927-4149-B36B-50506E5B4A47" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>1203204D-2927-4149-B36B-50506E5B4A47</gtr:id><gtr:name>Grid Edge Limited</gtr:name><gtr:address><gtr:line1>10b Mclaren Building</gtr:line1><gtr:line2>Priory Queensway</gtr:line2><gtr:postCode>B4 7LR</gtr:postCode><gtr:region>Unknown</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>66987.0</gtr:offerGrant><gtr:projectCost>95696.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=132426"><gtr:id>859C2A7C-6378-4C19-BC15-2999D055330D</gtr:id><gtr:title>Enabling Buildings on the Grid Edge</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Feasibility Studies</gtr:grantCategory><gtr:grantReference>132426</gtr:grantReference><gtr:abstractText>Our electricity system is changing towards having a greater proportion of non-flexible generation from either 
+
+intermittent renewable or nuclear sources and as behaviour in our society change around modern work 
+
+practices and changing patterns of consumption behaviour. As this transition progresses there is an 
+
+opportunity for the controlling influence in the energy system to move away from the small group of large 
+
+powerful incumbent organisations towards the majority of agents within the system, the millions of system 
+
+users. This project enables those customers to redefine themselves as participants within the energy system. 
+
+The developments in this project allow building owners to use the dispatchable electrical loads in their 
+
+buildings to become a dynamic and flexible energy sink, store and buffer asset, continuously pairing off against 
+
+intermittent renewable generation and providing the system stability needed for the whole system to operate 
+
+reliably. By unlocking these dispatchable load resources this project opens the path for a 100% zero carbon 
+
+future electricity system.</gtr:abstractText><gtr:fund><gtr:end>2017-12-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2017-01-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>66987</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">132426</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -14,12 +14,14 @@ import matplotlib.pyplot as plt
 
 from search_terms import SEARCH_TERM_LIST
 
-
-DATAFILENAME = "./data/gtr_data_titles_and_abs.csv"
-STOREFILENAME = "./output/"
-PNGSTOREFILENAME = "./output/png/"
-BACKGROUNDSTORENAME = STOREFILENAME + 'background_data/'
-LOGGERLOCATION = "./log_gtr_analysis.log"
+INPUTDIR = 'data'
+INPUTFILENAMES = [
+    'gtr_data_titles_and_abs-all.csv',
+    'gtr_data_titles_and_abs-researchgrants.csv',
+]
+OUTPUTDIR = 'output'
+BACKGROUNDOUTPUTDIR = 'background_data'
+LOGGERLOCATION = 'log_gtr_analysis.log'
 
 # Years that the Institute has existed, except 2018
 SUBSET_YEARS = [2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017]
@@ -53,7 +55,7 @@ def export_to_csv(df, location, filename, index_write, compress=False):
     :return: nothing, saves a csv
     """
 
-    filepath = location + filename + '.csv'
+    filepath = filename + '.csv'
 
     df.to_csv(filepath, index=True)
 
@@ -113,7 +115,7 @@ def save_bar_chart(df, x_col, y_col, file, percentage):
 
     fig = ax.get_figure()
     fig.tight_layout()
-    fig.savefig(os.path.join(PNGSTOREFILENAME, file + '.png'))
+    fig.savefig(file + '.png')
 
 
 def get_years(df):
@@ -140,7 +142,7 @@ def get_years(df):
 
     # Write to a file for future reference
     for key in years_in_data:
-        writing = open(BACKGROUNDSTORENAME + key + '_in_data.csv','w')
+        writing = open(BACKGROUNDOUTPUTDIR + '/' + key + '_in_data.csv','w')
         for item in years_in_data[key]:
             writing.write(str(item) + '\n')
         writing.close()
@@ -157,7 +159,7 @@ def get_funders(df):
     funders_in_data.sort()
 
     # Write out the funders for future reference
-    funders = open(BACKGROUNDSTORENAME + 'funders_in_data.csv','w')
+    funders = open(BACKGROUNDOUTPUTDIR + '/funders_in_data.csv','w')
     for item in funders_in_data:
         funders.write(item + '\n')
     funders.close()
@@ -188,7 +190,7 @@ def get_total_grants(df, years_in_data):
         number_of_grants_started_df.loc[current_year, 'how many grants started in year'] = number_started
 
     # Write out to a file for future reference
-    export_to_csv(number_of_grants_started_df, BACKGROUNDSTORENAME, 'all_grants_count', index_write=True)
+    export_to_csv(number_of_grants_started_df, BACKGROUNDOUTPUTDIR, BACKGROUNDOUTPUTDIR + '/all_grants_count', index_write=True)
 
     return num_of_grants_started
 
@@ -224,7 +226,6 @@ def find_keywords(df, keyword_list, where_to_search):
 
 
 def get_annual_spend(df, years_in_data):
-
     """
     Calculates how many years the grant spans and the amount of funding that is made each year
 
@@ -250,7 +251,6 @@ def get_annual_spend(df, years_in_data):
 
 
 def get_summary_data(df, where_to_search, keyword_list, years_in_data, num_of_grants_started, funders_in_data):
-
     """
     Separate the df into years, and then count how many times each of the words
     are found in each part of the research grant
@@ -283,17 +283,17 @@ def get_summary_data(df, where_to_search, keyword_list, years_in_data, num_of_gr
             # the records in the dataframe from the year in question
             df_where_found_percent[str(curr_year) + '_' + search_col + '_%'] = round((df_counts[orig_column_list].sum(axis=1)/num_of_grants_started[curr_year])*100,2)
 
-    export_to_csv(df_where_found, STOREFILENAME, 'keywords_found_count', index_write=True)
-    export_to_csv(df_where_found_percent, STOREFILENAME, 'keywords_found_percentage', index_write=True)
+    export_to_csv(df_where_found, OUTPUTDIR, 'keywords_found_count', index_write=True)
+    export_to_csv(df_where_found_percent, OUTPUTDIR, 'keywords_found_percentage', index_write=True)
 
     return
 
 
 def save_only_software_grants(df, where_to_search):
-    '''
+    """
     Want a df that contains only grants that are related to software, i.e. that
     have a keyword found in the title of abstract.
-    '''
+    """
     # Create a list that contains the names of the summary cols
     # typically "abstract_all_terms" and "title_all_terms"
     summary_cols = [s + '_all_terms' for s in where_to_search]
@@ -303,8 +303,8 @@ def save_only_software_grants(df, where_to_search):
     # or the abstract. In other words, it leaves us with a df that contains
     # only records where a keyword was found.
     df_only_found = df.loc[(df[summary_cols]!=0).any(axis=1)]
-    export_to_csv(df_only_found, STOREFILENAME, 'only_grants_related_to_software',
-        index_write=True, compress=True)
+    export_to_csv(df_only_found, OUTPUTDIR,
+        'only_grants_related_to_software', index_write=True, compress=True)
 
     logger.info('Saved data on all grants related to software')
 
@@ -343,7 +343,7 @@ def software_grants_by_funder(df, df_only_found, years_in_data, num_of_grants_st
             if funder_num_grants_started[curr_year] > 0:
                 df_summary.loc[curr_year, str(funder) +  ' grants %'] = round((len(df_funder_swyear)/funder_num_grants_started[curr_year])*100,2)
 
-    export_to_csv(df_summary, STOREFILENAME, 'software_grants_by_funder', index_write=True)
+    export_to_csv(df_summary, OUTPUTDIR, 'software_grants_by_funder', index_write=True)
 
     logger.info('Calculated summaries of data.')
 
@@ -391,8 +391,8 @@ def get_software_grants_cost_by_funder(df_only_found, df, years_in_data, num_of_
         df_cost_pct_sub = df_cost.loc[SUBSET_YEARS, funder + ' software spend %']
         save_bar_chart(df_cost_pct_sub, 'Year', funder + ' spend (%)', 'software_spend_percent_' + funder, True)
 
-    export_to_csv(df_cost, STOREFILENAME, 'yearly_all_grants_costs_by_funder', index_write=True)
-    export_to_csv(df_cost_sub, STOREFILENAME, 'yearly_software_grants_costs_by_funder', index_write=True)
+    export_to_csv(df_cost, OUTPUTDIR, 'yearly_all_grants_costs_by_funder', index_write=True)
+    export_to_csv(df_cost_sub, OUTPUTDIR, 'yearly_software_grants_costs_by_funder', index_write=True)
 
     logger.info('Calculated yearly costs of software-related grants.')
 
@@ -433,7 +433,7 @@ def average_annual_spend_on_software(df_cost, years_in_data, funders_in_data):
 
     # Sort overall costs and save
     df_av_cost = df_av_cost.sort_values(by='Average software spend (£) ' + drange, ascending=True)
-    export_to_csv(df_av_cost, STOREFILENAME, 'average_software_grants_costs_by_funder', index_write=True)
+    export_to_csv(df_av_cost, OUTPUTDIR, 'average_software_grants_costs_by_funder', index_write=True)
 
     logger.info('Calculated average costs of software-related grants.')
 
@@ -468,19 +468,24 @@ def search_term_popularity(df_only_found, keyword_list, funders_in_data):
     save_bar_chart(df_chart_term_pop['Total'], 'Keyword', 'Keyword count',
         'search_term_popularity_all', False)
 
-    export_to_csv(df_term_pop, STOREFILENAME, 'search_term_popularity_all', index_write=True)
+    export_to_csv(df_term_pop, OUTPUTDIR, 'search_term_popularity_all', index_write=True)
 
     logger.info('Calculated search term popularity across search results.')
 
 
-def main():
+def process_dataset(dataset_filename, where_to_search):
+    # If the output directory for this dataset doesn't exist, create it
+    dir_path = OUTPUTDIR + '/' + dataset_filename
+    if not os.path.exists(dir_path):
+        os.makedirs(dir_path)
+        os.makedirs(dir_path + '/' + BACKGROUNDOUTPUTDIR)
 
-    # Set in which parts of the grant we're going to search, and what
-    # we're going to search for
-    where_to_search = ['title', 'abstract']
+    # Change to the directory in which all CSV and PNG results
+    # will be created
+    os.chdir(dir_path)
 
     # Get GTR summary data
-    df = import_csv_to_df(DATAFILENAME)
+    df = import_csv_to_df('../../' + INPUTDIR + '/' + dataset_filename)
     logger.info('Imported df includes ' + str(len(df)) + ' records')
 
     # Make the dates, er... well... dates
@@ -522,8 +527,24 @@ def main():
     # Find average costs of software-related grants by year, per funder
     average_annual_spend_on_software(df_cost, years_in_data, funders_in_data)
 
+    # Output entire processing dataframe
+    export_to_csv(df, OUTPUTDIR, 'final_df', index_write=False, compress=True)
 
-    export_to_csv(df, STOREFILENAME, 'final_df', index_write=False, compress=True)
+    # Revert to root directory
+    os.chdir('../..')
+
+
+def main():
+    # Set in which parts of the grant we're going to search, and what
+    # we're going to search for
+    where_to_search = ['title', 'abstract']
+
+    # Loop through each of the input files we wish to process, and run
+    # the analysis on each. CSV and PNG results are stored in subdirectories
+    # of OUTPUTDIR, one subdirectory for each analysis
+    for input_dataset in INPUTFILENAMES:
+        logger.info('------ Processing run: ' + input_dataset + ' ------')
+        process_dataset(input_dataset, where_to_search)
 
 
 if __name__ == '__main__':

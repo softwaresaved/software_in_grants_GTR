@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/EDBC5F6C-680A-42E2-87E6-97E2F96155BC"><gtr:id>EDBC5F6C-680A-42E2-87E6-97E2F96155BC</gtr:id><gtr:name>Iconcipio Ltd</gtr:name><gtr:address><gtr:line1>CALDER &amp; CO , 16 CHARLES II STREET</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>SW1Y 4NW</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/EDBC5F6C-680A-42E2-87E6-97E2F96155BC" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>EDBC5F6C-680A-42E2-87E6-97E2F96155BC</gtr:id><gtr:name>Iconcipio Ltd</gtr:name><gtr:address><gtr:line1>CALDER &amp; CO , 16 CHARLES II STREET</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>SW1Y 4NW</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>9000.0</gtr:offerGrant><gtr:projectCost>15000.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710060"><gtr:id>42A10DFB-D8C8-4454-9AA1-E83F3DA1BEA7</gtr:id><gtr:title>iConcipio aims to offer higher education institutions through a web-based system called My SkillPal a variety of self-learning techniques for students using audio-visual input to address the difficulties, both psychological such as anxiety or stress</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710060</gtr:grantReference><gtr:abstractText>Modern lifestyle requires a constant know-how competence in order to meet mental demands
+and maintain our position within the external world. This competence includes psychological
+needs and generic personal effectiveness skills which are not necessarily readily available to
+individuals. These difficulties can be more evident in more organized environments such as
+Schools, Universities and in general Higher Education (HE) institutions as well as in Business
+and other work situations.
+Many techniques are employed in clinical and educational environments aiming to assist
+individuals with specific needs which vary in severity. But such techniques are generally
+offered piecemeal and on a one to one or written basis. Use is not made of modern internet
+with video techniques despite it being well established that those with, for example, dyslexia
+or psychological difficulties can often learn better through an audiovisual input and that many
+people will prefer to address these difficulties through learning structured techniques and
+skills in a private/personal environment on the internet.
+The arrival of effective video techniques in IT presents the opportunity to provide a personal
+private web-based skill learning system, mySkillPal. Through an online questionnaire about
+an individual?s needs, specific techniques will be offered from modules based on particular
+difficulties to address the continuous learning needs of the individual. We envisage offering
+mySkillPal through four significant markets; Higher Education Institutions, Schools, Work
+and Health; initially in the UK but also internationally.
+iConcipio has chosen to develop mySkillPal firstly for the HE market where the founder is
+experienced and because HE institutions have an acknowledged student welfare role. Students
+are recognised to face many problems and situations as they generally leave home and seek to
+become fully independent whilst facing a demanding student learning and examination
+process. In 2008 drop out rates at UK Universities were above 22% and are far higher in
+science based subjects (&amp;pound;13,684 per student), the most expensive courses to run at
+Universities. MySkillPal will be offered to HE institutions as a ?free? student support service
+at an annual access fee based on the number of students.
+Since the competition in the last month we have secured Kings? commitment to work with
+iConcipio to develop a feasibility model of the website and a small selection of techniques so
+that the business concept can be demonstrated to potential HE customers as a basic prototype
+and so that its effectiveness can be tested and trialled by students.
+Grant funding is being applied for to help finance the development of this feasibility model.
+With the founders limited personal resources the receipt of the grant will facilitate rapid
+development of the opportunity and enable investors to have confidence in the potential
+success of the business.</gtr:abstractText><gtr:fund><gtr:end>2012-04-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2011-11-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>9000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710060</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

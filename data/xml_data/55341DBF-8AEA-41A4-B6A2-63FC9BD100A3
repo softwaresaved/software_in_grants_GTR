@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/6EDFE35D-517E-4CA3-B72C-B7CEBD9CB29A"><gtr:id>6EDFE35D-517E-4CA3-B72C-B7CEBD9CB29A</gtr:id><gtr:name>Inventor-E Limited</gtr:name><gtr:address><gtr:line1>BLYTHE VALLEY INNOVATION CENTRE BLYTHE VALLEY INNOVATION CENTRE, CENTRAL BOULEVARD , BLYTHE VALLEY PARK, SHIRLEY</gtr:line1><gtr:city>SOLIHULL</gtr:city><gtr:postCode>B90 8AJ</gtr:postCode><gtr:region>West Midlands</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/6EDFE35D-517E-4CA3-B72C-B7CEBD9CB29A" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>6EDFE35D-517E-4CA3-B72C-B7CEBD9CB29A</gtr:id><gtr:name>Inventor-E Limited</gtr:name><gtr:address><gtr:line1>BLYTHE VALLEY INNOVATION CENTRE BLYTHE VALLEY INNOVATION CENTRE, CENTRAL BOULEVARD , BLYTHE VALLEY PARK, SHIRLEY</gtr:line1><gtr:city>SOLIHULL</gtr:city><gtr:postCode>B90 8AJ</gtr:postCode><gtr:region>West Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>100001.0</gtr:offerGrant><gtr:projectCost>167003.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/4C5AF706-CA93-48D7-BD13-AA0539D0EB61"><gtr:id>4C5AF706-CA93-48D7-BD13-AA0539D0EB61</gtr:id><gtr:firstName>MARTA</gtr:firstName><gtr:surname>RETENAGA</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710347"><gtr:id>55341DBF-8AEA-41A4-B6A2-63FC9BD100A3</gtr:id><gtr:title>The ToolSafe Dispensing System</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710347</gtr:grantReference><gtr:abstractText>The ToolSafe system enables multiple item dispensing of inventory with enhanced security;
+this is achieved through sensor based inventory control using RFID and weight into
+automated supply cabinets to provide individual compartment control with full accountability
+for the quantity replenished and issued to users. Flexible configuration allows for the
+management of supplies in a single cabinet. Advantages of this system are that it:
+? Controls access to a single item, increasing accountability and accuracy
+? Controls access to multiple items in a single compartment with weight sensor audited
+accountability for the physical quantity taken (if quantity taken does not match quantity asked
+for the system will alert the user via the touch screen and records the discrepancy)
+? Items can be booked to multiple charge codes through the touch screen to track expensive
+items to a particular asset and/or department as well as the user
+? Reduces inventory consumption by between 20% and 40%
+? Provides detailed reporting on high cost/critical items
+? RFID capability enables serial number management of specific tools to users, batch number
+control and expiry/calibration date management
+? Supports Foreign Object and Debris Control (FOD); items confirmed complete and returned
+to ToolSafe
+? Cuts walk around time as ToolSafe is strategically located close to point of use
+? Automates the ordering process; orders are transmitted electronically
+? Audited proof of delivery through weight sensor and RFID validation, ensuring the correct
+items go into the right locations.
+? Access control can be with employee clocking in cards (e.g. bar code; magnetic swipe and
+RFID) or biometric (fingerprint) access
+? Integrates with third-party software systems such as ERP (Enterprise Resource Planning)
+? Monitors and compares employee product usage trends
+? Measures supply KPI?s (Key Performance Indicators) to predetermined service level
+agreements
+? Prevents stock-outs/work stoppages
+? ROI in 12 months</gtr:abstractText><gtr:fund><gtr:end>2014-11-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2013-06-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>100001</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710347</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/AB307619-D4FA-427E-A042-09DBEBA84669"><gtr:id>AB307619-D4FA-427E-A042-09DBEBA84669</gtr:id><gtr:name>Swansea University</gtr:name><gtr:department>School of Engineering</gtr:department><gtr:address><gtr:line1>Singleton Park</gtr:line1><gtr:postCode>SA2 8PP</gtr:postCode><gtr:region>Wales</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/AB307619-D4FA-427E-A042-09DBEBA84669"><gtr:id>AB307619-D4FA-427E-A042-09DBEBA84669</gtr:id><gtr:name>Swansea University</gtr:name><gtr:address><gtr:line1>Singleton Park</gtr:line1><gtr:postCode>SA2 8PP</gtr:postCode><gtr:region>Wales</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9"><gtr:id>3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9</gtr:id><gtr:name>University of Oxford</gtr:name><gtr:address><gtr:line1>University Chest</gtr:line1><gtr:line2>Wellington Square</gtr:line2><gtr:line4>Oxford</gtr:line4><gtr:postCode>OX1 2JD</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/878143B4-4430-4943-B0BA-B751373F8097"><gtr:id>878143B4-4430-4943-B0BA-B751373F8097</gtr:id><gtr:name>BASF AG</gtr:name><gtr:address><gtr:line1>Carl-Bosch-Str. 38</gtr:line1><gtr:line4>Ludwigshafen an Rhein</gtr:line4><gtr:line5>D-67056</gtr:line5><gtr:region>Outside UK</gtr:region><gtr:country>Germany</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/DCA643FB-4FE4-4A92-A822-8CA1F3642653"><gtr:id>DCA643FB-4FE4-4A92-A822-8CA1F3642653</gtr:id><gtr:name>Sandvik Materials Technology</gtr:name><gtr:address><gtr:line1>Sandvik Osprey Limited</gtr:line1><gtr:line2>Red Jacket Works</gtr:line2><gtr:line3>Milland Road</gtr:line3><gtr:postCode>SA11 1NJ</gtr:postCode><gtr:region>Wales</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/46387D84-F71E-4B7D-8C7D-9C288F113510"><gtr:id>46387D84-F71E-4B7D-8C7D-9C288F113510</gtr:id><gtr:name>Imperial College London</gtr:name><gtr:address><gtr:line1>South Kensington Campus</gtr:line1><gtr:line2>Exhibition Road</gtr:line2><gtr:line4>London</gtr:line4><gtr:postCode>SW7 2AZ</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/AA3B7BF9-49A0-4CB5-8520-D342BCA04013"><gtr:id>AA3B7BF9-49A0-4CB5-8520-D342BCA04013</gtr:id><gtr:name>LUX-TSI</gtr:name><gtr:address><gtr:line1>Unit10A</gtr:line1><gtr:line2>Sony UK Technology Centre</gtr:line2><gtr:postCode>CF35 5HZ</gtr:postCode><gtr:region>Wales</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/77C43898-4A5C-4872-B280-05A2AA5F0842"><gtr:id>77C43898-4A5C-4872-B280-05A2AA5F0842</gtr:id><gtr:name>Tata Steel UK</gtr:name><gtr:address><gtr:line1>30 Millbank</gtr:line1><gtr:line4>London</gtr:line4><gtr:postCode>SW1P 4WY</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/EAAD4D43-BD15-432B-9385-2DBD0C65958D"><gtr:id>EAAD4D43-BD15-432B-9385-2DBD0C65958D</gtr:id><gtr:name>University of Bath</gtr:name><gtr:address><gtr:line1>University of Bath</gtr:line1><gtr:line2>Claverton Down</gtr:line2><gtr:line4>Bath</gtr:line4><gtr:line5>Avon</gtr:line5><gtr:postCode>BA2 7AY</gtr:postCode><gtr:region>South West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/E90BC663-CB3E-4B0C-8244-B012205C4E34"><gtr:id>E90BC663-CB3E-4B0C-8244-B012205C4E34</gtr:id><gtr:name>EM Coatings</gtr:name><gtr:address><gtr:line1>Enterprise Way</gtr:line1><gtr:line2>Vale Industrial Park</gtr:line2><gtr:postCode>WR11 1GX</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/80844A29-2DE2-4B7F-A330-A71742CE9433"><gtr:id>80844A29-2DE2-4B7F-A330-A71742CE9433</gtr:id><gtr:firstName>David</gtr:firstName><gtr:surname>Penney</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/8C584DAF-E428-4BDA-B1D1-DB5826A089D0"><gtr:id>8C584DAF-E428-4BDA-B1D1-DB5826A089D0</gtr:id><gtr:firstName>James</gtr:firstName><gtr:otherNames>Henley</gtr:otherNames><gtr:surname>Sullivan</gtr:surname><gtr:roles><gtr:role><gtr:name>TRAINING_GRANT_HOLDER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=EP%2FK503228%2F1"><gtr:id>FDCAD601-1993-4DDC-90D5-412A597A9A09</gtr:id><gtr:title>COATED: Centre Of Advanced Training for Engineering Doctorates</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Training Grant</gtr:grantCategory><gtr:grantReference>EP/K503228/1</gtr:grantReference><gtr:abstractText>Swansea University is the host for the EPSRC/TSB funded Innovation and Knowledge centre, the Sustainable Product
+Engineering Centre for Innovative Functional Industrial Coatings (SPECIFIC). The SPECIFIC IKC has ambitious targets to
+create a new billion pound industry sector built on the principle of buildings as power-stations. The core collaborative
+partners include leading UK research institutes (e.g. ICL and Bath Universities) and internationally leading industry groups
+(e.g. Tata, BASF and Pilkington). Critically, the IKC is established after 9 months of operation in a purpose designed facility
+including state of the art labs and scale up facilities (a pilot production line) with industry and academic team members
+working together in a true open innovation model. Having established the centre and the core partnerships it is clear that to
+deliver the ambitious targets and create the new UK lead industry in functionally coated construction products the key final
+ingredient is the people. Whilst the existing team funded by EPSRC, TSB, the University and Industry is quite small (19
+people in totality) the IKC is supported by a larger cohort of research students (currently 32 funded largely through ESF
+sources). It is this critical mass of young, enthusiastic, open minded individuals that catalyses the atmosphere and initial
+successes of the IKC. It is the aim for COATED that we can build on this initial momentum and support three entries of
+seven EngD students onto a new EngD programme based entirely on functional coatings. We have secured the support of
+the Welsh European funding office (WEFO) and Swansea University for one third of the funds. Our industry partners have
+committed one third of the funds and as such we feel the proposal represents good economic value to EPSRC. This
+EPSRC funding will be critical in enabling research partnerships with universities outside Wales (such as ICL, Bath and
+Oxford) and with international companies with a UK footprint who are not based in the Principality. In addition, these
+research engineers upon graduation will form a critical pillar of a knowledge transfer mechanism into the new industry
+sector. This proposal builds on the long term innovative and successful EngD programmes run at Swansea on Steel
+Technology introducing a new dimension of UK wide collaboration and with a clear focus on value creation for the UK
+economy.
+COATED represents an important expansion of EngD activity at Swansea and underpins the success of the IKC. The
+ambitions of the SPECIFIC IKC to deliver new technology, jobs and wealth creation can only be realised with the mix of
+experienced Technology Transfer Fellows, engaged industry and academic partners (provided through the IKC) and a
+continued supply of open minded enthusiastic researchers that COATED can offer. A key new development will be the
+engagement with Oxford, Bath and Imperial at EngD level as this will bring cluster activity within those institutions where
+currently SPECIFIC has a single postdoctoral researcher. In addition, the EPSRC funding will allow for collaboration with
+companies across the UK and with multinational partners with a UK footprint. A key output from COATED alongside the
+technological and scientific innovations will be the people who will form part of the emerging new industry creating buildings
+that are power-stations. The alignment of Welsh Government, Industry and EPSRC that this programme offers will deliver
+these benefits with minimal financial contribution and could be an important model for how the funding organisations can
+work successfully together in the future to deliver value to the UK economy.</gtr:abstractText><gtr:potentialImpactText>The Innovation and Knowledge Centre (IKC) SPECIFIC has ambitious targets for new product development, job creation
+and CO2 reduction with a primary mission to create buildings that are power-stations. The targets include,
+- One third UK renewable energy production by 2020
+- 6MT annual CO2 reduction target
+- The creation of 5-10,000 jobs in the UK supply chain for new building products.
+Underpinning these ambitious targets and a key to their successful and rapid achievement are the Engineering Doctorate
+Research Engineers whose funding is sought in the current bid. The COATED proposal aims to address a key gap in the
+portfolio of the IKC to enable:
+- Greater engagement with new and existing industry partners.
+- The clear potential for shared studentships with institutions outside of the 'Convergence' areas of Wales (notably Oxford,
+ICL and Bath)
+- The continued supply of trained and enthusiastic research engineers for a growing new industry base
+Wealth Creation
+- 96% of all EngD graduates have moved to industry related careers; hence we anticipate 21 research leaders to come
+from COATED
+- Supply chain capability will be supported since many of the companies working with COATED represent those aligned to
+the goals of buildings as power-stations
+- The location of the research and development 'engine' in the UK is critical in making sure that the scale up manufacturing
+is based in the UK and the wider proposed job creation for the IKC is focused here.
+Knowledge
+- On average EngD researchers produce 3 refereed outputs so that the published output for the programme would exceed
+60 articles
+- Knowledge flow between industry and academia; we have already demonstrated within the first nine months of the IKC
+that the EngD researchers are a key knowledge portal with exciting collaborative projects between Swansea, Tata and
+BASF on solid state dye sensitized solar cells.
+- The proposed partnerships with ICL, Bath and Oxford will cement those created by the IKC and give the research work in
+those institutions critical mass (in relation to the aspirations of the IKC to industrialise university held IP) creating clusters of
+shared researchers.
+People
+- The trained researchers will in the main end up working for an industry partner of the programme as has been the case
+over the last 20 years. This important link cements a strong academic and industry partnership for the future.
+- As has been the case with Steel related training, the COATED modular training will be offered to staff in partner industries
+in two ways, firstly as work based learning and secondly as a route to gaining a Masters level qualification for graduate
+entry staff through an Integrated Graduate Development Scheme (IGDS).
+- It is likely (as has been the case from the Steel EngD) that our future industry managers and leaders will be created as part of the programme which is an important legacy of any investment.
+Environment and Society
+- Buildings are currently responsible for around 45% CO2 emissions from the UK and the programme encompassed by the
+IKC will address this by creating materials which will generate store and release solar energy. A 6 million tonne 2020 CO2
+saving is targeted.
+- The security of supply of electricity is likely to be a major issue in the coming decades and this combined with reduced
+peak demand for power that the concept of buildings as power-stations offers is compelling.
+- There is considerable potential for coated products that generate, store and release energy to be applied in off grid
+applications which opens up not only an export opportunity but also a huge humanitarian potential for the use of such
+materials in either disaster zones or in developing countries without a developed grid infrastructure.
+The COATED EngD will support the key outputs of the IKC, providing highly motivated, enthusiastic and expert individuals
+who will be able to support the growth of a new industry for renewable energy.</gtr:potentialImpactText><gtr:fund><gtr:end>2019-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2012-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>886740</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">EP/K503228/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/F325BF32-08AE-4621-8057-E5D6613B7308"><gtr:id>F325BF32-08AE-4621-8057-E5D6613B7308</gtr:id><gtr:name>St George's University of London</gtr:name><gtr:department>Faculty of Health &amp; Social Care Sciences</gtr:department><gtr:address><gtr:line1>Cranmer Terrace</gtr:line1><gtr:line4>London</gtr:line4><gtr:postCode>SW17 0RE</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/F325BF32-08AE-4621-8057-E5D6613B7308"><gtr:id>F325BF32-08AE-4621-8057-E5D6613B7308</gtr:id><gtr:name>St George's University of London</gtr:name><gtr:address><gtr:line1>Cranmer Terrace</gtr:line1><gtr:line4>London</gtr:line4><gtr:postCode>SW17 0RE</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/7C8FD572-532F-4895-A8A2-E77222215798"><gtr:id>7C8FD572-532F-4895-A8A2-E77222215798</gtr:id><gtr:firstName>Ann</gtr:firstName><gtr:otherNames>Patricia</gtr:otherNames><gtr:surname>Bowling</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=ES%2FH030530%2F1"><gtr:id>1E4953C2-DA95-4ACD-9DA1-66B1F951271E</gtr:id><gtr:title>Promotion of quality of life in older age and active ageing: follow-on funding</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>ES/H030530/1</gtr:grantReference><gtr:abstractText>&lt;p>With ESRC Growing Older and Cross- research council New Dynamics of Ageing programme funding (administered by ESRC), a measure of quality of life (QoL) in older age has been developed and tested&amp;nbsp;- the Older People's Quality of Life questionnaire (OPQOL). This was derived from the views of older people themselves. It is ready for use in population assessment, and in the evaluation of policy outcomes directly aimed at older people, including ethnically diverse groups. &lt;/p>
+
+&lt;p>The research, which also supported the importance of having socio-psychological resources, is relevant to programmes promoting older-people's well-being. The aims of the award are:&lt;/p>
+
+&lt;ol>
+ 
+
+ &lt;li>dissemination of the OPQOL to policy and practice audiences for assessment of public policy
+&lt;/li>
+ &lt;li>dissemination of the findings on how QoL in older age can be promoted, and active ageing enhanced to policy and practice audiences, and lay audiences.&lt;/li>
+&lt;/ol>
+
+&lt;p>The collaborators are the International Longevity Centre-UK (ILC-UK) Policy and Research team, Age Concern England and Help the Aged Policy Unit, and an experienced journalist with experience of working on ESRC programmes (Pamela Merritt). We will develop policy reports and disseminate them to multi-sector policy makers, practitioners, lay people, and the press, and to hold dissemination meetings. &lt;/p></gtr:abstractText><gtr:fund><gtr:end>2011-09-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/924BE15C-91F2-4AAD-941A-3F338324B6AE"><gtr:id>924BE15C-91F2-4AAD-941A-3F338324B6AE</gtr:id><gtr:name>ESRC</gtr:name></gtr:funder><gtr:start>2010-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>23615</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs><gtr:impactSummaryOutput><gtr:description>The use of the OPQOL in the NIHR funded exercise RCT has now been published:
+
+Iliffe S, Kendrick D, Morris R, Masud T, Gage H, Skelton D, Dinan S, Bowling A, et al. (2014). Multi-centre cluster randomised trial comparing a community group exercise programme with home based exercise with usual care for people aged 65 and over in primary care. Health Technology Assessment, 2014; volume 18, number 49.
+
+Iliffe S, Kendrick D, Morris R, Griffin M, Haworth D, Carpenter H, Masud T, Skelton DA, Dinan-Young S, Bowling A, Gage H on behalf of the ProAct65+ research team. (2015) romoting physical activity in older people in general practice: ProAct65+ cluster RCT. British Journal of General Practice, 65: 579-580.
+
+The OPQOL continues to be used in survey research internationally, in addition to the research in Italy (Bilotta et al. as referenced in previous updates), China (Chen Y. et al. 2013, Australia (Milte et al. 2014; Kaambua et al. 2015), and UK (Malley et al 2012) (and see earlier Jes updates).
+
+Enquiries about use of the OPQOL continue (including from the voluntary sector - Age UK South Gloucestershire). In addition to being used in surveys in Australia, Czechoslovakia, India, Kosovo, Serbia, Taiwan, USA (Tulsa), and in a new national longitudinal survey in Sweden (SNAC) which has resulted in our collaboration and a new collaboration with the Faculty of Health and Society, Malm&amp;ouml; University.</gtr:description><gtr:firstYearOfImpact>2015</gtr:firstYearOfImpact><gtr:id>9F19C2DF-1852-4C5E-981C-EB689A48BAB8</gtr:id><gtr:impactTypes><gtr:impactType>Policy &amp; public services</gtr:impactType></gtr:impactTypes><gtr:outcomeId>568aa2ee4b2f23.30984831</gtr:outcomeId><gtr:sector>Healthcare</gtr:sector></gtr:impactSummaryOutput></gtr:impactSummaryOutputs><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>Far more of the ethnically diverse, survey respondents had poor QoL than other respondents.
+
+
+
+The OPQoL had good reliability and validity in all three surveys.
+
+
+
+Baseline indicators of QoL were able to predict follow-up OPQoL scores in the QoL Survey follow-up sample.
+
+
+
+Respondents' perceptions of active ageing were multi-faceted.
+
+
+
+Despite being more likely to be aged 65&amp;lt;75 than 75+, respondents in ethnic minority groups were far less likely than the other survey respondents to consider themselves as ageing 'very' or 'fairly' actively.
+
+
+
+How QoL in older age can be improved: the policy implications of the research
+
+? Survey respondents emphasised the importance of living in a neighbourly and safe area, and having good local facilities to promote friendly and helpful relationship with other people, including neighbours.
+
+? Respondents mentioned the importance of having someone for 'companionship', 'to take me out', 'to make life bearable'.
+
+? Meaningful contact, face to face or by telephone, with sons and daughters was important to most respondents for enjoyment, help and security.
+
+? Contact with grandchildren (and being able to play and go out with them), was frequently mentioned. It was through their grandchildren that they felt able to play a reciprocal role, and to feel useful and valued.
+
+? Many respondents referred to the importance of having social or voluntary activities in the context of the importance of 'keeping busy' - to stop them worrying, feeling alone, or dwelling on the past.</gtr:description><gtr:exploitationPathways>Tested questionnaire to measure quality of life outcomes of policies related to older people.
+
+
+
+http://www.ilcuk.org.uk/good neighbours Older People's Forums England and Ireland, International Longevity Centre national event at Institute of Actuaries, AgeUK dissemination to members.</gtr:exploitationPathways><gtr:id>CD6BEECB-E9B0-4B16-BDA7-576283622475</gtr:id><gtr:outcomeId>r-5357914339.153016b2f23ebc</gtr:outcomeId><gtr:sectors><gtr:sector>Communities and Social Services/Policy</gtr:sector></gtr:sectors></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication><gtr:id>DC9E3E4D-C60F-4098-8414-3B650F00A588</gtr:id><gtr:title>Quality of life in older age</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e31800f31add6490ddec41e4abad548d"><gtr:id>e31800f31add6490ddec41e4abad548d</gtr:id><gtr:otherNames>Ann Bowling (Speaker)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2011-01-01</gtr:date><gtr:outcomeId>r_8238313035cb928886</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>41C52591-0106-4F09-A50B-53064E64D54F</gtr:id><gtr:title>Challenges in comparing the quality of life of older people between ethnic groups, and the implications for national well-being indicators: a secondary analysis of two cross-sectional surveys.</gtr:title><gtr:parentPublicationTitle>Health and quality of life outcomes</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/100f5cb1b8ffaf7ee2ae85b57192ab07"><gtr:id>100f5cb1b8ffaf7ee2ae85b57192ab07</gtr:id><gtr:otherNames>Grant RL</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2011-01-01</gtr:date><gtr:issn>1477-7525</gtr:issn><gtr:outcomeId>pm_53cbffabffa2254ea</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>287B1482-53DA-482F-9B00-5B9F61B58CC9</gtr:id><gtr:title>A short measure of quality of life in older age: the performance of the brief Older People's Quality of Life questionnaire (OPQOL-brief).</gtr:title><gtr:parentPublicationTitle>Archives of gerontology and geriatrics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/2b830bc373baffe013fc821bce366554"><gtr:id>2b830bc373baffe013fc821bce366554</gtr:id><gtr:otherNames>Bowling A</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2013-01-01</gtr:date><gtr:issn>0167-4943</gtr:issn><gtr:outcomeId>pm_53cc013c013d4b683</gtr:outcomeId></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">ES/H030530/1</gtr:identifier><gtr:identifier type="RES">RES-189-25-0108</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>F0322ED6-113F-4530-BA5E-562216587E68</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Sociology</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>F0322ED6-113F-4530-BA5E-562216587E68</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Sociology</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

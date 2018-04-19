@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/ED6ACD61-0140-4C05-B93D-2C6A42CA753B"><gtr:id>ED6ACD61-0140-4C05-B93D-2C6A42CA753B</gtr:id><gtr:name>University of Salford</gtr:name><gtr:department>Unlisted</gtr:department><gtr:address><gtr:line1>University Crescent</gtr:line1><gtr:line4>Salford</gtr:line4><gtr:line5>Lancashire</gtr:line5><gtr:postCode>M5 4WT</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/ED6ACD61-0140-4C05-B93D-2C6A42CA753B"><gtr:id>ED6ACD61-0140-4C05-B93D-2C6A42CA753B</gtr:id><gtr:name>University of Salford</gtr:name><gtr:address><gtr:line1>University Crescent</gtr:line1><gtr:line4>Salford</gtr:line4><gtr:line5>Lancashire</gtr:line5><gtr:postCode>M5 4WT</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/DE07657E-6A3A-4562-A113-2B75DB0CBBAC"><gtr:id>DE07657E-6A3A-4562-A113-2B75DB0CBBAC</gtr:id><gtr:name>Government Office for the North West</gtr:name><gtr:address><gtr:line1>Sunley Tower</gtr:line1><gtr:line2>Piccadilly Plaza</gtr:line2><gtr:line4>Manchester</gtr:line4><gtr:postCode>M1 4BE</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>CO_FUNDER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/C106E04F-D6B5-4380-9B7C-B3CF7FAC159F"><gtr:id>C106E04F-D6B5-4380-9B7C-B3CF7FAC159F</gtr:id><gtr:firstName>Tim</gtr:firstName><gtr:surname>May</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=RES-173-27-0041"><gtr:id>13D2774D-08EA-4B38-8053-145B7E9B848E</gtr:id><gtr:title>From Organisational Translation to Transformation</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Fellowship</gtr:grantCategory><gtr:grantReference>RES-173-27-0041</gtr:grantReference><gtr:abstractText>&lt;p>SURF (Centre for Sustainable Urban
+and Regional Futures) has been engaged in two phases of work funded by the
+Government Office for the North West (GONW). The first phase examined internal
+organizational capacity to meet the challenges of socio-economic development in
+city-regions and a second phase series of interviews with civic leaders
+examined experiences and expectations of working with GONW.&lt;/p>
+
+
+
+
+&lt;p>&amp;nbsp;&lt;br />&lt;/p>
+
+
+&lt;p>A separate phase of work is now
+funded by the ESRC ?Knowledge Transfer Programme? in partnership with GONW.
+This placement involves developing:&lt;/p>
+
+
+&lt;p>&amp;nbsp;&lt;/p>
+
+
+&lt;ul>
+ &lt;li>transferable lessons for government offices in terms of intelligence
+needs and implications for organizational development.&lt;/li>
+&lt;/ul>
+
+
+
+
+
+
+&lt;p>This will be achieved through:&lt;/p>
+
+
+
+
+&lt;ul>
+ &lt;li> An interview programme within Whitehall Departments in order to
+understand the expectations of central government concerning the strategic role
+of government offices in the conception and execution of regional policy.&lt;/li>
+&lt;/ul>
+
+
+
+
+
+
+&lt;p>&amp;nbsp;&lt;br />There are two objectives to this
+work: (a) create an understanding that underpins and encourages the sort of
+innovation to consolidate the role of GONW in the region and (b) provide
+transferable lessons from the exchange that can be made readily accessible to
+policy makers responsible for shaping the broad direction and content of future
+strategies. &lt;/p>
+
+
+&lt;p>&amp;nbsp;&lt;/p>
+
+
+&lt;p>&amp;nbsp;&lt;/p>
+
+
+&lt;p>&amp;nbsp;&lt;/p></gtr:abstractText><gtr:fund><gtr:end>2008-04-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/924BE15C-91F2-4AAD-941A-3F338324B6AE"><gtr:id>924BE15C-91F2-4AAD-941A-3F338324B6AE</gtr:id><gtr:name>ESRC</gtr:name></gtr:funder><gtr:start>2007-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>18820</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs><gtr:impactSummaryOutput><gtr:description>It is recognised by GONW that the results that have been generated are of considerable significance to their organisational development. 
+
+SURF and the University benefited from this placement by: 
+- Identification of future strategic research priorities that could potentially lead to additional placements and/or research projects. 
+- Development of new networks and identification of collaborators for future research projects. 
+- Opportunity for knowledge exchange and to learn new skills and practices from a Government Office. 
+- Further development of our research agenda around urban and regional economic development, governance, particularly at the Manchester city-region scale. 
+- Promotion of the Centre to civic leaders and policy-makers at city, regional and national levels in different countries .
+- Being part of an emblematic piece of work that has added value not only to GONW. 
+
+This project also led to additional research, for example: 
+
+2008: 'Business and the Knowledge-Based Region'. With Beth Perry. British Business Chambers, London. &amp;pound;25,000.
+
+2008: 'Innovative Urban Environments'. With Manchester Institute of Innovation Research (MIoIR), Manchester University. Manchester Knowledge Capital. NESTA, North West Development Agency and Manchester City Council. &amp;pound;140,000. 
+
+2008: 'Urban Knowledge for Shaping Critical Infrastructure: New Models for City-Regions'. With Simon Marvin. ERSC-Arup Business Placement Scheme. &amp;pound;40,000</gtr:description><gtr:firstYearOfImpact>2008</gtr:firstYearOfImpact><gtr:id>40A09C0F-50F2-4C63-BACC-9E8B3890DA35</gtr:id><gtr:impactTypes><gtr:impactType>Policy &amp; public services</gtr:impactType></gtr:impactTypes><gtr:outcomeId>546089f956dab5.45551708</gtr:outcomeId><gtr:sector>Construction,Environment,Government, Democracy and Justice</gtr:sector></gtr:impactSummaryOutput></gtr:impactSummaryOutputs><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>The purpose of the Fellowship was to build upon previous work to translate the findings of the first two phases into transferable lessons for organisational development, as well as undertake a series of interviews to test the results of this work within Whitehall Departments (DCLG; Treasury and BERR). The aim was to produce further clarity in relation to Central Government expectations concerning a more strategic role for the government offices.
+
+The work provided the opportunity not only for reflection, but also further engagement. Given the mainly self-funded nature of SURF, such spaces are invaluable and in this case enabled not only the generation of new findings, but also the chance to build upon previous work undertaken for GONW and ODPM on 'Central Reviews of Policy-Making'. 
+
+GONW were very pleased to have benefited from the provision of independent advice on how the office could become more strategic in orientation by moving from information to intelligence in their practice. In addition, the roles of integration and scrutiny were key in the context of changes as given in the Government's recent sub national review. The work, therefore, was very timely.</gtr:description><gtr:exploitationPathways>SURF have a very well developed dissemination strategy. We summarised the results and put those out through out database of contacts (nearly 700 in the policy world), as well as in SURF E-News (a copy of which will be sent to ESRC). In addition, we provided reports to interviewees in different Departments, as well as stakeholders in the region. Articles, as well as the finished report, have been produced for different outlets.
+
+The actual impact upon policy was difficult to ascertain, except insofar as it is clear that GONW was undergoing an extensive review of its role and function in the region, as well as in relation to Whitehall. The new Director made it clear she wished for the office to play a more proactive role in the formulation and implementation of policy and so has requested a copy of the report. It has been made very clear that this work is timely and valuable. 
+
+In terms of potential impact, each of the interviewees in this research were themselves senior civil servants and they requested a copy of the report. Finally, other GOs were also sent this report.</gtr:exploitationPathways><gtr:id>5BDD0AB3-032F-47A1-AF13-A7DAE4B0F9A3</gtr:id><gtr:outcomeId>5460894cb11fe3.10254830</gtr:outcomeId><gtr:sectors><gtr:sector>Communities and Social Services/Policy,Environment,Government, Democracy and Justice</gtr:sector></gtr:sectors></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication><gtr:id>09AB38CF-6BCD-484F-8387-424126C69C73</gtr:id><gtr:title>Submission of evidence to DIUSS Select Committee: Has the time come for the UK - as part of a clear economic strategy - to make choices about the balance of investment in science and innovation to favour those areas in which the UK has clear competitive</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/72b37923663f364b88b52be8207d8de3"><gtr:id>72b37923663f364b88b52be8207d8de3</gtr:id><gtr:otherNames>May, T</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2009-01-01</gtr:date><gtr:outcomeId>546082270cc5e8.07309981</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>CF1B443B-B191-4BCF-B7EC-EDE16235AD86</gtr:id><gtr:title>Urban knowledge exchange: devilish dichotomies and active intermediation</gtr:title><gtr:parentPublicationTitle>International Journal of Knowledge-Based Development</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/4224b810834793251c3b42c96bb3d818"><gtr:id>4224b810834793251c3b42c96bb3d818</gtr:id><gtr:otherNames>Perry B</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2010-01-01</gtr:date><gtr:outcomeId>54608090eb7b27.04652558</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>03B02A53-BAAD-4AAD-B4AD-020468589B35</gtr:id><gtr:title>Production and Use of Urban Knowledge</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/4224b810834793251c3b42c96bb3d818"><gtr:id>4224b810834793251c3b42c96bb3d818</gtr:id><gtr:otherNames>Perry B</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2013-01-01</gtr:date><gtr:isbn>978-90-481-8935-9</gtr:isbn><gtr:outcomeId>54607f20352b72.17563592</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>8BB9D4AA-D695-4699-8610-C5A69569B870</gtr:id><gtr:title>Urban Ecological Security and the Political Economy of Knowledge</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/72b37923663f364b88b52be8207d8de3"><gtr:id>72b37923663f364b88b52be8207d8de3</gtr:id><gtr:otherNames>May, T</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2008-01-01</gtr:date><gtr:outcomeId>546087877acbd5.88435014</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>E2F36104-7B2C-4174-AC23-1EB98065A3AD</gtr:id><gtr:title>Universities, Knowledge Exchange and Active Intermediaries: Contexts, Cultures and Consequences</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/72b37923663f364b88b52be8207d8de3"><gtr:id>72b37923663f364b88b52be8207d8de3</gtr:id><gtr:otherNames>May, T</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2009-01-01</gtr:date><gtr:outcomeId>546082b4322911.62983177</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>1D1EBB11-E931-47BB-B0BC-371D5671C605</gtr:id><gtr:title>Urban knowledge arenas: dynamics, tensions and potentials</gtr:title><gtr:parentPublicationTitle>International Journal of Knowledge-Based Development</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/830ec7f359328f680b978fc41c956e39"><gtr:id>830ec7f359328f680b978fc41c956e39</gtr:id><gtr:otherNames>May T</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2011-01-01</gtr:date><gtr:outcomeId>54607fa9eb5150.05007001</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>67A25660-778F-424F-B41E-2D0721E614B3</gtr:id><gtr:title>Intelligent Cities: Forming Urban Knowledge Arenas</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/72b37923663f364b88b52be8207d8de3"><gtr:id>72b37923663f364b88b52be8207d8de3</gtr:id><gtr:otherNames>May, T</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2008-01-01</gtr:date><gtr:outcomeId>5460873d46c375.42328931</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>E9048243-1B61-44DA-8D70-9FC0C6C03DB5</gtr:id><gtr:title>Active Intermediaries for Knowledge Exchange: Populating the Missing Middle</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/72b37923663f364b88b52be8207d8de3"><gtr:id>72b37923663f364b88b52be8207d8de3</gtr:id><gtr:otherNames>May, T</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2009-01-01</gtr:date><gtr:isbn>978-1-905732-98-2</gtr:isbn><gtr:outcomeId>546081b7659721.87291054</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>4F16D3BF-939C-44EF-BF9F-DF756DCBB650</gtr:id><gtr:title>The Northern Veto</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/1cd6510222654b6efa9b79ab176b6ba0"><gtr:id>1cd6510222654b6efa9b79ab176b6ba0</gtr:id><gtr:otherNames>May, T. and Marvin, S.</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2009-01-01</gtr:date><gtr:outcomeId>54607d3ddd5e75.44374479</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>FAC9B8AB-EE3B-47E9-8F5F-D71C52446068</gtr:id><gtr:title>The SURF-Arup Framework for Urban Infrastructural Development</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/72b37923663f364b88b52be8207d8de3"><gtr:id>72b37923663f364b88b52be8207d8de3</gtr:id><gtr:otherNames>May, T</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2010-01-01</gtr:date><gtr:isbn>978-1-905732-99-9</gtr:isbn><gtr:outcomeId>5460814dc9c558.22196059</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>CC1981D4-8EF0-4AEB-9A82-C18618DBC358</gtr:id><gtr:title>The SURF-Arup Framework</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/72b37923663f364b88b52be8207d8de3"><gtr:id>72b37923663f364b88b52be8207d8de3</gtr:id><gtr:otherNames>May, T</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2009-01-01</gtr:date><gtr:outcomeId>54608346e7f961.86809939</gtr:outcomeId></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RES">RES-173-27-0041</gtr:identifier><gtr:identifier type="RCUK">RES-173-27-0041</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>F0322ED6-113F-4530-BA5E-562216587E68</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Sociology</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>F0322ED6-113F-4530-BA5E-562216587E68</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Sociology</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

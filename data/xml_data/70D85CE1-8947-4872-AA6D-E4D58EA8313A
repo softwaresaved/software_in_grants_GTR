@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/8DEDCD25-B855-48E2-9D31-938F38EA20DD"><gtr:id>8DEDCD25-B855-48E2-9D31-938F38EA20DD</gtr:id><gtr:name>Precision Varionic International Limited</gtr:name><gtr:address><gtr:line1>Sensor House,Langley Road Hillmead</gtr:line1><gtr:city>Swindon</gtr:city><gtr:postCode>SN5 5WB</gtr:postCode><gtr:region>South West</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/8DEDCD25-B855-48E2-9D31-938F38EA20DD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>8DEDCD25-B855-48E2-9D31-938F38EA20DD</gtr:id><gtr:name>Precision Varionic International Limited</gtr:name><gtr:address><gtr:line1>Sensor House,Langley Road Hillmead</gtr:line1><gtr:city>Swindon</gtr:city><gtr:postCode>SN5 5WB</gtr:postCode><gtr:region>South West</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>200583.0</gtr:offerGrant><gtr:projectCost>445740.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/7488A777-3334-43D8-8EC5-BA4D23EB1978"><gtr:id>7488A777-3334-43D8-8EC5-BA4D23EB1978</gtr:id><gtr:firstName>Ursula</gtr:firstName><gtr:surname>Aldridge</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720442"><gtr:id>70D85CE1-8947-4872-AA6D-E4D58EA8313A</gtr:id><gtr:title>Precise - printed electronics for automotive analogue sensors</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720442</gtr:grantReference><gtr:abstractText>The Automotive sector has experienced a substantial increase in the integration of electronic
+control systems. Electronic sensor systems are now routinely employed to monitor linear or
+angular motion to control accelerating, braking and fuel sensor levels. PVI and our
+competitors currently manufacture integrated electronic systems using traditional masking and
+etching processes that are expensive, wasteful and energy intensive. As a result, much of this
+manufacture is now undertaken in the far-East. The application of high-tech printed
+electronics manufacturing techniques for the production of electronic sensors has the potential
+to significantly reduce the environmental impact, lower materials and energy usage and
+reduce costs.
+This project is built on a highly successful Proof of Concept project entitled ?HICAST?
+(funded under the TSB Smart Proof of concept scheme) that investigated the use of innovative
+nano-copper pastes to print potentiometer tracks. This work has shown that it is feasible to
+manufacture our potentiometer sensors in the UK using printed electronics to achieve a sales
+price 20-25% lower than is currently achievable using sub-contractors in the far-East.
+However, this can only be achieved commercially if the printed potentiometer sensors are able
+to:
+1. Meet the demanding automotive reliability standards, and
+2. Be easily integrated into the vehicle wiring harness during mass manufacture
+This project will further develop the nano-metal pastes, printing and laser curing technologies
+to achieve a pre-production manufacturing route and prototypes samples of a standard
+potentiometer sensor. If these prototype potentiometer sensors are able to achieve the cost and
+technical performance we predict, then our customers have indicated that they would be
+prepared to purchase our UK manufactured potentiometer sensors in high volumes potentially
+enabling us to achieve cumulative sales of 40,000,000 units and &amp;pound;11.32m in cumulative sales
+revenue by 2020.</gtr:abstractText><gtr:fund><gtr:end>2015-11-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2014-05-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>200583</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720442</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

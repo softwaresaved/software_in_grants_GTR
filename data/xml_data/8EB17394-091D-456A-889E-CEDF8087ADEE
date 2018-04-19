@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/F6CC43F9-3F62-48EF-ABFE-3D27E668BDB3"><gtr:id>F6CC43F9-3F62-48EF-ABFE-3D27E668BDB3</gtr:id><gtr:name>Magnomatics Limited</gtr:name><gtr:address><gtr:line1>Park House
+Bernard Road</gtr:line1><gtr:city>Sheffield</gtr:city><gtr:postCode>S2 5BQ</gtr:postCode><gtr:region>Yorkshire and The Humber</gtr:region><gtr:country>UNITED KINGDOM</gtr:country></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/F6CC43F9-3F62-48EF-ABFE-3D27E668BDB3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>F6CC43F9-3F62-48EF-ABFE-3D27E668BDB3</gtr:id><gtr:name>Magnomatics Limited</gtr:name><gtr:address><gtr:line1>Park House
+Bernard Road</gtr:line1><gtr:city>Sheffield</gtr:city><gtr:postCode>S2 5BQ</gtr:postCode><gtr:region>Yorkshire and The Humber</gtr:region><gtr:country>UNITED KINGDOM</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>99993.0</gtr:offerGrant><gtr:projectCost>205621.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/A232E354-7155-42BE-94EA-947529415055"><gtr:id>A232E354-7155-42BE-94EA-947529415055</gtr:id><gtr:firstName>Grants</gtr:firstName><gtr:surname>Team</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710279"><gtr:id>8EB17394-091D-456A-889E-CEDF8087ADEE</gtr:id><gtr:title>Next generation magnetic CVT (mCVT2)</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710279</gtr:grantReference><gtr:abstractText>This project is focused on the development of a new type of Continuously Variable
+Transmission (CVT) system that is widely applicable to the automotive and industrial sectors.
+CVT systems are becoming increasingly prevalent and have particular benefits in hybrid
+vehicle drive trains where they used ensure that the engine is operating at its maximum
+efficiency at any point in the drive cycle and that the vehicle performance requirement is
+simultaneously met. By exploiting this flexibility, significant system efficiencies and
+fuel/CO2 benefits can be achieved.
+Magnomatics has previously developed a first generation magnetic CVT (mCVT1) and this
+system has been demonstrated to offer significant efficiency and packaging advantages over
+existing technology and is currently the subject of two TSB funded collaborative research
+programmes (under the LCV IDP and HVM programmes) with Ford Motor Company and
+Volvo Powertrain.
+By continuing the original research programme, acquiring accurate customer feedback and
+fostering internal innovation, Magnomatics have developed a second generation mCVT
+(mCVT2) concept that has the potential to reduce the use of rare earth magnet material by up
+to 75%, give increased part load efficiency, allow deletion of several elements to provide cost
+savings and deliver a system that can be realised in a much more compact space envelope than
+the first generation. If the predicted technical and commercial merits of this second generation
+are realised it will lead to a significant uplift in the adoption and value of Magnomatics
+mCVT technologies.
+This project will rapidly deliver a working proof of concept of mCVT2 that will be validated
+and evaluated on Magnomatics existing drivetrain dynamometer system. Once validated the
+concept will be aggressively developed for typical vehicle drivetrains as a competitive system,
+potentially replacing, the first generation systems in the existing project group.</gtr:abstractText><gtr:fund><gtr:end>2013-12-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2013-02-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>99993</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710279</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

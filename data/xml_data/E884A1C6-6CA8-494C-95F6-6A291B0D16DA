@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/22F9A580-12A6-4323-AAB5-BE2FBE4CFF42"><gtr:id>22F9A580-12A6-4323-AAB5-BE2FBE4CFF42</gtr:id><gtr:name>Minervation Limited</gtr:name><gtr:address><gtr:line1>SALTERS BOATYARD, FOLLY BRIDGE , ABINGDON ROAD</gtr:line1><gtr:city>OXFORD</gtr:city><gtr:postCode>OX1 4LB</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/22F9A580-12A6-4323-AAB5-BE2FBE4CFF42" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>22F9A580-12A6-4323-AAB5-BE2FBE4CFF42</gtr:id><gtr:name>Minervation Limited</gtr:name><gtr:address><gtr:line1>SALTERS BOATYARD, FOLLY BRIDGE , ABINGDON ROAD</gtr:line1><gtr:city>OXFORD</gtr:city><gtr:postCode>OX1 4LB</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>24590.0</gtr:offerGrant><gtr:projectCost>49180.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/C2488ECA-636E-4B88-A1AB-93AE6C224252"><gtr:id>C2488ECA-636E-4B88-A1AB-93AE6C224252</gtr:id><gtr:firstName>Andrew</gtr:firstName><gtr:surname>Tomlinson</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700125"><gtr:id>E884A1C6-6CA8-494C-95F6-6A291B0D16DA</gtr:id><gtr:title>National Elf Service: proof of market</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700125</gtr:grantReference><gtr:abstractText>The National Elf Service is a series of health evidence websites, aimed at professionals. The
+aim of this project is to identify a sustainable revenue model for the National Elf Service.
+We have four websites that have been developed as pilots, e.g. www.thementalelf.net
+Four additional websites are currently under development and will be launched in April 2012,
+along with a new design that will group the 8 sites into an overarching brand: the National Elf
+Service.
+Our intention is to add additional health websites at the rate of 1 every 2 months, to have 12 at
+the end of 2012 and 30 by the end of 2015.
+A mobile application will be launched in April 2012 for the Mental Elf site, which users will
+be able to buy for their Android phone or iPhone. Our aim is to release mobile apps for the
+other health topics throughout 2012-13.
+The proposed project will use the currently free websites as a basis for market analysis in
+order to better understand the motivations for user take-up (by market segment), the most
+relevant routes to the market (with implications for the revenue model) and most importantly
+to help clarify the most appropriate revenue model to provide the National Elf Service on a
+long term sustainable basis.
+The websites highlight evidence based healthcare information for users in an easily accessible
+and digestible manner.
+The benefit to the user is that a mass of evidence based healthcare research is broken down
+into usable and user-friendly summaries for the target markets (e.g. psychiatrists, dentists,
+general practitioners). The benefit to society is a light touch individual solution to the heavy
+cost societal problem of the need for evidence based healthcare information rather than
+ignorance or biased or spurious or erroneous information.
+Our challenge is to identify the most appropriate revenue model that will sustain the National
+Elf Service without jeopardising the user take-up and hence the benefits.
+Resubmission ? has the same or a similar application</gtr:abstractText><gtr:fund><gtr:end>2012-10-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2012-05-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>24590</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700125</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/46387D84-F71E-4B7D-8C7D-9C288F113510"><gtr:id>46387D84-F71E-4B7D-8C7D-9C288F113510</gtr:id><gtr:name>Imperial College London</gtr:name><gtr:department>Dept of Mathematics</gtr:department><gtr:address><gtr:line1>South Kensington Campus</gtr:line1><gtr:line2>Exhibition Road</gtr:line2><gtr:line4>London</gtr:line4><gtr:postCode>SW7 2AZ</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/46387D84-F71E-4B7D-8C7D-9C288F113510"><gtr:id>46387D84-F71E-4B7D-8C7D-9C288F113510</gtr:id><gtr:name>Imperial College London</gtr:name><gtr:address><gtr:line1>South Kensington Campus</gtr:line1><gtr:line2>Exhibition Road</gtr:line2><gtr:line4>London</gtr:line4><gtr:postCode>SW7 2AZ</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/EB68FB1A-FD15-4CC9-9219-7C541C7E0405"><gtr:id>EB68FB1A-FD15-4CC9-9219-7C541C7E0405</gtr:id><gtr:name>Met Office</gtr:name><gtr:address><gtr:line1>Fitzroy Road</gtr:line1><gtr:line4>Exeter</gtr:line4><gtr:line5>Devon</gtr:line5><gtr:postCode>EX1 3PB</gtr:postCode><gtr:region>South West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/826193CA-284D-4880-8861-B686F575244A"><gtr:id>826193CA-284D-4880-8861-B686F575244A</gtr:id><gtr:firstName>David</gtr:firstName><gtr:otherNames>Matthew</gtr:otherNames><gtr:surname>Acreman</gtr:surname><gtr:orcidId>0000-0002-4881-7584</gtr:orcidId><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/0F5DD023-2AA3-462B-A28A-7955C7F9A6A2"><gtr:id>0F5DD023-2AA3-462B-A28A-7955C7F9A6A2</gtr:id><gtr:firstName>Jemma</gtr:firstName><gtr:surname>Shipton</gtr:surname><gtr:roles><gtr:role><gtr:name>RESEARCHER_COI</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/9198DEAF-489B-489B-80F3-09758AEE47E3"><gtr:id>9198DEAF-489B-489B-80F3-09758AEE47E3</gtr:id><gtr:firstName>Martin</gtr:firstName><gtr:surname>Schreiber</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/1572D092-45CE-486E-81F1-AF070B085B95"><gtr:id>1572D092-45CE-486E-81F1-AF070B085B95</gtr:id><gtr:firstName>David</gtr:firstName><gtr:otherNames>Anthony</gtr:otherNames><gtr:surname>Ham</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/6AF89526-6873-45F7-A0F4-3C1EF69A54AE"><gtr:id>6AF89526-6873-45F7-A0F4-3C1EF69A54AE</gtr:id><gtr:firstName>Daniel</gtr:firstName><gtr:surname>Ruprecht</gtr:surname><gtr:orcidId>0000-0003-1904-2473</gtr:orcidId><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/25D29BFA-F56C-47C0-BFE3-2D6E72915711"><gtr:id>25D29BFA-F56C-47C0-BFE3-2D6E72915711</gtr:id><gtr:firstName>Beth</gtr:firstName><gtr:surname>Wingate</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/42590CA6-FD32-47F1-809E-C950A1BB11FB"><gtr:id>42590CA6-FD32-47F1-809E-C950A1BB11FB</gtr:id><gtr:firstName>Colin</gtr:firstName><gtr:surname>Cotter</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=NE%2FR008795%2F1"><gtr:id>322BA14E-1A93-48D5-9C48-1E7FD0E25C38</gtr:id><gtr:title>Parallel Paradigms for Numerical Weather Prediction</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>NE/R008795/1</gtr:grantReference><gtr:abstractText>Weather forecasts and climate simulations require dedicated high
+performance supercomputers to run. Advances in the power of
+supercomputers bring the possibility of simulating the atmosphere at
+higher resolution (i.e. with more detail) without having to wait
+longer for the answer. It has been consistently shown that increasing
+the resolution of atmosphere models results in more accurate weather
+forecasts and climate simulations. However, getting models that can
+make full use of state-of-the-art supercomputers is very challenging.
+The Met Office is in the process of installing a new Cray XC40
+supercomputer which which will deliver 16 petaflops (16 quadrillion
+arithmetic operations per second)
+peak processing
+power by using 4800000 individual processors computing
+together at the same time (in parallel). In the next few decades
+supercomputers are expected to deliver more and more computing power, 
+by using more and more processors. The main thing that slows down
+computations on these massively parallel supercomputers is
+communicating data between processors. Unfortunately, the physics of the
+atmosphere means that the weather in one location is intrinsically
+linked with the weather at all other locations on the globe; this
+means that a lot of data communication between processors is required.
+
+Scientists who develop atmosphere models are currently grappling with
+the fact that we are close to the limit of what is possible in terms
+of resolution and simulation speed, due to the communication
+requirements of the mathematical algorithms that are used to solve the
+equations that predict how the weather evolves in time. At the moment,
+these algorithms use geographic parallelism: the globe is divided up
+into overlapping pieces and each piece is given to a different
+processor, which must communicate data to processors that share
+geographic locations on the overlaps. To speed up a model, we need to
+use more and more processors on smaller and smaller regions. The
+speed-up is eventually limited when there are so many overlapping regions
+that all of the globe is
+covered by overlaps, and the model spends all of the time
+communicating.
+
+This means that it is time to invent new mathematical algorithms that
+can make better use of the parallel computer. In this project we will develop
+algorithms that are time-parallel as well as
+geographic-parallel. Instead of advancing the forecast of the model
+forwards step by step in time, these methods produce several different
+estimates of the weather at the next step, before combining them
+together to make a more accurate solution. Each of these different
+estimates can be independently calculated, which introduces additional
+parallel computation into the model.
+
+This project is in close partnership with the Met Office. If
+successful, these algorithms will lead to faster and higher resolution
+weather forecast and climate prediction models at the Met Office,
+leading to more accurate forecasts for government, industry and the
+general public. The Met Office provides forecasts for customers across
+the transport sector, particularly for aviation planning (so that
+aeroplanes can avoid headwinds and make use of tailwinds) and
+predictions of the motion of volcanic ash clouds. It also provides
+forecasts for retail and leisure, insurers, the Ministry of Defence, and the
+Environment Agency (including flood forecasting). More accurate
+forecasts will allow all of these business organisations to plan further
+into the future, avoiding risks and unnecessary costs.</gtr:abstractText><gtr:potentialImpactText>The goal of this project is to design mathematical algorithms that will allow numerical weather prediction models to run efficiently on the next generation of massively parallel supercomputers. This means that operational weather forecasting centres such as the Met Office will be able to continue their programme of increasing model resolution, which leads to increased forecasting skill. It also means that climate scientists can perform climate simulations with higher accuracy, or get their results more quickly.
+
+An increase in forecasting skill equates to reduced (or more precisely estimated) uncertainty about future weather. The Met Office has a large range of customers, providing forecasts for
+aviation and flight planning, as well as for the marine, road and rail
+industries. It also provides forecasts for smoke clouds generated by
+volcanoes, advising air traffic control, and forecasts for mining,
+building and construction, retail, finance and utilities, and the
+defence sector. All of these industries would benefit from extending the window of high forecasting skill, by providing more accurate forecasts and quantification of their uncertainty further into the future, allowing for planning and investment. The ability to run climate models faster or at higher resolution will also extend the depth of science questions that can be explored by climate scientists, and hence benefit end users including the insurance industry, policymakers and the general public.</gtr:potentialImpactText><gtr:fund><gtr:end>2021-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/8A03ED41-E67D-4F4A-B5DD-AAFB272B6471"><gtr:id>8A03ED41-E67D-4F4A-B5DD-AAFB272B6471</gtr:id><gtr:name>NERC</gtr:name></gtr:funder><gtr:start>2018-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>524827</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">NE/R008795/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>E4C03353-6311-43F9-9204-CFC2536D2017</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Atmospheric phys. &amp; chemistry</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>DEA11FBC-BEED-4EDD-890B-97D728462D26</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Mathematical sciences</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>59CF5FB3-F46B-448B-AECF-47852750EF3C</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Large Scale Dynamics/Transport</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>CFBD6626-50CB-4AA6-8B49-9A76519BA91F</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Numerical Analysis</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

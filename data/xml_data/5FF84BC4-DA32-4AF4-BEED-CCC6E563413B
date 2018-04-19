@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/AF66415B-1D4C-447B-AA52-86C63568B098"><gtr:id>AF66415B-1D4C-447B-AA52-86C63568B098</gtr:id><gtr:name>Ventive Ltd</gtr:name><gtr:address><gtr:line1>2020CA
+1 St Andrew's Hill
+London</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>EC4V 5BY</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/AF66415B-1D4C-447B-AA52-86C63568B098" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>AF66415B-1D4C-447B-AA52-86C63568B098</gtr:id><gtr:name>Ventive Ltd</gtr:name><gtr:address><gtr:line1>2020CA
+1 St Andrew's Hill
+London</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>EC4V 5BY</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>162500.0</gtr:offerGrant><gtr:projectCost>362270.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720482"><gtr:id>5FF84BC4-DA32-4AF4-BEED-CCC6E563413B</gtr:id><gtr:title>SHAP VHR Development of Prototype</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720482</gtr:grantReference><gtr:abstractText>As new buildings are built to higher energy standards and become more airtight, natural
+means of ventilation disappear. To overcome this, Mechanical Ventilation is often used. This
+can lead to up to 5,000 kWh of heat loss from a typical home per year. In order to ?reclaim?
+this energy, Heat Recovery is often added, with some models achieving up to 90% efficiency.
+With two fans running, 24h a day, such systems typically use up to 700kWh of electricity per
+year (three times more than a new fridge). In cases where gas heating is used, Mechanical
+Heat Recovery Ventilation invariably provides either very little or no net CO2 saving.
+Besides the energy use, mechanical systems have high installation costs. Due to their
+complexity, they require a number of trades to install and maintain, and suffer from
+component failures. This further adds to the running costs, which can average &amp;pound;100 per year.
+Mechanical systems also depend on a number of electronic and mechanical components
+contributing to lack of reliability, resource depletion and future electronic waste.
+Starting off with our innovative and retrofit specific Passive Ventilation with Heat Recovery
+(utilising passive stack effect and wind assistance), we have designed, prototyped and tested a
+reliable ventilation system for warmer climates. This incorporates a number of inventions
+around passive extraction boost, extraction period extension, moisture withdrawal and
+simplified installation.
+The proposed system (SHAP VHR) overcomes the main issues associated with Passive Stack
+Ventilation, such us summer operation, and makes the product applicable to warmer climates,
+greatly increasing its export potential. The development of this technology will also allow us
+to provide a full house system, a proposition preferred by both BRE and LABC</gtr:abstractText><gtr:fund><gtr:end>2015-12-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2014-06-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>162500</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720482</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

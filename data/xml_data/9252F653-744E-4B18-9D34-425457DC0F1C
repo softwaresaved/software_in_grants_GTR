@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/82812175-72EB-42FF-A1AD-297275C1C138"><gtr:id>82812175-72EB-42FF-A1AD-297275C1C138</gtr:id><gtr:name>Bryant Symons Technologies Limited</gtr:name><gtr:address><gtr:line1>UNIT 4B GUNBY ROAD INDUSTRIAL , ESTATE</gtr:line1><gtr:city>SEWSTERN</gtr:city><gtr:postCode>NG33 5RD</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/82812175-72EB-42FF-A1AD-297275C1C138" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>82812175-72EB-42FF-A1AD-297275C1C138</gtr:id><gtr:name>Bryant Symons Technologies Limited</gtr:name><gtr:address><gtr:line1>UNIT 4B GUNBY ROAD INDUSTRIAL , ESTATE</gtr:line1><gtr:city>SEWSTERN</gtr:city><gtr:postCode>NG33 5RD</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>25000.0</gtr:offerGrant><gtr:projectCost>45684.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/DDC2B9E8-6FC4-4A60-916F-73F8335D4B96"><gtr:id>DDC2B9E8-6FC4-4A60-916F-73F8335D4B96</gtr:id><gtr:firstName>SAMANTHA</gtr:firstName><gtr:surname>SLACK</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700316"><gtr:id>9252F653-744E-4B18-9D34-425457DC0F1C</gtr:id><gtr:title>WARM (Windows - Advanced Refurbishment Machine)</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700316</gtr:grantReference><gtr:abstractText>Bryant
+Symons Technologies Ltd is a leading manufacturer of ultra-precision machinery with
+clients including major airlines, defence and multinational corporations.
+Through informal discussions with two existing customers, we understand there is a demand
+in the market for a Window Refurbishment Machine which is commercially attractive,
+simpler to use, more automated and more environmentally friendly. We understand that such
+a machine would also create a wider market than at present.
+We have identified various innovative technologies to design a new type of machine which
+will allow us to attack this market. The technology innovations we are proposing address the
+following key issues:
+-
+reduced ecological impact as no chemicals are required
+-
+improved thermal stability and therefore accuracy of the slide way
+-
+automation reduces process time and cost.
+-
+improved window life after refurb
+The attention is firmly on ?green? issues ? reducing process time, cost and waste.
+There is no similar machine on the market today.
+Preliminary market investigation shows that the potential market is a large one and if this
+project is successful Bryant Symons would be able to increase its revenue ten-fold over the
+next 5 years, recruiting extra high-value added staff and increasing its own R&amp;amp;D spend on
+associated and other brand new technologies it has in the pipe-line. So this project could
+create a strong base from which to accelerate our IP and future growth.
+Bryant Symons has christened such a system, ?WARM? (Windows - Advanced Refurbishment
+Machine) but the details of how this could be done, technically and commercially, need to be
+explored. If successful, WARM would have a significant market impact and its users will see
+significant operational and financial benefits. Quantifying these benefits to airlines and MROs
+are the critical issues to be assessed through this project</gtr:abstractText><gtr:fund><gtr:end>2014-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2013-12-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>25000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700316</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

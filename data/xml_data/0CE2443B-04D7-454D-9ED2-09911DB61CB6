@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/76E4699B-8F87-4081-8EE4-157C5AA2B4A5"><gtr:id>76E4699B-8F87-4081-8EE4-157C5AA2B4A5</gtr:id><gtr:name>Hyperdrive Innovation Ltd</gtr:name><gtr:address><gtr:line1>FUTURE TECHNOLOGY CENTRE BARMSTON COURT , NISSAN WAY</gtr:line1><gtr:city>SUNDERLAND</gtr:city><gtr:postCode>SR5 3NY</gtr:postCode><gtr:region>West Midlands</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/76E4699B-8F87-4081-8EE4-157C5AA2B4A5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>76E4699B-8F87-4081-8EE4-157C5AA2B4A5</gtr:id><gtr:name>Hyperdrive Innovation Ltd</gtr:name><gtr:address><gtr:line1>FUTURE TECHNOLOGY CENTRE BARMSTON COURT , NISSAN WAY</gtr:line1><gtr:city>SUNDERLAND</gtr:city><gtr:postCode>SR5 3NY</gtr:postCode><gtr:region>West Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>250004.0</gtr:offerGrant><gtr:projectCost>987379.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720030"><gtr:id>0CE2443B-04D7-454D-9ED2-09911DB61CB6</gtr:id><gtr:title>Development of a Range Extender for Electric Vehicles</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720030</gtr:grantReference><gtr:abstractText>Hyperdrive is new, UK based low carbon vehicle technology company who have produced a
+?proof of concept? Range Extender. The device will significantly increase the range of electric
+vehicles and will offer cost and weight savings which will mean that more people will want to
+buy them.
+The Range Extender is a small engine and generator which generate electricity efficiently.
+The company needs grant funding support alongside private investment, to take the device
+through a development phase and onto full commercial exploitation.
+Hyperdrive are a small &amp;amp; flexible company, well placed to move quickly to take advantage of
+the opportunity in the market.
+The Project Key aims &amp;amp; outcomes:
+- To take the concept through a development phase and on to full commercialisation, resulting
+in a business with a potential turnover of &amp;pound;64M and 412 jobs in 5 years
+- Add strength and depth to an already competent team
+- To offset the ?hollowing out? of the UK automotive supply chain, contributing to growth in
+the economy via domestic and export sales
+- To reduce global CO2 production by approx 100K tonnes per annum by 2015 and 1.34M
+tonnes by 2020 (equivalent to about 1.1% of CO2 produced in the UK due to transport)
+Technology Key Features &amp;amp; Benefits;
+- a unique low cost, compact and high power density unit that can be easily integrated into an
+existing electric vehicle in series with the existing drivetrain
+- uses a downsized engine running only at its most efficient operating point &amp;amp; switched off
+when it is not required
+- a simple engine with no complex variable valve timing, variable geometry or duel turbos
+- no starter motor required as the engine is started by the generator
+- maximised use of shared engine, generator &amp;amp; ECU components
+- reduction in battery pack size will result in an overall vehicle weight &amp;amp; cost reduction</gtr:abstractText><gtr:fund><gtr:end>2014-05-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2012-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>250004</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720030</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

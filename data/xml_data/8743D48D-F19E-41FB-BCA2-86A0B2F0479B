@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/8D9E8791-DE27-4E0A-BDED-A1DD9D3F2032"><gtr:id>8D9E8791-DE27-4E0A-BDED-A1DD9D3F2032</gtr:id><gtr:name>Trucolour Limited</gtr:name><gtr:address><gtr:line1>INNOVATION CENTRE 1 LIVERPOOL SCIENCE PARK , MOUNT PLEASANT</gtr:line1><gtr:city>LIVERPOOL</gtr:city><gtr:postCode>L3 5TF</gtr:postCode><gtr:region>North West</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/8D9E8791-DE27-4E0A-BDED-A1DD9D3F2032" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>8D9E8791-DE27-4E0A-BDED-A1DD9D3F2032</gtr:id><gtr:name>Trucolour Limited</gtr:name><gtr:address><gtr:line1>INNOVATION CENTRE 1 LIVERPOOL SCIENCE PARK , MOUNT PLEASANT</gtr:line1><gtr:city>LIVERPOOL</gtr:city><gtr:postCode>L3 5TF</gtr:postCode><gtr:region>North West</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>26695.0</gtr:offerGrant><gtr:projectCost>59323.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720014"><gtr:id>8743D48D-F19E-41FB-BCA2-86A0B2F0479B</gtr:id><gtr:title>TruColour Ltd Development of Prototype on-line Computer Display Calibration System for E-Commerce Market</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720014</gtr:grantReference><gtr:abstractText>PC Monitors and other screens do not display colour consistently. As a result, there can be big
+differences in the appearance of images displayed on websites when viewed by different
+users. TruColour Ltd is developing the world's first colour correction system for PC monitors
+that does not use external hardware or calibration equipment. The TruColour approach is
+based on software that enables users totrust the colours that they see on screen. We have
+identified E-Commerce as a key market that would greatly benefit from the TruColour
+approach. Some of the key benefits are:-
+- Reduced returns due to colour
+- Reduced lost sales (most people do not return goods but simply
+go elsewhere)
+- Enhanced E-Branding leading to increased consumer confidence
+leading to more sales
+Whilst TruColour has proven the concept and built science based laboratory demonstators, it
+now needs to build a functioning web based prototype in to prepare the technology for
+commercial and to secure commitment to the technology from identified early adopter
+customers.
+The objectives of the project are thus the following:
+1. To build a client/server Web prototype of TruColour?s technology
+a. To quantify the efficiency of the different modules
+b. To analyse the effects of a client vs server implementation for certain modules
+c. To obtain a basis implementation for product development
+2. To evaluate the prototype over a wide set of users and hardware settings,
+representative of the real-world
+a. To check our technology in the field as opposed to the lab
+b. To understand issues surrounding a commercial roll-out
+c. To measure the consumer feelings about the benefits of the system (increased user
+awareness
+as a side-effect)</gtr:abstractText><gtr:fund><gtr:end>2012-05-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2011-09-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>26695</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720014</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

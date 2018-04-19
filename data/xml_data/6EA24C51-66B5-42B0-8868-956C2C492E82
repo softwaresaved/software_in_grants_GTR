@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/86B4D2F1-90AE-414C-8AAF-C314956339A1"><gtr:id>86B4D2F1-90AE-414C-8AAF-C314956339A1</gtr:id><gtr:name>Barnard Microsystems Limited</gtr:name><gtr:address><gtr:line1>Brentmead House
+Britannia Road</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>N12 9RU</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/86B4D2F1-90AE-414C-8AAF-C314956339A1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>86B4D2F1-90AE-414C-8AAF-C314956339A1</gtr:id><gtr:name>Barnard Microsystems Limited</gtr:name><gtr:address><gtr:line1>Brentmead House
+Britannia Road</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>N12 9RU</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>24000.0</gtr:offerGrant><gtr:projectCost>40000.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700092"><gtr:id>6EA24C51-66B5-42B0-8868-956C2C492E82</gtr:id><gtr:title>AeroVision = Enhanced Airborne Vision Sensor</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700092</gtr:grantReference><gtr:abstractText>We are developing small unmanned aircraft for use throughout the world in scientific (ash
+cloud monitoring), commercial (oil, gas and mineral exploration and production) and state
+(land and maritime border patrol) applications. The greatest technical challenge to the use of
+unmanned aircraft operating beyond line of sight is the development of an effective collision
+detection sensor. This is an essential requirement that has been voiced at every unmanned
+vehicle conference I have attended. It has also been a requirement of our potential customers,
+including Fugro Airborne Surveys and Sander Geophysics Limited (the largest and second
+largest geophysical survey companies in the world, both based in Canada) for Government
+agencies and oil, gas and mining exploration and production companies.
+We propose to investigate the nature of the global market and the financial and technical
+feasibility of developing an airborne collision detection sensor, based on the use of two
+synchronised cameras operating as a stereo imaging pair, to mimic fish, bird and human
+vision. We plan to introduce additional innovative enhancements to the stereo vision
+technology with polarisation sensitive imagery, something fish use to see more clearly though
+underwater haze, which has the potential to see through some level of cloud cover.
+Our aim, should the market analysis be positive, would be to develop, test and use this system
+on unmanned aircraft that fly beyond line of sight, to enable the aircraft to detect and avoid
+airborne objects, such as other aircraft, balloons and parachutists.
+Once proven, it was suggested by Cliff Whittaker at the Civil Aviation Authority, this sensor
+could find wider application on light aircraft, so contributing to the safety of air travel and
+enabling us to build up a world leading export business in this area in the U.K.
+Another benefit will be environmental, since small unmanned aircraft use less fuel than their
+manned counterparts.</gtr:abstractText><gtr:fund><gtr:end>2012-08-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2012-03-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>24000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700092</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

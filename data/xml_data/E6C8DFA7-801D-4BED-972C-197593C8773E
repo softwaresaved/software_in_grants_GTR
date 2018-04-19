@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/234098B4-21BD-4CCA-823C-E8A2AF406DFB"><gtr:id>234098B4-21BD-4CCA-823C-E8A2AF406DFB</gtr:id><gtr:name>P&amp;m Aviation Limited</gtr:name><gtr:address><gtr:line1>C/O PM+M GREENBANK TECHNOLOGY PARK , CHALLENGE WAY</gtr:line1><gtr:city>BLACKBURN</gtr:city><gtr:postCode>BB1 5QB</gtr:postCode><gtr:region>North West</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/234098B4-21BD-4CCA-823C-E8A2AF406DFB" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>234098B4-21BD-4CCA-823C-E8A2AF406DFB</gtr:id><gtr:name>P&amp;m Aviation Limited</gtr:name><gtr:address><gtr:line1>C/O PM+M GREENBANK TECHNOLOGY PARK , CHALLENGE WAY</gtr:line1><gtr:city>BLACKBURN</gtr:city><gtr:postCode>BB1 5QB</gtr:postCode><gtr:region>North West</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>64678.0</gtr:offerGrant><gtr:projectCost>107797.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=730109"><gtr:id>E6C8DFA7-801D-4BED-972C-197593C8773E</gtr:id><gtr:title>To produce a composite- based microlight</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Legacy RDA Grant for R&amp;D</gtr:grantCategory><gtr:grantReference>730109</gtr:grantReference><gtr:abstractText>The company says that microlight trikes are popular and safe m6$ns
+&amp;middot; of economical personal aviation. However the deSign of the flexwing
+has reached something of a plateau, the next logical step would be a
+foldable rigid wing designed especially for powered flight- high speed
+trike unit. However, with a few exceptions, the technology of the trike
+is sti11 rather basic. This project aims to. bring significantly advance
+the technology in the trike by u~ing oomposites and shaft drive.
+The company has explained that current sailplane fuselage
+production technology uses vacuum bag techniques, which&amp;middot;&amp;middot;are highly
+labour and skill intensive. The company wants to explore the
+potential development using resin infusion techniques (RFt), similar to
+that devefoped &amp;middot;for the Maclaren/Mercedes GT sports&amp;middot; car, which give
+. high quality} repeatable parts with a . much cleaner manufacturing
+process.
+In addition, the Company aim to engineer a progressively crust,able
+'&amp;quot;~ty eell around the pilots., by integrating bo~ sections intp the body
+&amp;middot;l)~t
+Sy using a composite structure, they ttr$o prdPo$$ to improve the
+aerodynamics and Jappearanee. A bulkhead will be&amp;middot;&amp;middot;explored to suit a
+ra.nge of power plants, inCluding shaft driVe. $haft drive will reduce
+drag, reduce noise and improve directional stabitity. It will also enable
+curr.ent high technology liquid cooled engines to be considered, e.g.
+the Smart car engine.
+At the same time, 5-95%tile occupan~ could be accommodated, with
+simple quick-adjustability of seating and pedal positions.</gtr:abstractText><gtr:fund><gtr:end>2010-08-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2009-02-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>64678</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">730109</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

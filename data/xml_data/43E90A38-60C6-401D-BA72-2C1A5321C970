@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/46387D84-F71E-4B7D-8C7D-9C288F113510"><gtr:id>46387D84-F71E-4B7D-8C7D-9C288F113510</gtr:id><gtr:name>Imperial College London</gtr:name><gtr:department>Dept of Physics</gtr:department><gtr:address><gtr:line1>South Kensington Campus</gtr:line1><gtr:line2>Exhibition Road</gtr:line2><gtr:line4>London</gtr:line4><gtr:postCode>SW7 2AZ</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/46387D84-F71E-4B7D-8C7D-9C288F113510"><gtr:id>46387D84-F71E-4B7D-8C7D-9C288F113510</gtr:id><gtr:name>Imperial College London</gtr:name><gtr:address><gtr:line1>South Kensington Campus</gtr:line1><gtr:line2>Exhibition Road</gtr:line2><gtr:line4>London</gtr:line4><gtr:postCode>SW7 2AZ</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>FELLOW</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/03115211-A306-4F5A-9E17-90149142F18A"><gtr:id>03115211-A306-4F5A-9E17-90149142F18A</gtr:id><gtr:firstName>Nicholas</gtr:firstName><gtr:otherNames>Constantinos</gtr:otherNames><gtr:surname>Wardle</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role><gtr:role><gtr:name>FELLOW</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=ST%2FN003985%2F1"><gtr:id>43E90A38-60C6-401D-BA72-2C1A5321C970</gtr:id><gtr:title>Characterising the Higgs boson to search for new physics</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Fellowship</gtr:grantCategory><gtr:grantReference>ST/N003985/1</gtr:grantReference><gtr:abstractText>The discovery of the Higgs boson by the ATLAS and CMS detectors was the greatest success of the first run of the Large Hadron Collider (LHC) at CERN and represented a huge step forward in the experimental verification of the Standard Model (SM) of particle physics. In proton-proton collisions, the Higgs boson is produced and subsequently decays via a number of different processes. The SM, our best description of the fundamental interaction of particles, accurately predicts the rate at which each of these processes occurs.
+
+Despite the remarkable success of the SM, we know it to be an incomplete picture. For example, it provides no explanation for the existence of dark matter. The LHC uniquely offers the opportunity to study Higgs production and decay and allow us to see how well nature agrees with the theoretical predictions. Any deviation from the predictions will be a clear sign of the existence of new physics and provide hints as to where physicists should be looking next. Moreover, if dark matter interacts with the Higgs boson, additional decays of the Higgs boson to dark matter particles will produce detectable signatures at the LHC, providing a link between the SM and dark matter. This research programme proposed is to probe potential new physics with the Higgs boson through a series of precision couplings and properties measurements building towards a full characterisation of the Higgs boson. 
+
+These measurements are a major focus of the LHC, CERN and in general of the European strategy for particle physics. The measurements can be interpreted in a number of theoretical models proposed to extend the SM. The aim of this research is to connect precision Higgs measurements with physics beyond the SM in order to fully characterise the Higgs boson which will be a key consideration in the design of future experiments in the search for new physics.</gtr:abstractText><gtr:fund><gtr:end>2022-01-02</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/D7F4F462-0518-4784-908A-D12633C139B3"><gtr:id>D7F4F462-0518-4784-908A-D12633C139B3</gtr:id><gtr:name>STFC</gtr:name></gtr:funder><gtr:start>2017-01-03</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>472158</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication><gtr:id>3B613171-509A-4BED-8C1E-12E0CC8615C2</gtr:id><gtr:title>Search for dark matter produced with an energetic jet or a hadronically decaying W or Z boson at 
+
+
+ 
+
+s
+
+=
+13
+
+
+$$ \sqrt{s}=13 $$
+ TeV</gtr:title><gtr:parentPublicationTitle>Journal of High Energy Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/7a01350ef43c0606d9c4222b601c60c5"><gtr:id>7a01350ef43c0606d9c4222b601c60c5</gtr:id><gtr:otherNames>Sirunyan A</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a93ff73d65a92.11046565</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>DE7EF138-3C26-423C-8604-BCD0926096E6</gtr:id><gtr:title>Search for light bosons in decays of the 125 GeV Higgs boson in proton-proton collisions at 
+
+
+ 
+
+s
+
+=
+8
+
+
+$$ \sqrt{s}=8 $$
+ TeV</gtr:title><gtr:parentPublicationTitle>Journal of High Energy Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/fd6244ef9bb478be98f834c740e2093a"><gtr:id>fd6244ef9bb478be98f834c740e2093a</gtr:id><gtr:otherNames>Khachatryan V</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a93ff7655d431.51499228</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>69800FF6-C529-401D-B143-3483AD992FB5</gtr:id><gtr:title>Search for supersymmetry in multijet events with missing transverse momentum in proton-proton collisions at 13&amp;nbsp;TeV</gtr:title><gtr:parentPublicationTitle>Physical Review D</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/7a01350ef43c0606d9c4222b601c60c5"><gtr:id>7a01350ef43c0606d9c4222b601c60c5</gtr:id><gtr:otherNames>Sirunyan A</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a93ff71b5df75.27080570</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>EED27CEA-8054-4987-A6A2-BF45E2315979</gtr:id><gtr:title>Measurements of properties of the Higgs boson decaying into the four-lepton final state in pp collisions at 
+
+
+ 
+
+s
+
+=
+13
+
+
+$$ \sqrt{s}=13 $$
+ TeV</gtr:title><gtr:parentPublicationTitle>Journal of High Energy Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/7a01350ef43c0606d9c4222b601c60c5"><gtr:id>7a01350ef43c0606d9c4222b601c60c5</gtr:id><gtr:otherNames>Sirunyan A</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a93ff6d81d8e7.01376002</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>C2F21A53-A357-4935-9C13-840897FC81C1</gtr:id><gtr:title>Statistical issues in searches for new phenomena in High Energy Physics</gtr:title><gtr:parentPublicationTitle>Journal of Physics G: Nuclear and Particle Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/f761bc2008cedb3845220f78cfa77d87"><gtr:id>f761bc2008cedb3845220f78cfa77d87</gtr:id><gtr:otherNames>Lyons L</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2018-01-01</gtr:date><gtr:outcomeId>5a93ff6a945e02.74243357</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>7DAE4B07-3178-4BB8-AE63-D427FEB345AF</gtr:id><gtr:title>Search for new physics with dijet angular distributions in proton-proton collisions at 
+
+
+ 
+
+s
+
+=
+13
+
+
+$$ \sqrt{s}=13 $$
+ TeV</gtr:title><gtr:parentPublicationTitle>Journal of High Energy Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/7a01350ef43c0606d9c4222b601c60c5"><gtr:id>7a01350ef43c0606d9c4222b601c60c5</gtr:id><gtr:otherNames>Sirunyan A</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a93ff7402b2b0.43948847</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>E5025601-0AD1-4C41-9603-BC34F929A237</gtr:id><gtr:title>Searches for invisible decays of the Higgs boson in pp collisions at s $$ \sqrt{s} $$ = 7, 8, and 13 TeV</gtr:title><gtr:parentPublicationTitle>Journal of High Energy Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/fd6244ef9bb478be98f834c740e2093a"><gtr:id>fd6244ef9bb478be98f834c740e2093a</gtr:id><gtr:otherNames>Khachatryan V</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a6f11c6250e33.92704353</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>97375101-000D-4B15-A1D3-7555943EAAE6</gtr:id><gtr:title>Constraints on anomalous Higgs boson couplings using production and decay information in the four-lepton final state</gtr:title><gtr:parentPublicationTitle>Physics Letters B</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/7a01350ef43c0606d9c4222b601c60c5"><gtr:id>7a01350ef43c0606d9c4222b601c60c5</gtr:id><gtr:otherNames>Sirunyan A</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a93ff6b89a5d8.78807666</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>AAC08222-97AF-4F50-88DE-43858A8BA4F7</gtr:id><gtr:title>Search for dark matter and unparticles in events with a Z boson and missing transverse momentum in proton-proton collisions at 
+
+
+ 
+
+s
+
+=
+13
+
+
+$$ \sqrt{s}=13 $$
+ TeV</gtr:title><gtr:parentPublicationTitle>Journal of High Energy Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/7a01350ef43c0606d9c4222b601c60c5"><gtr:id>7a01350ef43c0606d9c4222b601c60c5</gtr:id><gtr:otherNames>Sirunyan A</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a93ff760ddd28.65921755</gtr:outcomeId></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">ST/N003985/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>6BF947B0-8E6E-48DB-AB68-7130938F2DF2</gtr:id><gtr:percentage>35</gtr:percentage><gtr:text>Instrument. sensor &amp; detectors</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>C2898760-D7E5-4B25-A236-E7869CD74F88</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Particle physics - experiment</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>9C124926-5968-486F-9B51-CCEB6C4E9650</gtr:id><gtr:percentage>15</gtr:percentage><gtr:text>Particle physics - theory</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>200B9B9B-68EC-4D70-B889-6BD5F4538080</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>Beyond the Standard Model</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>00E432A0-CF0E-42D0-BAF1-6872995B42EF</gtr:id><gtr:percentage>35</gtr:percentage><gtr:text>Part. Phys/Astron. Instrument.</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>D1CFDBA8-6B0A-4F3B-A5BD-26C5EA182FA7</gtr:id><gtr:percentage>15</gtr:percentage><gtr:text>Phenomenology</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

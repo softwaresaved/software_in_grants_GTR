@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/3049FDE5-17AB-4B0A-947D-76C70112C7BF"><gtr:id>3049FDE5-17AB-4B0A-947D-76C70112C7BF</gtr:id><gtr:name>3rings Care Limited</gtr:name><gtr:address><gtr:line1>THE GLADES FESTIVAL WAY , FESTIVAL PARK</gtr:line1><gtr:city>STOKE-ON-TRENT</gtr:city><gtr:postCode>ST1 5SQ</gtr:postCode><gtr:region>West Midlands</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/3049FDE5-17AB-4B0A-947D-76C70112C7BF" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>3049FDE5-17AB-4B0A-947D-76C70112C7BF</gtr:id><gtr:name>3rings Care Limited</gtr:name><gtr:address><gtr:line1>THE GLADES FESTIVAL WAY , FESTIVAL PARK</gtr:line1><gtr:city>STOKE-ON-TRENT</gtr:city><gtr:postCode>ST1 5SQ</gtr:postCode><gtr:region>West Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>25000.0</gtr:offerGrant><gtr:projectCost>41987.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/8F41C1D1-C508-4D39-A342-183FDECF8CE4"><gtr:id>8F41C1D1-C508-4D39-A342-183FDECF8CE4</gtr:id><gtr:firstName>Steve</gtr:firstName><gtr:surname>Purdham</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700404"><gtr:id>8297AC10-D069-435A-815E-67A2C1D798B1</gtr:id><gtr:title>?3rings Smart Plug</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700404</gtr:grantReference><gtr:abstractText>Is my ageing Mum or Dad OK today?, is a question more families ask each day.
+In the UK 10m people are over 65. Impacts of the age wave are becoming apparent to many
+people. Pressure is increasing on families to provide care for ageing loved ones but hectic
+lives &amp;amp; distance is not always conducive to that need.
+The ?3rings Smart Plug? project is a method to evaluate the potential of connecting
+unconnected elderly relatives to their Internet enabled families to introduce Distributed
+Family Care.
+The ?3rings Smart Plug? has two components:
+- A hardware device that allows a domestic appliance such as a kettle or TV to be
+plugged in and then it is in turn plugged into the mains. When the domestic appliance is
+turned on the ?Smart Plug? ?signals? the 3rings cloud based ecosystem via the built in GSM
+circuit.
+- The cloud based software ecosystem is a event monitoring system that communicates
+activity or lack of activity to defined family &amp;amp; friends using Internet and telecommunications
+protocols such as push notifications, web, email, SMS &amp;amp; Calls.
+The key to acceptance &amp;amp; success is to introduce technology in a way that is familiar to the
+ageing relatives removing the ?fear? of technology but simultaneously providing an ecosystem
+to communicate activity to their Internet enabled families.
+The base assumption is there would be no requirement for the Internet at the ageing relatives.
+Power usage can indicate activity, activities such a making a cup of tea, watching the TV can
+provide a valid signal that ?Mum is Up?, unusual activity can indicate areas that may need
+investigation. By monitoring ?activity? or lack of it, events can be communicated to the
+families to make them aware of their loved ones status, regardless of distance.
+This proof of market project will enable us to to undertake in-depth market analysis to scope
+the investment case and roadmap to bring to the market a product designed to enhance the
+lives of the ageing population &amp;amp; their families</gtr:abstractText><gtr:fund><gtr:end>2014-08-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2014-05-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>25000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700404</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

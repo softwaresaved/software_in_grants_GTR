@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/6A57A005-46ED-4545-B44F-040BC3291512"><gtr:id>6A57A005-46ED-4545-B44F-040BC3291512</gtr:id><gtr:name>Viridis Limited</gtr:name><gtr:address><gtr:line1>Rural Beat House
+Garstang Road
+Bilsborrow</gtr:line1><gtr:city>Preston</gtr:city><gtr:postCode>PR3 0RD</gtr:postCode><gtr:region>North West</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/6A57A005-46ED-4545-B44F-040BC3291512" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>6A57A005-46ED-4545-B44F-040BC3291512</gtr:id><gtr:name>Viridis Limited</gtr:name><gtr:address><gtr:line1>Rural Beat House
+Garstang Road
+Bilsborrow</gtr:line1><gtr:city>Preston</gtr:city><gtr:postCode>PR3 0RD</gtr:postCode><gtr:region>North West</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>174813.0</gtr:offerGrant><gtr:projectCost>388732.0</gtr:projectCost></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/FABF22BB-3769-494F-87C3-7BE8CB7AC6C6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>FABF22BB-3769-494F-87C3-7BE8CB7AC6C6</gtr:id><gtr:name>Viridis UK Limited</gtr:name><gtr:address><gtr:line1>KENDAL HOUSE , 41 SCOTLAND STREET</gtr:line1><gtr:city>SHEFFIELD</gtr:city><gtr:postCode>S3 7BS</gtr:postCode><gtr:region>Yorkshire and the Humber</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>75202.0</gtr:offerGrant><gtr:projectCost>167226.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/C7E56413-2420-4831-90CD-6632515174D0"><gtr:id>C7E56413-2420-4831-90CD-6632515174D0</gtr:id><gtr:firstName>Geoff</gtr:firstName><gtr:surname>Taylor</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720463"><gtr:id>1CFE831B-2DA9-4B36-84E4-CB3E9FF61C5C</gtr:id><gtr:title>A Novel &amp;amp; High Efficiency GRP Double Glazing System</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720463</gtr:grantReference><gtr:abstractText>With 26% of building heat lost through windows &amp;amp; 45% of the total UK energy consumed for
+heating purposes, efficient windows have the potential to significantly reduce energy
+consumption &amp;amp; in turn greenhouse gas (ghg) emissions, thus supporting EU &amp;amp; national targets
+to reduce ghg emissions by 80% by 2050.
+Energy efficiency of windows is measured by U-value, lower U-values=higher thermal
+resistance &amp;amp; improved efficiency. The rising price of fuel &amp;amp; Government regs/initiatives, is
+driving consumer demand for windows with lower U-values.
+Double glazing is the most commonly used system, installed in 42% of EU buildings.
+Aluminium &amp;amp; uPVC double glazing is preferred for commercial projects due to competitive
+price but:
+1. Does not achieve U-values = 1.4 W/m2.K required by forthcoming 2014 Building Regs
+2. No single system meets the criteria demanded by UK architects &amp;amp; specifiers crucial for
+mass penetration of commercial mkt
+Current best in class systems meet energy requirements &amp;amp; aesthetics but are high in price
+(triple glazing &amp;amp; pultruded glass reinforced plastic (GRP)) so limiting penetration of
+commercial glazing mkt &amp;amp; restricting use to high spec. projects.
+Viridis aim to address this mkt opportunity through the development of an innovative double
+glazed window which combines GRP &amp;amp; renewable sourced softwood, to develop a highly
+efficient system with: low U-value; Passivhaus standard &amp;amp; Code for Sustainable Homes Level
+6; low price; slim profile with high glazed area; low maintenance; extensive lifespan of 60+
+yrs; &amp;amp; internally beaded.
+Virdis will develop 3 glazing system prototypes, with the aim of creating a window that has
+the same U-value as triple glazing but can be sold competitively at double glazing price.
+The benefits are considerable given that replacing existing BRFC A rated windows with the
+Viridis system would achieve an annual energy saving of 0.4 MtCO2e/household, widespread
+uptake of this solution would save an estimated 8,700,000 MtCO2e/year.</gtr:abstractText><gtr:fund><gtr:end>2016-05-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2014-05-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>250015</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720463</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

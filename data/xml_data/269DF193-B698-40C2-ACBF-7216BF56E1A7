@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/2838C65D-87C2-461F-9572-179D5150578B"><gtr:id>2838C65D-87C2-461F-9572-179D5150578B</gtr:id><gtr:name>Nmqa Limited</gtr:name><gtr:address><gtr:line1>FIRST FLOOR , 30 CLARENDON ROAD</gtr:line1><gtr:city>WATFORD</gtr:city><gtr:postCode>WD17 1JJ</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/2838C65D-87C2-461F-9572-179D5150578B" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>2838C65D-87C2-461F-9572-179D5150578B</gtr:id><gtr:name>Nmqa Limited</gtr:name><gtr:address><gtr:line1>FIRST FLOOR , 30 CLARENDON ROAD</gtr:line1><gtr:city>WATFORD</gtr:city><gtr:postCode>WD17 1JJ</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>250027.0</gtr:offerGrant><gtr:projectCost>569798.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/57D21FEF-C4FB-471E-B6A7-E5726ADD3D19"><gtr:id>57D21FEF-C4FB-471E-B6A7-E5726ADD3D19</gtr:id><gtr:firstName>Mark</gtr:firstName><gtr:surname>Smith</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720392"><gtr:id>269DF193-B698-40C2-ACBF-7216BF56E1A7</gtr:id><gtr:title>Adept Data</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720392</gtr:grantReference><gtr:abstractText>Software defect resolution is estimated to cost the IT sector up to $312bn annually. Leading
+fiscal institutions have suffered recent public embarrassment caused by data related issues that
+have resulted in severe social disruption &amp;amp; cost both the financial institutions &amp;amp; the consumer.
+In 2013, the software testing industry was valued at $3.1bn with a CAGR of 3.4%. Software
+testing is increasing in complexity with progressively more integrated systems coupled with
+larger mkt demand for shorter Software Development Lifecycles (SDLCs). Shorter SDLCs
+have augmented the demand for automation with automation tools offering data driven
+solutions with rapid &amp;amp; repeatable testing. Testing is the most resource intensive phase &amp;amp; thus
+?build &amp;amp; test? teams can spend 50% of their time finding &amp;amp; fixing defects, 15% of which are
+caused by ?Bad data?.
+Current solutions solve aspects of the data management problem, but focus on putting a set of
+reference data into a given environment rather than providing an understanding the landscape.
+Current tools are capable of mapping data relationships across different systems, but limited
+in their scope of understanding &amp;amp; lack provision for ?good data?- data that is representative,
+secure &amp;amp; usable.
+NMQA aim to address the issues above through the development of AdeptData, a unique Test
+Data Asset Management solution that:
+-enables users to select/auto-generate test data, specific to context &amp;amp; environment
+-provides ?good data? by capturing the data landscape &amp;amp; rules relating to the data inc. business
+rules &amp;amp; business flows
+-is architecturally aware &amp;amp; produce ?good data?
+The highly innovative product will be exploited through an existing client base, delivering
+positive benefits to the finance sector through reducing the cost of software defect detection.
+The project is aligned to current TSB priorities in IT &amp;amp; Finance &amp;amp; with a well experienced
+team delivering the project it is anticipated market entry will be in June 2015.</gtr:abstractText><gtr:fund><gtr:end>2015-01-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2013-11-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>250027</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720392</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

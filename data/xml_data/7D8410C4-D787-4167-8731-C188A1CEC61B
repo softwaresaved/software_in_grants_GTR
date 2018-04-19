@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/4CF74281-F247-473A-9A3B-ED37A5C21C5F"><gtr:id>4CF74281-F247-473A-9A3B-ED37A5C21C5F</gtr:id><gtr:name>Xylostream Technology Limited</gtr:name><gtr:address><gtr:line1>2 VENTURE ROAD, SOUTHAMPTON SCIENCE PARK , CHILWORTH</gtr:line1><gtr:city>SOUTHAMPTON</gtr:city><gtr:postCode>SO16 7NP</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/4CF74281-F247-473A-9A3B-ED37A5C21C5F" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>4CF74281-F247-473A-9A3B-ED37A5C21C5F</gtr:id><gtr:name>Xylostream Technology Limited</gtr:name><gtr:address><gtr:line1>2 VENTURE ROAD, SOUTHAMPTON SCIENCE PARK , CHILWORTH</gtr:line1><gtr:city>SOUTHAMPTON</gtr:city><gtr:postCode>SO16 7NP</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>232291.0</gtr:offerGrant><gtr:projectCost>516396.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/F1F0CB3C-5D5D-4D49-82B1-23C889143178"><gtr:id>F1F0CB3C-5D5D-4D49-82B1-23C889143178</gtr:id><gtr:firstName>Adrian</gtr:firstName><gtr:surname>Bell</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720547"><gtr:id>7D8410C4-D787-4167-8731-C188A1CEC61B</gtr:id><gtr:title>Xylostream Ultra HD Development of Prototype Project (UHDDP)</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720547</gtr:grantReference><gtr:abstractText>Xylostream?s Ultra High Definition Development of Prototype project (UHDDP) will create a
+fully functioning Ultra High Definition (UHD) video encoder prototype using the new High
+Efficiency Video Coding (HEVC) standard.
+Encoding UHD is important because it is the missing link in the distribution chain from
+content creation to presentation on TVs in the home. Content is already being made in UHD
+and shops are selling UHD TVs. However, until hardware based real-time UHD encoders are
+available TV operators will not be able to extract full value from this content or provide
+viewers with the new capability that these TVs promise.
+UHD images are 3840x2160 pixels or 4x that of HD and optionally at higher frame rates and
+pixel depths. Scaling of today?s HD bit rates (~6Mbit/s for H.264) would result in a
+bandwidth of up to 60Mbit/s for UHD - too high to transmit via today?s TV networks.
+HEVC offers a potential doubling in coding efficiency over H.264. Depending on content
+genre and picture format used for UHD, we expect to see bandwidths of 12?30Mbit/s in
+HEVC, making UHD services viable.
+Without HEVC, UHDTV is unlikely to become an economic success. The UK media sector,
+which contributes 10% to total UK exports, will be a primary beneficiary of a new global
+market in UHD content, and so insuring HEVC is suited to UHD delivery is critical to the UK
+media industry.
+Xylostream (XTL) has invested in the development of HEVC algorithms focused on UHD
+over the last year. That has included a 6 month TSB proof of concept project (UHDPOC) the
+output of which was a set of algorithms partially ported to an HPC platform. Since the end of
+the UHDPOC XTL has carried on the development and are currently working on a Baseline
+Demonstrator to be released at IBC in September. The UHDDP project builds on that work to
+create a prototype product that can be used by operators to continue their testing of UHD and
+enable XTL to establish itself as the leader in HEVC compression for UHD.</gtr:abstractText><gtr:fund><gtr:end>2016-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2015-01-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>232291</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720547</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

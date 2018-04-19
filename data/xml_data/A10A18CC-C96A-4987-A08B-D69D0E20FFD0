@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/D4A6D9E3-2E16-4CD8-AD87-885D56BD643C"><gtr:id>D4A6D9E3-2E16-4CD8-AD87-885D56BD643C</gtr:id><gtr:name>Future Transport Systems Ltd</gtr:name><gtr:address><gtr:line1>MILBURN HOUSE , DEAN STREET</gtr:line1><gtr:city>NEWCASTLE UPON TYNE</gtr:city><gtr:postCode>NE1 1LE</gtr:postCode><gtr:region>West Midlands</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/D4A6D9E3-2E16-4CD8-AD87-885D56BD643C" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>D4A6D9E3-2E16-4CD8-AD87-885D56BD643C</gtr:id><gtr:name>Future Transport Systems Ltd</gtr:name><gtr:address><gtr:line1>MILBURN HOUSE , DEAN STREET</gtr:line1><gtr:city>NEWCASTLE UPON TYNE</gtr:city><gtr:postCode>NE1 1LE</gtr:postCode><gtr:region>West Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>15000.0</gtr:offerGrant><gtr:projectCost>25017.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/4C160719-3693-475A-B316-D8E2757D2C12"><gtr:id>4C160719-3693-475A-B316-D8E2757D2C12</gtr:id><gtr:firstName>Matthew</gtr:firstName><gtr:surname>Lumsden</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700337"><gtr:id>A10A18CC-C96A-4987-A08B-D69D0E20FFD0</gtr:id><gtr:title>Future Transport Systems - Vehicle to Grid opportunity study</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700337</gtr:grantReference><gtr:abstractText>Vehicle to Grid (V2G) describes the ability to discharge electricity from plug-in electric
+vehicles (EV) into the grid and often includes discharging into islanded networks as well as
+into the wider ?open? grid.
+In the context of international trends towards smarter/low carbon grid networks, it is predicted
+by Ricardo, National Grid and others that the mobile electricity storage potential of V2G
+operation could play a valuable role in grid balancing (reducing demand and providing power
+to the grid). Providing a grid balancing service will add a new value stream to several cost
+models, not least that of EVs.
+As part of its strategy to develop and commercialise technologies integrating the new energy
+and mobility sectors, FTS has undertaken background research into current V2G technologies
+and pilots projects. Based on this research FTS (with SSE and other partners) is proceeding
+with the development of a generic V2G system which will test the fundamentals, including;
+battery degradation and energy losses, on and off-board control systems, grid integration,
+operational control etc.
+This study will characterise the market potential for V2G technologies and segment it by
+technical solutions and types of value offered. This segmentation will define what technical
+adaptations will need to be made to the generic system to meet a range of niche market needs.
+The study is innovative in aiming to segment and quantify the potential V2G market so that
+specific technical adaptations can be developed to provide early adopting niche markets with
+specifically developed V2G functionality.
+Identification and prioritisation of these niche market segments will enable FTS to develop
+robust technical and market development strategies thereby enabling the ultimate systems to
+be commercialised as effectively as possible.
+The study will also identify potential partners and customers with whom FTS can work to
+develop large scale pilot projects and commercialise the final system</gtr:abstractText><gtr:fund><gtr:end>2014-04-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2014-02-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>15000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700337</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

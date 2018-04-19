@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/B6266EBA-F05E-433C-B024-546AA5B68634"><gtr:id>B6266EBA-F05E-433C-B024-546AA5B68634</gtr:id><gtr:name>Applied Nanodetectors Limited</gtr:name><gtr:address><gtr:line1>36 WATERLOW COURT , HEATH CLOSE</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>NW11 7DT</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/B6266EBA-F05E-433C-B024-546AA5B68634" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>B6266EBA-F05E-433C-B024-546AA5B68634</gtr:id><gtr:name>Applied Nanodetectors Limited</gtr:name><gtr:address><gtr:line1>36 WATERLOW COURT , HEATH CLOSE</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>NW11 7DT</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>20256.0</gtr:offerGrant><gtr:projectCost>33760.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/A232E354-7155-42BE-94EA-947529415055"><gtr:id>A232E354-7155-42BE-94EA-947529415055</gtr:id><gtr:firstName>Grants</gtr:firstName><gtr:surname>Team</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700140"><gtr:id>07FD9F5C-10A2-47B1-BF76-46F265B31F77</gtr:id><gtr:title>Noninvasive glucose monitoring using breath analysis</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700140</gtr:grantReference><gtr:abstractText>Diabetes is one of the greatest health challenges the UK is facing, it is estimated that the
+number of people diagnosed with diabetes in the UK is 2.9 million and an estimated 850,000
+people have the condition but don?t know it. By 2025 it is estimated that over four million.
+Most of these cases will be Type 2 diabetes, because of our ageing population and rapidly
+rising numbers of overweight and obese. The indirect costs of diabetes in the UK have been
+estimated to be close to &amp;pound;17 billion. Glucose monitoring is an essential requirement of disease
+management to achieve control. However, effective and routine monitoring remains a
+challenge for many diabetic patients primarily because of the invasive nature of available
+glucose monitoring devices. Invasive and painful monitoring is one of the main causes of poor
+patient compliance both with treatments and overall disease self-management. A low cost
+noninvasive test in a handheld device would be ideal for monitoring daily glucose levels
+without drawing blood. This type of non-invasive testing device would improve patient
+monitoring
+and lead to better self-management of this chronic disease. Breath analysis is an ideal a
+noninvasive
+test whereby small quantities of volatile compounds can be detected in human breath, and
+they can form a fingerprint that can be used for early disease detection and diagnosis. This
+would be an ideal test to screen patients and monitor the treatment of diabetes. Applied
+Nanodetectors has developed a breath chip that is being used for the diagnosis and control of
+asthma. This sensor chip could be configured to sense specific volatiles gases associated with
+blood sugar levels and then developed as a non-invasive test for diabetes screening and
+management. A non-invasive test has great commercial potential, however the market is very
+competitive
+and there are many commercial risks. In this project we plan to use market research
+to assess the commercial viability of a diabetes breath test.</gtr:abstractText><gtr:fund><gtr:end>2012-10-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2012-08-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>20256</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700140</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

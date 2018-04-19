@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/EF16FDAB-EA04-4D06-B863-62766E8D777B"><gtr:id>EF16FDAB-EA04-4D06-B863-62766E8D777B</gtr:id><gtr:name>Molecular WarehouSE Ltd.</gtr:name><gtr:address><gtr:line1>8 Huxley Road,Surrey Research Park</gtr:line1><gtr:city>Guildford</gtr:city><gtr:postCode>GU2 7RE</gtr:postCode><gtr:region>Unknown</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/EF16FDAB-EA04-4D06-B863-62766E8D777B" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>EF16FDAB-EA04-4D06-B863-62766E8D777B</gtr:id><gtr:name>Molecular WarehouSE Ltd.</gtr:name><gtr:address><gtr:line1>8 Huxley Road,Surrey Research Park</gtr:line1><gtr:city>Guildford</gtr:city><gtr:postCode>GU2 7RE</gtr:postCode><gtr:region>Unknown</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>249999.0</gtr:offerGrant><gtr:projectCost>585546.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/669C6063-7090-4BFB-9B2C-4E9341CEA534"><gtr:id>669C6063-7090-4BFB-9B2C-4E9341CEA534</gtr:id><gtr:firstName>Siro</gtr:firstName><gtr:surname>Perez Alcala</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720780"><gtr:id>95CC7B20-A1F9-4CFA-ACD7-DE702EC620AC</gtr:id><gtr:title>Molecular Warehouse: Mobile-enabled molecular diagnostic for remote monitoring of kidney transplant patients</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720780</gtr:grantReference><gtr:abstractText>There are 35,000 kidney transplant patients in UK (and over 500,000 across developed
+economies), who have to take immunosuppressant medication for the rest of their lives, in
+order to avoid graft rejection.
+Modern immunosupressants have increased 10-year overall kidney graft survival to 60%
+compared with 40% from a decade prior. However, the narrow therapeutic index and interpatient
+level variability of immunosuppressants currently necessitates patient monitoring in
+the clinic.
+Unfortunately, the burden on the time and cost on both patients and the healthcare system
+results in infrequent testing, which combined with lifestyle changes and poor medication
+adherence, leads to immunosuppressant levels being poorly controlled, and concomitantly to
+shorter graft survival.
+Considering that the cost benefit of kidney transplantation compared to dialysis is &amp;pound;24,100 per
+year for each year that the patient has a functioning transplanted kidney, each year of
+improved graft survival for the ~3,000 new kidney transplants per year in UK would save the
+NHS &amp;pound;72m per year.
+To solve this problem, Molecular Warehouse is developing a self-testing diagnostic device for
+the rapid monitoring of immunosuppressants in kidney transplant patients. The test can be
+performed at home on the patient?s smartphone, and results immediately sent wirelessly to an
+online dashboard for review and confirmation by the prescribing doctor.
+This test will for the first time enable a patient-centric, precision-medicine approach to
+immunosuppression therapy, improving transplant maintenance and patient quality of life, and
+reducing operational costs and waiting times in the NHS.
+After having developed a functional proof of concept of the system, this project will develop
+the pre-production prototype and initial clinical testing, in collaboration with leading
+clinicians who have agreed to support this project to make this product available to patients
+rapidly.</gtr:abstractText><gtr:fund><gtr:end>2017-09-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2016-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>249999</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720780</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

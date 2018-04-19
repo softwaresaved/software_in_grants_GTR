@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/961756BF-E31F-4A13-836F-0A09BA02385C"><gtr:id>961756BF-E31F-4A13-836F-0A09BA02385C</gtr:id><gtr:name>University of Exeter</gtr:name><gtr:department>School of Law</gtr:department><gtr:address><gtr:line1>University of Exeter</gtr:line1><gtr:line2>Clydesdale House</gtr:line2><gtr:line3>Clydesdale Road</gtr:line3><gtr:line4>Exeter</gtr:line4><gtr:postCode>EX4 4QX</gtr:postCode><gtr:region>South West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/961756BF-E31F-4A13-836F-0A09BA02385C"><gtr:id>961756BF-E31F-4A13-836F-0A09BA02385C</gtr:id><gtr:name>University of Exeter</gtr:name><gtr:address><gtr:line1>University of Exeter</gtr:line1><gtr:line2>Clydesdale House</gtr:line2><gtr:line3>Clydesdale Road</gtr:line3><gtr:line4>Exeter</gtr:line4><gtr:postCode>EX4 4QX</gtr:postCode><gtr:region>South West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/B9001B38-633B-49C6-A672-0B64479502BA"><gtr:id>B9001B38-633B-49C6-A672-0B64479502BA</gtr:id><gtr:firstName>Karen</gtr:firstName><gtr:surname>McAuliffe</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/07F2F433-ABF7-4531-8641-988BD30D4345"><gtr:id>07F2F433-ABF7-4531-8641-988BD30D4345</gtr:id><gtr:firstName>Atina</gtr:firstName><gtr:surname>Krajewska</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/8EBBAE1E-6CC4-47DD-BF8B-8D5CC2F1B8BB"><gtr:id>8EBBAE1E-6CC4-47DD-BF8B-8D5CC2F1B8BB</gtr:id><gtr:firstName>Huw</gtr:firstName><gtr:surname>Williams</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=ES%2FI00212X%2F1"><gtr:id>815E728A-9119-4534-BC02-8E9F3F0646D9</gtr:id><gtr:title>Developmental Social Neuroscience, Ethics and the Law: Challenges to legal perspectives in the UK and Europe</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>ES/I00212X/1</gtr:grantReference><gtr:abstractText>&lt;p>Advances in developmental neuroscience have shown that 'adult-like' brain systems - i.e. those required for sophisticated appraisal of one's actions and potential consequences of such actions - do not become fully mature until later stages of adolescence. Furthermore, such maturity can be affected by adversity and injury.&amp;nbsp; In the long term this can mean the compromising of key neurological functions - in particular, the capacity to consider complex decisions relating to one's own welfare and real engagement in society. Both adversity and injury have been shown to be common in children who offend (and re-offend).&amp;nbsp;&lt;/p>
+
+&lt;p>However, studies have shown that children who receive adequate treatment for such injuries or illnesses at an early stage in their development may deal more succesfully with social integration at a later stage - such as children provided with rehabilitation after brain injury may avoid violent offending.&amp;nbsp;&lt;/p>
+
+&lt;p>This seminar series brought together specialists from the fields of neuroscience, law and policymaking, to address questions relating to brain development, neurological injury and the law - sharing advances in the neuroscience of developmental conditions; exploring the legal implications of such advances at national and EU levels and considering how regulation of neuroscience could be improved at those levels.&lt;br />&lt;br />&amp;nbsp;&lt;/p></gtr:abstractText><gtr:fund><gtr:end>2012-09-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/924BE15C-91F2-4AAD-941A-3F338324B6AE"><gtr:id>924BE15C-91F2-4AAD-941A-3F338324B6AE</gtr:id><gtr:name>ESRC</gtr:name></gtr:funder><gtr:start>2011-07-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>16307</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs><gtr:disseminationOutput><gtr:description>Questions being asked at APPG</gtr:description><gtr:form>A formal working group, expert panel or dialogue</gtr:form><gtr:geographicReach>National</gtr:geographicReach><gtr:id>3C58B7F5-D200-4749-9DD5-B0E3FD0B62BF</gtr:id><gtr:impact>The OCC and BCC reports directly led to questions being asked regarding the suitability of the age of criminal responsibility at the APPG on Penal Reform meetings
+
+POST is producing a report for MPs on the age of criminal responsibility in England and Wales. The grant holders have been asked to contribute to this review</gtr:impact><gtr:outcomeId>5464a221737cc0.86894544</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Policymakers/parliamentarians</gtr:primaryAudience><gtr:year>2012</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>CYPSS project</gtr:description><gtr:form>A formal working group, expert panel or dialogue</gtr:form><gtr:geographicReach>National</gtr:geographicReach><gtr:id>A813263E-F69C-4822-84C5-4D26D96D1CCE</gtr:id><gtr:impact>As a result of the seminar series and the OCC report, Williams (CI) has been invited onto the working group for Intercollegiate Standards for Children and Young People in Secure Settings (CYPSS) project. This working group aims to develop standards for the planning and provision of healthcare for children and young people in secure training centres, young offender institutions and secure children's homes.
+
+Those standards are likely to be rolled out in 2013-14.</gtr:impact><gtr:outcomeId>5464a2e1e1ba47.10267376</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Policymakers/parliamentarians</gtr:primaryAudience><gtr:year>2013</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>presentations online</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:geographicReach>National</gtr:geographicReach><gtr:id>30B34159-4AE9-42D7-B9D5-9FAA7C6F946C</gtr:id><gtr:impact>Presentations were given in the UK Houses of Parliament (hosted by the Parliamentary Office for Science and Technology)
+
+POST is producing a report for MPs on the age of criminal responsibility in England and Wales. The grant holders have been asked to contribute to this review</gtr:impact><gtr:outcomeId>5464a107781fa0.77943975</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Policymakers/parliamentarians</gtr:primaryAudience><gtr:url>http://www.exeter.ac.uk/research/inspiring/neuroscienceandlaw/esrc/seminar/</gtr:url><gtr:year>2012</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>web resource</gtr:description><gtr:form>A magazine, newsletter or online publication</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>10843AFD-FAD8-4252-B37C-9FD46E9981A2</gtr:id><gtr:impact>A web resource was created (www.exeter.ac.uk/neuroscienceandlaw) containing details of the seminar series, key themes, resources and links as well as media coverage of our research. This resource is intended to be a 'hub' for the networks developed through the seminar series to allow for further collaboration in this area.
+
+We continue to receive emails from academics and potential PhD students regarding our web resource</gtr:impact><gtr:outcomeId>5464a030e63b23.81954706</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Public/other audiences</gtr:primaryAudience><gtr:url>http://www.exeter.ac.uk/neuroscienceandlaw</gtr:url><gtr:year>2012,2013</gtr:year></gtr:disseminationOutput></gtr:disseminationOutputs><gtr:exploitationOutputs/><gtr:furtherFundingOutputs><gtr:furtherFundingOutput><gtr:amountPounds>2000</gtr:amountPounds><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:currCode>GBP</gtr:currCode><gtr:currCountryCode>United Kingdom</gtr:currCountryCode><gtr:currLang>en_GB</gtr:currLang><gtr:description>Invited Policy Review</gtr:description><gtr:end>2012-12-02</gtr:end><gtr:fundingOrg>Barrow Cadbury Trust</gtr:fundingOrg><gtr:id>C5FAB708-C644-4B67-8511-73A735627070</gtr:id><gtr:outcomeId>54649f11312719.44464794</gtr:outcomeId><gtr:sector>Charity/Non Profit</gtr:sector><gtr:start>2012-06-01</gtr:start></gtr:furtherFundingOutput></gtr:furtherFundingOutputs><gtr:impactSummaryOutputs><gtr:impactSummaryOutput><gtr:description>Title
+Developmental Social Neuroscience, Ethics and the Law: Challenges to legal perspectives in the UK and Europe
+
+Description
+
+This is the impact report for a seminar series on developmental social neuroscience, ethic and the law. Advances in developmental neuroscience have shown that 'adult-like' brain systems - i.e. those required for sophisticated appraisal of one's actions and potential consequences of such actions - do not become fully mature until later stages of adolescence. Furthermore, such maturity can be affected by adversity and injury. In the long term this can mean the compromising of key neurological functions - in particular, the capacity to consider complex decisions relating to one's own welfare and real engagement in society. Both adversity and injury have been shown to be common in children who offend (and re-offend). However, studies have shown that children who receive adequate treatment for such injuries of illnesses at an early stage in their development may deal more successfully with social integration at a later stage - such as children provided with rehabilitation after brain injury may avoid violent reoffending. This seminar series brought together specialists from the fields of neuroscience, law and policymaking, to address questions relating to brain development, neurological injury and the law - sharing advances in the neuroscience of developmental conditions; exploring the legal implications of such advances at national and EU levels and considering how regulation of neuroscience could be improved at those levels.
+
+Language
+
+English
+
+Contributers
+
+Karen McAuliffe, Exeter University
+Huw Williams, Exeter University
+Atina Krajewska, Cardiff University
+
+
+
+
+ 
+II. DETAIL OF IMPACT GENERATED
+
+
+A. SCIENTIFIC IMPACT
+
+Summarise the scientific impact
+
+By bringing together lead scientists, researchers, policymakers and lawmakers to share advances in the neuroscience of developmental conditions and explore their legal implications, significant cross-disciplinary understanding has been achieved. This is particularly vital in case where a juvenile comes into contact with the criminal justice system. New research networks have been developed between:
+? Researchers in neuroscience and law, clinicians from psychology, psychiatry, neurology, lawyers and policymakers;
+? Academic researchers and researchers in the Parliamentary Office of Science and Technology;
+? Academic researchers at Exeter University and the European Commission (DG Research)
+
+
+Outline findings and outputs that have had scientific impact
+
+? Web resource: www.exeter.ac.uk/neuroscienceandlaw
+? Summary document (available on www.exeter.ac.uk/neuroscienceandlaw)
+? Pdf and audio files (available on www.exeter.ac.uk/neuroscienceandlaw)
+
+
+Outline how these impacts were achieved
+
+A web resource was created (www.exeter.ac.uk/neuroscienceandlaw) containing details of the seminar series, key themes, resources and links as well as media coverage of our research. This resource is intended to be a 'hub' for the networks developed through the seminar series to allow for further collaboration in this area.
+
+A summary document was produced, which is available on that website. From that summary document network members can produce consensus reviews of relevant areas, allowing the development of research questions (for funding applications) relevant to understanding youth at risk, vulnerability in the criminal justice system etc. Grants currently being prepared include an ESRC Centre Grant to explore social and early experiences and links to risk behaviour
+
+Pdf and audio files of presentations of speakers at the seminar series were published online at www.exeter.ac.uk/neuroscienceandlaw and on the website of the Parliamentary Office for Science and Technology
+
+
+
+Outline who the findings and impacts have had an impact upon
+
+
+? Academic researchers from the fields of law, neuroscience, psychology, psychiatry, neurology, policy
+? Parliamentary Office for Science and Technology
+? International Juvenile Justice Observatory
+? European Commission (DG Research)
+? Legal practitioners who work with youth offenders
+? Judges
+
+
+
+
+B. ECONOMIC AND SOCIETAL IMPACT
+
+
+Summarise the economic and societal impact
+
+1. Barrow-Cadbury Trust (BCT) report launched by APPG on Penal Affairs
+2. Input into Children and Families Bill (2013)
+3. Questions asked at All Party Parliamentary Group (APPG) on Penal Reform meetings
+4. Establishment of the Criminal Justice and Acquired Brain Injury Group (CJABIG)
+5. Involvement on CYPSS project [see section on future impact below]
+6. Parliamentary Office for Science and Technology (POST) to produce a report on age of criminal responsibility
+7. Revision of assessment procedures by Youth Justice Board (YJB)
+8. Involvement with preparatory research for proposed EU Directive on special safeguards for accused or suspected persons who are vulnerable
+9. Reference to our research by Minister for Justice, Chris Grayling MP
+
+
+
+Outline findings and outputs that have had economic and societal impact
+
+
+? The Barrow Cadbury Trust (BCT) invited Williams (CI) and McAuliffe (PI) to submit a policy review (publication of which was funded by the BCT). 
+? Williams (CI) and Hughes (Birmingham University - seminar series participant) were invited to write a review for the Office of the Children's Commissioner (OCC). A number of members of the network developed through the ESRC seminar series contributed to that review, which was launched in October 2012.
+? Pdf and audio files of presentations of speakers at the seminar series were published online at www.exeter.ac.uk/neuroscienceandlaw and on the POST website.
+
+
+Outline how these impacts were achieved
+
+
+The BCT report was launched in Parliament in 2012 and was disseminated across parliamentary groups. Recommendations have been circulated to over 200 MPs and members of the HoL to inform the Children and Families Bill (2013). The Minister for Justice, Chris Grayling MP subsequently referred to aspects of the research in the context of addressing the &amp;pound;10 billion p.a. spend on repeat offending. [1,2, 9]
+
+The OCC report identified a staggeringly high number of children at risk. This led to the OCC inviting further input from our research team for disseminating these findings to key stakeholders, including the Youth Justice Board (YJB) and National Offender Management Services [7]
+
+Those reports directly led to questions being asked regarding the suitability of the age of criminal responsibility at the APPG on Penal Reform meetings [3]
+
+POST is producing a report for MPs on the age of criminal responsibility in England and Wales. The grant holders have been asked to contribute to this review [6]
+
+The CJABIG (co-chaired by Williams), established following the seminar series, is a consortium of charities created to develop evidence base and policy links in the field [4]
+
+The YJB, assisted by Williams, has reviewed its assessment procedures which now include a screening system for TBI considerations [7]
+
+McAuliffe was invited to present the research to the office of the European Commissioner for Research, Innovation and Science, M&amp;aacute;ire Geoghegan Quinn.
+
+The European Commission (DG Justice) has requested the findings, summary document and reports/reviews emerging from the ESRC seminar series in order to take account of them in the drafting of the upcoming EU directive on special safeguards for accused or suspected persons who are vulnerable. McAuliffe has been asked to continue to liaise with the drafters and translators of that proposed directive. [8]
+
+The above policy work has been reinforced with widespread media coverage (See www.exeter.ac.uk/neuroscienceandlaw)
+
+
+
+
+Outline who the findings and impacts have had an impact upon
+
+Criminal Justice and Acquired Brain Injury Group (CJABIG)
+? Headway UK
+? Child Brain Injury Trust
+? Encephalitis Society
+? Barrow-Cadbury Trust
+? Howard League
+? Prison Reform Trust
+
+Youth Justice Board
+Office of the Children's Commissioner
+Barrow-Cadbury Trust
+Essex Brain Injury Services
+British Psychological Society
+Parliamentary Office for Science and Technology
+Disabilities Trust
+Royal Colleges of Psychiatry, Paediatrics and Child Health and General Practitioners
+Lord Ramsbotham (chaired one of the seminars and consequently is now Chair of the Criminal Justice and Acquired Brain Injury Group, House of Lords)
+Chris Grayling MP, Secretary of State for Justice (see 'Crime in Context' speech, June 2013 - https://www.gov.uk/government/speeches/crime-in-context-speech)
+International Juvenile Justice Observatory (Brussels)
+European Commission (DG Justice, DG Translation, DG Research)
+
+
+
+
+
+C. UNEXPECTED AND POTENTIAL FUTURE IMPACTS
+
+Unexpected impacts
+
+[none]
+
+
+Potential future impacts 
+
+As a result of the seminar series and the OCC report, Williams (CI) has been invited onto the working group for Intercollegiate Standards for Children and Young People in Secure Settings (CYPSS) project. This working group aims to develop standards for the planning and provision of healthcare for children and young people in secure training centres, young offender institutions and secure children's homes. Those standards are likely to be rolled out in 2013-14. [5]
+
+The Parliamentary Office for Science and Technology will produce a report in 2013 on the age of criminal responsibility in England and Wales. McAuliffe (PI) and Williams (CI) have been asked to assist with that report.
+
+McAuliffe (PI) will continue to work closely with colleague at the European Commission and Council in relation to the drafting of secondary EU legislation such as the proposed EU directive on special safeguards for accused or suspected persons who are vulnerable.
+
+A number of further grant applications are being prepared, including an ESRC Centre Grant to explore social and early experiences and links to risk behaviour.</gtr:description><gtr:firstYearOfImpact>2012</gtr:firstYearOfImpact><gtr:id>1F6C677A-F838-43D2-9992-373F52EF7717</gtr:id><gtr:impactTypes><gtr:impactType>Policy &amp; public services</gtr:impactType></gtr:impactTypes><gtr:outcomeId>54649700d13746.35680331</gtr:outcomeId><gtr:sector>Healthcare,Government, Democracy and Justice</gtr:sector></gtr:impactSummaryOutput></gtr:impactSummaryOutputs><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>Advances in developmental neuroscience have shown that 'adult-like' brain systems - i.e. those required for sophisticated appraisal of one's actions and potential consequences of such actions - do not become fully mature until later stages of adolescence. Furthermore, such maturity can be affected by adversity and injury. In the long term this can mean the compromising of key neurological functions - in particular, the capacity to consider complex decisions relating to one's own welfare and real engagement in society. Both adversity and injury have been shown to be common in children who offend (and re-offend). However, studies have shown that children who receive adequate treatment for such injuries or illnesses at an early stage in their development may deal more successfully with social integration at a later stage - such as children provided with rehabilitation after brain injury may avoid violent offending. This seminar series brought together specialists from the fields of neuroscience, law and policymaking, to address questions relating to brain development, neurological injury and the law - sharing advances in the neuroscience of developmental conditions; exploring the legal implications of such advances at national and EU levels and considering how regulation of neuroscience could be improved at those levels.
+
+Outcomes achieved and activities arising
+As a result of the seminar series, the following outcomes were achieved:
+o A web resource was created (www.exeter.ac.uk/neuroscienceandlaw) containing details of the seminar series, key themes, resources and links and media coverage of our research. This resource is intended to be a 'hub' for the networks developed through the seminar series to allow for further collaboration in this area.
+o A summary document has been written, which is available on that website. From that summary document the investigators will produce consensus reviews of relevant areas, allowing the development of research questions (for funding applications) relevant to understanding youth at risk, vulnerability in the criminal justice system etc.
+o Pdf and audio files of presentations of speakers at the seminar series were published online at www.exeter.ac.uk/neuroscienceandlaw and on the POST website.
+o The Barrow Cadbury Trust invited Williams (CI) and McAuliffe (PI) to submit a policy review (publication of which was funded by the BCT). That review was launched by the APPG on Penal Affairs in Parliament in December 2012. The review has been disseminated to policymakers across parliamentary groups on penal reform in the context of forthcoming bills relevant to this work for children at risk for neuro-developmental disorder - for example, the forthcoming Childhood Family Bill in which where will be an opportunity to raise the need for early/improved assessment of affected children.
+o Williams (CI) and Hughes (Birmingham University - see list of participants above) were invited to write a review for the Office of the Children's Commissioner. A number of members of the network developed through the ESRC seminar series contributed to that review, which was launched in October 2012. That review identified a staggeringly high number of children at risk which then led to the OCC inviting further input from our research tem for disseminating these findings to key stakeholders, including the Youth Justice Board and National Offender Management Services, so that those stakeholders could achieve an improved understanding of how to identify children at risk and how best to provide for their education/healthcare needs etc.
+o In response to the findings of the ESRC seminar series, the Parliamentary Office for Science and Technology has been tasked with forming a report for MPs in 2013 on the age of criminal responsibility in England and Wales. The ESRC seminar series grantholders have been asked to contribute to this research.
+
+Level of demand for participation in the seminar series
+Demand for participation in the seminar series was very high. On average, 70-80 people attended each of seminars 1, 2 and 4. Seminars 3 and 5 were deliberately kept at a smaller number due to the nature of those seminars and tasks to be achieved therein. The seminar series was recommended to and incorporated into the schedule for students on UCL's clinical paediatric neuropsychology programme. A number of charities and other organisations became increasingly involved in the seminar series as it progressed, including: Barrow Cadbury Trust, Office of the Children's Commissioner, Youth Justice Board and National Offender Management Services.
+
+Summary of feedback from participants
+Feedback from participants was excellent overall as evidenced by the early impact evaluation below.</gtr:description><gtr:exploitationPathways>EARLY IMPACT EVALUATION
+
+Scientific Impact
+o A new research network on developmental neuroscience and law has been developed as a result of the seminar series. The web resource at www.exeter.ac.uk/neuroscienceandlaw is a 'hub' for that network to allow for further collaboration in this area.
+o By bringing together lead scientists, researchers, policymakers and lawmakers to share advances in the neuroscience of developmental conditions and explore their legal implications, significant cross-disciplinary understanding has been achieved. This is particularly vital in cases where a juvenile comes into contact with the criminal justice system.
+
+Economic and Societal Impact
+o The reports produced for the Barrow Cadbury Trust and the Office of the Children's Commissioner directly led to questions being asked regarding the suitability of the age of criminal responsibility at All Party Parliamentary Group on Penal Reform meetings.
+o The BCT report was launched by the APPG on Penal Affairs in Parliament in December 2012. The recommendations have been circulated to over 200 MPs and members of the House of Lords in preparation for inclusion in the Children and Families Bill (2013) referring to neuro-disabilities diagnosed in vulnerable children.
+o As a result of the OCC report, Huw Williams (CI) has been invited onto the working group for Intercollegiate Standards for Children and Young People in Secure Settings (CYPSS) project. This will develop standards for the planning and provision of healthcare for children and young people in secure training centres, young offender institutions and secure children's homes.
+o In response to the ESRC seminar series and the findings of that series as reported on in the above publications, the Parliamentary Office for Science and Technology has been tasked with forming a report for MPs in 2013 on the age of criminal responsibility in England and Wales. The ESRC seminar series grantholders have been asked to contribute to this research.
+o Following the ESRC seminar series, Huw Williams (CI) is assisting the Youth Justice Board with assessment procedures, including a screening system which is being piloted within the Board. A revised version of the general assessment system for young offenders (CHAT) is being written to include TBI considerations.
+o The European Commission (DG Justice) have requested the findings, summary document and reports/reviews emerging from the ESRC seminar series in order to take account of them in the drafting of the upcoming EU directive on special safeguards for accused or suspected persons who are vulnerable. Karen McAuliffe (PI) has been requested to continue to work and liaise with the drafters and translators of that proposed directive into 2013.
+
+The above policy work has been reinforced with widespread media coverage (e.g. Oct 2012: BBC R4 Today; The Independent; The Guardian. See www.exeter.ac.uk/neuroscienceandlaw for further media links.)</gtr:exploitationPathways><gtr:id>232F1AF4-EABF-4F41-8845-F031C756EAB2</gtr:id><gtr:outcomeId>54649655a44772.72414300</gtr:outcomeId><gtr:sectors><gtr:sector>Education,Healthcare,Government, Democracy and Justice</gtr:sector></gtr:sectors><gtr:url>http://www.exeter.ac.uk/neuroscienceandlaw</gtr:url></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs><gtr:policyInfluenceOutput><gtr:areas/><gtr:description>Revision of assessment procedures by Youth Justice Board</gtr:description><gtr:geographicReach>National</gtr:geographicReach><gtr:id>B9251067-D2A2-4B45-A4CE-1AC0309DBBD4</gtr:id><gtr:impact>The YJB, assisted by Williams, has reviewed its assessment procedures which now include a screening system for TBI considerations.</gtr:impact><gtr:outcomeId>54649c8652f553.94653473</gtr:outcomeId><gtr:type>Influenced training of practitioners or researchers</gtr:type></gtr:policyInfluenceOutput></gtr:policyInfluenceOutputs><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication><gtr:id>BE34C9CB-CE54-47BC-9124-734C45AD8911</gtr:id><gtr:title>Repairing Shattered Lives: Brain Injury and its Implications for Criminal Justice</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/db90bea6afb57b3e338699dd2681fe92"><gtr:id>db90bea6afb57b3e338699dd2681fe92</gtr:id><gtr:otherNames>Williams H</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date><gtr:outcomeId>54649978d15f71.89207170</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>67DD9977-AC8C-40B2-B617-ABE5E68BE5D2</gtr:id><gtr:title>Nobody made the connection: The prevalence of neurodisability in young people who offend</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/f15defd38c92abd444a1b8d1da3c2f17"><gtr:id>f15defd38c92abd444a1b8d1da3c2f17</gtr:id><gtr:otherNames>Hughes N</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date><gtr:outcomeId>54649a84746678.12226685</gtr:outcomeId></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">ES/I00212X/1</gtr:identifier><gtr:identifier type="RES">RES-451-26-0872</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>4511FB20-8392-418E-809D-7701FACC03C9</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Law &amp; legal studies</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>B94A2498-60DA-4055-A957-686B6CB42654</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Linguistics</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>5858EC49-4786-4440-8352-1AB0B6DC5F23</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Psychology</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>12179D88-04B3-47E9-89E1-B5EE8F895227</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Social Policy</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>28710E94-8B47-404A-BD40-7BCB8C709774</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Linguistics (General)</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>5858EC49-4786-4440-8352-1AB0B6DC5F23</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Psychology</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>12179D88-04B3-47E9-89E1-B5EE8F895227</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Social Policy</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>B75590D5-E385-45F1-B6D0-CC3EDEFDE67D</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Socio Legal Studies</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

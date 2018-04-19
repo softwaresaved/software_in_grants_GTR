@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/83D87776-5958-42AE-889D-B8AECF16B468"><gtr:id>83D87776-5958-42AE-889D-B8AECF16B468</gtr:id><gtr:name>University of Leeds</gtr:name><gtr:department>School of Food Science and Nutrition</gtr:department><gtr:address><gtr:line1>University of Leeds</gtr:line1><gtr:line4>Leeds</gtr:line4><gtr:line5>West Yorkshire</gtr:line5><gtr:postCode>LS2 9JT</gtr:postCode><gtr:region>Yorkshire and The Humber</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/83D87776-5958-42AE-889D-B8AECF16B468"><gtr:id>83D87776-5958-42AE-889D-B8AECF16B468</gtr:id><gtr:name>University of Leeds</gtr:name><gtr:address><gtr:line1>University of Leeds</gtr:line1><gtr:line4>Leeds</gtr:line4><gtr:line5>West Yorkshire</gtr:line5><gtr:postCode>LS2 9JT</gtr:postCode><gtr:region>Yorkshire and The Humber</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/E6D3DACA-5BC3-4291-9DF7-66C24FE05DF0"><gtr:id>E6D3DACA-5BC3-4291-9DF7-66C24FE05DF0</gtr:id><gtr:firstName>Brent Stuart</gtr:firstName><gtr:surname>Murray</gtr:surname><gtr:orcidId>0000-0002-6493-1547</gtr:orcidId><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=EP%2FJ501694%2F1"><gtr:id>AC9DACDE-EB3D-4AE7-B4BD-33D44FAF895A</gtr:id><gtr:title>Innovative fat reduction in chilled products using fresh mayonnaise</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/J501694/1</gtr:grantReference><gtr:abstractText>Bakkavor have developed a new low fat mayonnaise (LFM) that shows great promise in providing similar mouth feel to
+traditional (higher fat) mayonnaise. However, on contact with certain vegetable ingredients - namely onions, garlic, chives
+or cabbage - the LFM starts to go extremely thick and viscous, giving the whole product the appearance of a gel which
+precludes the use of this mayonnaise in many dips, dressings, dressed salads and other applications such as sandwich
+fillings that also include these ingredients. This phenomenon has not been documented previously, so its origin is a
+mystery at present.
+
+Mayonnaise is a concentrated emulsion of oil droplets in a watery phase containing egg yolk and various other minor
+ingredients, although the new LFM also contains added polysaccharide thickeners. As such, the instability is almost
+certainly related to strong aggregation of the oil droplets and/or other ingredients within the formulation. Aggregation could
+occur via: (a) the vegetable ingredients adding components to the aqueous phase that significantly decrease the repulsive
+forces between the droplets or (b) the ingredients adding some extra cross-linking agent that strongly and irreversibly pulls
+the droplets together. The principal aim is therefore to establish whether mechanisms (a) and/or (b) are operating in order
+to suggest a viable commercial solution to this problem.
+
+Mechanism (a) will be revealed through observations of the microscopic structure of the system and measurements on the
+aggregation tendency of the droplets under controlled conditions. The change in the full apparent droplet size distribution
+will be evaluated using various light scattering techniques in our laboratory. The surface charge properties of the the
+droplets in selected systems will also be measured. Changes in the droplet size when samples are subjected to dilution
+with simply water or detergents will be used. This can distinguish between very strongly aggregated droplets, which
+appear still as large particles on dilution, versus weakly aggregated droplets that separate simply on dilution with water. A
+possible mechanism of the gelation via (a) is the high ratio of polysaccharide thickeners to droplets, resulting in so-called
+depletion flocculation (aggregation) of the system, but this should be entirely reversible on dilution. Droplet 'charge' (zeta
+potential) measurements will provide evidence of any significant change in the surface structure or composition of the
+stabilizing layer on the droplets that could help to explain their dramatic change in stability.
+
+Mechanism (b) may be biochemical, since onions, garlic and chives are all produce enzyme (alliinase) activity on
+Page 2 of 10 Date Saved: 02/08/2011 08:58:53
+Date Printed: 02/08/2011 08:59:45
+Proposal original proforma document
+Impact Summary
+Impact Summary (please refer to the help for guidance on what to consider when completing this section) [up to 4000 chars]
+cutting/crushing that can produce free sulphydryl compounds that could cross-link the protein present (protein in the
+aqueous phase or adsorbed to the droplet surfaces) and produce the gelation observed. Cabbage and other Brassica spp.
+produce reactive isothiocyanates, nitriles, thiocyanates and also other sulphur species via the action of myrosinase
+enzymes, so there is again the capability for protein cross-linking. Cross-linking reactions with the cellulose,
+hemicelluloses and pectin components of the polysaccharide thickeners have not been documented, but the
+polysaccharide may aid the formation of strong gels as they become incorporated into a cross-linking protein network.
+The above measurements will therefore be performed on formulations where potential cross-linking agents are present or
+absent. For example: whole onion puree, filtrate from filtered onion puree, enzyme-inactivated filtrate. Enzymes will be
+deactivated by various heat treatments and or addition of cross-linking blocking agents. If the evidence does point to some
+sort protein polymerization by enzymes more direct evidence for this will be sought via electrophoretic separation (SDSPAGE),
+which can detect an increase in molecular weight of protein species.</gtr:abstractText><gtr:potentialImpactText>Economic and Societal Impact
+
+Solving the gelation problem will allow Bakkavor to exploit the novel technology in a much wider range of products
+containing the 'problem' vegetables, i.e., the vast majority of their relevant product categories (a market worth &amp;pound; 200m).
+The food industry needs to reduce the fat content of its products without compromise to consumer enjoyment. A new low
+fat mayonnaise capable of use in fresh vegetable-based salads and dips would enhance the quality of life, health and wellbeing
+through: reducing the fat intake of existing consumers in the region of 3 million kgs per year; making dressed salad
+and dips more appealing to consumers currently worried about high fat; increasing vegetable consumption (by around 2000
+tonnes).
+
+The low-fat product range, estimated value &amp;pound;10m per annum, will contribute to wealth creation and economic prosperity,
+enhancing business revenue and innovative capacity plus improved profitability as the lower fat content will reduce the cost
+of manufacture. Competition from Continental European manufacturers is increasing, but successful adoption of this novel
+technology could add value to UK production and create a barrier to entry, protecting UK manufacturing, safeguarding
+employment and associated services. The technology has the potential to be licensed for production in Europe, Asia and
+USA, potentially attracting R&amp;amp;D investment from global business. The environmental impact of the products will be
+lessened by reducing the amount of oil required to make each pot, contributing toward environmental sustainability and
+impact reduction, since inevitably there is always some product wastage and spillage.
+Identification of the source of the problem will be clearly of great commercial benefit, but will also enhance the research
+capacity, knowledge and skills of the Food Technology personnel involved at Bakkavor for further non-academic
+commercialisation and exploitation of scientific knowledge. Thisill be of long-lasting impact and benefit to the company,
+but also encourage greater interaction between the food industry and academics.
+
+Since the research is industry-led, it should provide an excellent opportunity to educate students and the general public as
+to the nature and benefits of such collaborative research, contributing to increasing public awareness and understanding of
+science and also aid recruitment of strong science students to the Food Science discipline in the UK.
+Academic Impact
+The research will provide new knowledge and scientific advancement, suitable for publication in high quality, high impact
+journals. Plus further opportunity to investigate wider aspects of the gelation phenomenon, potentially leading to new and
+innovative methodologies and cross-disciplinary approaches. For example, there is the potential to cross-link adsorbed
+protein layers with soluble or insoluble plant fibre materials that could impact on many different products and different
+industries. The Food Colloids Group have been studying such (non-cross-linked) combinations for some time. If the
+gelation is due to the unique combination of these ingredients, this could provide a completely natural but novel way to
+cross-link adsorbed films that could lead to many other applications, for example multilayer barriers for influence of
+emulsion droplet digestion kinetics. This could impact on the obesity problem, which is an issue of global importance, in an
+entirely different sense. In addition, there is a need for improved emulsion and foam stabilization, or new encapsulating
+films for other water-insoluble food ingredients, such as flavour and colour molecules, non-water-soluble vitamins,
+flavonoids, or for pharmaceuticals. This could attract further R&amp;amp;D investment from global business. Finally, the post will provide excellent research training for a new post-doc to enable them to pursue academic research or more applied
+research within industry.</gtr:potentialImpactText><gtr:fund><gtr:end>2013-10-22</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2012-04-23</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>100262</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>We discovered the origin of unwanted gelation in certain products containing low fat mayonnaise.
+We found a way of preventing this but at the time of writing (after the award ended) we still do not know if the Company has managed to implement this solution on an industrial scale.</gtr:description><gtr:exploitationPathways>Hopefully the solution we found will be implemented eventually. We have also discussed how the gelling effect could be turned to advantage in other products. Again, the Company had started to explore this with some of their suppliers, but the grant ended before we were made aware of this was carried forward.
+In principle the gelation mechanism could be of wide benefit in thickening and stabilizing materials but at the time the Company was still looking into patenting of the idea.
+The potential for patenting is still preventing publication of the results in the open literature.</gtr:exploitationPathways><gtr:id>43EEA782-5DB0-490F-88FB-45C3A87B7EE1</gtr:id><gtr:outcomeId>5460de64bd9cd4.23471916</gtr:outcomeId><gtr:sectors><gtr:sector>Agriculture, Food and Drink</gtr:sector></gtr:sectors></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">EP/J501694/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>863FC58A-7217-42EA-B076-663F2D770BB8</gtr:id><gtr:percentage>40</gtr:percentage><gtr:text>Chemical measurement</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>455F5D87-6317-4EF0-9D74-72B5D9BD6375</gtr:id><gtr:percentage>60</gtr:percentage><gtr:text>Food science &amp; nutrition</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>98EA7556-1427-44F9-84F3-BF99B7207302</gtr:id><gtr:percentage>40</gtr:percentage><gtr:text>Analytical Science</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>C7A88EDD-F02E-4CF4-B7E9-E33C946EBD49</gtr:id><gtr:percentage>60</gtr:percentage><gtr:text>Food processing</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

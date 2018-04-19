@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/936D002F-A8D1-4A93-AE5D-825ED0903D8D"><gtr:id>936D002F-A8D1-4A93-AE5D-825ED0903D8D</gtr:id><gtr:name>University of Nottingham</gtr:name><gtr:department>School of Computer Science</gtr:department><gtr:address><gtr:line1>University Park</gtr:line1><gtr:line4>Nottingham</gtr:line4><gtr:line5>Nottinghamshire</gtr:line5><gtr:postCode>NG7 2RD</gtr:postCode><gtr:region>East Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/936D002F-A8D1-4A93-AE5D-825ED0903D8D"><gtr:id>936D002F-A8D1-4A93-AE5D-825ED0903D8D</gtr:id><gtr:name>University of Nottingham</gtr:name><gtr:address><gtr:line1>University Park</gtr:line1><gtr:line4>Nottingham</gtr:line4><gtr:line5>Nottinghamshire</gtr:line5><gtr:postCode>NG7 2RD</gtr:postCode><gtr:region>East Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/37117512-5047-4EB4-AA8E-F2475FB9D5FE"><gtr:id>37117512-5047-4EB4-AA8E-F2475FB9D5FE</gtr:id><gtr:firstName>Uwe</gtr:firstName><gtr:surname>Aickelin</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=EP%2FD036623%2F1"><gtr:id>530DEA1C-D7EF-4206-83F6-34417CD96C48</gtr:id><gtr:title>IDEAS Factory Productivity Network - Closing the Gap, Crossing the Levels</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/D036623/1</gtr:grantReference><gtr:abstractText>The IDEAS factory network is a very important (if not the most important) outcome of the productivity sandpit. It should keep the sandpit momentum alive, serve as a quality check and repository of knowledge and data, facilitate communication between members, projects and others interested in productivity and make sure an inter-disciplinary perspective is upheld at all times.</gtr:abstractText><gtr:fund><gtr:end>2009-06-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2006-01-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>109685</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs><gtr:impactSummaryOutput><gtr:description>12 workshops were held as part of the network</gtr:description><gtr:id>50F00B84-5BC2-4F80-8050-A6BA56684427</gtr:id><gtr:impactTypes/><gtr:outcomeId>545a38681e4250.97396219</gtr:outcomeId></gtr:impactSummaryOutput></gtr:impactSummaryOutputs><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>DATE LOCATION DESCRIPTION GUEST SPEAKERS
+ 
+28th/29th September 2005 London Advisory Board Meeting followed by day of presentations from all projects Susy Johnson - AIM Research
+ Advisory Members were present 
+ 
+24th/25th January 2006 Nottingham Guest speakers and individual project progress in Nottingham Felix Richie
+ Ray Lambert
+ Keith Whitfield
+ 
+25th/26th April 2006 Brighton Discuss Literature Review and progress on Individual projects in Brighton no guest speakers
+ 
+11th July 2006 London Full meeting for all projects with EPSRC and Advisors present in London Andrew Clark
+ Keith Whitfield
+ Melody Guy
+ Susan Morrell - EPSRC
+ 
+23rd/24th October 2006 Birmingham Project catch up meeting with Guest Speakers in Aston University Prof John Saunders 
+ Aston University
+ Kevin Johnson 
+ Urban Communications Ltd
+ 
+26th/27th February 2007 Leeds Retail Case Studies no guest speakers
+ 
+16th/17th April 2007 Nottingham AIM Summer School Robin Wensley
+ John Bessant
+ Senior Fellows 
+ Public Service Fellows 
+ Research Fellows
+ Ideas Factory Fellows
+ Ghoshal Fellows 
+ 
+17th September 2007 London Grant Proposal Writing Day no guest speakers
+ 
+6th November 2007 London Follow on Grant Proposal Writing Day in London no guest speakers
+ 
+12th February 2008 London Retail Day - Keith Whitfield attended also Ian Clarke
+ Jonathan Haskel
+ Rachel Griffiths
+ 
+4th June 2008 London Retail Seminar Helen Celia, University of Leeds
+ Dr Alfonsina Iona, University of Aston
+ Stuart Russell, Russell's Patisserie
+ Gavenna Gibson, Lush
+ Dr Peer Olaf-Siebers, Nottingham
+ 
+30th September 2008 Manchester Retailing in the 21st Century Helen Celia (Leeds University) 
+ The Lowry Irena Grugulis (Bradford University), 
+ ?d?l Bozkurt (Lancaster University) 
+ Jeremy Clegg (Leeds University) 
+ Prue Huddleston (University of Warwick) 
+ Jos Gamble (Royal Holloway)
+ Geoff Mason 
+ Neil Coe 
+ Steve Burt 
+ John Dawson 
+ Michelle Lowe</gtr:description><gtr:exploitationPathways>12 workshops were held as part of the network.</gtr:exploitationPathways><gtr:id>5BFC16D5-F867-4C2A-AA9E-D2A65BCCD3EE</gtr:id><gtr:outcomeId>545a384cd21177.99353858</gtr:outcomeId><gtr:sectors><gtr:sector>Digital/Communication/Information Technologies (including Software),Financial Services, and Management Consultancy</gtr:sector></gtr:sectors><gtr:url>http://aickelin.com</gtr:url></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">EP/D036623/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>5E9AA4EC-49E3-4D6A-B545-79DA07CE39E0</gtr:id><gtr:percentage>80</gtr:percentage><gtr:text>Management &amp; Business Studies</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>DEA11FBC-BEED-4EDD-890B-97D728462D26</gtr:id><gtr:percentage>20</gtr:percentage><gtr:text>Mathematical sciences</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>6A482B09-D749-4443-8AF0-654984FCE91D</gtr:id><gtr:percentage>40</gtr:percentage><gtr:text>Manufact. Business Strategy</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>2E2E80C2-8D14-44CE-A971-37A9ACC4B244</gtr:id><gtr:percentage>40</gtr:percentage><gtr:text>Manufact. Enterprise Ops&amp; Mgmt</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>F0F2F1A7-287A-4B6F-AA0E-74A55BB4DEE4</gtr:id><gtr:percentage>20</gtr:percentage><gtr:text>Mathematical Aspects of OR</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

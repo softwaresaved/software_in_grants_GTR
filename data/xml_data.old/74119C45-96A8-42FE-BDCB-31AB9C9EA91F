@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations><gtr:collaborator url="http://gtr.ukri.org:80/organisation/8A66BFC9-B9A5-48C6-B46C-761D1C13C5DC"><gtr:id>8A66BFC9-B9A5-48C6-B46C-761D1C13C5DC</gtr:id><gtr:name>Lancaster University</gtr:name><gtr:address><gtr:line1>,</gtr:line1><gtr:region>North West</gtr:region></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.ukri.org:80/organisation/8319F78A-DCBD-49F6-BE00-78E1CD75CDA9"><gtr:id>8319F78A-DCBD-49F6-BE00-78E1CD75CDA9</gtr:id><gtr:name>University of York</gtr:name><gtr:address><gtr:line1>Heslington</gtr:line1><gtr:line4>York</gtr:line4><gtr:line5>North Yorkshire</gtr:line5><gtr:postCode>YO10 5DD</gtr:postCode><gtr:region>Yorkshire and The Humber</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator></gtr:collaborations><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/544242A5-6640-4FD5-87C5-348557ED5307"><gtr:id>544242A5-6640-4FD5-87C5-348557ED5307</gtr:id><gtr:name>University of Abertay Dundee</gtr:name><gtr:department>Sch of Contemporary Sciences</gtr:department><gtr:address><gtr:line1>Bell Street</gtr:line1><gtr:line4>Dundee</gtr:line4><gtr:line5>Angus</gtr:line5><gtr:postCode>DD1 1HG</gtr:postCode><gtr:region>Scotland</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/544242A5-6640-4FD5-87C5-348557ED5307"><gtr:id>544242A5-6640-4FD5-87C5-348557ED5307</gtr:id><gtr:name>University of Abertay Dundee</gtr:name><gtr:address><gtr:line1>Bell Street</gtr:line1><gtr:line4>Dundee</gtr:line4><gtr:line5>Angus</gtr:line5><gtr:postCode>DD1 1HG</gtr:postCode><gtr:region>Scotland</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/8A66BFC9-B9A5-48C6-B46C-761D1C13C5DC"><gtr:id>8A66BFC9-B9A5-48C6-B46C-761D1C13C5DC</gtr:id><gtr:name>Lancaster University</gtr:name><gtr:address><gtr:line1>,</gtr:line1><gtr:region>North West</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/8319F78A-DCBD-49F6-BE00-78E1CD75CDA9"><gtr:id>8319F78A-DCBD-49F6-BE00-78E1CD75CDA9</gtr:id><gtr:name>University of York</gtr:name><gtr:address><gtr:line1>Heslington</gtr:line1><gtr:line4>York</gtr:line4><gtr:line5>North Yorkshire</gtr:line5><gtr:postCode>YO10 5DD</gtr:postCode><gtr:region>Yorkshire and The Humber</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/96B8775F-0CB8-4747-9A40-2937AE4C223E"><gtr:id>96B8775F-0CB8-4747-9A40-2937AE4C223E</gtr:id><gtr:firstName>Rebecca</gtr:firstName><gtr:surname>Wade</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/C8DB7FEF-A19A-4B3A-BCFA-CCD37A2B2445"><gtr:id>C8DB7FEF-A19A-4B3A-BCFA-CCD37A2B2445</gtr:id><gtr:firstName>Rachel</gtr:firstName><gtr:surname>Cooper OBE</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=AH%2FI50768X%2F1"><gtr:id>74119C45-96A8-42FE-BDCB-31AB9C9EA91F</gtr:id><gtr:title>Connecting research: Connecting communities - A connected communities network meeting</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>AH/I50768X/1</gtr:grantReference><gtr:abstractText>Abstracts are not currently available in GtR for all funded research. This is normally because the abstract was not required at the time of proposal submission, but may be because it included sensitive information such as personal details.</gtr:abstractText><gtr:fund><gtr:end>2012-10-20</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/1291772D-DFCE-493A-AEE7-24F7EEAFE0E9"><gtr:id>1291772D-DFCE-493A-AEE7-24F7EEAFE0E9</gtr:id><gtr:name>AHRC</gtr:name></gtr:funder><gtr:start>2010-12-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>32295</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of York</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:department>Stockholm Environment Institute (SEI)</gtr:department><gtr:description>Abertay and SEI York</gtr:description><gtr:id>A18E5704-94B0-4C40-A583-C4A6B0E8D4B5</gtr:id><gtr:impact>subsequent research bids and collaborations</gtr:impact><gtr:outcomeId>56e996787d4003.93536227-1</gtr:outcomeId><gtr:partnerContribution>new methods for data collection involving public participation, ideas stemmed from interactions during and after the Connecting Communities research agendas</gtr:partnerContribution><gtr:piContribution>partnership in research - ideas, innovations, new approaches to understanding urban spaces - particularly multiple function/benefits from green infrastructure</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2010-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>Lancaster University</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:department>Lancaster Institute for the Contemporary Arts</gtr:department><gtr:description>Connection with LICA at Lancaster (Prof Rachel Cooper)</gtr:description><gtr:id>92D4E848-517C-481A-85CD-98074A234997</gtr:id><gtr:impact>Multi-disciplinarity, novel approaches to research meetings and outputs</gtr:impact><gtr:outcomeId>56e9958cedb756.97754694-1</gtr:outcomeId><gtr:partnerContribution>partnership in research - ideas, innovations, art/science interactions during the Connecting Communities research agendas</gtr:partnerContribution><gtr:piContribution>Initiation of partnership in the Connecting Communities research agendas</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2010-01-01</gtr:start></gtr:collaborationOutput></gtr:collaborationOutputs><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs><gtr:impactSummaryOutput><gtr:description>the top tips (as presented in key findings) have been taken forward and used by network participants in future work</gtr:description><gtr:firstYearOfImpact>2010</gtr:firstYearOfImpact><gtr:id>A136551D-D592-4542-8AFD-43ACA165A522</gtr:id><gtr:impactTypes><gtr:impactType>Cultural,Societal</gtr:impactType></gtr:impactTypes><gtr:outcomeId>5464d3919fee26.10359520</gtr:outcomeId><gtr:sector>Communities and Social Services/Policy,Environment</gtr:sector></gtr:impactSummaryOutput></gtr:impactSummaryOutputs><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>Connecting Research: Connecting Communities; ID: AH/I50768X/1
+
+What we did:
+This network brought together academics and practitioners across natural, phyiscal, social sciences and arts and humanities. The aim was to collate and communicate information to help researchers undertaking community engagement in the areas of environment and sustainability.
+Through research summaries and culminating in a network meeting held in Lancaster in May 2012.
+Sharing experience of community engagement with research, in the area of Environment and Sustainability.
+
+What we found:
+Despite disciplinary differences, many common messages and themes came out, both relating to methodology and practice, and to the opportunities and limitations related to engagement.
+
+Community engagement is most successful when:
+?The community has a vested interest in the subject/project.
+?There are existing groups or champions or gatekeepers who can assist the researcher in the process of engagement. 
+?It is seen to be valuable and/or practical by the communities you are working with.
+?The researchers take time to listen to the community actors
+?The researchers understand the context(s) within which the community actors are working (hidden agendas etc)
+
+Engaging with Communities requires:
+?Enough time and flexibility so that the project can respond to the needs of the ctty.
+?Research questions / the research are / is co-produced 
+?Ethical considerations are appropriately managed
+?Research outcomes are shared appropriately
+
+Cross-disciplinary work is most successful when:
+Researchers communicate effectively and frequently.
+Methods or epistemologies are co-produced.
+There is at least one partner who understands the broad remits of all of the partners; understands what all the partners are bringing. (Have a good Project Manager)
+
+Academic-practitioner (define practitioner: e.g. artists) partnerships are most successful when:
+Understanding of ethics codes are pre-agreed
+
+
+Many findings came from the generous sharing by participants of their experiences, both good and bad, with community engagement projects associated with environment and or sustainability.</gtr:description><gtr:exploitationPathways>The finding might best be taken forward through a sharing of the useful knowledge exchange which took place as a core component of the project. These have been summaried into a series of 'Top tips' for those undertaking community engagement in environment and sustainability topics.
+
+Top Tips:
+
+Practical / Engagement:
+[Use appropriate language]
+[Get everyone involved not just the loudest person]
+[A nice day out with food really motivates people to engage]
+[&amp;quot;Avoid the clipboard&amp;quot;]
+[Tap into gatekeepers and champions]
+[Allow lots for informal conversations]
+[Immerse yourself (or one of the team) by hanging around, keeping informal lines of communication open so that you can go back]
+[Provide high levels of support, especially at the outset]
+[Maintain momentum]
+[Identify the real champions (or create the conditions for them to identify themselves)]
+[Reputation and recognition/trust are key for ctties]* multiple meaning
+[Plan lots of time for engagement &amp;amp; recruitment]
+[Do the market research! Make it easy and make people feel like they belong]
+[Effective engagement takes longer than you think; Chatting is research]
+[Have fewer facilitators than participants at any one time]
+[Needs time; spending time; adopt a spatially and socially sensitive stance to the research (and get your hands dirty)]
+[Success very dependent on the researcher going the extra mile, particularly in communication, even when hitting brick walls in mid-project, eventually pays off.]
+[Need to be in it for the long term. Be honest. Accept that not everyone will agree. Put in time to attend local events, drink tea, attend local talks...]
+[Focus on enthusiasts (esp at start), but make sure you engage all stakeholders at every stage]
+[Use existing networks / groups]
+[Be mindful of drawing energy or resources from the ctty involved when conducting research]
+[Inhabit and move in the ctties you engage
+[Ask ctties how best to engage with them]
+[Can you be trusted? What is the real agenda?]
+[Don't fake it: If the outcome cannot be changed, don't call it a consultation.]
+[Don't neglect the 'normal' by always focussing on the extreme / novel etc.]
+
+Design / Research Practice:
+[Link to other projects - you are not working in a vacuum]
+[Co-design of your approach - researchers with researchers, researchers with cttys; Do your homework - what ctty values can you tap into]
+[As you're starting interviews/research, tap into local ctty's/relevant gps through many difft means (e.g internet chat rooms]
+[Researchers have to be interested, committed, to work with ctties]
+[When co-designing a research project, keep in mind what lasting impact the research could make for the ctty involved]
+[Co-design, co-production, co-delivery]
+[Dedicated knowledge exchange resource - better value for ctties and funders]
+[IT/interactive visualisation methods must be used and introduced as working in conjunction with existing engagement methods]
+[Ask the right questions so that people can answer them]
+[Be realistic about what can be achieved, with whom, using what methods. Sometimes unrepresentative engagement with ctty activists is fine]
+[Choose the right people to engage with the ctty (e.g. young people)]
+[Involve participants/different researchers/practitioner in research, writing and dissemination - accommodate dialogue throughout; everyone needs to share everything]
+[Reject the alternatives of top-down or bottom-up. Instead, turn ctties inside out.]
+[Online data gathering is easy but needs to be properly thought through]
+[Be flexible, ready to change tack, but also not thrown off course by each new challenge or approach]
+[Context, context, context; Right info, right people, right time]
+[Ethics]
+[Construct research Qs that are relevant, accessible, timely and fun!]
+[Decide on a methodology everyone understands]
+[Giving research back to ctties means shared data mgt and shared ethics.]
+[Think of multiple points of entry and knowledge-making]
+? 
+
+Outputs
+[Tailor info to recipients interests]
+[Understand what information decision-makers need]
+[Be wary of raising expectations - how will the research benefit the community concerned - tangible benefit]
+[Move beyond engagement to capacity and empowerment]
+[Mode of dissemination needs to be considered in the research design stage - it is part of the epistemology]
+[Your ways of knowing and validating are inadequate. Respect and accommodate the local, qualitative and non-generalisable. Stop demanding indicators]
+[Rethink what constitutes 'evidence' and what are the indicators of 'success' - 'scientific' and 'economic' approaches to communities disregard huge amounts of knowledge, experience and only 'measure' a partial picture.]
+[Demonstrate / communicate the benefit of the research project to local area to them potential gain support (&amp;amp; funding)]
+[Ctties do things even without any policies to 'guide them']
+[Policy needs to make life easier / simpler, not more onerous.]</gtr:exploitationPathways><gtr:id>DBCF6A8B-FE05-498C-B987-72AA97F7668D</gtr:id><gtr:outcomeId>5464d3129c2331.81489072</gtr:outcomeId><gtr:sectors><gtr:sector>Communities and Social Services/Policy,Creative Economy,Education,Environment</gtr:sector></gtr:sectors></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">AH/I50768X/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

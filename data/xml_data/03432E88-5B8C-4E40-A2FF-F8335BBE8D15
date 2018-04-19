@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/617E2A99-C04A-475B-BC45-A44539597EE9"><gtr:id>617E2A99-C04A-475B-BC45-A44539597EE9</gtr:id><gtr:name>Cocontrol Ltd</gtr:name><gtr:address><gtr:line1>29 Shand Street</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>SE1 2ES</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/617E2A99-C04A-475B-BC45-A44539597EE9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>617E2A99-C04A-475B-BC45-A44539597EE9</gtr:id><gtr:name>Cocontrol Ltd</gtr:name><gtr:address><gtr:line1>29 Shand Street</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>SE1 2ES</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>24500.0</gtr:offerGrant><gtr:projectCost>42329.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/FE7244DE-4C5F-4355-B581-F020DCCEDBD7"><gtr:id>FE7244DE-4C5F-4355-B581-F020DCCEDBD7</gtr:id><gtr:firstName>Tim</gtr:firstName><gtr:surname>Lunel</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700636"><gtr:id>03432E88-5B8C-4E40-A2FF-F8335BBE8D15</gtr:id><gtr:title>Investment Optimisation Dashboard for Social Landlords (IOD)</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700636</gtr:grantReference><gtr:abstractText>CoControl is the UK?s first socially focused connected homes technology, providing
+intelligent heating controls designed for social tenants. CoControl is working with 7 social
+landlords across 200 properties to co-develop our product and has achieved early sales.
+Having demonstrated, with our first Proof of Concept project, a capability to help low income
+householders manage heating costs via comfort level feedback loops (versus using static
+temperature settings), CoControl is now focusing on improving its value to the landlords
+purchasing the product.
+CoControl has identified an opportunity and brief design for an Investment Optimisation
+Dashboard (IOD). Integrating various sources of unique proprietary and externally sourced
+data to help Social Landlords make more informed, higher impact investment decisions ?
+satisfying new UK regulations in the process.
+The potential UK market for supporting property stock investment decisions is large ? Social
+Landlords spend &amp;pound;7.1bn annually on maintenance and repairs. However the data used to make
+these decisions is poor, with no current method offering high levels of precision to uncover
+which households are energy inefficient or have health risks. Improving the accuracy by
+which Social Landlords target works should then reduce annual expenditure, whilst
+maximising social impact.
+Secondly, Social Landlords are faced with both tightening budgets and more regulation.
+Today, on-going government cuts and the 2014 Duty of Care Act are increasing budgetary
+pressure, making IOD a timely innovation.
+IOD integrates (1) internal humidity &amp;amp; temperature data collected by CoControl sensors, (2)
+real &amp;amp; predictive external weather data, (3) EPC data, (4) health data, (5) fuel poverty
+thresholds, and (6) energy/heat usage, into a housing stock analysis software system; given a
+budget, the system will provide supporting intelligence for specific works, optimised for cost
+efficiency and social impact.</gtr:abstractText><gtr:fund><gtr:end>2016-04-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2015-11-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>24500</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700636</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/547B41E4-3AD8-4FA2-98C2-DF79F736BD8A"><gtr:id>547B41E4-3AD8-4FA2-98C2-DF79F736BD8A</gtr:id><gtr:name>Analytics Engines Limited</gtr:name><gtr:address><gtr:line1>1 CHLORINE GARDENS</gtr:line1><gtr:city>BELFAST</gtr:city><gtr:postCode>BT9 5DJ</gtr:postCode><gtr:region>Northern Ireland</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/547B41E4-3AD8-4FA2-98C2-DF79F736BD8A" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>547B41E4-3AD8-4FA2-98C2-DF79F736BD8A</gtr:id><gtr:name>Analytics Engines Limited</gtr:name><gtr:address><gtr:line1>1 CHLORINE GARDENS</gtr:line1><gtr:city>BELFAST</gtr:city><gtr:postCode>BT9 5DJ</gtr:postCode><gtr:region>Northern Ireland</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>100000.0</gtr:offerGrant><gtr:projectCost>173802.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/B1D77E2F-79B9-422F-9527-664ED96E8226"><gtr:id>B1D77E2F-79B9-422F-9527-664ED96E8226</gtr:id><gtr:firstName>Scott</gtr:firstName><gtr:surname>Fischaber</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710032"><gtr:id>34164F6A-CDA9-4B72-8C97-D017ADE286C6</gtr:id><gtr:title>CapnaDSP: SPECTER - System-level Programming Environment and Common Framework for Intelligent Image Processing</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710032</gtr:grantReference><gtr:abstractText>Advances in sensor technology combined with high performance embedded processors has
+yielded many novel applications and products in recent years, such as self-parking cars, realtime
+visualisation for vascular intervention, vehicle tracking, and 3D image reconstruction.
+The limiting factor in these designs is generally not in designer inventiveness but in the
+underlying performance of the device and effort required to program it. By providing an
+open, powerful, and easy to program platform, we address a number of key markets.
+The project is targeted at the growing intelligent imaging market where applications are
+demanding ever increasing performance with the shift towards higher resolutions, frame rates
+and multi-source imaging techniques to improve content value delivered to users. In security,
+next generation CCTV can no longer rely on operator-driven, standalone camera platforms but
+on context and position-aware assisted operation where individual image feeds are combined
+to build up an increased scene awareness, e.g. as a region of interest is expanded in one
+camera feed; this needs to be communicated to allow dynamic stitching of multi-source
+images to maintain full scene coverage.
+Further techniques such as combining image sources from different parts of the radio
+frequency spectrum, visible and infra-red, are also needed. For example, merging infra-red
+images to increase the quality as the visible light decreases. As local data storage is expensive
+and distributing data volumes is prohibitive, smart decisions on duration and retaining of data
+is required. While complex in their nature, these techniques rely on a set fundamental
+operational blocks to facilitate their implementation which if provided in a modular,
+extensible hardware accelerated processing platform, would prove a major selling point over
+other options. FPGA hardware acceleration has been applied to high end systems but
+widespread market adoption will require a lowering of the barriers to entry for mid-range and
+low-volume market segments. It is in providing a generic modular solution that can be quickly
+customised and implemented that CapnaDSP sees a strong and rapidly emerging market
+opportunity.
+We believe that by ultimately making this technology accessible through a COTS platform
+with easily configurable plug and play programming tools we can bring a product to market
+that has a genuine unique selling point and commercial appeal. This will open up market
+segments where FPGA hardware acceleration was not previously viable. Moves from 3 megapixel
+CCD devices to CMOS cameras in the 8+ mega-pixel range, with frame rates rising
+from 10-30fps to 60fps+, will mean that in a very short space of time the amount of data will
+mandate new processing approaches. It is at this point that having demonstrated the merit of
+our approach in this project, we will seek to commercialize the output and introduce our plug
+and play processing solution to a range of markets.</gtr:abstractText><gtr:fund><gtr:end>2013-04-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2011-11-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>100000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710032</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

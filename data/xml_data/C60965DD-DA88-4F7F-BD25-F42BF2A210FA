@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/E90CB40A-76A5-40E0-8E08-D473E09E12C4"><gtr:id>E90CB40A-76A5-40E0-8E08-D473E09E12C4</gtr:id><gtr:name>T-Mac Technologies Limited</gtr:name><gtr:address><gtr:line1>UTILITYWISE HOUSE 3 &amp; 4 COBALT PARK WAY , COBALT BUSINESS PARK</gtr:line1><gtr:city>NORTH TYNESIDE</gtr:city><gtr:postCode>NE28 9EJ</gtr:postCode><gtr:region>North East</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/E90CB40A-76A5-40E0-8E08-D473E09E12C4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>E90CB40A-76A5-40E0-8E08-D473E09E12C4</gtr:id><gtr:name>T-Mac Technologies Limited</gtr:name><gtr:address><gtr:line1>UTILITYWISE HOUSE 3 &amp; 4 COBALT PARK WAY , COBALT BUSINESS PARK</gtr:line1><gtr:city>NORTH TYNESIDE</gtr:city><gtr:postCode>NE28 9EJ</gtr:postCode><gtr:region>North East</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>191324.0</gtr:offerGrant><gtr:projectCost>478310.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=730067"><gtr:id>C60965DD-DA88-4F7F-BD25-F42BF2A210FA</gtr:id><gtr:title>Low energy remote intelligent monitoring &amp;amp; control systems and products to better monitor and reduce energy consumption</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Legacy RDA Grant for R&amp;D</gtr:grantCategory><gtr:grantReference>730067</gtr:grantReference><gtr:abstractText>The whole issue of energy and the need to reduce its
+consumption is high on the global political agenda and have
+elevated the emphasis on the energy management services
+market. Many companies have shown interest in energy
+efficiency, and energy management as an immediate option
+to counter the energy crisis. It has been reported that a
+building energy management system can typically control
+60-80% of a building's energy usage. By optimising the
+system, for example getting it to perform consistently with
+the way a building is used, significant saving can be made.
+Therefore, in order to identify what can be achieved, it is
+important to understand the current situations within a
+building.
+i
+i This Project relates to the development of increased
+functionality of the t-mac&amp;reg; technology. Currently available
+t-mac&amp;reg; systems are web based energy monitoring and
+management systems for remote monitoring and recording
+of critical readings and providing real-time and historical
+reports on equipment conditions. The project is aiming to
+expand the technology (advanced t-mac&amp;reg;) to enable more
+sophisticated diagnostics through interfacing with all major
+building management systems. Within this area of the
+development, intelligence would be incorporated to
+recognise and map particular building characteristics
+against air conditioning and boiler specifications in order to
+identify optimum settings. T-Mac is also planning to
+develop monitoring and control system technology that 1
+1 meets the requirements for the smaller commercial,
+; industrial and domestic users. This part of the project
+would include the design and development of smart meter
+optical interface to enable non-intrusive meter reading of
+existing utility meters (such as gas meters) and submitting
+readings to the suppliers. The company proposes to
+employ self-powered (based on energy harvesting such as
+linear motion, pressure light, vibration etc.) wireless
+technology interface and intelligent sensors for an optimal
+low cost solution.</gtr:abstractText><gtr:fund><gtr:end>2012-07-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2009-08-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>191324</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">730067</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

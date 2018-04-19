@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/03D8AFBB-3EA5-4885-B036-BD4F9F4F9849"><gtr:id>03D8AFBB-3EA5-4885-B036-BD4F9F4F9849</gtr:id><gtr:name>University of Sheffield</gtr:name><gtr:department>Physics and Astronomy</gtr:department><gtr:address><gtr:line1>Firth Court</gtr:line1><gtr:line2>Western Bank</gtr:line2><gtr:line4>Sheffield</gtr:line4><gtr:line5>South Yorkshire</gtr:line5><gtr:postCode>S10 2TN</gtr:postCode><gtr:region>Yorkshire and The Humber</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/03D8AFBB-3EA5-4885-B036-BD4F9F4F9849"><gtr:id>03D8AFBB-3EA5-4885-B036-BD4F9F4F9849</gtr:id><gtr:name>University of Sheffield</gtr:name><gtr:address><gtr:line1>Firth Court</gtr:line1><gtr:line2>Western Bank</gtr:line2><gtr:line4>Sheffield</gtr:line4><gtr:line5>South Yorkshire</gtr:line5><gtr:postCode>S10 2TN</gtr:postCode><gtr:region>Yorkshire and The Humber</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/0E142FFE-54B5-4D1C-9F08-90B6456F7805"><gtr:id>0E142FFE-54B5-4D1C-9F08-90B6456F7805</gtr:id><gtr:firstName>Richard</gtr:firstName><gtr:surname>Jones</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/608C6370-C55D-4937-976C-FEAAE4DAA898"><gtr:id>608C6370-C55D-4937-976C-FEAAE4DAA898</gtr:id><gtr:firstName>Andrew</gtr:firstName><gtr:otherNames>John</gtr:otherNames><gtr:surname>Parnell</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/3E40ECAA-BAD9-4339-ABBB-71C3B9F72744"><gtr:id>3E40ECAA-BAD9-4339-ABBB-71C3B9F72744</gtr:id><gtr:firstName>Adam</gtr:firstName><gtr:surname>Washington</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/D430C2BB-CD3E-4B21-B11F-2AA613D54CA4"><gtr:id>D430C2BB-CD3E-4B21-B11F-2AA613D54CA4</gtr:id><gtr:firstName>Paul</gtr:firstName><gtr:surname>Evans</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=ST%2FR001731%2F1"><gtr:id>9E860A0F-0353-4546-8EE9-91E2ED5220D1</gtr:id><gtr:title>Unweaving the Rainbow: exploring colour with art and synchrotron radiation</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>ST/R001731/1</gtr:grantReference><gtr:abstractText>This project aims to engage the public with the science emerging from the Sheffield group's use of STFC supported central facilities - particularly synchrotron radiation - to probe the origins of structural colour in biological structures such as bird feathers and butterfly wings. The proposal brings together scientists with a long record of successful use of STFC facilities with a practising artist who already has an existing outstanding track record of public engagement with research in a number of different fields, especially working in schools. The project will significantly develop and enhance science capital by drawing together arts and science audiences and by involving a cohort of late primary and early secondary pupils from South Yorkshire schools.
+
+Key features:
+
+i.) The science topic offers a different and novel way of engaging audiences by taking very familiar concepts - the notion of colour, and our experience of brightly coloured birds and insects - and illustrating how our powerful new techniques like synchrotron radiation scattering and nano-tomography can relate those to the hitherto unseen nanoscale world.
+
+ii.) Engagement of artists and poets gives unexpected insights into the nature of scientific practise
+
+iii.) The focus will be on audiences with low existing levels of science capital, in South Yorkshire and elsewhere, including a cohort of 4 local schools
+
+Through this active process of engagement our audiences will gain a fuller understanding of the complex nature of light - how colour is perceived though absorption reflection and refraction. The project will also further understanding of what happens in the realm of the 'very small' and the 'very big', through the exploration and explanation of how STFC facilities open up access to length scales outside normal human experience.
+
+These aims will primarily be achieved through our touring event programme based on a 'pop-up portfolio' of new and existing works based on Paul Evans' recent work as artist in residence research - and new work based on images from experiments undertaken by The University of Sheffield scientists at the European Synchrotron Research Facility (ESRF), ISIS and RAL.
+ 
+Much of the artwork to be displayed in the portfolio, primarily based on photonic structures, will be created through an outreach programme of creative workshops/discovery days for South Yorkshire schools that will be devised and led by the project artist Paul Evans along with University of Sheffield scientists. 
+
+This innovative and engaging programme of activities will include blindfold drawing/modelling of 3d prints, colour by numbers activities for younger students, creative writing, and dexterity tests/games based on sampling procedures that the artist observed at the ESRF and cutting edge research that is currently being undertaken at ISIS and RAL.
+
+Art created by the young people during these workshops will also be informed by 'The Beauty of Science' - ESRF's online gallery of scientific images from synchrotron research: http://www.esrf.eu/home/news/beauty-of-science.html and similar material from Diamond and ISIS
+
+The portfolio, and the delivery team that will facilitate its associated activities, will tour a number of venues/events throughout the north of England during Autumn/Winter 2017. 
+
+The project will be supported throughout by the University of Sheffield Public Engagement and Impact Team.</gtr:abstractText><gtr:potentialImpactText>We plan to use the following ways to inform people 
+
+Web site: Web site - as an example of our ongoing collaboration there is already an extensive website detailing a non-scientists interaction with Scientists who use STFC facilities to study materials https://structuralcolour.org/ 
+
+We will create a new project web site that will act as an on-line gallery for art and images created during the project and as an archive for images of the exhibitions, talk and activities along with for audience reactions and comments.
+
+(This will be maintained by The Sheffield Structural Colour Group after completion of the STFC funding) 
+
+STEM ambassador hub - used to broadcast events and activities to Schools in South Yorkshire and Derbyshire - (Dr Washington and Dr Parnell are actively involved in running events) 
+
+Social Media - via Jones Twitter account (over 2000 followers)
+Project Facebook Page and Twitter account
+
+A touring programme of talks and pop-up exhibitions to take place in venues across the North of England including:
+
+http://www.inspirationforlife.co.uk/index.php?nav=events Researchers Night - advertised widely to Schools and educators across South Yorkshire
+
+Live Late Museums Sheffield - also advertised across Sheffield and is already well established 
+
+Ideas Bazaar 2018 - a similar University of Sheffield event the Festival of the Mind had a total of 50,000 visitors and is widely advertised on billboards and flyers across the Sheffield City region and beyond. This will be the same for the Ideas Bazaar and funding for this advertisement will be covered by The University of Sheffield. 
+
+Manchester Science Festival
+
+The Great Exhibition of the North (Gateshead &amp;amp; Newcastle)</gtr:potentialImpactText><gtr:fund><gtr:end>2019-02-28</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/D7F4F462-0518-4784-908A-D12633C139B3"><gtr:id>D7F4F462-0518-4784-908A-D12633C139B3</gtr:id><gtr:name>STFC</gtr:name></gtr:funder><gtr:start>2017-09-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>13140</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">ST/R001731/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>
