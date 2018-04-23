@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/089E746C-456F-427B-86DD-3AAE598ADE98"><gtr:id>089E746C-456F-427B-86DD-3AAE598ADE98</gtr:id><gtr:name>Scannerfutures Ltd</gtr:name><gtr:address><gtr:line1>Ross Building Adastal Park
+Martlesham Heath</gtr:line1><gtr:city>Ipswich</gtr:city><gtr:postCode>IP5 3RE</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/089E746C-456F-427B-86DD-3AAE598ADE98" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>089E746C-456F-427B-86DD-3AAE598ADE98</gtr:id><gtr:name>Scannerfutures Ltd</gtr:name><gtr:address><gtr:line1>Ross Building Adastal Park
+Martlesham Heath</gtr:line1><gtr:city>Ipswich</gtr:city><gtr:postCode>IP5 3RE</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>60000.0</gtr:offerGrant><gtr:projectCost>100000.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/BA575BA7-E247-492D-ACF9-104EE21B4DD9"><gtr:id>BA575BA7-E247-492D-ACF9-104EE21B4DD9</gtr:id><gtr:firstName>David</gtr:firstName><gtr:surname>Heatley</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710458"><gtr:id>7A903338-767E-476D-9EBD-6656B14AB8C1</gtr:id><gtr:title>IMPACT (Imaging by Microwave Phase And amplitude ContrasT)</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710458</gtr:grantReference><gtr:abstractText>The feasibility of Computed Tomography (CT) scanning that uses Radio Frequency (RF)
+waves rather than X-rays has been demonstrated in a feasibility study undertaken by Disect
+Systems Ltd and subsequently by a preliminary proof of concept study by Scannerfutures. The
+market opportunity for RF CT has been investigated and shown to be compelling in a study
+also undertaken by Scannerfutures. This project will build upon the success of the previous
+studies by further developing the technology required to bring this new breed of scanner to
+fruition.
+X-ray CT scanners are widely used across the public and private sectors, particularly in health.
+They can be large expensive installations and the use of X-rays carries a certain risk. In
+contrast, RF CT scanning is intrinsically safe, lends itself to a simple compact construction
+and can be widely deployed where X-ray CT is impractical. Furthermore, RF CT has the
+potential to be significantly less costly than X-ray CT in manufacture, installation
+infrastructure and maintenance. It is therefore feasible for desktop sized RF CT scanners to be
+deployed in GP surgeries and community clinics for the frontline assessment of minor
+injuries. That would enable these centres to deliver a more comprehensive service to their
+local communities and help to reduce the burden on hospitals. In addition to health and
+medicine, compact portable RF CT scanners would find widespread use in veterinary practice,
+research, industry and security. RF CT is therefore well suited to deployment on a scale far
+exceeding that of X-ray CT and has the potential to create a new and expanded market place.
+RF CT is game changing. This subsequent proof of concept project aims to further develop
+the core technologies required for RF CT, to the point where third party external investment
+can be sought. This will enable the project to move RF CT into the ?regulated product
+development? phase in preparation for clinical trials and certification.</gtr:abstractText><gtr:fund><gtr:end>2014-09-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2014-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>60000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710458</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

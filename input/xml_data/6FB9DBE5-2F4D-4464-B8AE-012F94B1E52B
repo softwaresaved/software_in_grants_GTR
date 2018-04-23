@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/6C8FB4F8-3148-41D7-852B-984F09F42832"><gtr:id>6C8FB4F8-3148-41D7-852B-984F09F42832</gtr:id><gtr:name>C-Major Limited</gtr:name><gtr:address><gtr:line1>9 Wedgwood Drive,Hughenden Valley</gtr:line1><gtr:city>High Wycombe</gtr:city><gtr:postCode>HP14 4PA</gtr:postCode><gtr:region>North West</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/6C8FB4F8-3148-41D7-852B-984F09F42832" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>6C8FB4F8-3148-41D7-852B-984F09F42832</gtr:id><gtr:name>C-Major Limited</gtr:name><gtr:address><gtr:line1>9 Wedgwood Drive,Hughenden Valley</gtr:line1><gtr:city>High Wycombe</gtr:city><gtr:postCode>HP14 4PA</gtr:postCode><gtr:region>North West</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>100000.0</gtr:offerGrant><gtr:projectCost>183244.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710144"><gtr:id>6FB9DBE5-2F4D-4464-B8AE-012F94B1E52B</gtr:id><gtr:title>Project C-Major</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710144</gtr:grantReference><gtr:abstractText>What is the problem? 40bn hypodermic devices are sold annually. After use and before safe
+disposal millions of people throughout the world suffer needle-stick injuries (NI) from used
+devices. The main risk posed by NI?s is exposure to blood-borne viruses.
+There are numerous offerings of ?safe? devices to address this problem and legislation is in
+place in USA and pending in Europe to enforce their use. Uptake globally is very low as they
+are costly compared to standard devices and their operation is different and is unpopular with
+medical practitioners.
+What is our solution? We have some patents and concept drawings for a range of retractable
+hypodermic devices. In order to penetrate this highly mature market we will need to address
+more than just the safety aspects. The main benefits/features of our concepts are:-
+A safe product that can substantially reduce the incidents of NI.
+Cost competitive with current devices.
+An environmentally friendly product that will produce a lower carbon footprint in the
+manufacturing and disposal processes.
+Ability to use existing standard needle and needle carriers with normal slip and lock luer
+(unique)
+Needle is not an integral part of the device (unique) a significant inventory cost reduction and
+practitioner flexibility benefit.
+Device is ?automatically? rendered safe in normal operation.
+Little change to current medical procedure.
+Can be used single handedly in all the same circumstances as current hypodermics.
+Next Steps needed to move into the next phase we need to build sample assemblies to enable
+us to demonstrate to stakeholders that we have a product with ranges available.
+We estimate that to get to this stage we need funding of &amp;pound;183k that covers, development of all
+concepts and detailed design, key risk reduction &amp;amp; proof of concept for plunger seal,
+prototype manufacture and testing, freedom to operate search, new patent description &amp;amp;
+filings.</gtr:abstractText><gtr:fund><gtr:end>2013-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2012-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>100000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710144</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

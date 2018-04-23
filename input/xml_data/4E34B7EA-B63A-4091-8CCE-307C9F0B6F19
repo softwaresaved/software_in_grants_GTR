@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/5F60F706-46E6-41C9-8817-D29A2AB2467C"><gtr:id>5F60F706-46E6-41C9-8817-D29A2AB2467C</gtr:id><gtr:name>Mygenomics Limited</gtr:name><gtr:address><gtr:line1>BIOSCIENCE CENTRE TIMES SQUARE , SCOTSWOOD ROAD</gtr:line1><gtr:city>NEWCASTLE UPON TYNE</gtr:city><gtr:postCode>NE1 4EP</gtr:postCode><gtr:region>North East</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/5F60F706-46E6-41C9-8817-D29A2AB2467C" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>5F60F706-46E6-41C9-8817-D29A2AB2467C</gtr:id><gtr:name>Mygenomics Limited</gtr:name><gtr:address><gtr:line1>BIOSCIENCE CENTRE TIMES SQUARE , SCOTSWOOD ROAD</gtr:line1><gtr:city>NEWCASTLE UPON TYNE</gtr:city><gtr:postCode>NE1 4EP</gtr:postCode><gtr:region>North East</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>91362.0</gtr:offerGrant><gtr:projectCost>152270.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710103"><gtr:id>4E34B7EA-B63A-4091-8CCE-307C9F0B6F19</gtr:id><gtr:title>MyGenomics Optimal Sport Performance</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710103</gtr:grantReference><gtr:abstractText>Elite athlete potential has a strong genetic basis affecting strength, endurance, muscle
+composition &amp;amp; flexibility. 66% of the variance in athlete status may be explained by genetic
+factors. MyGenomics will use its experience in nutrigenetic profiling to develop a sports
+performance management system. Our product will contribute to development of elite athletes
+and make sports science accessible to amateurs.
+Carefully selected genes will be tested to predict the optimal training system individual
+athletes. This gene panel will inform the genomic rules incorporated into a proprietary
+algorithm for selecting optimum training regime. Gene selection is based upon peer reviewed
+data demonstrating:
+-linkage in Genome Wide Association Studies (GWAS)
+-proven biological function
+-human studies linking the variant to efficacy of training
+A proof of concept study will compare the efficacy of training plans matched to genotype
+versus standard training plans.
+The project provides resource for
+1 Selection of genes and formulation of genomic rules for training programmes and sports
+nutrition
+3 Coding an algorithm for genetically-guided sports nutrition and training
+4 Preliminary investigations of the influence of epigenetics (control of gene activity by
+environment) on performance
+5 Proof of concept studies in athletes (40 volunteers)
+This project is innovative in 3 respects:
+1 Genotyping to predict optimal training regime is untested
+2 The influences of epigenetic changes upon the effectiveness of training is unknown
+3 Genotype has not previously been integrated with nutrition and training advice to deliver
+practical interventions.
+This project will provide proof of concept required for subsequent development and
+marketing of a training and nutrition system linked to genotype and suitable for amateur and
+professional athletes. The project will generate Intellectual property linking a panel of genes
+and epigenomes to sports performance via a proprietary algorithm</gtr:abstractText><gtr:fund><gtr:end>2013-01-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2012-02-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>91362</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710103</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

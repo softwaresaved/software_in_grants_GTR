@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/314D16FE-FE4D-4538-A917-FBD0A2455595"><gtr:id>314D16FE-FE4D-4538-A917-FBD0A2455595</gtr:id><gtr:name>Drisq Ltd</gtr:name><gtr:address><gtr:line1>Malvern Hills Science Park, 
+Geraldine Road, 
+Malvern,</gtr:line1><gtr:city>MALVERN</gtr:city><gtr:postCode>WR14 3SZ</gtr:postCode><gtr:region>West Midlands</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/314D16FE-FE4D-4538-A917-FBD0A2455595" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>314D16FE-FE4D-4538-A917-FBD0A2455595</gtr:id><gtr:name>Drisq Ltd</gtr:name><gtr:address><gtr:line1>Malvern Hills Science Park, 
+Geraldine Road, 
+Malvern,</gtr:line1><gtr:city>MALVERN</gtr:city><gtr:postCode>WR14 3SZ</gtr:postCode><gtr:region>West Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>49139.0</gtr:offerGrant><gtr:projectCost>70199.0</gtr:projectCost></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9</gtr:id><gtr:name>University of Oxford</gtr:name><gtr:address><gtr:line1>University Chest</gtr:line1><gtr:line2>Wellington Square</gtr:line2><gtr:line4>Oxford</gtr:line4><gtr:postCode>OX1 2JD</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>23830.0</gtr:offerGrant><gtr:projectCost>23830.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/67CB5036-DE73-4DDA-80C7-A18242D0707A"><gtr:id>67CB5036-DE73-4DDA-80C7-A18242D0707A</gtr:id><gtr:firstName>Colin</gtr:firstName><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=132298"><gtr:id>DA103DDE-F80D-4B07-8E0A-8AF90FA51527</gtr:id><gtr:title>SeaSwarm</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Feasibility Studies</gtr:grantCategory><gtr:grantReference>132298</gtr:grantReference><gtr:abstractText>This proposal concerns the verification of a Cyber Physical System (an autonomous sea vehicle) with respect to
+
+a requirement for collision avoidance while maintaining swarm behaviour with other autonomous sea vehicles.
+
+The work builds upon a D-RisQ case study of verifying collision avoidance requirements for decision making
+
+software on-board a sea vehicle for remote unmanned over the horizon operation. The step change is the
+
+provision of communication between individual decision making systems to enable emergent swarming
+
+behaviour. Such swarming behaviour can be harnessed for search and location. The verification will be
+
+addressed by the use of compositional techniques and a powerful model checker that can be run very cheaply
+
+on cloud servers in order to scale the exhaustive search through trillions of states. The current limiting factor
+
+for modelling swarms is the time taken to compile large models consisting of many parallel components.
+
+Oxford University will investigate how compilation can exlpoit multiple cores to speed up compilation, and how
+
+lazy compilation can be used to speed-up the compilation of systems containing complex parallel components.</gtr:abstractText><gtr:fund><gtr:end>2017-04-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2016-05-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>72969</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">132298</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

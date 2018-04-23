@@ -1,0 +1,1249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/D1774113-D5D2-4B7C-A412-66A90FE4B96F"><gtr:id>D1774113-D5D2-4B7C-A412-66A90FE4B96F</gtr:id><gtr:name>University of Cambridge</gtr:name><gtr:department>Computer Laboratory</gtr:department><gtr:address><gtr:line1>Lensfield Road</gtr:line1><gtr:line4>Cambridge</gtr:line4><gtr:postCode>CB2 1EW</gtr:postCode><gtr:region>East of England</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/D1774113-D5D2-4B7C-A412-66A90FE4B96F"><gtr:id>D1774113-D5D2-4B7C-A412-66A90FE4B96F</gtr:id><gtr:name>University of Cambridge</gtr:name><gtr:address><gtr:line1>Lensfield Road</gtr:line1><gtr:line4>Cambridge</gtr:line4><gtr:postCode>CB2 1EW</gtr:postCode><gtr:region>East of England</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/A1FA5E2C-705B-4A74-9596-1A1CAC2A8375"><gtr:id>A1FA5E2C-705B-4A74-9596-1A1CAC2A8375</gtr:id><gtr:name>IBM</gtr:name><gtr:address><gtr:line1>IBM Corporation</gtr:line1><gtr:line2>1 New Orchard Road</gtr:line2><gtr:line4>Armonk</gtr:line4><gtr:line5>NY 10504-1722</gtr:line5><gtr:region>Outside UK</gtr:region><gtr:country>United States</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/3B1E5961-8677-4A32-B15C-12FB968FA163"><gtr:id>3B1E5961-8677-4A32-B15C-12FB968FA163</gtr:id><gtr:name>University of Pennsylvania</gtr:name><gtr:address><gtr:line1>3451 Walnut Street,</gtr:line1><gtr:line2>Suite P-221</gtr:line2><gtr:line3>Franklin Building</gtr:line3><gtr:line4>Philadelphia</gtr:line4><gtr:postCode>PA 19104</gtr:postCode><gtr:region>Outside UK</gtr:region><gtr:country>United States</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/C8EEEFEF-593E-4880-BD7C-14D9E2D6BBC5"><gtr:id>C8EEEFEF-593E-4880-BD7C-14D9E2D6BBC5</gtr:id><gtr:name>Purdue University</gtr:name><gtr:address><gtr:line1>West Lafayette</gtr:line1><gtr:region>Outside UK</gtr:region><gtr:country>United States</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/98BF5121-C99E-4246-971D-E7C4C3783EB4"><gtr:id>98BF5121-C99E-4246-971D-E7C4C3783EB4</gtr:id><gtr:name>University of Texas at Austin</gtr:name><gtr:address><gtr:line1>One University Station</gtr:line1><gtr:postCode>78712</gtr:postCode><gtr:region>Outside UK</gtr:region><gtr:country>United States</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/25488491-A8FF-454A-A39D-3C98E0C10823"><gtr:id>25488491-A8FF-454A-A39D-3C98E0C10823</gtr:id><gtr:name>INRIA Paris - Rocquencourt</gtr:name><gtr:address><gtr:line1>Domaine de Voluceau - Rocquencourt</gtr:line1><gtr:line2>B P 105</gtr:line2><gtr:line4>Le Chesnay</gtr:line4><gtr:line5>F-78153</gtr:line5><gtr:region>Outside UK</gtr:region><gtr:country>France</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/D3B87273-2C57-450B-A45D-8CE1F6542138"><gtr:id>D3B87273-2C57-450B-A45D-8CE1F6542138</gtr:id><gtr:name>The FreeBSD Foundation</gtr:name><gtr:address><gtr:line1>PO Box 20247</gtr:line1><gtr:region>Outside UK</gtr:region><gtr:country>United States</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/1850C875-CBFE-4487-AD7B-A5EA05A06BA3"><gtr:id>1850C875-CBFE-4487-AD7B-A5EA05A06BA3</gtr:id><gtr:name>ARM Ltd</gtr:name><gtr:address><gtr:line1>Central Building</gtr:line1><gtr:line2>110 Fulbourn Road</gtr:line2><gtr:line4>Cambridge</gtr:line4><gtr:postCode>CB1 9NJ</gtr:postCode><gtr:region>East of England</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/F262B9E0-E9D1-4BFF-B9BF-B4C81D12D8B9"><gtr:id>F262B9E0-E9D1-4BFF-B9BF-B4C81D12D8B9</gtr:id><gtr:name>Microsoft Research Ltd</gtr:name><gtr:address><gtr:line1>21 Station Road</gtr:line1><gtr:postCode>CB1 2FB</gtr:postCode><gtr:region>East of England</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/C78926DB-8710-402A-B3BA-9AA387D7996B"><gtr:id>C78926DB-8710-402A-B3BA-9AA387D7996B</gtr:id><gtr:firstName>Susmit</gtr:firstName><gtr:surname>Sarkar</gtr:surname><gtr:roles><gtr:role><gtr:name>RESEARCHER</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/6E102699-DA16-41FA-9901-1E06487D34EF"><gtr:id>6E102699-DA16-41FA-9901-1E06487D34EF</gtr:id><gtr:firstName>Andrew</gtr:firstName><gtr:otherNames>Mawdesley</gtr:otherNames><gtr:surname>Pitts</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/0D11BDAD-B407-4C0D-8B2E-A398D7D5FD62"><gtr:id>0D11BDAD-B407-4C0D-8B2E-A398D7D5FD62</gtr:id><gtr:firstName>Peter</gtr:firstName><gtr:otherNames>Michael</gtr:otherNames><gtr:surname>Sewell</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/FE9FD85A-506C-4361-AF7C-71BFE4B03CA2"><gtr:id>FE9FD85A-506C-4361-AF7C-71BFE4B03CA2</gtr:id><gtr:firstName>Jon</gtr:firstName><gtr:surname>Crowcroft</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/5995F42E-A05F-41E1-A9E4-639DA1299E9F"><gtr:id>5995F42E-A05F-41E1-A9E4-639DA1299E9F</gtr:id><gtr:firstName>Simon</gtr:firstName><gtr:surname>Moore</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/F3F02906-B12D-42CE-900C-FD7E039C083F"><gtr:id>F3F02906-B12D-42CE-900C-FD7E039C083F</gtr:id><gtr:firstName>Philippa</gtr:firstName><gtr:surname>Gardner</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/371F6B6C-B53D-4330-AB87-DD1B601638B7"><gtr:id>371F6B6C-B53D-4330-AB87-DD1B601638B7</gtr:id><gtr:firstName>Mike</gtr:firstName><gtr:surname>Gordon</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/562795EA-176A-4038-8328-64025E432417"><gtr:id>562795EA-176A-4038-8328-64025E432417</gtr:id><gtr:firstName>Steven</gtr:firstName><gtr:surname>Hand</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/143D5D3F-A6C8-4098-9BDE-C588734E997E"><gtr:id>143D5D3F-A6C8-4098-9BDE-C588734E997E</gtr:id><gtr:firstName>Robert</gtr:firstName><gtr:otherNames>Nicholas</gtr:otherNames><gtr:surname>Watson</gtr:surname><gtr:roles><gtr:role><gtr:name>RESEARCHER</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/092A25D8-BE2E-44CE-8DA0-CACF7061FD5B"><gtr:id>092A25D8-BE2E-44CE-8DA0-CACF7061FD5B</gtr:id><gtr:firstName>Ian</gtr:firstName><gtr:surname>Stark</gtr:surname><gtr:orcidId>0000-0001-6800-812X</gtr:orcidId><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/4A33AA98-0BBB-4B00-BBCE-DA3FFE992D2E"><gtr:id>4A33AA98-0BBB-4B00-BBCE-DA3FFE992D2E</gtr:id><gtr:firstName>Scott</gtr:firstName><gtr:otherNames>Alan</gtr:otherNames><gtr:surname>Owens</gtr:surname><gtr:orcidId>0000-0002-7437-4780</gtr:orcidId><gtr:roles><gtr:role><gtr:name>RESEARCHER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=EP%2FK008528%2F1"><gtr:id>B04CC313-2C7B-4F09-A192-E7D71A607377</gtr:id><gtr:title>REMS: Rigorous Engineering for Mainstream Systems</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/K008528/1</gtr:grantReference><gtr:abstractText>Computer systems are critical to modern society, from embedded devices and mobile phones through to internet services, but traditional computer engineering cannot produce reliable and secure systems, as we see in the continual stream of errors and security flaws impacting industry and consumers everywhere. Industry relies on informal prose specifications and ad hoc testing, but the complexity and scale of today's systems make it effectively impossible to exclude errors using only these methods (even though perhaps 70\% of development staff in major vendors are devoted to testing) and adversarial exploits all too often turn errors into major security concerns, with huge financial and social costs. Compounding the problem, the industry-wide abstractions around which real systems are built, including the architectural interfaces between multiprocessor hardware and software, and programming languages such as C and C++, are ill-defined, giving rise to ambiguity and error.
+
+This is a long-standing problem, motivating extensive research on mathematically rigorous alternatives. Until now, it has been impractical to address mainstream widely-deployed systems with rigorous techniques. Academic research has focussed instead on modest-scale safety critical systems and academic verifications of idealised systems. There has been a deep disconnect between practical industrial engineering and systems research on the one hand, and theoretical research in semantics, verification, and foundations on the other. Now, however, the new approaches that we have, with a pragmatic emphasis on the use of mathematically rigorous models where they can be most effective, finally make it feasible to address industrial-scale systems--- and the commercial and social cost of not doing so is becoming ever greater. It is time for rigorous engineering of mainstream systems, unifying practice and theory.
+
+REMS brings together a team of leading theory and systems researchers, with key industrial partners, to establish a new synthesis. We will establish a true engineering mathematics for the construction of more robust and secure computer systems: mathematically rigorous models, verification techniques, and engineering tools applied to the construction of full-scale mainstream computer systems, including key infrastructure in widespread use today (multiprocessors, programming languages, and operating systems). We will couple this with novel programming-language and verification support for future system-building. Developing our recent work with processor vendors and language standards bodies, we will address the technical, engineering and social challenges necessary to bring these techniques into widespread use, enabling a radical improvement in computer engineering as a whole.</gtr:abstractText><gtr:potentialImpactText>Computer systems are pervasive, from a host of embedded devices (in everything from heating controllers and power distribution networks to cars and mobile phones), through the Internet giving us email and the web, up to the supercomputers used for weather forecasting and scientific research. We rely on them in almost everything we do, but they are fundamentally unreliable: they are developed by testing-based methods that cannot handle the complexity of modern systems. The result is a high direct cost, to build adequate systems by these inadequate methods, and a much higher indirect cost, on all of society, to handle the inevitable bugs and inexplicable behaviours that occur and to deal with the security problems that arise when the remaining errors are exploited.
+
+
+The ambitious aim of the REMS project is to enable and provoke a profound change in how computer systems are engineered, placing *mathematically rigorous* engineering methods at the heart of the development of mainstream systems. This will be achieved by building on precise mathematical models of some of the key abstractions around which all computer systems are constructed: multiprocessors and the C programming language. It will not remove all problems, but it will provide a significant step towards making the products of computer engineering as reliable as the other engineering infrastructure on which society depends.
+
+Towards this broad societal impact are many specific opportunities for economic impact, including:
+
+- On the architectural interface between hardware and software, our processor-vendor partners ARM and IBM will benefit directly from improved specifications, the testing tools that they enable, and discussions of future architectural choices; all users of this interface (compiler and operating system vendors) will benefit from the increased clarity.
+
+- On the definition of the C language, system developers will benefit directly from more accurate ISO standards and improved core infrastructure and, more concretely, from our static and dynamic analysis tools.
+
+- Several start-up possibilities that may arise from particular subtasks, e.g. from some of our tool developments, which we will pursue as appropriate, building on our XenSource experience.
+
+
+
+The most important economic impact will be via the eventual effects of deploying rigorous methods across the computing industry, improving quality and reducing time- and cost-to-market for its products. By improving the quality of these products, we will reduce the hidden cost of unreliability and insecurity in computer systems, which affect us all.</gtr:potentialImpactText><gtr:fund><gtr:end>2020-02-28</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2013-03-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>5575634</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs><gtr:impactSummaryOutput><gtr:description>Clarification of the behaviour of multiprocessors, programming languages, and security protocols</gtr:description><gtr:firstYearOfImpact>2014</gtr:firstYearOfImpact><gtr:id>3B183F7A-7B5E-4B15-B574-43B7F68EE276</gtr:id><gtr:impactTypes><gtr:impactType>Economic</gtr:impactType></gtr:impactTypes><gtr:outcomeId>56d571258070a9.52143227</gtr:outcomeId><gtr:sector>Digital/Communication/Information Technologies (including Software)</gtr:sector></gtr:impactSummaryOutput></gtr:impactSummaryOutputs><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>REMS: Rigours Engineering for Mainstream Systems
+
+EPSRC Programme Grant EP/K008528/1, &amp;pound;5.6M, 2013-2019
+
+http://rems.io
+
+Progress Report, Year 4 (2016-17)
+
+ ******
+Principal Investigator: Peter Sewell (Computer Laboratory,
+ University of Cambridge)
+Co-Investigators: Jon Crowcroft, Mike Gordon, Anil Madhavapeddy, Andrew
+ Pitts,
+ Simon Moore, Robert Watson (Cambridge);
+ Philippa Gardner (Imperial); Ian Stark (Edinburgh)
+Industrial Partners: ARM, IBM, Microsoft, FreeBSD Foundation
+Academic Partners: INRIA, University of Pennsylvania, Purdue University,
+ U. Texas Austin
+***** Contents *****
+ * 1 Introduction:_the_REMS_project
+ * 2 Task 1:_Semantic_tools
+ * 3 Task 2:_Architectural_Multiprocessor_Semantics
+ * 4 Task 3:_Systems_Programming_Languages
+ * 5 Task_4a:_System_APIs_and_Protocols
+ * 6 Task_4b:_Concurrency_Reasoning
+ * 7 New_REMS_publications_since_the_previous_annual_report
+ * 8 Summary_of_REMS_publications_by_calendar_year
+ * 9 All_REMS_publications
+
+***** 1 Introduction: the REMS project *****
+The mainstream computing infrastructure on which we all rely works well enough
+to support much of modern society, but it is neither robust nor secure -
+as demonstrated over the years by untold numbers of system failures and
+successful malicious attacks. Fundamentally, this is because the engineering
+methods by which computer systems are built are not up to the task. Normal
+practice involves a test-and-debug engineering process, with triumvirates of
+code, manually curated tests, and prose specification documents; it relies also
+on the division of labour that is enabled by common interfaces, allowing
+systems to be composed of subsystems built by different groups. But prose
+specification documents do not provide an oracle that one can test a system
+against, leaving code, tests, and specifications only weakly related; they are
+inherently ambigous, lacking mathematical precision; and the existing
+specifications of many key interfaces leave much to be desired. Moreover, some
+of the legacy interfaces that we still rely on, such as the C programming
+language, were simply not designed to protect against accidental error and
+malicious attack.
+
+REMS (Rigorous Engineering for Mainstream Systems), is a 6-year EPSRC-funded
+Programme Grant (2013-2019, &amp;pound;5.6M, Cambridge, Imperial, and Edinburgh) to
+explore how we can use rigorous mathematics to improve engineering practice for
+mainstream computer systems, to make them more robust and secure: broadly, to
+&amp;quot;create the intellectual and software tools to apply semantics and
+verification at the heart of mainstream system engineering&amp;quot;. Addressing
+this problem needs close interaction between the normally disjoint cultures of
+systems and semantics research, and REMS brings together an unusual combination
+of researchers in both to achieve this: in architecture, operating systems,
+security, and networks, and in programming languages, automated reasoning, and
+verification. Building on many years of research worldwide on mathematical
+semantics and verification, we are finally in a position to scale up, to apply
+mathematically rigorous semantics to mainstream systems:
+
+ * to develop rigorous semantics for key mainstream abstractions; and
+ * to improve those, and to develop new systems research, using rigorous
+ semantics and semantics-based tools.
+
+The project is focussed on lightweight rigorous methods: precise specification
+(post hoc and during design) and testing against specifications, with full
+verification only in some cases. It thus provides a relatively smooth adoption
+path from conventional engineering, and the project emphasises building useful
+(and reusable) semantics and tools. We are building accurate full-scale
+mathematical models of some of the key computational abstractions (processor
+architectures, programming languages, concurrent OS interfaces, and network
+protocols), studying how this can be done, and investigating how such models
+can be used for new verification research and in new systems and programming
+language research. Supporting all this, we are also working on new
+specification tools and their foundations.
+
+REMS is organised into five interlinked tasks, shown in Fig. ??. Three
+tasks are focussed on the three key abstractions: Task 2 on multicore
+processor architectures, Task 3 on programming languages, and Task 4a
+on concurrent systems software interfaces. In each of these, some subtasks
+build models and specifications of key parts of today's mainstream
+interfaces or of major research proposals, while other subtasks go on to apply,
+extend, and relate those models. For all three, good semantic tools, built in
+Task 1, are needed to work with the large mathematical definitions of our
+models. Task 4b addresses higher-level abstractions and the theory of how
+we can reason about these concurrent systems (Task 4 of the original
+proposal has been split into Task 4a and Task 4b for clarity).
+
+Much of this needs collaboration not just between systems and semantics
+researchers within the project, but also with academic partners elsewhere and
+with industry vendors and groups. Some of the latter are shown in Fig. ??;
+we have substantial interactions with ARM, IBM, the ISO C and C++ standards
+committees (WG14 and WG21), the IETF, the ECMAScript committee, and Amazon, and
+other interactions with POSIX, the FreeBSD development community, the Linux
+concurrency development community, Qualcomm, Apple, and Nvidia. Also very
+important are close working links with other major academic projects,
+especially:
+ * CTSRD: Rethinking the hardware-software interface for security (including
+ CHERI) (Moore, Neumann, Watson et al.; Cambridge and SRI International)1
+ * CakeML: A Verified Implementation of ML (Fox, Kumar, Myreen, Norrish,
+ Owens, Tan; Chalmers, Kent, Cambridge, Data61)2
+ * OCaml Labs and Mirage OS (Madhavapeddy et al.; Cambridge)3
+ * SibylFS: A Filesystem Test Oracle (Ridge et al.; Leicester)4
+
+Academic collaborators include colleagues at St Andrews, Kent, Leicester, INRIA
+Paris, Chalmers, NICTA Australia, and the DeepSpec NSF Expedition in Computing
+in the USA.
+
+In this March 2017 report we summarise progress in the project as a whole and
+also highlight the work since the last progress report, in May 2016. The
+current state of the project, including links to all publications to date and
+to our main models and software, is presented on the REMS web page5.
+
+***** 2 Task 1: Semantic tools *****
+The mathematical models of mainstream-system abstractions that we need have to
+be expressed in well-defined formal languages, for the sake of mathematical
+precision, and those languages need good software tool support, to let us
+handle large and complex definitions. In this task we address the foundational
+question of what formal languages are suitable for this purpose; the pragmatic
+question of what facilities good tool support should provide; and the
+engineering question of actually building these tools to a sufficient quality
+to be usable by other researchers and by industry staff. In REMS we are
+developing and using:
+
+ * Lem, a tool for large-scale portable semantic specification [MOG+14,
+ Cle14]. Lem supports the definition language of a typed higher-order
+ logic, and compiles to LaTeX and (for various fragments) to OCaml, LaTeX,
+ HTML, Coq, HOL4, and Isabelle/HOL. Lem is available under an open-source
+ licence6. It is used in our work on Sail, concurrent architecture
+ specification, CakeML, ELF linking, Concurrent C semantics, Sequential C
+ semantics, and SibylFS POSIX filesystem semantics.
+ * L3, a domain-specific language for sequential processor instruction-set
+ semantic definition [Fox15, FMTK17]. L3 exports to HOL4 and
+ Isabelle/HOL, including Hoare-triple generation, and to SML, providing
+ reasonably fast emulation. L3 is available under an open-source licence7.
+ It is used in our work on CakeML, CHERI, and instruction testing.
+ * Sail, a domain-specific language for concurrent and sequential processor
+ instruction-set definition [GKM+15, FGP+16]. Sail has a richer type
+ system than L3, with lightweight dependent types for vector lengths and
+ indices and for integer ranges; it supports integration of instruction-
+ set semantics with concurrency models. Sail exports both a deep
+ embedding, in a form that can be executed by a Sail interpreter written
+ in Lem, and shallow embeddings to Lem and OCaml. Sail is available under
+ an open-source licence8. It is used in our work on concurrent
+ architecture speification and CHERI.
+
+We continue to maintain the Ott tool for programming language semantic
+definition (supporting user-defined syntax and inductive relations over it, and
+compiling to LaTeX, Coq, HOL4, and Isabelle/HOL). Ott is available under an
+open-source licence9, and it is available as an OPAM package.
+We also study the foundations needed for future semantic tools, focussed on
+Nominal Type Theory [PMD15].
+
+In Year 4:
+ * Paper [FMTK17] was published.
+ * We continue to maintain Lem, L3, Sail, and Ott as needed. We have shifted
+ Sail and Ott development to public repositories (respectively bitbucket
+ and github) and packaged Ott as an OPAM package.
+ * We have extended Sail with support for generating shallow embeddings of
+ Sail definitions in various targets, for more efficient execution and to
+ produce usable theorem-prover definitions. [Pulte, Gray]
+ * We have written a draft manual for Sail (distributed also to ARM).
+ * We have worked on the translation from the ARM-internal ARMv8-
+ A instruction specification into Sail, as discussed in Task 2.
+ [Gray]
+ * Two new PhD students with interests in Semantic tools have started at
+ Cambrige: Conrad Watt (moved from the Imperial REMS group), and Mark
+ Wassell.
+
+***** 3 Task 2: Architectural Multiprocessor Semantics *****
+The first key interface we address is the architectural interface between
+hardware and software, specifying the multiprocessor behaviours that processor
+implementations guarantee and that systems code relies on. Normal industrial
+practice is to specify this interface in informal-prose architecture reference
+manuals, sometimes with pseudocode descriptions of the sequential instruction
+semantics, but these descriptions cannot be used directly to test either the
+hardware below the interface or software above it, or to build verification
+tools, let alone as a basis for proof. Compounding the problem, architectures
+must be nondeterministic loose specifications, to accommodate
+microarchitectural variation, so one cannot simply characterise them with
+reference implementations.
+
+We are pursuing several directions here, focussed on the ARM and IBM POWER
+production architectures and on the CHERI research architecture. The ARM
+architecture is the basis for the processors used in the majority of mobile
+phones and many other devices; the IBM POWER architecture is used, among other
+things, for high-performance server machines. For each of those, we have
+addressed two aspects of the architecture: the behaviour of individual
+instructions, in the instruction-set architecture (ISA), and the concurrency
+model describing how instructions in different hardware threads interact.
+
+ARM ISA For the sequential user-mode fragment of the ARMv8-
+A architecture, we hand-wrote Sail and L3 models (covering the user-mode
+fragment, without vector instructions, floating-point, or exceptions) 
+[FGP+16]. These are available online10. We tested the Sail model by generating
+around 8400 single-instruction tests and comparing their behaviour in the model
+and on ARMv8 hardware. For the sequential aspects of the ARMv8-A architecture,
+ARM have internally a machine-readable and well-tested description of their
+full ISA, in their ASL language by Reid et al. We have established a legal
+agreement with ARM giving us access to this, enabling us to port it to a
+mathematical model in our Sail language (work in progress) and to distribute
+that model under a usable licence for other groups to use as a basis for
+verification. From preliminary discussions there is strong interest in this,
+e.g. from the seL4 group in NICTA Australia and the DeepSpec NSF
+Expeditions project. We obtained additional EPSRC Impact Acceleration Account
+(IAA) funding for some of this work, in the form of a Knowledge Transfer
+Fellowship for Kathy Gray, with ARM. We also developed sequential L3 models for
+the ARMv6-A and ARMv7-A architectures and the ARM Cortex-M0 implementations,
+the former including floating-point and some system-level instructions, and the
+latter equipped with accurate cycle counts for work on resource-aware
+compilation [Gray, Flur, Pulte, Fox, Reid (ARM), Campbell, Stark, Sewell]
+
+In Year 4:
+ * We have worked on the translation from ASL to Sail, to support
+ integration of the ARM instruction semantics with our concurrency models,
+ and to support generation of theorem-prover definitions for the ISA.
+ [Gray, Reid (ARM), Sewell]
+
+ARM Concurrency We have developed operational models covering
+substantial parts of the ARMv8-A concurrency architecture, in close
+collaboration with ARM staff, and integrated with the above Sail models of
+substantial fragments of the user-mode instruction set architecture 
+[FGP+16, FSP+17]. Our concurrency test suite, maintained jointly with Maranget
+(INRIA Paris), now includes 11812 ARMv8 tests. We have found bugs in the
+hardware produced by a number of vendors (reported to them and acknowledged as
+such). Part of this work is additionally funded by an EPSRC/ARM iCASE PhD
+studentship (Pulte). [Flur, Pulte, Gray, Sarkar (St Andrews), Sezgin, Maranget
+(INRIA Paris), Deacon (ARM), Grisenthwaite (ARM), Sewell]
+
+In Year 4:
+ * We have extended our models to cover concurrent mixed-size memory
+ accesses; Paper [FSP+17] was published.
+ * We continue to discuss the intended concurrency semantics with ARM on a
+ regular basis, together identifying and resolving many deep and highly
+ technical questions about what the intended architecture is and how it
+ can be modelled.
+
+ARM Virtual Memory In Year 3, as first steps towards extending
+our concurrency models to cover virtual memory, TLBs, etc., we hosted a three-
+week visit from a member of the ARM Linux team, to identify the key concurrent
+use-patterns, and visits from Mads Dam's group in KTH Stockholm, who use
+our L3 ARM ISA model and are developing a virtual memory model. [Martin (ARM),
+Dam (KTH), Baumann (KTH), Flur, Gray, Pulte, Sezgin, Sewell]
+
+IBM POWER ISA The instruction semantics of IBM POWER are largely
+described in the vendor documentation with an informal pseudocode, that has not
+previously been parsed or type-checked. We were provided with an XML export of
+this, from which we have built a semi-automatic translation to provide a Sail
+model for the user-mode fragment, without vector instructions, floating-point,
+or exceptions [GKM+15]. We tested this by generating single-instruction
+test cases and comparing their behaviour in the model and on POWER 7 hardware;
+for the 154 user-mode branch and fixed-point instructions, we generated 6984
+tests. We also received a donation of a Power 8 server machine from IBM, for
+concurrency and ISA testing, and hosted a visit from our collaborator there,
+with other members of the group from St Andrews and INRIA Paris. [Gray, Flur,
+Kerneis, Mulligan, Pulte, Sarkar (St Andrews), Maranget (INRIA Paris), Williams
+(IBM), Sewell]
+
+IBM POWER Concurrency We continue to develop our operational models
+covering substantial parts of the IBM POWER architecture, in close
+collaboration with IBM staff, and integrated with the above Sail models of
+substantial fragments of the user-mode instruction set architecture. Our
+concurrency test suite, maintained jointly with Maranget (INRIA Paris), now
+includes 27689 POWER tests. [Flur, Pulte, Sarkar (St Andrews), Maranget (INRIA
+Paris), Williams (IBM), Sewell]
+
+In Year 4:
+ * We have extended our models to cover concurrent mixed-size memory
+ accesses; Paper [FSP+17] was published.
+ * We continue to discuss the intended concurrency semantics with IBM on a
+ regular basis.
+
+Model engineering For the above ARM and POWER ISA and concurrency
+models, we have devoted significant effort to 'model
+engineering': tidying the definitions, addressing performance issues,
+and establishing an automated regression system. [Flur, Pulte, Gray]
+
+Concurrent Semantics Tool The above ARM and POWER models are
+integrated into a tool that can input either concurrency tests (&amp;quot;litmus
+tests&amp;quot;) or ELF binaries, e.g. produced by compilation by GCC or
+Clang from C files. This uses our ELF model from Task 3. It supports
+interactive exploration of their behaviour in the model and (for small tests)
+computation of the sets of all their model-allowed behaviours, which can then
+be compared with experimental data, obtained using the litmus tool (principally
+developed by Maranget), from production silicon or simulation. [Flur, Pulte,
+French, Sewell]
+
+In Year 4:
+ * We continue to develop this tool, maintaining the web interface.
+ * We have added support for the DWARF debug information of C programs.
+ * We have added functionality akin to a debugger, e.g. allowing
+ setting breakpoints, to let one explore the behaviour of concurrent
+ algorithms with respect to the full concurrency models.
+
+CHERI ISA Clean Slate Trustworthy Secure Research and Development
+(CTSRD) is a joint research project between SRI International and the
+University of Cambridge, led by Robert Watson and Simon Moore at Cambridge and
+Peter Neumann at SRI, supported by DARPA (part of the DARPA CRASH programme)
+and Google. The project is revisiting the hardware-software security interface
+for general-purpose CPUs to fundamentally improve security. A key part of this
+is CHERI [WNW+16, WNW+15, WCD+15, WWN+15]: a processor architecture and
+implementations supporting hardware-accelerated in-process memory protection
+and sandboxing model based on a hybrid capability model, together with an open-
+source operating system and toolchain based on FreeBSD and Clang/LLVM. In
+contrast to ARM and IBM POWER, this is a research architecture, not a
+mainstream production architecture, but it is being developed at scale,
+e.g. with a software stack including a variant of a production OS
+(FreeBSD).
+
+The CHERI development [WNW+15] uses a formal definition of the CHERI ISA
+as a central design tool, supported by REMS: the primary definition is
+expressed in our L3 ISA description language, and we are currently porting it
+to Sail, including a Sail MIPS model. These models are complete enough to boot
+FreeBSD. The CHERI compiler and operating-system work [WCD+15] builds on
+this and also feeds into our Task 3 Cerberus C work, as described below. We
+have also started work on formal verification in Isabelle/HOL and HOL4 of
+properties of the CHERI ISA. [CHERI team, Roe, Norton-Wright, Nienhuis, Fox,
+Gray]
+
+In Year 4:
+ * Paper [WNW+16] was published.
+ * We continue to develop our L3 and Sail CHERI and MIPS models, with a
+ focus this year on modelling, testing, and performance assessment for the
+ 128-bit version of CHERI.
+ * The HOL4 theorem prover was used to verify critical properties of the
+ bit-vector computations that form the basis of CHERI's 128-bit
+ compressed capability scheme. This helped identify ambiguities and
+ mistakes made in presenting and implementing this scheme.
+ * We have proved (with mechanised Isabelle proof) some fundamental security
+ properties of the CHERI architecture as a whole.
+
+Processor Testing We have developed a flow for automatically
+generating interesting sequences of instructions, using theorem-prover and SMT
+technology to ensure that any necessary preconditions are met [CS14,
+CS16b, CS16a]. We have applied this to testing our model of the ARM Cortex-M0
+microcontroller and to our MIPS and CHERI L3 models, including coverage of
+exceptions, and found several modelling bugs. We also developed a novel semi-
+automatic technique to prove invariants of the M0 and CHERI models needed as
+assumptions in test generation. The method is based on some HOL4 tactics akin
+to refinement typing, and scales up to models with hundreds of functions.
+[Campbell, Stark. Roe]
+We have produced a generic synthesisable test bench, BlueCheck [NM15].
+This has been used to check various microarchitectural properties of CHERI,
+finding some bugs. It has also been used for teaching in MIT (in the 6.175
+Computer Architecture course). [Naylor, Moore]
+Our Axe tool [NMM16] for testing the concurrency behaviour of processor
+storage subsystems (including their cache implementations) has been invaluable
+in testing multicore CHERI implementations and has also found substantial bugs
+in the Berkeley RISC-V processor design; it has been incorporated into the main
+design flow in both cases. [Naylor, Moore]
+
+In Year 4:
+ * For our instruction-sequence testing, we have improved usability to help
+ others generate tests, increased coverage with all-exceptions mode,
+ tested CHERI in user mode, automatically derived instruction generation
+ from simple instruction decoders, used to quickly set up test generation
+ for 64-bit RISC-V, and started cross testing Sail CHERI model
+ * It has been used to find a number of bugs in the QEMU-based emulation of
+ CHERI (which have been fixed).
+ * It also discovered some bugs in the upstream QEMU emulation of the MIPS
+ ISA, which have been reported to QEMU's maintainers.
+ * It now has improved testing of load-linked/store-conditional (single
+ core, not multicore); the L3 model of these has also been improved.
+ * Papers [CS16a, NMM16] were published.
+
+CakeML Architecture Models This task also provides the L3
+architecture models used in the CakeML verified compiler, further discussed in
+Task 3. CakeML uses the above ARMv6-A and ARMv8-A models, together with
+MIPS and x86-64 models developed here and a RISC-V model developed by Prashanth
+Mundkur at SRI International. [Fox, Mundkur (SRI), Roe]
+
+In Year 4:
+ * Paper [FMTK17] was published.
+ * Most of the CakeML activity has centred around adding target support for
+ bignum arithmetic for those models.
+ * We have completed some bit-vector proofs within the backend verification
+ and worked on speeding up the machine-code encoder evaluation within the
+ logic (for bootstrapping).
+ * We are currently working on adding floating-point support to CakeML, and
+ to its target models, and extending/improving HOL4's floating-
+ point development.
+
+GPU Concurrency We studied the concurrency semantics of GPUs,
+conducting a large empirical study of their behaviour and proposing a model of
+Nvidia GPU hardware [ABD+15]. [Batty, with colleagues in UCL, Imperial,
+Utah, and Oxford]
+
+***** 4 Task 3: Systems Programming Languages *****
+Here our main focus is on abstractions used for real-world systems programming,
+looking at the C language (both sequential and concurrent aspects), linking
+(specifically at the ELF format), runtime typechecking for systems code (in the
+libcrunch system), and JavaScript. We are also contributing to the CakeML
+verified compiler.
+
+Sequential C (Cerberus) The C programming language remains central
+to systems programming, but its semantics is problematic. Our work on the
+sequential aspects of C semantics proceeds on several fronts: investigating the
+de facto standards of C as it is implemented and used; addressing the ISO
+standard produced by the ISO WG14 C committee; and building an executable
+formal model, Cerberus. Here we have another strong collaboration with the
+CHERI work, with their experience in systems software (and specifically in
+porting it to the C supported by CHERI) informing our semantic understanding,
+and with this discussion identifying issues with the CHERI design. We are also
+investing significant effort in model engineering. Our initial paper on
+this [MML+16] was awarded a PLDI 2016 Distinguished Paper Award. We are
+participating in the ISO WG14 C standards committee: we attended the April 2016
+(London) and October 2016 (Pittsburgh) committee meetings, producing committee
+discussion papers ([MS16b, CMM+16, MS16e, MS16f] and [MS16d, MS16a, MS16c]),
+and discussing several issues at length with them. [Memarian, Borges,
+Matthiesen, Lingard, Nienhuis, Chisnall, Watson, Sewell]
+In Year 4:
+ * Development of Cerberus continues, especially its de facto standard
+ memory object model and model engineering, and we continue to discuss key
+ issues with the ISO WG14 committee members and others.
+ * Paper [MML+16] was published and WG14 Committee Papers [MS16d, MS16a,
+ MS16c] were produced.
+
+Concurrent C For concurrent C, we are addressing both the ISO C/
+C++11 concurrency model we previously contributed to and formalised (Batty et
+al., POPL 2011) and potential future models that would fix the so-called
+'thin-air problem' that C/C++11 suffers from.
+Batty's 2014 Cambridge PhD thesis The C11 and C++11 Concurrency Model
+was awarded the 2015 ACM SIGPLAN John C. Reynolds Doctoral Dissertation Award,
+presented annually to the author of the &amp;quot;outstanding doctoral
+dissertation in the area of Programming Languages&amp;quot;, and was the winner
+of the 2015 CPHC/BCS Distinguished Dissertations competition, selected as
+&amp;quot;the best British PhD/DPhil dissertations in computer science&amp;quot;.
+The WG14 C committee also approved his remaining defect reports w.r.t. the
+C11 concurrency model.
+We developed a C11 operational semantics that is proved equivalent (in
+Isabelle/HOL) to the Batty et al. axiomatic model, and moreover has been
+integrated into our Cerberus sequential C model to allow litmus tests to be
+executed [NMS16]. [Nienhuis, Memarian]
+We showed that no straightforward adaptation of the C/C++11 axiomatic model,
+phrased as a consistency predicate over candidate executions, can exclude thin-
+air reads while also admitting some standard optimisations, identified
+additional difficulties with undefined behaviour and with mixtures of atomic
+and nonatomic accesses. We also proved (in HOL4) that the C/C++11 model
+actually provides the DRF-SC guarantee [BMN+15]. [Batty, Memarian,
+Nienhuis, Pichon-Pharabod, Sewell]
+We proposed a model that admits compiler optimisation while avoiding the thin-
+air problem [PS16]; we are currently working on extending this and
+developing its metatheory. [Pichon-Pharabod, Sewell]
+Along with the extension of our ARM and IBM POWER hardware models to support
+mixed-size accesses, we proposed a corresponding extension to the C/C++11
+axiomatic model to support mixed-size non-atomic accesses [FSP+17].
+[Nienhuis, Batty]
+We also discussed a new problem with C/C++11, uncovered by groups in Princeton
+and MPI-SWS/SNU, that contradicts the soundness of compilation schemes from C/
+C++11 to ARM and POWER (pre-REMS, we had published hand proofs of those that
+now turn out to be flawed); this will require additional changes to C/C++11.
+
+In Year 4:
+ * Papers [NMS16, FSP+17] were published.
+
+ELF Systems software in reality is written not just in more-or-less
+conventional programming languages, like C and C++, but also using a complex
+menagerie of techniques to control the linking process. This linker speak is
+often poorly understood by working programmers and has largely been neglected
+by language researchers. We have surveyed the many use-cases that linkers
+support and developed the first validated formalisation of a realistic
+executable and linkable format, ELF, together with an executable specification
+of linking with substantial coverage [KMS16]. This ELF model is used in
+our Task 2 architectural emulation tool and we are looking to incorporate
+it into CakeML; we have started to prove metatheory (in Isabelle/HOL),
+currently focussed on relocation correctness. [Kell, Mulligan, Zappa Nardelli,
+Sewell]
+In Year 4:
+ * Paper [KMS16] was published.
+
+C runtime type checking: libcrunch In a more systems-oriented vein,
+we are developing a system for run-time type checking in C, libcrunch,
+extending it to additionally check array/pointer bounds [Kel16]. Using
+run-time type information, we have found it possible to tolerate real C idioms
+not supportable by fat-pointer schemes. Early indications suggest that the
+available run-time performance is comparable or better than competing
+approaches. This work also suggests potential tie-in with the CHERI project,
+currently being investigated.
+We have continued to refine the run-time type infrastructure underlying
+libcrunch into a more general-purpose infrastructure with a variety of other
+applications [Kel15] including debugging, interfacing native code with
+dynamic languages, and dealing with memory-mapped files. Its run-time metadata
+is also used by the system call work below. [Kell]
+In Year 4:
+ * Paper [Kel16] was published.
+
+System call modelling We have begun developing a partial semantics
+for system calls on x86-64 Linux. We created a domain-specific language for
+binary-level interfaces including a notion of memory footprint. We developed
+experimental apparatus for validating these footprints against real executions,
+using stock tools with detailed scripts to observing data flow across the user/
+kernel boundary. A preliminary integration with our Task 2 architectural
+emulation tool was also achieved. [Kell, French (intern)]
+Compiler Verification: CakeML and cost-lifting decompilation We
+continue to contribute to the CakeML development of a verified ML
+implementation, especially w.r.t. the backend ISA models and proof, as
+discussed in Task 2; we also envisage integrating the above ELF semantics
+into CakeML. [Fox, Mulligan]
+
+Cost-lifting decompilation aims to take resource requirements known at the
+machine code level, such as the timing information attached to our L3 model of
+ARMv6M, and express them in terms of the original high-level source code. Our
+starting point for this work is the decompilation and refinement work by Thomas
+Sewell, Magnus Myreen and Gerwin Klein, which establishes a functional
+refinement between source and object code using translation validation.
+In Year 4:
+ * For cost-lifting decompilation, we selected a few examples from the
+ M&amp;auml;lardalen WCET test suite, adapted them for ARM Cortex-M0 and fixed
+ several M0-specific problems with decompilation. We now have a good basis
+ for experimenting with cost lifting. [Campbell, Stark]
+
+JavaScript We have created an axiomatic specification of a key
+fragment of the Document Object Model (DOM) API using structural separation
+logic. This specification allows us to develop modular reasoning about client
+programs that call the DOM [RFG16]. We plan to develop a DOM plugin based on
+these specifications for the JavaScript verification tool currently in
+development at Imperial. [Raad, Fragoso Santos, Gardner]
+
+SOAAP Application compartmentalization, a vulnerability mitigation
+technique employed in programs such as OpenSSH and the Chromium web browser,
+decomposes software into isolated components to limit privileges leaked or
+otherwise available to attackers. We presented a new conceptual framework
+embodied in an LLVM-based tool: the Security-Oriented Analysis of Application
+Programs (SOAAP) that allows programmers to reason about compartmentalization
+using source-code annotations (compartmentalization hypotheses) [GWA+15].
+[Gudka, Watson, et al.]
+
+***** 5 Task 4a: System APIs and Protocols *****
+
+POSIX Filesystem Specification and Reasoning We have pursued two
+directions here: operational modelling, validated by extensive testing against
+production filesystem implementations, and program-logic work oriented towards
+reasoning about filesystems.
+SibylFS is a semantics and filesystem test oracle for POSIX filesystems 
+[RST+15]. SibylFS has been used to validate and identify bugs in existing
+production filesystems and in two verified filesystems (FSCQ and Flashix) from
+academia. [Ridge et al. (Leicester), Sheets, Madhavapeddy, Sewell]
+We have developed a separation logic style program logic for path-addressable
+structured data. We have applied this logic to develop a sequential
+specification of a core subset of POSIX file systems. This work demonstrated
+the modularity and scalability of reasoning about file-system client programs
+using simplified paths that allow updates to appear local [GNW14]. [Ntzik,
+Wright, Gardner]
+We have developed fusion logic, a file-system specific program logic based on
+separation logic, for reasoning about non-local properties of arbitrary paths
+using symbolic links or dot-dots. We have extended the previous sequential
+specification of core POSIX file systems to arbitrary paths. The extended
+specification and fusion logic were then used to reason about implementations
+of the rm utility, discovering bugs in popular implementations due to
+mishandling of symbolic links and dot-dots in paths [NG15]. [Ntzik,
+Gardner]
+We have extended concurrent program logics with reasoning about how programs
+are affected by, and recover from, host failures (crashes), as in file systems
+and databases [NdG15]. This extends the Views framework, which acts as a
+basis for many concurrent program logics, with host failure and recovery
+semantics; we instantiated this with a Fault-tolerant Concurrent Separation
+Logic and used it to verify properties of an ARIES recovery algorithm used in
+databases. [Ntzik, da Rocha Pinto, Gardner]
+
+TLS Security In another collaboration between our systems and
+semantics groups, we have developed a clean-slate specification and
+implementation of the Transport Layer Security (TLS) protocol - this is
+fundamental to internet use, but its implementations have a history of security
+flaws [MM14, KMMS15]. We are engaged in the TLS 1.3 design process 
+[KMM16], providing extensive testing facilities for other implementations; and
+we presented an outreach talk at 31C3 [MM15]. [Kaloper Mer?injak,
+Mehnert, Madhavapeddy, Sewell]
+In Year 4:
+ * We developed libnqsb-tls1 [DYM16], a drop-in replacement for the C
+ libtls library that wraps our pure OCaml TLS implementation ocaml-tls.
+ The code is available11. We have also demonstrated unmodified OpenBSD
+ system software running against our replacement library.
+ * We also developed a generic approach to defining partially-static data
+ and corresponding operations [KMY16].
+ * We designed and implemented conex [MG16], a tool which allows
+ developers to cryptographically sign their released software, and users
+ to verify them, ensuring integrity and authenticity without a centralised
+ trust authority. The OCaml community approached us to work on this, based
+ on our nqsb-TLS work [KMMS15], and is currently deploying conex. The
+ design is based on Justin Cappos's (NYU) work on &amp;quot;the
+ update framework&amp;quot;, who will review conex (in May 2017, in
+ Cambridge).
+
+TCP/IP We have resurrected the NetSem network semantics from 10
+years ago. In collaboration with the FreeBSD project, and with the DARPA CADETS
+project at BAE/Cambridge/Memorial, we now collect traces from a current FreeBSD
+system using DTrace12; CADETS is extending DTrace to support this work. Initial
+traces validate with a slightly adapted model. Exploiting DTrace lets us
+substantially simplify the instrumentation and to instrument in more places,
+which should allow nondeterminism to be resolved early; together with
+Moore's-law advances in checking speed, this should let us produce a
+more usable test oracle. [Mehnert, Norrish (NICTA), CADETS, Sewell]
+
+***** 6 Task 4b: Concurrency Reasoning *****
+We focus on challenging problems of concurrent systems that include correctness
+properties, such as atomicity and termination, abstract specifications for
+concurrent modules and modular reasoning, and memory models. We have approached
+these problems from varying yet complementary directions, by developing new
+program logics models and type systems, algebraic reasoning, linearisability
+correctness conditions and proof techniques, reduction theories and automated
+verification tools.
+
+Program logics, models, type systems We have proposed a logic,
+iCAP-TSO, for reasoning about programs running on a TSO memory model. The logic
+supports direct reasoning about the buffering observable on TSO machines. It
+also supports a fiction of sequential consistency that hides this buffering
+behaviour from clients for libraries that contain sufficient synchronisation.
+This allows us to recover standard separation logic reasoning for well-
+synchronised clients and still support linking with code that requires explicit
+reasoning about buffering. [SSBPP15] [Svendsen, Pichon-Pharabod, and
+colleagues]
+We have proposed a refinement of the mathematical technique of step-
+indexing [SSB16]. Step-indexing is used to break circularities that arises
+when constructing models of advanced program logics and type systems. Our
+refinement provides a more flexible way of breaking these circularities that
+increases compositionality when reasoning about program equivalence. We are
+currently investigating whether the same is true for program logics. [Svendsen,
+Sieczkowski (Aarhus), Birkedal (Aarhus)]
+We have defined a relational semantics for an expressive type-and-effect system
+to validate effect-based program transformations. The type-and-effect system
+combines effect tracking with a lightweight mechanism for tracking state
+ownership. This combination is intended to simplify concurrent programming by
+allowing a compiler to automatically parallelise sub-computations based on
+inferred effect types. We use the semantics to prove that such automatic
+parallelisation is sound. [KJSB17] [Svendsen and colleagues]
+We have studied abstract local reasoning for concurrent libraries 
+[GRWW14]. There are two main approaches: provide a specification of a library
+by abstracting from concrete reasoning about an implementation; or provide a
+direct abstract library specification, justified by refining to an
+implementation. Both approaches have a significant gap in their reasoning, due
+to a mismatch between the abstract connectivity of the abstract data structures
+and the concrete connectivity of the concrete heap representations. We
+demonstrate this gap using structural separation logic (SSL) for specifying a
+concurrent tree library and concurrent abstract predicates (CAP) for reasoning
+about a concrete tree implementation. The gap between the abstract and concrete
+connectivity emerges as a mismatch between the SSL tree predicates and CAP heap
+predicates. This gap is closed by an interface function I which links the
+abstract and concrete connectivity. We generalise our SSL reasoning and results
+to arbitrary concurrent data libraries. [Gardner, Raad, Wheelhouse, Wright]
+We show how to verify four challenging concurrent fine-grained graph-
+manipulating algorithms, including graph copy, a speculatively parallel
+Dijkstra, graph marking and spanning tree. We develop a reasoning method for
+such algorithms that dynamically tracks the contributions and responsibilities
+of each thread operating on a graph, even in cases of arbitrary recursive
+thread creation [RHVG16]. We demonstrate how to use a logic without abstraction
+(CoLoSL) to carry out abstract reasoning in the style of iCAP, by building the
+abstraction into the proof structure rather than incorporating it into the
+semantic model of the logic. [Raad, Hobor, Villard, Gardner]
+We have developed TaDA, a separation logic for fine-grained concurrency which
+introduces atomic triples for specifying the observable atomicity exhibited by
+operations of concurr ent modules. The atomic triples can be used to specify
+the atomicity of operations at the granularity of a particular data-
+abstraction, such as an abstract queue, and under restricted interf erence from
+the concurrent environment [dRPDYG14]. This approach leads to strong
+specifications of concurrent modules, such as locks, double-compare-and-swap,
+and concurrent queues, that do not depend on particular usage patterns. [da
+Rocha Pinto, Dinsdale-Young, Gardner]
+We have demonstrated the scalability of TaDA reasoning by studying concurrent
+maps. In particular, we defined two abstract specifications for a concurrent
+map module, one focusing on the entire abstract map and the other on individual
+key-value pairs, which we proved to be equivalent by applying TaDA. We have
+applied the TaDA program logic to produce the first partial correctness proof
+of core operations of ConcurrentSkipListMap in java.util.concurrent 
+[XdRPNG17]. [Xiong, da Rocha Pinto, Ntzik, Gardner]
+We have extended TaDA with well-founded termination reasoning. This led to the
+development of Total-TaDA, the first program logic for reasoning about total
+correctness of fine-grained concurrent programs [dDYGS16]. [da Rocha
+Pinto, Dinsdale-Young, Gardner, Sutherland]
+We have surveyed a range of verification techniques to specify concurrent
+programs, from Owicki-Gries to modern logics. We show how auxiliary state,
+interference abstraction, resource ownership, and atomicity are combined to
+provide powerful approaches to specify concurrent modules in CAP and TaDA 
+[dDYG15]. [da Rocha Pinto, Dinsdale-Young, Gardner]
+A key difficulty in verifying shared-memory concurrent programs is reasoning
+compositionally about each thread in isolation. Existing verification
+techniques for fine-grained concurrency typically require reasoning about
+either the entire shared state or disjoint parts of the shared state, impeding
+compositionality. We have introduced the program logic CoLoSL, where each
+thread is verified with respect to its subjective view of the global shared
+state [RVG15]. This subjective view describes only that part of the state
+accessed by the thread. Subjective views may arbitrarily overlap with each
+other, and expand and contract depending on the resource required by the
+thread. This flexibility gives rise to small specifications and, hence, more
+compositional reasoning for concurrent programs. We demonstrate our reasoning
+on a range of examples, including a concurrent computation of a spanning tree
+of a graph. [Raad, Villard, Gardner]
+Algebraic reasoning We formalise a modular hierarchy of algebras
+with domain and antidomain (domain complement) operations in Isabelle/HOL that
+ranges from modal semigroups to modal Kleene algebras and divergence Kleene
+algebras. We link these algebras with models of binary relations and program
+traces. We include some examples from modal logics, termination and program
+analysis [GGH+16]. [Gomes and colleagues]
+We describe the application of Modal Kleene algebra in program correctness.
+Starting from a weakest precondition based component, we show how variants for
+Hoare logic, strongest postconditions and program refinement can be built in a
+principled way. Modularity of the approach is demonstrated by variants that
+capture program termination and recursion, memory models for programs with
+pointers, and trace semantics relevant to concurrency verification [GS16a,
+GS16b]. [Gomes and colleagues]
+We have summarised the progress in the research towards the construction of
+links between algebraic presentations of the principles of programming and the
+exploitation of concurrency in modern programming practice [HvSM+14]. The
+research concentrates on the construction of a realistic family of partial
+order models for Concurrent Kleene Algebra (aka, the Laws of Programming). The
+main elements of the model are objects and the events in which they engage.
+Further primitive concepts are traces, errors and failures, and transferrable
+ownership. In terms of these we can define other concepts which have proved
+useful in reasoning about concurrent programs, for example causal dependency
+and independence, sequentiality and concurrency, allocation and disposal,
+synchrony and asynchrony, sharing and locality, input and output. [Villard and
+colleagues]
+Linearizability and reduction theory 
+We generalized Lipton's reduction theory for TSO programs. We developed
+a methodology with which one can check whether a given program allows non-SC
+behaviours and transform any given program P to another program P' such
+that P under TSO is observationally equivalent to P' under SC 
+[ST15]. [Sezgin, Tasiran (Ko&amp;ccedil;)]
+Linearisability of concurrent data structures is usually proved by monolithic
+simulation arguments relying on the identification of the so-called
+linearization points. Regrettably, such proofs, whether manual or automatic,
+are often complicated and scale poorly to advanced non-blocking concurrency
+patterns, such as helping and optimistic updates. In response, we propose a
+more modular way of checking linearisability of concurrent queue algorithms
+that does not involve identifying linearization points [CHSV15]. We reduce the
+task of proving linearisability with respect to the queue specification to
+establishing four basic properties, each of which can be proved independently
+by simpler arguments. As a demonstration of our approach, we verify the Herlihy
+and Wing queue, an algorithm that is challenging to verify by a simulation
+proof. [Sezgin and colleagues]
+We developed local linearizability, a relaxed consistency condition that is
+applicable to container-type concurrent data structures like pools, queues, and
+stacks. While linearizability requires that the effect of each operation is
+observed by all threads at the same time, local linearizability only requires
+that for each thread T, the effects of its local insertion operations and the
+effects of those removal operations that remove values inserted by T are
+observed by all threads at the same time. We investigate theoretical and
+practical properties of local linearizability and its relationship to many
+existing consistency conditions. We present a generic implementation method for
+locally linearizable data structures that uses existing linearizable data
+structures as building blocks. Our implementations show performance and
+scalability improvements over the original building blocks and outperform the
+fastest existing container-type implementations [HHH+16] [Sezgin and
+colleagues].
+Automated verification 
+We have developed Caper, a tool for automating poofs in concurrent separation
+logic with shared regions, aimed at proving functional correctness for fine-
+grained concurrent algo rithms. The tool supports a logic in the spirit of
+concurrent abstract predicates taking inspiration from recent developments such
+as TaDA [dRPDYG14]. Caper provides a foundation for exploring the
+possibilities for automation with such a logic [DdRPAB17]. [Dinsdale-
+Young, da Rocha Pinto, Just Andersen, Birkedal]
+
+***** 7 New REMS publications since the previous annual report *****
+Papers that have been published or been accepted for publication since last
+year's report:
+[CS16a, GGH+16, GS16a, GS16b, HHH+16, Kel16, KMS16, MG16, MS16a, MS16c, MS16d,
+NMM16, NMS16, RFG16, RHVG16, TMK+16, WNW+16, CDG+17, DdRPAB17, FSP+17, FMTK17,
+KJSB17, XdRPNG17, DYM16, KMY16]
+
+(Several additional papers were mentioned as accepted for publication in last
+year's report and have appeared since; they are not included in this
+list.)
+
+***** 8 Summary of REMS publications by calendar year *****
+ 2015 2016
+ MICRO 2015 OOPSLA 2016
+ APLAS 2015 OOPSLA 2016
+ CCS 2015 OOPSLA 2016
+2014 Onward! 2015 FM 2016
+Onward! 2014 SOSP 2015 APLAS 2016
+ICFP 2014 OOPSLA 2015 APLAS 2016
+FMICS 2014 MEMOCODE 2015 FMCAD 2016
+ECOOP 2014 ITP 2015 FMCAD 2016 2017
+MFPS 2014 USENIX Security 2015 IEEE Micro ASPLOS 2017
+ESOP 2014 VSTTE 2015 OCaml 2016 ESOP 2017
+RAMiCS 2014 MFPS 2015 OCaml 2016 ESOP 2017
+PEPM 2014 Security and Privacy CONCUR 2016 POPL 2017
+POPL 2014 2015 PLDI 2016 POPL 2017
+J. Funct. Program. LSFA 2014 ESOP 2016 CPP 2017
+31C3 talk &amp;times; 2 ESOP 2015 ESOP 2016
+Batty PhD ESOP 2015 Sci. Comp. Prog.
+EuroLLVM talk ESOP 2015 POPL 2016
+Clement MPRI LMCS POPL 2016
+ ASPLOS 2015 AFP &amp;times; 2
+ ASPLOS 2015 WG14 &amp;times; 4
+ UCAM-CL-TR-876 WG14 &amp;times; 3
+ UCAM-CL-TR-877 TLS v1.3 TRON
+ HCSS talk &amp;times; 3 TyDe 2016
+
+***** 9 All REMS publications *****
+Note that this does not include our main released software and models, which
+have links in footnotes above.
+ [ABD+15]
+ Jade Alglave, Mark Batty, Alastair F. Donaldson, Ganesh
+ Gopalakrishnan, Jeroen Ketema, Daniel Poetzl, Tyler Sorensen, and John
+ Wickerson. GPU concurrency: Weak behaviours and programming assumptions.
+ In ASPLOS 2015: Proceedings of the Twentieth International Conference on
+ Architectural Support for Programming Languages and Operating Systems,
+ Istanbul, Turkey, pages 577-591, March 2015.
+ [Bat14]
+ Mark John Batty. The C11 and C++11 Concurrency Model. PhD thesis,
+ University of Cambridge Computer Laboratory, November 2014. Winner of
+ 2015 ACM SIGPLAN John C. Reynolds Doctoral Dissertation Award and 2015
+ CPHC/BCS Distinguished Dissertation competition.
+ [BMN+15]
+ Mark Batty, Kayvan Memarian, Kyndylan Nienhuis, Jean Pichon-Pharabod, and
+ Peter Sewell. The problem of programming language concurrency semantics.
+ In ESOP 2015: Programming Languages and Systems - 24th European Symposium
+ on Programming, Held as Part of the European Joint Conferences on Theory
+ and Practice of Software,ETAPS2015, London, UK, April 11-18, 2015., pages
+ 283-307, April 2015.
+ [CDG+17]
+ David Chisnall, Brooks Davis, Khilan Gudka, Alexandre Joannou, Robert
+ N. M. Watson, David Brazdil, Jonathan Woodruff, A. Theodore
+ Markettos, J. Edward Maste, Robert Norton, Stacey Son, Michael Roe,
+ Simon W. Moore, Peter G. Neumann, and Ben Laurie. Sinking the
+ Java security model into the C. In Proceedings ofASPLOS 2017: the 22nd
+ ACM International Conference on Architectural Support for Programming
+ Languages and Operating Systems, April 2017.
+ [CHSV15]
+ Soham Chakraborty, Thomas A. Henzinger, Ali Sezgin, and Viktor
+ Vafeiadis. Aspect-oriented linearizability proofs. Logical Methods in
+ Computer Science, 11(1):1-33, April 2015.
+ [Cle14]
+ Basile Clement. Running programming language specifications, August 2014.
+ MPRI report.
+ [CMM+16]
+ David Chisnall, Justus Matthiesen, Kayvan Memarian, Kyndylan Nienhuis,
+ Peter Sewell, and Robert N. M. Watson. C memory object and value
+ semantics: the space of de facto and ISO standards. ISO SC22 WG14 N2013,
+ http://www.cl.cam.ac.uk/~pes20/cerberus/notes30.pdf, March 2016.
+ [CRD+15]
+ David Chisnall, Colin Rothwell, Brooks Davis, Robert N.M. Watson,
+ Jonathan Woodruff, Munraj Vadera, Simon W. Moore, Peter G.
+ Neumann, and Michael Roe. Beyond the PDP-11: Processor support for a
+ memory-safe C abstract machine. In ASPLOS 2015: Proceedings of the
+ Fifteenth Edition of ASPLOS on Architectural Support for Programming
+ Languages and Operating Systems, ASPLOS XX, New York, NY, USA, March
+ 2015. ACM.
+ [CS14]
+ Brian Campbell and Ian Stark. Randomised testing of a microprocessor
+ model using SMT-solver state generation. In Fr&amp;eacute;d&amp;eacute;ric Lang and
+ Francesco Flammini, editors, FMICS 2014: Formal Methods for Industrial
+ Critical Systems, volume 8718 of Lecture Notes in Computer Science, pages
+ 185-199. Springer, September 2014.
+ [CS16a]
+ Brian Campbell and Ian Stark. Extracting behaviour from an executable
+ instruction set model. In Ruzica Piskac and Muralidhar Talupur, editors,
+ FMCAD 2016: Formal Methods in Computer-Aided Design, pages 33-40,
+ October 2016. Full proceedings http://www.cs.utexas.edu/users/hunt/FMCAD/
+ FMCAD16/proceedings/fmcad-2016-proceedings.pdf.
+ [CS16b]
+ Brian Campbell and Ian Stark. Randomised testing of a microprocessor
+ model using SMT-solver state generation. Sci. Comput. Program., 118:
+ 60-76, March 2016.
+ [DdRPAB17]
+ Thomas Dinsdale-Young, Pedro da Rocha Pinto,
+ Kristoffer Just Andersen, and Lars Birkedal. Caper: Automatic
+ Verification for Fine-grained Concurrency. In Proc.ESOP 2017: 26th
+ European Symposium on Programming, Lecture Notes in Computer Science.
+ Springer, April 2017.
+ [dDYG15]
+ Pedro da Rocha Pinto, Thomas Dinsdale-Young, and Philippa Gardner. Steps
+ in Modular Specifications for Concurrent Modules (Invited Tutorial
+ Paper). In MFPS 2015: Proceedings of the 31st Conference on the
+ Mathematical Foundations of Programming Semantics, pages 3-18,
+ June 2015.
+ [dDYGS16]
+ Pedro da Rocha Pinto, Thomas Dinsdale-Young, Philippa Gardner, and Julian
+ Sutherland. Modular termination verification for non-blocking
+ concurrency. In ESOP 2016: Proceedings of the 25th European Symposium on
+ Programming, pages 176-201, April 2016.
+ [dRPDYG14]
+ Pedro da Rocha Pinto, Thomas Dinsdale-Young, and Philippa
+ Gardner. TaDA: A logic for time and data abstraction. In Richard Jones,
+ editor, ECOOP 2014, volume 8586 of Lecture Notes in Computer Science,
+ pages 207-231. Springer Berlin Heidelberg, July 2014.
+ [DYM16]
+ Enguerrand Decorne, Jeremy Yallop, and David Mer?injak. Ocaml
+ inside: a drop-in replacement for libtls (extended abstract). In
+ Proceedings of the ACMOCaml 2016Workshop, September 2016.
+ [EBC14]
+ Reinoud Elhorst, Mark Batty, and David Chisnall. Efficient code
+ generation for weakly ordered architectures. Presentation at the 4th
+ European LLVM conference (EuroLLVM), April 2014. Slides and report
+ available at http://llvm.org/devmtg/2014-04/.
+ [Elh14]
+ Reinoud Elhorst. Lowering C11 atomics for ARM in LLVM, March 2014.
+ [FGK+15]
+ S. Flur, K. Gray, G. Kerneis, D. Mulligan,
+ C. Pulte, S. Sarkar, and P. Sewell. Rigorous architectural
+ modelling for production multiprocessors, May 2015. Presentation at HCSS
+ 2015: the Fifteenth Annual High Confidence Software and Systems
+ Conference.
+ [FGP+16]
+ Shaked Flur, Kathryn E. Gray, Christopher Pulte, Susmit Sarkar, Ali
+ Sezgin, Luc Maranget, Will Deacon, and Peter Sewell. Modelling the ARMv8
+ architecture, operationally: concurrency and ISA. In POPL 2016:
+ Proceedings of the 43rd AnnualACMSIGPLAN-SIGACTSymposium on Principles of
+ Programming Languages, St. Petersburg, FL, USA, pages 608-621,
+ January 2016.
+ [FMTK17]
+ Anthony C. J. Fox, Magnus O. Myreen, Yong Kiam Tan, and
+ Ramana Kumar. Verified compilation of CakeML to multiple machine-code
+ targets. In Yves Bertot and Viktor Vafeiadis, editors, Proc.CPP 2017:
+ Certified Programs and Proofs. ACM, January 2017.
+ [Fox15]
+ Anthony C. J. Fox. Improved tool support for machine-code
+ decompilation in HOL4. In ITP 2015:Interactive Theorem Proving - 6th
+ International Conference, Nanjing, China, pages 187-202, August
+ 2015.
+ [FSP+17]
+ Shaked Flur, Susmit Sarkar, Christopher Pulte, Kyndylan Nienhuis, Luc
+ Maranget, Kathryn E. Gray, Ali Sezgin, Mark Batty, and Peter Sewell.
+ Mixed-size concurrency: ARM, POWER, C/C++11, and SC. In POPL 2017: The
+ 44st AnnualACMSIGPLAN-SIGACTSymposium on Principles of Programming
+ Languages, Paris, France, pages 429-442, January 2017.
+ [GGH+16]
+ Victor B. F. Gomes, Walter Guttmann, Peter H&amp;ouml;fner, Georg
+ Struth, and Tjark Weber. Kleene algebras with domain. Archive of Formal
+ Proofs, 2016, April 2016.
+ [GKM+15]
+ Kathryn E. Gray, Gabriel Kerneis, Dominic P. Mulligan,
+ Christopher Pulte, Susmit Sarkar, and Peter Sewell. An integrated
+ concurrency and core-ISA architectural envelope definition, and test
+ oracle, for IBM POWER multiprocessors. In MICRO 2015: Proceedings of the
+ 48th International Symposium on Microarchitecture, , Waikiki, HI, USA,
+ pages 635-646, December 2015.
+ [GNW14]
+ Philippa Gardner, Gian Ntzik, and Adam Wright. Local reasoning for the
+ POSIX file system. In ESOP 2014: Programming Languages and Systems - 23rd
+ European Symposium on Programming, Held as Part of the European Joint
+ Conferences on Theory and Practice of Software,ETAPS2014, Grenoble,
+ France, pages 169-188, April 2014.
+ [GRWW14]
+ Philippa Gardner, Azalea Raad, Mark J. Wheelhouse, and Adam Wright.
+ Abstract local reasoning for concurrent libraries: Mind the gap. MFPS
+ 2014: Electr. Notes Theor. Comput. Sci., 308:147-166, June 2014.
+ [GS16a]
+ Victor B. F. Gomes and Georg Struth. Modal Kleene algebra applied to
+ program correctness. In John S. Fitzgerald, Stefania Gnesi, and
+ Constance L. Heitmeyer, editors, FM 2016: Formal Methods -
+ 21st International Symposium, Limassol, Lecture Notes in Computer
+ Science, pages 310-325. Springer, November 2016.
+ [GS16b]
+ Victor B. F. Gomes and Georg Struth. Program construction and
+ verification components based on Kleene algebra. Archive of Formal
+ Proofs, 2016, June 2016.
+ [GWA+15]
+ Khilan Gudka, Robert N. M. Watson, Jonathan Anderson, David
+ Chisnall, Brooks Davis, Ben Laurie, Ilias Marinos, Peter G. Neumann,
+ and Alex Richardson. Clean Application Compartmentalization with SOAAP.
+ In CCS 2015:Proceedings of the 22nd ACM Conference on Computer and
+ Communications Security, October 2015.
+ [HHH+16]
+ Andreas Haas, Thomas A. Henzinger, Andreas Holzer, Christoph M.
+ Kirsch, Michael Lippautz, Hannes Payer, Ali Sezgin, Ana Sokolova, and
+ Helmut Veith. Local Linearizability for Concurrent Container-Type Data
+ Structures. In 27th International Conference on Concurrency Theory
+ (CONCUR 2016), volume 59 of Leibniz International Proceedings in
+ Informatics (LIPIcs), pages 6:1-6:15, Dagstuhl, Germany, August
+ 2016. Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik.
+ [HvSM+14]
+ Tony Hoare, Stephan van Staden, Bernhard M&amp;ouml;ller, Georg Struth, Jules
+ Villard, Huibiao Zhu, and Peter W. O'Hearn. Developments in
+ concurrent Kleene algebra. In RAMiCS 2014: Relational and Algebraic
+ Methods in Computer Science - 14th International Conference, Marienstatt,
+ Germany, pages 1-18, April 2014.
+ [Kel14]
+ Stephen Kell. In search of types. In Onward! 2014: Proceedings of the
+ 2014 ACM International Symposium on New Ideas, New Paradigms, and
+ Reflections on Programming &amp;amp; Software, Onward! 2014, pages
+ 227-241, New York, NY, USA, October 2014. ACM.
+ [Kel15]
+ Stephen Kell. Towards a dynamic object model within Unix processes. In
+ Onward! 2015: 2015ACMInternational Symposium on New Ideas, New Paradigms,
+ and Reflections on Programming and Software, Pittsburgh, PA, USA, pages
+ 224-239, October 2015.
+ [Kel16]
+ Stephen Kell. Dynamically diagnosing type errors in unsafe code. In
+ OOPSLA 2016: Proceedings of the ACM SIGPLAN International Conference on
+ Object-Oriented Programming, Systems, Languages, and Applications, OOPSLA
+ 2016, New York, NY, USA, November 2016. ACM.
+ [KJSB17]
+ Morten Krogh-Jespersen, Kasper Svendsen, and Lars Birkedal. A relational
+ model of types-and-effects in higher-order concurrent separation logic.
+ In POPL 2017: The 44st AnnualACMSIGPLAN-SIGACTSymposium on Principles of
+ Programming Languages, Paris, France, pages 218-231, New York, NY,
+ USA, January 2017. ACM.
+ [KMM16]
+ David Kaloper-Mer?injak and Hannes Mehnert. Not-quite-so-broken TLS
+ 1.3 mechanised conformance checking. In TLSv1.3- Ready or Not?
+ (TRON) workshop, February 2016.
+ [KMMS15]
+ David Kaloper-Mersinjak, Hannes Mehnert, Anil Madhavapeddy, and Peter
+ Sewell. Not-quite-so-broken TLS: lessons in re-engineering a security
+ protocol specification and implementation. In USENIX Security 2015:
+ 24thUSENIXSecurity Symposium, Washington, D.C., USA, pages
+ 223-238, August 2015.
+ [KMNO14]
+ Ramana Kumar, Magnus O. Myreen, Michael Norrish, and Scott Owens.
+ CakeML: a verified implementation of ML. In POPL 2014: The 41st
+ AnnualACMSIGPLAN-SIGACTSymposium on Principles of Programming Languages,
+ San Diego, CA, USA, pages 179-192, January 2014.
+ [KMS16]
+ Stephen Kell, Dominic P. Mulligan, and Peter Sewell. The missing
+ link: explaining ELF static linking, semantically. In OOPSLA 2016:
+ Proceedings of the ACM SIGPLAN International Conference on Object-
+ Oriented Programming, Systems, Languages, and Applications, OOPSLA 2016,
+ New York, NY, USA, November 2016. ACM.
+ [KMY16]
+ David Kaloper-Mer?injak and Jeremy Yallop. Generic partially-static
+ data (extended abstract). In Proceedings of the 1st International
+ Workshop on Type-Driven Development, TyDe 2016, pages 39-40, New
+ York, NY, USA, 2016. ACM.
+ [KSH14]
+ Gabriel Kerneis, Charlie Shepherd, and Stefan Hajnoczi. QEMU/CPC: static
+ analysis and CPS conversion for safe, portable, and efficient coroutines.
+ In PEPM 2014: Proceedings of theACMSIGPLAN2014 workshop on Partial
+ evaluation and program manipulation, San Diego, California,USA, pages
+ 83-94, January 2014.
+ [MG16]
+ Hannes Mehnert and Louis Gesbert. Conex - establishing trust into
+ data repositories. In Proceedings of the ACMOCaml 2016Workshop, September
+ 2016.
+ [MM14]
+ Hannes Mehnert and David Kaloper Mersinjak. Transport Layer Security
+ purely in OCaml. In Proceedings of the ACM OCaml 2014 Workshop, September
+ 2014.
+ [MM15]
+ David Kaloper Mer?injak and Hannes Mehnert. Trustworthy secure
+ modular operating system engineering. Invited talk at 31st Chaos
+ Communication Congress (31C3), January 2015.
+ [MML+16]
+ Kayvan Memarian, Justus Matthiesen, James Lingard, Kyndylan Nienhuis,
+ David Chisnall, Robert N.M. Watson, and Peter Sewell. Into the
+ depths of C: elaborating the de facto standards. In PLDI 2016, June 2016.
+ PLDI 2016 Distinguished Paper award.
+ [MMMS15]
+ David Kaloper Mer?injak, Hannes Mehnert, Anil Madhavapeddy,
+ and Peter Sewell. Not-quite-so-broken TLS: lessons in re-engineering a
+ security protocol specification and implementation, May 2015.
+ Presentation at HCSS 2015: the Fifteenth Annual High Confidence Software
+ and Systems Conference.
+ [MNM+15]
+ Kayvan Memarian, Kyndylan Nienhuis, Justus Matthiesen, James Lingard, and
+ Peter Sewell. Cerberus: towards an executable semantics for sequential
+ and concurrent C11, May 2015. Presentation at HCSS 2015: the Fifteenth
+ Annual High Confidence Software and Systems Conference.
+ [MO14]
+ Magnus O. Myreen and Scott Owens. Proof-producing translation of
+ higher-order logic into pure and stateful ML. J. Funct. Program., 24(2-
+ 3):284-315, January 2014.
+ [MOG+14]
+ Dominic P. Mulligan, Scott Owens, Kathryn E. Gray, Tom Ridge,
+ and Peter Sewell. Lem: Reusable engineering of real-world semantics. In
+ ICFP 2014: Proceedings of the 19th ACM SIGPLAN International Conference
+ on Functional Programming, ICFP '14, pages 175-188, New
+ York, NY, USA, September 2014. ACM.
+ [MS16a]
+ Kayvan Memarian and Peter Sewell. Clarifying pointer provenance (draft
+ defect report or proposal for c2x). ISO SC22 WG14 N2090, http://www.open-
+ std.org/jtc1/sc22/wg14/www/docs/n2090.htm, September 2016.
+ [MS16b]
+ Kayvan Memarian and Peter Sewell. Clarifying the C memory object model.
+ ISO SC22 WG14 N2012, http://www.cl.cam.ac.uk/~pes20/cerberus/notes64-
+ wg14.html, March 2016.
+ [MS16c]
+ Kayvan Memarian and Peter Sewell. Clarifying trap representations (draft
+ defect report or proposal for c2x). ISO SC22 WG14 N2091, http://www.open-
+ std.org/jtc1/sc22/wg14/www/docs/n2091.htm, September 2016.
+ [MS16d]
+ Kayvan Memarian and Peter Sewell. Clarifying unspecified values (draft
+ defect report or proposal for c2x). ISO SC22 WG14 N2089, http://www.open-
+ std.org/jtc1/sc22/wg14/www/docs/n2089.htm, September 2016.
+ [MS16e]
+ Kayvan Memarian and Peter Sewell. What is C in practice? (Cerberus survey
+ v2): Analysis of responses. ISO SC22 WG14 N2014, http://www.cl.cam.ac.uk/
+ ~pes20/cerberus/notes50-survey-discussion.html, March 2016.
+ [MS16f]
+ Kayvan Memarian and Peter Sewell. What is C in practice? (Cerberus survey
+ v2): Analysis of responses - with comments. ISO SC22 WG14 N2015,
+ http://www.cl.cam.ac.uk/~pes20/cerberus/analysis-2016-02-05-anon.txt,
+ March 2016.
+ [NdG15]
+ Gian Ntzik, Pedro da Rocha Pinto, and Philippa Gardner. Fault-tolerant
+ Resource Reasoning. In APLAS 2015: Proceedings of the 13th Asian
+ Symposium on Programming Languages and Systems, pages 169-188,
+ December 2015.
+ [NG15]
+ Gian Ntzik and Philippa Gardner. Reasoning about the POSIX File System:
+ Local Update and Global Pathnames. In OOPSLA 2015: Proceedings of the
+ 30th AnnualACMSIGPLANConference on Object-Oriented Programming, Systems,
+ Languages, and Applications, October 2015.
+ [NM15]
+ Matthew Naylor and Simon W. Moore. A generic synthesisable test
+ bench. In MEMOCODE 2015:ACM/IEEEInternational Conference on Formal
+ Methods and Models for Codesign, Austin, TX, USA, pages 128-137,
+ September 2015.
+ [NMM16]
+ M. Naylor, S. W. Moore, and A. Mujumdar. A consistency
+ checker for memory subsystem traces. In FMCAD 2016: Formal Methods in
+ Computer-Aided Design, September 2016.
+ [NMS16]
+ Kyndylan Nienhuis, Kayvan Memarian, and Peter Sewell. An operational
+ semantics for C/C++11 concurrency. In OOPSLA 2016: Proceedings of the ACM
+ SIGPLAN International Conference on Object-Oriented Programming, Systems,
+ Languages, and Applications, New York, NY, USA, November 2016. ACM.
+ [PMD15]
+ A. M. Pitts, J. Matthiesen, and J. Derikx. A dependent
+ type theory with abstractable names. In I. Mackie and M. Ayala-
+ Rincon, editors, LSFA 2014: Proceedings of the 9th Workshop on Logical
+ and Semantic Frameworks, with Applications, volume 312 of Electronic
+ Notes in Theoretical Computer Science, pages 19-50. Elsevier,
+ April 2015.
+ [PS16]
+ Jean Pichon-Pharabod and Peter Sewell. A concurrency semantics for
+ relaxed atomics that permits optimisation and avoids thin-air executions.
+ In POPL 2016: Proceedings of the 43rd AnnualACMSIGPLAN-SIGACTSymposium on
+ Principles of Programming Languages, St. Petersburg, FL, USA, January 20
+ - 22, 2016, pages 622-633, January 2016.
+ [RFG16]
+ Azalea Raad, Jos&amp;eacute; Fragoso Santos, and Philippa Gardner. DOM:
+ specification and client reasoning. In Proc.APLAS 2016: 14th Asian
+ Symposium on Programming Languages and Systems, pages 401-422,
+ November 2016.
+ [RHVG16]
+ Azalea Raad, Aquinas Hobor, Jules Villard, and Philippa Gardner.
+ Verifying concurrent graph algorithms. In Proc.APLAS 2016: 14th Asian
+ Symposium on Programming Languages and Systems, pages 314-334,
+ November 2016.
+ [RST+15]
+ Tom Ridge, David Sheets, Thomas Tuerk, Andrea Giugliano, Anil
+ Madhavapeddy, and Peter Sewell. SibylFS: formal specification and oracle-
+ based testing for POSIX and real-world file systems. In SOSP 2015:
+ Proceedings of the 25th Symposium on Operating Systems Principles,
+ Monterey, CA, USA, pages 38-53, October 2015.
+ [RVG15]
+ Azalea Raad, Jules Villard, and Philippa Gardner. CoLoSL: Concurrent
+ local subjective logic. In ESOP 2015, April 2015.
+ [SSB16]
+ Kasper Svendsen, Filip Sieczkowski, and Lars Birkedal. Transfinite step-
+ indexing: Decoupling concrete and logical steps. In ESOP 2016, pages
+ 727-751, April 2016.
+ [SSBPP15]
+ Filip Sieczkowski, Kasper Svendsen, Lars Birkedal, and Jean Pichon-
+ Pharabod. A separation logic for fictional sequential consistency. In
+ ESOP 2015, April 2015.
+ [ST15]
+ Ali Sezgin and Serdar Tasiran. Moving around: Lipton's reduction
+ for TSO - (regular submission). In VSTTE 2015: Verified Software:
+ Theories, Tools, and Experiments - 7th International Conference, San
+ Francisco, CA, USA. Revised Selected Papers, pages 165-182, July
+ 2015.
+ [TMK+16]
+ Yong Kiam Tan, Magnus O. Myreen, Ramana Kumar, Anthony Fox,
+ Scott Owens, and Michael Norrish. A new verified compiler backend for
+ CakeML. In Proc.ICFP 2016: International Conference on Functional
+ Programming. ACM Press, September 2016.
+ [WCD+15]
+ Robert N. M. Watson, David Chisnall, Brooks Davis, Wojciech Koszek,
+ Simon W. Moore, Steven J. Murdoch, Peter G. Neumann, and
+ Jonathan Woodruff. Capability Hardware Enhanced RISC Instructions: CHERI
+ Programmer's Guide. Technical Report UCAM-CL-TR-877, University of
+ Cambridge, Computer Laboratory, September 2015.
+ [WNW+15]
+ Robert N. M. Watson, Peter G. Neumann, Jonathan Woodruff,
+ Michael Roe, Jonathan Anderson, David Chisnall, Brooks Davis, Alexandre
+ Joannou, Ben Laurie, Simon W. Moore, Steven J. Murdoch, Robert
+ Norton, and Stacey Son. Capability Hardware Enhanced RISC Instructions:
+ CHERI Instruction-Set Architecture. Technical Report UCAM-CL-TR-876,
+ University of Cambridge, Computer Laboratory, September 2015.
+ [WNW+16]
+ Robert N.M. Watson, Robert M. Norton, Jonathan Woodruff,
+ Simon W. Moore, Peter G. Neumann, Jonathan Anderson, David
+ Chisnall, Brooks Davis, Ben Laurie, Michael Roe, Nirav H. Dave,
+ Khilan Gudka, Alexandre Joannou, A. Theodore Markettos,
+ Ed Maste, Steven J. Murdoch, Colin Rothwell, Stacey D.
+ Son, and Munraj Vadera. Fast protection-domain crossing in the CHERI
+ capability-system architecture. IEEE Micro, 36(5):38-49, September
+ 2016.
+ [WWN+15]
+ Robert N. M. Watson, Jonathan Woodruff, Peter G. Neumann,
+ Simon W. Moore, Jonathan Anderson, David Chisnall, Nirav Dave,
+ Brooks Davis, Khilan Gudka, Ben Laurie, Steven J. Murdoch, Robert
+ Norton, Michael Roe, Stacey Son, and Munraj Vadera. CHERI: A hybrid
+ capability-system architecture for scalable software
+ compartmentalization. In Security and Privacy 2015:Proceedings of the
+ 36th IEEE Symposium on Security and Privacy (&amp;quot;Oakland&amp;quot;),
+ May 2015.
+ [XdRPNG17]
+ Shale Xiong, Pedro da Rocha Pinto, Gian Ntzik, and Philippa
+ Gardner. Abstract Specifications for Concurrent Maps. In Proc.ESOP 2017:
+ 26th European Symposium on Programming, Lecture Notes in Computer
+ Science. Springer, April 2017.
+===============================================================================
+ 1
+ https://www.cl.cam.ac.uk/research/security/ctsrd/
+ 2
+ https://cakeml.org/
+ 3
+ http://www.cl.cam.ac.uk/projects/ocamllabs/, https://mirage.io/
+ 4
+ http://www.tom-ridge.com/sibylfs.html
+ 5
+ http//rems.io
+ 6
+ https://bitbucket.org/Peter_Sewell/lem/, http://www.cl.cam.ac.uk/~pes20/
+ lem/
+ 7
+ http://www.cl.cam.ac.uk/~acjf3/l3/
+ 8
+ http://www.cl.cam.ac.uk/~pes20/sail/, https://bitbucket.org/Peter_Sewell/
+ sail
+ 9
+ http://www.cl.cam.ac.uk/~pes20/ott/, https://github.com/ott-lang/ott
+ 10
+ https://bitbucket.org/Peter_Sewell/sail, http://www.cl.cam.ac.uk/~acjf3/
+ l3/
+ 11
+ https://github.com/mirleft/libnqsb-tls/
+ 12
+ https://wiki.freebsd.org/DTrace
+
+===============================================================================</gtr:description><gtr:exploitationPathways>Please see above</gtr:exploitationPathways><gtr:id>8727A5A9-B1DB-4064-914D-67556A3070F8</gtr:id><gtr:outcomeId>56d5715253f6a3.86688323</gtr:outcomeId><gtr:sectors><gtr:sector>Aerospace, Defence and Marine,Digital/Communication/Information Technologies (including Software),Electronics,Security and Diplomacy</gtr:sector></gtr:sectors><gtr:url>http://rems.io</gtr:url></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication><gtr:id>4723C760-864D-4643-B892-D2A5B8AAB405</gtr:id><gtr:title>A modular foreign function interface</gtr:title><gtr:parentPublicationTitle>Science of Computer Programming</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/b9a2a173a9e8a99d252d54813f0af1de"><gtr:id>b9a2a173a9e8a99d252d54813f0af1de</gtr:id><gtr:otherNames>Yallop J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5aa25b900a4f31.50460971</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>E2AED8F5-2288-4095-9426-EDB524505B00</gtr:id><gtr:title>Not-quite-so-broken TLS 1.3 mechanised conformance checking</gtr:title><gtr:parentPublicationTitle>TLSv1.3 -- Ready or Not?  (TRON) workshop</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/5a53287af00b8ee0af0992ebc7590578"><gtr:id>5a53287af00b8ee0af0992ebc7590578</gtr:id><gtr:otherNames>s}injak D</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date><gtr:outcomeId>56d56aa1509de8.55419501</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>CD097D7C-7AF8-4740-BFAA-B4982C11A04F</gtr:id><gtr:title>A Dependent Type Theory with Abstractable Names</gtr:title><gtr:parentPublicationTitle>Electronic Notes in Theoretical Computer Science</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/b11836ce808bd118d909d5dd7db6044e"><gtr:id>b11836ce808bd118d909d5dd7db6044e</gtr:id><gtr:otherNames>Pitts A</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date><gtr:outcomeId>56d56aa6a88f01.77363164</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>272AB2AB-BCB7-420D-839D-2FF31C83D0AF</gtr:id><gtr:title>Fast Protection-Domain Crossing in the CHERI Capability-System Architecture</gtr:title><gtr:parentPublicationTitle>IEEE Micro</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/b129def860af32798ebfc1f9871af800"><gtr:id>b129def860af32798ebfc1f9871af800</gtr:id><gtr:otherNames>Watson R</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date><gtr:outcomeId>5873603794df63.88652114</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>11448240-83E9-44B9-AAD4-49FE35D62EE9</gtr:id><gtr:title>Into the depths of C: elaborating the de facto standards</gtr:title><gtr:parentPublicationTitle>ACM SIGPLAN Notices</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/37bfd9ad8362baba710c6d47fccedcac"><gtr:id>37bfd9ad8362baba710c6d47fccedcac</gtr:id><gtr:otherNames>Memarian K</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date><gtr:outcomeId>588b6bff47bb18.90629168</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>DC37C57A-A9D4-4270-844B-BADA853C18D7</gtr:id><gtr:title>Transport Layer Security purely in OCaml</gtr:title><gtr:parentPublicationTitle>Proceedings of the ACM OCaml 2014 Workshop</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/2a373b93b97e2b66842ec220b768bba9"><gtr:id>2a373b93b97e2b66842ec220b768bba9</gtr:id><gtr:otherNames>Mehnert H</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2014-01-01</gtr:date><gtr:outcomeId>56d56aa2864ce1.12361037</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>9DC62FD0-B911-43EF-9BDD-5BE29E31C9A7</gtr:id><gtr:title>Dynamically diagnosing type errors in unsafe code</gtr:title><gtr:parentPublicationTitle>ACM SIGPLAN Notices</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/974d0b7330bd9f59d812679bd1bbfcd0"><gtr:id>974d0b7330bd9f59d812679bd1bbfcd0</gtr:id><gtr:otherNames>Kell S</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date><gtr:outcomeId>5a2fe3ffa0bd38.66261636</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>9F103C54-6118-4EC7-BB6F-2FFD5712934C</gtr:id><gtr:title>Randomised testing of a microprocessor model using SMT-solver state generation</gtr:title><gtr:parentPublicationTitle>Science of Computer Programming</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/c2b910a7bfd1d920049842c9e897f6a8"><gtr:id>c2b910a7bfd1d920049842c9e897f6a8</gtr:id><gtr:otherNames>Campbell B</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date><gtr:outcomeId>5675ef3cd3c76</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>7D075907-7976-4B1F-B9CD-60FF1727A646</gtr:id><gtr:title>Shared contract-obedient channels</gtr:title><gtr:parentPublicationTitle>Science of Computer Programming</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/98bc684f78baf14bd9eff6c6f6ae91a8"><gtr:id>98bc684f78baf14bd9eff6c6f6ae91a8</gtr:id><gtr:otherNames>Lozes ?</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date><gtr:outcomeId>56d56aa25aefb5.76114084</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>456F9EDE-1F4D-433C-B4B5-3204F8A14313</gtr:id><gtr:title>Efficient code generation for weakly ordered architectures</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/d655e5711123f856ab4c69f0abf06f19"><gtr:id>d655e5711123f856ab4c69f0abf06f19</gtr:id><gtr:otherNames>Elhorst R</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2014-01-01</gtr:date><gtr:outcomeId>56d56aa4c4e7e3.70816897</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>9A565EF9-3E4C-4070-BD01-C282CD9BA5C4</gtr:id><gtr:title>A new verified compiler backend for CakeML</gtr:title><gtr:parentPublicationTitle>ACM SIGPLAN Notices</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/838fb3b433832b2cd9e881a96c21779c"><gtr:id>838fb3b433832b2cd9e881a96c21779c</gtr:id><gtr:otherNames>Tan Y</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date><gtr:outcomeId>5a6137bc2fe140.29289673</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>506D5E06-7361-4EF3-8DCE-FF7010215480</gtr:id><gtr:title>CoSMed: A Confidentiality-Verified Social Media Platform</gtr:title><gtr:parentPublicationTitle>Journal of Automated Reasoning</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/2a453e0d083870f9559403999604d99e"><gtr:id>2a453e0d083870f9559403999604d99e</gtr:id><gtr:otherNames>Bauerei? T</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5aa25b908528b9.45015764</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>14D120DA-62AC-4875-B042-3CF1B3F6D34E</gtr:id><gtr:title>Aspect-oriented linearizability proofs</gtr:title><gtr:parentPublicationTitle>Logical Methods in Computer Science</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/cd82b3268a6a52edc7218d08bf5513c1"><gtr:id>cd82b3268a6a52edc7218d08bf5513c1</gtr:id><gtr:otherNames>Chakraborty S</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date><gtr:outcomeId>5675f8fc050df</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>D629A831-D264-48E9-A075-374197B2070C</gtr:id><gtr:title>Simplifying ARM concurrency: multicopy-atomic axiomatic and operational models for ARMv8</gtr:title><gtr:parentPublicationTitle>Proceedings of the ACM on Programming Languages</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/c35e41dbf769b0271214da56e5a8a1ed"><gtr:id>c35e41dbf769b0271214da56e5a8a1ed</gtr:id><gtr:otherNames>Pulte C</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a66ff2324ac74.47328818</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>5B2DFC2B-3BA3-4252-AF27-3E9535C52A99</gtr:id><gtr:title>The missing link: explaining ELF static linking, semantically</gtr:title><gtr:parentPublicationTitle>ACM SIGPLAN Notices</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/974d0b7330bd9f59d812679bd1bbfcd0"><gtr:id>974d0b7330bd9f59d812679bd1bbfcd0</gtr:id><gtr:otherNames>Kell S</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date><gtr:outcomeId>5a6132f30523c9.48316511</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>E4E30D64-0F39-4C24-AE90-DC50032DDBA2</gtr:id><gtr:title>CHERI: A Hybrid Capability-System Architecture for Scalable Software Compartmentalization</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/b129def860af32798ebfc1f9871af800"><gtr:id>b129def860af32798ebfc1f9871af800</gtr:id><gtr:otherNames>Watson R</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date><gtr:outcomeId>56d56aa65566d2.13078486</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>82667E14-B91C-4AB3-97BA-9B0E6249F21B</gtr:id><gtr:title>Capability Hardware Enhanced RISC Instructions: CHERI
+ Instruction-Set Architecture</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/b129def860af32798ebfc1f9871af800"><gtr:id>b129def860af32798ebfc1f9871af800</gtr:id><gtr:otherNames>Watson R</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date><gtr:outcomeId>56d56aa54c4230.02538180</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>F70F89F7-C5CA-4339-A0C5-E03DF264AD89</gtr:id><gtr:title>A generic synthesisable test bench</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/82b080ce0b08ac39c2a239a5720fc52e"><gtr:id>82b080ce0b08ac39c2a239a5720fc52e</gtr:id><gtr:otherNames>Naylor M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date><gtr:outcomeId>56d56aa5d3d652.50676555</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>9183E8E4-C9AE-4E71-9EFC-E6F18B34BE09</gtr:id><gtr:title>Not-Quite-So-Broken TLS: Lessons in Re-Engineering a Security Protocol
+ Specification and Implementation</gtr:title><gtr:parentPublicationTitle>24th USENIX Security Symposium, USENIX Security 15, Washington,
+               D.C., USA, August 12-14, 2015.</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/82f62b71b65b81fbc29724d6ea120fb2"><gtr:id>82f62b71b65b81fbc29724d6ea120fb2</gtr:id><gtr:otherNames>Kaloper{-}Mersinjak D</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date><gtr:outcomeId>56d56aa1d1acc1.99931388</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>33DD3D10-048F-4BF8-A23F-FFA61BF2C28C</gtr:id><gtr:title>Clean Application Compartmentalization with SOAAP</gtr:title><gtr:parentPublicationTitle>Proceedings of the 22nd ACM Conference on Computer and Communications Security (CCS 2015)</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/326f7b87452e1c7f9bf678e1344d6ecf"><gtr:id>326f7b87452e1c7f9bf678e1344d6ecf</gtr:id><gtr:otherNames>Gudka K</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date><gtr:outcomeId>56d56aa42cbe52.19276657</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>0F9CD560-60DB-43BA-ABE3-DCA43B43EBBD</gtr:id><gtr:title>Proof-producing translation of higher-order logic into pure and stateful ML</gtr:title><gtr:parentPublicationTitle>Journal of Functional Programming</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/b4eacf30a5e8eeb95768eb21c5d29ea8"><gtr:id>b4eacf30a5e8eeb95768eb21c5d29ea8</gtr:id><gtr:otherNames>MYREEN M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2014-01-01</gtr:date><gtr:outcomeId>56d56aa2aad567.20779985</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>A515856F-7C8A-43C3-B789-CDE7A632AFFF</gtr:id><gtr:title>Verified trustworthy software systems.</gtr:title><gtr:parentPublicationTitle>Philosophical transactions. Series A, Mathematical, physical, and engineering sciences</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/d5e33b2e7c51125a6948be5e36810bc1"><gtr:id>d5e33b2e7c51125a6948be5e36810bc1</gtr:id><gtr:otherNames>Gardner P</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:issn>1364-503X</gtr:issn><gtr:outcomeId>5aa25b90adc307.47697950</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>C67C849F-D7EC-4CF6-B39A-F741E0573340</gtr:id><gtr:title>Extracting behaviour from an executable instruction set model</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/c2b910a7bfd1d920049842c9e897f6a8"><gtr:id>c2b910a7bfd1d920049842c9e897f6a8</gtr:id><gtr:otherNames>Campbell B</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date><gtr:outcomeId>58a616a17352b9.21570354</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>B4375B6B-6D78-42DE-8512-C977EBB02F99</gtr:id><gtr:title>An operational semantics for C/C++11 concurrency</gtr:title><gtr:parentPublicationTitle>ACM SIGPLAN Notices</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/70d1387459d12e9b436bc33ed31ad3ea"><gtr:id>70d1387459d12e9b436bc33ed31ad3ea</gtr:id><gtr:otherNames>Nienhuis K</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date><gtr:outcomeId>5a613692711457.76485625</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>B11C9898-287E-499A-83DC-FB6D38D64FA7</gtr:id><gtr:title>Abstract Local Reasoning for Concurrent Libraries: Mind the Gap</gtr:title><gtr:parentPublicationTitle>Electronic Notes in Theoretical Computer Science</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/d5e33b2e7c51125a6948be5e36810bc1"><gtr:id>d5e33b2e7c51125a6948be5e36810bc1</gtr:id><gtr:otherNames>Gardner P</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2014-01-01</gtr:date><gtr:outcomeId>56d56aa32fb6c4.76789926</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>A7A5A404-511F-4286-91DE-4532092D63C0</gtr:id><gtr:title>Steps in Modular Specifications for Concurrent Modules (Invited Tutorial Paper)</gtr:title><gtr:parentPublicationTitle>Electronic Notes in Theoretical Computer Science</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/7e815fd34e3660fbd53efb9a1aa872e2"><gtr:id>7e815fd34e3660fbd53efb9a1aa872e2</gtr:id><gtr:otherNames>da Rocha Pinto P</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date><gtr:outcomeId>56d56aa357b6e4.24540441</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>D69949AE-0CF2-415A-BE07-EEFC5DFC8229</gtr:id><gtr:title>JaVerT: JavaScript verification toolchain</gtr:title><gtr:parentPublicationTitle>Proceedings of the ACM on Programming Languages</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/445dc21057131f76b5575d77345384c9"><gtr:id>445dc21057131f76b5575d77345384c9</gtr:id><gtr:otherNames>Fragoso Santos J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5aa25b9034e7e0.57365210</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>426BE571-0D7B-48EF-9B3E-A9C8EF2B0D62</gtr:id><gtr:title>Verifying strong eventual consistency in distributed systems</gtr:title><gtr:parentPublicationTitle>Proceedings of the ACM on Programming Languages</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/191ef1e9fbca54c1a108f424eaea9ead"><gtr:id>191ef1e9fbca54c1a108f424eaea9ead</gtr:id><gtr:otherNames>Gomes V</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5a6132f3607d59.63674420</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>4E5A50E3-F966-49B5-822E-11A02A0DFD5A</gtr:id><gtr:title>Lowering C11 Atomics for ARM in LLVM</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/d655e5711123f856ab4c69f0abf06f19"><gtr:id>d655e5711123f856ab4c69f0abf06f19</gtr:id><gtr:otherNames>Elhorst R</gtr:otherNames></gtr:author></gtr:authors><gtr:outcomeId>56d56aa4e83cf0.22029239</gtr:outcomeId></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">EP/K008528/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>EB5F16BB-2772-4DDE-BD6C-3B7A6914B64C</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Info. &amp; commun. Technol.</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>76783275-A9F8-4B4E-B314-51363124259C</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Fundamentals of Computing</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

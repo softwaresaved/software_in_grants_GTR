@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/59D78CD6-B89D-43EB-81F8-A540FE424527"><gtr:id>59D78CD6-B89D-43EB-81F8-A540FE424527</gtr:id><gtr:name>Broom Lane Enterprises Limited</gtr:name><gtr:address><gtr:line1>73 Windsor Road
+Prestwich</gtr:line1><gtr:city>Manchester</gtr:city><gtr:postCode>M25 0DB</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/59D78CD6-B89D-43EB-81F8-A540FE424527" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>59D78CD6-B89D-43EB-81F8-A540FE424527</gtr:id><gtr:name>Broom Lane Enterprises Limited</gtr:name><gtr:address><gtr:line1>73 Windsor Road
+Prestwich</gtr:line1><gtr:city>Manchester</gtr:city><gtr:postCode>M25 0DB</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>94446.0</gtr:offerGrant><gtr:projectCost>161536.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710137"><gtr:id>11E52C98-F40F-49BE-926D-4613490EAD13</gtr:id><gtr:title>P3TC</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710137</gtr:grantReference><gtr:abstractText>Two market opportunities have been identified for our Printable Polymer Positive
+Temperature Coefficient (P3TC) materials in the existing conventional printed circuit board
+and the emerging printed electronics market. The majority of polymer PTC?s are used for
+current over protection and to a lesser extent for temperature sensing applications. The global
+market for conventional thermistors was $672m in 2008.
+In conventional circuits, Positive Temperature Coefficient components (PTC?s) are widely
+used as individual components that are inserted into a printed circuit board (PCB) and
+soldered in place. A wide range of PTC?s based on either polymer or ceramics are available
+to satisfy the multitude of voltage and current ratings required by industry. Polymer PTC?s
+are based on cross linked polyethylene loaded with carbon black that is extruded and is
+packaged as a component with electrical leads. If conventional PTC?s were to be replaced by
+P3TC?s then not only would there be a saving on the component cost but the logistics of
+sourcing, stocking and feeding the correct component to the production line could be avoided.
+Printing on PCB?s is widely used in the electronics industry to apply for example accurate
+conductive carbon or copper tracks. The P3TC may be applied either by screen or inkjet
+printing techniques and cured at the printing station.
+The other market for P3TC?s is in the printed electronics market ? a newly emerging market
+in its own right for low cost novel applications including consumer advertising, smart labels
+on clothing, flexible displays, sensors, memories, radio frequency identification (RFID) and
+photovoltaics. The reduction in cost accrues from the fact that the substrates are relatively
+cheap (including paper) and there is no requirement for cleanrooms. In this market although
+there are printable NTC materials, there is not as yet a commercial P3TC for circuit
+protection</gtr:abstractText><gtr:fund><gtr:end>2013-08-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2012-03-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>94446</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710137</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/DC0081FB-508D-4D8A-A1B4-088FF638CC2B"><gtr:id>DC0081FB-508D-4D8A-A1B4-088FF638CC2B</gtr:id><gtr:name>Peerpay Limited</gtr:name><gtr:address><gtr:line1>5TH FLOOR (744-750) SALISBURY HOUSE , FINSBURY CIRCUS</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>EC2M 5QQ</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/DC0081FB-508D-4D8A-A1B4-088FF638CC2B" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>DC0081FB-508D-4D8A-A1B4-088FF638CC2B</gtr:id><gtr:name>Peerpay Limited</gtr:name><gtr:address><gtr:line1>5TH FLOOR (744-750) SALISBURY HOUSE , FINSBURY CIRCUS</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>EC2M 5QQ</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>164600.0</gtr:offerGrant><gtr:projectCost>365779.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/914D236F-D867-4882-8A6D-18416EF70D12"><gtr:id>914D236F-D867-4882-8A6D-18416EF70D12</gtr:id><gtr:firstName>Alan</gtr:firstName><gtr:surname>Burns</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720706"><gtr:id>D5D47A54-98DD-4E1C-8935-35CC44BB3355</gtr:id><gtr:title>Peer Pay - a solution to SME cash-flow optimisation</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720706</gtr:grantReference><gtr:abstractText>Research indicates that one of the most pressing challenges for Britain?s 5.2m SMEs is cashflow
+optimisation. Over 70% of SMEs look to their bank when they need finance and despite
+strong business cases the response is typically ?we just don?t have the appetite for this type of
+business at the moment?. These businesses are exactly the type that need help, because they
+are on rapid growth curves which stretch their finances to the limit. To quote ?Too often, the
+liquidators are called in to viable firms due to short-term problems that can be solved. As a
+result, jobs and livelihoods are lost and the potential that the businesses had to generate is
+gone.?
+All banks have had to reserve more capital in line with increased regulatory requirements, and
+have suffered losses on their capital through bad debts, which limits what they have available
+to provide to SMEs. To survive and grow, SMEs need greater choices beyond banks standard
+offerings.
+The vision is to develop an alternative cash-flow platform, based on a Peer to Peer lending
+model, to allow companies and individuals to lend to vetted, established SME businesses
+within the closed and safe environment of the Accountancy practice community.
+The secure platform?s matching algorithm will utilise an Accountancy firm?s specialist insight
+and superior knowledge of its clients businesses to build better-performing, proactive risk
+profiling of borrowers, whilst lenders are able to choose risk profiles, length of time and
+amounts that they wish to use to invest in other companies, without becoming a shareholder.
+The algorithm will manage diversification of the investment to minimise risk for the lender,
+against invoices that have been validated and are waiting to be paid, to help these SME
+businesses with cash-flow finance.
+The service will be managed by Accountancy firms as a value-added service for their own
+client-base, allowing them to provide professional advice and support to both lenders and
+borrowers.</gtr:abstractText><gtr:fund><gtr:end>2016-06-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2015-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>164600</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720706</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

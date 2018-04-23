@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/AEA6E7A4-3165-4933-AC07-480E155F4018"><gtr:id>AEA6E7A4-3165-4933-AC07-480E155F4018</gtr:id><gtr:name>Solar Sound Solutions</gtr:name><gtr:address><gtr:line1>1 South Terrace
+Harley Lane</gtr:line1><gtr:city>Heathfield</gtr:city><gtr:postCode>TN21 8AG</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/AEA6E7A4-3165-4933-AC07-480E155F4018" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>AEA6E7A4-3165-4933-AC07-480E155F4018</gtr:id><gtr:name>Solar Sound Solutions</gtr:name><gtr:address><gtr:line1>1 South Terrace
+Harley Lane</gtr:line1><gtr:city>Heathfield</gtr:city><gtr:postCode>TN21 8AG</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>24900.0</gtr:offerGrant><gtr:projectCost>41500.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/A03C290E-2A92-4FAB-99D7-AFDA9CB0857F"><gtr:id>A03C290E-2A92-4FAB-99D7-AFDA9CB0857F</gtr:id><gtr:firstName>Sarah</gtr:firstName><gtr:surname>Cullimore</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710065"><gtr:id>9B9287DD-4CE5-4EDA-BB37-514906E70EFD</gtr:id><gtr:title>Solar Sound Solutions intends to design and develop an affordable solar rechargeable hearing aid system aimed at users in developing countries</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710065</gtr:grantReference><gtr:abstractText>My business opportunity is to develop a Solar Rechargeable Hearing Aid System targeted at
+developing countries. To address this we will, not only, have to design a revolutionary
+product, but also will need to be able to manufacture it at an affordable price for charitable
+missions and individuals in low income developing countries. Major issues that are
+experienced in developing countries are:
+1- Affordability and availability of hearing aids,
+2- Availability, cost (and disposal) of hearing aid batteries,
+3- Damage to the electronic circuits due to moisture ingress from humidity and monsoon
+periods,
+4- Lack of enough trained audiologists or hearing aid technicians to carry out hearing
+tests and fit hearing aids.
+This project intends to address the first 3 of the above issues by designing a small charging
+unit (1 supplied with each hearing aid), that will use a solar panel to utilise the sun?s energy
+during the day to charge up an internal battery. At night when the hearing aid is not being
+worn it is placed in the charger to re-charge the hearing aid battery. The charging unit also
+doubles as a storage unit / drier for the hearing aid, keeping it protected from damage and
+dust, and drying it when not being worn. I particularly want to charge the battery in the
+hearing aid rather than having to remove, charge up and then replace the battery into the
+hearing aid. I think this will be a great improvement in design by eliminating the fiddly
+battery changing ? a great benefit to the older and younger users of hearing aids. This means
+we need to find a way to transfer power from the charger battery to the hearing aid battery ? 2
+of the options; external tab contacts and a small connector arrangement, could exacerbate the
+moisture ingress problem due to small air gaps. One design idea we would like to pursue is to
+develop a miniature induction charging circuit that can fit into the hearing aid, which would
+allow us to design a more sealed hearing aid. This is my preferred design option and an initial
+feasibility study will be conducted to assess if this method can be used and the estimated costs
+compared to a contact system.
+This project will enable us to come up with innovative designs to optimise solar panels,
+rechargeable batteries, charging circuits, low power microchips and manufacturing costs to
+produce a simple to use, but revolutionary product, at an affordable price.</gtr:abstractText><gtr:fund><gtr:end>2013-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2011-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>24900</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710065</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

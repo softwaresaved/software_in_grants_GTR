@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/42E28201-87F3-4AB4-A235-F3DDFBF2AB1D"><gtr:id>42E28201-87F3-4AB4-A235-F3DDFBF2AB1D</gtr:id><gtr:name>Metageni Limited</gtr:name><gtr:address><gtr:line1>272 Regents Park Road</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>N3 3HN</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/42E28201-87F3-4AB4-A235-F3DDFBF2AB1D" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>42E28201-87F3-4AB4-A235-F3DDFBF2AB1D</gtr:id><gtr:name>Metageni Limited</gtr:name><gtr:address><gtr:line1>272 Regents Park Road</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>N3 3HN</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>42000.0</gtr:offerGrant><gtr:projectCost>42000.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/895DD760-72F7-46BF-8EF8-5FB84BE74CA3"><gtr:id>895DD760-72F7-46BF-8EF8-5FB84BE74CA3</gtr:id><gtr:firstName>Gabriel</gtr:firstName><gtr:surname>Hughes</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=230031"><gtr:id>69CB7441-352D-47CB-BD95-227EA4BE50FD</gtr:id><gtr:title>Exogenous Attribution For Generic Search</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Procurement</gtr:grantCategory><gtr:grantReference>230031</gtr:grantReference><gtr:abstractText>Exogenous attribution modelling will combine the insights of digital attribution approaches with the
+
+methods of machine learning, plus classic market mix modelling, in order to account for exogenous
+
+factors to digital marketing, such as above the line marketing. These new models will evaluate the
+
+contribution of offline, generic and brand search to the final purchase.
+
+To achieve Metageni data scientists will leverage both new signals and new modelling approaches.
+
+The idea is that within a digital path to conversion analysis, variations in timing, geography, devices
+
+and social sentiment can be leveraged to model exogenous factors, external to the digital path
+
+analysis, such as TV campaigns.
+
+The aim would be to create an experimental validation
+
+for modelling based on these factors, and to avoid the ambiguity of 'multi touch' models, providing a
+
+definitive ROI attribution solution at the campaign and ad level.</gtr:abstractText><gtr:fund><gtr:end>2016-12-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2016-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>42000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">230031</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

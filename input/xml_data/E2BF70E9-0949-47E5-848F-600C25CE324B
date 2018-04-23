@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/B6FB652A-60C3-48DD-9A33-075D1F759B48"><gtr:id>B6FB652A-60C3-48DD-9A33-075D1F759B48</gtr:id><gtr:name>University of Warwick</gtr:name><gtr:department>Computer Science</gtr:department><gtr:address><gtr:line1>Warwickshire</gtr:line1><gtr:line4>Coventry</gtr:line4><gtr:line5>West Midlands</gtr:line5><gtr:postCode>CV4 7AL</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/B6FB652A-60C3-48DD-9A33-075D1F759B48"><gtr:id>B6FB652A-60C3-48DD-9A33-075D1F759B48</gtr:id><gtr:name>University of Warwick</gtr:name><gtr:address><gtr:line1>Warwickshire</gtr:line1><gtr:line4>Coventry</gtr:line4><gtr:line5>West Midlands</gtr:line5><gtr:postCode>CV4 7AL</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/260BE3B0-1CFE-4C58-9C4C-9C4CC29984FF"><gtr:id>260BE3B0-1CFE-4C58-9C4C-9C4CC29984FF</gtr:id><gtr:firstName>Nikos</gtr:firstName><gtr:surname>Tzevelekos</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/7CB47244-F466-4DB5-8B1C-DD4EFAF07BD4"><gtr:id>7CB47244-F466-4DB5-8B1C-DD4EFAF07BD4</gtr:id><gtr:firstName>Andrzej</gtr:firstName><gtr:surname>Murawski</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=EP%2FJ019577%2F1"><gtr:id>E2BF70E9-0949-47E5-848F-600C25CE324B</gtr:id><gtr:title>Game Semantics for Java Programs</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/J019577/1</gtr:grantReference><gtr:abstractText>Although software verification has made great strides in the last few decades, it is well understood that 
+there is still a significant gap between the need and the supply of verification methods and tools. 
+In particular, methods which enjoy high accuracy and can scale up to the size of realistic applications 
+are extremely rare.
+
+In this situation, methods stemming from the field of denotational semantics, which studies mathematical 
+models of programs using elements of set theory and logic, seem naturally advantageous. The denotational 
+approach uniquely combines two desirable features: abstraction and compositionality. Abstraction means 
+that the analysis focusses only on the observable aspects of program behaviour and is therefore bound 
+to lead to concise models. On the other hand, compositionality allows for large verification tasks to be broken 
+into constituent parts, which can then be solved separately.
+
+The aim of this project is to use game semantics in order to devise models, prototype methods and tools 
+for Java programs. Game semantics is a denotational theory describing computation as a game: a dialogue 
+between the program and its environment which follows their exchange of data during program execution. 
+Games strike a balance between abstract mathematical models and operational techniques. They precisely 
+capture observable program behaviour but also provide models which have concrete representations and 
+are therefore amenable to algorihmic reasoning and automation. As a result, games constitute a natural 
+candidate for a refined semantics on which to base program verification.
+
+Research in game semantics has recently made an important breakthrough towards the modelling of realistic 
+programming languages, with the introduction of a novel strand of the theory called Nominal Game Semantics. 
+Nominal games pinpoint dynamic program behaviours involving the generation of new resources, such as 
+reference names, objects, channels, etc. Moreover, research in automata over infinite alphabets has produced 
+machines with the potential of standing as algorithmic counterparts to nominal games. These developments 
+place us in a powerful position to attack Java, a mainstream language featuring such dynamic generative effects.
+
+Our goal is to make an important step in devising disciplined, systematic and automated methods that bear 
+the potential to address difficulties not tackled by the state of the art and eventually lead to the development 
+of better software.</gtr:abstractText><gtr:potentialImpactText>Software systems have become an integral part of the infrastructure of our society and control almost 
+every aspect of our lifestyles. Hence, verification and correctness are nowadays far from a marginal 
+software requirement concerning solely safety-critical systems. Rather, they are desiderata of software 
+development in general: they concern widespread applications written in mainstream languages.
+The verification problem for such languages poses new challenges as high-level programming features 
+(references, objects, classes, etc) need to be handled accurately. Moreover, realistic applications can 
+expand to million lines of code, thus demanding highly scalable methods.
+
+Our project aims at the definition and prototype implementation of a new methodology for modelling 
+and verifying Java programs. Because of its novel ingredients, notably, emphasis on compositionality 
+and focus on modelling only observable program behaviour, we hope to contribute foundations that 
+will influence verification standards. By adopting more refined semantic models, we give space to 
+methods which start from a higher level of accuracy and abstraction. By founding our approach on 
+compositional models, we anticipate substantial gains in scalability.
+
+Because of the popularity of Java in industrial applications, the development of verification methods 
+and tools for Java programs is of major interest to the industry. We envisage that our project will lay 
+the foundations for a new wave of techniques making use of the benefits of the more refined models 
+that game semantics can provide.
+
+In order to inform all interested parties about our approach, we have planned regular attendance at 
+the relevant conferences and workshops, research visits to groups pursuing related state-of-the-art 
+research based on alternative approaches, as well as the organisation of a workshop devoted to 
+modelling and verifying Java code. The event has been scheduled for the end of the first year of 
+the project. It will coincide with the expected completion of the modelling work package, when it is 
+already possible to convey the flavour of our approach. The workshop will also enable us to gather 
+feedback that can still be taken into account during the second implementation-oriented year 
+of the project. Further interaction links will be opened through subsequent visits to academic and 
+industrial labs to give presentations. To that end we are going to exploit existing academic 
+(e.g. Wessex Theory, East London Massive) and industrial (e.g. Microsoft, Monoidics) links at both 
+sites as well as personal contacts made at conferences.
+
+As our project is of foundational nature, the main short-term beneficiaries will be other researchers 
+in industry and academia. In the longer run, we would like to see our modelling methods incorporated 
+into modelling engines of mainstream verification tools. Ultimately, we expect the work to impact 
+actual system developers and, consequently, users at large.</gtr:potentialImpactText><gtr:fund><gtr:end>2015-09-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2013-03-31</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>209083</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>Nominal game semantics has proved to be a versatile modelling
+technique that can handle realistic programming language features. In particular, it can be used to model fragments of Java and ML featuring references and exceptions.
+
+Nominal computation, including fresh-object creation, can be accounted for by techniques stemming from automata
+theory over infinite alphabets. As such, the theory can serve as a
+bridge between nominal games and verification tools.
+
+Contextual equivalence for a fragment of Java can be decided using visibly pushdown register automata.
+We have developed a prototype tool to that end along with a
+classification of decidable cases based on type shapes.</gtr:description><gtr:exploitationPathways>The prototype tool can be improved in terms of performance,
+scalability and the range of programs it covers.
+It can serve as a foundation for checking equivalences between Java programs.
+
+There is need for new abstraction techniques that can support
+verification-oriented tasks as well as capitalising on the nominal
+framework.</gtr:exploitationPathways><gtr:id>8530572E-98BA-4BC2-8A00-8117A720ED60</gtr:id><gtr:outcomeId>56dd5b09176264.36625247</gtr:outcomeId><gtr:sectors><gtr:sector>Digital/Communication/Information Technologies (including Software)</gtr:sector></gtr:sectors></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication><gtr:id>F6E12942-7C3D-459B-A7D8-BDB6E823DA2B</gtr:id><gtr:title>Reachability in pushdown register automata</gtr:title><gtr:parentPublicationTitle>Journal of Computer and System Sciences</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/497c42f831e03aafb56524a2c1c4b82b"><gtr:id>497c42f831e03aafb56524a2c1c4b82b</gtr:id><gtr:otherNames>Murawski A</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>5aa5b6951524b1.94511940</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>DBF8564D-AC4C-4EE7-9F24-58986548A3D0</gtr:id><gtr:title>Bisimilarity in Fresh-Register Automata</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/497c42f831e03aafb56524a2c1c4b82b"><gtr:id>497c42f831e03aafb56524a2c1c4b82b</gtr:id><gtr:otherNames>Murawski A</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date><gtr:outcomeId>56dcb5101b7ee8.60876909</gtr:outcomeId></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">EP/J019577/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>EB5F16BB-2772-4DDE-BD6C-3B7A6914B64C</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Info. &amp; commun. Technol.</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>76783275-A9F8-4B4E-B314-51363124259C</gtr:id><gtr:percentage>80</gtr:percentage><gtr:text>Fundamentals of Computing</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>E05CFE0B-163D-412D-A3C2-28E89B2CA336</gtr:id><gtr:percentage>20</gtr:percentage><gtr:text>Software Engineering</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

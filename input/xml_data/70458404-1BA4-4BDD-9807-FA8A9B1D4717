@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/50F3710C-C1AD-4C57-B421-DC064BFAB005"><gtr:id>50F3710C-C1AD-4C57-B421-DC064BFAB005</gtr:id><gtr:name>The Diabetic Boot Company Limited</gtr:name><gtr:address><gtr:line1>Office 113
+Midshires House
+Midshires Business Park
+Smeaton Close</gtr:line1><gtr:city>Aylesbury</gtr:city><gtr:postCode>HP19 8HL</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/50F3710C-C1AD-4C57-B421-DC064BFAB005" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>50F3710C-C1AD-4C57-B421-DC064BFAB005</gtr:id><gtr:name>The Diabetic Boot Company Limited</gtr:name><gtr:address><gtr:line1>Office 113
+Midshires House
+Midshires Business Park
+Smeaton Close</gtr:line1><gtr:city>Aylesbury</gtr:city><gtr:postCode>HP19 8HL</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>190000.0</gtr:offerGrant><gtr:projectCost>424230.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/CE26692E-C621-4092-9B32-8C20F5F889E4"><gtr:id>CE26692E-C621-4092-9B32-8C20F5F889E4</gtr:id><gtr:firstName>Les</gtr:firstName><gtr:surname>Lindsay</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720127"><gtr:id>70458404-1BA4-4BDD-9807-FA8A9B1D4717</gtr:id><gtr:title>Development of a new therapy to heal diabetic foot ulcers</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720127</gtr:grantReference><gtr:abstractText>Diabetes globally is reaching pandemic proportions, and the 2.4m UK diabetic population has
+a similar growth curve. A serious consequence of long term diabetes is that 10-25% of
+sufferers develop a diabetic foot ulcer. These ulcers are hard to heal, sometimes lasting a year
+or more. These open sores are an entry point for bacteria into the bloodstream and can cause
+not only local infections in bone and tissues, but also infect the circulation itself.
+Diabetes UK?s document ?Putting Feet First?, recommends &amp;quot;offloading&amp;quot; the foot ulcer to
+relieve as much pressure, shear and friction from the wound site as possible. Offloading is
+achieved with plaster cast or a special boot called a Removable Cast Walker (RCW). The
+offloading locks the ankle in a near right angle position and spreads the load evenly over the
+sole of the foot, preventing pressure &amp;quot;hot spots&amp;quot;. An unrecognised consequence of offloading
+is that it reduces the three major lower limb blood pumps that return blood to the heart, up the
+venous system.
+Reduced venous return, especially in already compromised patients, leads to oedema and
+slower wound healing.
+Pulseboot&amp;reg; will effectively offload the diabetic foot ulcer, and, using a miniaturised pump &amp;amp;
+bladder in the inner sole of the Pulseboot&amp;reg;, continue to pump blood back up the leg.
+Pulseboot&amp;reg; has a rechargeable battery, and is designed to give 10 hours therapy per day, even
+if the patient is unable to walk very far.
+Plaster casts and RCWs are large clumsy boots. Pulseboot&amp;reg; looks like normal footwear to
+remove the stigma of wearing a pair out in public, and also to improve patient stability whilst
+walking.
+Pulseboot&amp;reg; will heal ulcers faster, and thereby lessens the necessity to amputate limbs for
+patients who are in danger of a life threatening infection.
+We estimate that we can save around 11,000 limb amputations a year, thereby preventing
+many people becoming disabled.</gtr:abstractText><gtr:fund><gtr:end>2014-02-28</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2012-09-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>190000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720127</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

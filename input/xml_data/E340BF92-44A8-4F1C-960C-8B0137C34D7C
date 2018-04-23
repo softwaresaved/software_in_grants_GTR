@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/EB5A977A-9448-407A-B929-84245FFB3F68"><gtr:id>EB5A977A-9448-407A-B929-84245FFB3F68</gtr:id><gtr:name>Medstrom Ltd</gtr:name><gtr:address><gtr:line1>340 MELTON ROAD , LEICESTER</gtr:line1><gtr:postCode>LE4 7SL</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/EB5A977A-9448-407A-B929-84245FFB3F68" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>EB5A977A-9448-407A-B929-84245FFB3F68</gtr:id><gtr:name>Medstrom Ltd</gtr:name><gtr:address><gtr:line1>340 MELTON ROAD , LEICESTER</gtr:line1><gtr:postCode>LE4 7SL</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>70466.0</gtr:offerGrant><gtr:projectCost>201330.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/401E0E38-FEA9-44D8-BD94-188FB8DE17BC"><gtr:id>401E0E38-FEA9-44D8-BD94-188FB8DE17BC</gtr:id><gtr:firstName>Michael</gtr:firstName><gtr:surname>Clancy</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720552"><gtr:id>E340BF92-44A8-4F1C-960C-8B0137C34D7C</gtr:id><gtr:title>Aerospacer: A pressure relieving mattress overlay from Medstrom Ltd for the prevention of pressure ulcers</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720552</gtr:grantReference><gtr:abstractText>Pressure ulcers (PUs) break down the skin &amp;amp; underlying tissue, and develop when pressure,
+shear &amp;amp; friction is applied to skin, disrupting the flow of blood through the skin, starving the
+skin of oxygen &amp;amp; nutrients. PUs affect people confined to lying in a bed or sitting for
+prolonged periods of time. 0.5 million people in the UK will develop a PU per year. PU
+treatment costs the NHS over &amp;pound;4bn/year, and costs are increasing as the population ages.
+Pressure relieving devices (PRDs) are deployed by health and social care providers, as
+specialist mattresses, overlays for standard mattresses, or as complex full bed systems, to
+reduce the incidence of PUs.
+Raised skin temperature and increased moisture levels around patients are risk factors
+implicated in the development of PUs. Temperature and moisture levels induce a
+?microclimate? around the patient, and current medical literature suggests that microclimate
+control could also help reduce the incidence of PUs.
+Currently, there are no commercially available PRDs that have intrinsic microclimate control
+properties. In this 15 month, &amp;pound;201k development of prototype project, Medstrom will develop
+the ?Aerospacer? overlay, which enables pressure reduction and maintenance of an optimal
+skin microclimate.
+The Aerospacer enables microclimate control due to its pressure-relieving core being
+manufactured from an innovative, 3D-woven spacer fabric which has an open core structure
+permitting air to pass underneath the patient, this airflow can be augmented with driven air
+provided by a low voltage fan accessory. The core is covered with a moisture-vapour
+permeable fabric that enables moisture to move away from the skin. The entire unit benefits
+from being fully washable.
+Conservative sales projections indicate 5.5% of all NHS beds could be fitted with an
+Aerospacer within 5 years of project close; if the Aerospacer prevented PU formation across
+the NHS by 5.5%, a cost saving of &amp;pound;220M could be realised per year</gtr:abstractText><gtr:fund><gtr:end>2015-11-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2014-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>70466</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720552</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

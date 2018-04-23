@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/5FC085C9-E8AE-4404-A187-0FC033876AB8"><gtr:id>5FC085C9-E8AE-4404-A187-0FC033876AB8</gtr:id><gtr:name>Hitek Electronic Materials Limited</gtr:name><gtr:address><gtr:line1>15 WENTWORTH ROAD , SOUTH PARK IND. ESTATE</gtr:line1><gtr:city>SCUNTHORPE</gtr:city><gtr:postCode>DN17 2AX</gtr:postCode><gtr:region>Yorkshire and The Humber</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/5FC085C9-E8AE-4404-A187-0FC033876AB8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>5FC085C9-E8AE-4404-A187-0FC033876AB8</gtr:id><gtr:name>Hitek Electronic Materials Limited</gtr:name><gtr:address><gtr:line1>15 WENTWORTH ROAD , SOUTH PARK IND. ESTATE</gtr:line1><gtr:city>SCUNTHORPE</gtr:city><gtr:postCode>DN17 2AX</gtr:postCode><gtr:region>Yorkshire and The Humber</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>15744.0</gtr:offerGrant><gtr:projectCost>81991.0</gtr:projectCost></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/7AC88847-B861-4329-BC37-64712D7289B9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>7AC88847-B861-4329-BC37-64712D7289B9</gtr:id><gtr:name>Pera Innovation Limited</gtr:name><gtr:address><gtr:line1>PERA BUSINESS PARK , NOTTINGHAM ROAD</gtr:line1><gtr:city>MELTON MOWBRAY</gtr:city><gtr:postCode>LE13 0PB</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>277005.0</gtr:offerGrant><gtr:projectCost>277005.0</gtr:projectCost></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/6A981E83-5C88-4DB8-ABE8-721504A737C0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>6A981E83-5C88-4DB8-ABE8-721504A737C0</gtr:id><gtr:name>J. &amp; D. Wilkie, Limited</gtr:name><gtr:address><gtr:line1>MARYWELL WORKS , MARYWELL BRAE</gtr:line1><gtr:city>KIRRIEMUIR</gtr:city><gtr:postCode>DD8 4BJ</gtr:postCode><gtr:region>Scotland</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>16944.0</gtr:offerGrant><gtr:projectCost>87578.0</gtr:projectCost></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/29003572-7FB3-46BC-846A-4BB5BF80ECDD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>29003572-7FB3-46BC-846A-4BB5BF80ECDD</gtr:id><gtr:name>Solent Composite Systems Limited</gtr:name><gtr:address><gtr:line1>MILLHOUSE , 32-38 EAST STREET</gtr:line1><gtr:city>ROCHFORD</gtr:city><gtr:postCode>SS4 1DB</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>3284.0</gtr:offerGrant><gtr:projectCost>16419.0</gtr:projectCost></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/EC88A0CE-CF7F-470D-9C62-190DFC0EF4B1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>EC88A0CE-CF7F-470D-9C62-190DFC0EF4B1</gtr:id><gtr:name>K.S. Composites Limited</gtr:name><gtr:address><gtr:line1>4 HICKLING LANE , LONG CLAWSON</gtr:line1><gtr:city>MELTON MOWBRAY</gtr:city><gtr:postCode>LE14 4NW</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>19535.0</gtr:offerGrant><gtr:projectCost>97943.0</gtr:projectCost></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/3D02D3E7-74B8-464D-8AF4-FE672D645092" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>3D02D3E7-74B8-464D-8AF4-FE672D645092</gtr:id><gtr:name>Amann Threads UK Limited</gtr:name><gtr:address><gtr:line1>GUIDE MILL , SOUTH STREET</gtr:line1><gtr:city>ASHTON UNDER LYNE</gtr:city><gtr:postCode>OL7 0PJ</gtr:postCode><gtr:region>North West</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>20348.0</gtr:offerGrant><gtr:projectCost>103080.0</gtr:projectCost></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/05A74DE8-3C10-4A17-AC93-BCF0A16D51D3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>05A74DE8-3C10-4A17-AC93-BCF0A16D51D3</gtr:id><gtr:name>Banks Developments Limited</gtr:name><gtr:address><gtr:line1>INKERMAN HOUSE ST JOHNS ROAD , MEADOWFIELD</gtr:line1><gtr:city>DURHAM</gtr:city><gtr:postCode>DH7 8XL</gtr:postCode><gtr:region>Northern Ireland</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>3300.0</gtr:offerGrant><gtr:projectCost>24192.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=200076"><gtr:id>F4F2AB01-63D4-493D-BB5F-A8683B414545</gtr:id><gtr:title>TSB Development of an innovative radar absorbing composite structure for wind turbine blades</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Collaborative R&amp;D</gtr:grantCategory><gtr:grantReference>200076</gtr:grantReference><gtr:abstractText>Develop an inifial specification for the turbine blades. We will develop a theorefical model for the composite structure based on conductive yarns of different impedance. Based on these models we will experimentally model the radar attenuation in the S-band and the X-band. The findings wili be validated using a DoE approach by producing small scale samples and measuring radar attenuation and comparing with theoretical findings. Based on the finding the models will be opfimised.
+? Flomerics
+- Develop and validate the initial EM modelling software solution.
+- Train consortium members in the use of the Flomerics software
+? Solent Composites
+-Involvement in setting the initial specification for the blades -Produce small scale composite samples
+? AMEC
+-Involvement in setting the initial specification for the blades
+? Pera
+- Modelling of the radar absorpfion of the composite structures
+-Testing of samples for radar attenuation (to be undertaken under sub-contract by organisation with large anechoic).
+Experimental invesfigafions will be undertaken using a DoE approach to determine the most appropriate yarns and conductive materials. Following a DoE approach, the yarns will be processed to give controlled conduction. The experiments will investigate co-mingled, coated and co-extruded yarns and the associated processing methods. The yarns be characterised to determine impedance and based on the findings, the materials and processes will be selected and optimised.
+? Oxley Threads
+- Develop a manufacturing process to create electrically conducfive yarns from conductive materials supplied by Hitek.
+? Hitek
+- Development and supply of the conducting materials for the conductive yarns that will later be used by Oxley Threads to produce the conducfive yarns.
+? Pera
+- Selection and modification of conductive materials and tesfing of materials for conductivity and mechanical behaviour.
+- Testing of conductive fibres for structure, conductivity and mechanical properties.
+- Testing of yams for conductivity and mechanical properties.
+The most appropriate conductive yarns from WP2 will be selected and base resins selected. A Jacquard 3D weaving process will be developed and optimised based on theoretical models developed in WPl. The pre-forms (with graded impedance) produced will be composites characterised for radar attenuation. Based on the results, the pre-form composite yarns and 3D structure will be optimised.
+? J&amp;amp;D Wilkie
+- Develop a 3D weaving technology that will allow us to create a textile structure made from yarns with different electrical conductivities that will enable us to create a textile with exponentially graded impedance through the z-axis.
+? Pera
+- Testing ofthe pre-forms for structure, mechanical behaviour, conductivity and radar attenuation.
+From the result of WP 1, 2 &amp;amp; 3, the optimal radar absorbing composite will be de signed and the 3D pre-forms will be manufactured on a lab-scale. The pre-form will be resin infused and metallic reflectors adhered to the back. The composite will be tested for radar attenuation and for mechanical performance and the composite structure (pre-form, resin and metallic reflectors) optimised.
+? Solent Composites
+- Develop a manufacturing process to enable the pre-form to be inserted into the blade mould, resin vacuum infusion of the pre-form and installation of the metallic backing sheet.
+- Testing ofthe blades for mechanical and other behaviour.
+? Hitek
+- Supply the conducfing materials forthe conductive yarns
+? Oxley Threads
+- Create electrically conductive yarns. . J&amp;amp;D Wilkie
+- Create textile structure.
+? Pera.
+- Testing of resin infused pre-form composites for structure, mechanical behaviour, conducfivity and radar attenuation.
+Fromthe result of WP 4, an optimised 3D pre-form will designed. The appropriate method of resin infusion will be determined. Tlie blade manufacturing process will be modified to allow the pre-form to be integrated during manufacture and then infused with resin to create a full scale turbine blade. The resultant blade structure will be tested and optimised for radar attenuation and mechanical properties. Tests for long term integrity will be started in this work package and may be completed after the end of the project to ensure we can achieve a 25 year useful lifetime including testing for the effects of lightening strikes.
+? Hitek
+- Supply the conducfing materials for the conducfive yarns
+- On-going management of long term integrity tests
+? Oxtey Threads
+- Create electrically conductive yarns
+? J&amp;amp;D Wilkie
+- Create textile structure.
+? Solent Composites
+- Produce full scale blade samples . AMEC
+- Provide end-user input and trial samples
+? Pera
+- Testing of samples for radar attenuation (to be undertaken under sub-contract by organisafion with large anechoic).
+- Testing of composites for structure, mechanical behaviour, conducfivity and radar attenuation.
+Application &amp;amp; exploitation of results, including development of an Exploitafion Strategy &amp;amp; protection of IPR. Hitek will be responsible for patents &amp;amp; exploitation and the other consortium partners will be responsible for exploitation of their parts of the technology &amp;amp; will participate in training &amp;amp; dissemination activities. Pera will undertake research and activities relating to technology transfer to the wider business community and development of wider business strategy in the form of workshop or the development of roadmaps.
+? Hitek leader
+- Exploitation and IPR protection activities.
+- Training and disseminafion activities
+- Patent applicafions
+- Development of Exploitation Strategy . J&amp;amp;D Wlkie
+- Exploitation of weaving technologies
+- Training and dissemination activities
+? Oxley Threads
+- Exploitafion of thread technologies
+- Training and dissemination activities
+? Flomerics
+- Exploitation of modelling technologies
+- Training and disseminafion activities
+? Solent Composites
+- Dissemination and exploitafion ofthe technology in the end markets
+- Training and dissemination acfivities
+? AMEC
+- Dissemination and exploitation ofthe technology in the end markets
+- Training and disseminafion activifies
+? Pera
+- Research and activities relating to technology transfer to the wider business community
+- Development of wider business strategy
+- Transfer knowledge from RTD pre-former to SME participants
+Management of project resource &amp;amp; technical activities at WP &amp;amp; Task level, including workflow scheduling. Work Plan change control &amp;amp; communication between partners &amp;amp; the DTl.
+Hitek
+- Chairing management board and running of quarterly steering committee meefings during the 2-year project duration. J&amp;amp;D Wlkie
+- Attendance at quarterly steering committee meetings Oxley Threads
+- Attendance at quarterly steering committee meetings Flomerics
+- Attendance at quarterly steering committee meetings -etc. Solent Composites
+- Attendance at quarterly steering committee meetings AMEC
+- Attendance at quarterly steering committee meetings Pera
+- Attendance at quarterly steering committee meetings
+- Ensure fimely, correct delivery of all milestones &amp;amp; deliverables throughout the lifefime of the project.
+- Monitor &amp;amp; integrate effort between R&amp;amp;D pre-formers &amp;amp; industrial partners for effective use of available resources.
+- Prepare project reports, patent drafts &amp;amp; provide effective IP protection of project results.
+- Management of resource &amp;amp; technical activities at WP &amp;amp; Task level, including workflow scheduling. Work Plan change control &amp;amp; communicafion between partners &amp;amp; TSB.</gtr:abstractText><gtr:fund><gtr:end>2010-08-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2008-02-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>391416</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">200076</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

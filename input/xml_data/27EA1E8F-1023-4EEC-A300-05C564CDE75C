@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/C14CB4CF-2903-409F-A541-C6B22A20699C"><gtr:id>C14CB4CF-2903-409F-A541-C6B22A20699C</gtr:id><gtr:name>Overview Limited</gtr:name><gtr:address><gtr:line1>14 SUDLOW ROAD , LONDON</gtr:line1><gtr:postCode>SW18 1HP</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/C14CB4CF-2903-409F-A541-C6B22A20699C" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>C14CB4CF-2903-409F-A541-C6B22A20699C</gtr:id><gtr:name>Overview Limited</gtr:name><gtr:address><gtr:line1>14 SUDLOW ROAD , LONDON</gtr:line1><gtr:postCode>SW18 1HP</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>95726.0</gtr:offerGrant><gtr:projectCost>159544.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/52DA14E3-E485-45AF-8DC2-06E1BF90ED7F"><gtr:id>52DA14E3-E485-45AF-8DC2-06E1BF90ED7F</gtr:id><gtr:firstName>Sanjaya</gtr:firstName><gtr:surname>Ranasinghe</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710545"><gtr:id>27EA1E8F-1023-4EEC-A300-05C564CDE75C</gtr:id><gtr:title>Helios the next generation of servo motor for a safer, greener world</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710545</gtr:grantReference><gtr:abstractText>This project offers the opportunity to save life, detect &amp;amp; prevent crime using enhanced
+prosecutable evidence, reduce CO2 emissions and create 30 UK jobs. By allowing higher
+resolution technology to be economically accessed we will encourage greater uptake
+especially when systems are being replaced.
+?Only 3% of London?s street robberies solved using CCTV? says Detective Chief Inspector
+Mike Neville, head of Scotland Yard's Visual Images. Mike Lewis of Mobotix AG, a leader in
+CCTV, believes this issue is directly related to image quality.
+Whilst camera technology is available for higher resolution it?s at 5 times the price. Currently
+there is only JVC and us that offer servo-motor drive technology (servo) and it is 5 times the
+price of low accuracy stepper motors. Servo technology is an essential part of the CCTV?s
+Pan Tilt and Zoom (PTZ) high resolution package because of its high accuracy &amp;amp;
+repeatability.
+We have identified an opportunity for innovative step change &amp;amp; revolutionary thinking in our
+servo and its stator design and manufacture so we can compete on cost with low accuracy Far
+East Stepper motors.
+By proving the concept and offering a breakthrough in servos and CCTV we will be able to
+compete on cost with Far East, poor accuracy, stepper motors. The cost &amp;amp; technical benefits
+will enable mass uptake of high resolution imaging so crime prevention and prosecution can
+increase. Helios technologies will future proof our offerings because it can be used with
+emerging 4K video. (4K is 4 times the resolution of 1080p HDTV).
+We shouldn?t tolerate criminals or terrorists. Capture of the Boston Bombers shows how
+powerful &amp;amp; effective CCTV and publicity are. The next step has to be crime prevention.
+Unfortunately most CCTV in use doesn?t have the capability to help because of very poor
+video resolution.
+We urgently need to prove the concept to help fight crime, reduce CO2 emissions and
+compete.</gtr:abstractText><gtr:fund><gtr:end>2015-04-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2014-08-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>95726</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710545</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

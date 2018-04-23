@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/03D8AFBB-3EA5-4885-B036-BD4F9F4F9849"><gtr:id>03D8AFBB-3EA5-4885-B036-BD4F9F4F9849</gtr:id><gtr:name>University of Sheffield</gtr:name><gtr:department>Pure Mathematics</gtr:department><gtr:address><gtr:line1>Firth Court</gtr:line1><gtr:line2>Western Bank</gtr:line2><gtr:line4>Sheffield</gtr:line4><gtr:line5>South Yorkshire</gtr:line5><gtr:postCode>S10 2TN</gtr:postCode><gtr:region>Yorkshire and The Humber</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/03D8AFBB-3EA5-4885-B036-BD4F9F4F9849"><gtr:id>03D8AFBB-3EA5-4885-B036-BD4F9F4F9849</gtr:id><gtr:name>University of Sheffield</gtr:name><gtr:address><gtr:line1>Firth Court</gtr:line1><gtr:line2>Western Bank</gtr:line2><gtr:line4>Sheffield</gtr:line4><gtr:line5>South Yorkshire</gtr:line5><gtr:postCode>S10 2TN</gtr:postCode><gtr:region>Yorkshire and The Humber</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/5E6FDD71-450E-4550-B01E-565F4CB25848"><gtr:id>5E6FDD71-450E-4550-B01E-565F4CB25848</gtr:id><gtr:firstName>V</gtr:firstName><gtr:surname>Bavula</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=EP%2FJ009342%2F1"><gtr:id>D0BA39B3-996D-4A2F-B4FF-8D56FFA03671</gtr:id><gtr:title>The Conjecture of Dixmier</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/J009342/1</gtr:grantReference><gtr:abstractText>In Mathematics there are two old open problems: the Jacobian
+Conjecture (open since 1938) for the polynomial algebras
+ in n variables and the
+Conjecture of Dixmier (open since 1968) for the algebras A(n) of
+polynomial differential operators, the so-called Weyl algebras,
+ that claims that
+the Weyl algebras behave like the finite fields. More precisely,
+ every algebra endomorphism of the Weyl algebra is an
+automorphism. In 1982, Bass, Connell and Wright proved that the
+Conjecture of Dixmier implies the Jacobian Conjecture. In
+2005-07, Tsuchimoto, Belov-Kanel and Kontsevich proved that these
+two conjectures are equivalent. The Weyl algebra A(n) is a
+ subalgebra of the algebra I(n) of polynomial integro-differential
+operators. At the end of 2010, I proved that an an analogue of the
+Conjecture of Dixmier holds for the algebra I(1) (V. Bavula, ``An
+analogue of the Conjecture of Dixmier is true for the algebra of
+polynomial integro-differential operators,'' Arxiv:math.RA:
+1011.3009), and conjectured that the same result is true for all
+algebras I(n). The aim of this project is to prove this conjecture
+and as a result to have a progress on the Conjecture of Dixmier.
+Another goal of the project is to find the K-groups for the
+algebras I(n) and to answer the question of whether or not the
+Bott periodicity holds. The most interesting (and difficult) is
+the case of the K(1)-groups for the algebras I(n) since it leads
+to finding explicit generators for the automorphism groups of the
+algebras I(n). The groups of automorphisms of the algebras I(n)
+are infinite dimensional algebraic groups. Little is known about
+their structure in general. In the polynomial case there are
+several papers by Shafarevich (1966, 1981) and more recently by
+Kambayashi (1996, 2003, 2004). We are going to obtain
+generalizations of these results for the Weyl algebras A(n) and
+I(n).</gtr:abstractText><gtr:potentialImpactText>Who will benefit from the research?
+
+Beneficiaries of results of the project are Pure and Applied
+Mathematicians, Physicists and Computer Scientists, or more
+generally all who deal with differential and integro-differential
+operators.
+
+How they will benefit from the research?
+
+By applying the results and techniques that will be developed in
+the project.
+
+What will be done that they benefit from this research?
+
+Talks will be given by the PI and the two postgraduate students at
+the conferences MSRI (Berkley) Programs on ``Commutative
+Algebra'' (2012) and ``Noncommutative Algebraic Geometry and
+Representation Theory'' (2013), by the PI at the University of
+Cornell, the Rutgers, the Wayne State University, the University
+of Moscow and others, at the School of Mathematics Colloquium and
+at the Physics Seminar at the University of Sheffield.</gtr:potentialImpactText><gtr:fund><gtr:end>2014-10-08</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2012-04-09</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>55281</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>1. The groups of automorphisms of the Lie algebras of formally analytic vector fields with constant divergence was found.
+
+2. The groups of automorphisms of the Lie algebras of triangular polynomial derivations was found. ? ? 
+ 
+3. Several new criteria for a ring to have a semisimple left quotient ring were given. 
+
+4. A semi-simplicity criterion for the largest strong left quotient ring of a ring was found. 
+?</gtr:description><gtr:exploitationPathways>These results might be applied to study the structure of rings (like quantum algebras, rings of differential operators, rings of integro-differential operators, quantum groups). These results might be applied to study the structure of various infinite dimensional Lie algebras of derivations.</gtr:exploitationPathways><gtr:id>99D1EBA5-6311-41D5-950A-F83251D1CA62</gtr:id><gtr:outcomeId>56cf632562f6f2.93430327</gtr:outcomeId><gtr:sectors><gtr:sector>Digital/Communication/Information Technologies (including Software),Education,Other</gtr:sector></gtr:sectors></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication><gtr:id>9CD9EA7F-AE16-43EA-B677-E265924B0704</gtr:id><gtr:title>The groups of automorphisms of the Lie algebras of triangular polynomial derivations</gtr:title><gtr:parentPublicationTitle>Journal of Pure and Applied Algebra</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/82850d664efb8cc72bb77ace1cc9308f"><gtr:id>82850d664efb8cc72bb77ace1cc9308f</gtr:id><gtr:otherNames>Bavula V</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2014-01-01</gtr:date><gtr:outcomeId>56cf5f0c2329e9.90313062</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>EACDAB20-5005-40A3-860C-76CA0C82155A</gtr:id><gtr:title>New criteria for a ring to have a semisimple left quotient ring</gtr:title><gtr:parentPublicationTitle>Journal of Algebra and Its Applications</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/82850d664efb8cc72bb77ace1cc9308f"><gtr:id>82850d664efb8cc72bb77ace1cc9308f</gtr:id><gtr:otherNames>Bavula V</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date><gtr:outcomeId>56cf5cdfb307d7.82689043</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>9575CA26-4184-4D44-A8E6-1AC0B2CCE1A9</gtr:id><gtr:title>The largest strong left quotient ring of a ring</gtr:title><gtr:parentPublicationTitle>Journal of Algebra</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/82850d664efb8cc72bb77ace1cc9308f"><gtr:id>82850d664efb8cc72bb77ace1cc9308f</gtr:id><gtr:otherNames>Bavula V</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date><gtr:outcomeId>5675fc75ec7e3</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>0FC92527-EF3A-4C25-94BA-69C23BFE3006</gtr:id><gtr:title>Characterizations of left orders in left Artinian rings</gtr:title><gtr:parentPublicationTitle>Journal of Algebra and Its Applications</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/82850d664efb8cc72bb77ace1cc9308f"><gtr:id>82850d664efb8cc72bb77ace1cc9308f</gtr:id><gtr:otherNames>Bavula V</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2014-01-01</gtr:date><gtr:outcomeId>56cf5e04a7a7a7.51071979</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>77665D91-5EC8-4299-BDFA-6975F9A99700</gtr:id><gtr:title>The groups of automorphisms of the Lie algebras of formally analytic vector fields with constant divergence</gtr:title><gtr:parentPublicationTitle>Comptes Rendus Mathematique</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/82850d664efb8cc72bb77ace1cc9308f"><gtr:id>82850d664efb8cc72bb77ace1cc9308f</gtr:id><gtr:otherNames>Bavula V</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2014-01-01</gtr:date><gtr:outcomeId>56cf5f91992ca4.66079342</gtr:outcomeId></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">EP/J009342/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/91ECB2F1-7B63-4830-80D2-41F5B354F61F"><gtr:id>91ECB2F1-7B63-4830-80D2-41F5B354F61F</gtr:id><gtr:name>Element Energy Limited</gtr:name><gtr:address><gtr:line1>TERRINGTON HOUSE , 13 - 15 HILLS ROAD</gtr:line1><gtr:city>CAMBRIDGE</gtr:city><gtr:postCode>CB2 1NL</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/91ECB2F1-7B63-4830-80D2-41F5B354F61F" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>91ECB2F1-7B63-4830-80D2-41F5B354F61F</gtr:id><gtr:name>Element Energy Limited</gtr:name><gtr:address><gtr:line1>TERRINGTON HOUSE , 13 - 15 HILLS ROAD</gtr:line1><gtr:city>CAMBRIDGE</gtr:city><gtr:postCode>CB2 1NL</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>68022.0</gtr:offerGrant><gtr:projectCost>97174.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6DAB037C-59A2-487E-B608-89C995167CD1"><gtr:id>6DAB037C-59A2-487E-B608-89C995167CD1</gtr:id><gtr:firstName>Mark</gtr:firstName><gtr:surname>Hughes</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=132430"><gtr:id>B6F8F8FC-B5BC-4309-9859-D0D0D9569FBC</gtr:id><gtr:title>Visualising real-time in-home energy savings opportunities</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Feasibility Studies</gtr:grantCategory><gtr:grantReference>132430</gtr:grantReference><gtr:abstractText>Smart meters and in-home displays (IHD) are being rolled out across all GB homes (&amp;gt;27 million) by 2020. IHDs 
+
+(which display energy consumption and cost in real-time) currently offer limited opportunities to put household 
+
+energy consumption in context, and as such, fail to deliver the full potential for customer engagement, 
+
+behavioural change and energy savings that these devices could achieve by leveraging proven consumer 
+
+drivers. In this project, we will assess the technical feasibility of a new type of IHD which provides real-time 
+
+comparative consumption, i.e. how real-time consumption compares to the historical consumption of similar 
+
+households (at that specific time of day and season) with the ability to take into account household occupancy, 
+
+demographics, building characteristics and appliance ownership. Non real-time comparative consumption 
+
+feedback has been shown in the US to offer an additional 2-3% energy saving per household. This innovative 
+
+project will be the first time this is applied in a real-time context with the potential to save GB households as 
+
+much as &amp;pound;330 million annually on their electricity bills.</gtr:abstractText><gtr:fund><gtr:end>2018-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2017-03-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>68022</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">132430</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

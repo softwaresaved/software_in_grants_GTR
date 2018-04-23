@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/AE58F21F-3622-4382-97BB-1359BD183E9F"><gtr:id>AE58F21F-3622-4382-97BB-1359BD183E9F</gtr:id><gtr:name>University of Glasgow</gtr:name><gtr:department>School of Computing Science</gtr:department><gtr:address><gtr:line1>University Avenue</gtr:line1><gtr:line4>Glasgow</gtr:line4><gtr:postCode>G12 8QQ</gtr:postCode><gtr:region>Scotland</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/AE58F21F-3622-4382-97BB-1359BD183E9F"><gtr:id>AE58F21F-3622-4382-97BB-1359BD183E9F</gtr:id><gtr:name>University of Glasgow</gtr:name><gtr:address><gtr:line1>University Avenue</gtr:line1><gtr:line4>Glasgow</gtr:line4><gtr:postCode>G12 8QQ</gtr:postCode><gtr:region>Scotland</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/E314BE10-F239-423D-A588-8D10290EDD6D"><gtr:id>E314BE10-F239-423D-A588-8D10290EDD6D</gtr:id><gtr:name>Bayncore Limited</gtr:name><gtr:address><gtr:line1>First Floor</gtr:line1><gtr:line2>Thavies Inn House</gtr:line2><gtr:line3>3-4 Holborn Circus</gtr:line3><gtr:postCode>EC1N 2HA</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/638AB5BB-E166-492A-8470-04650A3271EF"><gtr:id>638AB5BB-E166-492A-8470-04650A3271EF</gtr:id><gtr:name>Codeplay Software Ltd</gtr:name><gtr:address><gtr:line1>2nd Floor</gtr:line1><gtr:line2>45 York Place</gtr:line2><gtr:line4>Edinburgh</gtr:line4><gtr:postCode>EH1 3HP</gtr:postCode><gtr:region>Scotland</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/8A82DB92-2049-429C-BC69-8D7979E9BC43"><gtr:id>8A82DB92-2049-429C-BC69-8D7979E9BC43</gtr:id><gtr:name>Maxeler Technologies</gtr:name><gtr:address><gtr:line1>3-4 Albion Place</gtr:line1><gtr:postCode>W6 0QT</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/60426BE9-3EA3-4382-9FF7-752EC3CE27BD"><gtr:id>60426BE9-3EA3-4382-9FF7-752EC3CE27BD</gtr:id><gtr:name>Imagination Technologies Ltd UK</gtr:name><gtr:address><gtr:line1>Imagination House</gtr:line1><gtr:line2>Home Park Estate</gtr:line2><gtr:postCode>WD4 8LZ</gtr:postCode><gtr:region>East of England</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/DC144D70-D1D9-46D5-B64C-04D21FEADDF3"><gtr:id>DC144D70-D1D9-46D5-B64C-04D21FEADDF3</gtr:id><gtr:name>Red Hats Labs</gtr:name><gtr:address><gtr:line1>Nanotechnology Centre</gtr:line1><gtr:line2>Herschel Building</gtr:line2><gtr:line3>Kings Walk</gtr:line3><gtr:postCode>NE1 7RU</gtr:postCode><gtr:region>North East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/9961F9B7-65E0-4145-AE71-EDA81AD3E92F"><gtr:id>9961F9B7-65E0-4145-AE71-EDA81AD3E92F</gtr:id><gtr:name>E P C C  Ltd</gtr:name><gtr:address><gtr:line1>James Clerk Maxwell Bldgs</gtr:line1><gtr:line2>King's Bldgs</gtr:line2><gtr:postCode>EH9 3JZ</gtr:postCode><gtr:region>Scotland</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/F262B9E0-E9D1-4BFF-B9BF-B4C81D12D8B9"><gtr:id>F262B9E0-E9D1-4BFF-B9BF-B4C81D12D8B9</gtr:id><gtr:name>Microsoft Research Ltd</gtr:name><gtr:address><gtr:line1>21 Station Road</gtr:line1><gtr:postCode>CB1 2FB</gtr:postCode><gtr:region>East of England</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/17A78184-DAA6-46D0-91E5-CDF4162B1017"><gtr:id>17A78184-DAA6-46D0-91E5-CDF4162B1017</gtr:id><gtr:firstName>Jeremy</gtr:firstName><gtr:surname>Singer</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/32CE70A0-638E-41E7-B46E-BCFBAA642949"><gtr:id>32CE70A0-638E-41E7-B46E-BCFBAA642949</gtr:id><gtr:firstName>Phil</gtr:firstName><gtr:surname>Trinder</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=EP%2FP006434%2F1"><gtr:id>326899A6-2383-494B-AB97-75AF997DF548</gtr:id><gtr:title>Manycore Research Innovation and Opportunities Network (MaRIONet)</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/P006434/1</gtr:grantReference><gtr:abstractText>The transition to manycore systems is arguably the greatest challenge
+facing the ICT industry, Computational Science, and Computing Science
+research. The challenge is globally recognised, and is an EPSRC ICT priority:
+Manycore Architectures in Distributed and Embedded Systems (MACDES).
+The proposed network will identify and bring together a critical mass
+of UK manycore researchers. 
+
+The manycore revolution is fundamentally changing multiple levels of
+the computation execution stack: from processor architecture, through
+systems software, to applications. The UK has world leading
+researchers and industrialists working on specific technologies at
+each level, but currently researchers and engineers do not collaborate
+adequately on the complex manycore challenges. Furthermore,
+meaningful industry engagement is limited, despite the large number of
+UK-based industrial research labs with strategic interest in manycore
+systems.
+
+We will foster effective communication between academic and industrial
+research teams both at different levels in the execution stack
+(e.g. compiler developers targeting an emergent architecture), and
+within each level (e.g. program analysis applied to improve memory
+access latency in the systems layer). The teams will benefit by being
+able to identify and exploit synergies and opportunities for
+cross-pollination.
+
+We will establish well defined, highly available channels for
+communication and low-overhead mechanisms for collaboration. Given
+that many world-class UK researchers are isolated in relatively small
+departments and research groups, the network will enable national
+sharing of ideas, information and infrastructure. Community support
+and resource pooling will enable UK researchers to achieve greater
+academic impact globally, competing effectively with larger,
+well-resourced groups in the USA (e.g. Aspire Lab at Berkeley), China
+(e.g. State Key Lab of Computer System and Architecture, Chinese
+Academy of Sciences), and elsewhere.
+
+Both architectural innovation and systems software development are
+massive investments, often involving person-decades of
+effort. MaRIONet will enable sharing of expertise and infrastructure
+to lower the barrier to entry for UK systems researchers working in
+this area. Industrial network partners will gain exposure to
+cutting-edge research, and ideas to address current problems. Academic
+partners gain real-world use cases and grand challenges.
+
+At least three of the UK Policy Exchange `Eight great technologies'
+are directly enabled by the increased scale and speed of future manycore 
+systems and software, namely:
+
+* Big Data revolution: enabled by manycore systems for 
+ energy-efficient collection, analysis and storage of big data.
+
+* Robotics and autonomous systems: enabled by manycore
+ systems for artificial intelligence, planning, image recognition,
+ humanoid motion control. 
+
+* Synthetic biology: enabled by manycore processing of biological
+ data, in-silico simulation of bio-mechanisms. 
+
+Hence we anticipate that future UK economic growth and societal well-being
+will be strongly influenced by manycore technology, which is the focus of
+our research network.</gtr:abstractText><gtr:potentialImpactText>We envisage impact primarily in the areas of Knowledge, People and
+Economy. We denote RCUK impact activities as: Application and
+exploitation(APP), Communication &amp;amp; engagement (COMM), Collaboration &amp;amp;
+co-production(COLL) and Capacity &amp;amp; involvement(CAP).
+
+KNOWLEDGE
+
+MaRIONet enhances the capability of the fragmented UK manycore research
+community by creating a critical mass, to deliver better representation
+of UK-based research in leading international conferences, (e.g. PLDI,
+ASPLOS), journals (e.g. IEEE TOCS, ACM TOPLAS), and events
+(e.g. HiPEAC, UK-MAC). (COMM,CAP)
+
+Direct contributions to knowledge include open access reports and
+lecture notes. A key contribution is the roadmap that should inform
+future funding priorities. (COMM,CAP)
+
+The impact of new technologies developed within the network will be
+enhanced by ongoing engagement with industrial network partners. We
+will foster collaborations, including academic/industrial
+collaborations, via regular network meetings, industrial fora like
+EdLambda, and by Innovate UK KTN events. (APP,CAP)
+
+Open access to documents and software will facilitate
+dissemination. Similarly open access to software and our infrastructure
+sharing scheme will encourage technology adoption and multi-technology
+evaluation by making cross-site experimentation easier. (APP,COLL)
+
+PEOPLE
+
+We will facilitate the development of new skills for current
+practitioners, and the training of new practitioners as part of the UK
+people pipeline. Moreover we seek to engage the wider public with social
+media, and school children via classroom materials. (CAP)
+
+Postgraduate students and early career researchers will enhance both
+discipline-specific competence and transferable skills by attending
+themed meetings, annual workshops and the Summer School. The large
+postgraduate and early career community identified by the network will
+be a key part of a nationwide virtual centre of excellence for
+manycore. An early career mentoring champion on the steering committee
+will provide informal advice and career guidance at annual
+workshops. Industrial partners will provide placements/internships for
+early career researchers. (CAP, COLL)
+
+Our social media strategy exploits channels like twitter and Youtube to
+present network activities to a wider audience, e.g. three-minute videos
+summarising new research. We will raise the exposure and clarify the
+motivation of our publicly-funded research. (COMM)
+
+Our schools outreach strategy will exploit existing strong links with
+the Computing At School grassroots ICT teachers organization. The PI
+will design manycore classroom activity packs to support computational
+thinking. The packs will be developed by interns at Glasgow, then
+distributed via Computing At School, and using online media
+channels. (CAP, COMM)
+
+ECONOMY
+
+Effectively exploiting manycore architectures is arguably the greatest
+challenge facing the UK ICT sector, which directly employs 1m people and
+is worth GBP 58 billion annually. MaRIONet seeks to strengthen the
+manycore capabilities of the sector and secure them as a core competency
+for UK ICT.
+
+We will exploit strong industrial links of the initial network partners,
+and target strong growth in industrial partners during the project.
+Relevant technical challenges from industrial partners at network
+meetings will foster academic/industrial collaborative projects. These
+may start as hackathons or internships, and then transition into more
+substantial collaborations. Some may leverage Knowledge Transfer Account
+(KTA), or other, funding. (COLL, CAP)
+
+We will encourage industrial exploitation and application of academic
+research. Individual members have access to institutional help, e.g.
+Easy Access IP. A knowledge transfer champion on the steering committee
+will provide expert consultancy to academic and industrial network
+partners about best practice for research exploitation. (COLL, CAP)</gtr:potentialImpactText><gtr:fund><gtr:end>2019-10-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2016-11-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>91619</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication><gtr:id>B87E9184-FC1D-4DDC-93B0-EE6CAAFFC4BB</gtr:id><gtr:title>Replicable parallel branch and bound search</gtr:title><gtr:parentPublicationTitle>Journal of Parallel and Distributed Computing</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/070501a61ae3ccece0b0b9b4852f0d9a"><gtr:id>070501a61ae3ccece0b0b9b4852f0d9a</gtr:id><gtr:otherNames>Archibald B</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2018-01-01</gtr:date><gtr:outcomeId>5a66182d512bb5.91604707</gtr:outcomeId></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">EP/P006434/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>EB5F16BB-2772-4DDE-BD6C-3B7A6914B64C</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Info. &amp; commun. Technol.</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>D7BA1404-E001-4782-929E-E96E28B01201</gtr:id><gtr:percentage>60</gtr:percentage><gtr:text>Computer Sys. &amp; Architecture</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>76783275-A9F8-4B4E-B314-51363124259C</gtr:id><gtr:percentage>20</gtr:percentage><gtr:text>Fundamentals of Computing</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>E05CFE0B-163D-412D-A3C2-28E89B2CA336</gtr:id><gtr:percentage>20</gtr:percentage><gtr:text>Software Engineering</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

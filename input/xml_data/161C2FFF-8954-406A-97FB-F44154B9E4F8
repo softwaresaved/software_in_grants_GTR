@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/4A127AB1-89A5-40CB-B07C-2091B293C7E4"><gtr:id>4A127AB1-89A5-40CB-B07C-2091B293C7E4</gtr:id><gtr:name>Zettlex Printed Technologies Limited</gtr:name><gtr:address><gtr:line1>SUITE 1 NEWTON COURT , TOWN STREET NEWTON</gtr:line1><gtr:city>CAMBRIDGE</gtr:city><gtr:postCode>CB22 7PE</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/4A127AB1-89A5-40CB-B07C-2091B293C7E4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>4A127AB1-89A5-40CB-B07C-2091B293C7E4</gtr:id><gtr:name>Zettlex Printed Technologies Limited</gtr:name><gtr:address><gtr:line1>SUITE 1 NEWTON COURT , TOWN STREET NEWTON</gtr:line1><gtr:city>CAMBRIDGE</gtr:city><gtr:postCode>CB22 7PE</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>170805.0</gtr:offerGrant><gtr:projectCost>379567.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720001"><gtr:id>161C2FFF-8954-406A-97FB-F44154B9E4F8</gtr:id><gtr:title>MINI-ME - Miniature Inductive Motor Encoders</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720001</gtr:grantReference><gtr:abstractText>Billions of electric motors are made every year and the number is growing. Electric motors
+are all around us - in our kitchen appliances, office equipment, heating &amp;amp; air-conditioning
+systems, even our toys &amp;amp; games.
+Traditionally, motors use carbon brushes to commutate power to their windings but the
+brushes create dust and wear out. A growing proportion of motors are ?brushless?. Rather
+than carbon brushes, they trigger power to their windings according to rotor angle.
+The situation can be compared with that of old and new cars. Older cars used a distributor
+cap to energize the spark plugs in each of the engine?s cylinders ? whereas modern cars use
+electronic fuel injection. As with a car's engine, the key to performance in an electric motor is
+precise triggering of the power injection point. This requires the angle of the rotor to be
+measured accurately and quickly because even a tiny difference between the actual and ideal
+trigger points makes a big difference to energy efficiency and performance.
+Various sensing techniques have been used as motor encoders but each is problematic:-
+- Hall effect is fairly inaccurate and limited to benign conditions
+- optical encoders are delicate and unreliable in dirty or wet environments
+- resolvers are too bulky or expensive for most applications.
+The business opportunity is to offer system integrators, actuator &amp;amp; electric motor
+manufacturers an encoder with the following advantages:-
+- less cost
+- more reliable
+- greater operating envelope ? notably at high temperatures
+- long-life
+- compact &amp;amp; lightweight
+- accurate
+- easy to install
+- readily customized to suit specific applications
+- ecologically friendly.
+The concept that offers these advantages is called 'MINI-ME' (MINiature Inductive Motor
+Encoder) which uses a novel sensing technique to contactlessly measure angle. MINI-ME's
+patent is granted in UK and pending in USA, Germany, France &amp;amp; China. The next step to
+commercial exploitation is to develop and test MINI-ME pre-production prototypes.
+Development will lead to a range of MINI-ME products (of various sizes) being launched in
+2014.
+MINI-ME has excellent commercial prospects because it will enable manufacturers to get
+more torque or speed from a given motor. This is possible because they will have more
+precise and reliable control of motor energization. This means that for a given application a
+smaller, less costly and more energy efficient motor can be used.
+Improved control will also enable more accurate positioning of the motor rotor in lower speed
+applications ? notably in servo control of actuators. This is where MINI-ME's early adopters
+will be quick to realize the technical advantages.
+Appendix A provides a technical description.</gtr:abstractText><gtr:fund><gtr:end>2013-09-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2011-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>170805</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720001</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

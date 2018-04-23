@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/D1774113-D5D2-4B7C-A412-66A90FE4B96F"><gtr:id>D1774113-D5D2-4B7C-A412-66A90FE4B96F</gtr:id><gtr:name>University of Cambridge</gtr:name><gtr:department>Psychiatry</gtr:department><gtr:address><gtr:line1>Lensfield Road</gtr:line1><gtr:line4>Cambridge</gtr:line4><gtr:postCode>CB2 1EW</gtr:postCode><gtr:region>East of England</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/D1774113-D5D2-4B7C-A412-66A90FE4B96F"><gtr:id>D1774113-D5D2-4B7C-A412-66A90FE4B96F</gtr:id><gtr:name>University of Cambridge</gtr:name><gtr:address><gtr:line1>Lensfield Road</gtr:line1><gtr:line4>Cambridge</gtr:line4><gtr:postCode>CB2 1EW</gtr:postCode><gtr:region>East of England</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/78F0169A-7CD6-4D5E-B67E-499A4D67A502"><gtr:id>78F0169A-7CD6-4D5E-B67E-499A4D67A502</gtr:id><gtr:firstName>Frederick</gtr:firstName><gtr:otherNames>John</gtr:otherNames><gtr:surname>Livesey</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/FA7D42FC-6FAD-486F-B8EB-5F5FA4DE9BD2"><gtr:id>FA7D42FC-6FAD-486F-B8EB-5F5FA4DE9BD2</gtr:id><gtr:firstName>Thomas</gtr:firstName><gtr:otherNames>Adrian</gtr:otherNames><gtr:surname>Carpenter</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/1D6CEF15-2771-4F09-BF03-3A3593EF7220"><gtr:id>1D6CEF15-2771-4F09-BF03-3A3593EF7220</gtr:id><gtr:firstName>John</gtr:firstName><gtr:otherNames>T</gtr:otherNames><gtr:surname>O'Brien</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/0932C3A1-F583-423C-B002-21350ECA4F57"><gtr:id>0932C3A1-F583-423C-B002-21350ECA4F57</gtr:id><gtr:firstName>James</gtr:firstName><gtr:surname>Rowe</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/09717709-C72F-4D1D-A890-7310F654D410"><gtr:id>09717709-C72F-4D1D-A890-7310F654D410</gtr:id><gtr:firstName>Carol</gtr:firstName><gtr:surname>Brayne</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/5638B83E-8513-4CEC-A4BD-0C0805F4A22C"><gtr:id>5638B83E-8513-4CEC-A4BD-0C0805F4A22C</gtr:id><gtr:firstName>Franklin</gtr:firstName><gtr:otherNames>Imo</gtr:otherNames><gtr:surname>Aigbirhio</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=MR%2FM024873%2F1"><gtr:id>565F736F-CE12-4582-9C99-C878275DD72D</gtr:id><gtr:title>UKDP: Integrated DEmentiA research environment (IDEA)</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>MR/M024873/1</gtr:grantReference><gtr:abstractText>The UK Dementias Platform (UKDP) is a radically new approach to dementias research. It brings together data from
+around 2,000,000 study participants from 22 cohorts to try and discover the causes of dementia and to find out ways of
+slowing it down. The platform has been funded to the level of &amp;pound;12M.
+In this proposal we want to improve UK infrastructure for dementia research so that the most can be made of the
+opportunity provided by UKDP. We wan to improve the infrastructure by buying important pieces of equipment that will put
+the UK at the forefront of dementia research worldwide and by establishing networks of scientists who will work together to
+make best use of the equipment.
+The three themes of the proposal are imaging, informatics and stem cells.
+For imaging we want to establish a network of PET/MR scanning facilities across the UK so that the molecular processes
+going on inside the brain that cause dementia can be studied.
+For informatics we want to be bring together bas many different types of data as possible and make it easy as possible for
+scientists to use them
+For stem cells we want to take cells form adults with and without dementia to find out how cells change as the dementias
+process begins and progresses.
+We believe these proposals will raise standards, reduce costs, and deliver innovative and coordinated research, making
+the UK an internationally unique place to study dementia.</gtr:abstractText><gtr:technicalSummary>Our objective is to achieve a step-change in UK dementia research capacity through establishing national networks of
+existing and emerging centres of excellence in imaging, informatics and cell-biology.
+The UK Dementias Platform (UKDP) is a radically new approach to dementias research, providing a highly efficient and
+cost-effective translational pipeline from discovery through to early phase trials. UKDP will create closer synergy between
+epidemiology and experimental medicine with the re-purposing of epidemiologic cohorts for trials readiness. The size and
+depth of phenotyping available to UKDP will deliver a step-change in the complexity and granularity of dementia related
+hypothesis testing and accelerate compound development.
+Proposed here is an infrastructure of investment and collaboration. Underpinning UKDP is a critical mass of researchers
+and resources that will work together to encourage, facilitate, and develop a fully integrated dementia dedicated UK
+research environment. This will raise standards, reduce costs, and deliver innovative and coordinated research, to make
+the UK an internationally unique research environment. Through its partnership with major academic centres and industry,
+UKDP is well positioned to achieve this goal.
+Building on the recent MRC investment in UKDP, we propose here to renew and extend the UKDP integrative research
+environment with an advanced molecular imaging network strategically located to exploit UKDP cohorts. Also proposed is
+an integrated informatics environment to facilitate the location of and access to both data and bio-samples. The third
+proposal is for a stem-cells network to promote the use of this important and emerging technology. Each of these elements
+adds value to existing infrastructure investments and fills significant gaps in the UK research landscape.</gtr:technicalSummary><gtr:potentialImpactText>The current proposal in in support of the UKDP and will become part of the the UKDP impact strategy.
+In summary, the UKDP strategy to deliver pact is to develop networks of partnership to actively consult engage the UK
+academic community in relation to dementia research focussing on the direction,
+technologies and collaborations of the UKDP and the wider UK national infrastructure.
+Our aim is to:
+
+1) promote the best possible science
+2) create momentum in dementias research by being inclusive of, and synergistic with, other initiatives.
+Partnership discussions with industry are already underway with exchanges of ides, interests and needs between
+academic and industry stakeholders. Industry have identified their need for access to conversion (early MVI to dementia
+cohorts and for experimental medicine studies to conform to regulatory requirements.
+We remain committed to raising the profile of contemporary debate about dementia and its treatment. We wish to
+encourage a culture of commitment to solving this problem. By increasing awareness at all levels of society we intend to
+leverage resources for the platform and for dementia research in general, to increase awareness of the need for earlier
+interventions and better targeted treatment in general by health service providers and the public alike.
+Engagement with the general public and with patients and carers is a very important part of our mission. This serves not
+only to communicate our research findings and their relevance but also to address such issues as stigma in society and the
+research culture in the NHS in relation to dementia and older people. In addition to using the platform web-site to
+communicate to the general public, we will also liaise with charities and advocate groups such as Age UK and the
+Alzheimer's Society to promote our work and findings and to engage them in shaping the work programme.
+In addition we will have a dedicated free-phone number available 6 days a week and a communications officer at 50% FTE
+over 5 years whose responsibility is to develop and implement a communications and public engagement strategy.</gtr:potentialImpactText><gtr:fund><gtr:end>2016-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/C008C651-F5B0-4859-A334-5F574AB6B57C"><gtr:id>C008C651-F5B0-4859-A334-5F574AB6B57C</gtr:id><gtr:name>MRC</gtr:name></gtr:funder><gtr:start>2015-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>4202560</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">MR/M024873/1</gtr:identifier></gtr:identifiers><gtr:healthCategories><gtr:healthCategory><gtr:id>041997EB-CFD8-493D-B0F8-DFA35451D0BE</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Neurological</gtr:text></gtr:healthCategory></gtr:healthCategories><gtr:researchActivities><gtr:researchActivity><gtr:id>1BF330A9-C7B5-49C5-B54B-CF4FAE6DF1D8</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>2.1  Biological and endogenous factors</gtr:text></gtr:researchActivity><gtr:researchActivity><gtr:id>93C4699B-9E5C-4982-9CCC-EFD5B9712D6E</gtr:id><gtr:percentage>50</gtr:percentage><gtr:text>2.6  Resources and infrastructure (aetiology)</gtr:text></gtr:researchActivity></gtr:researchActivities><gtr:researchSubjects/><gtr:researchTopics/><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

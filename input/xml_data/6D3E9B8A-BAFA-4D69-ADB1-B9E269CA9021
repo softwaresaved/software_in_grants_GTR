@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/71AA2B03-3734-4D25-BD21-12B2BC4D3733"><gtr:id>71AA2B03-3734-4D25-BD21-12B2BC4D3733</gtr:id><gtr:name>Kafoodle limited</gtr:name><gtr:address><gtr:line1>88 Goswell Road</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>EC1V 7DB</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/71AA2B03-3734-4D25-BD21-12B2BC4D3733" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>71AA2B03-3734-4D25-BD21-12B2BC4D3733</gtr:id><gtr:name>Kafoodle limited</gtr:name><gtr:address><gtr:line1>88 Goswell Road</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>EC1V 7DB</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>202411.0</gtr:offerGrant><gtr:projectCost>449803.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/81C0C9FA-256D-4521-8AC1-71FF2638DC56"><gtr:id>81C0C9FA-256D-4521-8AC1-71FF2638DC56</gtr:id><gtr:firstName>Tarryn</gtr:firstName><gtr:surname>Gorre</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720744"><gtr:id>6D3E9B8A-BAFA-4D69-ADB1-B9E269CA9021</gtr:id><gtr:title>Kafoodle Kare</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720744</gtr:grantReference><gtr:abstractText>In light of the Staffordshire Trust Hospital scandal, the Government implemented new
+strategies for providing ?maximum care? for patients. Earlier this year, the Health Secretary
+introduced 'mandatory food standards' enforced through legally binding NHS contracts with
+hefty fines for hospitals that ?don't provide good enough food?.
+Since 1992, &amp;pound;54m has been spent on 21 initiatives to try to raise food standards. However 3m
+patients remain at risk of malnutrition whilst in hospital and at least 20% of hospitals and
+nursing homes are not meeting at least one basic or essential standard in nutrition and
+hydration.
+The problem for hospitals and residential homes is that as many as 50 different diets need to
+be provided for, whilst typically serving ~2.8m meals a day. Therapeutic, nutritional,
+medicinal, recovery and post surgery, cultural, religious, allergies, intolerances - all these
+special diets need to be catered for with many patients requiring adherence to multiple dietary
+needs.
+It is no wonder that 30m patient meals are wasted each year at a cost of &amp;pound;230m at a time when
+the NHS needs to make &amp;pound;22bn savings.
+Care plans are supposed to monitor nutrition and dietary intakes; however even electronic
+care plans rely on visual cross checking to spot allergic and medical reactions. Food
+intolerances are rarely catered for, meals lack nutrition and taste, and there is no quality
+standard benchmarked across healthcare providers.
+Our solution is Kafoodle Kare a cloud based e-nutritional care plan that maps permitted
+ingredients in meal plans to medical condition and all possible dietary needs, hence providing
+a food resource management system that can be integrated into existing patient management
+systems. Kitchen staff would be able plan and resource cost effective, nutritional, appropriate
+wholesome foods that meet patients? dietary needs.
+Kafoodle Kare would enable the NHS to reduce costs and wastage, raise food standards and
+meet mandatory requirements.</gtr:abstractText><gtr:fund><gtr:end>2018-12-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2016-01-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>202411</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720744</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

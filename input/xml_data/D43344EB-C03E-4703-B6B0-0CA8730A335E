@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/31AEA92D-638B-4075-B9CA-176504EB14D7"><gtr:id>31AEA92D-638B-4075-B9CA-176504EB14D7</gtr:id><gtr:name>Advanced Blast &amp; Ballistic Systems Limited</gtr:name><gtr:address><gtr:line1>CEDAR HOUSE , 35 ASHBOURNE ROAD</gtr:line1><gtr:city>DERBY</gtr:city><gtr:postCode>DE22 3FS</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/31AEA92D-638B-4075-B9CA-176504EB14D7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>31AEA92D-638B-4075-B9CA-176504EB14D7</gtr:id><gtr:name>Advanced Blast &amp; Ballistic Systems Limited</gtr:name><gtr:address><gtr:line1>CEDAR HOUSE , 35 ASHBOURNE ROAD</gtr:line1><gtr:city>DERBY</gtr:city><gtr:postCode>DE22 3FS</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>250000.0</gtr:offerGrant><gtr:projectCost>602308.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/40453E5A-6A88-43D0-9862-F4CC9EFB5A6E"><gtr:id>40453E5A-6A88-43D0-9862-F4CC9EFB5A6E</gtr:id><gtr:firstName>David</gtr:firstName><gtr:surname>Field</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720397"><gtr:id>D43344EB-C03E-4703-B6B0-0CA8730A335E</gtr:id><gtr:title>Active Mine Protection System (AMPS)</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720397</gtr:grantReference><gtr:abstractText>Following the end of the cold war and apart from the invasion of Iraq, the emphasis for
+armoured vehicles has changed from heavy armour such as main battle tanks (MBT) to highly
+manoeuvrable light and medium armoured vehicles (LAV?s and MAV?s) which have been
+and are being used in recent conflicts such as the Balkans and Afghanistan where speed and
+manoeuvrability are key to operational effectiveness.
+Whilst LAV are fast and manoeuvrable, their light armour is susceptible to Improvised
+Explosive Devices (IED?s) and this has led to a cycle of ?up-armouring? and design
+improvements (including ?V? shaped hulls) by the LAV builders and a corresponding
+increase in the size of IED?s from 10Kg to 25, 50 and sometimes even much bigger devices in
+the 100 to 250kg range by the enemy. Although these improvements in design and the
+increase in armour plating have minimised the penetration of LAV hulls to even large IED?s,
+this has come at the penalty of weight and manoeuvrability. LAV?s and MAV?s have become
+20 ? 35 ton MRAP?s (Mine Resistant Ambush Protected) which are often too heavy to cross
+existing bridges and often get bogged down in sand or mud. More importantly even though
+large IED?s at present do not penetrate the current heavy MRAP) vehicles, the blast is such
+that the vehicle is lifted at such a high rate (global acceleration) that the occupants can be
+killed or severely injured simply by the acceleration effects on their bodies. A jump height
+greater than 1m generally results in spinal injuries unless effective mine blast seats are fitted
+to the vehicle.
+The immediate focus of armed forces is to procure LAV?s and MAV?s that offer occupant
+protection through design against IED?s whilst minimising the weight penalty and
+maintaining manoeuvrability. ABBS has developed and proven the feasibility of two
+concepts for Active Mine Protection Systems (AMPS) for armoured vehicles which have a
+low additional weight. The system detects the mine blast forces and directly counteracts in
+equal measure the global acceleration threat to the vehicle occupants. The technology is
+novel, and is patented worldwide.</gtr:abstractText><gtr:fund><gtr:end>2015-02-28</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2013-12-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>250000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720397</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

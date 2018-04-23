@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/DBF9A489-0824-4ED5-99E9-CB8F82A4EFF7"><gtr:id>DBF9A489-0824-4ED5-99E9-CB8F82A4EFF7</gtr:id><gtr:name>Swarm Systems Limited</gtr:name><gtr:address><gtr:line1>27 BEECHCROFT ROAD , BUSHEY</gtr:line1><gtr:city>HERTFORDSHIRE</gtr:city><gtr:postCode>WD23 2JU</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/DBF9A489-0824-4ED5-99E9-CB8F82A4EFF7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>DBF9A489-0824-4ED5-99E9-CB8F82A4EFF7</gtr:id><gtr:name>Swarm Systems Limited</gtr:name><gtr:address><gtr:line1>27 BEECHCROFT ROAD , BUSHEY</gtr:line1><gtr:city>HERTFORDSHIRE</gtr:city><gtr:postCode>WD23 2JU</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>17726.0</gtr:offerGrant><gtr:projectCost>25324.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/BE651A87-A988-4C54-B74D-577EC85807FF"><gtr:id>BE651A87-A988-4C54-B74D-577EC85807FF</gtr:id><gtr:firstName>Jonathan</gtr:firstName><gtr:surname>Selbie</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=132569"><gtr:id>E2C4E650-7F71-4308-8A81-45C2C4EE4203</gtr:id><gtr:title>Export Opportunities for Nano Unmanned Air Systems</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Feasibility Studies</gtr:grantCategory><gtr:grantReference>132569</gtr:grantReference><gtr:abstractText>Nano Unmanned Air Systems (UAS) are becoming useful tools. A small Air Vehicle is launched by a user who
+
+sees real-time video from on-board cameras on a Ground Control Station. The system offers ?Flying Binoculars?
+
+capability, allowing a user to monitor an area of interest from the air, out of sight and out of danger.
+
+Several countries are looking to procure Nano UAS over the next three years. Swarm Systems is well positioned
+
+to take advantage of these export opportunities. To maximise chances of a contract win, Swarm Systems plans
+
+to enter into partnering arrangements with companies in each territory. During this project, Swarm Systems
+
+will visit potential partners in two territories that are running Nano UAS procurement processes. They will
+
+discuss teaming arrangements and conduct due diligence activities. They will also visit the Procurement Teams
+
+in each of these territories. Partnering with local companies increases the international engagement of a UK
+
+SME with an innovative product offering. It is the first step in winning an export contract that will transform a
+
+British SME into a global player in the Nano UAS market expected to be worth ~$200m over the next 5 years.</gtr:abstractText><gtr:fund><gtr:end>2017-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2016-12-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>17726</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">132569</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

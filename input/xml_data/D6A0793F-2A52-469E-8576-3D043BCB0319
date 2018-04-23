@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/4D67A9FC-3065-46B2-B529-1327967C8D36"><gtr:id>4D67A9FC-3065-46B2-B529-1327967C8D36</gtr:id><gtr:name>3 Boys Ltd</gtr:name><gtr:address><gtr:line1>CROSS TREES , BROOMHEATH</gtr:line1><gtr:city>WOODBRIDGE</gtr:city><gtr:postCode>IP12 4DL</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/4D67A9FC-3065-46B2-B529-1327967C8D36" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>4D67A9FC-3065-46B2-B529-1327967C8D36</gtr:id><gtr:name>3 Boys Ltd</gtr:name><gtr:address><gtr:line1>CROSS TREES , BROOMHEATH</gtr:line1><gtr:city>WOODBRIDGE</gtr:city><gtr:postCode>IP12 4DL</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>89500.0</gtr:offerGrant><gtr:projectCost>152080.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/377E6318-5141-444F-8569-9C65711DE12B"><gtr:id>377E6318-5141-444F-8569-9C65711DE12B</gtr:id><gtr:firstName>Martin</gtr:firstName><gtr:surname>Myerscough</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710233"><gtr:id>D6A0793F-2A52-469E-8576-3D043BCB0319</gtr:id><gtr:title>PEEL-IT - An innovative environmentallyfriendly paint packaging solution</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710233</gtr:grantReference><gtr:abstractText>PEEL-IT is an innovative technology for the packaging of paint, however the packaging
+solution is equally appropriate for other industrial products such as liquids, gels and pastes
+which are supplied in pots or pails.
+There is currently a major problem with the disposal of paint containers due to:-
+i) waste paint
+ii) contamination of the packaging.
+After use paint tins are contaminated with waste paint, cannot be treated through the normal
+waste streams and need be treated, recycled or disposed of in specialist centres. Unfortunately
+due to the cost oof cleaning and recycling over 95% of all paint tins are not recycled and end
+up going to landfill.
+PEEL-IT is a packaging technology comprising a 3D outer pot incorporating a thin plastic
+film pouch which is filled with paint. After use the consumer can separate the film pouch
+from the outer paper pot. The Peel-it outer pot is made from recycled cardboard which can be
+readily recycled in normal waste streams. By using packaging with a separate barrier film the
+major issues with conventional packaging is eliminated. No more bulky, empty, contaminated
+containers going to landfill, simply a thin film bag to be disposed of plus a recyclable
+cardboard container.
+The main innovations relate to
+i) high speed application of the film;
+ii) ensuring the film closely follows the contours of the container;
+iii) the application of a low tack adhesive between the film &amp;amp; container;
+iv) the easy removal of the film pouch by the consumer;
+v) the incorporation of a resealable lid into the paint pot.
+The main objectives are:
+i) TECHNICAL ? to develop a high speed paint packaging solution;
+ii) ENVIRONMENTAL ? to reduce the environmental impact by reducing waste &amp;amp;
+increasing the recycling of containers;
+iii) COMMERCIAL ? to manufacture a solution at an equivalent/lower cost price than current
+packaging methods.
+iv) SOCIAL ? to change consumer behavior and encourage them to recycle paint and
+packaging.</gtr:abstractText><gtr:fund><gtr:end>2014-01-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2012-11-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>89500</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710233</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

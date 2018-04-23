@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/2ED9E111-0807-4D37-903E-2DD6EBA04EE8"><gtr:id>2ED9E111-0807-4D37-903E-2DD6EBA04EE8</gtr:id><gtr:name>Arctic Shores Limited</gtr:name><gtr:address><gtr:line1>LOWRY HOUSE , MARBLE STREET</gtr:line1><gtr:city>MANCHESTER</gtr:city><gtr:postCode>M2 3AW</gtr:postCode><gtr:region>North West</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/2ED9E111-0807-4D37-903E-2DD6EBA04EE8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>2ED9E111-0807-4D37-903E-2DD6EBA04EE8</gtr:id><gtr:name>Arctic Shores Limited</gtr:name><gtr:address><gtr:line1>LOWRY HOUSE , MARBLE STREET</gtr:line1><gtr:city>MANCHESTER</gtr:city><gtr:postCode>M2 3AW</gtr:postCode><gtr:region>North West</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>100000.0</gtr:offerGrant><gtr:projectCost>200532.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/8F90FD5D-5045-48A6-B68A-0F5EE900CEDE"><gtr:id>8F90FD5D-5045-48A6-B68A-0F5EE900CEDE</gtr:id><gtr:firstName>Caroline</gtr:firstName><gtr:surname>Elliman</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710509"><gtr:id>2DEED8A0-685B-46DC-AB3E-74C722C514F3</gtr:id><gtr:title>TripleP</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710509</gtr:grantReference><gtr:abstractText>The TripleP project will explore the technical feasibility &amp;amp; commercial potential for creating
+accurate cognitive profiles of job seekers through the innovative approach of business gaming
+and then matching these profiles to suitable job roles.
+Professional profiling (e.g. for recruitment and career development) is potentially hugely
+valuable to organisations of all sizes but traditional methods of conducting profiling are
+burdened with significant challenges which this project sets out to address.
+This project will explore and develop methodologies and approaches to matching data
+gathered from a user?s game play activities to validated cognitive behaviour profiles.
+Cognitive profiles have been used widely for leadership assessment, succession planning,
+selection and development, as well as personal and team development.
+Cognitive profiling looks at the way people process information, their dynamic ability to
+reason (fluid reasoning) rather than their educated and experienced based reasoning
+(crystallised intelligence). An individual?s thinking and learning capacity determines the kind
+of complexity they can handle best and the kinds of tasks to which they are best and least
+suited.
+If successful, this new approach to professional profiling will lead to significant
+improvements in the effectiveness of career/course selection, recruitment and ongoing career
+development; generating considerable benefits for individuals and organisations that will
+apply it.
+Arctic Shores is setting out to cause significant disruption in the use and application of
+professional profiling. In securing Technology Strategy Board support we will unlock circa
+&amp;pound;75,000 of private matched funding directly to match-fund this project.
+Our goal is to build an innovative business based around new intellectual property that can be
+exploited in (and bring significant benefits to) a wide range of private and public sector
+organisations, in multiple industry sectors, globally.</gtr:abstractText><gtr:fund><gtr:end>2015-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2014-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>100000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710509</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

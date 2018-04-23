@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/A9ADA688-D2E8-400F-9984-185FF3E75692"><gtr:id>A9ADA688-D2E8-400F-9984-185FF3E75692</gtr:id><gtr:name>Innova Limited</gtr:name><gtr:address><gtr:line1>WEETWOOD HALL , WOOLER</gtr:line1><gtr:city>NORTHUMBERLAND</gtr:city><gtr:postCode>NE71 6EX</gtr:postCode><gtr:region>North East</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/A9ADA688-D2E8-400F-9984-185FF3E75692" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>A9ADA688-D2E8-400F-9984-185FF3E75692</gtr:id><gtr:name>Innova Limited</gtr:name><gtr:address><gtr:line1>WEETWOOD HALL , WOOLER</gtr:line1><gtr:city>NORTHUMBERLAND</gtr:city><gtr:postCode>NE71 6EX</gtr:postCode><gtr:region>North East</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>99300.0</gtr:offerGrant><gtr:projectCost>165510.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/DC16D524-E962-4C9B-A74F-B3524B40019E"><gtr:id>DC16D524-E962-4C9B-A74F-B3524B40019E</gtr:id><gtr:firstName>David</gtr:firstName><gtr:surname>Coulson</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710058"><gtr:id>A890AEE6-F693-40CF-8550-2C30DF4665E7</gtr:id><gtr:title>In-Stream Turbine</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710058</gtr:grantReference><gtr:abstractText>Although the turbine could be used in river and even ocean currents, the most immediate
+potential use is in tidal streams. The British Isles are surrounded by millions of tons of
+moving water twice per day, with concentrations in the Pentland Firth, the Channel Islands,
+and many localised sites.
+There is no market yet, but the need for tidal power is well recognised - it is probably the
+cleanest and certainly the most reliable form of renewable energy.
+Once our turbine is established, there is a potential worldwide market of many billions of
+pounds.
+Other stream turbines are marginally economic, at best, only in absolutely optimal sites, but
+even then they have to be considered wasteful because it is simply not possible for any of
+them to maximise the resource (e.g: 8% max possible extraction vs 20% 'allowable' by
+environmental standards).
+It is easiest to provide an example from a specific case study that we have carried out for the
+Corran Narrows in Loch Linnhe, NW Scotland. Here the tide is 'only' some 1.3 metres/sec
+root mean cube velocity (rmcv) and is considered uneconomic by MCT, the longestestablished
+tidalstream developer.
+However, Corran is a very sheltered site that borders the A82 and a major power line is
+already in place, so, without affecting the leisure boat traffic, an initial investment of only
+&amp;pound;5m would produce annual profits of some &amp;pound;11.5m. It represents a Net Present Value of
+&amp;pound;110m at a discount rate of 7%. All figures derived from a DTI study by Edinburgh
+University and the Government ROC (Renewables Obligation Certificates) scheme.
+All of this with minimal harm to the underwater environment or the visual amenity - only a
+few pontoons would be showing.
+So, the opportunity is undoubtedly there once we can prove the concept and produce
+meaningful amounts of electricity from a prototype.
+There will obviously be technical problems to be overcome but the main difficulties have
+usually been environmental (see Severn Barrage). Our turbine is very acceptable
+environmentally, and socially with the promise of local jobs and a devolved power supply.</gtr:abstractText><gtr:fund><gtr:end>2013-06-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2012-01-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>99300</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710058</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

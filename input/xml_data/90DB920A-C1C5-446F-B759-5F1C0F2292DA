@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/CD63148B-E504-49C0-AF93-1A21426E2EDD"><gtr:id>CD63148B-E504-49C0-AF93-1A21426E2EDD</gtr:id><gtr:name>Metrarc Limited</gtr:name><gtr:address><gtr:line1>St. John's Innovation Centre
+Cowley Road</gtr:line1><gtr:city>Cambridge</gtr:city><gtr:postCode>CB4 0WS</gtr:postCode><gtr:region>East Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/CD63148B-E504-49C0-AF93-1A21426E2EDD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>CD63148B-E504-49C0-AF93-1A21426E2EDD</gtr:id><gtr:name>Metrarc Limited</gtr:name><gtr:address><gtr:line1>St. John's Innovation Centre
+Cowley Road</gtr:line1><gtr:city>Cambridge</gtr:city><gtr:postCode>CB4 0WS</gtr:postCode><gtr:region>East Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>98583.0</gtr:offerGrant><gtr:projectCost>164303.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710682"><gtr:id>90DB920A-C1C5-446F-B759-5F1C0F2292DA</gtr:id><gtr:title>Metrarc - SecureIoT - Novel ICMetrics Security for the Internet of Things</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710682</gtr:grantReference><gtr:abstractText>Metrarc is a University spin out based in Cambridge with research and development labs at
+the Universities of Essex and Kent, developing novel and ground-breaking technology called
+ICMetrics? for deriving secure encryption keys from the properties of digital systems
+without the need to store any of the encryption keys, digital signatures or ICMetric data.
+Metrarc is poised to revolutionise security for The Internet-of-Things (IoT) and help safeguard
+the electronic assets of business, and consumers through the commercialization of its
+ICMetric platform, which is a disruptive technology underpinned by &amp;pound;2 million of research
+funding (from EPSRC and EU) and which is protected by a suite of IPR, including two
+granted US patents.
+As the IoT begins to burgeon the ability to establish trust and provence the identity and
+integrity of such devices becomes a paramount concern in order to ensure that user privacy
+and personal data are respected and cyber crime is prevented. One of the best ways to ensure
+data is not breached is by the use of encryption technology. The market for security based on
+encryption is growing rapidly and predicted to be enormous by 2020. One of the main
+problems with all current cencryption technologies is the need to store an encryption key.
+Metrarc?s ICMetric? techology does not store a key or any other data and is therfore of great
+interest to IoT applications particularly where data security is paramount such as in healthcare
+applications.
+This project will investigate the proof-of-concept of employing novel secure system
+techniques for deriving encryption keys from the operating characteristics of devices
+comprising the IoT focusing on dedicated sensor systems for sports and healthcare. This will
+build upon the highly significant results displayed by Metrarc's research work. The project
+deliverables will include two proof-of-concept demonstrators to showcase its disruptive
+technology as suitable for licensing.</gtr:abstractText><gtr:fund><gtr:end>2017-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2015-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>98583</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710682</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/A4315195-7B50-4AC2-9F44-970F14A328AE"><gtr:id>A4315195-7B50-4AC2-9F44-970F14A328AE</gtr:id><gtr:name>Trimunocor Limited</gtr:name><gtr:address><gtr:line1>GROUND FLOOR, 5C PARKWAY VALLEY ROAD , PORTERS WOOD</gtr:line1><gtr:city>ST. ALBANS</gtr:city><gtr:postCode>AL3 6PA</gtr:postCode><gtr:region>West Midlands</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/A4315195-7B50-4AC2-9F44-970F14A328AE" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>A4315195-7B50-4AC2-9F44-970F14A328AE</gtr:id><gtr:name>Trimunocor Limited</gtr:name><gtr:address><gtr:line1>GROUND FLOOR, 5C PARKWAY VALLEY ROAD , PORTERS WOOD</gtr:line1><gtr:city>ST. ALBANS</gtr:city><gtr:postCode>AL3 6PA</gtr:postCode><gtr:region>West Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>500595.0</gtr:offerGrant><gtr:projectCost>500595.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/60336A58-E515-446B-93EA-9EF2B397A5A6"><gtr:id>60336A58-E515-446B-93EA-9EF2B397A5A6</gtr:id><gtr:firstName>Alastair</gtr:firstName><gtr:surname>Watson</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=900036"><gtr:id>EC3FDFAF-E5E7-4750-B110-496C2159F79F</gtr:id><gtr:title>ICURE Aid for Start Ups Cohort 4 - Trimunocor Limited</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Study</gtr:grantCategory><gtr:grantReference>900036</gtr:grantReference><gtr:abstractText>The incidence of preterm birth is increasing and over half of premature babies less than 28 weeks gestation
+
+develop neonatal chronic lung disease (nCLD). Survivors with nCLD have long-term lung damage resulting in
+
+frequent infections, asthma and emphysema in later life as well as associated neurodevelopmental problems
+
+such as cerebral palsy. The health and societal costs from prematurity are estimated at $26.2 billion per annum in
+
+the US alone. There are currently no treatments to prevent nCLD. In nCLD, severe asthma and COPD there is a
+
+deficiency of the naturally protective anti-inflammatory human surfactant protein D (SP-D). We have developed a
+
+novel way to produce a functional fragment of SP-D (rfhSP-D) and founded a start-up company, Trimunocor Ltd,
+
+to develop rfhSP-D into a preventive treatment for nCLD. The Aid for Start-up funding would pump prime the
+
+process development of a scale-able rfhSP-D manufacture process. If we demonstrate the commercial feasibility
+
+of manufacture, we are confident that we will secure subsequent funding from investors and pharmaceutical
+
+partners to undertake clinical trials and develop rfhSP-D as a new treatment to prevent nCLD.</gtr:abstractText><gtr:fund><gtr:end>2018-05-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2016-06-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>500595</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">900036</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

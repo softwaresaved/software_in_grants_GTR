@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/7126E30A-728F-495C-9228-8151BDFEE64A"><gtr:id>7126E30A-728F-495C-9228-8151BDFEE64A</gtr:id><gtr:name>Generic Robotics Limited</gtr:name><gtr:address><gtr:line1>39A Bulmershe Road</gtr:line1><gtr:city>Reading</gtr:city><gtr:postCode>RG1 5RH</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/7126E30A-728F-495C-9228-8151BDFEE64A" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>7126E30A-728F-495C-9228-8151BDFEE64A</gtr:id><gtr:name>Generic Robotics Limited</gtr:name><gtr:address><gtr:line1>39A Bulmershe Road</gtr:line1><gtr:city>Reading</gtr:city><gtr:postCode>RG1 5RH</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>167152.0</gtr:offerGrant><gtr:projectCost>371450.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/EBE5002C-A23B-4574-9401-0FE48625F99A"><gtr:id>EBE5002C-A23B-4574-9401-0FE48625F99A</gtr:id><gtr:firstName>Alastair</gtr:firstName><gtr:surname>Barrow</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720618"><gtr:id>B18BC87E-C485-43E5-BC15-B42F0D385FAD</gtr:id><gtr:title>The SimuTouch Clinical Skills Training Simulator (With Dental Injection)</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720618</gtr:grantReference><gtr:abstractText>This project will create the first commercial simulator for training dental injections. Student?s
+the world over currently learn these techniques by practicing on each other. However, this
+approach is now being phased out due to ethical concerns and also, even if practiced on
+humans, there is very opportunity for detailed learning as objective feedback on the
+performance of the task (e.g. proximity to the target nerve) is lacking.
+Generic Robotics? core IP is in haptics, a technology which adds realistic touch feedback to
+computers. By combining haptics with sophisticated real-time computer graphics it is possible
+to realistically recreate the visual and tactile sensations arising during clinical procedures. By
+developing this technology for this specific application it will allow us to create an innovative
+solution to a global training need.
+The principle aim of the project is to develop a commercial prototype of a dental injection
+training simulation platform which works and looks sufficiently like a finished product that it
+can be demonstrated to potential customers and tested by them without support.
+However, dental injection is the first target application/market of many which the product will
+be applied to once developed as part of a novel disruptive business plan in clinical simulation.
+The secondary aim is to achieve a commercial prototype platform which is general purpose
+enough to support any small manual skills training application.
+The principle objectives of the project are:
+* To develop our core IP in haptic simulation to a commercial ready level of quality and
+robustness
+* To complete the product design of a desktop simulator for training injection procedures
+* To develop our haptic interface hardware (electronics &amp;amp; mechanics) to a commercial ready
+level of quality and robustness
+* To investigate and pursue IP protection
+* Complete rigorous testing with real users
+* Identify routes to market and steps necessary to bring the prototype to market</gtr:abstractText><gtr:fund><gtr:end>2016-11-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2015-12-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>167152</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720618</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/0D34D81A-A62C-4B11-8A90-ACB670C0AE91"><gtr:id>0D34D81A-A62C-4B11-8A90-ACB670C0AE91</gtr:id><gtr:name>Institute of Education</gtr:name><gtr:department>Lifelong and Comparative Education</gtr:department><gtr:address><gtr:line1>University of London</gtr:line1><gtr:line2>20 Bedford Way</gtr:line2><gtr:line4>London</gtr:line4><gtr:postCode>WC1H 0AL</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/0D34D81A-A62C-4B11-8A90-ACB670C0AE91"><gtr:id>0D34D81A-A62C-4B11-8A90-ACB670C0AE91</gtr:id><gtr:name>Institute of Education</gtr:name><gtr:address><gtr:line1>University of London</gtr:line1><gtr:line2>20 Bedford Way</gtr:line2><gtr:line4>London</gtr:line4><gtr:postCode>WC1H 0AL</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/8D661501-5A60-47DF-B395-0631403DA54B"><gtr:id>8D661501-5A60-47DF-B395-0631403DA54B</gtr:id><gtr:firstName>John</gtr:firstName><gtr:otherNames>Joseph</gtr:otherNames><gtr:surname>Preston</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/4FB40C6A-0AB6-46B7-91F6-58DF0FA5C170"><gtr:id>4FB40C6A-0AB6-46B7-91F6-58DF0FA5C170</gtr:id><gtr:firstName>Barry</gtr:firstName><gtr:surname>Avery</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/FC0A7C16-D168-4D1A-BD14-01E6AA652698"><gtr:id>FC0A7C16-D168-4D1A-BD14-01E6AA652698</gtr:id><gtr:firstName>Namita</gtr:firstName><gtr:otherNames>Elizabeth</gtr:otherNames><gtr:surname>Chakrabarty</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=ES%2FG036195%2F1"><gtr:id>395932C1-8148-4A7E-9F3F-9BD5FD15A15C</gtr:id><gtr:title>'Preparedness pedagogies' and race: an interdisciplinary approach</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>ES/G036195/1</gtr:grantReference><gtr:abstractText>&lt;p>Preparedness can be conceived as the deployment of pedagogies for alerting and preparing the population for a catastrophic event.&amp;nbsp; In a nuclear war or terrorist attack citizens might be instructed on how to 'shelter in place' or to collect items for a 'bug out bag' in case of evacuation.&amp;nbsp; This project examines the pedagogical principles underlying preparedness campaigns through which citizens are taught and learn to prepare.&amp;nbsp; Using critical race theory, implications for racial and other forms of equality are explored.&amp;nbsp; The project is interdisciplinary and will produce a variety of multimedia and web resources.&amp;nbsp; &lt;/p>
+
+&lt;p>The project uses a variety of methods.&amp;nbsp; Mapping and discourse analysis of preparedness materials are used, drawing on current and historical UK sources and contemporary US materials.&amp;nbsp; Qualitative research methods trace the policy development, reception, and performance, of preparedness materials.&amp;nbsp; Through policy interviews the development and production of 'Protect and Survive' (1980) and 'Preparing for Emergencies' (2004) are examined.&amp;nbsp; Focus groups are used to ascertain how preparedness materials are received and interpreted.&amp;nbsp;&amp;nbsp; Innovatively visual ethnography and performance theory are deployed to analyse the dramatisation of preparedness pedagogies.&lt;br />&lt;/p></gtr:abstractText><gtr:fund><gtr:end>2009-09-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/924BE15C-91F2-4AAD-941A-3F338324B6AE"><gtr:id>924BE15C-91F2-4AAD-941A-3F338324B6AE</gtr:id><gtr:name>ESRC</gtr:name></gtr:funder><gtr:start>2009-05-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>18078</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>1. Contemporary preparedness makes use of a spectrum of pedagogies
+
+including public and dramaturgical.
+
+
+
+Contemporary preparedness efforts rely on a mixture of pedagogies. The use of text
+
+instructions, memory aids, reconstruction activities, and information technologies and
+
+video are frequently part of the pedagogical mix that becomes part of a fused pedagogy of affect, behaviour, and cognition. These can be analysed not just in terms of 'conventional' pedagogical categories. 
+
+
+
+Firstly, they can be examined as public pedagogies, popular cultural forms that are pedagogical through enactment rather than (necessarily) direct teaching.
+
+
+
+Secondly, drama and performance are employed in contemporary sites of preparedness to produce 'theatres of survival' which are often racially orientated towards the representation of and prioritising of 'white' racial interests. This points towards understanding contemporary preparedness as not only multi-modal and pedagogical but increasingly using new pedagogical techniques (the public and the dramaturgical). This finding has informed future research through an EPSRC and ESRC funded project (John Preston PI) 'Game Theory and Adaptive Networks for Smart Evacuations' (October 2010-October 2012) which will examine the ways in which we can understand and improve city evacuations as 'co-produced' by the public, usingmulti-modal technologies.
+
+
+
+2. Race, 'tacit intentionality' and the 'absent presence' of 'race' in
+
+preparedness
+
+
+
+In none of our research did we encounter any participant who was prejudiced or any
+
+evidence of overt racism in policy. However, tacitly assumptions were often made
+
+which could disadvantage BME people. Following the work of Gillborn, we would
+
+refer to these as 'tacit intentionality' in that by not taking 'race' explicitly into account in preparedness or policy planning some are tacitly advantaged or disadvantaged. Preparedness materials which advantage 'whites' also intersect with other social characteristics such as masculinity.
+
+
+
+Examples of good practice included awareness of multiple language materials, taking
+
+into account access to material resources in preparedness planning.
+
+
+
+3. Who is preparedness for?
+
+
+
+In our focus group research a common finding was that no one considered that
+
+preparedness was 'for them'. This lack of connection (and sometimes outright
+
+rejection) of preparedness was due to issues of representation and consultation.</gtr:description><gtr:exploitationPathways>The research highlights to central and local government the importance of racial and other types of equity in emergency and preparedness planning. Scientific impacts
+
+
+
+The project will have impacts in terms of the design of preparedness materials. We have
+
+alerted our networks to our findings via our website. Chakrabarty has developed
+
+considerable local authority, national and international contacts in this area of research
+
+that could lead to future collaborations and we have existing, and expected, future grant
+
+funding for work in this area as detailed above.
+
+
+
+This project has made important developments in Critical Race Theory, public pedagogy
+
+and performance theory, bringing these areas together in an inter-disciplinary fashion.
+
+We and will continue to present our work in high status journals, books and at
+
+international conferences. An anticipated future impact will also be a synoptic book as
+
+we build up a body of work from this project.
+
+
+
+Economic and Social impacts
+
+
+
+The project has emphasised the importance of the inclusion of BME groups in
+
+preparedness planning and the importance of this for equity. We will continue to
+
+present our work at conferences with a practice / academic / social justice focus (as
+
+Chakrabarty 2010a, 2010b, 2010c) and to work with groups outside of academia
+
+('Emergency Exercise 2010' as part of the ESRC festival of social science being one
+
+example).</gtr:exploitationPathways><gtr:id>830BC905-DD3F-4F2D-8687-842520E24508</gtr:id><gtr:outcomeId>r-7724006155.248737b2f17734</gtr:outcomeId><gtr:sectors><gtr:sector>Communities and Social Services/Policy,Education,Security and Diplomacy</gtr:sector></gtr:sectors><gtr:url>http://s290179663.websitehome.co.uk/prepare/</gtr:url></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication><gtr:id>BB26888E-7471-4510-A89D-51761975D704</gtr:id><gtr:title>Emergency preparedness as public pedagogy: the absent-presence of race in 'Preparing for Emergencies'</gtr:title><gtr:parentPublicationTitle>International Journal of Lifelong Education</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/f7bb5f6b342b6a9ed61b353dddf009da"><gtr:id>f7bb5f6b342b6a9ed61b353dddf009da</gtr:id><gtr:otherNames>Preston J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2011-01-01</gtr:date><gtr:outcomeId>doi_53cfb4fb4ff27077</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>BE565796-CE32-4591-B4A2-D5FDE1EEDA70</gtr:id><gtr:title>The
+ 
+ character of race: an exploration of UK preparedness through youth performance</gtr:title><gtr:parentPublicationTitle>Research in Drama Education: The Journal of Applied Theatre and Performance</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/a856ed16f26024364d49d7b745ffe524"><gtr:id>a856ed16f26024364d49d7b745ffe524</gtr:id><gtr:otherNames>Chakrabarty N</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2011-01-01</gtr:date><gtr:outcomeId>doi_53cfb6fb640d8c84</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>E72C884E-A0BB-40BF-ADC8-5950CA61CA81</gtr:id><gtr:title>Disaster Education</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/f7bb5f6b342b6a9ed61b353dddf009da"><gtr:id>f7bb5f6b342b6a9ed61b353dddf009da</gtr:id><gtr:otherNames>Preston J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date><gtr:outcomeId>589b2352335765.52035329</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>284396FB-0019-4760-A051-90D5D05E4671</gtr:id><gtr:title>Disaster Education</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/f7bb5f6b342b6a9ed61b353dddf009da"><gtr:id>f7bb5f6b342b6a9ed61b353dddf009da</gtr:id><gtr:otherNames>Preston J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date><gtr:outcomeId>589b2352b29a21.09203974</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>959C8B2D-1768-4983-976A-4A1CCBE4EF0F</gtr:id><gtr:title>Disaster Education</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/f7bb5f6b342b6a9ed61b353dddf009da"><gtr:id>f7bb5f6b342b6a9ed61b353dddf009da</gtr:id><gtr:otherNames>Preston J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date><gtr:outcomeId>589b2351e97c79.56629673</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>1AF28525-7C5F-4988-959D-A4D42FF4B6C0</gtr:id><gtr:title>Prosthetic white hyper-masculinities and 'disaster education'</gtr:title><gtr:parentPublicationTitle>Ethnicities</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/f7bb5f6b342b6a9ed61b353dddf009da"><gtr:id>f7bb5f6b342b6a9ed61b353dddf009da</gtr:id><gtr:otherNames>Preston J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2010-01-01</gtr:date><gtr:outcomeId>doi_53cfbdfbd384bbe5</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>D3B20533-B706-4602-BF91-C7C0AB4A5371</gtr:id><gtr:title>Disaster Education</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/f7bb5f6b342b6a9ed61b353dddf009da"><gtr:id>f7bb5f6b342b6a9ed61b353dddf009da</gtr:id><gtr:otherNames>Preston J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date><gtr:outcomeId>589b2352140267.75474041</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>124E9F3C-CB77-443A-9911-58482FD4C6A1</gtr:id><gtr:title>Preparing for emergencies: citizenship education, 'whiteness' and pedagogies of security</gtr:title><gtr:parentPublicationTitle>Citizenship Studies</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/f7bb5f6b342b6a9ed61b353dddf009da"><gtr:id>f7bb5f6b342b6a9ed61b353dddf009da</gtr:id><gtr:otherNames>Preston J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2009-01-01</gtr:date><gtr:outcomeId>doi_53cfb6fb64fbba7c</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>44386E59-EAB1-4796-B78C-782568AFFE49</gtr:id><gtr:title>Disaster Education</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/f7bb5f6b342b6a9ed61b353dddf009da"><gtr:id>f7bb5f6b342b6a9ed61b353dddf009da</gtr:id><gtr:otherNames>Preston J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date><gtr:outcomeId>589b2351cf2da4.84950072</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>8DE062DE-329D-48C2-AA8E-03245B7E6729</gtr:id><gtr:title>Disaster Education</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/f7bb5f6b342b6a9ed61b353dddf009da"><gtr:id>f7bb5f6b342b6a9ed61b353dddf009da</gtr:id><gtr:otherNames>Preston J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date><gtr:outcomeId>589b23528cadd5.44615387</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>115B00B3-69AC-4711-A294-BFDE95DA7398</gtr:id><gtr:title>Disaster Education</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/f7bb5f6b342b6a9ed61b353dddf009da"><gtr:id>f7bb5f6b342b6a9ed61b353dddf009da</gtr:id><gtr:otherNames>Preston J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date><gtr:outcomeId>589b2352533fd2.78504554</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>8BFB14BB-A2DE-4C18-9B0E-4AE1D7DB29B1</gtr:id><gtr:title>Disaster Education</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/f7bb5f6b342b6a9ed61b353dddf009da"><gtr:id>f7bb5f6b342b6a9ed61b353dddf009da</gtr:id><gtr:otherNames>Preston J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date><gtr:outcomeId>589b235171b9c4.06770106</gtr:outcomeId></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">ES/G036195/1</gtr:identifier><gtr:identifier type="RES">RES-000-22-3437</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>64564C94-AC7F-4056-903D-0AED107A359E</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Education</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>F0322ED6-113F-4530-BA5E-562216587E68</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Sociology</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>64564C94-AC7F-4056-903D-0AED107A359E</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Education</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>F0322ED6-113F-4530-BA5E-562216587E68</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Sociology</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

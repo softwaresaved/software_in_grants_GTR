@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/112A25CB-850B-4C64-8B73-730283E541CF"><gtr:id>112A25CB-850B-4C64-8B73-730283E541CF</gtr:id><gtr:name>Guidance Marine Limited</gtr:name><gtr:address><gtr:line1>4 DOMINUS WAY , MERIDIAN BUSINESS PARK</gtr:line1><gtr:city>LEICESTER</gtr:city><gtr:postCode>LE19 1RP</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/112A25CB-850B-4C64-8B73-730283E541CF" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>112A25CB-850B-4C64-8B73-730283E541CF</gtr:id><gtr:name>Guidance Marine Limited</gtr:name><gtr:address><gtr:line1>4 DOMINUS WAY , MERIDIAN BUSINESS PARK</gtr:line1><gtr:city>LEICESTER</gtr:city><gtr:postCode>LE19 1RP</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>204641.0</gtr:offerGrant><gtr:projectCost>584690.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/60C94E1C-D0FB-43C9-A413-1B950A774078"><gtr:id>60C94E1C-D0FB-43C9-A413-1B950A774078</gtr:id><gtr:firstName>Jane</gtr:firstName><gtr:surname>Purton</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720005"><gtr:id>DD309C2E-DB64-462C-8FA2-77C75565C261</gtr:id><gtr:title>Guidance Navigation Limited - the use of multibeam laser sensing to provide 3D environment analysis for a position and attitude reference sensor for offshore dynamic vessel or other control systems</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720005</gtr:grantReference><gtr:abstractText>Many offshore vessels use GPS based Dynamic Positioning (DP) systems to assist navigation
+and control. New position measurement equipment (PME) classification society rules for DP
+vessels require that three independent PME are used during certain operations. The
+requirement for independence is based on common failure modes, so multiple GPS cannot be
+counted as independent. Currently close positioning of vessels in relation to offshore
+installations is undertaken with 2D laser or radar positioning systems working in conjunction
+with the vessels DP system, these provide x &amp;amp; y coordinates. Existing equipment relies on
+specialised targets, e.g. laser prism clusters on fixed offshore platforms, being correctly
+deployed and maintained prior to operational commencement to enable the identification of
+the relative location, see Fig 1. The targets need to be carefully positioned in order for existing
+systems to function correctly and reliably. Any problems tend to become apparent during the
+critical period before operations commence and occasionally during operations, due to
+external influences e.g. other vessels obscuring the line of sight required by existing
+equipment or false reflections from other mobile reflective devices. Fig 2 illustrates a typical
+system. See confirmation of issues from Swire Group one of the largest DP fleet operators in
+App A. Vessel positioning is also limited by the visibility of the targets in relation to the
+sensor location, constraining the angle of approach. This may hamper operational access in
+adverse weather conditions and also often leads to vessels queueing for access, adding
+significant operational costs. The location of targets is limited by available architecture and
+may not be optimally sited. There are significant set up and maintenance costs associated with
+these targets. The requirement for locating the reflectors on the platform also adds commercial
+complexities, in terms of installing, maintaining and liability. Locating the sensors is a
+particular challenge on unmanned installations. Existing systems provide a 2D planar view of
+the position and do not identify potential anomalies in the elevation field of view.
+The project aims to develop a multibeam laser sensing system that provides the derived 3D
+position from the laser image (see Fig 3 for example) for integration into the DP system to
+enable offshore operation without targets. It will increase operational flexibility, e.g. direction
+of approach, weather window, consequently allowing the owners to achieve higher lease and
+utilisation rates. It enables the identification of anomalies in x,y and z fields reducing the risk
+of collisions and subsequent costs, and improving safety. The positioning capability is selfcontained
+within the vessel. The flexibility is additionally interesting for more dynamic
+offshore installations such as offshore construction sites. It could also interface with other
+vessel control systems such as stability or crane control.</gtr:abstractText><gtr:fund><gtr:end>2013-11-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2011-12-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>204641</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720005</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

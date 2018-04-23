@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/63266EF5-E815-4CBB-80D4-C6A6BEF87CEB"><gtr:id>63266EF5-E815-4CBB-80D4-C6A6BEF87CEB</gtr:id><gtr:name>Idio Limited</gtr:name><gtr:address><gtr:line1>9th Floor, 107 Cheapside</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>EC2V 6DN</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/63266EF5-E815-4CBB-80D4-C6A6BEF87CEB" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>63266EF5-E815-4CBB-80D4-C6A6BEF87CEB</gtr:id><gtr:name>Idio Limited</gtr:name><gtr:address><gtr:line1>9th Floor, 107 Cheapside</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>EC2V 6DN</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>161865.0</gtr:offerGrant><gtr:projectCost>359700.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/CAB2FED7-565A-4535-AA95-4B0A013B9F8A"><gtr:id>CAB2FED7-565A-4535-AA95-4B0A013B9F8A</gtr:id><gtr:firstName>Katherine</gtr:firstName><gtr:surname>Reid</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720010"><gtr:id>2083A35A-D022-4B24-9A33-863553A8465F</gtr:id><gtr:title>idio Ltd: Content Decision Management (CDM)</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720010</gtr:grantReference><gtr:abstractText>Content Decision Management (CDM) will be a cloud-based, software-as-a-service (SaaS) that
+will connect and structure content and customer data in real-time to enable trusted &amp;amp;
+measurable customer relationships.
+CDM will use semantic extraction and other content analytics to build a robust taxonomy for
+all enterprise content and customer data. By structuring content and customer data across
+multiple systems using the same metadata dimensions, we will deliver decisioning, marketing
+automation and analytics products that deliver the right content, to the right customer, at the
+right time, on the right channel. This will help clients build authority in their market and
+generate insight about their customers.
+CDM will:
+1) Free silos of content and customer data from technological and organisational constraints
+2) Apply content analytics to understand and structure internal, syndicated and social media
+content
+3) Build detailed customer preference data from engagement analytics and social media
+4) Employ multi-channel automated decisioning and content marketing to deliver the right
+content to the right customer, at the right time, on the right channel
+5) Connect customers with the right experts within an organisation at the right time
+By automating the decisioning of content and product propositions, Idio will create a fly-bywire
+operation that puts power in the hands of the business intelligence unit, and capitalise on
+external and internal data that is currently unstructured and in silos. This will bring together
+client departments (including Customer Service, Marketing, Sales, Insight, and Product
+Development), disparate content archives (including Digital Asset Management systems,
+Content Management Systems, Customer Support Knowledge-bases, and Product
+Descriptions), and disparate customer data archives (including the Customer Relationship
+Management system and Social Media Monitoring). This customer centric approach will yield
+significant competitive advantage.</gtr:abstractText><gtr:fund><gtr:end>2013-06-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2011-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>161865</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720010</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

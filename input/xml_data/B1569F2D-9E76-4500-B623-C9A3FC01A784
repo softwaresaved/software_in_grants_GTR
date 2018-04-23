@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/5E2B04DD-4A03-45ED-9892-61C5CCB8AC68"><gtr:id>5E2B04DD-4A03-45ED-9892-61C5CCB8AC68</gtr:id><gtr:name>Newcastle University</gtr:name><gtr:department>School of Arts and Cultures</gtr:department><gtr:address><gtr:line1>1 Park Terrace</gtr:line1><gtr:line4>Newcastle Upon Tyne</gtr:line4><gtr:line5>Tyne and Wear</gtr:line5><gtr:postCode>NE1 7RU</gtr:postCode><gtr:region>North East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/5E2B04DD-4A03-45ED-9892-61C5CCB8AC68"><gtr:id>5E2B04DD-4A03-45ED-9892-61C5CCB8AC68</gtr:id><gtr:name>Newcastle University</gtr:name><gtr:address><gtr:line1>1 Park Terrace</gtr:line1><gtr:line4>Newcastle Upon Tyne</gtr:line4><gtr:line5>Tyne and Wear</gtr:line5><gtr:postCode>NE1 7RU</gtr:postCode><gtr:region>North East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/22929BA4-71F6-4CF2-8DB6-98EF1715019A"><gtr:id>22929BA4-71F6-4CF2-8DB6-98EF1715019A</gtr:id><gtr:firstName>Areti</gtr:firstName><gtr:surname>Galani</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/4B091F37-1B69-4AAD-B759-91E3FA2AB901"><gtr:id>4B091F37-1B69-4AAD-B759-91E3FA2AB901</gtr:id><gtr:firstName>Anna</gtr:firstName><gtr:surname>Goulding</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/09CB2D03-286F-4E1A-9F1B-BAEF0892F406"><gtr:id>09CB2D03-286F-4E1A-9F1B-BAEF0892F406</gtr:id><gtr:firstName>John</gtr:firstName><gtr:surname>Pendlebury</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/05389188-4B3F-48FE-A5F8-5EAEAA87D9FC"><gtr:id>05389188-4B3F-48FE-A5F8-5EAEAA87D9FC</gtr:id><gtr:firstName>Andrew</gtr:firstName><gtr:surname>Newman</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=AH%2FK007815%2F1"><gtr:id>B1569F2D-9E76-4500-B623-C9A3FC01A784</gtr:id><gtr:title>Research for Community Heritage Phase 2 - Follow-up fund - North East England</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>AH/K007815/1</gtr:grantReference><gtr:abstractText>This proposed project from Newcastle University originates from two complimentary areas of the Faculty of Humanities and Social Sciences who have a long standing interest in working with communities. They are the:
+
+International Centre for Cultural and Heritage Studies (ICCHS) 
+School of Architecture Planning and Landscape (SAPL) 
+
+The proposed work involves 4 academic researchers from the above research units.
+
+The 10 projects that have received funding from the HLF 'All our stories' funding stream that will be supported are as follows:
+
+The Lawnmowers, 'Sound Map - Places, Songs and Stories'
+Woodhorn Charitable Trust, 'The People who made Hexham 1688-1838'
+Off The Page Drama C.I.C., 'Down Our Street'
+Bedlingtonshire Development Trust, 'Bedlington.....Our Heritage'
+Bailiffgate Museum and Gallery, 'Our Northumbrian Singing Heritage'
+Durham South Girlguiding, 'Over a Century of Women Leading the Way'
+North Tyneside Steam Railway Association, 'Our railway in years gone by'
+Ouseburn Trust, 'Beyond the Map - Memories of Leisure and Play in the Ouseburn'
+Age UK Newcastle, 'Lunch Clubs Heritage Project'
+North Shields Library Club, 'Freeing Forgotten Treasures'
+
+The support will provided in the following way
+
+4 Day workshops: 
+
+Oral History training, Beamish Museum, Co Durham
+Archives Training, Newcastle University Library, Newcastle upon Tyne 
+Exhibition production, Great North Museum, Newcastle upon Tyne 
+Digital media, Great North Museum, Newcastle upon Tyne
+
+4 Half day oral history/research methods for young people 
+
+Bespoke training and support will also be provided as required</gtr:abstractText><gtr:potentialImpactText>The proposed project will use research-related knowledge and skills to benefit individuals, and local heritage organisations by increasing the effectiveness of public services and policy, and enhancing quality of life, health and creative output.
+
+It will also:
+
+Enhance the research capacity, knowledge and skills of the community organisations involved;
+Support them in achieving the aims of their projects using available resources, in terms of collections and expertise, for research in Newcastle University and partner organisations;
+Contribute to increasing public awareness and understanding of the research process;
+Supporting the development of the 'big society';
+The development of networks of heritage organisations is intended to aid groups/charities/organisations to pool resources in order to survive despite cuts to local authority funding.</gtr:potentialImpactText><gtr:fund><gtr:end>2014-01-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/1291772D-DFCE-493A-AEE7-24F7EEAFE0E9"><gtr:id>1291772D-DFCE-493A-AEE7-24F7EEAFE0E9</gtr:id><gtr:name>AHRC</gtr:name></gtr:funder><gtr:start>2013-02-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>47551</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs><gtr:disseminationOutput><gtr:description>Training for community groups</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>Regional</gtr:geographicReach><gtr:id>681475AB-19E5-41BC-8E8D-5E889221BCCF</gtr:id><gtr:impact>Series of training days for community groups who had been successful is applying for HLF 'All our Stories' grants.
+
+The training gave 10 local community groups the ability to produce a series of exhibitions on the heritage of their area.</gtr:impact><gtr:outcomeId>545cac12b78006.71440283</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:year>2012,2013</gtr:year></gtr:disseminationOutput></gtr:disseminationOutputs><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs><gtr:impactSummaryOutput><gtr:description>Local community groups have been up skilled, enabling them to develop activities and exhibitions - through the HLF grants that they received. Organisations:
+
+Lawnmowers (learning disabled young people)
+Off The Page Drama
+Bedlingtonshire Development Trust
+Bailiffgate Museum and Gallery
+Durham South Girlguiding
+North Tyneside Steam Railway Association
+Ouseburn Trust
+North Shields Library Club</gtr:description><gtr:firstYearOfImpact>2014</gtr:firstYearOfImpact><gtr:id>84DA1075-CF12-4926-A046-DBA92A94DC86</gtr:id><gtr:impactTypes><gtr:impactType>Cultural</gtr:impactType></gtr:impactTypes><gtr:outcomeId>56de9418656394.18310707</gtr:outcomeId><gtr:sector>Culture, Heritage, Museums and Collections</gtr:sector></gtr:impactSummaryOutput></gtr:impactSummaryOutputs><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>Greater understanding of community engagement methods, co-production etc.</gtr:description><gtr:exploitationPathways>Understandings being used by local cultural organisations - greater involvement of communities and better more cost effective production of exhibitions.</gtr:exploitationPathways><gtr:id>C87D9702-7106-4145-8E53-40F36C932075</gtr:id><gtr:outcomeId>56de955feeb474.39707476</gtr:outcomeId><gtr:sectors><gtr:sector>Culture, Heritage, Museums and Collections</gtr:sector></gtr:sectors></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">AH/K007815/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>12F57045-398B-4CC0-BF63-76C038A2E247</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Cultural &amp; museum studies</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>AD75E543-5F70-43C2-A40D-4452373465C4</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Heritage Management</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>51073B72-B972-4034-A0A1-87A6B0DCD198</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Museum &amp; Gallery Studies</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>76FB1E61-2A96-432A-BFFC-56D6B977DF1E</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Policy, Arts Mgmt &amp; Creat Ind</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

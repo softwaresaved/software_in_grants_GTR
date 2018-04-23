@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations><gtr:collaborator url="http://gtr.ukri.org:80/organisation/CE43EBFA-3FC9-44BC-B6FF-001F11664C46"><gtr:id>CE43EBFA-3FC9-44BC-B6FF-001F11664C46</gtr:id><gtr:name>Aarhus University</gtr:name><gtr:address><gtr:line1>Nordre Ringgade 1</gtr:line1><gtr:line4>Aarhus C</gtr:line4><gtr:line5>DK-8000</gtr:line5><gtr:region>Outside UK</gtr:region><gtr:country>Denmark</gtr:country></gtr:address></gtr:collaborator><gtr:collaborator url="http://gtr.ukri.org:80/organisation/628914BB-C55F-41DD-B3CE-2D20628675A4"><gtr:id>628914BB-C55F-41DD-B3CE-2D20628675A4</gtr:id><gtr:name>Hungarian Academy of Sciences (MTA)</gtr:name></gtr:collaborator></gtr:collaborations><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/3A5E126D-C175-4730-9B7B-E6D8CF447F83"><gtr:id>3A5E126D-C175-4730-9B7B-E6D8CF447F83</gtr:id><gtr:name>University College London</gtr:name><gtr:department>Physics and Astronomy</gtr:department><gtr:address><gtr:line1>Gower Street</gtr:line1><gtr:line4>London</gtr:line4><gtr:postCode>WC1E 6BT</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/3A5E126D-C175-4730-9B7B-E6D8CF447F83"><gtr:id>3A5E126D-C175-4730-9B7B-E6D8CF447F83</gtr:id><gtr:name>University College London</gtr:name><gtr:address><gtr:line1>Gower Street</gtr:line1><gtr:line4>London</gtr:line4><gtr:postCode>WC1E 6BT</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/CE43EBFA-3FC9-44BC-B6FF-001F11664C46"><gtr:id>CE43EBFA-3FC9-44BC-B6FF-001F11664C46</gtr:id><gtr:name>Aarhus University</gtr:name><gtr:address><gtr:line1>Nordre Ringgade 1</gtr:line1><gtr:line4>Aarhus C</gtr:line4><gtr:line5>DK-8000</gtr:line5><gtr:region>Outside UK</gtr:region><gtr:country>Denmark</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/628914BB-C55F-41DD-B3CE-2D20628675A4"><gtr:id>628914BB-C55F-41DD-B3CE-2D20628675A4</gtr:id><gtr:name>Hungarian Academy of Sciences (MTA)</gtr:name><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/1A129FF4-B0E1-4183-B625-B2CFD729A0A8"><gtr:id>1A129FF4-B0E1-4183-B625-B2CFD729A0A8</gtr:id><gtr:firstName>Gaetana</gtr:firstName><gtr:surname>Laricchia</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=EP%2FE053521%2F1"><gtr:id>AE986849-3FDC-4DF6-8996-23EE0D48FADA</gtr:id><gtr:title>Positron Reaction Microscopy</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/E053521/1</gtr:grantReference><gtr:abstractText>Studies with positrons and positronium, the short-lived atom made of an electron and its antimatter counterpart the positron, range from fundamental tests of annihilation and investigations of events in the galactic centre (where it is estimated that approximately 93% of all annihilation events occur through the decay of Ps) to practical applications such as characterization of microscopic voids in materials as well as medical diagnostics and therapy. Much has been learnt, in the past few decades, about the interactions of positrons and Ps with atoms and molecules thanks to the ability of performing controlled reactions with these projectiles, of analyzing final-state products with improved sensitivity together with increasingly sophisticated theoretical descriptions. The aim of this proposal is to advance this knowledge and explore particular aspects of fundamental antimatter-matter interactions. Of particular interest here are reactions resulting in fragmentation of atoms and molecules as driven by positrons.In order to study these, a major instrumental development is proposed consisting of a 'positron reaction microscope'. It will require the development of a bright positron-beam, a cold gas jet and a spectrometer. The reaction products from the intersection of the two beams will be imaged and their trajectory termina and times-of-flight will be determined. From these, a complete picture of the reaction will be extracted and unprecented insight in positron driven reactions will be gained.</gtr:abstractText><gtr:fund><gtr:end>2011-03-02</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2007-09-03</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>604470</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs><gtr:collaborationOutput><gtr:collaboratingOrganisation>Hungarian Academy of Sciences (MTA)</gtr:collaboratingOrganisation><gtr:country>Hungary, Republic of</gtr:country><gtr:description>ATOMKI</gtr:description><gtr:id>13A44959-93CE-4D22-BF4F-CA2B712CB692</gtr:id><gtr:impact>Record 1 of 15
+By: S. E. Fayer, A. Loreti, S.L. Andersen, A. Kover and G. Laricchia J. Phys. B in press (2016) 
+Magnetic field-free measurements of the total cross section for positrons scattering from helium and krypton 
+
+By: Williams, AI (Williams, A. I.); Murtagh, DJ (Murtagh, D. J.); Fayer, SE (Fayer, S. E.); Andersen, SL (Andersen, S. L.); Chevallier, J (Chevallier, J.); Kover, A (Koever, A.); Van Reeth, P (Van Reeth, P.); Humberston, JW (Humberston, J. W.); Laricchia, G (Laricchia, G.)
+Title: Moderation and diffusion of positrons in tungsten meshes and foils
+Source: JOURNAL OF APPLIED PHYSICS
+Volume: 118
+Issue: 10
+Article Number: 105302
+DOI: 10.1063/1.4930033
+Published: SEP 14 2015
+ISSN: 0021-8979
+eISSN: 1089-7550
+Accession Number: WOS:000361636900043
+
+Record 2 of 14
+By: Fayer, SE (Fayer, S. E.); Loreti, A (Loreti, A.); Kover, A (Koever, A.); Andersen, SL (Andersen, S. L.); Laricchia, G (Laricchia, G.)
+Edited by: Diaz, C (Diaz, C); Rabadan I (Rabadan, I); Garcia, G (Garcia, G); Mendez, L (Mendez, L); Martin, F (Martin, F)
+Title: An electrostatic positron beam for atomic and molecular collision experiments
+Source: XXIX INTERNATIONAL CONFERENCE ON PHOTONIC, ELECTRONIC, AND ATOMIC COLLISIONS (ICPEAC2015), PTS 1-12
+Book Series Title: Journal of Physics Conference Series
+Volume: 635
+Article Number: 052070
+DOI: 10.1088/1742-6596/635/5/052070
+Published: 2015
+Conference Title: 29th International Conference on Photonic, Electronic, and Atomic Collisions (ICPEAC)
+Conference Date: JUL 22-28, 2015
+Conference Location: Toledo, SPAIN
+Sponsor(s): Univ Autonoma Madrid; Consejo Super Investigaciones Cient
+ISSN: 1742-6588
+ISBN: *****************
+Accession Number: WOS:000366407000317
+
+Record 3 of 14
+By: Kover, A (Koever, A.); Williams, AI (Williams, A. I.); Murtagh, DJ (Murtagh, D. J.); Fayer, SE (Fayer, S. E.); Laricchia, G (Laricchia, G.)
+Title: An electrostatic brightness-enhanced timed positron beam for atomic collision experiments
+Source: MEASUREMENT SCIENCE &amp;amp; TECHNOLOGY
+Volume: 25
+Issue: 7
+Article Number: 075013
+DOI: 10.1088/0957-0233/25/7/075013
+Published: JUL 2014
+ISSN: 0957-0233
+eISSN: 1361-6501
+Accession Number: WOS:000338634700014
+
+Record 4 of 14
+By: Laricchia, G (Laricchia, G.); Cooke, DA (Cooke, D. A.); Kover, A (Koever, A.); Brawley, SJ (Brawley, S. J.)
+Edited by: Whelan, CT (Whelan, CT)
+Title: Experimental aspects of ionization studies by positron and positronium impact
+Source: FRAGMENTATION PROCESSES: TOPICS IN ATOMIC AND MOLECULAR PHYSICS
+Pages: 116-136
+Published: 2013
+ISBN: 978-1-107-00744-4
+Accession Number: WOS:000315651700006
+
+Record 5 of 14
+By: Kover, A (Koever, A.); Murtagh, DJ (Murtagh, D. J.); Williams, AI (Williams, A. I.); Laricchia, G (Laricchia, G.)
+Edited by: Campeanu, RI (Campeanu, RI); Darewych, JW (Darewych, JW); Stauffer, AD (Stauffer, AD)
+Title: Differential Ionization Studies by Positron Impact
+Source: XV INTERNATIONAL WORKSHOP ON LOW ENERGY POSITRON AND POSITRONIUM PHYSICS
+Book Series Title: Journal of Physics Conference Series
+Volume: 199
+Article Number: 012020
+DOI: 10.1088/1742-6596/199/1/012020
+Published: 2010
+Conference Title: 15th International Workshop on Low Energy Positron and Positronium Physics
+Conference Date: JUL 29-AUG 01, 2009
+Conference Location: York Univ, Toronto, CANADA
+Conference Host: York Univ
+ISSN: 1742-6588
+ISBN: *****************
+Accession Number: WOS:000280343800020
+
+Record 6 of 14
+By: Williams, AI (Williams, A. I.); Kover, A (Koever, A.); Murtagh, DJ (Murtagh, D. J.); Laricchia, G (Laricchia, G.)
+Edited by: Campeanu, RI (Campeanu, RI); Darewych, JW (Darewych, JW); Stauffer, AD (Stauffer, AD)
+Title: Progress Towards a Positron Reaction Microscope
+Source: XV INTERNATIONAL WORKSHOP ON LOW ENERGY POSITRON AND POSITRONIUM PHYSICS
+Book Series Title: Journal of Physics Conference Series
+Volume: 199
+Article Number: 012025
+DOI: 10.1088/1742-6596/199/1/012025
+Published: 2010
+Conference Title: 15th International Workshop on Low Energy Positron and Positronium Physics
+Conference Date: JUL 29-AUG 01, 2009
+Conference Location: York Univ, Toronto, CANADA
+Conference Host: York Univ
+ISSN: 1742-6588
+ISBN: *****************
+Accession Number: WOS:000280343800025
+
+Record 7 of 14
+By: Arcidiacono, C (Arcidiacono, C.); Beale, J (Beale, J.); Pesic, ZD (Pesic, Z. D.); Kover, A (Kover, A.); Laricchia, G (Laricchia, G.)
+Title: Ion production by positron impact on H2O
+Source: JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS
+Volume: 42
+Issue: 6
+Article Number: 065205
+DOI: 10.1088/0953-4075/42/6/065205
+Published: MAR 28 2009
+ISSN: 0953-4075
+Accession Number: WOS:000264386400014
+
+Record 8 of 14
+By: Laricchia, G (Laricchia, G.); Brawley, S (Brawley, S.); Cooke, DA (Cooke, D. A.); Kover, A (Koever, A.); Murtagh, DJ (Murtagh, D. J.); Williams, AI (Williams, A. I.)
+Edited by: Orel, AE (Orel, AE); Starace, AF (Starace, AF); Nikolic, D (Nikolic, D); Berrah, N (Berrah, N); Gorczyca, TW (Gorczyca, TW); Kamber, EY (Kamber, EY); Tanis, JA (Tanis, JA)
+Title: Ionization in positron- and positronium- collisions with atoms and molecules
+Source: XXVI INTERNATIONAL CONFERENCE ON PHOTONIC, ELECTRONIC AND ATOMIC COLLISIONS
+Book Series Title: Journal of Physics Conference Series
+Volume: 194
+Article Number: 012036
+DOI: 10.1088/1742-6596/194/1/012036
+Published: 2009
+Conference Title: 26th International Conference on Photonic, Electronic and Atomic Collisions
+Conference Date: JUL 22-28, 2009
+Conference Location: Western Michigan Univ, Kalamazoo, MI
+Sponsor(s): CRYOGENIC Ltd; IOP; Kalamazoo Cty Convent &amp;amp; Visitors Bur; Natl Electrostat Corp; PhysMath Cent; RoentDek Handels GmbH; Taylor &amp;amp; Francis Grp; WIENER Corp; WMU, Dept Phys; WMU, Coll Arts &amp;amp; Sci; WMU, Off Vice President Res; WMU, Grad Coll; WMU, Diether H Haenicke Inst Global Educ
+Conference Host: Western Michigan Univ
+ISSN: 1742-6588
+ISBN: *****************
+Accession Number: WOS:000282024600036
+
+Record 9 of 14
+By: Cooke, DA (Cooke, D. A.); Murtagh, DJ (Murtagh, D. J.); Kover, A (Kover, A.); Laricchia, G (Laricchia, G.)
+Title: Direct non-dissociative and dissociative ionization of CO2 by positron impact
+Source: NUCLEAR INSTRUMENTS &amp;amp; METHODS IN PHYSICS RESEARCH SECTION B-BEAM INTERACTIONS WITH MATERIALS AND ATOMS
+Volume: 266
+Issue: 3
+Pages: 466-470
+DOI: 10.1016/j.nimb.2007.12.026
+Published: FEB 2008
+Conference Title: 14th International Workshop on Low-Energy Positron and Positronium Physics
+Conference Date: AUG 01-04, 2007
+Conference Location: Univ Reading, Reading, ENGLAND
+Conference Host: Univ Reading
+ISSN: 0168-583X
+Accession Number: WOS:000255671600024
+
+Record 10 of 14
+By: Brawley, SJ (Brawley, S. J.); Beale, J (Beale, J.); Armitage, S (Armitage, S.); Leslie, DE (Leslie, D. E.); Kover, A (Kover, A.); Laricchia, G (Laricchia, G.)
+Title: Fragmentation of positronium in collision with xenon
+Source: NUCLEAR INSTRUMENTS &amp;amp; METHODS IN PHYSICS RESEARCH SECTION B-BEAM INTERACTIONS WITH MATERIALS AND ATOMS
+Volume: 266
+Issue: 3
+Pages: 497-501
+DOI: 10.1016/j.nimb.2007.12.031
+Published: FEB 2008
+Conference Title: 14th International Workshop on Low-Energy Positron and Positronium Physics
+Conference Date: AUG 01-04, 2007
+Conference Location: Univ Reading, Reading, ENGLAND
+Conference Host: Univ Reading
+ISSN: 0168-583X
+Accession Number: WOS:000255671600029
+
+Record 11 of 14
+By: Laricchia, G (Laricchia, G.); Armitage, S (Armitage, S.); Kover, A (Koever, A.); Murtagh, DJ (Murtagh, D. J.)
+Edited by: Arimondo, E (Arimondo, E); Berman, PR (Berman, PR); Lin, CC (Lin, CC)
+Title: Ionizing Collisions by Positrons and Positronium Impact on the Inert Atoms
+Source: ADVANCES IN ATOMIC, MOLECULAR, AND OPTICAL PHYSICS, VOL 56
+Book Series Title: Advances In Atomic Molecular and Optical Physics
+Volume: 56
+Pages: 1-47
+DOI: 10.1016/S1049-250X(08)00010-4
+Published: 2008
+ISSN: 1049-250X
+ISBN: 978-0-12-374290-2
+Accession Number: WOS:000260857800001
+
+Record 12 of 14
+By: Arcidiacono, C (Arcidiacono, C.); Kover, A (Koever, A.); Pesic, ZD (Pesic, Z. D.); Beale, J (Beale, J.); Laricchia, G (Laricchia, G.)
+Title: Double-differential ionization cross-section for H(2)O
+Source: RADIATION PHYSICS AND CHEMISTRY
+Volume: 76
+Issue: 3
+Pages: 431-435
+DOI: 10.1016/j.radphyschem.2005.12.056
+Published: MAR 2007
+Conference Title: 3rd Conference on Elementary Processes in Atomic Systems
+Conference Date: AUG 31-SEP 02, 2005
+Conference Location: Univ Miskole, Miskole, HUNGARY
+Sponsor(s): Univ Miskole, Dept Phys; European Phys Soc
+Conference Host: Univ Miskole
+ISSN: 0969-806X
+Accession Number: WOS:000243742300013
+
+Record 13 of 14
+By: Arcidiacono, C (Arcidiacono, C); Kover, A (Kover, A); Laricchia, G (Laricchia, G)
+Title: Energy-sharing asymmetries in ionization by positron impact
+Source: PHYSICAL REVIEW LETTERS
+Volume: 95
+Issue: 22
+Article Number: 223202
+DOI: 10.1103/PhysRevLett.95.223202
+Published: NOV 25 2005
+ISSN: 0031-9007
+Accession Number: WOS:000233458500020
+PubMed ID: 16384216
+
+Record 14 of 14
+By: Kover, A (Kover, A); Arcidiacono, C (Arcidiacono, C); Laricchia, G (Laricchia, G)
+Title: Differential ionization experiments on positron-atom scattering
+Source: NUCLEAR INSTRUMENTS &amp;amp; METHODS IN PHYSICS RESEARCH SECTION B-BEAM INTERACTIONS WITH MATERIALS AND ATOMS
+Volume: 221
+Pages: 56-59
+DOI: 10.1016/j.nimb.2004.03.031
+Published: JUL 2004
+Conference Title: 12th International Workshop on Positron and Positronium Physics (POSITRON03)
+Conference Date: JUL 19-21, 2003
+Conference Location: Aarhus Univ, Inst Phys &amp;amp; Astron, Sandbjerg, DENMARK
+Sponsor(s): Aarhus Univ, Fac Sci; Danish Nat Sci Res Council; Carlsberg Fdn; Knud Hojgaards Fond; Oticon Fonden; Toyota Fonden; Danfysik a/s
+Conference Host: Aarhus Univ, Inst Phys &amp;amp; Astron
+ISSN: 0168-583X
+Accession Number: WOS:000221998000011</gtr:impact><gtr:outcomeId>56cc567175f9b4.32285341-1</gtr:outcomeId><gtr:partnerContribution>Ion collision physics expertize</gtr:partnerContribution><gtr:piContribution>Positron physics expertize</gtr:piContribution><gtr:sector>Academic/University</gtr:sector></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>Aarhus University</gtr:collaboratingOrganisation><gtr:country>Denmark, Kingdom of</gtr:country><gtr:department>Department of?Physics and Astronomy</gtr:department><gtr:description>Aarhus University</gtr:description><gtr:id>AFE48BCF-CA6E-4035-9083-E265106FF7F0</gtr:id><gtr:impact>Magnetic field-free measurements of the total cross section for positrons scattering from helium and krypton 
+S. E. Fayer, A. Loreti, S.L. Andersen, A. Kover and G. Laricchia J. Phys. B in press (2016) 
+http://iopscience.iop.org/0953-4075;jsessionid=45F26BC909B9E8C22C53723A042F5855.c1.iopscience.cld.iop.org 
+
+Moderation and diffusion of positrons in tungsten meshes and foils 
+A. I. Williams, D. J. Murtagh, S. E. Fayer, S.L. Andersen, J. Chevallier, A. Kover, P. Van Reeth , J.W. Humberston and G. Laricchia J. Appl. Phys. 118 (2015) 105302 
+
+An electrostatic positron beam for atomic and molecular collision experiments 
+S E Fayer, A Loreti, A Kover, S L Andersen and G Laricchia Journal of Physics: Conference Series 635 (2015) 052070 http://iopscience.iop.org/article/10.1088/1742-6596/635/5/052070/meta
+http://scitation.aip.org/content/aip/journal/jap/118/10/10.1063/1.4930033</gtr:impact><gtr:outcomeId>56d9598f4d55f3.25001262-1</gtr:outcomeId><gtr:partnerContribution>Provision of thin-film single-crystals for positron moderation and remoderation and secondment of student</gtr:partnerContribution><gtr:piContribution>Testing the efficiency and characteristics of thin-film single-crystals to positron moderation and remoderation and training of student</gtr:piContribution><gtr:sector>Academic/University</gtr:sector></gtr:collaborationOutput></gtr:collaborationOutputs><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs><gtr:furtherFundingOutput><gtr:amountPounds>560729</gtr:amountPounds><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:currCode>GBP</gtr:currCode><gtr:currCountryCode>United Kingdom</gtr:currCountryCode><gtr:currLang>en_GB</gtr:currLang><gtr:description>Standard Research</gtr:description><gtr:end>2019-10-02</gtr:end><gtr:fundingOrg>Engineering and Physical Sciences Research Council (EPSRC)</gtr:fundingOrg><gtr:fundingRef>EP/P009395/1</gtr:fundingRef><gtr:id>5FFF6C00-5F89-4DDA-861E-A1D2FE2E5804</gtr:id><gtr:outcomeId>58b019bc643da1.28848085</gtr:outcomeId><gtr:sector>Academic/University</gtr:sector><gtr:start>2016-11-01</gtr:start></gtr:furtherFundingOutput></gtr:furtherFundingOutputs><gtr:impactSummaryOutputs><gtr:impactSummaryOutput><gtr:description>Positrons and positronium are fundamental to our understanding of the physical universe. They have also become exceptionally powerful in the biomedical industry and useful in practical applications ranging from material science to engineering . The main beneficiaries of the outcomes of our research are primarily other scientists, including modellers of astrophysical and radiobiological processes as well as plasma diagnostics .
+Benefits arise for the public/industrial sector also through the training of talented young scientists in performing world-class science and in developing a variety of skills (e.g. problem-solving, creative, communication, etc), crucial in innovative endevours in academia and industry. Recent members of the group are now working at prestigious research labs (e.g. CERN, RIKEN, ETH) , in the UK Industry (e.g. Health Protection Agency, BAE Systems Detica, Thermo Fisher Scientific) and the financial sector.
+Antimatter is a powerful vehicle for stimulating interest and promoting understanding in physics and science by the general public and especially by young people. In the framework of the departmental &amp;quot;Science for the Public&amp;quot; initiatives, we endeavour to generate public awareness and engagement through popular publications and by delivering popular lectures / talks at schools or interested societies.</gtr:description><gtr:firstYearOfImpact>2008</gtr:firstYearOfImpact><gtr:id>BA40F152-A8A1-4FA1-98EE-1ED7002E8FBB</gtr:id><gtr:impactTypes><gtr:impactType>Cultural,Societal,Economic</gtr:impactType></gtr:impactTypes><gtr:outcomeId>54553ac48b49e2.36463905</gtr:outcomeId><gtr:sector>Aerospace, Defence and Marine,Education,Environment,Healthcare,Manufacturing, including Industrial Biotechology</gtr:sector></gtr:impactSummaryOutput></gtr:impactSummaryOutputs><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>Studies with positrons and positronium, the short-lived atom made of an electron and its antimatter counterpart the positron, range from fundamental tests of annihilation and investigations of events in the galactic centre (where it is estimated that approximately 93% of all annihilation events occur through the decay of Ps) to practical applications such as characterization of microscopic voids in materials as well as medical diagnostics and therapy. Much has been learnt, in the past few decades, about the interactions of positrons and Ps with atoms and molecules thanks to the ability of performing controlled reactions with these projectiles, of analyzing final-state products with improved sensitivity together with increasingly sophisticated theoretical descriptions. The aim of this work has been to advance this knowledge and explore particular aspects of fundamental antimatter-matter interactions. Of particular interest here have been reactions resulting in ionization-fragmentation of atoms and molecules as driven by positrons. In order to study these, a major instrumental development has been undertaken consisting of a 'positron reaction microscope'. It has required the development of a brightness-enhanced positron-beam, a cold gas jet and a spectrometer. The beam is tunable in an energy range (5-500) eV with an angular divergence of 1&amp;deg; and an energy resolution of 1%. The efficiency of tungsten meshes and thin foils for moderation of fast positrons from 22 Na has also been investigated in transmission geometry and a fair agreement has been found with previous experimental results where directly comparable. For foils, the dependence on material thickness is found to be similar to the prediction of the Vehanen-M&amp;auml;kinen diffusion model; however, the magnitude is 5-10 times lower. A broad consensus is observed between experiment and the results of a three-dimensional model developed in this work. For a given thickness, meshes are found to be generally better than foils by around a factor of 10 with a maximum efficiency ( ~~ 10-3) comparable to that achieved with thin single crystal foils, in accord with previous measurements and the results of the present model.
+This work has been supplemented by investigations of ionizing collisions involving excitation of the target and/or the positronium atom formed as well as positron-induced fragmentation of molecular targets. In particular, cross sections for ionization excitation of CO2 and N2 by positron impact have been measured for the first time and found to exceed those for electron impact factors of 3-5, the enhancement arising primarily via positronium formation. The cross sections for the formation of positronium in the 2P state in collisions of positrons with He, Ar, and Xe atoms have been determined by measuring coincidences between the remnant ion and the Lyman-alpha photon from positronium. The maximum fractional contributions to the total Ps formation cross sections have been found to increase progressively in going from He to Xe. The total and direct ionization cross-sections for positron impact on N2 have been measured in the energy range from 5 eV to 850 eV. The results have been compared with other experimental and theoretical determinations. The energy distributions of positrons forward scattered from H2O have been measured in coincidence with the remnant ions (H2O+, OH+ and H+) . The maxima of the energy distributions associated with the production of OH+ and H+ are about 5-10 times smaller than that for (HO+)-O-2.</gtr:description><gtr:exploitationPathways>In the long term, positron/Ps scattering may also impact upon the risk assessment associated with medical diagnostics and therapeutic protocols of positron-emission-tomography, material characterization (primarily through annihilation and positronium formation). The public/industrial sector will also benefit through knowledge transfer as well as the training of talented young scientists in performing world-class science and in developing a variety of skills (e.g. problem-solving, creativity, communication, etc). The immediate beneficiaries of the research will be other scientists studying positron and positronium physics, atomic and molecular physics, astrophysics. The theme of the research is ionization, a process which is particularly interdisciplinary, with relevance in chemistry, environmental studies, plasma physics.</gtr:exploitationPathways><gtr:id>A902026D-C54E-4E90-9EB5-2C8D5A07CBBD</gtr:id><gtr:outcomeId>r-9368634549.312883774f4888</gtr:outcomeId><gtr:sectors><gtr:sector>Chemicals,Environment,Healthcare</gtr:sector></gtr:sectors><gtr:url>http://www.ucl.ac.uk/positron-physics/title.html</gtr:url></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication><gtr:id>A9F4D278-E92B-41B1-8064-4B2587B7B8D1</gtr:id><gtr:title>Progress towards a positron reaction microscope</gtr:title><gtr:parentPublicationTitle>Journal of Physics: Conference Series</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/66ef18d27aaab3e2eb29829908cf1ed4"><gtr:id>66ef18d27aaab3e2eb29829908cf1ed4</gtr:id><gtr:otherNames>Williams A</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2010-01-01</gtr:date><gtr:outcomeId>doi_53d04404427cd002</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>53B8A97D-396A-40BF-A066-DA05ABCBD724</gtr:id><gtr:title>Positronium formation with excitation</gtr:title><gtr:parentPublicationTitle>Journal of Physics: Conference Series</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/327d337d68138eb74d6bf110c00ed013"><gtr:id>327d337d68138eb74d6bf110c00ed013</gtr:id><gtr:otherNames>Cooke D</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date><gtr:outcomeId>54552ad8e65b19.24240115</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>A71049D7-3505-4772-B5C1-F493BCDD8B26</gtr:id><gtr:title>An electrostatic brightness-enhanced timed positron beam for atomic collision experiments</gtr:title><gtr:parentPublicationTitle>Measurement Science and Technology</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/09a1ab5ff7aa019160e970b5cc5b5f32"><gtr:id>09a1ab5ff7aa019160e970b5cc5b5f32</gtr:id><gtr:otherNames>K?v?r ?</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2014-01-01</gtr:date><gtr:outcomeId>54552c67c26eb1.40330515</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>E8854A13-B91D-4A75-AD70-F14DD2139952</gtr:id><gtr:title>Ion production by positron impact on H
+ 
+ O</gtr:title><gtr:parentPublicationTitle>Journal of Physics B: Atomic, Molecular and Optical Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/ee485f48a8436ac0bc26634ccb8d875e"><gtr:id>ee485f48a8436ac0bc26634ccb8d875e</gtr:id><gtr:otherNames>Arcidiacono C</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2009-01-01</gtr:date><gtr:outcomeId>doi_53d041041a2e18f0</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>30309006-CAE9-4B85-BEB1-4E5236887C28</gtr:id><gtr:title>Excited-state positronium formation from helium, argon, and xenon.</gtr:title><gtr:parentPublicationTitle>Physical review letters</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/66a24ae7da08ac8f80e5feb938b1ef80"><gtr:id>66a24ae7da08ac8f80e5feb938b1ef80</gtr:id><gtr:otherNames>Murtagh DJ</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2009-01-01</gtr:date><gtr:issn>0031-9007</gtr:issn><gtr:outcomeId>doi_53d05205290b514d</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>32EED54A-F318-480E-8B25-EE99D71D3AC6</gtr:id><gtr:title>Moderation and diffusion of positrons in tungsten meshes and foils</gtr:title><gtr:parentPublicationTitle>Journal of Applied Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/66ef18d27aaab3e2eb29829908cf1ed4"><gtr:id>66ef18d27aaab3e2eb29829908cf1ed4</gtr:id><gtr:otherNames>Williams A</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date><gtr:outcomeId>56b1e27151bca8.13003391</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>5FB002BD-EF18-420D-B484-BA6DDD725F46</gtr:id><gtr:title>An electrostatic positron beam for atomic and molecular collision experiments</gtr:title><gtr:parentPublicationTitle>Journal of Physics: Conference Series</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/edbf8054e416c8afc3590f4ddc0c0e10"><gtr:id>edbf8054e416c8afc3590f4ddc0c0e10</gtr:id><gtr:otherNames>Fayer S</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date><gtr:outcomeId>56b1e2e227d299.38430119</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>67C47AF7-B2A5-499C-AF8D-2723C0938A65</gtr:id><gtr:title>Double-differential ionization cross-section for H2O</gtr:title><gtr:parentPublicationTitle>Radiation Physics and Chemistry</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/ee485f48a8436ac0bc26634ccb8d875e"><gtr:id>ee485f48a8436ac0bc26634ccb8d875e</gtr:id><gtr:otherNames>Arcidiacono C</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2007-01-01</gtr:date><gtr:outcomeId>m_543527505513dac8a8</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>9B2D5324-52BA-4C2A-A769-3EDB1B270A6E</gtr:id><gtr:title>Resonant scattering of positronium in collision with CO2.</gtr:title><gtr:parentPublicationTitle>Physical review letters</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/bab271431bc6d683f36dfe0a382526b7"><gtr:id>bab271431bc6d683f36dfe0a382526b7</gtr:id><gtr:otherNames>Brawley SJ</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2010-01-01</gtr:date><gtr:issn>0031-9007</gtr:issn><gtr:outcomeId>545527c4614975.54662796</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>71AC6FC8-4EBC-4D95-9493-CCB717D5148B</gtr:id><gtr:title>Magnetic field-free measurements of the total cross section for positrons scattering from helium and krypton</gtr:title><gtr:parentPublicationTitle>Journal of Physics B: Atomic, Molecular and Optical Physics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/edbf8054e416c8afc3590f4ddc0c0e10"><gtr:id>edbf8054e416c8afc3590f4ddc0c0e10</gtr:id><gtr:otherNames>Fayer S</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date><gtr:outcomeId>585d34c406f5b3.05150784</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>AA95FA19-5C6D-4C87-ADFA-AB6B89DDBCD3</gtr:id><gtr:title>Fragmentation Processes - Topics in Atomic and Molecular Physics</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/b08cee154581f01cbf4382e80045846e"><gtr:id>b08cee154581f01cbf4382e80045846e</gtr:id><gtr:otherNames>Laricchia G</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date><gtr:isbn>978-1-107-00744-4</gtr:isbn><gtr:outcomeId>54552c093adbc5.27942656</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>542B2ACF-F241-401C-B28B-74ED2DF0A19B</gtr:id><gtr:title>Direct non-dissociative and dissociative ionization of CO2 by positron impact</gtr:title><gtr:parentPublicationTitle>Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/327d337d68138eb74d6bf110c00ed013"><gtr:id>327d337d68138eb74d6bf110c00ed013</gtr:id><gtr:otherNames>Cooke D</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2008-01-01</gtr:date><gtr:outcomeId>doi_53d002002e023c39</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>0F3A35A2-01E2-42C9-A4B7-59FA4DB4D5CB</gtr:id><gtr:title>Ionization in positron- and positronium- collisions with atoms and molecules</gtr:title><gtr:parentPublicationTitle>Journal of Physics: Conference Series</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/b08cee154581f01cbf4382e80045846e"><gtr:id>b08cee154581f01cbf4382e80045846e</gtr:id><gtr:otherNames>Laricchia G</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2009-01-01</gtr:date><gtr:outcomeId>doi_53d04404424dbff7</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>5FBA37F0-3BF5-410D-ACCB-AC8E01B6907A</gtr:id><gtr:title>Ionization cross-sections for positron collisions with N2</gtr:title><gtr:parentPublicationTitle>The European Physical Journal D</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/327d337d68138eb74d6bf110c00ed013"><gtr:id>327d337d68138eb74d6bf110c00ed013</gtr:id><gtr:otherNames>Cooke D</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2014-01-01</gtr:date><gtr:outcomeId>doi_53d0720728d46217</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>D18EF12F-5498-4F02-A4DB-A1BF4A3F15AB</gtr:id><gtr:title>High-Resolution Measurements of e^{+}+H_{2}O Total Cross Section.</gtr:title><gtr:parentPublicationTitle>Physical review letters</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/3f4f8d4ca0b3bd8a0e542e45b1fcd31c"><gtr:id>3f4f8d4ca0b3bd8a0e542e45b1fcd31c</gtr:id><gtr:otherNames>Loreti A</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date><gtr:issn>0031-9007</gtr:issn><gtr:outcomeId>58b02d778c1dd4.54616391</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>843693BB-E57D-485F-847E-3EC4EB1FAC0D</gtr:id><gtr:title>Electron-like scattering of positronium.</gtr:title><gtr:parentPublicationTitle>Science (New York, N.Y.)</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/bab271431bc6d683f36dfe0a382526b7"><gtr:id>bab271431bc6d683f36dfe0a382526b7</gtr:id><gtr:otherNames>Brawley SJ</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2010-01-01</gtr:date><gtr:issn>0036-8075</gtr:issn><gtr:outcomeId>5455277dd2dac9.37799742</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>FD27441D-0359-4104-A5CA-751727F4370E</gtr:id><gtr:title>Positronium formation cross-sections for Xe, CO(2) and N(2)</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/17f793267fd5a2dffb4e0556d88a85f6"><gtr:id>17f793267fd5a2dffb4e0556d88a85f6</gtr:id><gtr:otherNames>D.A. Cooke (Co-author)</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2010-01-01</gtr:date><gtr:outcomeId>m_315248496613dd0302</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>285A2FF0-F0EB-40DA-B53F-9C9F59A5FA41</gtr:id><gtr:title>Differential ionization studies by positron impact</gtr:title><gtr:parentPublicationTitle>Journal of Physics: Conference Series</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/09a1ab5ff7aa019160e970b5cc5b5f32"><gtr:id>09a1ab5ff7aa019160e970b5cc5b5f32</gtr:id><gtr:otherNames>K?v?r ?</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2010-01-01</gtr:date><gtr:outcomeId>doi_53d04404427462e5</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>DD875F49-17CA-4622-8905-D7C5A84C4C05</gtr:id><gtr:title>Simultaneous ionization and excitation of molecules by positron impact.</gtr:title><gtr:parentPublicationTitle>Physical review letters</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e43e49655c239c34b768ba53680a2685"><gtr:id>e43e49655c239c34b768ba53680a2685</gtr:id><gtr:otherNames>Cooke DA</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2010-01-01</gtr:date><gtr:issn>0031-9007</gtr:issn><gtr:outcomeId>doi_53d05305308a3a6f</gtr:outcomeId></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">EP/E053521/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>FB535BD0-E265-4C0A-8532-32DCB83A3951</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Tools, technologies &amp; methods</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>66CEB256-1CFB-4A2B-A588-3AC25D4D3FB9</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Scattering &amp; Spectroscopy</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

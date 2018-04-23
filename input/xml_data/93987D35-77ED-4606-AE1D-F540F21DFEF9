@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/C6D0044A-2CD2-4167-B90B-922AF53E361F"><gtr:id>C6D0044A-2CD2-4167-B90B-922AF53E361F</gtr:id><gtr:name>University of Kent</gtr:name><gtr:department>Sch of Computing</gtr:department><gtr:address><gtr:line1>The Registry</gtr:line1><gtr:line4>Canterbury</gtr:line4><gtr:line5>Kent</gtr:line5><gtr:postCode>CT2 7NZ</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/C6D0044A-2CD2-4167-B90B-922AF53E361F"><gtr:id>C6D0044A-2CD2-4167-B90B-922AF53E361F</gtr:id><gtr:name>University of Kent</gtr:name><gtr:address><gtr:line1>The Registry</gtr:line1><gtr:line4>Canterbury</gtr:line4><gtr:line5>Kent</gtr:line5><gtr:postCode>CT2 7NZ</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/77E74BB7-2C5C-40CE-94AB-645FD18F5B97"><gtr:id>77E74BB7-2C5C-40CE-94AB-645FD18F5B97</gtr:id><gtr:name>McAfee Labs</gtr:name><gtr:address><gtr:line1>Target House</gtr:line1><gtr:line2>Gatehouse Road</gtr:line2><gtr:postCode>HP19 8ED</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/5C8EBC6B-C62D-4427-B2F8-975FA92BBFD5"><gtr:id>5C8EBC6B-C62D-4427-B2F8-975FA92BBFD5</gtr:id><gtr:firstName>Andy</gtr:firstName><gtr:surname>King</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=EP%2FK032585%2F1"><gtr:id>93987D35-77ED-4606-AE1D-F540F21DFEF9</gtr:id><gtr:title>Se-Ma-Match: Semantic Malware Matching</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/K032585/1</gtr:grantReference><gtr:abstractText>The flood of malware samples is predicted to grow into a deluge in
+2012, making the problem of maintaining a database of malware
+signatures ever more difficult. For each new sample, it is important
+to determine the threat that it poses. 
+
+In response to this, dynamic malware analysis
+tools have been designed that execute the sample in a sandbox,
+monitoring the actions of a sample. If these actions are similar
+to those of malware that has been already indexed in the database,
+then one might draw conclusions regarding provenance and severity
+of the threat posed. If the sample does not match against known
+malware, then it can be subject to manual scrutiny, using a dissembler
+such as IDA Pro.
+
+This Linnaean approach to malware analysis is both natural and
+convenient: it is natural to group malware into families that share
+common attributes; and it is provides a convenient way of assessing
+threat. Yet the whole methodology is predicated on the accuracy
+with which samples are characterised by their signatures. If a
+sample is assigned a signature that does not express its behaviour,
+then samples that are behaviourally distinct can be erroneously
+grouped together. Conversely, samples which behave the same, but
+appear different, can be accidentally placed in different groups.
+
+The main problem with dynamic malware analysis tools is that they
+execute the binary for a limited time, typically considering just
+one path through the binary. This limits the actions that can be
+observed, rendering the signature inaccurate for programs that
+reveal their true behaviour later. In addition, the dynamic approach
+can miss infrequent actions or logic bombs. The dynamic approach is
+also susceptible to timing attacks that detect a tracer to turn off
+some action. Above all, the signatures are based solely and only
+on those actions that are encountered during the trace.
+
+More static approaches have been applied too, at one extreme using
+the call graph of the binary itself for classification, and at the
+other deploying model checking techniques to search the paths through
+call graph for signature behaviours that characterise known malware
+families. Yet graph matching techniques are sensitive to control-flow
+obfuscation and model checking requires the signature behaviours
+to be known up-front and distilled into a temporal formula or an
+automata.
+
+A middle ground is offered by abstract interpretation since it
+provides a way to systematically consider all paths, while monitoring
+a program for actions that inform the construction of the signature.
+Abstract interpretation provides a way to break the dichotomy between
+the purely dynamic and the purely static approach to malware analysis
+into a graduated continuum. Formally, purely static approach
+(a.k.a. a static analysis) can be derived from the purely dynamic
+approach (a.k.a. a tracer) by compositing a sequence of abstractions:
+if all n abstractions are applied the result is the static analysis;
+but if the first m &amp;lt; n abstractions are applied the result is a
+hybrid. The challenge is to find the hybrid that provides sufficient
+path coverage to undercover logic bombs yet is sufficiently robust
+to be used by practitioners in the security sector. The proposed
+project will discover this sweet point by following two complementary
+lines of inquiry. Concrete traces will be abstracted to cover more
+paths and more actions (at UCL). Static analyses, which covers all
+paths, will be refined to avoid paths and actions that do not
+actually occur (at Kent). Thus UCL will add missing information
+to signatures (converging on the ideal signature from below) whilst
+Kent will remove excess information from signatures (converging on
+the ideal signature from above). By reflecting on the relative
+merits of these approaches, we will draw conclusions on how to
+construct robust signatures for malware classification and thereby
+advance the whole field.</gtr:abstractText><gtr:potentialImpactText>Maximising Impact on Industrial Beneficiaries
+
+Although malware is a widespread problem the techniques we will develop are specialised and probably only of interest to the relatively small number of companies engaged in fighting malware. Technology transfer to these partners will be key to maximising the impact. The initial industrial beneficiaries will be the current industrial partners of the project. However, during the project we will seek out other industrial partners and industrial beneficiaries. We will hold a workshop at Kent six months before the end of the project, at which point the research will be sufficiently mature, to which we will invite potential industrial connections. Involvement in the Research Institute will in itself assist in forming relevant industrial and enabling dissemination of the research outcomes of the project. 
+
+Maximising Academic Impact
+
+The SeMaMatch project will maximise dissemination to its target research community and facilitate early involvement. To this end the SeMaMatch team will organise two workshops to deepen collaboration, widen the research base in compiled code analysis and to facilitate dissemination of our research outputs. The first workshop will be organised by the UCL site halfway through the project and will be aimed at academics in the research area. The second workshop will be organised by the Kent University site towards the end of the project as set out above and will target both relevant academics and industry. We have experience of organising such events through the UCL CREST Open Workshop programme. This had attracted 721 registrations from 167 organisations (including industrial organisations) in over 31 countries as of June 2012. We will, in addition to the two workshops associated with the project, organise three CREST open workshops on the theme of malware analysis, seeking to make connections with the wider software engineering research base. For maximal academic impact, we will publish our outputs in leading international conferences, whilst augmenting these results with archival journal publications. We will also distribute our research prototypes with an open source license, partly to encourage take up of the ideas, and partly to make IPR transparent. 
+
+Maximising Impact on the Wider User Community and Society
+
+The project team will make regular contributions to suitable on-line forums and discussion groups. Ideas and results from the project will feed into modules of UCL's MSc in Information Security. In addition the project team will seek to widen interest in the outputs of the project among the general public, incidentally raising awareness of malware.</gtr:potentialImpactText><gtr:fund><gtr:end>2016-10-13</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2013-10-14</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>245524</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication><gtr:id>BF727615-8161-4F82-B94B-49DF27117B69</gtr:id><gtr:title>Partial Evaluation for Java Malware Detection</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/f186e303948963b0e0c6548e5d21ad19"><gtr:id>f186e303948963b0e0c6548e5d21ad19</gtr:id><gtr:otherNames>R. Singh</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2014-01-01</gtr:date><gtr:outcomeId>545b926bb37e48.02981068</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>C1F6FFD9-9890-4883-BF82-A911430732D9</gtr:id><gtr:title>Incrementally Closing Octagons</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/245eb2f8501c95990e2ec2aca4fc6b06"><gtr:id>245eb2f8501c95990e2ec2aca4fc6b06</gtr:id><gtr:otherNames>Aziem Chawdhary</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date><gtr:outcomeId>5898857d733a46.33176941</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>387D6F25-0C5C-4946-9C0E-3572D3E8A739</gtr:id><gtr:title>Partial evaluation of string obfuscations for Java malware detection</gtr:title><gtr:parentPublicationTitle>Formal Aspects of Computing</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/d88d2e6386000c6f0d2190c15f796d9c"><gtr:id>d88d2e6386000c6f0d2190c15f796d9c</gtr:id><gtr:otherNames>Chawdhary A</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date><gtr:outcomeId>56a787e12e5803.27729595</gtr:outcomeId></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">EP/K032585/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>EB5F16BB-2772-4DDE-BD6C-3B7A6914B64C</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Info. &amp; commun. Technol.</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>76783275-A9F8-4B4E-B314-51363124259C</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Fundamentals of Computing</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

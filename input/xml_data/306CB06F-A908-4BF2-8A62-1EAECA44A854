@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/4F0633E9-99A6-4475-856B-902D06A33C26"><gtr:id>4F0633E9-99A6-4475-856B-902D06A33C26</gtr:id><gtr:name>Inclusive Technology Limited</gtr:name><gtr:address><gtr:line1>RIVERSIDE COURT , HUDDERSFIELD ROAD</gtr:line1><gtr:city>DELPH</gtr:city><gtr:postCode>OL3 5FZ</gtr:postCode><gtr:region>North West</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/4F0633E9-99A6-4475-856B-902D06A33C26" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>4F0633E9-99A6-4475-856B-902D06A33C26</gtr:id><gtr:name>Inclusive Technology Limited</gtr:name><gtr:address><gtr:line1>RIVERSIDE COURT , HUDDERSFIELD ROAD</gtr:line1><gtr:city>DELPH</gtr:city><gtr:postCode>OL3 5FZ</gtr:postCode><gtr:region>North West</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>242262.0</gtr:offerGrant><gtr:projectCost>538361.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720707"><gtr:id>306CB06F-A908-4BF2-8A62-1EAECA44A854</gtr:id><gtr:title>Personalised Preferences Profile (3Ps)</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720707</gtr:grantReference><gtr:abstractText>The key aim of the Personalised Preference Profile (3Ps) project is to better detect the
+interests/preferences of learners with Severe Learning Difficulties (SLD) and Profound and
+Multiple Learning Disabilities (PMLD) and provide the ability to create personalised content
+that is automatically and dynamically tailored to them.
+It can be a hugely complex task to find out what stimulates children with SLD/PMLD. This
+project uses a novel technical approach to detect the child?s interaction with content and
+couples this with real time &amp;amp; off-line data analytics to tailor the experience to their interests.
+This provides a unique market opportunity and innovation based upon:
+1) Creating an authoring tool that can be used by teachers to create educational self-tailoring
+content for learners with PMLD from fixed and authored content. Specific visual and sensory
+content packs will be created and the tool will be available on any online computer/tablet
+device.
+2) Creating an application that presents the content generated and analyses feedback from the
+individual user?s interaction with it (via eye tracking ? a technology already used in ITL?s
+product offering) to detect what is of interest. This will drive the real time content tailoring for
+individual users and the longer term tailoring in the authoring tool.
+3) Research into how virtual reality technologies (e.g. headsets, sensory room software) might
+in the future be able to be integrated with this application and learning process.
+If the application can be successfully developed then its impact to learners and teachers will
+be:
+1) The ability to build up learning interests and preferences/personalised profiles for
+individual learners and produce student friendly reports that can form the foundation of a
+communication passport.
+2) Information that allows teachers, guardians and designers to create focused learning
+content that provides more engagement resulting in the learning experience being enhanced</gtr:abstractText><gtr:fund><gtr:end>2017-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2015-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>242262</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720707</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

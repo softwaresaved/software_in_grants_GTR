@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/3E18DACB-05AA-4C71-88FB-C909A8311BB5"><gtr:id>3E18DACB-05AA-4C71-88FB-C909A8311BB5</gtr:id><gtr:name>Birkbeck College</gtr:name><gtr:department>Computer Science and Information Systems</gtr:department><gtr:address><gtr:line1>Malet Street</gtr:line1><gtr:line4>London</gtr:line4><gtr:postCode>WC1E 7HX</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/3E18DACB-05AA-4C71-88FB-C909A8311BB5"><gtr:id>3E18DACB-05AA-4C71-88FB-C909A8311BB5</gtr:id><gtr:name>Birkbeck College</gtr:name><gtr:address><gtr:line1>Malet Street</gtr:line1><gtr:line4>London</gtr:line4><gtr:postCode>WC1E 7HX</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/DCB7A440-4144-4601-B5E7-BD27F9FCCAF1"><gtr:id>DCB7A440-4144-4601-B5E7-BD27F9FCCAF1</gtr:id><gtr:firstName>Tingting</gtr:firstName><gtr:surname>Han</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=EP%2FP015387%2F1"><gtr:id>17E5CAA2-ABB9-4DF4-BF37-4A2BC7E65B81</gtr:id><gtr:title>Risk Measures for MDPs</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/P015387/1</gtr:grantReference><gtr:abstractText>Risk is a very important concept in many areas of every day life. Risk is the potential of gaining or losing something of value. The values include physical health, social status, emotional well-being or financial wealth, etc. Values can be gained or lost when taking risk resulting from a given action or inaction, foreseen or unforeseen. In real-life, many decisions are made to averse risks. For instance, most factories would choose to produce at a lower speed to avoid high risk of flawed products. Likewise, many people would not choose high-stake asset allocation portfolios with the possibility of high wins and losses. There are, however, other cases where risk-seeking actions are preferred, such as gambling. It is then of utmost importance to take risks into consideration when modelling a system.
+
+Markov decision processes (MDPs) is a general mathematical framework to model a system. They are used in a wide area of disciplines, such as robotics, automated control, economics, and manufacturing. In many applications modelled by MDPs, it is crucial to incorporate some measure of risk to rule out, for instance, policies that achieve a high expected reward at the cost of risky and error-prone actions. As a result, risk-sensitive optimality criteria for MDPs were put forward.
+
+In the last decade, the notion of risk measures has become very popular. Intuitively a risk measure is a function that maps a cost or reward to a real value, and the aim is to minimise the risk measure. Despite the existing work on risk measures in MDPs, there are still many questions to be answered in this area: what is the computational complexity, how to develop efficient algorithms, or how to provide effective tool support, just to name a few. The proposed research is to address those questions in depth. 
+
+The results will shed some lights on whether the risk measure minimisation problem can be performed efficiently at all. If so, how to perform efficiently? If not, is there an efficient algorithm to compute a close enough solution? On top of the algorithmic results, how to develop a ready-to-use tool to calculate the minimal risks? The ultimate goal is to provide a strategy to guide the decision making so that risks are minimised. This can, for instance, help people distribute their asset portfolio, or give advice on the manufacturing processing, or control the robot to deliver a safe and cost-economic path, etc.</gtr:abstractText><gtr:potentialImpactText>The project has the ambition to make a &amp;quot;full tour&amp;quot; of solving risk-sensitive Markov
+decision processes (MDP) techniques: from theoretical development to implementation of tools,
+to real-life case studies. 
+
+An immediate impact would be the enhancement of the existing probabilistic
+model checkers and the improved robot navigation application as well as a financial risk measurement. 
+For the success of achieving impact, we will jointly work with collaborators.
+For disseminating our results, we will make our software tool freely available, submit papers to
+mainstream formal methods conferences, and organise a workshop at the end of the project.
+
+We plan to demonstrate our results by two case studies that have their deep roots in industry. 
+
+1. Impact to AI planning. The first case study is a further step to improve the robot
+navigation by designing more efficient algorithms in planning with risk sensitive objectives. One
+of the most important and challenging components of a mobile robot is the navigation system
+where a robot must be able to optimise the use of its resources while avoiding risky zones (e.g.,
+electric substations) or under very urgent temporal deadlines and reach inspection goals, or
+interest locations. To navigate reliably in a real environment, autonomy and rationality are
+always required. 
+
+The proposed algorithms aim to help the robots make a quicker decision and
+keep out of the dangerous zones while saving fuel, batteries or time. We will compare our results
+with the existing benchmarks and if ours turn out to be more fuel and time efficient while
+successfully staying safe, we will post our results on the imperial robotics forum that involves
+21 laboratories from academia and industry. Recently some self-driving delivery robots are
+heading to London to carry out delivery trails in Greenwich. This is a typical application for
+our problem, where robots need to avoid obstacles, save batteries and deliver on time. We intend
+to get in touch with the company Starship Technologies and seek for chances to collaborate.
+
+2. Impact to finance. The second case study is to improve the asset allocation
+returns. The global financial crisis in 2008 caused investors to question what went wrong with
+many of their portfolios, which were believed to be diversified. A growing amount of literature on 
+portfolio construction approaches focused on risks and diversification rather than on
+estimating expected returns. The portfolio composition is a model of risk on top of an MDP. Our
+work will first look into past real asset allocation data from the global financial data website 
+and build risk-sensitive MDPs based on different risk measures. The modelling part may involve
+the expertise from financial sectors.
+
+As a result, We have contacted Dr. Guoqiang George Yang,
+the Vice President of the Counterparty Credit Risk Quant department (see the attached letter of support)
+from Bank of America Merrill Lynch. We plan to make visits to the bank's London branch. 
+The resulting investment strategies will be compared with the real
+decisions. If the resulting strategies turn out to be superior in terms of returns in most cases,
+our model will be reported to Bank of America Merrill Lynch. Further collaboration may be
+carried out.</gtr:potentialImpactText><gtr:fund><gtr:end>2019-01-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2017-08-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>101112</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">EP/P015387/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>EB5F16BB-2772-4DDE-BD6C-3B7A6914B64C</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Info. &amp; commun. Technol.</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>76783275-A9F8-4B4E-B314-51363124259C</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Fundamentals of Computing</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/0A30FAE2-C9B1-45A2-8385-C914C0F3B528"><gtr:id>0A30FAE2-C9B1-45A2-8385-C914C0F3B528</gtr:id><gtr:name>Chrysalis Health &amp; Beauty Business Solutions Ltd</gtr:name><gtr:address><gtr:line1>11 HIGH STREET, RUDDINGTON , NOTTINGHAM</gtr:line1><gtr:city>NOTTINGHAMSHIRE</gtr:city><gtr:postCode>NG11 6DT</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/0A30FAE2-C9B1-45A2-8385-C914C0F3B528" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>0A30FAE2-C9B1-45A2-8385-C914C0F3B528</gtr:id><gtr:name>Chrysalis Health &amp; Beauty Business Solutions Ltd</gtr:name><gtr:address><gtr:line1>11 HIGH STREET, RUDDINGTON , NOTTINGHAM</gtr:line1><gtr:city>NOTTINGHAMSHIRE</gtr:city><gtr:postCode>NG11 6DT</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>99413.0</gtr:offerGrant><gtr:projectCost>165689.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710644"><gtr:id>CF876BC7-EA6D-4341-871A-D34CB1D4B5F3</gtr:id><gtr:title>Demonstration of feasibility of a novel agglomerated raw material</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710644</gtr:grantReference><gtr:abstractText>Chrysalis, a UK-based SME, intends to develop several new, innovative added-value product
+lines for the food, food supplement and pharmaceutical markets based on the novel
+application of experimental agglomeration technologies to food-waste products.
+Chrysalis? is seeking to test the feasibility of this approach by developing an agglomerated
+calcium carbonate (ACC) from UK sourced waste chicken egg shells, 15,000 tonnes of which
+are sent to landfill/yr.
+Calcium carbonate is both a cost-effective source of calcium and a bulking agent used in food
+supplements and fortified foods. These products are increasingly popular as many consumers
+typically don?t receive enough calcium (RDI 800mg) from dietary sources, which can lead to
+an increased risk of osteoporosis.
+Although its affordability and processing properties have made calcium carbonate highly
+desirable to manufacturers, current inorganic sources suffer from quality, environmental and
+reliability issues that have led to recalls and consumer complaints, creating market demand for
+a credible alternative.
+Chrysalis plans to use novel agglomeration techniques and processing aids to develop a
+sustainable, viable alternative from UK egg shells that can directly replace existing raw
+materials without negatively impacting consumer product characteristics. Egg shells make an
+appealing source as they?re a very concentrated, highly absorbable form of dietary calcium, a
+neutral colour / taste and relatively low cost.
+In the proposed project, Chrysalis will seek to confirm the technical feasibility of using novel
+agglomeration methodologies to develop a sustainably sourced ACC that can ?drop-in? to
+existing processes, providing benefits to manufacturers and consumers, including improved
+product quality and palatability.
+Conditional on project outputs, Chrysalis are seeking to establish a platform technology that
+can potentially be adapted to other novel raw material sources for both food and
+pharmaceutical applications.</gtr:abstractText><gtr:fund><gtr:end>2016-02-29</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2015-03-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>99413</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710644</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

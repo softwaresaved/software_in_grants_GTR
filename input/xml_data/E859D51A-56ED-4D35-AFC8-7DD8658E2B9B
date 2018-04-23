@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/77322197-EE81-41DD-B4F0-9FB3AA8FF57D"><gtr:id>77322197-EE81-41DD-B4F0-9FB3AA8FF57D</gtr:id><gtr:name>Root 6 Limited</gtr:name><gtr:address><gtr:line1>4 WARDOUR MEWS , LONDON</gtr:line1><gtr:postCode>W1F 8AJ</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/77322197-EE81-41DD-B4F0-9FB3AA8FF57D" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>77322197-EE81-41DD-B4F0-9FB3AA8FF57D</gtr:id><gtr:name>Root 6 Limited</gtr:name><gtr:address><gtr:line1>4 WARDOUR MEWS , LONDON</gtr:line1><gtr:postCode>W1F 8AJ</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>249803.0</gtr:offerGrant><gtr:projectCost>555119.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/D9359609-8A1A-4E77-88F3-DB9927F69AEB"><gtr:id>D9359609-8A1A-4E77-88F3-DB9927F69AEB</gtr:id><gtr:firstName>Marcus</gtr:firstName><gtr:surname>Hume-Humphreys</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720763"><gtr:id>E859D51A-56ED-4D35-AFC8-7DD8658E2B9B</gtr:id><gtr:title>Root6 Media Packaging Agent</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720763</gtr:grantReference><gtr:abstractText>The twenty-one-month project will develop a system to automate the packaging of videobased
+media to meet the format and content requirements and standards of different
+broadcasters and on-line media distribution channels around the world.
+Media packaging is the essential way to provide access to programmes anytime, anywhere
+and on any device. Different broadcasters around the world have different technical
+specifications, as do on-line platforms and content owners such as Fox, Netflix, Disney and
+Warner. They have different rules about picture resolution, aspect ratio, technical metadata,
+descriptive metadata, countdown clock, black burst, colour bars and audio tones. Advertising
+breaks, language tracks, and elements such as call-in voting instructions (which have to be
+removed for re-broadcast or on-demand versions) add to the complexity of packaging. Media
+packaging currently requires a great deal of skilled operator intervention in a postproduction
+suite, working out which parts of the original or incoming programme material are to be kept,
+which have to be discarded and what needs to be added. Service providers are struggling to
+keep up with the complexity and volume of work, which is increasingly unaffordable.
+Media Packaging Agent will develop a highly automated intelligent system with
+- An analysis engine to deconstruct incoming media and extract metadata;
+- User interfaces and web services to control and verify the analysis and subsequent
+(re)packaging
+- A ?recipe engine? with specifications and a rules engine to manage the re-editing and
+packaging
+- A media conforming pipeline, to packaged or repackage media to any chosen recipe
+or format.
+Root6 Ltd will market the results to postproduction companies, broadcasters and streaming
+media companies around the world.</gtr:abstractText><gtr:fund><gtr:end>2017-10-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2016-02-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>249803</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720763</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

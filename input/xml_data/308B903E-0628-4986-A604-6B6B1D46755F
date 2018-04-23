@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/C3B24982-DE4C-4F86-A28A-2019755D033C"><gtr:id>C3B24982-DE4C-4F86-A28A-2019755D033C</gtr:id><gtr:name>Zagres Limited</gtr:name><gtr:address><gtr:line1>Wellington House
+East Road</gtr:line1><gtr:city>Cambridge</gtr:city><gtr:postCode>CB1 1BH</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/C3B24982-DE4C-4F86-A28A-2019755D033C" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>C3B24982-DE4C-4F86-A28A-2019755D033C</gtr:id><gtr:name>Zagres Limited</gtr:name><gtr:address><gtr:line1>Wellington House
+East Road</gtr:line1><gtr:city>Cambridge</gtr:city><gtr:postCode>CB1 1BH</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>25000.0</gtr:offerGrant><gtr:projectCost>42483.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/DE9955EA-D917-496C-ACF2-D48CDC6197F7"><gtr:id>DE9955EA-D917-496C-ACF2-D48CDC6197F7</gtr:id><gtr:firstName>Ashknaz</gtr:firstName><gtr:surname>Oraee</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700262"><gtr:id>308B903E-0628-4986-A604-6B6B1D46755F</gtr:id><gtr:title>Zagres Limited ? Study, assessment and proof of market potentials and economics of a low-cost solar cell technology</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700262</gtr:grantReference><gtr:abstractText>Cost and efficiency are yet the main barriers to widespread adoption of solar energy, currently
+valued at &amp;pound;51 billion globally with a compound annual growth rate of 18.7% through to 2020.
+Commercially available solar cells, which are mostly Silicon-based, cost 0.70 &amp;pound;/Watt and have
+efficiencies between 10 to 15%, far from industry's targets of 0.05 &amp;pound;/Watt and 30%,
+respectively. Alternative solar cell technologies have recently been developed based on new
+materials, such as Dye-sensitized Solar Cells (DSCs) which promise substantial cost
+reduction, by a factor of x10 as compared to Si-based cells through utilising inexpensive
+materials and low-cost manufacturing processes, whilst achieving comparable or improved
+efficiencies. DSC devices promise a variety of applications, such as consumer electronics and
+electricity generation from transparent glass windows. However, existing commercial DSCs
+are yet expensive, hence have found very limited applications, e.g. Logitech keyboard for
+iPad.
+Zagres, spun out from Cambridge University's Centre for Advanced Photonics &amp;amp; Electronics
+(CAPE), has developed a unique and patent-pending Atomic Layer Deposition (ALD)
+technology for Nanostructured TiO2 DSCs, which reduces Titanium material use by 300
+times and has led to a record efficiency of 18.2%, 4.2% higher than alternative DSCs. The
+reduction of Titanium use, enabled by our ALD-DSC technology, and the low-cost materials
+synthesis and device fabrication processes can lead to a substantial 70% cost reduction when
+compared to widely available Silicon-based solar cells, enabling far greater applications to
+become economically viable, e.g. electricity generation from glass windows; its exploitation
+can hence contribute to enabling cheaper solar energy whilst maintaining sustainability &amp;amp;
+material security. The aim of this project is to study, assess and quantify the economics and
+market potentials of the potentially disruptive ALD-DSC technology for low-cost high-volume
+applications.</gtr:abstractText><gtr:fund><gtr:end>2014-01-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2013-08-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>25000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700262</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

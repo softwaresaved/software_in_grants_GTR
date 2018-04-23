@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/8C591DDA-C64A-4F38-8F63-9AB6A90BCD30"><gtr:id>8C591DDA-C64A-4F38-8F63-9AB6A90BCD30</gtr:id><gtr:name>Halfman Ltd</gtr:name><gtr:address><gtr:line1>6A CULFORD GROVE</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>N1 4HR</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/8C591DDA-C64A-4F38-8F63-9AB6A90BCD30" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>8C591DDA-C64A-4F38-8F63-9AB6A90BCD30</gtr:id><gtr:name>Halfman Ltd</gtr:name><gtr:address><gtr:line1>6A CULFORD GROVE</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>N1 4HR</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>24998.0</gtr:offerGrant><gtr:projectCost>41705.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/FC5A5B65-C90F-452F-8E42-D4E566BD2A9F"><gtr:id>FC5A5B65-C90F-452F-8E42-D4E566BD2A9F</gtr:id><gtr:firstName>Meredith</gtr:firstName><gtr:surname>Lester</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700445"><gtr:id>6ED6F56A-4DEB-4C64-8BE0-C7C34168C76E</gtr:id><gtr:title>The Gates of Vienna</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700445</gtr:grantReference><gtr:abstractText>This Proof of Market project will seek market based research evidence demonstrating current
+and emerging market opportunities and the commercial/technical viability and considerations
+relating to development of an innovative app-novel/software platform that has potential to
+disrupt and revolutionise the publishing industry. The Gates of Vienna is a comedy about the
+1683 siege of Vienna, in form of iPhone app, written and designed to be read in numerous
+ways (character, timespan) in 15 mins at a time.
+The impact is potentially significant. There is no shortage of eBook platforms and
+marketplaces, with Amazon Kindle currently dominating with a viable publishing and selfpublishing
+platform, as well as Apple and many others in the fray pushing reading to digital
+formats. These platforms are however still geared towards/support and only allow
+straightforward linear stories.
+There has been academic work around non-linear narrative structures (for example
+?hypertext?) that is unreadable. Lots of commercial research is also underway on the future of
+writing/future of narrative. Crucially, not many people have looked at the future of reading
+despite the fact that we read nonstop - our consumption of text is ludicrous. People like
+reading, but have been shoe-horned into a form that doesn?t fit our lives anymore. The
+technology behind the Gates of Vienna project has potential to create story environments,
+where writers and content producers can use books as worlds or platforms to build new
+narrative reading experiences.
+The outcomes of our research into the market need and relevance of the proposed
+technological approach will help us determine the future R&amp;amp;D strategy (eg proof of concept
+and development of prototype). The intention is that The Gates of Vienna will utilise an
+innovative combination of technologies and provide valuable and potentially disruptive
+development in the publishing sector.</gtr:abstractText><gtr:fund><gtr:end>2014-12-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2014-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>24998</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700445</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

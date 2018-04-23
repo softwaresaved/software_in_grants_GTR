@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/2405723D-F159-41B9-8922-75E9624A5C49"><gtr:id>2405723D-F159-41B9-8922-75E9624A5C49</gtr:id><gtr:name>Anglia Airborne Innovations Limited</gtr:name><gtr:address><gtr:line1>4 FOXWOOD CRESCENT , RUSHMERE ST. ANDREW</gtr:line1><gtr:city>IPSWICH</gtr:city><gtr:postCode>IP4 5NY</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/2405723D-F159-41B9-8922-75E9624A5C49" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>2405723D-F159-41B9-8922-75E9624A5C49</gtr:id><gtr:name>Anglia Airborne Innovations Limited</gtr:name><gtr:address><gtr:line1>4 FOXWOOD CRESCENT , RUSHMERE ST. ANDREW</gtr:line1><gtr:city>IPSWICH</gtr:city><gtr:postCode>IP4 5NY</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>16000.0</gtr:offerGrant><gtr:projectCost>27500.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/C0BFC1F8-409E-4EE1-AF7A-8889A6C60E04"><gtr:id>C0BFC1F8-409E-4EE1-AF7A-8889A6C60E04</gtr:id><gtr:firstName>Swaraj</gtr:firstName><gtr:surname>Jeyasingh</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700361"><gtr:id>B8AD1741-E9F4-46EB-B6A6-A775DB9DDCE4</gtr:id><gtr:title>Commercialisation of new applications for light unmanned aircraft</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700361</gtr:grantReference><gtr:abstractText>Proof of market funding is sought for assessing the commercial viability of developing and
+offering new services with Small Unmanned Aircraft (SUA) for civilian customers.
+SUA is a CAA (Civil Aviation Authority) classification covering aircraft weighing less than
+7Kg and requiring minimal regulations over their operations in UK airspace.
+This requires research to quantify what the market wants or is likely to want in future; to
+assess
+and evaluate emerging and latent technologies that can meet these requirements; and to
+understand the likely regulatory and legal framework that these craft will have to operate in.
+All three are needed in order to for businesses to offer professional and commercial grade
+services.
+There are good indicators that the the market for SUA for civilian applications is growing
+globally. In the UK, current use of SUAs is mainly as platforms for video and photography
+for the leisure market with some use in industrial survey and public service roles such as the
+police. The long term commercial viability of these is still uncertain. Industry and the user
+community propose more novel applications and services such as: ability to carry different
+payloads such as IR, radar, air quality sniffers, noise monitoring, more autonomous
+operations with on board intelligence to allow and ?sense-and-avoid?, enable handover,
+evasive manoeuvre under specific conditions, wider use in disaster management, monitoring
+land use and other applications.
+However none of these are likely to see commercial operations while developments of such
+craft are largely uncoordinated and left to the vendors to drive forward as no one is sure what
+the market for this segment is likely to be.
+We believe there is a huge potential market both in the UK and globally for SUA services
+suited for the civilian professional market. But this requires sustained and coordinated
+marketing and R &amp;amp; D
+effort, which is the purpose of this project</gtr:abstractText><gtr:fund><gtr:end>2014-09-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2014-05-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>16000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700361</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

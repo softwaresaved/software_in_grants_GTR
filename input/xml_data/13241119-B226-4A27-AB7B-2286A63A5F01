@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/B5CC2B3E-A3AF-4A73-86E8-E05D057A6BF0"><gtr:id>B5CC2B3E-A3AF-4A73-86E8-E05D057A6BF0</gtr:id><gtr:name>Nemaura Pharma Limited</gtr:name><gtr:address><gtr:line1>Loughborough Innovation Centre
+Charnwood Building
+Ashby Road</gtr:line1><gtr:city>Loughborough</gtr:city><gtr:postCode>LE11 3AQ</gtr:postCode><gtr:region>East Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/B5CC2B3E-A3AF-4A73-86E8-E05D057A6BF0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>B5CC2B3E-A3AF-4A73-86E8-E05D057A6BF0</gtr:id><gtr:name>Nemaura Pharma Limited</gtr:name><gtr:address><gtr:line1>Loughborough Innovation Centre
+Charnwood Building
+Ashby Road</gtr:line1><gtr:city>Loughborough</gtr:city><gtr:postCode>LE11 3AQ</gtr:postCode><gtr:region>East Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>250000.0</gtr:offerGrant><gtr:projectCost>640077.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/AB7E1A3E-BCA4-4E0D-AA72-6750265F4878"><gtr:id>AB7E1A3E-BCA4-4E0D-AA72-6750265F4878</gtr:id><gtr:firstName>Kathryn</gtr:firstName><gtr:surname>Farrar</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720021"><gtr:id>13241119-B226-4A27-AB7B-2286A63A5F01</gtr:id><gtr:title>Nemaura Continuous Glucose Monitoring (CGM) Patch</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720021</gtr:grantReference><gtr:abstractText>The CGM Patch is a non-invasive continuous glucose monitoring patch that is worn around
+the arm or thigh to continuously monitor the blood glucose levels in a patient without the use
+of needles, without the need for blood letting and the associated difficulties and potential for
+infection, in a very simple user friendly format. The CGM patch consists of a disposable patch
+containing a sensor, and a non disposable miniature electronics module with re-chargeable
+power source. The system applies a small harmless electrical current to the skin and as a result
+leads to the efficient extraction of glucose from the skin into a chamber in the patch where a
+glucose sensor periodically detects the level of glucose and stores the data on the internal
+memory platform of the patch as well as displaying the glucose reading on an LCD display,
+setting off a vibration when the reading is 'out of range'.
+The WHO recommendation for diabetics is to monitor their blood glucose levels at least 5-7
+times per day, yet most patients fail to do so more than 1-2 times daily due to the difficulties
+asociated with blood letting using the finger-prick method. Furthermore health care providers
+spend a significant portion of their budget on managing the complications of diabetes. To date
+there have not been any continuous non-invasive systems available that are affordable and
+reliable. The CGM patch is intended to not only supplement and eventually replace the fingerprick
+method, but also to become an entire patient management system. The carers and/or
+physician will have the opportunity to help to guide the patient, their diet and lifestyle
+according to the trends recorded over weeks and months by the CGM patch, which can be
+downloaded to a PC and used for evalaution and patient management. This will lead to a
+significant improvement in the quality of life for patients as well as improving their prognosis
+by reducing the rate of associated complications, and reducing the burden on the NHS.</gtr:abstractText><gtr:fund><gtr:end>2013-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2011-11-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>250000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720021</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/EE1D1D4E-03D6-4D45-9048-74BFF08DA68A"><gtr:id>EE1D1D4E-03D6-4D45-9048-74BFF08DA68A</gtr:id><gtr:name>Peptinnovate Limited</gtr:name><gtr:address><gtr:line1>90 HIGH HOLBORN</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>WC1V 6XX</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/EE1D1D4E-03D6-4D45-9048-74BFF08DA68A" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>EE1D1D4E-03D6-4D45-9048-74BFF08DA68A</gtr:id><gtr:name>Peptinnovate Limited</gtr:name><gtr:address><gtr:line1>90 HIGH HOLBORN</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>WC1V 6XX</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>249989.0</gtr:offerGrant><gtr:projectCost>555655.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/9ADDF18D-FFF7-4C43-AA95-7D5B50528625"><gtr:id>9ADDF18D-FFF7-4C43-AA95-7D5B50528625</gtr:id><gtr:firstName>Clare</gtr:firstName><gtr:surname>Burgess</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720539"><gtr:id>2A573774-0727-4557-825D-0C5DB06AD265</gtr:id><gtr:title>Late preclinical development of a treatment for acute inflammatory disease derived from M.tuberculosis bacteria</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720539</gtr:grantReference><gtr:abstractText>Tuberculosis bacteria (mTB) are present in about 2 billion people worldwide; they have
+evolved over millennia to remain hidden in the body by producing proteins that modulate the
+host's immune system. These proteins have been shown to interact with and reduce the body's
+natural inflammatory processes.
+Peptinnovate?s innovation
+Peptinnovate?s approach is to unlock the anti-inflammatory activity of these proteins and to
+develop new medicines for debilitating diseases such as acute organ failure and COPD.
+Building on evolution, nature's ingenuity and employing Peptinnovate?s drug discovery and
+development skills we have modified these proteins to more drug-like molecules and are
+progressing the candidate molecule, PIN201104, to the clinic.
+Aims
+Following scientific advice and approval from the MHRA and previous SMART support
+(720364), this project will enable our drug candidate, PIN201104, to be evaluated in GLP nonclinical
+toxicology studies, and manufactured and formulated to GMP standards for acute use
+via intravenous dosing. Alongside this we will also carry out further in vivo efficacy studies in
+a range of inflammatory disease models to widen the therapeutic utility of the molecule.
+Objectives
+? To perform MHRA approved GLP toxicology and safety pharmacology studies in the
+rat and dog,
+? To manufacture and evaluate PIN201104 drug substance and drug product to GMP
+standards ready for clinical studies,
+? To demonstrate efficacy in a range of animal models of inflammation to extend
+PIN201104?s range of clinical indications.
+Benefits, outcomes and impacts
+The worldwide market for inflammatory disease treatment is substantial (&amp;gt;$70 billion),
+however recent safety scares have been attributed to a number of key drugs. Peptinnovate?s
+paradigm shift in potential treatment options will have a profound impact on the lives of
+millions of patients, reducing the burden on the healthcare providers and helping to build a
+sustainable, UK based pharmaceutical company.</gtr:abstractText><gtr:fund><gtr:end>2016-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2015-01-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>249989</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720539</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

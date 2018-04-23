@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations><gtr:collaborator url="http://gtr.ukri.org:80/organisation/ED6A6B32-663C-4A62-A33B-2C6A68E2E102"><gtr:id>ED6A6B32-663C-4A62-A33B-2C6A68E2E102</gtr:id><gtr:name>University of Essex</gtr:name><gtr:address><gtr:line1>Wivenhoe Park</gtr:line1><gtr:line4>Colchester</gtr:line4><gtr:line5>Essex</gtr:line5><gtr:postCode>CO4 3SQ</gtr:postCode><gtr:region>East of England</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address></gtr:collaborator></gtr:collaborations><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/7A0397DD-E0C6-4EA3-8031-B841D2503C4D"><gtr:id>7A0397DD-E0C6-4EA3-8031-B841D2503C4D</gtr:id><gtr:name>Royal Holloway, University of London</gtr:name><gtr:department>Computer Science</gtr:department><gtr:address><gtr:line1>Egham Hill</gtr:line1><gtr:line4>Egham</gtr:line4><gtr:line5>Surrey</gtr:line5><gtr:postCode>TW20 0EX</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/7A0397DD-E0C6-4EA3-8031-B841D2503C4D"><gtr:id>7A0397DD-E0C6-4EA3-8031-B841D2503C4D</gtr:id><gtr:name>Royal Holloway, University of London</gtr:name><gtr:address><gtr:line1>Egham Hill</gtr:line1><gtr:line4>Egham</gtr:line4><gtr:line5>Surrey</gtr:line5><gtr:postCode>TW20 0EX</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/ED6A6B32-663C-4A62-A33B-2C6A68E2E102"><gtr:id>ED6A6B32-663C-4A62-A33B-2C6A68E2E102</gtr:id><gtr:name>University of Essex</gtr:name><gtr:address><gtr:line1>Wivenhoe Park</gtr:line1><gtr:line4>Colchester</gtr:line4><gtr:line5>Essex</gtr:line5><gtr:postCode>CO4 3SQ</gtr:postCode><gtr:region>East of England</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/844A5C77-5FBA-47F2-BE39-C438C33938D9"><gtr:id>844A5C77-5FBA-47F2-BE39-C438C33938D9</gtr:id><gtr:firstName>Gregory</gtr:firstName><gtr:surname>Gutin</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/558671EF-230D-4669-BDA7-061EC06E1735"><gtr:id>558671EF-230D-4669-BDA7-061EC06E1735</gtr:id><gtr:firstName>Jason</gtr:firstName><gtr:surname>Crampton</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/8A063B15-EC58-4F5A-9C21-439FFFCCF188"><gtr:id>8A063B15-EC58-4F5A-9C21-439FFFCCF188</gtr:id><gtr:firstName>David</gtr:firstName><gtr:surname>Cohen</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=EP%2FK005162%2F1"><gtr:id>3FCD2A93-6034-4C84-A804-FD0836EF4841</gtr:id><gtr:title>Parameterized Algorithmics for the Analysis and Verification of Constrained Workflow Systems</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/K005162/1</gtr:grantReference><gtr:abstractText>Many business processes (or workflows) can be modeled as a set of
+computational tasks or steps. Some of these steps may be performed by a human
+agent (a &amp;quot;user&amp;quot;) or a software agent operating under the control of a user.
+There may be some flexibility in the order in which those steps may be
+completed: one step, for example, can be performed in parallel with some
+other step(s), while another step may be required to be performed before some
+other step(s). In addition to such &amp;quot;control flow&amp;quot; constraints on a business
+process, we may wish to impose restrictions on the users who perform the
+steps in the workflow. Some steps, for example, may be commercially sensitive
+and must be performed by a senior member of the user population. Requirements
+of this nature can be captured in an authorization policy stating which users
+are allowed to perform which steps. It is comparatively easy to ensure that
+such policies are enforced. However, we may wish to impose more complex rules
+on the business process. We might require, for example, that the same user
+does not perform a particularly sensitive combination of steps; this is
+sometimes known as the &amp;quot;two-man rule&amp;quot; for &amp;quot;four-eyes rule&amp;quot;.
+
+The combined effect of all these constraints on a business process is that it
+may not be possible to allocate users to steps in such a way that all
+constraints are satisfied simultaneously. It is known that determining
+whether a workflow specification (defining the control flow and authorization
+constraints) is satisfiable is a hard computational problem. Moreover, it is
+clearly important to determine whether a workflow specification is
+satisfiable; there is no point in defining a workflow specification that is
+not satisfiable. An algorithm for deciding the satisfiability of a workflow
+specification (a static analysis) must run in a reasonable amount of time.
+
+The development of efficient algorithms to determine workflow
+satisfiability will be one of the objectives of the proposed
+research. In particular, we will examine the workflow
+satisfiability problem (WSP) from the perspective of
+fixed-parameter tractability. A hard computational problem, such as
+the WSP, admits no algorithm with run-time polynomial in the size
+of the input to the problem. Informally, fixed-parameter tractable
+(FPT) problems are hard problems for which there exist algorithms
+whose run-time is exponential in only one of the parameters that
+comprise the input to the problem. If that parameter is small in
+practice and the exponential function of the parameter is not
+growing too fast, then an FPT algorithm will be efficient. Wang and
+Li (2010) have shown that a restricted form of WSP is FPT, but
+their algorithm is too slow to be of practical value. We will
+develop faster FPT algorithms that can be used in practice.
+
+Many workflow specifications of practical relevance do not have the
+form studied by Wang and Li. Thus, another objective of this
+project is to understand what other forms of WSP are FPT. This
+objective includes the study of richer types of constraints and
+more complex control flow patterns. Once we have an understanding
+of what forms of WSP are FPT we will then evaluate the performance
+of FPT algorithms against existing solutions.
+
+A novel aspect of our proposal is to view WSP as a type of
+constraint satisfaction problem (CSP). Despite the fact that WSP
+exhibits features that make it unusual as a CSP, we expect that
+complexity results, techniques and algorithms for CSP will still
+provide new tools for tackling WSP. We believe that the
+investigators' expertise and experience in workflow modelling,
+algorithmics, parameterized complexity and constraint satisfaction
+will yield fascinating insights into difficult theoretical problems
+and provide practical and relevant tools that could be deployed in
+commercial business information systems.</gtr:abstractText><gtr:potentialImpactText>The proposed research on constrained workflows will have direct
+impact on the suppliers of business planning software, and the
+academic community working in the broad area of algorithmics. In
+the longer term, it will have an indirect impact on all large
+organisations which have to plan and execute complex workflows.
+
+All organisations, both public and private, have to allocate people
+and resources to organizational processes in order to meet their
+business objectives. The complexity of such allocation problems
+often arises from the need to satisfy a variety of business rules.
+Business rules come from general legal frameworks and provide for
+the conformance to regulations; they can also emerge from day to
+day planning or logistical requirements; and they can be put in
+place to ensure secure working practices.
+
+In all cases, not only do we need to solve all current workflow
+problems efficiently, we have to assume that workflow requirements
+might change unexpectedly with the introduction of new rules or
+changes to staffing. Hence we need to find the most effective
+algorithms possible for solving this class of problems. In order to
+ensure that industry becomes aware of advances that we make either
+in the modelling of, or the solution to, workflow problems we will
+be organising an expert advisory group. This group of industrial
+advisors will help us to focus on relevant issues and also
+promulgate our research out into industry.
+
+As well as the annual meetings of the advisory group we will be
+organising a focused two day workshop to discuss the theoretical
+and practical results of the project in the final year of the
+grant. The workshop will naturally include a session with talks
+from invited speakers from industry research laboratories as well
+as theoretical talks. We expect the industrial speakers to include
+representatives from IBM Research (Zurich), SAP Research (Sofia
+Antipolis) and BAE Systems (Chelmsford). We are also confident of
+attracting leading theoreticians to the workshop.
+
+In addition to the industrial focus we will, naturally, be working
+towards a better understanding of the underlying theoretical issues
+that arise in solving complicated workflow problems. This research
+will have a broad base as the research team comprises experts on
+algorithmics, security and constraint satisfaction. All the
+investigators are well-known within their respective research
+communities and are well placed to discuss relevant advances with
+colleagues at home and abroad.
+
+We are confident this group will produce key new results on the
+complexity of algorithms which are of interest to a wide variety of
+academic and industrial researchers. We expect that industrial
+partners will see savings on personnel as we are able to plan with
+fewer specialised staff. We also expect that there will be
+significant time efficiencies made by being able to plan online and
+quickly to adapt to changing requirements and circumstances.</gtr:potentialImpactText><gtr:fund><gtr:end>2016-04-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2013-02-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>602797</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs><gtr:collaborationOutput><gtr:collaboratingOrganisation>University of Essex</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>New Collaborators</gtr:description><gtr:id>C54BF2C8-1B26-431B-87C8-8D6E230741FD</gtr:id><gtr:impact>A paper was submitted to Journal of Artificial Intelligence.</gtr:impact><gtr:outcomeId>5898a99782c5b9.63827388-1</gtr:outcomeId><gtr:partnerContribution>Dr Daniel Karapetyan (U. Essex) and Andrew J Parkes (U. Nottingham) came up with new ideas on how to improve practical efficiency of the algorithms developed during the grant. As a result, the algorithms were sped up by two-three orders of magnitude. They, Dr Andrei Gagarin (former RA, now lecturer at U. Cardiff) and Prof G. Gutin submitted a paper to a top journal in Artificial Intelligence, Journal of AI.</gtr:partnerContribution><gtr:piContribution>To further improve practical efficiency of the algorithms developed during the grant, we decided to collaborate with Dr Daniel Karapetyan (U. Essex) and Andrew J Parkes (U. Nottingham) .</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2015-01-01</gtr:start></gtr:collaborationOutput></gtr:collaborationOutputs><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs><gtr:furtherFundingOutput><gtr:amountPounds>90000</gtr:amountPounds><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:currCode>GBP</gtr:currCode><gtr:currCountryCode>United Kingdom</gtr:currCountryCode><gtr:currLang>en_GB</gtr:currLang><gtr:description>Royal Society Wolfson Research Merit Award</gtr:description><gtr:end>2018-12-02</gtr:end><gtr:fundingOrg>The Royal Society</gtr:fundingOrg><gtr:id>78D25CA2-AB99-46A0-B43F-FDD13EBA382F</gtr:id><gtr:outcomeId>5898aa891b7a93.21244719</gtr:outcomeId><gtr:sector>Academic/University</gtr:sector><gtr:start>2014-01-01</gtr:start></gtr:furtherFundingOutput></gtr:furtherFundingOutputs><gtr:impactSummaryOutputs><gtr:impactSummaryOutput><gtr:description>As far as I know, they have not been used yet, outside of research.</gtr:description><gtr:firstYearOfImpact>2016</gtr:firstYearOfImpact><gtr:id>891F5C51-55BE-43D2-B37A-633B3954E3AD</gtr:id><gtr:impactTypes/><gtr:outcomeId>546a04d4a7fe72.29144679</gtr:outcomeId></gtr:impactSummaryOutput></gtr:impactSummaryOutputs><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>The main results so far are an algorithm and its implementation which outperform well-known software in solving the main problem considered in the project, the workflow satisfiability problem for user-independent constraints.</gtr:description><gtr:id>E5CF523A-6A84-47F0-BB0B-89D0093E0AF7</gtr:id><gtr:outcomeId>546a06302fee01.40707709</gtr:outcomeId><gtr:sectors><gtr:sector>Digital/Communication/Information Technologies (including Software)</gtr:sector></gtr:sectors></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication><gtr:id>6BF676FB-70AC-450C-AC8E-1F145B836ED6</gtr:id><gtr:title>On the Workflow Satisfiability Problem with Class-Independent Constraints for Hierarchical Organizations</gtr:title><gtr:parentPublicationTitle>ACM Transactions on Privacy and Security</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/3e25fd7f32a02193f526892c1aefc1bf"><gtr:id>3e25fd7f32a02193f526892c1aefc1bf</gtr:id><gtr:otherNames>Crampton J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date><gtr:outcomeId>585d4709644931.59325442</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>7D5969DD-0A44-4CCA-AAF9-AF795BEEAC80</gtr:id><gtr:title>Polynomial Kernels and User Reductions for the Workflow Satisfiability Problem</gtr:title><gtr:parentPublicationTitle>Algorithmica</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/358447fcb7b2f79517654179b8656972"><gtr:id>358447fcb7b2f79517654179b8656972</gtr:id><gtr:otherNames>Gutin G</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date><gtr:outcomeId>56af4bd826bdb4.04442496</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>0B0CBA0E-9376-439E-8F96-36D36537C4CC</gtr:id><gtr:title>Algorithms for the workflow satisfiability problem engineered for counting constraints</gtr:title><gtr:parentPublicationTitle>Journal of Combinatorial Optimization</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/750d764d5364057ebed9fbaad503df26"><gtr:id>750d764d5364057ebed9fbaad503df26</gtr:id><gtr:otherNames>Cohen D</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date><gtr:outcomeId>56af4ba0361193.12253942</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>15F6914D-7761-40B8-8208-34EF42DFDA8A</gtr:id><gtr:title>The bi-objective workflow satisfiability problem and workflow resiliency1</gtr:title><gtr:parentPublicationTitle>Journal of Computer Security</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/3e25fd7f32a02193f526892c1aefc1bf"><gtr:id>3e25fd7f32a02193f526892c1aefc1bf</gtr:id><gtr:otherNames>Crampton J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:issn>0926227X</gtr:issn><gtr:outcomeId>5a818ff91cacd1.30136435</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>854E030C-8F4E-4CC6-8E9F-58CB8B817C84</gtr:id><gtr:title>On the Parameterized Complexity and Kernelization of the Workflow Satisfiability Problem</gtr:title><gtr:parentPublicationTitle>ACM Transactions on Information and System Security</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/3e25fd7f32a02193f526892c1aefc1bf"><gtr:id>3e25fd7f32a02193f526892c1aefc1bf</gtr:id><gtr:otherNames>Crampton J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2013-01-01</gtr:date><gtr:outcomeId>541aa20dd4f520.01124040</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>9BAA0945-FDDB-4BC7-8DDB-16472706E998</gtr:id><gtr:title>Tight lower bounds for the Workflow Satisfiability Problem based on the Strong Exponential Time Hypothesis</gtr:title><gtr:parentPublicationTitle>Information Processing Letters</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/358447fcb7b2f79517654179b8656972"><gtr:id>358447fcb7b2f79517654179b8656972</gtr:id><gtr:otherNames>Gutin G</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date><gtr:outcomeId>56af4b496e6aa1.68574398</gtr:outcomeId></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">EP/K005162/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>EB5F16BB-2772-4DDE-BD6C-3B7A6914B64C</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Info. &amp; commun. Technol.</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>76783275-A9F8-4B4E-B314-51363124259C</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Fundamentals of Computing</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

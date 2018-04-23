@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/7F16901C-4156-456D-B473-2A488143106F"><gtr:id>7F16901C-4156-456D-B473-2A488143106F</gtr:id><gtr:name>JLS Designs Limited</gtr:name><gtr:address><gtr:line1>Unit 4 Camelot Court
+Somerton Business Park
+Bancombe Road</gtr:line1><gtr:city>Somerton</gtr:city><gtr:postCode>TA11 6SB</gtr:postCode><gtr:region>South West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/7F16901C-4156-456D-B473-2A488143106F" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>7F16901C-4156-456D-B473-2A488143106F</gtr:id><gtr:name>JLS Designs Limited</gtr:name><gtr:address><gtr:line1>Unit 4 Camelot Court
+Somerton Business Park
+Bancombe Road</gtr:line1><gtr:city>Somerton</gtr:city><gtr:postCode>TA11 6SB</gtr:postCode><gtr:region>South West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>58909.0</gtr:offerGrant><gtr:projectCost>98200.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710013"><gtr:id>189D1EA5-304C-4FAF-939C-92456F6FF47C</gtr:id><gtr:title>JLS Designs Advanced Wireless Interfacing Units</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710013</gtr:grantReference><gtr:abstractText>The concept of this project developed in response to a need expressed to us by Draeger.
+Adequate monitoring of atmosphere where toxic or asphyxiating gasses are used requires a
+number of sensors linked to a central control and alarms unit. Frequently, the sensors are
+linked to the control unit by a 2-wire interface supporting a 4mA to 20mA analogue signal;
+the control unit resolves the measured currents into gas levels and initiates any alarm
+procedures accordingly.
+A key issue faced by companies developing and selling gas sensors is one of installation. The
+control unit must often be located in an office or corridor some distance from the sensor(s), so
+that extensive and intrusive cabling has to be installed. This represents a significant cost to the
+end-user, as well as being a considerable disruption during installation.
+The solution, which forms the basis for this project, is a set of bolt-on digital wireless
+interfaces. A device will be realised capable of measuring the output current signal from a gas
+sensor, and transmitting this information digitally through a wireless mesh network. A similar
+device will be designed and built to collect the data from the wireless interfaces, and
+reproduce the measured currents at the control unit. In this way, the control unit and sensors
+need not be altered to accommodate the benefits that wireless technology brings; namely ease
+and flexibility of deployment.
+This novel solution is particularly advantageous for three reasons. The first is that the end-user
+of the gas sensing system experiences significantly less cost and disruption when the system is
+installed. The second advantage is that the wireless interfaces are agnostic as to their
+application, so that they can be employed with equal success in a variety of different
+applications. That is, the wireless interfaces perform no alarm or control of their own; they
+simply capture and then mirror the output of a sensor at the control unit. This process could
+easily be adopted, for example, with environmental monitoring using temperature/humidity
+sensors, or corporate utility monitoring using water flow meters and electricity/gas meters.
+The third key advantage is that, because of the principles of wireless mesh networks, it will be
+possible to build additional monitoring devices into an application so that, for example, data
+logging of the various gas levels can take place independently and without reference or
+interruption to the control and alarms unit.
+The focus of this project is the development of concept electronics and firmware which will
+enable the wireless current measurement and replication. Each core component of the system
+(i.e. current sensing, current sourcing and wireless interface) is already commercially
+available in the form of chipsets which minimises project risk since individual parts are
+proven. The challenge and novelty for the project is the bringing together of these components
+into a reliable, cost-effective package.</gtr:abstractText><gtr:fund><gtr:end>2012-06-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2011-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>58909</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710013</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

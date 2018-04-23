@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/C200AF14-5885-491F-9022-020DB9F849A5"><gtr:id>C200AF14-5885-491F-9022-020DB9F849A5</gtr:id><gtr:name>Votr Consulting Limited</gtr:name><gtr:address><gtr:line1>STEP BUSINESS CENTRE , WORTLEY ROAD DEEPCAR</gtr:line1><gtr:city>SHEFFIELD</gtr:city><gtr:postCode>S36 2UH</gtr:postCode><gtr:region>Yorkshire and the Humber</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/C200AF14-5885-491F-9022-020DB9F849A5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>C200AF14-5885-491F-9022-020DB9F849A5</gtr:id><gtr:name>Votr Consulting Limited</gtr:name><gtr:address><gtr:line1>STEP BUSINESS CENTRE , WORTLEY ROAD DEEPCAR</gtr:line1><gtr:city>SHEFFIELD</gtr:city><gtr:postCode>S36 2UH</gtr:postCode><gtr:region>Yorkshire and the Humber</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>58080.0</gtr:offerGrant><gtr:projectCost>96800.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/DDCC8D5D-8190-4C4A-9394-9F1EB799198D"><gtr:id>DDCC8D5D-8190-4C4A-9394-9F1EB799198D</gtr:id><gtr:firstName>Christopher</gtr:firstName><gtr:surname>Ward</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710202"><gtr:id>8DC73600-C1ED-4CF2-B7A3-1B901D3C1F7F</gtr:id><gtr:title>Development of a Road Surface Texture Depth Meter</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710202</gtr:grantReference><gtr:abstractText>Road markings contain tiny glass beads to reflect the light from car headlights whilst driving
+at night. A technical issue concerning the effectiveness of road markings is that paradoxically
+they have to wear out to expose the glass beads, to facilitate retro-reflection. Consequently in
+order to wear the stripe has to be proud of the road surface and to be proud, the road marking
+paint has to first fill the voids and follow the contours inherent in the surface texture of the
+road. Therefore Highways Engineers need to know how much paint is required to fill the
+voids in the road surface in order to specify the correct amount of paint to be applied. Put
+simply for a stripe to be 2mm proud the volume of paint specified may need to equate to a
+thickness of 5mm. Currently Highways Engineers have no accurate way of calculating how
+much paint needs to be applied. This project will consider various innovative technologies
+which might best be used to solve this problem.
+The technical innovation of the project will be an attempt to select the most appropriate
+method of measuring ?road surface mean texture depth? in both longitudinal and transverse
+planes.
+This will assist Highways Authorities to comply with the British and European Standard
+which applies to road markings. The main outcomes of the project will be:
+? An improvement in road safety and traffic flow
+? A reduction in accidents at night
+? Creation of a new market
+? Development of a product in response to an identified market need
+? Job creation
+Achievement of these outcomes will have significant environmental, social and economic
+impacts.</gtr:abstractText><gtr:fund><gtr:end>2013-10-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2012-05-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>58080</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710202</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

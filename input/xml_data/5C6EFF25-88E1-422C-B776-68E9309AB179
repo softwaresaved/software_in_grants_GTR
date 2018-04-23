@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/D5337A10-AC8A-402A-8164-C5F9CC6B0140"><gtr:id>D5337A10-AC8A-402A-8164-C5F9CC6B0140</gtr:id><gtr:name>Queen Mary, University of London</gtr:name><gtr:department>Physics</gtr:department><gtr:address><gtr:line1>Mile End Road</gtr:line1><gtr:line4>London</gtr:line4><gtr:postCode>E1 4NS</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/D5337A10-AC8A-402A-8164-C5F9CC6B0140"><gtr:id>D5337A10-AC8A-402A-8164-C5F9CC6B0140</gtr:id><gtr:name>Queen Mary, University of London</gtr:name><gtr:address><gtr:line1>Mile End Road</gtr:line1><gtr:line4>London</gtr:line4><gtr:postCode>E1 4NS</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/80C199C1-908F-4BBE-B88B-1A47C16F6E52"><gtr:id>80C199C1-908F-4BBE-B88B-1A47C16F6E52</gtr:id><gtr:firstName>Natalie</gtr:firstName><gtr:surname>Kay-Thatcher</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/48B4AFB4-A897-4CD1-9823-D8E1E071A698"><gtr:id>48B4AFB4-A897-4CD1-9823-D8E1E071A698</gtr:id><gtr:firstName>Benjamin</gtr:firstName><gtr:surname>Still</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=ST%2FK002767%2F1"><gtr:id>5C6EFF25-88E1-422C-B776-68E9309AB179</gtr:id><gtr:title>Jiggling Atoms</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>ST/K002767/1</gtr:grantReference><gtr:abstractText>With the proposed programme we aim to:
+
+- Raise awareness of particle physics and surrounding research to 11-16 and post 16 students through various novel and engaging methods such as the art exhibition and related creative workshops.
+- Expand interest in STFC science by engaging with new audience groups through interdisciplinary collaborations (most notably art and design).
+- Encourage artists and illustrators to engage with physics visualisation.
+- Encourage scientists to visualise their work in new ways.
+- Encourage partnerships with specialist scientific and non-scientific groups through a programme of public talks and discussion groups.
+- Build upon the current high impact of particle physics in the public eye.
+- Attract new audiences, art students and the residents of East London, to a show that solely focuses the communication of physics.
+- Reach the east London First Thursday audience that would not necessarily attend a show that entirely focuses on the communication of physics.
+- Establish a new dialogue between art and science, making scientific contact points for a group of artists particularly interested in scientific knowledge.
+- Encourage science communicators to engage with audiences in artistic, playful and creative ways.
+
+Impact:
+
+- More enthusiam and awareness of particle physics and STFC science amongst school students.
+- Wider appreciation for science concepts and methodology in non-scientific communities.
+- A lasting interest in the art community for science subjects and collaborations.</gtr:abstractText><gtr:potentialImpactText>Resource distribution:
+
+- The Jiggling Atoms website will be used to distribute all resources developed during the programme suggested including:
+ - Lecture material including slides and handout and video recording of the lecture series.
+ - Photographs of the artworks produced.
+ - Explorations and explanations for each piece.
+ - The artist briefs, further reading suggestions and bibliography.
+
+- The Jiggling Atoms publication will also present most of the above resources in a professionally produced and published book.
+
+- Brochures will be available to all those visiting, this will cover the pieces and the science behind their inspiration.
+
+- We will make any resources available on the National STEM E-library: http://www.nationalstemcentre.org.uk/elibrary/ for use by teachers and other interested parties.
+
+Dissemination to scientists, educators and communicators:
+
+- Experiences will be disseminated through discussion groups and talks with academic and communication peers in sessions at mainstream national conferences such as the IOP HEPP and APP group meetings or the science communication conference respectively.
+
+- There are also opportunities for to share work internally through outreach forums at Queen Mary, University of London with the establishment of the Centre for Public Engagement. 
+
+- Ben is also active in delivering workshops for teachers in which he will discuss this project. 
+
+- There will also be regular posts on a project and personal blogs and websites disseminating the experiences in real time to all interested parties.
+
+Awareness Raising:
+
+- Queen Mary, University of London; physics outreach and Centre for Public Engagement will promote the event as well as the communications and media team.
+
+- Imperial Outreach will promote the event. An interview with Malte Oppermann all about this project is currently in the Spring issue of Imperial's 'I, Science' magazine.
+
+- Institute of Physics Public Engagement Grant Scheme: All project details will be posted on their website and blog and will be subsequently shared on social networks.
+
+- Physics teacher Alom Shaha has agreed to discuss this project with his large network of teachers and students.
+
+- Time Out's First Thursday scheme: On the first Thursday of every month the galleries of east London open their doors late for a chance to see artistic events after hours. As project details are posted on their website, we expect a large diverse crowd of art followers, art students and the residents of East London to attend the opening night event. 
+
+- Artistic blogs: Targeted blogs include Creative Review, It's Nice That, Boing Boing, Time Out, the Culture section of the Guardian, among others. 
+
+- All personal blogs and websites of the contributing artists and the organising committee will have details of the project with links, photographs, interviews and artworks. 
+
+- We will produce leaflets and posters that can be displayed in local establishments around the East London area. We will distribute these to all Arts London universities, Imperial College, Queen Mary, local libraries and schools.</gtr:potentialImpactText><gtr:fund><gtr:end>2013-01-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/D7F4F462-0518-4784-908A-D12633C139B3"><gtr:id>D7F4F462-0518-4784-908A-D12633C139B3</gtr:id><gtr:name>STFC</gtr:name></gtr:funder><gtr:start>2012-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>6000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">ST/K002767/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

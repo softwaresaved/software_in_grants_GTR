@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/C842A34F-18F7-454D-A259-FED802368496"><gtr:id>C842A34F-18F7-454D-A259-FED802368496</gtr:id><gtr:name>University of Leicester</gtr:name><gtr:department>Physics and Astronomy</gtr:department><gtr:address><gtr:line1>University Road</gtr:line1><gtr:line4>Leicester</gtr:line4><gtr:line5>Leicestershire</gtr:line5><gtr:postCode>LE1 7RH</gtr:postCode><gtr:region>East Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/C842A34F-18F7-454D-A259-FED802368496"><gtr:id>C842A34F-18F7-454D-A259-FED802368496</gtr:id><gtr:name>University of Leicester</gtr:name><gtr:address><gtr:line1>University Road</gtr:line1><gtr:line4>Leicester</gtr:line4><gtr:line5>Leicestershire</gtr:line5><gtr:postCode>LE1 7RH</gtr:postCode><gtr:region>East Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/21B39C65-13DB-416F-9AE4-62F995911B00"><gtr:id>21B39C65-13DB-416F-9AE4-62F995911B00</gtr:id><gtr:firstName>Richard</gtr:firstName><gtr:otherNames>David</gtr:otherNames><gtr:surname>Alexander</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/9A8384BD-4117-4D0D-ACA2-E9E9068BE387"><gtr:id>9A8384BD-4117-4D0D-ACA2-E9E9068BE387</gtr:id><gtr:firstName>Christopher</gtr:firstName><gtr:otherNames>James</gtr:otherNames><gtr:surname>Nixon</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/9D23DBB3-DB76-4C5B-B3F4-775E390132B7"><gtr:id>9D23DBB3-DB76-4C5B-B3F4-775E390132B7</gtr:id><gtr:firstName>Paul</gtr:firstName><gtr:otherNames>Joseph</gtr:otherNames><gtr:surname>Calleja</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/2255C007-EA52-4FA5-9FCA-33D9C5653D3C"><gtr:id>2255C007-EA52-4FA5-9FCA-33D9C5653D3C</gtr:id><gtr:firstName>Mark</gtr:firstName><gtr:otherNames>Ivor</gtr:otherNames><gtr:surname>Wilkinson</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/EB6845A2-BC39-4F04-BB4C-8DB090510AB5"><gtr:id>EB6845A2-BC39-4F04-BB4C-8DB090510AB5</gtr:id><gtr:firstName>Jeremy</gtr:firstName><gtr:otherNames>Andrew</gtr:otherNames><gtr:surname>Yates</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=ST%2FR001014%2F1"><gtr:id>0D1656C9-8332-4D40-A9B7-99DC706D5DC6</gtr:id><gtr:title>DiRAC 2.5 Operations 2017-2020</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>ST/R001014/1</gtr:grantReference><gtr:abstractText>Physicists across the astronomy, nuclear and particle physics communities are focussed 
+on understanding how the Universe works at a very fundamental level. The distance scales 
+with which they work vary by 50 orders of magnitude from the smallest distances probed 
+by experiments at the Large Hadron Collider, deep within the atomic 
+nucleus, to the largest scale galaxy clusters discovered out in space. The Science challenges, 
+however, are linked through questions such as: How did the Universe begin and how is it evolving? 
+and What are the fundamental constituents and fabric of the Universe and how do they interact?
+
+Progress requires new astronomical observations and experimental data but also 
+new theoretical insights. Theoretical understanding comes increasingly from large-scale 
+computations that allow us to confront the consequences of our theories very accurately 
+with the data or allow us to interrogate the data in detail to extract information that has 
+impact on our theories. These computations test the fastest computers that we have and 
+push the boundaries of technology in this sector. They also provide an excellent 
+environment for training students in state-of-the-art techniques for code optimisation and 
+data mining and visualisation. 
+
+The DiRAC-2.5 project builds on the success of the DiRAC HPC facility and will provide the resources needed
+to support cutting edge research during 2017 in all areas of science supported by STFC.
+
+In addition to the existing DiRAC-2 services, from April 2017 DiRAC-2.5 will provide:
+
+1) A factor 2 increase in the computational power of the DiRAC supercomputer at the University of Durham, which is designed for simulations requiring large amounts of computer memory. The enhanced system will be used to:
+(i) simulate the merger of pairs of black holes which generate gravitational waves such as those recently discovered by the LIGO consortium;
+(ii) perform the most realistic simulations to date of the formation and evolution of galaxies in the Universe
+(iii) carry out detailed simulations of the interior of the sun and of planetary interiors.
+
+2) A new High Performance Computer at Cambridge whose particular architecture is well suited to the theoretical 
+problems that we want to tackle that utilise large amounts of data, either as input or 
+being generated at intermediate stages of our calculations. Two key challenges
+that we will tackle are those of 
+(i) improving our understanding of the Milky Way through analysis of new data from the European 
+Space Agency's GAIA satellite and 
+(ii) improving the potential of experiments at CERN's Large Hadron Collider for discovery
+of new physics by increasing the accuracy of theoretical predictions for rare processes involving the 
+fundamental constituents of matter known as quarks. 
+
+3) An additional 3500 compute cores on the DiRAC Complexity supercomputer at Leicester which will make it possible to 
+carry out simulations of some of the most complex physical situation in the Universe. These include:
+(i) the formation of stars in clusters - for the first time it will be possible to follow the formation of stars many times more massive than the sun; 
+(ii) the accretion of gas onto supermassive black holes, the most efficient means of extracting energy from matter and the engine
+which drives galaxy formation and evolution.
+
+4) A team of three research software engineers who will help DiRAC researchers to ensure their scientific codes to extract
+the best possible performance from the hardware components of the DiRAC clusters. These highly skilled programmers will
+increase the effective computational power of the DiRAC facility during 2017.</gtr:abstractText><gtr:potentialImpactText>The expected impact of the DiRAC 2.5 HPC facility is fully described in the attached pathways to impact document and includes:
+
+1) Disseminating best practice in High Performance Computing software engineering throughout the theoretical Particle Physics, Astronomy and Nuclear physics communities in the UK as well as to industry partners.
+
+2) Working on co-design projects with industry partners to improve future generations of hardware and software.
+
+3) Development of new techniques in the area of High Performance Data Analytics which will benefit industry partners and researchers in other fields such as biomedicine, biology, engineering, economics and social science, and the natural environment who can use this new technology to improve research outcomes in their areas.
+
+4) Share best practice on the design and operation of distributed HPC facilities with UK National e-Infrastructure partners.
+
+5) Training of the next generation of research scientists of physical scientists to tackle problems effectively on state-of-the-art of High Performance Computing facilities. Such skills are much in demand from high-tech industry.
+
+6) Engagement with the general public to promote interest in science, and to explain how our ability to solve complex problems using the latest computer technology leads to new scientific capabilities/insights. Engagement of this kind also naturally encourages the uptake of STEM subjects in schools.</gtr:potentialImpactText><gtr:fund><gtr:end>2020-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/D7F4F462-0518-4784-908A-D12633C139B3"><gtr:id>D7F4F462-0518-4784-908A-D12633C139B3</gtr:id><gtr:name>STFC</gtr:name></gtr:funder><gtr:start>2017-08-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>501675</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">ST/R001014/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>B43E1E82-2962-4C36-87AD-95AC01BE0A9F</gtr:id><gtr:percentage>80</gtr:percentage><gtr:text>Astronomy - theory</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>9C124926-5968-486F-9B51-CCEB6C4E9650</gtr:id><gtr:percentage>20</gtr:percentage><gtr:text>Particle physics - theory</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>6EE6184F-4A3C-4A99-A3AC-55FC62120A44</gtr:id><gtr:percentage>20</gtr:percentage><gtr:text>Computational Methods &amp; Tools</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>4EE2392F-9964-4A0B-8C0A-1672FD744F8B</gtr:id><gtr:percentage>20</gtr:percentage><gtr:text>Extra-Galactic Astron.&amp;Cosmol.</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>EC478D98-EB7D-4905-B536-D9D61AFD07E4</gtr:id><gtr:percentage>20</gtr:percentage><gtr:text>Galactic &amp; Interstellar Astron</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>ABA2EC9F-6524-443A-BB92-7DF199FE4B25</gtr:id><gtr:percentage>20</gtr:percentage><gtr:text>Mathematical Physics</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>6D4F9380-A853-4602-9383-3E0067A53A84</gtr:id><gtr:percentage>20</gtr:percentage><gtr:text>Stellar Astronomy</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

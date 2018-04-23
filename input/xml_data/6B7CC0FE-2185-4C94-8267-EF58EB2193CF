@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/68694121-1F5E-4707-BC9C-1419407E5331"><gtr:id>68694121-1F5E-4707-BC9C-1419407E5331</gtr:id><gtr:name>The Sustainable Home Survey Company C.I.C.</gtr:name><gtr:address><gtr:line1>29 SHAND STREET</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>SE1 2ES</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/68694121-1F5E-4707-BC9C-1419407E5331" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>68694121-1F5E-4707-BC9C-1419407E5331</gtr:id><gtr:name>The Sustainable Home Survey Company C.I.C.</gtr:name><gtr:address><gtr:line1>29 SHAND STREET</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>SE1 2ES</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>24500.0</gtr:offerGrant><gtr:projectCost>41225.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/AFCEF941-6F50-412E-ABD9-07F2D01FD33D"><gtr:id>AFCEF941-6F50-412E-ABD9-07F2D01FD33D</gtr:id><gtr:firstName>James</gtr:firstName><gtr:surname>Byrne</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700458"><gtr:id>6B7CC0FE-2185-4C94-8267-EF58EB2193CF</gtr:id><gtr:title>Solid Wall Insulation via Rope Access (SWIRA)</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700458</gtr:grantReference><gtr:abstractText>The Sustainable Home Survey Company (SHS) is the UK?s leading community-focused
+energy management assessment company and social incubator. SHS?s management team has
+delivered over 15 low carbon ventures to market, and actively supports team members in
+identifying and growing spin-out companies.
+In partnership with Avalon Sustainable Energy Solutions (ASES) - SHS propose the UK?s
+first rope access solution for external wall insulation to provide energy efficiency solutions to
+many high-rise homes in the UK.
+The UK has made a commitment to reduce greenhouse gas emissions by at least 80% by
+2050. Amongst the lowest cost methods to achieving this is the retrofitting of current building
+stock to required levels of energy efficiency ? this must almost always begin with fabric
+improvements via insulation. However, the UK will require substantial innovations for solid
+wall insulation to be delivered at scale. Increasing energy prices and energy insecurity
+exasperate the problem socially, creating a compelling socio economic imperative for a lowimpact
+and practical solid wall insulation solution.
+Solid Wall Insulation via Rope Access (SWIRA) synergises the innovations of rope access for
+cavity wall insulation and moves them to a new dimension ? solid wall insulation ?
+incorporating innovative surveying and detailed design to provide a bespoke and cost
+?effective system for the UK housing stock.
+Successful deployment of the SWIRA solution requires co-ordination amongst many different
+stakeholders including, architects, system designers and manufacturers, property managers
+and owners, planners, councils, policy makers, energy companies and residents. Before this
+can be achieved, the addressable market requires: further segmentation and appraisal,
+customer proposition validated, supply chain readiness verification; and development and
+establishment of an infrastructure roadmap.</gtr:abstractText><gtr:fund><gtr:end>2015-06-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2014-09-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>24500</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700458</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

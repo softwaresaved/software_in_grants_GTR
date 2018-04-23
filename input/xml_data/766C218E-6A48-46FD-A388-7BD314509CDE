@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/86B4D2F1-90AE-414C-8AAF-C314956339A1"><gtr:id>86B4D2F1-90AE-414C-8AAF-C314956339A1</gtr:id><gtr:name>Barnard Microsystems Limited</gtr:name><gtr:address><gtr:line1>Brentmead House
+Britannia Road</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>N12 9RU</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/86B4D2F1-90AE-414C-8AAF-C314956339A1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>86B4D2F1-90AE-414C-8AAF-C314956339A1</gtr:id><gtr:name>Barnard Microsystems Limited</gtr:name><gtr:address><gtr:line1>Brentmead House
+Britannia Road</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>N12 9RU</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>24000.0</gtr:offerGrant><gtr:projectCost>40000.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/99771245-3199-4881-8A84-41FA4A188F70"><gtr:id>99771245-3199-4881-8A84-41FA4A188F70</gtr:id><gtr:firstName>Joseph</gtr:firstName><gtr:surname>Barnard</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700280"><gtr:id>766C218E-6A48-46FD-A388-7BD314509CDE</gtr:id><gtr:title>UASA Sensor a miniature Synthetic Aperture Sensor for use in real time imaging from Unmanned Aircraft</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700280</gtr:grantReference><gtr:abstractText>The aim of this 6 month Proof of Market project is to investigate the commercial feasibility of
+a miniature sensor,using electromagnetic signals and synthetic aperture data processing, to
+image underlying terrain in any weather conditions, in real time, from an unmanned aircraft
+(UA). The key features of this UASA sensor are:
+? range up to 1 km with a resolution of &amp;lt; 1m
+? output peak power &amp;lt; 250 Watts in which GaN transistors are used to minimise the
+electrical power requirement
+? weight &amp;lt; 2 kg so several units can be carried on one UA
+? operating centre frequency &amp;lt; 2.5 GHz, so high performance and low cost WLAN RF
+components can be used
+? data processing in real time, using energy efficient processors such as the
+SnapDragon S4 CPU, used in smartphones
+Direct user pressure for this type of sensor has come from staff at Shell Exploration HQ in
+Rijswijk in the Netherlands, Statoil in Norway and ENI in Italy. This sensor can also be used
+in interferometric mode (I-MODE) to detect differences between two or more successive
+scans. In addition to all weather imaging in real time for navigation purposes, the UASA
+sensor could be used in the detection of:
+? vehicles and people in a pipeline Right of Way
+? an oil slick at sea, or on the ground (I-MODE)
+? subsidence near an oil well, as a result of pumping oil from an underground oil
+reservoir (I-MODE)
+? tracks near an oil pipeline (I-MODE)
+We will explore ways in which we could work with universities in the UK and with other
+companies with relevant expertise in the processing of the measured data. This sensor will
+find use in oil, gas and mineral exploration work, representing the business oriented aspect of
+this work. Societal benefits include the detection of oil spills in real time, enabling remedial
+measures to implemented.
+The economic benefits will stem from both our use of this sensor and sales of the sensor for
+use in exploration and monitoring work and in military applications.</gtr:abstractText><gtr:fund><gtr:end>2014-02-28</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2013-09-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>24000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700280</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

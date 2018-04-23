@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/F79CC878-4ED8-4DAC-86F4-61337443C5C3"><gtr:id>F79CC878-4ED8-4DAC-86F4-61337443C5C3</gtr:id><gtr:name>If Sensing Limited</gtr:name><gtr:address><gtr:line1>GREENHEYS MANCHESTER SCIENCE PARK , PENCROFT WAY</gtr:line1><gtr:city>MANCHESTER</gtr:city><gtr:postCode>M15 6JJ</gtr:postCode><gtr:region>North West</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/F79CC878-4ED8-4DAC-86F4-61337443C5C3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>F79CC878-4ED8-4DAC-86F4-61337443C5C3</gtr:id><gtr:name>If Sensing Limited</gtr:name><gtr:address><gtr:line1>GREENHEYS MANCHESTER SCIENCE PARK , PENCROFT WAY</gtr:line1><gtr:city>MANCHESTER</gtr:city><gtr:postCode>M15 6JJ</gtr:postCode><gtr:region>North West</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>22000.0</gtr:offerGrant><gtr:projectCost>37000.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700134"><gtr:id>B5E18B81-DBED-47A8-B69A-956714C3E85C</gtr:id><gtr:title>Biosensor for measuring creatinine in the Interstitial Fluid</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700134</gtr:grantReference><gtr:abstractText>The objective of the proposed study is to evaluate a commercial potential for the proposed
+biosensor device for measuring creatinine in the Interstitial Fluid rather then in blood and to
+shape a development plan for advancing commercialization of this technology. The TSB
+funding of this project will enable the technology to progress to the stage where private
+funding can be raised.
+Proposed biosensor is a simple, single use, rapid and minimally invasive (no pain and
+bleeding) device which can be used by the patient at home or in a GP primary care setting.
+This is a significant innovative step as currently detection and staging of Chronic Kidney
+Disease (CKD) requires measurement of creatinine in blood. Blood sampling is a procedure
+that is costly and of limited accessibility. In addition the procedure is associated with pain and
+risk of infections.
+Introducing our novel approach for creatinine detection can potentially open up very
+significant market opportunities in early detection and monitoring of kidney disease. Early
+detection increases the amount of time patients are exposed to therapeutic strategies of proven
+benefit. It can prevent its progression and associated complications improving patient
+outcomes and reducing the impact on health-care resources. Proposed device will give patients
+control over their disease and drive better disease management and improved outcomes. For
+providers this will consequently reduce costs and reduce environmental burden by potentially
+reducing the need for dialysis.
+It is estimated that 7.2% of people aged 30 years and older have some degree of CKD which
+translates into more than 288m cases globally. Out of ~3.3m people that have Stage 3-5 CKD
+in England only ~1.5m are known to the NHS. On average 30% of people with advanced
+kidney disease are referred late to nephrology services, causing increased mortality and
+morbidity. Late stages of CKD are associated with a very high cost for health care providers
+and payers.</gtr:abstractText><gtr:fund><gtr:end>2013-02-28</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2012-06-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>22000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700134</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

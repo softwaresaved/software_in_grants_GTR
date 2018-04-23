@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/195832CF-FA43-4084-8C6E-372802C36107"><gtr:id>195832CF-FA43-4084-8C6E-372802C36107</gtr:id><gtr:name>Logical Glue Limited</gtr:name><gtr:address><gtr:line1>PORT HOUSE, 2ND FLOOR MARINA KEEP , PORT SOLENT</gtr:line1><gtr:city>PORTSMOUTH</gtr:city><gtr:postCode>PO6 4TH</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/195832CF-FA43-4084-8C6E-372802C36107" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>195832CF-FA43-4084-8C6E-372802C36107</gtr:id><gtr:name>Logical Glue Limited</gtr:name><gtr:address><gtr:line1>PORT HOUSE, 2ND FLOOR MARINA KEEP , PORT SOLENT</gtr:line1><gtr:city>PORTSMOUTH</gtr:city><gtr:postCode>PO6 4TH</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>222234.0</gtr:offerGrant><gtr:projectCost>493914.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/734CD57E-4169-43E0-8C9E-97B1BE08C2FB"><gtr:id>734CD57E-4169-43E0-8C9E-97B1BE08C2FB</gtr:id><gtr:firstName>Christopher</gtr:firstName><gtr:surname>Clark</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720343"><gtr:id>83265D51-B146-4F0B-AF74-7DE895187611</gtr:id><gtr:title>Logical Glue Prototype Development</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720343</gtr:grantReference><gtr:abstractText>Prototype Development for a predictive analytics modelling platform that is easy to use to and
+to interpret.
+Predictive models have wide application in industry, ranging from credit scorecards for all
+types of customer lending to predicting customer behaviour and profiling, to manufacturing
+and life sciences.
+Fuelled by the massive growth in online data, organisations have more access to data than
+ever. It is also becoming much easier to store and maintain large amounts of data. Hence,
+more organisations in all industries are moving towards generating models that are trying to
+predict the future by looking at the past.
+Many organisations around the world, particularly in financial services, still use statistical
+regression models which capture only information that can be refined into mathematical
+models to generate two outputs (0/1).
+However, statistical regression techniques can only go so far in predicting the likelihood of an
+event happening or not happening, as well as generating models which are very difficult for
+the lay person to understand.
+Furthermore, these existing commercial models are typically difficult to create and interpret,
+since they rely on &amp;quot;data scientists&amp;quot; to do so - typically experts in math, computational
+intelligence and highly trained statisticians.
+We see great demand for the for companies who know their own data to create high accuracy
+transparent predictive models themselves, without having to rely on data scientists.
+Likewise, they would like to be able to interpret the output from the models easily, in a way
+that can be explained internally, as well as to customers and to regulators if required.
+The grant will be for a prototype which:
+a) Creates an intuitive, easy to use software platform to create and deploy accurate models for
+computational intelligence, making the process clear for the domain expert, without relying on
+a modeling expert.
+b) Provides easy to understand output and language based reasons for each decision</gtr:abstractText><gtr:fund><gtr:end>2014-06-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2013-09-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>222234</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720343</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/929B1EF0-7686-456A-8318-1B529113EC65"><gtr:id>929B1EF0-7686-456A-8318-1B529113EC65</gtr:id><gtr:name>Genefirst Limited</gtr:name><gtr:address><gtr:line1>BUILDING E5 , CULHAM SCIENCE CENTRE</gtr:line1><gtr:city>ABINGDON</gtr:city><gtr:postCode>OX14 3DB</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/929B1EF0-7686-456A-8318-1B529113EC65" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>929B1EF0-7686-456A-8318-1B529113EC65</gtr:id><gtr:name>Genefirst Limited</gtr:name><gtr:address><gtr:line1>BUILDING E5 , CULHAM SCIENCE CENTRE</gtr:line1><gtr:city>ABINGDON</gtr:city><gtr:postCode>OX14 3DB</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>21000.0</gtr:offerGrant><gtr:projectCost>30000.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/A2F49CFF-A7E6-4CFC-BBBD-1A371A0E0630"><gtr:id>A2F49CFF-A7E6-4CFC-BBBD-1A371A0E0630</gtr:id><gtr:firstName>George</gtr:firstName><gtr:surname>Sakellariou</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=132578"><gtr:id>5F16E674-5F0A-442F-9D28-B5D32D3CAF35</gtr:id><gtr:title>Application of improved Next Generation Sequencing technology to identfy somatic mutations in circulating cell-free tumour DNA in blood.</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Feasibility Studies</gtr:grantCategory><gtr:grantReference>132578</gtr:grantReference><gtr:abstractText>Gene mutations have been validated as powerful predictive biomarkers in the management of various
+
+cancers; testing for these mutations is currently standard to personalise treatment decisions. It has been
+
+well documented that a broad spectrum of cancers release circulating cell-free tumour DNA (ctDNA) into
+
+peripheral blood. There has been growing interest in use of ctDNA as a non-invasive biomarker to detect
+
+the presence of malignancy, gauge prognosis, follow treatment response or monitor for recurrence. Next
+
+Generation Sequencing (NGS) has revolutionised genomic exploration and is driving the implementation
+
+of precision diagnostics. However, the sensitivity and accuracy of current NGS methods are limited which
+
+is a fundamental limitation particularly when aiming to identify rare mutants in heterogeneous mixtures,
+
+such as plasma ctDNA. To overcome these limitations, GeneFirst has developed an improved NGS
+
+technology with increased sensitivity and accuracy for the detection of multiple mutations; this makes it
+
+suitable for detecting ultra-rare cancer gene mutations in circulating cell-free tumour DNA in blood.</gtr:abstractText><gtr:fund><gtr:end>2017-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2017-01-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>21000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">132578</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

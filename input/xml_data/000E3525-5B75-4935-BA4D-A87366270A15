@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/D21CE261-84AA-43BA-9CF8-F938939B423F"><gtr:id>D21CE261-84AA-43BA-9CF8-F938939B423F</gtr:id><gtr:name>Mid-UK Recycling Limited</gtr:name><gtr:address><gtr:line1>SUMMIT HOUSE , QUARRINGTON</gtr:line1><gtr:city>SLEAFORD</gtr:city><gtr:postCode>NG34 8RS</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/D21CE261-84AA-43BA-9CF8-F938939B423F" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>D21CE261-84AA-43BA-9CF8-F938939B423F</gtr:id><gtr:name>Mid-UK Recycling Limited</gtr:name><gtr:address><gtr:line1>SUMMIT HOUSE , QUARRINGTON</gtr:line1><gtr:city>SLEAFORD</gtr:city><gtr:postCode>NG34 8RS</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>99996.0</gtr:offerGrant><gtr:projectCost>203037.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/60E5BA14-20C1-47F5-9F08-C6919D7AA2BE"><gtr:id>60E5BA14-20C1-47F5-9F08-C6919D7AA2BE</gtr:id><gtr:firstName>Ruth</gtr:firstName><gtr:surname>Cullen</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710324"><gtr:id>000E3525-5B75-4935-BA4D-A87366270A15</gtr:id><gtr:title>ECO-ZORB</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710324</gtr:grantReference><gtr:abstractText>The Eco-Zorb Proof of Concept Project intends to investigate whether it is feasible to
+agglomerate recovered plasterboard to enable it to be used in animal husbandry as an
+absorbent product inside buildings.
+There are two main technical challenges:?
+- the production of an open structured agglomerate with low bulk density/high porosity/high
+absorbtivity from smaller particles of recycled plasterboard (a material that readily compacts),
+and
+- the incorporation of active ingredients into the agglomerate without the loss of their
+functionality, ( the proposed process includes a drying stage)
+The ingredients could include bacteria so the agglomerate could be used in the dairy industry
+without generating excessive Hydrogen Sulphide, (H2S, a potential poisonous gas), or
+antibacterial
+agents so it could be used in the poultry industry to replace materials such as sawdust that
+have a high risk of disease.
+Currently much of the estimated 1 million tonnes of plasterboard waste from the building
+industry ends up in landfill which is against the Government?s stated environmental
+objectives. The potential for generation of H2S by anaerobic bacteria restricts the number of
+landfill sites that
+can be used.
+Mid-UK has pioneered the re-use of plasterboard waste, but the extension of its
+technology into other areas has been halted by problems with the generation of H2S which
+has led to the Environment Agency prohibiting its use in the livestock industry.
+A successful Proof of Concept Project would eventually lead to the use of recovered
+plasterboard in animal husbandry thereby generating a material ideally suitable for use as a
+fertiliser. It would substantially reduce the amount of material placed in landfill as well as
+making significant improvements to animal healthcare.
+This Project will involve working with Nottingham and Reading Universities, plus the
+Environment Agency.</gtr:abstractText><gtr:fund><gtr:end>2014-06-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2013-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>99996</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710324</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

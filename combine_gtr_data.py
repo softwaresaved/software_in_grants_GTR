@@ -1,26 +1,26 @@
 #!/usr/bin/env python
 # encoding: utf-8
 
+import os
+import math
+import time
+import tarfile
+import logging
+import urllib.request
+import xml.etree
+from xml.etree import cElementTree as et
+
 import pandas as pd
 from pandas import ExcelWriter
-import numpy as np
-import csv
-import math
-import urllib.request
-from xml.etree import cElementTree as et
-import xml.etree
-import time
-import logging
 
-DATASTORE = './data/'
-DATAFILENAME = 'gtrdata-clean-20180419.csv'
-LOGGERLOCATION = "./log_combine_gtr_data.log"
+from config import (INPUTOUTPUT_PROCESSFILES, COM_INPUTDIR, COM_INPUTXMLDIR,
+                    COM_XMLNAMESPACE, COM_OUTPUTDIR, COM_LOGFILE)
 
 
 # Set up logging
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
-handler = logging.FileHandler(LOGGERLOCATION)
+handler = logging.FileHandler(COM_LOGFILE)
 handler.setLevel(logging.INFO)
 # create a logging format
 formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
@@ -29,42 +29,42 @@ handler.setFormatter(formatter)
 logger.addHandler(handler)
 
 
-def import_csv_to_df(filename):
-    """
-    Imports a csv file into a Pandas dataframe
+def import_csv_to_df(filepath):
+    """Imports a csv file into a Pandas dataframe.
+
     :params: an xls file and a sheetname from that file
     :return: a df
     """
+    return pd.read_csv(filepath)
 
-    return pd.read_csv(filename)
 
+def export_to_csv(df, filepath):
+    """Exports a df to a csv file and a tar-gzipped csv file.
 
-def export_to_csv(df, location, filename):
-    """
-    Exports a df to a csv file
     :params: a df and a location in which to save it
     :return: nothing, saves a csv
     """
+    df.to_csv(filepath)
 
-    return df.to_csv(location + filename + '.csv')
+    # Remove file extension then add it to a tar-gzipped file
+    tar_filepath = os.path.splitext(filepath)[0]
+    with tarfile.open(tar_filepath + '.tar.gz', 'w:gz') as targz:
+        targz.add(filepath)
 
 
-def prepare_df(df):
+def clean_input_data(df):
+    """Clean GtR input CSV file.
 
-    # Use the project ID as the index
+       Set the index to the unique project ID and make column headers lowercase.
+    """
     df.set_index('ProjectId', inplace=True)
-
-    # Make column headers lowercase
     df.columns = [x.lower() for x in df.columns]
 
     return df
 
 
 def drop_non_grants(df):
-    """ Only want 'Research Grant' categories in the data, so this drops everything but
-        them from the dataframe
-    """
-
+    """Drop all non-'Research Grant' category entries in the data."""
     logger.info('Imported df includes ' + str(len(df)) + ' records')
 
     df = df[df['projectcategory'] == 'Research Grant']
@@ -74,18 +74,11 @@ def drop_non_grants(df):
     return df
 
 
-def populate_dataframe(df):
+def combine_gtr_abstracts(df):
+    """Combine GtR summary data and XML file data.
 
+       Combine the project title and abstract data from XML files for each row in the GtR summary data.
     """
-    Grab data from XML files and combine it with the gtr summary data
-    """
-
-    # Define where XML data is stored and the namespace it uses
-    FILE_PATH = 'file:///Users/user/Projects/SSI/software_in_grants_GTR/data/xml_data/'
-    #XML_NAMESPACE = 'http://gtr.rcuk.ac.uk/api'
-    XML_NAMESPACE = 'http://gtr.ukri.org/api'
-
-
     def retrieve_xml_from_url(filename):
         """
         This was copied from Steve Crouch's training set collector repo:
@@ -99,7 +92,8 @@ def populate_dataframe(df):
 
         try:
             # Get XML from file
-            xml_str = urllib.request.urlopen(filename).read()
+            url_filepath = 'file://' + os.path.dirname(os.path.realpath(__file__))
+            xml_str = urllib.request.urlopen(url_filepath + '/' + filename).read()
 
             # Some returned xml contains unicode, so need to ensure it's ascii
             xml_str = xml_str.decode('utf8').encode('ascii', 'replace')
@@ -113,62 +107,59 @@ def populate_dataframe(df):
 
         return xml_root
 
-
     # Go through each project, get the corresponding XML file and
     # add the relevant abstract from the XML to the dataframe
     for curr_project in df.index.astype(str):
         # It takes some time, so it's useful to have this outputted
         # just to see that the program is still working
-        print(curr_project)
-        xml_doc = FILE_PATH + curr_project
+        xml_doc = os.path.join(COM_INPUTXMLDIR, curr_project)
         xml_root = retrieve_xml_from_url(xml_doc)
         # The .text is needed to extract the text from the XML element rather than just getting some
         # nonsense summary data
         if xml_root:
-            df.loc[curr_project, 'abstract'] = xml_root.find('./gtr:projectComposition/gtr:project/gtr:abstractText', {'gtr': XML_NAMESPACE}).text
+            df.loc[curr_project, 'abstract'] = xml_root.find('./gtr:projectComposition/gtr:project/gtr:abstractText', {'gtr': COM_XMLNAMESPACE}).text
         else:
             df.loc[curr_project, 'abstract'] = ''
 
     return df
 
 
-def kill_the_spare(df):
+def remove_null_entries(df):
+    """Remove any grants that do not have an abstract or title to search.
 
-    # Remove any grants that do not have a title or abstract to search
-    # These are the ones with "N/A" in the appropriate field
+       Drop those grant entries with "N/A" or "N/A" in the abstract and title fields.
+    """
+    df = df[df['title'] != 'N/A']
+    df = df[df['title'] != 'NA']
 
-    df = df[df['abstract']!='N/A']
-    df = df[df['abstract']!='NA']
+    df = df[df['abstract'] != 'N/A']
+    df = df[df['abstract'] != 'NA']
 
     logger.info('After removing blank titles or abstracts, the df has ' + str(len(df)) + ' records')
 
     return(df)
 
 def main():
-    # TODO: run this across multiple sets of data to process, e.g.
-    #       all grants data from GtR, or just a subset
-
     start_time = time.time()
 
-    # Get GTR summary data
-    logger.info('Importing data...')
-    df = import_csv_to_df(DATASTORE + DATAFILENAME)
+    # Cycle through each input GtR summary CSV file and add in abstracts
+    # for each project, extracting from the XML project data
+    for input_dataset, output_dataset in INPUTOUTPUT_PROCESSFILES:
+        logger.info('Importing data ' + input_dataset + '...')
 
-    df = prepare_df(df)
+        # Import and clean our input dataset
+        input_filepath = os.path.join(COM_INPUTDIR, input_dataset)
+        df = import_csv_to_df(input_filepath)
+        df = clean_input_data(df)
 
-    # Remove anything that isn't a grant
-    # TODO: verify we don't need this - this search is done
-    #       at an earlier stage during download
-    #df = drop_non_grants(df)
+        df = combine_gtr_abstracts(df)
+        df = remove_null_entries(df)
 
-    df = populate_dataframe(df)
+        output_filepath = os.path.join(COM_OUTPUTDIR, output_dataset)
+        export_to_csv(df, output_filepath)
 
-    df = kill_the_spare(df)
-
-    export_to_csv(df, DATASTORE, 'gtr_data_titles_and_abs-all')
-
+    # Display script run time and exit
     execution_time = (time.time() - start_time)/60
-
     logger.info('The program took ' + str(execution_time) + ' minutes to complete')
 
 

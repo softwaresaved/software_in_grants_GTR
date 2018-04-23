@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations><gtr:collaborator url="http://gtr.ukri.org:80/organisation/34B592D8-8E45-460B-9D74-B9BF91C832C9"><gtr:id>34B592D8-8E45-460B-9D74-B9BF91C832C9</gtr:id><gtr:name>OCAD University (Ontario College of Art and Design)</gtr:name></gtr:collaborator></gtr:collaborations><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/D60C85C3-0343-430E-81C7-B04058A4B1DF"><gtr:id>D60C85C3-0343-430E-81C7-B04058A4B1DF</gtr:id><gtr:name>Coventry University</gtr:name><gtr:department>Art and Design</gtr:department><gtr:address><gtr:line1>Priory Street</gtr:line1><gtr:postCode>CV1 5FB</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/D60C85C3-0343-430E-81C7-B04058A4B1DF"><gtr:id>D60C85C3-0343-430E-81C7-B04058A4B1DF</gtr:id><gtr:name>Coventry University</gtr:name><gtr:address><gtr:line1>Priory Street</gtr:line1><gtr:postCode>CV1 5FB</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/34B592D8-8E45-460B-9D74-B9BF91C832C9"><gtr:id>34B592D8-8E45-460B-9D74-B9BF91C832C9</gtr:id><gtr:name>OCAD University (Ontario College of Art and Design)</gtr:name><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/3E18DACB-05AA-4C71-88FB-C909A8311BB5"><gtr:id>3E18DACB-05AA-4C71-88FB-C909A8311BB5</gtr:id><gtr:name>Birkbeck College</gtr:name><gtr:address><gtr:line1>Malet Street</gtr:line1><gtr:line4>London</gtr:line4><gtr:postCode>WC1E 7HX</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/9820DB25-93F6-4C41-9FCC-08911313490E"><gtr:id>9820DB25-93F6-4C41-9FCC-08911313490E</gtr:id><gtr:name>University of Wales, Newport</gtr:name><gtr:address><gtr:line1>Allt-Yr-Yn Campus</gtr:line1><gtr:line2>PO Box 180</gtr:line2><gtr:line4>Newport</gtr:line4><gtr:line5>Gwent</gtr:line5><gtr:postCode>NP20 5XR</gtr:postCode><gtr:region>Wales</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/9CFC373D-7D7F-452D-A97A-709C42ABAFA7"><gtr:id>9CFC373D-7D7F-452D-A97A-709C42ABAFA7</gtr:id><gtr:name>Thinktank Birmingham Science Museum</gtr:name><gtr:address><gtr:line1>Millennium Point</gtr:line1><gtr:line2>Curzon Street</gtr:line2><gtr:line4>Birmingham</gtr:line4><gtr:postCode>B4 7XG</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/46387D84-F71E-4B7D-8C7D-9C288F113510"><gtr:id>46387D84-F71E-4B7D-8C7D-9C288F113510</gtr:id><gtr:name>Imperial College London</gtr:name><gtr:address><gtr:line1>South Kensington Campus</gtr:line1><gtr:line2>Exhibition Road</gtr:line2><gtr:line4>London</gtr:line4><gtr:postCode>SW7 2AZ</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/134798B1-035D-4F65-83E0-6141AD40161A"><gtr:id>134798B1-035D-4F65-83E0-6141AD40161A</gtr:id><gtr:name>MOTEK Entertainment</gtr:name><gtr:address><gtr:line1>Nieuwe Hemweg 6</gtr:line1><gtr:region>Outside UK</gtr:region><gtr:country>Netherlands</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/4E28CE03-CD06-48FB-A547-92BE0D14CB63"><gtr:id>4E28CE03-CD06-48FB-A547-92BE0D14CB63</gtr:id><gtr:name>ArtsDepot</gtr:name><gtr:address><gtr:line1>5 Nether Street</gtr:line1><gtr:line2>Tally Ho Corner</gtr:line2><gtr:line3>North Finchley</gtr:line3><gtr:postCode>N12 0GA</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/FC849EF8-3E92-42B2-8C5F-40FFDA3230F9"><gtr:id>FC849EF8-3E92-42B2-8C5F-40FFDA3230F9</gtr:id><gtr:name>Animazoo UK</gtr:name><gtr:address><gtr:line1>Quayside Offices</gtr:line1><gtr:line2>Basin Road South</gtr:line2><gtr:postCode>BN41 1WF</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/A9B1866C-EE3E-4D81-A83C-118745E9433E"><gtr:id>A9B1866C-EE3E-4D81-A83C-118745E9433E</gtr:id><gtr:name>Goldsmiths College</gtr:name><gtr:address><gtr:line1>Lewisham Way</gtr:line1><gtr:line2>New Cross</gtr:line2><gtr:line4>London</gtr:line4><gtr:postCode>SE14 6NW</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/7801F008-7C77-45E7-90E9-4345B47D138E"><gtr:id>7801F008-7C77-45E7-90E9-4345B47D138E</gtr:id><gtr:name>University of Plymouth</gtr:name><gtr:address><gtr:line1>Drake Circus</gtr:line1><gtr:line4>Plymouth</gtr:line4><gtr:line5>Devon</gtr:line5><gtr:postCode>PL4 8AA</gtr:postCode><gtr:region>South West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/EE39E8DE-E7ED-48BF-81C1-CC452B357F58"><gtr:id>EE39E8DE-E7ED-48BF-81C1-CC452B357F58</gtr:id><gtr:firstName>Ruth</gtr:firstName><gtr:otherNames>Elizbeth</gtr:otherNames><gtr:surname>Gibson</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=AH%2FH03319X%2F1"><gtr:id>792673D0-DCF1-4EF2-B59B-66E2DB0F780B</gtr:id><gtr:title>Capturing Stillness: visualisations of dance through motion capture</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Fellowship</gtr:grantCategory><gtr:grantReference>AH/H03319X/1</gtr:grantReference><gtr:abstractText>This project aims to bring together motion capture technology with established movement practices which cultivate attention on bodily awareness, and in particular Skinner Releasing Technique (SRT), to explore how sensorial awareness can be captured and what visualisations might emerge. SRT is a pioneering approach to dance which has evolved from the simple principle that when we are letting go of habitual holding patterns we can move more freely, articulately and powerfully. Joan Skinner, the American choreographer, dance improvisation pioneer and former dancer with the Martha Graham and Merce Cunningham companies, created the technique from early experiments in the 1960s. SRT utilizes image-guided floorwork to ease tension and promote an effortless kind of moving, integrated with alignment of the whole self. Tactile exercises (partner 'graphics') are used to give the imagery immediate kinaesthetic effect: spontaneous movement is evoked by imagery and guided movement studies. Motion capture is a generic name for the techniques which obtain motion data from human performers for a wide range of applications including biomechanics, sports science, ergonomics, advertising, TV and 3D computer games. Regarded as a significant component of the film and games industries, motion capture is also incorporated into arts events but it demands a level of expertise to use it effectively that is not readily achieved by artists.\n\nThe project will explore how the methods and principles which characterise the practice of SRT and related practices can 'translate' to the production of visualisations for virtual environments, to shed light on contemporary ideas of interface design and display methods, and to understand more about SRT as a movement discipline. The aim is to enhance the interaction experience for audiences to produce new art experiences which are intellectually and socially engaging and can, through a re-engagement with the complexity of the moving body, generate new understandings about our relationship with our own body within the world. The project is therefore unique in that it will map a specific dance practice, embed this mapping within a game engine and test a variety of avatar visualisations in real time allowing audiences to interact and be directly involved in the process. Finally this interaction will be augmented by using these findings to immerse the player/performer into the action to create new performance spaces and experiences.\n</gtr:abstractText><gtr:potentialImpactText>The project will benefit a wide range of external users, organisations and industry experts. It builds on longstanding relationships with companies, venues, organisations, arts professionals and science experts: it is a particular strength of the proposal that it is actively supported by technology companies in the commercial private sector, as well as by arts organisations and HEIs. The project will develop these relationships; it will contribute to industry knowhow and profitability and enhance cultural and educational organisations' own public engagement and learning activities; and it is likely also to be of value to engineering, biomechanical and biomedical science. The project's outputs will thus have economic, social, cultural and educational impact in the UK and overseas, both within and beyond the academic community. \n Arts/museums and industry/technology partners have a stake - cultural, financial - in ensuring wide public take-up of the project's deliverables, whether through participation in the artistic work or by use/purchase of the technological applications. HEI partners, whose interest in immersive and 3D technologies ranges from visual/media/performing arts to games to biosurgery, also have an interest in testing and trialling research outputs with wider constituencies in their own fields. \n The project's cultural, social and educational impact will be delivered through a range of public events. With administrative and marketing support from Coventry University's Institute for Creative Enterprise (ICE) and the University's communications team, the project leader will work in close partnership with UK-based and international venues, individuals and organisations who will exhibit/show work in progress and completed work. Public engagement will be via the exhibition/installation/show itself and via associated events, planned with host organisations in response to their own outreach requirements and including talks, demonstrations and workshops which will give audiences 'hands on' experience of the new technologies. The work in the Dome/Planetarium, in particular, will attract audiences interested in 3D technologies who will encounter and experience dance in different ways, experience interactive art and provide the project with valuable information about user engagement in new environments. Materials generated through the project, particularly those relating to teaching ideas and software developments, will be disseminated as widely as possible in accessible and attractive ways to reach wide audiences.\n The technological, economic and educational impact of the project will be through knowledge exchange with partners who have committed resources (expert advice, equipment) to the research programme. Via seminars, workshops, conferences and publications the project will provide outputs to academic researchers across the cited disciplines. These outputs will also have considerable value for training providers, in both the formal education and the commercial sectors, which use animation, performance, programming and 3D immersive technologies. Importantly, the research will support the commercial partners' development of wider uses for data capture technologies and muscle-modelling software, for entertainment, gaming, medical and other applications; and will enable market expansion both in the UK and overseas. The project leader, supported by the University's Business Development Team, will explore both commercial and non-commercial exploitation opportunities in collaboration with partners and other Coventry University faculties and institutes including the Serious Games Institute and the Health Design Technology Institute.\n</gtr:potentialImpactText><gtr:fund><gtr:end>2013-05-17</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/1291772D-DFCE-493A-AEE7-24F7EEAFE0E9"><gtr:id>1291772D-DFCE-493A-AEE7-24F7EEAFE0E9</gtr:id><gtr:name>AHRC</gtr:name></gtr:funder><gtr:start>2010-05-18</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>296050</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs><gtr:artisticAndCreativeProductOutput><gtr:description>Model Gardeners present a series of new works that subtly place the viewer in a somewhat neurotic state of calm. Gibson/Martelli refine motion within the manipulated moving image to alter our perceptions, building on the idea that movement can solicit sensory awareness. The artists work with video game engines &amp;amp; performance animation to create unique landscape environments.</gtr:description><gtr:id>7AC6A5F2-EDBA-4A8C-A275-B4FD94A3A80B</gtr:id><gtr:impact>Exhibitions:
+2011 Model Gardeners Gallery, London</gtr:impact><gtr:outcomeId>m-1526720702.2073872a7172afc</gtr:outcomeId><gtr:title>MESSENGER</gtr:title><gtr:type>Artistic/Creative Exhibition</gtr:type><gtr:url>http://gibsonmartelli.com/Messenger.html</gtr:url><gtr:yearFirstProvided>2011</gtr:yearFirstProvided></gtr:artisticAndCreativeProductOutput><gtr:artisticAndCreativeProductOutput><gtr:description>Inspired by the artists' travels to the snow-driven mountains of the Canadian Rockies VISITOR was developed following research at The Banff Arts Centre.Vermilion Lake comprises a full-scale replica of a trappers cabin housing an interactive virtual environment. A companion moving image piece, where the bears are sleeping, depicts monochromatic imagery of glaciers, forests and frozen lakes. In both works, either a friendly or malevolent force is suggested, evoking the hunter being hunted, the tracker being tracked. Employing techniques used in video games, bringing exterior virtual space into the physical gallery space the exhibition plays with our apprehension of different forms of reality.
+
+'The worlds they create are total simulacrums: there is no separation between the invented &amp;amp; the real, the site &amp;amp; the represented, the local &amp;amp; the imagined. It is a territory that is cohesive &amp;amp; singular in language, yet simultaneously is forever folding in on itself. Their work engages the particular of the site while undermining its place, the original &amp;amp; point of departure become one in a conceptual unravelling.'
+
+Richard Ducker - Curator, Fieldgate Gallery 2010</gtr:description><gtr:id>CEAEFA53-6DF8-4530-B5A7-1F00E9C865B7</gtr:id><gtr:impact>Exhibitions
+2012 Towner Art Gallery, Eastbourne 
+2011 Aberystwyth Art Centre, Wales 
+2011 James Taylor Gallery, London 
+2011 Djanogly Gallery, Lakeside Arts, Nottingham
+2011 Apthorp Gallery, artsdepot, London</gtr:impact><gtr:outcomeId>m-9803377836.759554a71746d6</gtr:outcomeId><gtr:title>VISITOR</gtr:title><gtr:type>Artistic/Creative Exhibition</gtr:type><gtr:url>http://gibsonmartelli.com/Visitor.html</gtr:url><gtr:yearFirstProvided>2011</gtr:yearFirstProvided></gtr:artisticAndCreativeProductOutput></gtr:artisticAndCreativeProductOutputs><gtr:collaborationOutputs><gtr:collaborationOutput><gtr:collaboratingOrganisation>OCAD University (Ontario College of Art and Design)</gtr:collaboratingOrganisation><gtr:country>Canada</gtr:country><gtr:description>Residency at OCADU Toronto Canada</gtr:description><gtr:id>0D25A19D-33B1-450A-AA85-42BEAB055606</gtr:id><gtr:outcomeId>b95981fcb959821a-1</gtr:outcomeId><gtr:piContribution>Digital Futures Initiatives Programme</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2013-01-01</gtr:start></gtr:collaborationOutput></gtr:collaborationOutputs><gtr:disseminationOutputs><gtr:disseminationOutput><gtr:description>Palais de Danse Salon I</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>Local</gtr:geographicReach><gtr:id>77C5F249-2DB8-4C20-A820-E0CF6429F6AB</gtr:id><gtr:impact>An evening of discussion and debate - a get together of experienced SRT dancers involved in the Capturing Stillness Project with conversation about recent projects, mocap viewing and relationship of visualisations of dance imagined and real.</gtr:impact><gtr:outcomeId>r-8701247962.844790c17cc68</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:year>2012</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>'kinosphir - she's lost control'</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>National</gtr:geographicReach><gtr:id>E65806F1-AA94-4B0C-904C-2E26C99D6238</gtr:id><gtr:impact>'as yet impossible' futurology lecture series Media City / Salford University</gtr:impact><gtr:outcomeId>r-8466447497.2211270cba44d4</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:year>2013</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Palais de Danse Salon II</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>8E4C1B4C-C67D-4F13-A372-A89E0C681397</gtr:id><gtr:impact>Capturing Stillness uses performance capture &amp;amp; computer game worlds to create transformative experiences derived from Skinner Releasing Technique and its poetics. For this presentation Ruth Gibson &amp;amp; Bruno Martelli will describe the project's background and context, commenting on their current artistic practice &amp;amp; their future residency at CAFKA/Christie Digital Systems in Canada - where they will be developing immersive stereo 3d environments with the aim of creating a kinaesthetic code.
+
+
+
+The event will be in the form of a drop-in Salon, opening up the projects advances in the motion capture studio - including a demonstration of MocApp - an AR iphone motion capture viewer app developed with Alex Woolner (SGI), Daniel Skolvi (motion.lab) &amp;amp; Melbourne based programmer Scott Ashton who has previously worked with media art pioneer Jeffrey Shaw.</gtr:impact><gtr:outcomeId>r-652908767.25028160cbf3c78</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Postgraduate students</gtr:primaryAudience><gtr:year>2013</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>'Figure &amp; Landscape'</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>D4E8A607-39B0-425D-A4B9-008C594514E2</gtr:id><gtr:impact>Public Talk at OCADU &amp;amp; University of Toronto, Canada
+
+April 1 2013
+
+AHRC Creative Fellowship Research &amp;amp; Past Exhibitions &amp;amp; Artistic / Academic Practice</gtr:impact><gtr:outcomeId>r-2316304913.0852380cc12ac4</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Undergraduate students</gtr:primaryAudience><gtr:year>2013</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Media Design, School New Zealand - Game Development</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>5E07E0B8-E37A-42FB-BC8E-DED406CB45DA</gtr:id><gtr:impact>Figure &amp;amp; Landscape' - game worlds talk to faculty</gtr:impact><gtr:outcomeId>r-9390468391.9534720cd96a26</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Industry/Business</gtr:primaryAudience><gtr:year>2012</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>University of Auckland, National Institute of Creative Arts, Speaking Performance Series</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>DE3FB495-6B2E-4853-8874-711D0E30B7B5</gtr:id><gtr:impact>'and the stillness is dancing' talk - AHRC research project</gtr:impact><gtr:outcomeId>r-3311614061.9959810cd963d2</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:year>2012</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>'kinosphir- she's lost control'</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>053C6D60-2B05-4530-9D6D-9EEFDC9702A1</gtr:id><gtr:impact>Computer Arts Society Lecture Series</gtr:impact><gtr:outcomeId>r-525176777.06217090cbcb87c</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:year>2013</gtr:year></gtr:disseminationOutput></gtr:disseminationOutputs><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs><gtr:impactSummaryOutput><gtr:description>Development of software and exhibitions</gtr:description><gtr:firstYearOfImpact>2012</gtr:firstYearOfImpact><gtr:id>A1DB3561-FF39-4927-8340-DF107E0CDD61</gtr:id><gtr:impactTypes><gtr:impactType>Cultural</gtr:impactType></gtr:impactTypes><gtr:outcomeId>56e153489e00c2.01363446</gtr:outcomeId><gtr:sector>Creative Economy,Digital/Communication/Information Technologies (including Software)</gtr:sector></gtr:impactSummaryOutput></gtr:impactSummaryOutputs><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>Output 1 : CAPTURING STILLNESS PROJECT 
+
+ 
+
+Title: 'Capturing stillness: Visualisations of dance through motion capture technologies'
+
+
+
+Year made publicly available: 2010 - 2013/14
+
+
+
+Type: Creative Fellowship AHRC
+
+
+
+Commissioning Body: Arts and Humanities Research Council AHRC three year Creative Fellowship at Coventry University. Dancers Career Development Award and Lisa Ullman Travelling Scholarship
+
+
+
+Output format : Artwork
+
+
+
+Authors/performers/Designers: Capturing stillness visualisations of dance through motion capture technologies
+
+
+
+Principle investigator -Ruth Gibson (UK)_Co-investigator - Bruno Martelli (UK)_Programmer James Tan (NZ)_Programmer Interface Dustin Freeman (CA)_Dancers Ruth Gibson, Gaby Agis(UK), Eszter Gal (HU), Bettina Neuhaus (DE), Kirsty Alexander (UK), Joe Moran (UK), Florence Peake (UK), Julie Nathanielsz (US), Nicola Gibbons (UK), Siobhan O'Neil (UK), Robert Davidson (US), Theresa Moriaty (US), Titta Court (FI), Polly Hudson (UK), Katye Coe (UK), Wendy Smith (AU), Sean Mcleod (AU)_Sound Artists: Kyle Duffield (CA) Adam Tindale (CA) David Jensenius (US)
+
+
+
+ FINDINGS &amp;amp; IMPACT
+
+
+
+Author(s) Ruth Gibson - with Bruno Martelli &amp;amp; igloo
+
+Output Title - Capturing Stillness_
+
+www.eskimoigloo.tumblr.com
+
+www.igloo.org.uk
+
+video links:_https://vimeo.com/57737615_https://vimeo.com/57737614_https://vimeo.com/57737613_https://vimeo.com/66895266
+
+
+
+Abstract 
+
+'Capturing Stillness: Visualisations of dance through motion capture technologies' is a three year AHRC fellowship which places a microscope on the dance practice Skinner Releasing Technique ( SRT) aligned with motion capture and game engine technologies to explore how motion capture technology can 'map' SRT and related practices to test out how notions of embodiment are 'read', visualised and transmitted; to understand the limits and possible expansion possibilities of motion capture technology. The research explores the impact of the work on understanding the core values and characteristics of somatic movement practices such as SRT.
+
+
+
+The research investigates how interactive virtual environments and avatar behaviour can unearth and expose awarenesses about stillness and first-person sensorial experience to increase kinaesthetic engagement. The development of new applications for motion capture investigate the user/viewer/ mover relationship in immersive environments to understand more about the moving and sensing body. 
+
+
+
+Significance, Rigour and Originality of the Output 
+
+'Capturing Stillness: Visualisations of dance through motion capture technologies' is highly original and the first study of it's kind to interrogate SRT dance practice in the field of motion capture and interactive virtual environments. Many exhibitions, conference contributions and various other events and public engagement activities make clear the outcomes as an important part of the research which are already having an impact across the sector and are likely to have considerable benefit to a wide range of practitioners and researchers, worldwide. A careful sensitive approach to the research together with effective methodologies have ensured that those involved in the research have been part of the discoveries through Gibson's novel approaches to dissemination.
+
+
+
+Invitations to share the research both in the UK and overseas is a significant achievement and endorses the importance of the research. Gibson has created links with motion.lab Deakin University Australia, University of Auckland New Zealand, University of Toronto and OCADU in Canada as well as being awarded a Christie Digital Systems and CAFKA award in Canada to undertake further research into CAVE environment development and VR intelligent systems. Closer to home between the ICELab, C-DaRE and the Serious Games Institute at Coventry University including external partners to extend research in dance and motion capture technologies and its application in arts and non-arts environments.
+
+
+
+Gibson's AHRC research has made a valuable contribution to research in this area and developed new insights and applications, which are likely to be of value to a wide range of artists,technologist and scholars, within the UK and internationally. Gibson has worked effectively to provide new insights to somatic practices, which provides new knowledge and a wide range of artistic outputs, all of which have proved to have impact on researchers and artists, technology providers and movement educators. Significant important practice -led research is having impact.
+
+
+
+Gibson received a best papers award in 2011 at the EVA Conference -Electronic Visualisation and the Arts British Computer Arts Society, London. She will be delivering her paper 'Gestalt Grace' at PSI- Performance Studies International, conference 19 at Stanford University.
+
+
+
+Research Laboratories:
+
+2010 Oct 4-6 Skinner Releasing Workshop Critical Path Choreographic Research and Development Centre, Sydney
+
+2010 October 7 &amp;amp; 8 Motion Capture Laboratory Leader with Garth Paine ( Vipre Research Lab) Critical Path with Frederic Bevilacqua ( IRCAM) &amp;amp; Holger Deuter.
+
+2010 October 12 &amp;amp; 13 Motion Capture Laboratory University Technology Sydney for animators and architecture/ building design students.
+
+
+
+http://vipre.uws.edu.au/
+
+http://modisti.com/n10/?p=3895
+
+http://sydney.edu.au/news/84.html?newsstoryid=5805
+
+
+
+Didactic Materials:
+
+Motion Capture - Vicon Nexus Quick Start Guide
+
+Vicon to Motionbuilder to UDK Mocap Quick Start Guide
+
+Unreal Development Kit Quick Start Guide
+
+Motion Analysis Cortex for Cleaning VICON Nexus Mocap Data
+
+
+
+Publications/Reviews/Interviews: 
+
+2011 December 'The poetics of motion capture and visualisation techniques: the differences between watching real and virtual dancing bodies' S.Whatley - D.Reynolds and M. Reason (eds) Kinesthetic Empathy in Creative and Cultural Practices - Intellect ISBN 9781841504919
+
+
+
+2011 July ' Capturing stillness: visualisations of dance through motion/performance capture' R. Gibson ( EVA Papers 2011) S. Keene, J.Bowen and K. Ng ( eds) ; ISBN 978-1-906124-88-5
+
+
+
+2011 Jan Lisa Ullmann Travelling Scholarship Fund Report _http://www.lutsf.org.uk/reports/RepRuthGibson.pdf
+
+
+
+2010 December - January 'mind, play empathy &amp;amp; machines' M. Rackman Real Time Arts issue 100 review of symposium proceedings _http://www.realtimearts.net/article/100/10110
+
+
+
+2011 December -DVD Conference proceedings SEAM University of Western Sydney University of Western Sydney
+
+
+
+
+
+Papers/Keynotes:
+
+Gibson - June 28 2013 ' Gestalt Grace' - 'Time out of Joint: Poetics of Motion Capture' PSi 19, Stanford University, USA paper/panel
+
+
+
+Gibson - 12 July 2013 ' spatial illusion - velocity perception: places that exist in reality, but may only be found in the imagination ', 'Attending to Movement: Somatic perspectives on Living in this World, Dance &amp;amp; Somatic Practices Conference Coventry University ( C-DaRE)
+
+
+
+Gibson - April 10 2013 - ' and the stillness is dancing' OCADU, Toronto, Canada public lecture
+
+
+
+Gibson - February 20 2013 'Hanging in the Balance' Balance Symposium Centre for Dance Research Coventry University
+
+
+
+Gibson - Jan 29 2013 'kinosphir - she's lost control'; 'as yet Impossible' futurology lecture series MediaCity /Salford University
+
+
+
+Gibson - Jan 21 2013 &amp;nbsp;'kinosphir - she's lost control' Diploma 6 Lecture; Architects Association, London
+
+
+
+Gibson - Jan 15 2013 'kinosphir - she's lost control';&amp;nbsp;Computer Arts Society Lectures, British Computer Society , London
+
+
+
+Gibson - February 28 2013 'unknown fields division' unit 23 UCL Bartlett School of Architecture
+
+
+
+Gibson - 15 August 2012 ' and the stillness is dancing' University of Auckland, National Institute of Creative Arts, NZ
+
+
+
+Gibson -15 August 2012 ' Figure &amp;amp; Landscape ' Media Design School; Game Development, Auckland; NZ
+
+
+
+Gibson 4 August 2012- Keynote : 'and the stillness is dancing' Dance research directions from a UK perspective - National Dance Research Forum, Ausdance held at Deakin University motion.Lab and Victoria College of the Arts , Melbourne, Australia.
+
+
+
+Gibson 4 February 2012 'VISITOR' Thursday group lecture series; Goldsmiths Digital Studios
+
+
+
+Gibson 4 February 2012 ' moving stillness' Public talk, Towner Gallery, Eastbourne
+
+
+
+Gibson 19 Sept 2011 ' Porous Borders: visualisations of dance through motion/performance capture', ISEA, Istanbul - panel member
+
+
+
+Gibson - Oct 2010 ' Figure &amp;amp; Landscape' presentation Critical Path, Choreographic Research and Development Centre, Sydney
+
+
+
+Gibson - Oct 12 2010 'igloo' University Technology, Sydney
+
+
+
+Gibson - Oct 15 2010 ' Capturing stillness: visualisations of dance through motion capture technologies' paper presentation at the Somatic Engagement, Agency and Mediation Symposium (SEAM) Seymour Centre, Sydney 
+
+
+
+Gibson - March 2011 'Porous Borders' C-DaRE Centre for Dance Research Coventry University
+
+
+
+Gibson - July 10 2011 'Porous Borders' Dance &amp;amp; Somatic Practices Conference Fostering Trans-Disciplinary Perspectives on Embodied Process and performance'
+
+
+
+
+
+External events to enable the work to have wider impact:
+
+
+
+Gibson - 26 July 2012 'Transmedia' Forum &amp;amp; Discussion Group, ( Garry Stewart) Australian Dance Theatre, Adelaide &amp;amp; Deakin University, Melbourne - panel member
+
+
+
+Gibson 1 - 14 April 'Digital Futures', OCADUniversity, Toronto, Canada
+
+
+
+Gibson 9 &amp;amp; 10 April 'Playing with igloo laboratory' Computer Science Department University of Toronto, Canada 
+
+
+
+
+
+Events convened and hosted:
+
+
+
+2013 February 21 'Palais de Danse Salon II' hosted at ICE in Coventry was organised by Gibson / Martelli, a drop in salon open to the public to describe the AHRC project's background and context, commenting on current artistic practices and future insights. The event opened up the projects advances in the motion capture studio - including a preview demonstration of MocApp - an AR iPhone motion capture viewer app.
+
+
+
+2012 December 1 'Palais de Danse Salon I', was held at igloo studios in London for the SRT dancers steering group, to review the Capturing Stillness&amp;nbsp;AHRC Project
+
+
+
+
+
+Output 2: VISITOR PROJECT
+
+
+
+Title: 'VISITOR' 
+
+'Vermilion Lake' - Computer installation with wooden cabin, customised boat
+
+'where the bears are sleeping' - Single channel video installation
+
+
+
+Year made publicly available: 2011 Premiere Apthorp Gallery artsdepot, London 13 January
+
+
+
+Type: 'VISITOR' - 'Vermilion Lake' &amp;amp; 'where the bears are sleeping' Artworks/Exhibition
+
+
+
+Commissioning Body: VISITOR is a touring exhibition in association with artsdepot and commissioned by the Henry Moore Foundation and Arts Council England supported by The Banff Centre, Canada and an Arts and Humanities Research Council AHRC three year Creative Fellowship at Coventry University.
+
+
+
+Output format : 'Vermilion Lake' 2011 installation: mixed media, computer game environment, 5.1 channel sound 
+
+'where the bears are sleeping' 2011: single channel HD video 42'looping, colour
+
+5 Exhibitions
+
+
+
+
+
+ Authors/performers/Designers: VISITOR Concept &amp;amp; design: Gibson / Martelli
+
+
+
+'Vermilion Lake' _2011_Computer installation with wooden cabin, customised boat _
+
+House: Greg Cox
+
+_Boat: Matty Bickerton, Sam Lanyon, Pat Bond_
+
+Sound: Adam Nash, Luke Pither_
+
+Programmer: James Tan_
+
+Physical &amp;amp; Virtual Design: Ruth Gibson &amp;amp; Bruno Martelli_
+
+Additional modeling: Helen Street, Alex Woolner_
+
+
+
+'where the bears are sleeping' _2011_Single channel video installation_
+
+Camera: Bruno Martelli_
+
+Performance: Ruth Gibson 
+
+_Colourist: John McMullin_
+
+Editors: Ruth Gibson and John McMullin
+
+
+
+
+
+
+
+
+
+
+
+
+
+FINDINGS &amp;amp; IMPACT
+
+
+
+Author(s) Ruth Gibson - with Bruno Martelli &amp;amp; igloo
+
+Output Title - VISITOR - Vermilion Lake &amp;amp; where the bears are sleeping_
+
+www.eskimoigloo.tumblr.com
+
+www.igloo.org.uk
+
+video links:_https://vimeo.com/27818895_https://vimeo.com/35317807_https://vimeo.com/35463715_https://vimeo.com/21943951_https://vimeo.com/23591863__
+
+
+
+Abstract
+
+'VISITOR' was inspired by Gibson &amp;amp; Martelli's travels to the snow-driven mountains of the Canadian Rockies and developed following research at The Banff Arts Centre in Canada. 'Vermilion Lake' comprises a full-scale replica of a trappers cabin housing an interactive virtual environment. A companion moving image piece, 'where the bears are sleeping', depicts monochromatic imagery of glaciers, forests and frozen lakes. In both works, either a friendly or malevolent force is suggested, evoking the hunter being hunted, the tracker being tracked. Employing techniques used in video games, bringing exterior virtual space into the physical gallery space the exhibition plays with our apprehension of different forms of reality.
+
+Gibson consistently challenges the boundaries as a leading artist and researcher working with interactive computer graphics in contemporary art. The VISITOR project is no exception and with Martelli and igloo she pioneers an immersive approach with high quality production values.
+
+
+
+Significance, Rigour and Originality of the Output 
+
+'VISITOR' involved a wide range of practice -based research in order to develop a new and experimental multi-media project for public presentation. The requirement to research and experiment in order to keep pace with new technological opportunities led the team to evolve creative, distinctive and highly disciplined models for collaboration with a wide range of professionals supporting research and production of new work. 'VISITOR' was developed through significant research into the liminal screen at the Banff New Media Institute in Canada. This opportunity led to new discoveries and professional development into CAVE, stereoscopic and Human Computer interfaces with a number of specialists and scholars in the field. The underlying principle for these collaborations was to develop and maintain contacts with growing developments in visual media. Through this approach a strong platform of international contacts, a broad catalogue of productions and a technical knowledge base in design, music, performance, software programming and engineering were achieved for mutual benefit. The aim of the project was to give viewers unique experiences, heightening perceptions and bringing the exterior virtual space into the interior physical space. This conceptual shift moved Gibson's practice forward from a performance background into the 3D world and video enabling exploration of avenues which would not have been possible conventionally, repositioning traditional artistic activities into the new spaces of games and virtual worlds.
+
+
+
+The VISITOR project received an Arts Council Grants for the Arts Award, a Henry Moore Foundation Commission and support from the Banff Arts Centre in Canada. 
+
+
+
+The project toured Nationally in association with artsdepot and with it workshops were delivered in Unreal game engine technology and motion capture technologies. Lectures, seminars and presentations included an array of methodological processes and technical approaches required to deliver such an ambitious transmedia project. Bringing together sound artists, engineers, computer programmers, a skilled team creating a novel Human Computer Interface, a boat with oars developed as an haptic device to engage with the work.
+
+ 
+
+'VISITOR' was presented to MP's at Westminster in November 2011 by Julie Lomax ( then Head of Visual Arts at Arts Council England) as an outstanding piece of work. Audience figures reached 35,000 visitors at 5 national venues.
+
+
+
+Exhibitions:_2012 Towner Art Gallery, Eastbourne _2011 Aberystwyth Art Centre, Wales _2011 James Taylor Gallery, London _2011 Djanogly Gallery, Lakeside Arts, Nottingham_2011 Apthorp Gallery, artsdepot, London
+
+
+
+Related Conferences/Symposia Chaired /Papers/Keynotes:
+
+
+
+Gibson March 2009 'Liminal Screen' Banff New Media Institute, Banff Centre, Canada
+
+
+
+Gibson 19 Sept 2011 ' Porous Borders: visualisations of dance through motion/performance capture', ISEA, Istanbul - panel member
+
+
+
+Gibson 4 February 2012 ' moving stillness' Public talk, Towner Gallery, Eastbourne
+
+
+
+Gibson 4 February 2012 'VISITOR' Thursday group lecture series; Goldsmiths Digital Studios
+
+
+
+Gibson 4 August 2012- Keynote : 'and the stillness is dancing' Dance research directions from a UK perspective - National Dance Research Forum, Ausdance held at Deakin University motion.Lab and Victoria College of the Arts , Melbourne, Australia.
+
+
+
+Gibson -15 August 2012 ' Figure &amp;amp; Landscape ' Media Design School; Game Development, Auckland; NZ
+
+
+
+Gibson - 15 August 2012 ' and the stillness is dancing' University of Auckland, National Institute of Creative Arts, NZ
+
+
+
+Gibson - February 28 2013 'unknown fields division' unit 23 UCL Bartlett School of Architecture
+
+
+
+Gibson - Jan 15 2013 'kinosphir - she's lost control';&amp;nbsp;Computer Arts Society Lectures, British Computer Society , London
+
+
+
+Gibson - Jan 21 2013 &amp;nbsp;'kinosphir - she's lost control' Diploma 6 Lecture; Architects Association, London
+
+
+
+Gibson - Jan 29 2013 'kinosphir - she's lost control'; 'as yet Impossible' futurology lecture series MediaCity /Salford University
+
+
+
+
+
+External events to enable the work to have wider impact:
+
+
+
+Gibson/ Martelli - 15 - 17 February 2012 'Only Connect' UDK workshop at Aberystwyth University and ARts Centre, Wales.
+
+
+
+
+
+Gibson - 26 July 2012 'Transmedia' Forum &amp;amp; Discussion Group, ( Garry Stewart) Australian Dance Theatre, Adelaide &amp;amp; Deakin University, Melbourne - panel member
+
+
+
+Gibson 1 - 14 April 'Digital Futures', OCADUniversity, Toronto, Canada
+
+
+
+Gibson 9 &amp;amp; 10 April 'Playing with igloo' Laboratory, Computer Science Department, University of Toronto, Canada 
+
+
+
+Publications/Interviews/Reviews:
+
+
+
+2011 March 12 'New Exhibitions' - R. Clark The Guardian review_ 
+
+
+
+http://www.guardian.co.uk/artanddesign/2011/mar/12/this-weeks-new-exhibitions_
+
+2012 'GameMasters The Exhibition' - 'New Voices: Independent Games', E. McRae ACMI Australian Centre for Moving Image. ISBN 9781742704661
+
+
+
+2013 -Video Games &amp;amp; Art' 2nd edition G. Mitchell &amp;amp; A. Clarke University of Chicago Press Intellect Books expected 15 Jun 2013 ISBN - 10: 184150419X, ISBN - 13: 978-184150419 
+
+
+
+
+
+
+
+_Output 3: MOCAPP
+
+
+
+Title: 'MocApp'
+
+www.igloo.org.uk/mocapp/
+
+Year made publicly available: 2013 launched March 14
+
+
+
+Type: iOS App for iPhone or iPad - piece of software. The App store
+
+
+
+Commissioning Body: igloo developers, Arts and Humanities Research Council AHRC three year Creative Fellowship at Coventry University &amp;amp; Deakin University motion.lab Australia's Discovery Project.
+
+
+
+Output format : iOS App for iPhone or iPad. Research project into the development of an app which allows you to view and sequence motion capture data in the .htr format. The app builds a simple stick figure from the joint structure of the take. MocApp was developed to allow easy viewing of mocap data without requiring users to have access to specialist software. Developed through Gibson's AHRC Creative Fellowship research project Capturing Stillness this a unique exploration of the interface between motion capture technologies and Skinner Releasing Technique SRT focusses on the poetic imagery cited in the pedagogy. 16 international dancers interpreted imagery to form new dance visualisations generated to create immersive artworks and enhance kinaesthetic experience
+
+
+
+
+
+Authors/performers/Designers: 'MocApp'
+
+
+
+Principle investigator -Ruth Gibson (UK)_Co-investigator - Bruno Martelli (UK)_Programmers Scott Ashton(Lost in the Machine), Alex Woolner(SGI), Daniel Skovli (NO)_Dancers: Ruth Gibson, Gaby Agis(UK), Eszter Gal (HU), Bettina Neuhaus (DE), Kirsty Alexander (UK), Joe Moran (UK), Florence Peake (UK), Julie Nathanielsz (US), Nicola Gibbons (UK), Siobhan O'Neil (UK), Robert Davidson (US), Theresa Moriaty (US), Titta Court (FI), Polly Hudson (UK), Katye Coe (UK), Wendy Smith (AU), Sean McLeod (AU)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FINDINGS AND IMPACT
+
+
+
+Author(s) Ruth Gibson - with Bruno Martelli &amp;amp; igloo
+
+Output Title - 'MocApp' iOs App (software development)_
+
+
+
+www.igloo.org.uk/mocapp
+
+www.igloo.org.uk__
+
+
+
+Abstract 
+
+'MocApp' allows you to view &amp;amp; sequence motion capture data in the .htr format. The app builds a simple stick figure from the joint structure of the take and was developed to allow easy viewing of mocap data without requiring users to have access to specialist software.__The motion capture app was developed through Gibson's AHRC Creative Fellowship at Coventry University School of Art &amp;amp; Design with the generous support of motion.lab, Deakin University, Australia. Her project Capturing Stillness: Visualisations of dance through motion capture is a unique exploration of the interface between motion capture technologies and Skinner Releasing Technique (SRT). Focussing on the poetic imagery cited in the pedagogy, dance interpretations are motion captured and new visualisations are generated from these to create immersive artworks with the view to enhance kinesthetic experience in 3D worlds. 
+
+Acquiring knowledge from the AHRC research and collaborating internally &amp;amp; externally has helped create both the App and the content. The software development brings together Ruth Gibson &amp;amp; 16 international SRT dancers, Bruno Martelli (Gibson/Martelli -igloo), Dr Alex Woolner (SGI), Daniel Skovli (motion.lab) &amp;amp; Melbourne based programmer Scott Ashton - who previously worked with media art pioneer Jeffrey Shaw
+
+._
+
+Significance, Rigour and Originality of the Output 
+
+MocApp was developed to incorporate new applications for motion capture into the investigation of user/viewer/mover relationships. Through these new applications Gibson extends her research into learning more about the moving and sensing body and with it exploring the interface between motion capture technology &amp;amp; movement practices opening up relationships between motion capture/movement tracking and the dancing body.
+
+Gibson co-ordinated a group of 16 SRT dance practitioners from seven different countries to be captured in the studio to create a library of 3D motion captures. Seven periods of motion capture laboratories have been undertaken in the UK and Australia.These dance performances have been compiled to make a unique movement database which provides content for the research. Spin offs included new methodologies for capturing and motion capture workshops.
+
+ 
+
+The enormous task of cleaning the data involved over 500 takes, approximately one minute each cumulated in over eight hours of material. This has been achieved by managing a small team of programmers. This process has involved Gibson co-ordinating the MocApp team and provisioning and managing the Appstore archaeology.
+
+
+
+Gibson decided to make a motion capture viewer as part of her research process, conceptualising the mocap viewer as an iOs app 'MocApp' to allow performance students, choreographers and animators to easily look at and sequence mocap data, without having to access specialised software or high end PC's. The app can be distributed through the AppStore, the intention is that mocap providers or animators can quickly put takes onto the internet and users with the app can quickly download and view the results - and use in the rehearsal, planning &amp;amp; editing processes. The app also has an Augmented Reality (AR) function which was designed so that performances can be evaluated as a life sized overlay to the real world. 
+
+
+
+The app has also been generalised in that the mocap file format which can be read is a general purpose and easy to create motion file format. 'MocApp' is a didactic tool which represents new IP and could be developed into a library &amp;amp; unique archive which may be a new business opportunity.
+
+
+
+Gibson hopes that in the future revenue from sales of the app could allow for further development. This creative, innovative tool and new approach may be of interest to the Serious Games Institute at Coventry University and a variety of Motion Capture Providers. At the Games Developers Conference in March 2013 Gibson was approached by Animatrik a Vancouver based film and design company to develop a bespoke tailor made version for their Virtual Production services and Performance Capture studios.
+
+
+
+Laboratories for Research:
+
+The first ( October 2010) at motion.lab Deakin University, Melbourne, Australia with dance researcher Professor Kim Vincs &amp;amp; Research Fellow John McCormick lasting one week. 
+
+
+
+The second were solo studies in the Bugatti Lab at Coventry University ( April 2011) lasting a week. 
+
+
+
+The third ( July 2011) in the Bugatti Lab at Coventry University with artist Bruno Martelli and fourteen experienced and veteran Skinner Release practitioners and teachers from six different countries Finland, United States, Czech Republic, Germany, Holland &amp;amp; UK. This research period was conducted over six weeks. 
+
+The fourth (October 2011) a two day workshop in the Bugatti Lab at Coventry University.
+
+ 
+
+The fifth ( March 2012) solo studies and a return to the Bugatti Lab at Coventry University. 
+
+
+
+The sixth ( June 2012) working with faculty of DeCoda and veteran releaser Robert Davidson for a week in the Bugatti Lab at Coventry University.
+
+ 
+
+The seventh ( July &amp;amp; August 2012) a return residency to motion.lab Deakin University, Australia with Daniel Skovli, Peter Divers &amp;amp; Bruno Martelli.
+
+
+
+Publications / Reviews:
+
+2013 March 21 Mario Barrios Solano reviews MocApp for Dance Tech TV_http://www.youtube.com/watch?v=QOIn44ak8WY
+
+
+
+
+
+Papers/Keynotes:
+
+Gibson - April 17 2013- presentation 'Figure &amp;amp; Landscape' Christie Digital Systems, Kitchener,Ontario, Canada.
+
+
+
+Gibson - April 10 2013 - public lecture ' and the stillness is dancing' OCADU, Toronto, Canada
+
+
+
+Gibson - February 20 2013 'Hanging in the Balance' Balance Symposium Centre for Dance Research Coventry University
+
+
+
+Gibson - Jan 29 2013 'kinosphir - she's lost control'; 'as yet Impossible' futurology lecture series MediaCity /Salford University
+
+
+
+Gibson - Jan 21 2013 &amp;nbsp;'kinosphir - she's lost control' Diploma 6 Lecture; Architects Association, London
+
+
+
+Gibson - Jan 15 2013 'kinosphir - she's lost control';&amp;nbsp;Computer Arts Society Lectures, British Computer Society , London
+
+
+
+Gibson - February 28 2013 'unknown fields division' unit 23 UCL Bartlett School of Architecture
+
+
+
+Gibson- 15 August 2012 ' and the stillness is dancing' University of Auckland, National Institute of Creative Arts, NZ
+
+
+
+Gibson -15 August 2012 ' Figure &amp;amp; Landscape ' Media Design School; Game Development, Auckland; NZ
+
+
+
+Gibson - 4 August 2012- Keynote : 'and the stillness is dancing' Dance research directions from a UK perspective - National Dance Research Forum, Ausdance held at Deakin University motion.Lab and Victoria College of the Arts , Melbourne, Australia.
+
+
+
+
+
+External events to enable the work to have wider impact:
+
+Gibson - 9 - 10 April 'playing with igloo laboratory' University of Toronto Computer Science Department
+
+
+
+Gibson - 26 July 2012 'Transmedia' Forum &amp;amp; Discussion Group, ( Garry Stewart) Australian Dance Theatre, Adelaide &amp;amp; Deakin University, Melbourne - panel member
+
+
+
+Gibson - 1 - 14 April 'Digital Futures', residency OCADUniversity, Toronto, Canada
+
+
+
+
+
+Events convened and hosted: 
+
+2013 March 14 MocApp official launch at igloo studios, London
+
+
+
+2013 February 21 'Palais de Danse Salon II' hosted at ICE in Coventry was organised by Gibson / Martelli, a drop in salon open to the public to describe the AHRC project's background and context, commenting on current artistic practices and future insights. The event opened up the projects advances in the motion capture studio - including a preview demonstration of MocApp - an AR iPhone motion capture viewer app.
+
+
+
+2012 December 1 'Palais de Danse Salon I', was held at igloo studios in London for the SRT dancers steering group, to review the Capturing Stillness&amp;nbsp;AHRC Project</gtr:description><gtr:exploitationPathways>Author(s) Ruth Gibson - with Bruno Martelli &amp;amp; igloo
+
+Output Title - 'MocApp' iOs App (software development)_
+
+http://gibsonmartelli.com/mocapp/index.html
+
+http://gibsonmartelli.com/
+
+
+
+Abstract 
+
+'MocApp' allows you to view &amp;amp; sequence motion capture data in the .htr format. The app builds a simple stick figure from the joint structure of the take and was developed to allow easy viewing of mocap data without requiring users to have access to specialist software.__The motion capture app was developed through Gibson's AHRC Creative Fellowship at Coventry University School of Art &amp;amp; Design with the generous support of motion.lab, Deakin University, Australia. Her project Capturing Stillness: Visualisations of dance through motion capture is a unique exploration of the interface between motion capture technologies and Skinner Releasing Technique (SRT). Focussing on the poetic imagery cited in the pedagogy, dance interpretations are motion captured and new visualisations are generated from these to create immersive artworks with the view to enhance kinesthetic experience in 3D worlds. 
+
+Acquiring knowledge from the AHRC research and collaborating internally &amp;amp; externally has helped create both the App and the content. The software development brings together Ruth Gibson &amp;amp; 16 international SRT dancers, Bruno Martelli (Gibson/Martelli -igloo), Dr Alex Woolner (SGI), Daniel Skovli (motion.lab) &amp;amp; Melbourne based programmer Scott Ashton - who previously worked with media art pioneer Jeffrey Shaw
+
+._
+
+Significance, Rigour and Originality of the Output 
+
+MocApp was developed to incorporate new applications for motion capture into the investigation of user/viewer/mover relationships. Through these new applications Gibson extends her research into learning more about the moving and sensing body and with it exploring the interface between motion capture technology &amp;amp; movement practices opening up relationships between motion capture/movement tracking and the dancing body.
+
+Gibson co-ordinated a group of 16 SRT dance practitioners from seven different countries to be captured in the studio to create a library of 3D motion captures. Seven periods of motion capture laboratories have been undertaken in the UK and Australia.These dance performances have been compiled to make a unique movement database which provides content for the research. Spin offs included new methodologies for capturing and motion capture workshops.
+
+ 
+
+The enormous task of cleaning the data involved over 500 takes, approximately one minute each cumulated in over eight hours of material. This has been achieved by managing a small team of programmers. This process has involved Gibson co-ordinating the MocApp team and provisioning and managing the Appstore archaeology.
+
+
+
+Gibson decided to make a motion capture viewer as part of her research process, conceptualising the mocap viewer as an iOs app 'MocApp' to allow performance students, choreographers and animators to easily look at and sequence mocap data, without having to access specialised software or high end PC's. The app can be distributed through the AppStore, the intention is that mocap providers or animators can quickly put takes onto the internet and users with the app can quickly download and view the results - and use in the rehearsal, planning &amp;amp; editing processes. The app also has an Augmented Reality (AR) function which was designed so that performances can be evaluated as a life sized overlay to the real world. 
+
+
+
+The app has also been generalised in that the mocap file format which can be read is a general purpose and easy to create motion file format. 'MocApp' is a didactic tool which represents new IP and could be developed into a library &amp;amp; unique archive which may be a new business opportunity.
+
+
+
+Gibson hopes that in the future revenue from sales of the app could allow for further development. This creative, innovative tool and new approach may be of interest to the Serious Games Institute at Coventry University and a variety of Motion Capture Providers. At the Games Developers Conference in March 2013 Gibson was approached by Animatrik a Vancouver based film and design company to develop a bespoke tailor made version for their Virtual Production services and Performance Capture studios.</gtr:exploitationPathways><gtr:id>3B326D62-42F0-49EE-93FC-EF0A7C965D79</gtr:id><gtr:outcomeId>r-2057974806.10942776018e8</gtr:outcomeId><gtr:sectors><gtr:sector>Creative Economy,Digital/Communication/Information Technologies (including Software),Education</gtr:sector></gtr:sectors><gtr:url>http://gibsonmartelli.tumblr.com/</gtr:url></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">AH/H03319X/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>7B8CDA14-FE2F-4F7C-BCD4-87F84927DAC0</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Dance</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>972C8509-5001-4523-9E10-7FA67E2F2E69</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Visual arts</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>FC2FB132-EBA5-4745-B339-CA9BD46FFD5C</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Dance Performance</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>8BB67751-1AD5-4EE8-9104-089D5F236DDB</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Digital Arts HTP</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

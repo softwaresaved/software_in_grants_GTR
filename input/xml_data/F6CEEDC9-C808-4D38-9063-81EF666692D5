@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/A922C1DD-0FA1-4F3D-994D-2A65F07EA20F"><gtr:id>A922C1DD-0FA1-4F3D-994D-2A65F07EA20F</gtr:id><gtr:name>Camfridge Limited</gtr:name><gtr:address><gtr:line1>Unit B1
+Copley Hill Business Park Cambridge Road , Babraham</gtr:line1><gtr:city>Cambridge</gtr:city><gtr:postCode>CB22 3GN</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/A922C1DD-0FA1-4F3D-994D-2A65F07EA20F" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>A922C1DD-0FA1-4F3D-994D-2A65F07EA20F</gtr:id><gtr:name>Camfridge Limited</gtr:name><gtr:address><gtr:line1>Unit B1
+Copley Hill Business Park Cambridge Road , Babraham</gtr:line1><gtr:city>Cambridge</gtr:city><gtr:postCode>CB22 3GN</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>90000.0</gtr:offerGrant><gtr:projectCost>151158.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/A4EC9F89-7BB1-47FF-8DAF-89A4B27332E9"><gtr:id>A4EC9F89-7BB1-47FF-8DAF-89A4B27332E9</gtr:id><gtr:firstName>Neil</gtr:firstName><gtr:surname>Wilson</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710049"><gtr:id>F6CEEDC9-C808-4D38-9063-81EF666692D5</gtr:id><gtr:title>Camfridge: Energy-efficient and gas-free cooling</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710049</gtr:grantReference><gtr:abstractText>Camfridge?s business objective is to enable the next generation of high-efficiency cooling
+appliances using novel technology based on magnets and magnetic materials. This technology
+has been developed at Camfridge and with our partners over the last 5 years.
+In both developed markets and developing countries energy usage is increasingly subject to
+intense regulatory scrutiny. In temperate climates cooling consumes 15% of all generated
+electricity, rising to 45% in hot climates. The domestic fridge consumes between 5% and 8%
+of all generated electricity. In fossil fuel based cars up to 10% of fuel consumption is
+associated with passenger cooling; indeed in electric vehicles this rises to 50% in extreme
+conditions (for either heating or cooling).
+New regulatory regimes are being structured to promote the development of energy efficient
+and gas free appliances. Camfridge technology will enable appliance manufacturers to comply
+cost-effectively with these increasingly stringent requirements.
+Magnetic cooling technology is sufficiently developed to enable the next generation of high
+efficiency domestic refrigerators helping our customers to meet the new A+++ standard in a
+cost effective manner. This project will develop concepts for the next generation of highly
+efficient AMR designs. By increasing cooling power, through increasing operating frequency,
+rather than increasing the amount of refrigerant, and thus maintaining cost, weight and size,
+Camfridge technology can meet the needs of higher power cooling applications massively
+expanding our market potential.
+The payoff from a successful project, coupled with Camfridge?s existing market and
+technology development, could have a significant impact in three key markets. In particular:
+? Electric Vehicles. Enable efficient heating and cooling in electric vehicles, extending the
+battery and thus operating range of these vehicles, key for their commercial success.
+? Conventional cars. Help conventional car manufacturers better comply with new automotive
+energy efficiency regulations that will require fuel efficiency to be measured with climate
+control turned on.
+? Commercial cooling. Help reduce refrigerant leakage and the energy efficiency of
+standalone appliances in the commercial sector (which is facing new regulations).
+The timeliness is ideal. The first generation EV market is not projected to significantly grow
+until 2015, the automotive energy efficiency regulation is expected from 2016, and the EU
+energy efficiency Directive (2010/30/EC), which is only now creating the A+++ domestic
+fridge category, will progressively extend energy efficiency requirements to the commercial
+sector over the next few years.
+The most interesting market, representing a new and high growth opportunity is climate
+control for electric vehicles.</gtr:abstractText><gtr:fund><gtr:end>2013-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2011-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>90000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710049</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

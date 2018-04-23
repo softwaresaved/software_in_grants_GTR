@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/9C1104A6-5E8C-496D-A7B4-C0C7DF772A1A"><gtr:id>9C1104A6-5E8C-496D-A7B4-C0C7DF772A1A</gtr:id><gtr:name>Body Aspect Ltd</gtr:name><gtr:address><gtr:line1>395 MANSFIELD ROAD , NOTTINGHAM</gtr:line1><gtr:postCode>NG5 2DL</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/9C1104A6-5E8C-496D-A7B4-C0C7DF772A1A" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>9C1104A6-5E8C-496D-A7B4-C0C7DF772A1A</gtr:id><gtr:name>Body Aspect Ltd</gtr:name><gtr:address><gtr:line1>395 MANSFIELD ROAD , NOTTINGHAM</gtr:line1><gtr:postCode>NG5 2DL</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>23982.0</gtr:offerGrant><gtr:projectCost>39970.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/1B39A738-1BD1-496E-946E-AD4A678A4BC0"><gtr:id>1B39A738-1BD1-496E-946E-AD4A678A4BC0</gtr:id><gtr:firstName>graham</gtr:firstName><gtr:surname>hutton</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700437"><gtr:id>D6EBA693-B220-4E0A-B9B2-7B69B51A825F</gtr:id><gtr:title>Body Aspect's 3D Body Image Assessment Tool</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700437</gtr:grantReference><gtr:abstractText>The project aims to investigate the market for Body Aspect?s 3D body scanning technology
+within the field of eating disorders.
+It is estimated that Eating disorders affect over 1.6 million people in the UK. Although the
+underlying causes can be complex, the classifications for anorexia nervosa and bulimia
+nervosa both incorporate the idea of self-image that is unduly influenced by body weight or
+shape. Existing methods of assessing body image issues include: patients sketching their
+perceived image on paper; manipulation of 2D photographs; and visual inspection of their
+body in a mirror.
+Our innovative software, which draws on an existing dataset of over two thousand body scans,
+enables a user to create realistic models of perceived and ideal images. Our unique 3D file
+representation means that the constructed 3D images can be easily compared with actual 3D
+body scans, facilitating the visualisation and quantification of body image distortion and body
+image dissatisfaction.
+During this project clinicians at three specialist clinics will be able to pilot the use of Body
+Aspect?s prototype 3D body scanning technology to assess how it might be might be used to
+identify, quantify and monitor body image issues. For the first time, patients will be able to
+create realistic 3D images of their perceived body and their ideal body and compare these
+against reality, as produced by a 3D body scan.
+We will consult clinicians, patients, and the families of patients who are affected by eating
+disorders, and we will organise focus groups to explore how the technology might be
+incorporated into a treatment plan.
+The results of our project will clarify the potential of our technology to provide significant
+healthcare and economic impact. It will enable us to formulate a concept regarding the exact
+nature of its role in treatment, hopefully leading to better early detection of eating disorders
+and a better method of classifying and monitoring body image issues.</gtr:abstractText><gtr:fund><gtr:end>2015-09-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2014-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>23982</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700437</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

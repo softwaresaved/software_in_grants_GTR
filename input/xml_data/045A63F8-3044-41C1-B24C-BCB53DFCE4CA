@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/60F54594-FE88-4A91-A8F6-E691C54AF2B5"><gtr:id>60F54594-FE88-4A91-A8F6-E691C54AF2B5</gtr:id><gtr:name>Big Solar Ltd</gtr:name><gtr:address><gtr:line1>Washington Business Centre</gtr:line1><gtr:line2>2 Turbine Way</gtr:line2><gtr:postCode>SR5 3NZ</gtr:postCode><gtr:region>North East</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/60F54594-FE88-4A91-A8F6-E691C54AF2B5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>60F54594-FE88-4A91-A8F6-E691C54AF2B5</gtr:id><gtr:name>Big Solar Ltd</gtr:name><gtr:address><gtr:line1>Washington Business Centre</gtr:line1><gtr:line2>2 Turbine Way</gtr:line2><gtr:postCode>SR5 3NZ</gtr:postCode><gtr:region>North East</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>101527.0</gtr:offerGrant><gtr:projectCost>145038.0</gtr:projectCost></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/89343D6F-4B46-48FD-9A2E-E10D81947619" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>89343D6F-4B46-48FD-9A2E-E10D81947619</gtr:id><gtr:name>Loughborough College Loughborough</gtr:name><gtr:address><gtr:line1>,</gtr:line1><gtr:region>East Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>52999.0</gtr:offerGrant><gtr:projectCost>52999.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/86831347-716B-41CC-B1B4-8BD0997A5114"><gtr:id>86831347-716B-41CC-B1B4-8BD0997A5114</gtr:id><gtr:firstName>Neil</gtr:firstName><gtr:surname>Spann</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=132361"><gtr:id>045A63F8-3044-41C1-B24C-BCB53DFCE4CA</gtr:id><gtr:title>Development of Power Roll, ultra-low cost and ultra-lightweight PV</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Feasibility Studies</gtr:grantCategory><gtr:grantReference>132361</gtr:grantReference><gtr:abstractText>The market for photovoltaic (PV) modules has expanded dramatically from 7GW in 2009 to 49GW in 2014 and
+
+is poised for explosive growth, up to 100GW pa. by 2018. Big Solar Limited is developing Power Roll, an ultra-
+
+lightweight and ultra-low cost solar PV product. This unique technology allows users to generate renewable
+
+energy at a cost cheaper than carbon based technologies and significantly less expensive than current PV
+
+technologies. Power Roll will have a thickness of less than 0.25 mm and be 98 times lighter than current PV,
+
+allowing for a wider range of applications than is possible with current PV technologies. Big Solar is delighted to
+
+have been successful in being awarded an Energy Catalyst Early Stage Grant and it will help enable potential
+
+investment of up to &amp;pound;10m in renewable technology in the North East of England.The market for photovoltaic (PV) modules has expanded dramatically from 7GW in 2009 to 49GW in 2014 and
+
+is poised for explosive growth, up to 100GW pa. by 2018. Big Solar Limited is developing Power Roll, an ultra-
+
+lightweight and ultra-low cost solar PV product. This unique technology allows users to generate renewable
+
+energy at a cost cheaper than carbon based technologies and significantly less expensive than current PV
+
+technologies. Power Roll will have a thickness of less than 0.25 mm and be 98 times lighter than current PV,
+
+allowing for a wider range of applications than is possible with current PV technologies. Big Solar is delighted to
+
+have been successful in being awarded an Energy Catalyst Early Stage Grant and it will help enable potential
+
+investment of up to &amp;pound;10m in renewable technology in the North East of England.</gtr:abstractText><gtr:fund><gtr:end>2017-11-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2016-09-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>154526</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">132361</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

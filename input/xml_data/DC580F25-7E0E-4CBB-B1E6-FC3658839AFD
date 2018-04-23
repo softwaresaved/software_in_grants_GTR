@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/E1320558-4C4D-427D-9BD3-634FB02791A5"><gtr:id>E1320558-4C4D-427D-9BD3-634FB02791A5</gtr:id><gtr:name>Autotrip Ltd</gtr:name><gtr:address><gtr:line1>29 SHAND STREET</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>SE1 2ES</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/E1320558-4C4D-427D-9BD3-634FB02791A5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>E1320558-4C4D-427D-9BD3-634FB02791A5</gtr:id><gtr:name>Autotrip Ltd</gtr:name><gtr:address><gtr:line1>29 SHAND STREET</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>SE1 2ES</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>24500.0</gtr:offerGrant><gtr:projectCost>41784.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700676"><gtr:id>DC580F25-7E0E-4CBB-B1E6-FC3658839AFD</gtr:id><gtr:title>Automated Bike Mileage Solution (ABMS)</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700676</gtr:grantReference><gtr:abstractText>AutoTrip (AT) offers car drivers plug and play GPS/GSM integrated devices to accurately
+record journeys, and automate the mileage expensing process.
+As an adjunct to the core business, AT has identified a need for an automated bike mileage
+solution to allow cyclists and other 2-wheeled vehicle users to benefit from the same
+expensing accuracy as car drivers. At present, tracking software is restricted to routes
+designated suitable for 4-wheeled vehicles, compromising the accuracy of any ?off-road?, 2-
+wheeled journeys.
+AT has a prototype design for an Automated Bike Mileage Solution (ABMS) to provide 2-
+wheeled vehicle users an automated and geospatially accurate account of their mileage.
+ABMS will deliver significant time-savings to cyclists, who largely rely on manual reporting
+practices, and a HMRC compliant reporting tool for tax professionals.
+As cycle-based delivery services scale in popularity, often requiring employees to use their
+own bike, the need for an efficient and compliant reporting method grows. The ABMS also
+supports sustainability and health objectives to increase cycling uptake, providing a reliable
+reporting tool for cyclists to claim compensation through. By encouraging staff to make more
+of their journeys by bike, the ABMS can reduce business fleets? CO&amp;sup2; emissions and save costs
+on car associated expenses.
+The ABMS leverages in-house expertise of the reporting process and decreasing component
+costs and will encompass (1) an on-board GPS/GSM unit designed for wide-ranging 2-
+wheeled vehicle compatibility (2) a discreet dynamo for trickle charge purposes (3) a
+proprietary geospatial platform with comprehensive coverage of off-road routes for accurate
+mileage and (4) a smart phone app and user interface for client access.
+Successful development of the proposition requires a detailed assessment of the commercial
+opportunity and technical components required. This study will test our value proposition and
+produce a technology development plan.</gtr:abstractText><gtr:fund><gtr:end>2016-09-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2016-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>24500</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700676</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

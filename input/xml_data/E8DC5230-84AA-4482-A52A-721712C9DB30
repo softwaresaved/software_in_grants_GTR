@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/039772AA-C54B-42C5-B1E4-85F491FA03F1"><gtr:id>039772AA-C54B-42C5-B1E4-85F491FA03F1</gtr:id><gtr:name>Advtec Ltd</gtr:name><gtr:address><gtr:line1>83 LANSDOWN ROAD</gtr:line1><gtr:city>SWINDON</gtr:city><gtr:postCode>SN1 3ND</gtr:postCode><gtr:region>South West</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/039772AA-C54B-42C5-B1E4-85F491FA03F1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>039772AA-C54B-42C5-B1E4-85F491FA03F1</gtr:id><gtr:name>Advtec Ltd</gtr:name><gtr:address><gtr:line1>83 LANSDOWN ROAD</gtr:line1><gtr:city>SWINDON</gtr:city><gtr:postCode>SN1 3ND</gtr:postCode><gtr:region>South West</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>31350.0</gtr:offerGrant><gtr:projectCost>62700.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=600428"><gtr:id>E8DC5230-84AA-4482-A52A-721712C9DB30</gtr:id><gtr:title>Mobile.Old</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>EU-Funded</gtr:grantCategory><gtr:grantReference>600428</gtr:grantReference><gtr:abstractText>The MOBILE.OLD project aims to provide a combined smartphone and TV-based service infrastructure with residential and outdoor services that will be delivered in a highly personalised and intuitive way and will advance the mobility of older persons. The services will be provided in a cost-effective way aiming at independent living and sustained mobility, reinforcing activation, maintaining the health status, providing cognitive benefits, thus preventing isolation, depression, increased morbidity and loneliness.
+
+MOBILE.OLD will be based on existing successfully established platforms in the frame of AAL (HERA AAL-2008-1-079 and HOMEdotOLD AAL-2009-2-130) and the services to be deployed will be built on top of these service platforms, which are currently operational in Austria, the Netherlands and Greece.
+
+MOBILE.OLD will deliver an open platform and services advancing the mobility of older persons and within the project the focus will be on the development of the following four (4) main categories of services:
+1. Informational services for assisting mobility, i.e. services that filter out, either ?passively? or ?actively?, existing information related to mobility.
+
+2. Travel and transport services, i.e. services enhancing trans-national mobility.
+
+3. Services for cognitive impaired people, i.e. services assisting the mobility of older persons suffering from cognitive impairments.
+
+4. Physical and mobility training services, i.e. services maintaining good health status as well as cognitive games assisting in overcoming situations that older persons may encounter when being mobile.
+
+Thus, based on results from previous successful projects in the context of AAL and existing advanced ICT technologies, the project main objectives are:
+* Objective 1 (OBJ1): To collect the user requirements in a structured manner in order to design the MOBILE.OLD services by taking into account their needs as much as possible.
+
+* Objective 2 (OBJ2): To specify the MOBILE.OLD platform by using and extending the existing TV based infrastructure with smartphones and to adapt it where necessary for supporting the services described above advancing the mobility of the older persons.
+
+* Objective 3 (OBJ3): To design and develop services advancing the mobility of older persons including ?personalised transportation news headlines?, ?trans-national journey planning?, ?geofencing?, ?physical training?, ?orientation and mobility training? and integrate them as much as possible with the existing HERA and HOMEdotOLD services.
+
+* Objective 4 (OBJ4): To install the MOBILE.OLD pre-product prototype and perform trials at pilot sites by involving older persons as end-user-testing groups.
+
+* Objective 5 (OBJ5): To evaluate and demonstrate the commercial feasibility and the business potential of the MOBILE.OLD services by preparing a realistic business and exploitation plan.
+
+The proposed project will enable older persons to live independently advancing the quality of mobility in their life. Older persons shall be able to:
+* stay socially active and significantly contribute to the society;
+* fight the cascade of deterioration in their health and lives resulting from reduced mobility, isolation and depression;
+* increase their confidence when being mobile;
+* maintain health and cognitive status;
+* age with their independence preserved.
+
+The project results that will ensure social and economic impact will be:
+* Result 1 (R1): The MOBILE.OLD set of services (as described above) with intelligent multimodal, highly adaptive interfaces, which will be deployed on top of the already operational services infrastructure in Austria and the Netherlands as well as in Spain (new) and Romania (new).
+* Result 2 (R2): The business plan for the commercialisation of the MOBILE.OLD services at the end of the project.</gtr:abstractText><gtr:fund><gtr:end>2014-05-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2012-06-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>31350</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">600428</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

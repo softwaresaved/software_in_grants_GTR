@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/2F67CF8B-8253-4921-84CB-22E6E6ACD505"><gtr:id>2F67CF8B-8253-4921-84CB-22E6E6ACD505</gtr:id><gtr:name>Tecexec Limited</gtr:name><gtr:address><gtr:line1>34 HATHERSAGE DRIVE , GLOSSOP</gtr:line1><gtr:city>DERBYSHIRE</gtr:city><gtr:postCode>SK13 8RG</gtr:postCode><gtr:region>North West</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/2F67CF8B-8253-4921-84CB-22E6E6ACD505" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>2F67CF8B-8253-4921-84CB-22E6E6ACD505</gtr:id><gtr:name>Tecexec Limited</gtr:name><gtr:address><gtr:line1>34 HATHERSAGE DRIVE , GLOSSOP</gtr:line1><gtr:city>DERBYSHIRE</gtr:city><gtr:postCode>SK13 8RG</gtr:postCode><gtr:region>North West</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>95070.0</gtr:offerGrant><gtr:projectCost>158450.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/1AC478B4-80EB-4347-A666-ACB18B3604BE"><gtr:id>1AC478B4-80EB-4347-A666-ACB18B3604BE</gtr:id><gtr:firstName>David</gtr:firstName><gtr:surname>Brown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710466"><gtr:id>4B52A5E1-9CE0-45DD-A5D7-F05887B8BFD2</gtr:id><gtr:title>ReXLPE ? The Recycling of Crosslinked Polyethylene (XLPE) scrap</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710466</gtr:grantReference><gtr:abstractText>Polyethylene is widely used across industry in both Low Density (LDPE) and High Density
+(HDPE) forms. Crosslinked PE (XLPE / XPE / PEX ) is increasingly being used for
+applications where there is a need for improved long-term thermal or chemical stability, such
+as in heavy-duty electrical cables as insulation materials (XLPE), in plumbing as hot water
+and central heating piping (PEX ? nearly 50% of the market) and in the automotive industry
+as seating foams.
+Whilst regular LDPE and HDPE plastics can be easily recycled using conventional
+technologies, crosslinked material cannot be easily returned to its non-crosslinked state for reuse.
+This means that currently, XLPE production scrap and off-cuts generated during product
+application are discarded. This scrap represents a valuable and costly resource and its
+recovery is highly desirable. In order to recover this material a technology is required that can
+reverse the crosslinking process whilst retaining the technical properties of the polymer.
+Work carried out on crosslinked rubber polymers using Gradient Compounds? CDV
+(Continuous Devulcanisation) technology has demonstrated both the technical and
+commercial feasibility of recovering rubber materials at production scales for reuse in their
+original application with minimal or no loss of properties or alteration of the customer?s
+production process.
+Previous work carried out using controlled stress fields to rupture XLPE networks has shown
+promise and research in Japan has led to the commercial application of XLPE materials
+processed using an extrusion technology, within the cable industry. CDV technology is likely
+to offer improved efficiency and economy over the Japanese process but this needs to be
+confirmed with trial work at both laboratory and industrial scales.
+This project will look at the application of CDV technology to post-industrial XLPE materials
+through a proof-of-concept study using existing CDV laboratory and pilot production
+apparatus.</gtr:abstractText><gtr:fund><gtr:end>2015-01-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2014-02-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>95070</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710466</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

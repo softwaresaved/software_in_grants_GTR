@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/D88B66AE-16B1-483A-B26E-081736F3250E"><gtr:id>D88B66AE-16B1-483A-B26E-081736F3250E</gtr:id><gtr:name>Point Line Plane Design Limited</gtr:name><gtr:address><gtr:line1>Flat 14
+Carmoor Road</gtr:line1><gtr:city>Manchester</gtr:city><gtr:postCode>M13 0EA</gtr:postCode><gtr:region>North West</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/D88B66AE-16B1-483A-B26E-081736F3250E" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>D88B66AE-16B1-483A-B26E-081736F3250E</gtr:id><gtr:name>Point Line Plane Design Limited</gtr:name><gtr:address><gtr:line1>Flat 14
+Carmoor Road</gtr:line1><gtr:city>Manchester</gtr:city><gtr:postCode>M13 0EA</gtr:postCode><gtr:region>North West</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>14700.0</gtr:offerGrant><gtr:projectCost>21000.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/94D00C04-1EE7-45BD-BF60-63D29A0151C3"><gtr:id>94D00C04-1EE7-45BD-BF60-63D29A0151C3</gtr:id><gtr:firstName>Jakub</gtr:firstName><gtr:surname>Rozanski</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=132417"><gtr:id>1517242E-2682-4B83-BD6C-5D98975E2414</gtr:id><gtr:title>PlayClay as tool that empowers creativity and making</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Feasibility Studies</gtr:grantCategory><gtr:grantReference>132417</gtr:grantReference><gtr:abstractText>POINT LINE PLANE believes that developing new tools is an important means of inspiration, allowing new forms
+
+of expression to take shape within UK creative sector. We are fascinated with how an object is perceived or
+
+experienced. At the moment the industrial processes and machines stand between the designers and users.
+
+There is an imaginary border dividing craft and design, and our idea is to change that by designing and
+
+proposing our tool for making extraordinary everyday use objects - PlayClay extruding machine.
+
+Point Line Plane aims to expand the PlayClay into a platform for creative exploration. Pushing deep into the
+
+design process, we hope to break the chain standing between machine and user with an innovative solution
+
+that are really tools which empower making within UK creative industry. We have been tinkering with digital
+
+technologies in order to construct methods and means of production that meld together seemingly divergent
+
+worlds. This output is an intersection of the digital and analogue, as well as design and tools.</gtr:abstractText><gtr:fund><gtr:end>2017-11-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2017-01-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>14700</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">132417</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

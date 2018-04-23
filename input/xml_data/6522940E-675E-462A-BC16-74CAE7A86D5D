@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/67B34D05-3A52-4A09-8FF9-F2398D60E246"><gtr:id>67B34D05-3A52-4A09-8FF9-F2398D60E246</gtr:id><gtr:name>University of Surrey</gtr:name><gtr:department>Chemistry</gtr:department><gtr:address><gtr:line1>Registry</gtr:line1><gtr:line2>Stag Hill</gtr:line2><gtr:line4>Guildford</gtr:line4><gtr:line5>Surrey</gtr:line5><gtr:postCode>GU2 7XH</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/67B34D05-3A52-4A09-8FF9-F2398D60E246"><gtr:id>67B34D05-3A52-4A09-8FF9-F2398D60E246</gtr:id><gtr:name>University of Surrey</gtr:name><gtr:address><gtr:line1>Registry</gtr:line1><gtr:line2>Stag Hill</gtr:line2><gtr:line4>Guildford</gtr:line4><gtr:line5>Surrey</gtr:line5><gtr:postCode>GU2 7XH</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/84E9D38C-86FD-4CBA-A708-4E3E437B933D"><gtr:id>84E9D38C-86FD-4CBA-A708-4E3E437B933D</gtr:id><gtr:firstName>Peter</gtr:firstName><gtr:surname>Slater</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=EP%2FF065663%2F1"><gtr:id>6522940E-675E-462A-BC16-74CAE7A86D5D</gtr:id><gtr:title>Molecular Origami : A Practical Approach to Engineering Education</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Other Grant</gtr:grantCategory><gtr:grantReference>EP/F065663/1</gtr:grantReference><gtr:abstractText>Abstracts are not currently available in GtR for all funded research. This is normally because the abstract was not required at the time of proposal submission, but may be because it included sensitive information such as personal details.</gtr:abstractText><gtr:fund><gtr:end>2008-12-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2008-10-27</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>29758</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs><gtr:disseminationOutput><gtr:description>workshop on hydrogen and fuel cells</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:id>53569E14-D76D-445E-884D-AFEC50F1C0DF</gtr:id><gtr:impact>workshop on hydrogen and fuel cells held in the school of chemistry at the University of Birmingham.</gtr:impact><gtr:outcomeId>r-5998022915.7936040ca880b4</gtr:outcomeId><gtr:partOfOfficialScheme>true</gtr:partOfOfficialScheme><gtr:primaryAudience>Schools</gtr:primaryAudience><gtr:year>2013</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Developing origami resources for schools</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:id>B077EDA7-0ACD-4779-8CDF-389B7BA73B80</gtr:id><gtr:impact>The project was extended through a final year undergraduate project. In this project, workshops based around polymers and energy were set up and trialled in local schools. The workshops provided hands-on experiments (including use of our fuel cell kits) supported by students making origami models to reinforce the ideas of the workshop. The Energy workshop in particular received favourable feedback.
+
+Workshops in the areas of polymers and energy were produced and trialled in local schools. Positive feedback was received from teachers and students. The energy workshop proved particular popular, particularly the interactive origami models used to highlight it. In the development stage we obtained very helpful advice from the chairman of the British Origami society.</gtr:impact><gtr:outcomeId>r-7251432293.3288590bc6c430</gtr:outcomeId><gtr:partOfOfficialScheme>true</gtr:partOfOfficialScheme><gtr:year>2011</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Origami workshops</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:id>DCDBFFFC-D917-4A2A-868E-297FA86355AF</gtr:id><gtr:impact>A final year undergraduate project student worked on a project developing origami resources for use in schools. These included practical experiments as well as origami models to describe the science.</gtr:impact><gtr:outcomeId>r-5931117670.5463950bc9176c</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Schools</gtr:primaryAudience><gtr:year>2011</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>workshop on h2 and fuel cells</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:id>F757D6C9-3367-4D9C-B6BF-88BC8FFCCA88</gtr:id><gtr:impact>workshop for 26 local schoolchildren.</gtr:impact><gtr:outcomeId>r-1028805776.52603920ca89310</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Schools</gtr:primaryAudience><gtr:year>2013</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Meet the Scientist stand at the Thinktank, Birmingham</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:id>88C27EB9-2DF8-4986-A6AC-049784FA2596</gtr:id><gtr:impact>Stand on hydrogen and fuel cells set up as part of the Thinktank's Meet the Scientist scheme.</gtr:impact><gtr:outcomeId>r-1602718794.34838770ba7c2ce</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Public/other audiences</gtr:primaryAudience><gtr:year>2010</gtr:year></gtr:disseminationOutput></gtr:disseminationOutputs><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>Introduction
+
+
+
+Shape has a vital role in the function of molecules and is a critical factor in governing our well being but the concepts involved in rationalising why molecules possess a given structure and how it influences their function can be difficult to convey to a non scientific audience. While molecular modelling kits and computer programs are routinely used within secondary and tertiary education to display 3D molecular architecture, neither approach is readily accessible beyond the educational environment and remain largely abstract to the average person. The project outlined herein sought to investigate the development of new modelling concepts that attempt to address these problems through being both accessible and readily transferrable from classroom to the home. It was our intention that by introducing a system of &amp;quot;take-away&amp;quot; models within the school curricula, the pupils would serve as an ideal conduit through which to stimulate inquiry and debate with other family members and hence offer a possiblility of reaching an audience that may be unresponsive to conventional modes of scientific discussion and dissemination. 
+
+
+
+Audience Response
+
+
+
+The most important aspect of the work was the fact that the origami was almost universally accepted as an innovative method through which to capture the imagination in what can sometimes be a dry teaching session. A number of modelling systems have bee trialed in the course of the project but it was the most accessible and found to provide the students with a model that was immediately transferrable from the class and starkly contrasts conventional commercial modelling systems. The emergence of the models into the playground and then into the home was the main remit as it could be anticipated to stimulate debate/curiosity - even at the simplest level of the &amp;quot;what is that?&amp;quot; enquiry. The most surprising factor in the project was the realisation that it did indeed cross age boundaries. While there was little doubt that it would prove popular with the young, it was felt that adults may be more reticent to partcipate. This was not the case and led to many interactions and there is little doubt as to the ability of the activity to cross the threhold of family household. This was backuped by questionaire responses which highlight that almost 90% of those completing the model took it home. The sense of acheivement and the trophy status certainly appears to be an important hook that can serve to reinforce the main main concepts but also provide a focal point for conversation.
+
+Project Deliverables:
+
+
+
+The main project outcomes that were achieved were the development of easily accessible modelling systems that:
+
+
+
+? provides an enjoyable activity through which a range of pupils of varying ability can participate;
+
+? can easily be produced and can be directly related to molecular shapes that are regularly encountered in a range of systems and new applications and increasingly form the basis of new biomolecular engineering research;
+
+? utilises materials that are inexpensive and are readily available within both school and home;
+
+? allows pupils (and parents) to physically grasp the models in such a way that the structure-function and complexity issues are reinforced;
+
+? facilitate activities that don't require any form of chemicals or specialist equipment, are completely safe and can be conducted in a variety of locations;
+
+? provide a tangible and adaptable resource from which science could be bridged to complementary studies within the school - such as art displays.
+
+
+
+Evaluation was a constant component of the research project - both qualitative and quantitative indicators were used. The most useful aspects of the project were however the face-to face demonstrations with educators as this allowed the teachers/educators/science communicators an opportunity to participate in the actual origami session. This allowed the teachers to appreciate the timescale overwhich the models could be constructed and how they could be interlaced within conventional teaching sessions. The creation of puzzle systems and templates which allow teachers to design/customise their own material was found to be another bonus and led to the paper on COSHH regulations.
+
+
+
+Project Evolution
+
+
+
+A fully functional web resource has been created and continues to receive considerable trafiic. At present there is no means of identifying the demographic of the user and thiis is something that needs to be strengthened inthe future. The web based delivery of the instructional (model) and associated support materials to schools was found to be ideal in that:
+
+
+
+? the inevitable transfer of the models from classroom to playground to home - offers an opportunity to stimulate wider interest and debate.
+
+? the majority of schools are compliant with ICT requirements and thus possess sufficient technology to enable direct access to the resources;
+
+? the main requirement for pursuing the activities relate to the consumption of paper - which is readily available within the school. It also allows individual schools / teachers to be creative in terms of selecting paper styles and the selection of appropriate contextual examples from the web site. While the web structure will endeavour to guide teachers with examples of increasing challenge - a range of user selectable contextual resources would be made available;
+
+? as an information based resource - minimal costs are incurred by the host and receiving institutions thereby allowing greater potential for the the project to exist beyond the initial investigation period.
+
+
+
+The web based approach allows an effective means through which the underlying concepts (ie molecular engineering) can be accessed by a wide audience and not simply the particular targets of the present project. Thus the resources would be available for follow up exploration by children and their parents and also by the causal browser.The important factors are that the resources come in a variety of formats and can be easily customised by the teacher and are available at zero cost and can be esily produced on demand. As such there are no barriers to uptake.</gtr:description><gtr:exploitationPathways>Audience and Impact
+
+
+
+The target audience for the project was initially primarily secondary school pupils (11-17 yrs) and refelected a cohort that is ideally suited towards engaging with the activities. It quickly became clear that this range could easily be extended to older/adult/senior ranges. Origami provides a wide spectrum of models and complexities that can encompass the whole of the age range advocated here (and far beyond!) and as such the challenging aspect of the models can be easily tuned to the audience and resources available to the teacher or parent or grandparent. The project built a complementary approach to school studies but one which can be also conducted directly within the home. In terms of potential impact - there is an important point to note: the sense of achievement in constructing such models at an early age is liable to remain within the memory of the pupils as they age. Linking the key concepts of molecular engineering through an almost subliminal route, it could be hoped, may engender greater interest in the sciences in later life. The activities /moedl complexity is staggered such that some success is guaranteed and thus the possibility of failure generating future negative resonances can be avoided yet still provide challenege. There is a strong possibility that each time they see a paper aeroplane, paper cup etc then some reflection on the activities they have engaged is bound to occur.
+
+
+
+Dissemination
+
+
+
+The project was given a position at the Royal Society of Chemistry &amp;quot;Variety in Chemical Education&amp;quot; conference held in Dublin August 2008 and again at Manchester in 2009. A two hour workshop - detailing the background to the project and hands-on activities utilising the models contained within the web resource was made availabe and attended by a variety of teachers (secondary and tertiary) and outreach professionals. Numerous follow up lectures and demonstrations ensued from that first workshop which has covered the UK. and A second conference presentation was also given (Higher Education Academy, Physical Sciences Centre, &amp;quot;Collaboration in Outreach&amp;quot;, 10-11th September, Nottingham) whereby the capacity for the resources to be exploited for outreach and widening participation activites were outlined. A number of seminars were also conducted throughout the year. Dissemination of the web resource was initiated through the following routes:
+
+
+
+1. Active and direct contact with teachers. This was initially within Nottingham but has slowly spread to national coverage upon the release of the web material. 
+
+
+
+2. Recruitment of student teachers from Nottingham Tent - BA Primary Education and postgraduate courses within the network is currently in the process of development through the provision of the modelling kits and will contnue to be an ongoing research project to assess the pedogogical value of the systems.
+
+
+
+3. Activity days during the summer months and subsequent Easter break - mailshot through local schools; publicity posters in local libraries and community and health centres; direct links with local media and local book stores were all achieved and led to continuous support during the web development term.
+
+ 
+
+4. Communications / publications in educational journals and supplements (TES); teacher resource web sites are now being sought. A number of manuscripts have been sent to Chemical Education Research and Practice, Journal of Chemical Education and Education in Chemistry. These highlight the case studies obtained from the various activity days and school based implementations as well as attempting to generate more publicity for the web resources.
+
+
+
+5. Local press coverage of the project and associated resources/activity days was achieved with articles in the Nottingham Evening Post and various free community newspapers.</gtr:exploitationPathways><gtr:id>F70DE4B4-926D-4FD0-893B-165194E425C2</gtr:id><gtr:outcomeId>r-642719204.204826877807278</gtr:outcomeId><gtr:sectors><gtr:sector>Other</gtr:sector></gtr:sectors></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication><gtr:id>D1E5EDE1-F7F6-41C7-AEFE-9F58BC5F8937</gtr:id><gtr:title>Origami: a versatile modeling system for visualising chemical structure and exploring molecular function</gtr:title><gtr:parentPublicationTitle>Chem. Educ. Res. Pract.</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/25a139a96e87e43d6f2626ea6adb3d88"><gtr:id>25a139a96e87e43d6f2626ea6adb3d88</gtr:id><gtr:otherNames>Davis J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2010-01-01</gtr:date><gtr:outcomeId>doi_53d02c02c7c17ab4</gtr:outcomeId></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">EP/F065663/1</gtr:identifier></gtr:identifiers><gtr:projectHierarchy><gtr:parents><gtr:parent><gtr:id>6522940E-675E-462A-BC16-74CAE7A86D5D</gtr:id><gtr:grantRef>EP/F065663/1</gtr:grantRef><gtr:amount>29758.37</gtr:amount><gtr:start>2008-10-27</gtr:start><gtr:end>2008-12-31</gtr:end><gtr:children><gtr:child rel="Transfer"><gtr:id>FACEFCBD-ACA0-4D27-B415-0D7C1F4BF5A0</gtr:id><gtr:grantRef>EP/F065663/2</gtr:grantRef><gtr:amount>26603.7</gtr:amount><gtr:start>2009-06-29</gtr:start><gtr:end>2010-10-28</gtr:end><gtr:children/></gtr:child></gtr:children></gtr:parent></gtr:parents></gtr:projectHierarchy><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>863FC58A-7217-42EA-B076-663F2D770BB8</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Chemical measurement</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>1820CCC5-B4C4-47E9-B81F-8F49AC606F0E</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Chemical Structure</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

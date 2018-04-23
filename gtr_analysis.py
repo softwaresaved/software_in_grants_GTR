@@ -12,24 +12,16 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
+from config import (INPUTOUTPUT_PROCESSFILES, COM_OUTPUTDIR, ANA_SEARCHFIELDS,
+                    ANA_BACKGROUNDOUTPUTDIR, ANA_OUTPUTDIR, ANA_SUBSETYEARS, ANA_LOGFILE)
+
 from search_terms import SEARCH_TERM_LIST
 
-INPUTDIR = 'data'
-INPUTFILENAMES = [
-    'gtr_data_titles_and_abs-all.csv',
-    'gtr_data_titles_and_abs-researchgrants.csv',
-]
-OUTPUTDIR = 'output'
-BACKGROUNDOUTPUTDIR = 'background_data'
-LOGGERLOCATION = 'log_gtr_analysis.log'
-
-# Years that the Institute has existed, except 2018
-SUBSET_YEARS = [2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017]
 
 # Set up logging
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
-handler = logging.FileHandler(LOGGERLOCATION)
+handler = logging.FileHandler(ANA_LOGFILE)
 handler.setLevel(logging.INFO)
 # create a logging format
 formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
@@ -38,36 +30,32 @@ handler.setFormatter(formatter)
 logger.addHandler(handler)
 
 
-def import_csv_to_df(filename):
+def import_csv_to_df(filepath):
     """
     Imports a csv file into a Pandas dataframe
     :params: an xls file and a sheetname from that file
     :return: a df
     """
 
-    return pd.read_csv(filename)
+    return pd.read_csv(filepath)
 
 
-def export_to_csv(df, location, filename, index_write, compress=False):
+def export_to_csv(df, filepath, index_write, compress=False):
     """
     Exports a df to a csv file, optionally compressing it as a .tar.gz file
-    :params: a df and a location in which to save it
+    :params: a df and a path in which to save it
     :return: nothing, saves a csv
     """
 
-    filepath = filename + '.csv'
-
-    df.to_csv(filepath, index=True)
+    df.to_csv(filepath + '.csv', index=True)
 
     if compress:
         with tarfile.open(filepath + '.tar.gz', 'w:gz') as targz:
-            targz.add(filepath)
+            targz.add(filepath + '.csv')
 
 
 def convert_to_date(df):
-    """
-    The two date columns need to be viewed as dates by Pandas
-    """
+    """The two date columns need to be viewed as dates by Pandas."""
 
     df['startdate'] = pd.to_datetime(df['startdate'])
     df['enddate'] = pd.to_datetime(df['enddate'])
@@ -77,8 +65,7 @@ def convert_to_date(df):
     return df
 
 
-def clean_data(df):
-
+def clean_input_data(df):
     """
     Couple of things we can do to make things cleaner. Drop all pre-2000 data (which 
     is of dubious quality) and remove records where the end date is earlier than the
@@ -142,7 +129,7 @@ def get_years(df):
 
     # Write to a file for future reference
     for key in years_in_data:
-        writing = open(BACKGROUNDOUTPUTDIR + '/' + key + '_in_data.csv','w')
+        writing = open(ANA_BACKGROUNDOUTPUTDIR + '/' + key + '_in_data.csv','w')
         for item in years_in_data[key]:
             writing.write(str(item) + '\n')
         writing.close()
@@ -159,7 +146,8 @@ def get_funders(df):
     funders_in_data.sort()
 
     # Write out the funders for future reference
-    funders = open(BACKGROUNDOUTPUTDIR + '/funders_in_data.csv','w')
+    outputfile = os.path.join(ANA_BACKGROUNDOUTPUTDIR, 'funders_in_data.csv')
+    funders = open(outputfile, 'w')
     for item in funders_in_data:
         funders.write(item + '\n')
     funders.close()
@@ -190,7 +178,8 @@ def get_total_grants(df, years_in_data):
         number_of_grants_started_df.loc[current_year, 'how many grants started in year'] = number_started
 
     # Write out to a file for future reference
-    export_to_csv(number_of_grants_started_df, BACKGROUNDOUTPUTDIR, BACKGROUNDOUTPUTDIR + '/all_grants_count', index_write=True)
+    background_filepath = os.path.join(ANA_BACKGROUNDOUTPUTDIR, 'all_grants_count')
+    export_to_csv(number_of_grants_started_df, background_filepath, index_write=True)
 
     return num_of_grants_started
 
@@ -283,8 +272,8 @@ def get_summary_data(df, where_to_search, keyword_list, years_in_data, num_of_gr
             # the records in the dataframe from the year in question
             df_where_found_percent[str(curr_year) + '_' + search_col + '_%'] = round((df_counts[orig_column_list].sum(axis=1)/num_of_grants_started[curr_year])*100,2)
 
-    export_to_csv(df_where_found, OUTPUTDIR, 'keywords_found_count', index_write=True)
-    export_to_csv(df_where_found_percent, OUTPUTDIR, 'keywords_found_percentage', index_write=True)
+    export_to_csv(df_where_found, 'keywords_found_count', index_write=True)
+    export_to_csv(df_where_found_percent, 'keywords_found_percentage', index_write=True)
 
     return
 
@@ -303,8 +292,7 @@ def save_only_software_grants(df, where_to_search):
     # or the abstract. In other words, it leaves us with a df that contains
     # only records where a keyword was found.
     df_only_found = df.loc[(df[summary_cols]!=0).any(axis=1)]
-    export_to_csv(df_only_found, OUTPUTDIR,
-        'only_grants_related_to_software', index_write=True, compress=True)
+    export_to_csv(df_only_found, 'only_grants_related_to_software', index_write=True, compress=True)
 
     logger.info('Saved data on all grants related to software')
 
@@ -343,7 +331,7 @@ def software_grants_by_funder(df, df_only_found, years_in_data, num_of_grants_st
             if funder_num_grants_started[curr_year] > 0:
                 df_summary.loc[curr_year, str(funder) +  ' grants %'] = round((len(df_funder_swyear)/funder_num_grants_started[curr_year])*100,2)
 
-    export_to_csv(df_summary, OUTPUTDIR, 'software_grants_by_funder', index_write=True)
+    export_to_csv(df_summary, 'software_grants_by_funder', index_write=True)
 
     logger.info('Calculated summaries of data.')
 
@@ -377,22 +365,22 @@ def get_software_grants_cost_by_funder(df_only_found, df, years_in_data, num_of_
             df_cost.loc[curr_year, str(funder) +  ' software spend %'] = round((sw_funder_spend/all_funder_spend)*100, 2)
 
     # Create and save bar charts for all funding over years Institute has existed until 2017
-    df_cost_sub = df_cost.loc[SUBSET_YEARS, 'all funders software spend']
+    df_cost_sub = df_cost.loc[ANA_SUBSETYEARS, 'all funders software spend']
     save_bar_chart(df_cost_sub, 'Year', 'Spend (£)', 'software_spend_all', False)
 
-    df_cost_pct_sub = df_cost.loc[SUBSET_YEARS, 'software spend as percentage of spend on all grants']
+    df_cost_pct_sub = df_cost.loc[ANA_SUBSETYEARS, 'software spend as percentage of spend on all grants']
     save_bar_chart(df_cost_pct_sub, 'Year', 'Spend (%)', 'software_spend_all_percent', True)
 
     # As previously, but just for each funder
     for funder in funders_in_data:
-        df_cost_funder_sub = df_cost.loc[SUBSET_YEARS, funder + ' software spend']
+        df_cost_funder_sub = df_cost.loc[ANA_SUBSETYEARS, funder + ' software spend']
         save_bar_chart(df_cost_funder_sub, 'Year', funder + ' spend (£)', 'software_spend_' + funder, False)
 
-        df_cost_pct_sub = df_cost.loc[SUBSET_YEARS, funder + ' software spend %']
+        df_cost_pct_sub = df_cost.loc[ANA_SUBSETYEARS, funder + ' software spend %']
         save_bar_chart(df_cost_pct_sub, 'Year', funder + ' spend (%)', 'software_spend_percent_' + funder, True)
 
-    export_to_csv(df_cost, OUTPUTDIR, 'yearly_all_grants_costs_by_funder', index_write=True)
-    export_to_csv(df_cost_sub, OUTPUTDIR, 'yearly_software_grants_costs_by_funder', index_write=True)
+    export_to_csv(df_cost, 'yearly_all_grants_costs_by_funder', index_write=True)
+    export_to_csv(df_cost_sub, 'yearly_software_grants_costs_by_funder', index_write=True)
 
     logger.info('Calculated yearly costs of software-related grants.')
 
@@ -402,17 +390,17 @@ def get_software_grants_cost_by_funder(df_only_found, df, years_in_data, num_of_
 def average_annual_spend_on_software(df_cost, years_in_data, funders_in_data):
 
     # Get average figures only for the years we're interested in
-    df_cost_sub = df_cost.loc[SUBSET_YEARS]
+    df_cost_sub = df_cost.loc[ANA_SUBSETYEARS]
 
     # Date range for chart title
-    drange = str(SUBSET_YEARS[0]) + '-' + str(SUBSET_YEARS[-1])
+    drange = str(ANA_SUBSETYEARS[0]) + '-' + str(ANA_SUBSETYEARS[-1])
 
     # Initialise
     df_av_cost = pd.DataFrame(index=funders_in_data)
 
     for funder in funders_in_data:
         # Calculate average spend on software for funder
-        df_av_cost.loc[funder, 'Average software spend (£) ' + drange] = df_cost_sub[funder + ' software spend'].sum() / len(SUBSET_YEARS)
+        df_av_cost.loc[funder, 'Average software spend (£) ' + drange] = df_cost_sub[funder + ' software spend'].sum() / len(ANA_SUBSETYEARS)
 
         # Determine overall average % of software spending over the period
         total_spend = df_cost_sub[funder + ' total spend'].sum()
@@ -433,7 +421,7 @@ def average_annual_spend_on_software(df_cost, years_in_data, funders_in_data):
 
     # Sort overall costs and save
     df_av_cost = df_av_cost.sort_values(by='Average software spend (£) ' + drange, ascending=True)
-    export_to_csv(df_av_cost, OUTPUTDIR, 'average_software_grants_costs_by_funder', index_write=True)
+    export_to_csv(df_av_cost, 'average_software_grants_costs_by_funder', index_write=True)
 
     logger.info('Calculated average costs of software-related grants.')
 
@@ -468,31 +456,31 @@ def search_term_popularity(df_only_found, keyword_list, funders_in_data):
     save_bar_chart(df_chart_term_pop['Total'], 'Keyword', 'Keyword count',
         'search_term_popularity_all', False)
 
-    export_to_csv(df_term_pop, OUTPUTDIR, 'search_term_popularity_all', index_write=True)
+    export_to_csv(df_term_pop, 'search_term_popularity_all', index_write=True)
 
     logger.info('Calculated search term popularity across search results.')
 
 
 def process_dataset(dataset_filename, where_to_search):
     # If the output directory for this dataset doesn't exist, create it
-    dir_path = OUTPUTDIR + '/' + dataset_filename
+    dir_path = os.path.join(ANA_OUTPUTDIR, dataset_filename)
     if not os.path.exists(dir_path):
         os.makedirs(dir_path)
-        os.makedirs(dir_path + '/' + BACKGROUNDOUTPUTDIR)
+        os.makedirs(os.path.join(dir_path, ANA_BACKGROUNDOUTPUTDIR))
 
     # Change to the directory in which all CSV and PNG results
     # will be created
     os.chdir(dir_path)
 
-    # Get GTR summary data
-    df = import_csv_to_df('../../' + INPUTDIR + '/' + dataset_filename)
+    # Get GTR summary data from our combination process output directory
+    df = import_csv_to_df('../../' + COM_OUTPUTDIR + '/' + dataset_filename)
     logger.info('Imported df includes ' + str(len(df)) + ' records')
 
     # Make the dates, er... well... dates
     df = convert_to_date(df)
 
-    # Clead data of
-    df = clean_data(df)
+    # Clean GtR summary data
+    df = clean_input_data(df)
 
     # Get a dict of lists in which the years represented in the data are stored
     years_in_data = get_years(df)
@@ -528,23 +516,19 @@ def process_dataset(dataset_filename, where_to_search):
     average_annual_spend_on_software(df_cost, years_in_data, funders_in_data)
 
     # Output entire processing dataframe
-    export_to_csv(df, OUTPUTDIR, 'final_df', index_write=False, compress=True)
+    export_to_csv(df, 'final_df', index_write=False, compress=True)
 
     # Revert to root directory
     os.chdir('../..')
 
 
 def main():
-    # Set in which parts of the grant we're going to search, and what
-    # we're going to search for
-    where_to_search = ['title', 'abstract']
-
     # Loop through each of the input files we wish to process, and run
     # the analysis on each. CSV and PNG results are stored in subdirectories
-    # of OUTPUTDIR, one subdirectory for each analysis
-    for input_dataset in INPUTFILENAMES:
+    # of ANA_OUTPUTDIR, one subdirectory for each analysis
+    for _, input_dataset in INPUTOUTPUT_PROCESSFILES:
         logger.info('------ Processing run: ' + input_dataset + ' ------')
-        process_dataset(input_dataset, where_to_search)
+        process_dataset(input_dataset, ANA_SEARCHFIELDS)
 
 
 if __name__ == '__main__':

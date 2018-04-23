@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/AD494FBD-A2F9-4A44-855E-10E179D87561"><gtr:id>AD494FBD-A2F9-4A44-855E-10E179D87561</gtr:id><gtr:name>Anaxsys Technology Limited</gtr:name><gtr:address><gtr:line1>MED IC4 SCIENCE PARK , KEELE</gtr:line1><gtr:city>NEWCASTLE</gtr:city><gtr:postCode>ST5 5NL</gtr:postCode><gtr:region>West Midlands</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/AD494FBD-A2F9-4A44-855E-10E179D87561" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>AD494FBD-A2F9-4A44-855E-10E179D87561</gtr:id><gtr:name>Anaxsys Technology Limited</gtr:name><gtr:address><gtr:line1>MED IC4 SCIENCE PARK , KEELE</gtr:line1><gtr:city>NEWCASTLE</gtr:city><gtr:postCode>ST5 5NL</gtr:postCode><gtr:region>West Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>100000.0</gtr:offerGrant><gtr:projectCost>219340.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/57837FA5-E72A-4052-8FA4-F7AE2DA87DC7"><gtr:id>57837FA5-E72A-4052-8FA4-F7AE2DA87DC7</gtr:id><gtr:firstName>Zia</gtr:firstName><gtr:surname>Mursaleen</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710047"><gtr:id>9CAF0FE5-7F8F-4FAB-A49A-2758996DEC47</gtr:id><gtr:title>Lung Cancer Screening Device- using fast responding moisture sensor in breath</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710047</gtr:grantReference><gtr:abstractText>The burden of lung cancer is Ggobal and lung cancer rates are on the rise. It is the leading
+cause of death by cancer in men and the second leading cause of cancer death in women
+worldwide. It is estimated that 975,000 men and 376,000 women will die from lung cancer in
+2007 alone. In India, lung cancer is the most common form of cancer for men. According to a
+2007 report by WHO, there are currently over 350 million smokers in China alone. Similarly,
+in India, 50 percent of men in the northern states are smokers. This burden of disease will rise.
+According to a global youth tobacco survey conducted by the USA-Centre for Disease Control
+(CDC), the most frequent users of tobacco products were Southeast Asian students, ranging
+from ages 13 to 15 (Aleea Farrakh.) The Global Burden of Cancer. USA-National Cancer
+Institute. December 20, 2007 (available on line at www.cancer.gov/) accessed 24 Oct 2009).
+The problem for GPs is when to investigate or refer. Most patients with lung cancer come
+from a population with chronic respiratory symptoms. If each GP were to refer for imaging
+every time a new respiratory symptom appeared in a smoker (as advised in countless articles,
+guidelines and textbooks) then the healthcare infrastructure would be ill-equipped to cope
+with demand and this could be seen as an inefficient use of resources. The lack of availability
+of suitable tools for use in primary care, to aid diagnosis and hence referral to a specialist is a
+constant cause of frustration for Oncologists, since the 5 year survival rates for these patients
+is low.
+In order to have an effective screening programme for lung cancer, tumours need to be
+identified at the T1, (3cm or less diameter) NO, (before nodal involvement), MO (before the
+tumour has metastasised) stage. Surgical resection is usually possible at this stage, achieving a
+complete cure.
+Anaxsys has developed a unique patented fast response moisture sensor that responds in real
+time to water vapour. Serial breaths can be measured as the sensor is returned to its pre-test
+state almost instantly. The resultant humidograms (analysis of aerosol moisture content in the
+breath) comment on a broad range of diseases including asthma and COPD (chronic
+obstructive pulmonary disease)Preliminary results show that a specific morphology of the
+humidogram suggests the possibility of a lung cancer that would indicate the need for a
+diagnostic procedure. Tumours smaller than 3cm diameter have already been identified in this
+way.
+Anaxsys is now planning to undertake a proof of concept programme in UK. This will
+involve a clinical study to determine the sensitivity and selectivity of its sensors with respect
+to lung cancer at the point of diagnosis (following referral by their GP to a hospital chest
+clinic) and the development of a basic prototype for a feasibility study in lung cancer
+screening.</gtr:abstractText><gtr:fund><gtr:end>2013-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2011-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>100000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710047</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

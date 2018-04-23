@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/64A5F21E-AA9E-464E-9A8F-BAEC6A1DD6C1"><gtr:id>64A5F21E-AA9E-464E-9A8F-BAEC6A1DD6C1</gtr:id><gtr:name>Zeeko Ltd</gtr:name><gtr:address><gtr:line1>Vulcan Way
+4 Vulcan Court
+Hermitage Industrial Estate</gtr:line1><gtr:city>Coalville</gtr:city><gtr:postCode>LE67 3FW</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/64A5F21E-AA9E-464E-9A8F-BAEC6A1DD6C1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>64A5F21E-AA9E-464E-9A8F-BAEC6A1DD6C1</gtr:id><gtr:name>Zeeko Ltd</gtr:name><gtr:address><gtr:line1>Vulcan Way
+4 Vulcan Court
+Hermitage Industrial Estate</gtr:line1><gtr:city>Coalville</gtr:city><gtr:postCode>LE67 3FW</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>57354.0</gtr:offerGrant><gtr:projectCost>81934.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=102745"><gtr:id>02E6F69D-7BA4-4814-BC4A-39AF549D7813</gtr:id><gtr:title>Customised Mass-Production through Autonomous Manufacturing</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Launchpad</gtr:grantCategory><gtr:grantReference>102745</gtr:grantReference><gtr:abstractText>Polishing of precision surfaces such as lenses and mirrors requires a rubbing action, rather than 'cutting' as with
+
+a grinding machine or lathe. Such lens or mirror surfaces, and particularly complex surfaces, are required for a
+
+huge range of modern products, ranging from digital and phone cameras, to LED lighting, to advanced defence
+
+and space systems. Modern computer controlled polishing machines move a polishing tool over the surface of
+
+the component, and the path is programmed to remove just the right amount of material at each place to
+
+correct height-errors measured in the surface. This assumes that the action of the polishing tool is truly
+
+predictable. In reality, the predicatability falls well short of the ideal, and this means that several (or indeed
+
+many) cycles of polish =&amp;gt; measure =&amp;gt; polish are required to meet the requirements. This project proposes to
+
+measure some key effects before and during the polishing process ,and also characterise the tooling itself, in
+
+order to improve overall predicability. This promises significant reductions in polishing time and so cost.</gtr:abstractText><gtr:fund><gtr:end>2018-06-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2017-06-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>57354</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">102745</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

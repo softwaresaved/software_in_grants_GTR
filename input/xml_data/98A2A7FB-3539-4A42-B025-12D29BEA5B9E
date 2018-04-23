@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/E1320558-4C4D-427D-9BD3-634FB02791A5"><gtr:id>E1320558-4C4D-427D-9BD3-634FB02791A5</gtr:id><gtr:name>Autotrip Ltd</gtr:name><gtr:address><gtr:line1>29 SHAND STREET</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>SE1 2ES</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/E1320558-4C4D-427D-9BD3-634FB02791A5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>E1320558-4C4D-427D-9BD3-634FB02791A5</gtr:id><gtr:name>Autotrip Ltd</gtr:name><gtr:address><gtr:line1>29 SHAND STREET</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>SE1 2ES</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>87500.0</gtr:offerGrant><gtr:projectCost>156844.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/3F968C05-7FB1-43AF-B160-5892E9F2BEE3"><gtr:id>3F968C05-7FB1-43AF-B160-5892E9F2BEE3</gtr:id><gtr:firstName>Krisztina</gtr:firstName><gtr:surname>Kovacs-Schreiner</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710418"><gtr:id>98A2A7FB-3539-4A42-B025-12D29BEA5B9E</gtr:id><gtr:title>AutoTrip (Automated mileage claim system development)</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710418</gtr:grantReference><gtr:abstractText>Following
+a successful ?Proof of Market? study undertaken with support from the Technology
+Strategy Board?s Smart Scheme, a new company, AutoTrip Ltd, has been formed to exploit
+our unique ?cloud based? business mileage monitoring system.
+Inefficient management processes, compounded by the increasing cost of equipment, fuel and
+labour, are impacting on business transport costs. This is creating a compelling economic
+imperative for improved control, particularly over the ?Grey Fleet? ? business mileage
+undertaken using private vehicles.
+AutoTrip aims to provide the UK?s first integrated cloud-based business mileage tracker and
+management system. This combines ultra-low cost vehicle telematics with a new software tool
+to fully automate mileage claims for employees and provide fleet managers with substantially
+improved control of employee road travel.
+The AutoTrip solution takes advantage of on-going reductions in telematics and wireless
+communication costs to efficiently collect data on business mileage undertaken in private
+vehicles. This data is transmitted to a secure system which automatically generates monthly
+mileage claims for each individual user. Our background IP, lies in our proprietary onboard
+telematics device (patent pending) which can disaggregate business and personal mileage;
+assuring employee privacy for private usage.
+The primary objective of this Proof of Concept project is to demonstrate the technical
+performance and economic benefits of the ?Alpha? device. The project will iteratively
+develop and trial the device and monitoring systems in up to 25 vehicles. We will conduct
+base-lining and usage monitoring to identify economic benefits to the pilot participants.
+Overall, this Proof of Concept project will provide a showcase for the operation of the
+AutoTrip technology and help establish a UK based company which will be well placed to
+significantly reduce business travel costs within the &amp;pound;3.5 billion pound UK ?Grey Fleet?
+market</gtr:abstractText><gtr:fund><gtr:end>2015-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2014-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>87500</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710418</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

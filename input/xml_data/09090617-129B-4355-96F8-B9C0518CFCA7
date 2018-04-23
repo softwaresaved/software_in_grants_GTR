@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/D5337A10-AC8A-402A-8164-C5F9CC6B0140"><gtr:id>D5337A10-AC8A-402A-8164-C5F9CC6B0140</gtr:id><gtr:name>Queen Mary, University of London</gtr:name><gtr:department>School of Business and Management</gtr:department><gtr:address><gtr:line1>Mile End Road</gtr:line1><gtr:line4>London</gtr:line4><gtr:postCode>E1 4NS</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/D5337A10-AC8A-402A-8164-C5F9CC6B0140"><gtr:id>D5337A10-AC8A-402A-8164-C5F9CC6B0140</gtr:id><gtr:name>Queen Mary, University of London</gtr:name><gtr:address><gtr:line1>Mile End Road</gtr:line1><gtr:line4>London</gtr:line4><gtr:postCode>E1 4NS</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>FELLOW</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/B013CBCA-BA60-4363-B0F0-99FAE29E7C2B"><gtr:id>B013CBCA-BA60-4363-B0F0-99FAE29E7C2B</gtr:id><gtr:firstName>Gabriella</gtr:firstName><gtr:otherNames>Luce</gtr:otherNames><gtr:surname>Alberti</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role><gtr:role><gtr:name>FELLOW</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=ES%2FI018913%2F1"><gtr:id>09090617-129B-4355-96F8-B9C0518CFCA7</gtr:id><gtr:title>Transnational mobility, temporariness and political engagement: the everyday experiences of migrant women in the hospitality industry in London</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Fellowship</gtr:grantCategory><gtr:grantReference>ES/I018913/1</gtr:grantReference><gtr:abstractText>&lt;p>This research investigates migrant workers? involvement in trade unions in London?s hospitality industry. The objective is to contribute to debates on labour and civic organisations? attempts at incorporating temporary migrants in a key sector of the economy. The research indicates the policies needed to sustain alliances across different social actors in order to promote the work and life conditions of migrant precarious workers.The data collection follows qualitative methods (interviews and participant observation) (Burawoy et al. 2000).&lt;/p>
+
+&lt;p>Drawing from the research findings, the aims of the Post Doctoral Fellowship are:&lt;/p>
+
+&lt;p>Establish an academic career through:&lt;/p>
+
+&lt;ul>
+ 
+
+ &lt;li>publications: submit three articles to international peer-reviewed journals (eg 'Work Employment and Society', 'Gender, Work and Organisation', 'Organisation') and a book proposal for a publishing contract&lt;/li>
+
+ &lt;li>training and capacity building (writing grants for future research, delivering two lecturers)&lt;/li>
+
+ &lt;li>develop an international research network on labour migration and industrial relations&lt;/li>
+
+ &lt;li>conduct a limited amount of new research to update knowledge on trade unions and labour market policy in the sector.&lt;/li>
+
+&lt;/ul>
+
+&lt;p>Knowledge dissemination and beneficiaries:&lt;/p>
+
+&lt;ul>
+ 
+
+ &lt;li>present papers at national and international academic conferences&lt;/li>
+
+ &lt;li>develop a community of users in order to solicit and evaluate the viewpoints of civic, governmental and industry actors in the field.&lt;/li>
+
+&lt;/ul>
+
+&lt;p>&lt;br />&amp;nbsp;&lt;/p></gtr:abstractText><gtr:fund><gtr:end>2012-04-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/924BE15C-91F2-4AAD-941A-3F338324B6AE"><gtr:id>924BE15C-91F2-4AAD-941A-3F338324B6AE</gtr:id><gtr:name>ESRC</gtr:name></gtr:funder><gtr:start>2011-05-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>80741</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">ES/I018913/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>B57EEFB7-602E-4F5D-92E4-A0C265266249</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Demography &amp; human geography</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>5E9AA4EC-49E3-4D6A-B545-79DA07CE39E0</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Management &amp; Business Studies</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>F0322ED6-113F-4530-BA5E-562216587E68</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Sociology</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>3A4CB57C-9B22-41A2-AB15-127503299365</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Human Geography</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>5E9AA4EC-49E3-4D6A-B545-79DA07CE39E0</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Management &amp; Business Studies</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>F0322ED6-113F-4530-BA5E-562216587E68</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Sociology</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

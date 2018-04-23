@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/76703205-E212-49AF-8F86-048A8F630E11"><gtr:id>76703205-E212-49AF-8F86-048A8F630E11</gtr:id><gtr:name>Inova Design Solutions Ltd</gtr:name><gtr:address><gtr:line1>SURREY TECHNOLOGY CENTRE SURREY RESEARCH PARK , 40 OCCAM ROAD</gtr:line1><gtr:city>GUILDFORD</gtr:city><gtr:region>South East</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/76703205-E212-49AF-8F86-048A8F630E11" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>76703205-E212-49AF-8F86-048A8F630E11</gtr:id><gtr:name>Inova Design Solutions Ltd</gtr:name><gtr:address><gtr:line1>SURREY TECHNOLOGY CENTRE SURREY RESEARCH PARK , 40 OCCAM ROAD</gtr:line1><gtr:city>GUILDFORD</gtr:city><gtr:region>South East</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>246781.0</gtr:offerGrant><gtr:projectCost>548404.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/D03BB8F3-92F8-4D5B-A2F1-7EDFB718752E"><gtr:id>D03BB8F3-92F8-4D5B-A2F1-7EDFB718752E</gtr:id><gtr:firstName>Leon</gtr:firstName><gtr:surname>Marsh</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720669"><gtr:id>B3B50F2C-1D27-4C40-BDD1-36943071AEEC</gtr:id><gtr:title>Non-Invasive Continuous Physiology Monitor (NCPM)</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>720669</gtr:grantReference><gtr:abstractText>There is a significant unmet need for accurate, reliable &amp;amp; continuous monitoring of vital signs
+(VS) during activity to prevent ?exertional? heat &amp;amp; cardiac illness in sporting &amp;amp; defence
+populations. There is a further unmet need in healthcare to enable rapid diagnosis &amp;amp;
+immediate preventative treatment. The addressable UK market is an estimated &amp;pound;563m &amp;amp;
+worldwide &amp;pound;9.52Bn with 10-42% growth (1-3), with a serviceable market of &amp;pound;12.3m.
+Existing VS devices suffer various limitations and fail to accurately measure core body
+temperature (CBT) non-invasively &amp;amp; continuously. CBT is the best indicator of thermal status
+and a key warning of potential patient deterioration. Inova?s novel miniature wearable device
+NCPM will address this by continuously monitoring all VS (CBT, heart rate, blood pressure,
+oxygen saturation &amp;amp; respiration) and movement during both activity &amp;amp; at rest. It wirelessly
+transmits real-time data to sports users, and automatic alerts/on-demand data to healthcare
+staff/users &amp;amp; military commanders.
+This development of prototype (DoP) project is the next phase of development of an
+InnovateUK proof of concept (PoC) study nearing completion (project 131336). Initial testing
+of the PoC prototype successfully demonstrates functionality of the technology within
+required specification. The total PoC project cost is within 0.4% of the forecast, and is
+running ahead of schedule (estimated completion April 2015).
+The key objectives of this DoP project are: (1) develop PoC prototype into a pre-production
+prototype to demonstrate full functionality in final miniaturised form; (2) gain product
+certification; (3) achieve statistical validation of prototype data through efficacy trials; &amp;amp; (4)
+generate new IP. Following the DoP project phase the NCPM will be exploited via direct
+sales, licensing &amp;amp; distribution.
+(1) IHS Sports &amp;amp; Fitness Monitors, World, 2013
+(2) Frost and Sullivan, European markets for ALT, 2010
+(3) European Defence Agency, 2011</gtr:abstractText><gtr:fund><gtr:end>2016-06-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2015-07-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>246781</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720669</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

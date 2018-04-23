@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/4F0A8817-1A32-47B0-B9E9-139A4E75352C"><gtr:id>4F0A8817-1A32-47B0-B9E9-139A4E75352C</gtr:id><gtr:name>Block Dox Limited</gtr:name><gtr:address><gtr:line1>129 FINCHLEY ROAD</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>NW3 6HY</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/4F0A8817-1A32-47B0-B9E9-139A4E75352C" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>4F0A8817-1A32-47B0-B9E9-139A4E75352C</gtr:id><gtr:name>Block Dox Limited</gtr:name><gtr:address><gtr:line1>129 FINCHLEY ROAD</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>NW3 6HY</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>21000.0</gtr:offerGrant><gtr:projectCost>30000.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/3A0DCA96-517F-485E-AFC5-D08FB6727296"><gtr:id>3A0DCA96-517F-485E-AFC5-D08FB6727296</gtr:id><gtr:firstName>Nicolas</gtr:firstName><gtr:surname>Shulman</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=132623"><gtr:id>69A847DE-FAAB-4B4E-A310-DF706F9A2845</gtr:id><gtr:title>BlockDox - International Collaboration on Unique Occupancy Assessment for Outdoor Environments</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Feasibility Studies</gtr:grantCategory><gtr:grantReference>132623</gtr:grantReference><gtr:abstractText>BlockDox addresses the significant business opportunity &amp;amp; demand that exists by providing a platform for
+
+enhancing building management with real time and predictive intelligence. Their solution, where strong
+
+interest has already been shown from the property market, combines an interoperable platform
+
+customised specifically to an individual building with a patent-pending method using geofencing, sensors
+
+&amp;amp; beacons to deliver an accurate assessment of building occupancy &amp;amp; use of communal spaces.
+
+This project aims to explore the significant opportunity for adapting BlockDox technology for use outside,
+
+thereby opening a new international market for their solution. By collaborating with Berlin based Green
+
+City Solutions, the feasibility and commercialisation of BlockDox?s solution in outdoor environments can
+
+be accelerated with particular focus on tackling the major problem of air pollution in cities worldwide. If
+
+successful, there is further potential for deployment in the global market for public and private outdoor
+
+space management, including large events and festivals.</gtr:abstractText><gtr:fund><gtr:end>2017-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2017-01-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>21000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">132623</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

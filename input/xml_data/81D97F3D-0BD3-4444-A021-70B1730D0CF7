@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/E3692888-A5E3-4E81-AA49-9F53D3376B66"><gtr:id>E3692888-A5E3-4E81-AA49-9F53D3376B66</gtr:id><gtr:name>Solar Polar Limited</gtr:name><gtr:address><gtr:line1>289 DOGSTHORPE ROAD , PETERBOROUGH</gtr:line1><gtr:city>CAMBRIDGESHIRE</gtr:city><gtr:postCode>PE1 3PA</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/E3692888-A5E3-4E81-AA49-9F53D3376B66" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>E3692888-A5E3-4E81-AA49-9F53D3376B66</gtr:id><gtr:name>Solar Polar Limited</gtr:name><gtr:address><gtr:line1>289 DOGSTHORPE ROAD , PETERBOROUGH</gtr:line1><gtr:city>CAMBRIDGESHIRE</gtr:city><gtr:postCode>PE1 3PA</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>89355.0</gtr:offerGrant><gtr:projectCost>127650.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=132145"><gtr:id>81D97F3D-0BD3-4444-A021-70B1730D0CF7</gtr:id><gtr:title>Low Cost Solar Absorption Cooling System</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Feasibility Studies</gtr:grantCategory><gtr:grantReference>132145</gtr:grantReference><gtr:abstractText>Solar Polar has invented a solar cooling system design concept for a system that will require no electrical
+
+power, will have no moving parts and will provide cooling at low cost (per Watt of cooling load). Our innovative
+
+system design will be simple to build with local materials, will be easy to maintain, reliable and will have an
+
+operating lifetime of 30 years or more. It will be ideally suited to the cooling requirements of dwellings and
+
+small to medium sized offices and retail spaces. It therefore has the potential to be a world leading, near-zero
+
+carbon cooling technology. Within this project we shall undertake: technical appraisal of each
+
+element/component of our system concept and of the system as a whole; detailed market research;
+
+technology and competitor analysis; detailed modelling of the performance of our technology in different
+
+locations/orientations; a costing exercise and cost-benefit analysis for varying applications/locations;
+
+identification of potential collaborative partners; identification of standards and accreditations required in key
+
+markets and development of technology development and commercialisation route maps.</gtr:abstractText><gtr:fund><gtr:end>2016-09-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2015-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>89355</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">132145</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/B919F175-03BD-4132-8797-7F02395A2956"><gtr:id>B919F175-03BD-4132-8797-7F02395A2956</gtr:id><gtr:name>Polyfect Solutions Limited</gtr:name><gtr:address><gtr:line1>DLP HOUSE , 46 PRESCOTT STREET</gtr:line1><gtr:city>HALIFAX</gtr:city><gtr:postCode>HX1 2QW</gtr:postCode><gtr:region>Yorkshire and the Humber</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/B919F175-03BD-4132-8797-7F02395A2956" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>B919F175-03BD-4132-8797-7F02395A2956</gtr:id><gtr:name>Polyfect Solutions Limited</gtr:name><gtr:address><gtr:line1>DLP HOUSE , 46 PRESCOTT STREET</gtr:line1><gtr:city>HALIFAX</gtr:city><gtr:postCode>HX1 2QW</gtr:postCode><gtr:region>Yorkshire and the Humber</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>41118.0</gtr:offerGrant><gtr:projectCost>68530.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/40453E5A-6A88-43D0-9862-F4CC9EFB5A6E"><gtr:id>40453E5A-6A88-43D0-9862-F4CC9EFB5A6E</gtr:id><gtr:firstName>David</gtr:firstName><gtr:surname>Field</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710016"><gtr:id>09849FE2-3E11-49B9-B2D9-7D45634E76A3</gtr:id><gtr:title>NanoPerm</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710016</gtr:grantReference><gtr:abstractText>Plastic packaging is used extensively by the food industry to preserve the freshness and
+extend the shelf life of food and beverage products. A key property of plastics is their
+impermeability to gases, as it is critical that the packaging acts as an efficient barrier to
+moisture, oxygen and carbon dioxide. Several inexpensive polyolefins such as polyethylene
+and polypropylene are at present unsuitable for certain types of food packaging because gases,
+especially oxygen, diffuse through them too easily. The packaging industry is extremely
+eager to use inexpensive, monofilm, recyclable polyolefins rather than composite multilayer
+films with their attendant problems of post consumer handling and disposal. There is a huge
+market pull for our solution.
+It is known that the gas permeability of polymers can be reduced using nano-platelets of clay
+as a filler, which microstructurally creates a tortuous path, thereby reducing gas permeability.
+Although nano clays can be exfoliated and dispersed in polyamides, the 20 year old
+technology relies on surfactants and compatibilisers that are unnacceptable in food
+applications. Considerable research has been expended on dispersing nano clays in
+polyolefins without the use of such undesireable agents but none have yet succeeded or
+developed cost effective solutions on any significant scale.
+Initial market research through our Pathfinder Project has demonstrated that there is a
+significant demand for polymer films and polymer coating with improved gas barrier
+properties for use in packaging in order to extend the shelf life of foods and to enable the
+introduction of recyclable clay impregnated polymer to address the recycling agenda.
+More than 90% of all foods reach the consumer in packaged form (BASF.COM). Further,
+WRAP estimate that 6.7million tonnes of this food are wasted every year in the UK. The
+drive to improve food packaging to meet consumer requirements and lessen environmental
+impact is a key factor in the sustainable future of the food packaging industry. There is
+significant demand for improved oxygen and carbon dioxide barrier properties in both
+conventional and recyclable polymer films in order to enhance performance.</gtr:abstractText><gtr:fund><gtr:end>2013-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2012-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>41118</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710016</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

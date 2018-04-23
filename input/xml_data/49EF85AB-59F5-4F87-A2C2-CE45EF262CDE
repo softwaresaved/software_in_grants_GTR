@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/0D34D81A-A62C-4B11-8A90-ACB670C0AE91"><gtr:id>0D34D81A-A62C-4B11-8A90-ACB670C0AE91</gtr:id><gtr:name>Institute of Education</gtr:name><gtr:department>Quantitative Social Science</gtr:department><gtr:address><gtr:line1>University of London</gtr:line1><gtr:line2>20 Bedford Way</gtr:line2><gtr:line4>London</gtr:line4><gtr:postCode>WC1H 0AL</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/0D34D81A-A62C-4B11-8A90-ACB670C0AE91"><gtr:id>0D34D81A-A62C-4B11-8A90-ACB670C0AE91</gtr:id><gtr:name>Institute of Education</gtr:name><gtr:address><gtr:line1>University of London</gtr:line1><gtr:line2>20 Bedford Way</gtr:line2><gtr:line4>London</gtr:line4><gtr:postCode>WC1H 0AL</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/067815A3-2A5D-426C-8397-3411908229AD"><gtr:id>067815A3-2A5D-426C-8397-3411908229AD</gtr:id><gtr:firstName>Ian</gtr:firstName><gtr:surname>Plewis</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/76DC49E8-75E0-4570-8FA9-F6A3E015A72F"><gtr:id>76DC49E8-75E0-4570-8FA9-F6A3E015A72F</gtr:id><gtr:firstName>Jane</gtr:firstName><gtr:surname>Elliott</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=PTA-035-25-0008"><gtr:id>49EF85AB-59F5-4F87-A2C2-CE45EF262CDE</gtr:id><gtr:title>Provision of Teaching Datasets and Workshops for Lecturers Based on British Cohort Studies</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>PTA-035-25-0008</gtr:grantReference><gtr:abstractText>The main objective of the project is to enhance the teaching of quantitative research methods to undergraduate and postgraduate social science students in UK universities. This will be realised by:
+
+&lt;ol>
+ 
+
+ &lt;li>producing a series of fully documented teaching datasets based on the British Cohort Studies housed at the Centre for Longitudinal Studies. &lt;/li>
+
+ &lt;li>accompanying these datasets with appropriate teaching resources.&lt;/li>
+
+ &lt;li>publicising, and supporting these materials using a series of workshops aimed at academics in higher education. &lt;/li>
+
+&lt;/ol> 
+
+&lt;p>These resources will aim to explore the following themes within longitudinal research:&lt;/p>
+
+&lt;ol>
+ 
+
+ &lt;li>Predicting later outcomes (e.g. unemployment) from earlier circumstances (e.g. poor health).&lt;/li>
+
+ &lt;li>Describing and understanding individual change over time &lt;/li>
+
+ &lt;li>Describing and understanding the timing of events (e.g. time to first cohabitation or marriage)&lt;/li>
+
+ &lt;li>Comparing the outcomes for those exposed and not exposed to a social intervention (e.g. the Children?s Fund).&lt;/li>
+
+ &lt;li>Making comparisons between cohorts for themes 1) to 3).&lt;/li>
+
+&lt;/ol> 
+
+&lt;p>In addition to being valuable for supporting the teaching of quantitative methods, these teaching datasets will also be of value to the wider research community who use the British Cohort Studies as they will make available a number of standard derived variables that researchers can use in their analyses.&lt;/p></gtr:abstractText><gtr:fund><gtr:end>2007-12-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/924BE15C-91F2-4AAD-941A-3F338324B6AE"><gtr:id>924BE15C-91F2-4AAD-941A-3F338324B6AE</gtr:id><gtr:name>ESRC</gtr:name></gtr:funder><gtr:start>2006-01-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>103091</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">PTA-035-25-0008</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>64564C94-AC7F-4056-903D-0AED107A359E</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Education</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>64564C94-AC7F-4056-903D-0AED107A359E</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Education</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/818CD6C9-61EE-41F2-9F37-0C7A8F43E25D"><gtr:id>818CD6C9-61EE-41F2-9F37-0C7A8F43E25D</gtr:id><gtr:name>University of Birmingham</gtr:name><gtr:department>School of Physics and Astronomy</gtr:department><gtr:address><gtr:line1>Edgbaston Park Road</gtr:line1><gtr:line2>Edgbaston</gtr:line2><gtr:postCode>B15 2TT</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/818CD6C9-61EE-41F2-9F37-0C7A8F43E25D"><gtr:id>818CD6C9-61EE-41F2-9F37-0C7A8F43E25D</gtr:id><gtr:name>University of Birmingham</gtr:name><gtr:address><gtr:line1>Edgbaston Park Road</gtr:line1><gtr:line2>Edgbaston</gtr:line2><gtr:postCode>B15 2TT</gtr:postCode><gtr:region>West Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/946D8A98-A54A-4560-A205-CB38DB8F9721"><gtr:id>946D8A98-A54A-4560-A205-CB38DB8F9721</gtr:id><gtr:firstName>YESHPAL</gtr:firstName><gtr:surname>SINGH</gtr:surname><gtr:roles><gtr:role><gtr:name>RESEARCHER</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/56604E27-3592-4004-AEA9-E169D698EC31"><gtr:id>56604E27-3592-4004-AEA9-E169D698EC31</gtr:id><gtr:firstName>Kai</gtr:firstName><gtr:surname>Bongs</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=EP%2FR003033%2F1"><gtr:id>FF31DC67-F06F-45DD-A8CD-414DE1A8AAEF</gtr:id><gtr:title>Strontium COld atom package foR commercial oPtIcal clOcks</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/R003033/1</gtr:grantReference><gtr:abstractText>Cold atom devices for sensing and metrology are the closest to commercial exploitation. The science is for some
+applications highly developed and offers unquestioned performance advantages in sensitivity and some steps have been
+made at making more compact systems. But for genuine and widespread applications substantial improvements need to be
+made in size, weight and power ('SWAP') and ruggedness of these systems.
+The project SCORPIO is concerned with developing a component technology that forms the core of an optical lattice clock.
+The physics packaged that enables a magneto optical trap (MOT) of strontium atoms is the central component in which
+multi-stage cooling and lattice preparation provides the key elements for clock interrogation.
+Optical lattice clocks use transitions in neutral atoms as quantum frequency references to deliver timing at very high levels of accuracy. This project forms a key part of the development of a commercial strontium clock, using techniques developed
+in the creation of the world's most stable clocks.
+The project will support the nucleation of a leading industrial capability for such future atomics packages and chamber
+products, which will be UK based and also therefore benefit from non-ITAR status.
+Our consortium of 2 partners has all of the critical expertise required to prosecute this project. It is led by the highly
+innovative commercial partner MSL who have a proven track record in bringing novel, state of the art technology in high
+quality lasers to market. University of Birmingham is leading of the UK National Quantum Technology Hub in Sensors and
+Metrology, an &amp;pound;80M innovation project including 6 University and over 70 industry partners. As such it provides a number of
+technology development specialists with expertise in optical clocks, gravity sensors and simulation packages in addition to
+civil engineering expertise in the use of gravity sensors for underground mapping and links to potential commercial endusers.
+By combinin the vacuum technology with laser technology through to testing we will also be making unique steps towards
+a significant step down in size, power and cost requirements of a future Sr based atomic clock.
+To-date these components have been developed in isolation. It is important, however, to develop systems that can
+integrate whilst following a similar ruggedisation and miniaturisation activities. This collaborative programme will develop a
+clear supply chain of UK-based technology suitable for various applications ranging from satellite-free navigation, ultra-high
+precision timing for financial trades and exceptionally-precise gravetometers for sub-surface detection.</gtr:abstractText><gtr:potentialImpactText>The project will create benefits for a number of users:
+Benefits to Industry: A miniaturised atomics physics package will develop and utilise a number of key technology
+components including: materials / coatings, vacuum chambers and pumps, laser systems, optics, control systems etc.
+Whilst MSL are ideally positioned to manufacture and supply a number of these, they will also rely on key supply chain
+partners to provide other components, such as the vacuum systems, optical interfaces etc.; thereby creating opportunities
+and benefits for numerous technology supply chain companies. Furthermore, the scientific challenges and knowledge
+addressed during the project will create opportunities for supply chain partners to develop their own unique technologies,
+support differentiation, competitiveness and new business growth. The main output of the project will be a robust,
+miniaturised, low power and low cost atomics package; representing a core sub-system component to numerous quantum
+technology systems, such as atomic clocks, gravity sensors, magnetic
+sensors etc.; which in turn become core components of platform systems such as: navigation systems, geo-physic sensors
+for gravity mapping etc. Successful delivery of the project results thereby demonstrates the potential to benefit numerous
+sensor / system integrators. 
+Quantum technology has the potential to demonstrate performance gains for a wide range of applications, such as defence
+(navigation, tunnel detection, battlefield imaging), geophysics (oil prospecting, void / feature detection, utility mapping), civil
+engineering (infrastructure mapping) etc. In the long term such systems will deliver highly disruptive solutions that: i) lead to
+the creation of new markets; ii) satisfy currently un-met user needs; or iii) achieve performance gains far beyond existing
+solutions. A particular focus of the project will be optical lattice clocks for space applications. The consortium will engage
+with potential European and International end-users to: i) inform them about the features of quantum optical clocks; ii) to
+explore potential end-use applications; and iii) to define a roadmap for take up and use. Early applications are anticipated
+for navigation and GPS replacement (reduced reliance).
+Benefits to Society:
+Quantum technology is a disruptive technology with the potential to create new markets and business growth, leading to
+UK employment, economic growth and wealth creation. The project represents an important step towards the development
+of a key component / platform technology that will enable the realisation of these benefits / impacts. The target final
+application for the project results are optical lattice clocks. Such atomic clocks demonstrate a wide range of benefits for
+society including: reduced dependence on GPS (a major risk and concern for society); and enhanced navigation leading to
+more efficient transport systems; to name but a few. Such benefits / impacts align with numerous National policy priorities,
+such as security, smart cities and transport etc.</gtr:potentialImpactText><gtr:fund><gtr:end>2018-02-28</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2017-03-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>188154</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">EP/R003033/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

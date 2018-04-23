@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/4781848B-34A7-4145-8B20-72A03BBA9745"><gtr:id>4781848B-34A7-4145-8B20-72A03BBA9745</gtr:id><gtr:name>Allotrope Energy Ltd</gtr:name><gtr:address><gtr:line1>198, Crewe Rd</gtr:line1><gtr:city>Alsager</gtr:city><gtr:postCode>ST7 2JF</gtr:postCode><gtr:region>North West</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/4781848B-34A7-4145-8B20-72A03BBA9745" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>4781848B-34A7-4145-8B20-72A03BBA9745</gtr:id><gtr:name>Allotrope Energy Ltd</gtr:name><gtr:address><gtr:line1>198, Crewe Rd</gtr:line1><gtr:city>Alsager</gtr:city><gtr:postCode>ST7 2JF</gtr:postCode><gtr:region>North West</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>118761.0</gtr:offerGrant><gtr:projectCost>169658.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/21923A87-97DA-4246-B07E-5EC0B760BF3D"><gtr:id>21923A87-97DA-4246-B07E-5EC0B760BF3D</gtr:id><gtr:firstName>Peter</gtr:firstName><gtr:surname>Wilson</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=132242"><gtr:id>71FCE15B-4E22-485E-A941-08543265DA87</gtr:id><gtr:title>High energy density supercapacitors for hybrid applications</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Collaborative R&amp;D</gtr:grantCategory><gtr:grantReference>132242</gtr:grantReference><gtr:abstractText>With extreme power capabilities, life-times and efficiencies the supercapacitor seems tailored to energy
+
+storage in hybrid applications. Unfortunately the low gravimetric and volumetric energy density stifles their
+
+adoption and results in the supercapacitor market being just 5% of the lithium battery market. Through a
+
+Innovate funded Technical Feasibility study MAST Carbon Intl. looks to have developed a process to drastically
+
+increase this energy density, allowing the supercapacitor to now compete on volume, weight and ultimately
+
+cost, when all requirements of the hybrid vehicle are reviewed in combination. By removing the current bottle
+
+neck the current energy storage systems bring, the new supercapacitor has the capability of accelerating hybrid
+
+car adoption, paving the way to improved environmental credentials all whilst offering a cost saving to both the
+
+consumer and to the UK in general. As it stands the UK has little involvement in both the $1bn supercapacitor
+
+market and the $20bn lithium ion battery market. Successful development of this technology will offer a
+
+superior product in both categories and will accelerate peripheral R&amp;amp;D in numerous areas.</gtr:abstractText><gtr:fund><gtr:end>2018-08-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2016-12-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>118761</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">132242</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

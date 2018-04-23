@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/BECA2763-0902-40AA-8DB2-836A5731CF58"><gtr:id>BECA2763-0902-40AA-8DB2-836A5731CF58</gtr:id><gtr:name>Brunel University</gtr:name><gtr:department>Research Support and Development Office</gtr:department><gtr:address><gtr:line1>Brunel University</gtr:line1><gtr:line4>Uxbridge</gtr:line4><gtr:line5>Middlesex</gtr:line5><gtr:postCode>UB8 3PH</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/BECA2763-0902-40AA-8DB2-836A5731CF58"><gtr:id>BECA2763-0902-40AA-8DB2-836A5731CF58</gtr:id><gtr:name>Brunel University</gtr:name><gtr:address><gtr:line1>Brunel University</gtr:line1><gtr:line4>Uxbridge</gtr:line4><gtr:line5>Middlesex</gtr:line5><gtr:postCode>UB8 3PH</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/7C0F56B8-7524-40E6-BAD7-F147D01F1C76"><gtr:id>7C0F56B8-7524-40E6-BAD7-F147D01F1C76</gtr:id><gtr:firstName>Adam</gtr:firstName><gtr:surname>Bell</gtr:surname><gtr:roles><gtr:role><gtr:name>TRAINING_GRANT_HOLDER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=EP%2FN509437%2F1"><gtr:id>2923681B-C455-47C3-958D-0C5495A8450A</gtr:id><gtr:title>DTP 2016-2017 Brunel University</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Training Grant</gtr:grantCategory><gtr:grantReference>EP/N509437/1</gtr:grantReference><gtr:abstractText>Brunel University London has a well-founded reputation as a leader in research, consistently
+offering &amp;quot;research and enterprise for the benefit of individual and society&amp;quot; since 1966 when
+the University received its Royal Charter. Brunel University London is firmly within the top
+quarter of research universities in the UK according to REF 2014. Our research in
+engineering, design and physical sciences spans a variety of major fields from energy,
+automotive, materials and manufacturing, as well as mathematical sciences and computing.
+Our College of Engineering, Design and Physical Sciences ranks amongst London's biggest
+and best for the quality of its research. We are a leading expert in energy and food
+sustainability-related research, with the EPSRC-funded National Centre for Sustainable
+Energy Use in Food Chains developing energy-efficient manufacturing, distribution and retail
+solutions.
+The Advanced Metal Casting Centre is being established on campus with funding from
+HEFCE, in partnership with a number of industrial companies, led by Jaguar Land Rover, to
+serve the automotive, aerospace and other engineering sectors as a national scale-up facility
+to bridge the gap between fundamental, laboratory-scale research and full-scale industrial
+trials.
+The National Structural Integrity Research Centre (NSIRC) based in Cambridge, also funded
+by HEFCE, is a partnership between Brunel and internationally-renowned technology,
+engineering and research organisation TWI, also supported by BP and the Lloyd's Register
+Foundation.
+Postgraduate research students are valued members of the University's research community
+and make a significant contribution to the University's thriving research activities. The
+importance of developing transferable skills during a research programme is well recognised
+by research funders, employers and doctoral graduates. A doctoral qualification demonstrates
+an exceptionally high level of academic achievement. However, to be effective as a doctoral
+researcher and subsequently in a doctoral career (within or outside academia), postgraduate
+researchers also need a broader range of professional (transferable) skills. Brunel offers a
+variety of opportunities for postgraduate research students to develop their skills. Research
+students are expected to take responsibility for shaping, managing and directing their research
+training (taking advice from the supervisory team). The Brunel 3D Researcher Development
+Tool has been developed by the University to provide a common framework to enable all
+research students to reflect upon their training and development needs.
+A number of EPSRC Doctoral Training Partnerships (DTP) studentships are available to
+support postgraduate research opportunities in engineering, design and physical sciences in
+the Institute of Materials and Manufacturing (IMM) (for improving the performance of
+materials and structures), Institute of Energy Futures (IEF) (for improving energy usage and
+reducing greenhouse gas emissions), and the College of Engineering, Design and Physical
+Sciences (CEDPS) (mathematical science, big data, autonomous systems and robotics, digital
+technologies). We welcome applications for studentships in these areas. The DTP funding
+will be used to match the industrial support of PhD studentships and to support PhD students
+spending a period of time at an industrial company.
+The DTP funding will be used strategically to consolidate the critical mass in areas of
+intensive research activities and excellent infrastructure at Brunel, which are represented by
+the research themes in the research institutes and the research clusters in the college. In
+support of mathematical sciences and their application to engineering and physical sciences,
+the DTP funding will be made available to newly-appointed academic staff in the Department
+of Mathematical Sciences to support their first EPSRC grant.</gtr:abstractText><gtr:fund><gtr:end>2021-09-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2016-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>1404660</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">EP/N509437/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

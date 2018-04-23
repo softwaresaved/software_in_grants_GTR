@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/AF66415B-1D4C-447B-AA52-86C63568B098"><gtr:id>AF66415B-1D4C-447B-AA52-86C63568B098</gtr:id><gtr:name>Ventive Ltd</gtr:name><gtr:address><gtr:line1>2020CA
+1 St Andrew's Hill
+London</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>EC4V 5BY</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/AF66415B-1D4C-447B-AA52-86C63568B098" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>AF66415B-1D4C-447B-AA52-86C63568B098</gtr:id><gtr:name>Ventive Ltd</gtr:name><gtr:address><gtr:line1>2020CA
+1 St Andrew's Hill
+London</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>EC4V 5BY</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>24000.0</gtr:offerGrant><gtr:projectCost>40000.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700558"><gtr:id>5FF2C3DE-BD0C-4FD0-BEF6-63FFDD3C5F38</gtr:id><gtr:title>Integrated Air Quality Sensors (IAQS)</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700558</gtr:grantReference><gtr:abstractText>Indoor Air Quality (IAQ) is a significant and growing problem, especially in light of recent
+retrofitting activity. A growing body of research suggests that there is a distinct negative
+impact of energy efficiency upgrades of homes on the air quality and the health of the
+occupants. A study conducted by Dr Nick Osborne and Richard Sharpe investigating the role
+of increased energy efficiency, the extent of damp problems and risks to health, using data
+from 4,000 homes in Cornwall. The main findings were as follows:
+? A unit increase in SAP was associated with a 3% increase in adult asthma;
+? Adults living in homes with SAP =71 had a two-fold increased risk of asthma;
+Another study of retrofitted properties was conducted by Affinity Sutton, when a total of 150
+homes were retrofitted as part of their ?Future Fit? programme. The report states that ?all
+Future Fit works properties had air tightness measures carried out. These were paired with
+appropriate ventilation systems, an approach that will not necessarily be taken under the costsled
+Green Deal.? It makes the following observation: ?Despite this, there were still issues with
+damp, mould and condensation in certain properties. For one particular household, this led to
+all the works being removed, despite several weeks of engagement around their lifestyle.? Of
+the 78 issues reported at 55 properties, ?27% were issues related to ventilation systems with
+another 17% directly related to damp, mould or condensation.?
+Passive Ventilation with Heat Recovery (PVHR) developed by Ventive can achieve better
+Indoor Air Quality but without comprehensive monitoring it is impossible to ascertain the
+ventilation rate and the impact on Indoor Air Quality. Currently the data logger, airflow,
+temperature, humidity and CO2 sensors cost in excess of &amp;pound;2000 per system, limiting wider
+application. As part of this proposal we intend to ascertain the market for and the added value
+of Air Quality Sensors integrated into our ventilation.</gtr:abstractText><gtr:fund><gtr:end>2015-11-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2015-06-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>24000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700558</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

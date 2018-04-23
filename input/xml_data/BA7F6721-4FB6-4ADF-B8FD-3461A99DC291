@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/E8263C77-551D-4829-AA8E-51DF4762C34B"><gtr:id>E8263C77-551D-4829-AA8E-51DF4762C34B</gtr:id><gtr:name>Yorkshire Forward Limited</gtr:name><gtr:address><gtr:line1>34 HIGH STREET , ALDRIDGE</gtr:line1><gtr:city>WALSALL</gtr:city><gtr:postCode>WS9 8LZ</gtr:postCode><gtr:region>West Midlands</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/E8263C77-551D-4829-AA8E-51DF4762C34B" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>E8263C77-551D-4829-AA8E-51DF4762C34B</gtr:id><gtr:name>Yorkshire Forward Limited</gtr:name><gtr:address><gtr:line1>34 HIGH STREET , ALDRIDGE</gtr:line1><gtr:city>WALSALL</gtr:city><gtr:postCode>WS9 8LZ</gtr:postCode><gtr:region>West Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>40532.0</gtr:offerGrant><gtr:projectCost>101332.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=730110"><gtr:id>BA7F6721-4FB6-4ADF-B8FD-3461A99DC291</gtr:id><gtr:title>To design and develop a hydrocarbon and chemical resistant geosynthetic membrane</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Legacy RDA Grant for R&amp;D</gtr:grantCategory><gtr:grantReference>730110</gtr:grantReference><gtr:abstractText>Established in 1989, ITP is an independent and privately owned limited liability SME company employing 17
+people with an annual turnover of&amp;pound; 4.3 million per annum.
+We are an established producer of technical textiles, coated &amp;amp; un-coated special fabrics and films with a
+reputation for technical innovation and professional service. Application driven products are designed,
+developed and produced for a number of markets including building &amp;amp; civil engineering, chemical protection
+clothing and defence. State of the art converting lines that include slitting and rewinding, printing and thermal
+welding provide much of the added value to roll stock produced to our specifications.
+An integral element of our business plan is continuous improvement, product innovation and market
+diversification. Our prime objective is to develop innovative added-value products with higher margin
+opportunities.
+One of our specialisations is technical that of protective membranes, principally incorporating flame retardancy,
+moisture control and chemical protection technologies.
+By far the most technical and profitable products for the company are the chemical resistance membranes
+produced for chemical protective clothing fabrics, gas suits and military NBC shelters.
+Our experience in selling radon and methane gas barrier geosynthetic membranes to environmental
+consultants has identified the need for a new barrier material.
+Logically, we utilised our expertise with barrier polymers used in chemical protective clothing materials to
+develop laboratory-scale proof of concept samples of a suitable barrier membrane.
+Our investigations identified a specific range of hydrocarbons and toxic chemicals that are commonly
+investigated in environmental protection project risk assessments and our discussions also highlighted
+limitations in current industry standards and shortcomings in the availability of test data, specifically data that
+enables engineers to determine the material's predicted useful life.
+In the normal course of events, contaminated soil is analysed to determine the concentrations of each
+contaminant. The difficulty for design engineers is in material selection since little relevant chemical resistance
+data is available for the contaminants in question.
+Our project is to produce both a product and an all-encompassing solution for specifiers:
+1. a task-specific material engineered to be resistant to the specific hydrocarbons and toxic chemicals
+(Annex 2H);
+2. comprehensive test data for durability and chemical resistance (Annex 21);
+3. an on-line software for design engineers whereby the contaminants' concentrations can be uploaded
+to produce a suitability and predicted useful life report.
+This development project will provide both a suitable barrier membrane and necessary data to address these
+needs.</gtr:abstractText><gtr:fund><gtr:end>2011-06-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2010-01-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>40532</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">730110</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

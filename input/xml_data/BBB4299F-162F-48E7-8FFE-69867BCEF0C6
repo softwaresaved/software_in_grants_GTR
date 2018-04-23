@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/8A63BACF-7760-4BD2-AED1-2A781755A66F"><gtr:id>8A63BACF-7760-4BD2-AED1-2A781755A66F</gtr:id><gtr:name>Foamhand Limited</gtr:name><gtr:address><gtr:line1>4th Floor Imperial House,15 Kingsway</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>WC2B 6UN</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/8A63BACF-7760-4BD2-AED1-2A781755A66F" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>8A63BACF-7760-4BD2-AED1-2A781755A66F</gtr:id><gtr:name>Foamhand Limited</gtr:name><gtr:address><gtr:line1>4th Floor Imperial House,15 Kingsway</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>WC2B 6UN</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>15732.0</gtr:offerGrant><gtr:projectCost>22464.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/52896F8D-85B7-438D-9E21-1D9AFE7F1C5E"><gtr:id>52896F8D-85B7-438D-9E21-1D9AFE7F1C5E</gtr:id><gtr:firstName>Paul</gtr:firstName><gtr:surname>Foster</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=132653"><gtr:id>BBB4299F-162F-48E7-8FFE-69867BCEF0C6</gtr:id><gtr:title>8. Information and Communication Technology</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Feasibility Studies</gtr:grantCategory><gtr:grantReference>132653</gtr:grantReference><gtr:abstractText>This project is a feasibility study, including proof of concept(POC), on the commercial viability of the
+
+FOAMHAND Bliptrack pedestrian monitoring system to support crowd management in the major events
+
+market.
+
+FOAMHAND Bliptrack is an innovative system to support crowd management operations at major events,
+
+such as the Tokyo 2020 Olympic Games. The technology behind the system will allow us to capture higher
+
+volume and more reliable data than any system in the market. This will revolutionise infrastructure and
+
+resource planning, logistics and operations for major events, allowing hosts and organisers to deliver
+
+safer, more secure events whilst achieving improved budget utilisation. The system also provide
+
+significant commercial opportunities to clients by providing them with a rich understand of pedestrian
+
+movement, such as dwell time, areas of high density footfall, key routes and repeat visits.</gtr:abstractText><gtr:fund><gtr:end>2017-06-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2017-02-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>15732</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">132653</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

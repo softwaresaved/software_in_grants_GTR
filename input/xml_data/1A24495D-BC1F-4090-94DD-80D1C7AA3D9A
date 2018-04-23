@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/8B242272-A598-4F1A-874E-B2DFF23607E3"><gtr:id>8B242272-A598-4F1A-874E-B2DFF23607E3</gtr:id><gtr:name>Zap Corporation Limited</gtr:name><gtr:address><gtr:line1>Suite 2 The Technology Centre,Station Road</gtr:line1><gtr:city>Framlingham</gtr:city><gtr:postCode>IP13 9EZ</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/8B242272-A598-4F1A-874E-B2DFF23607E3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>8B242272-A598-4F1A-874E-B2DFF23607E3</gtr:id><gtr:name>Zap Corporation Limited</gtr:name><gtr:address><gtr:line1>Suite 2 The Technology Centre,Station Road</gtr:line1><gtr:city>Framlingham</gtr:city><gtr:postCode>IP13 9EZ</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>67500.0</gtr:offerGrant><gtr:projectCost>112500.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/890F9269-AE20-46BC-BE4A-1FB6D2648CBD"><gtr:id>890F9269-AE20-46BC-BE4A-1FB6D2648CBD</gtr:id><gtr:firstName>John</gtr:firstName><gtr:surname>Johnson</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710039"><gtr:id>1A24495D-BC1F-4090-94DD-80D1C7AA3D9A</gtr:id><gtr:title>Advanced audience targeting for IPTV</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710039</gtr:grantReference><gtr:abstractText>This project seeks to build an audience profiling tool for use by IPTV ( Internet Protocol
+delivered Television ) operators. These platforms offer a new way of delivering television
+over broadband type networks. As such as they use IP technology and have the potential to
+create and support much more intuitive personalised television services than the existing
+distribution systems with which they compete - ie terrestrial , satellite and cable. However
+ownership of the networks is largely in the hands of the global telco community for whom
+television has not been a traditional core business. They are therefore slow to innovate in this
+space and as a result IPTV has been characterised by relatively slow growth in most countries
+since inception around 2003 and a certain dependency on smaller companies to provide
+drivers for differentiation strategies. This project addresses one such differentiation strategy
+based on providing the end consumer with a highly targeted television service based
+exclusively around his/her individual tastes.
+The key deliverable will be a basic prototype demonstrator which will show what is
+potentially achievable using real live consumer data sourced from a UK network operator
+when aggregated and converted into a targeting tool. The underlying key premise is that there
+is a linkage between TV viewing habits and the likely consumption behaviour patterns of
+consumers. This information exists in the form of clues which can be deduced from both
+programme and channel viewing trends evaluated over time. The revealed patterns are totally
+individual - just like fingerprints - and once properly interpreted and aggregated they are
+invaluable to any advertiser.
+The project output will be a software based programme which allows the consumer to reap
+significant benefit from the technology whilst remaining totally passive ? ie they are not
+requested to interact with the system although the system in turn continually learns more and
+more about them in real time. The interaction is there but is non ? obvious to the consumer
+and therefore does not distract from their normal enjoyment of TV viewing. Something
+similar already exists with internet based recommendation technologies but similar
+developments in the TV space remain immature.
+This evolution will provide a key next step towards intelligent television networks. The
+commercial end game is to refine the analytics and the software to a point where this kind of
+rationale can be used as a basis for making decisions about the likely spending patterns of
+individuals within households and then households within audience universes. In addition the
+project will construct a new business model to fit the initiatives into the new IPTV based eco
+systems.
+Growth projections from analysts suggest that this type of intuitive analytics will become
+increasingly dominant for the provision of accurate targeting systems in next generation
+television platforms over the next five years.</gtr:abstractText><gtr:fund><gtr:end>2012-10-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2011-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>67500</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710039</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

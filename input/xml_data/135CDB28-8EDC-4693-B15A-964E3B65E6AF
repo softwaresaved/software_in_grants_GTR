@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/CAE6064D-E654-468D-A15C-0AFC93FFDB6B"><gtr:id>CAE6064D-E654-468D-A15C-0AFC93FFDB6B</gtr:id><gtr:name>Domainex Limited</gtr:name><gtr:address><gtr:line1>London Biosciences Innovation Centre
+2 Royal College Street</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>NW1 0NH</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/CAE6064D-E654-468D-A15C-0AFC93FFDB6B" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>CAE6064D-E654-468D-A15C-0AFC93FFDB6B</gtr:id><gtr:name>Domainex Limited</gtr:name><gtr:address><gtr:line1>London Biosciences Innovation Centre
+2 Royal College Street</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>NW1 0NH</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>250000.0</gtr:offerGrant><gtr:projectCost>569790.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/5883F54E-4B53-4D94-A35E-94E888E18583"><gtr:id>5883F54E-4B53-4D94-A35E-94E888E18583</gtr:id><gtr:firstName>Tony</gtr:firstName><gtr:surname>Signorini</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720028"><gtr:id>135CDB28-8EDC-4693-B15A-964E3B65E6AF</gtr:id><gtr:title>A new drug targeting the enzymes TBK1 and IKKe for the treatment of cancer</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720028</gtr:grantReference><gtr:abstractText>Our aim is to invent a new drug for the treatment of several common cancers through
+inhibition of the enzymes IKKe and/or TBK1. Recent academic research has shown that
+blocking these closely-related protein kinases will stop cancer cells growing, and force them
+to die. Furthermore these enzymes are important in some inflamatory diseases, obesity, and
+Type 2 diabetes.
+Our initial markets are breast and ovarian cancers. Breast cancer is the most common cancer
+in women ? every year it affects over a million women worldwide - and is the leading cause of
+death for women aged 40-44. The five-year survival rate for Stage V cancer patients
+(advanced disease progression) is just 16%. Ovarian cancer is rarely diagnosed in its early
+stages and is usually quite advanced by the time diagnosis is made, resulting in poor
+prognoses. The five-year survival rate for all stages is only 35% to 38%.
+An IKKe/TBK1 inhibitor would have a significant impact on patients with these cancers,
+leading to better quality of life, and improved five-year survival rates. This drug will also
+reduce healthcare costs because unlike many existing drugs, this new treatment will be
+designed to be taken as a pill at home, rather than by infusion in hospital.
+The objective of this programme is to identify a candidate drug that is effective in disease
+models and would be orally well-absorbed by humans. The subsequent commercialisation of
+this new drug would be through a partnership with a large pharmaceutical company with the
+resources to take on this expensive stage of product development.
+Domainex is presently a leader in this field. The funding of this proposal will allow
+Domainex to recruit a number of scientists ? preserving highly-skilled drug discovery jobs in
+the UK. Given recent trends in the pharmaceutical industry it is very likely that the future of
+drug research in this country will be based largely upon the success and growth of
+biotechnology companies such as Domainex.</gtr:abstractText><gtr:fund><gtr:end>2013-01-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2011-11-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>250000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720028</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

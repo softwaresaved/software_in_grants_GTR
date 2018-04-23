@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/6DFB2746-8FF4-471A-AEF4-6C930A088033"><gtr:id>6DFB2746-8FF4-471A-AEF4-6C930A088033</gtr:id><gtr:name>Synergy Logistics Limited</gtr:name><gtr:address><gtr:line1>SYNERGY HOUSE , LISLE STREET</gtr:line1><gtr:city>LOUGHBOROUGH</gtr:city><gtr:postCode>LE11 1AW</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/6DFB2746-8FF4-471A-AEF4-6C930A088033" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>6DFB2746-8FF4-471A-AEF4-6C930A088033</gtr:id><gtr:name>Synergy Logistics Limited</gtr:name><gtr:address><gtr:line1>SYNERGY HOUSE , LISLE STREET</gtr:line1><gtr:city>LOUGHBOROUGH</gtr:city><gtr:postCode>LE11 1AW</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>238636.0</gtr:offerGrant><gtr:projectCost>530302.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720792"><gtr:id>549FAE97-7513-46D8-820C-029225D30901</gtr:id><gtr:title>Choreo - A new paradigm in warehouse management systems for ecommerce fulfilment</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720792</gtr:grantReference><gtr:abstractText>Demanding e-Commerce fulfilment requires increasingly intelligent Warehouse Management
+Systems (WMS). Some vendors have introduced highly automated ?goods-to-man? stock
+movement solutions but these are capital intensive and capacity-constrained. Other vendors,
+including Synergy, offer more flexible ?man-to-goods? (MTG) methods with intelligent
+picking trolleys that are pushed to the stock locations. Although relatively inexpensive
+compared with automation, MTG solutions are demanding for pickers and staffing costs can
+rise dramatically at peak periods. A new approach to this problem is to retain high flexibility
+but minimise human effort without requiring expensive automated plant and equipment, the
+key being to coordinate movement of people and unpicked stock within the warehouse.
+A real time location system is proposed that will update precise 3D locations of the people
+and stock. New real-time routing and scheduling algorithms will identify the optimum routes
+for stock and people movement around the warehouse and schedule change along those
+routes, in real-time, to compensate for planned and unplanned events, e.g. delays within the
+Warehouse; new stock arrivals; new stock collection requests; predicted changes in stock
+collection patterns in response to expected changes in received stock requests. A key element
+of the proposed new system is dynamic relocation of unpicked stock within the warehouse to
+minimise the distance travelled for picking.
+This innovative WMS approach will:
+a) Significantly reduce the time taken to pick stock, enabling processing of more orders per
+day whilst optimising labour utilisation;
+b) Allow installation in any warehouse using any standard order/stock picking trollies and
+totes;
+c) Provide robotic levels of efficiency at a much reduced cost level.
+This 18-month project will deliver detailed evaluations of the functionality and performance
+capabilities based around three increasingly complete prototype demonstrators.</gtr:abstractText><gtr:fund><gtr:end>2017-10-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2016-05-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>238636</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720792</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

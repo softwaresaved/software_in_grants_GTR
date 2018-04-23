@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/FF8A37A1-87DD-4204-866C-AB22CB711067"><gtr:id>FF8A37A1-87DD-4204-866C-AB22CB711067</gtr:id><gtr:name>Dyteqta Limited</gtr:name><gtr:address><gtr:line1>14 SHERIDAN TERRACE , DYTEQTA GLOBAL HEADQUARTERS</gtr:line1><gtr:city>HOVE</gtr:city><gtr:postCode>BN3 5AE</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/FF8A37A1-87DD-4204-866C-AB22CB711067" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>FF8A37A1-87DD-4204-866C-AB22CB711067</gtr:id><gtr:name>Dyteqta Limited</gtr:name><gtr:address><gtr:line1>14 SHERIDAN TERRACE , DYTEQTA GLOBAL HEADQUARTERS</gtr:line1><gtr:city>HOVE</gtr:city><gtr:postCode>BN3 5AE</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>239536.0</gtr:offerGrant><gtr:projectCost>532302.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/915099D5-26E4-4F2A-9FC8-ED6A621C2D74"><gtr:id>915099D5-26E4-4F2A-9FC8-ED6A621C2D74</gtr:id><gtr:firstName>Roz</gtr:firstName><gtr:surname>Garnem</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720726"><gtr:id>B07FDF6F-C77C-461E-A486-3DAF09687908</gtr:id><gtr:title>SonarTeq - Dyteqta Limited</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720726</gtr:grantReference><gtr:abstractText>The NHS creates 34.4m cubic metres of sewage annually. As part of sustainability
+obligations, NHS hospitals are committed to reducing water use by 2.5% per employee each
+year till 2016 (Dept of Health, 2014). To meet these obligations, hospitals are installing ultralow-
+flush (ULF) toilets. However, these new systems are insufficient to draw waste away
+from the buildings through existing drainlines whose size, length, and slope were designed for
+greater flow rates, leading to clogging or plugging of the drainlines and expensive clean-out
+costs (Veritec, 2005).
+85% of UK hospitals now use paper bedpan macerators which use 90% less energy per cycle
+than washing systems (Haigh Medical, 2015). However, bedpan macerators place an extra
+burden on ageing wastewater systems, increasing the risk of pipe blockages. Water UK has
+recommend banning their use (Water UK, 2014).
+Failed drainage causes overflow, backups, bacterial growth and dangerous risks of infection
+and there is a correlation between poor drainage and number of superbug infections.
+Infections acquired in hospitals kill 6.5K in the UK annually, and the NHS pays out over
+&amp;pound;10m/yr in compensation to people who contract superbug infections in hospitals (Telegraph,
+2012).
+Dyteqta has proven the concept of Sonar-Teq, which detects failed trap seals and blockages in
+wastewater pipes by sending a sonar wave down the drainage system. Once a blockage is
+detected, the system sends multiple, powerful waves of water dosed with additives (enzymes,
+foams, ionised water, degreasers) through the pipes to clear the blockages.
+Dyteqta has developed a lab prototype of Sonar-Teq, which is currently too large, expensive
+and complex to install commercially. Dyteqta must make a more compact system that is
+simpler, more affordable and less complex to install. Dyteqta also needs to prove to the NHS
+that Sonar-Teq will prevent blockages, thereby reducing direct costs from cleaning and cases
+of superbugs.</gtr:abstractText><gtr:fund><gtr:end>2017-01-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2015-11-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>239536</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720726</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/16C46B3F-3B2B-45E0-97BD-1B60764782A0"><gtr:id>16C46B3F-3B2B-45E0-97BD-1B60764782A0</gtr:id><gtr:name>Dearman Engine Company Limited</gtr:name><gtr:address><gtr:line1>7 Henrietta Street 
+Covent Garden</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>WC2E 8PS</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/16C46B3F-3B2B-45E0-97BD-1B60764782A0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>16C46B3F-3B2B-45E0-97BD-1B60764782A0</gtr:id><gtr:name>Dearman Engine Company Limited</gtr:name><gtr:address><gtr:line1>7 Henrietta Street 
+Covent Garden</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>WC2E 8PS</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>25000.0</gtr:offerGrant><gtr:projectCost>48847.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/D4F9AB58-9B2C-4FF2-8300-DC5F2D3DD86D"><gtr:id>D4F9AB58-9B2C-4FF2-8300-DC5F2D3DD86D</gtr:id><gtr:firstName>Sarah</gtr:firstName><gtr:surname>Trew</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700244"><gtr:id>012F4AEF-E009-4957-9742-F4F9DD54A095</gtr:id><gtr:title>Dearman Engine Company - Zero Emission Vehicle Applications</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700244</gtr:grantReference><gtr:abstractText>This project will deliver a proof of market for an innovative zero-emission prime mover
+whose liquid fuel already has a distribution network, and has potential for a significant role in
+absorbing intermittent renewable energy.
+The Dearman heat-engine uses cryogenic liquid air or nitrogen as a ?fuel?, and draws ambient
+or low-grade waste heat to drive a high-efficiency evaporation process. As a prime-mover, it
+offers zero emissions in use, similar range to an EV, similar cost to an ICE, fast (equal to
+petrol/diesel) refuelling with a liquid, and very favourable embedded carbon due to use of
+common materials in its construction. Use of off-peak electricity, grid buffering and synergy
+with evaporation of Liquid Natural Gas offers a promising route to de-carbonising the cryogen
+liquefaction process, giving well-to-wheel emissions similar to a future hydrogen vehicle.
+Design and development of the Dearman Engine is on-going in a parallel project funded by
+investors, which targets application as a waste heat recovery device for heavy duty ICEs,
+using low-grade coolant heat. However the Dearman Engine?s thermal cycle means that
+ambient heat harvested in a heat-exchanger is sufficient to achieve reasonable efficiency,
+introducing the possibility of using it as a ZEV prime mover.
+The environmental need for ZEVs for public and private transport is well known, although
+existing solutions are not achieving high uptake, even with subsidies. However, there are
+other ZEV markets with lower volumes and higher price-points driven by operational
+requirements, like indoor goods handling and mining, which would provide an attractive
+stepping-stone to the wider ZEV market. This study will develop a proof of those markets,
+through techno-economic analysis of the business case for the technology in each market,
+understanding market drivers and needs. A market entry strategy and business plan will be
+produced, and the specific requirements of the ambient heat exchanger will be considered.</gtr:abstractText><gtr:fund><gtr:end>2013-12-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2013-06-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>25000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700244</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

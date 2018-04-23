@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/268FC005-ACF9-4FEF-9C0C-04852EE3E993"><gtr:id>268FC005-ACF9-4FEF-9C0C-04852EE3E993</gtr:id><gtr:name>Xstrahl Limited</gtr:name><gtr:address><gtr:line1>THE COLISEUM WATCHMOOR PARK , RIVERSIDE WAY</gtr:line1><gtr:city>CAMBERLEY</gtr:city><gtr:postCode>GU15 3YL</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/268FC005-ACF9-4FEF-9C0C-04852EE3E993" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>268FC005-ACF9-4FEF-9C0C-04852EE3E993</gtr:id><gtr:name>Xstrahl Limited</gtr:name><gtr:address><gtr:line1>THE COLISEUM WATCHMOOR PARK , RIVERSIDE WAY</gtr:line1><gtr:city>CAMBERLEY</gtr:city><gtr:postCode>GU15 3YL</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>250000.0</gtr:offerGrant><gtr:projectCost>746829.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/F6A7117D-18A4-4BCD-93C3-291DA8FD6C9D"><gtr:id>F6A7117D-18A4-4BCD-93C3-291DA8FD6C9D</gtr:id><gtr:firstName>Kamila</gtr:firstName><gtr:surname>Jedrzczak</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720454"><gtr:id>3B620114-1AF5-4FEF-8477-80465CC256D0</gtr:id><gtr:title>The Compact Gamma Camera (CGC) ? An advancement in imaging for cancer diagnosis</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720454</gtr:grantReference><gtr:abstractText>Sentinel Lymph Node Biopsy (SLNB) is a minimally invasive surgical technique which
+determines the likelihood of cancer spreading from a primary tumour &amp;amp; becoming metastatic
+throughout the lymphatic system. It is the most common procedure for evaluating &amp;amp;
+diagnosing breast cancer &amp;amp; melanoma which have both experienced a significant rise in
+incidence globally.
+The most common method of SLNB (~99% of all SLNB procedures) uses pre-operative
+gamma scintgraphy, injection of blue dye/radioactive substance (typically Tech 99) &amp;amp;
+detection of the SLN using a gamma probe. Despite its widespread use, there are a no. of
+recognised limitations:
+- Cost &amp;amp; inflexibility of gamma scintgraphy
+- Probe signal masked by injection site activity
+- Probes inaccurate when detecting lesions in deep seated nodes
+- Blue dye dissipates quickly causing issues with tracking nodes
+These limitations result in the SLN being located in just 92% of procedures; &amp;amp; a high
+procedural false negative rate of up to 15%. False negatives lead to under-staging &amp;amp; undertreatment
+of individuals with node positive breast cancer, subsequently leading to higher rates
+of recurrence.
+Xstrahl?s mkt investigation has indicated that a significant need exists for an advanced gamma
+camera for use in SLNB with a particular emphasis on more accurate imaging techniques &amp;amp;
+miniaturisation of components. Xstrahl aim to address this need through the development of a
+high spatial resolution multi-modal imaging Compact Gamma camera (CGC), which will
+deliver the following benefits over current technologies:
+-Combined optical &amp;amp; gamma imaging to provide a 3D image
+- Improved resolution (&amp;lt;1mm)
+- A low cost design (sale price~&amp;pound;50,000)
+With considerable increases in cancer incidence projected as a result of an ageing
+demographic, &amp;amp; with the global cancer/tumour profiling mkt already a $13.30 bn industry, the
+development of the CGC represents a significant business opportunity, with mkt entry
+expected in Q3 2015</gtr:abstractText><gtr:fund><gtr:end>2015-04-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2014-05-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>250000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720454</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

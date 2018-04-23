@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/F209C1B0-274F-4464-A388-BC0F4FA4C165"><gtr:id>F209C1B0-274F-4464-A388-BC0F4FA4C165</gtr:id><gtr:name>Tqc Limited</gtr:name><gtr:address><gtr:line1>HOOTON STREET , CARLTON ROAD</gtr:line1><gtr:city>NOTTINGHAM</gtr:city><gtr:postCode>NG3 2NJ</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/F209C1B0-274F-4464-A388-BC0F4FA4C165" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>F209C1B0-274F-4464-A388-BC0F4FA4C165</gtr:id><gtr:name>Tqc Limited</gtr:name><gtr:address><gtr:line1>HOOTON STREET , CARLTON ROAD</gtr:line1><gtr:city>NOTTINGHAM</gtr:city><gtr:postCode>NG3 2NJ</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>60046.0</gtr:offerGrant><gtr:projectCost>133435.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720720"><gtr:id>9257E78F-FB0D-4745-B136-F68EBD078BBA</gtr:id><gtr:title>Micro Application Leak Tester (MALT)</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720720</gtr:grantReference><gtr:abstractText>Recent times have seen progressive miniaturisation of devices. In some, it is critical that small
+parts are leak proof and their production demands quality assurance for leak characteristics.
+Examples are in small medical devices e.g. small drug dosing pumps, swallowable cameras,
+diagnostic cartridges, lab on a chip devices, and medical vials. Non-medical applications
+include in-tyre pressure sensors, electrical sensors and hermetically sealed parts. Existing
+solutions are bulky, imprecise, or very expensive.
+TQC developed a pre-prototype high-precision compact low cost Micro Application Leak
+Testing module (MALT). The MALT is designed to minimise internal volumes below one
+tenth of comparable instruments.
+The MALT module uses differential pressure decay and can detect leaks by an order of
+magnitude more sensitively than other pressure decay leak test instruments. TQC?s engineers
+achieved this at a lower unit cost than existing solutions. Bespoke versions of the prototype
+are successfully deployed in two distinct industrial assembly and leak testing applications,
+validating the proof of concept.
+The challenge remains to convert the initial prototype into a general purpose micro
+applications leak test unit, and to enhance its capabilities for a broader range of applications.
+Further developments are:
+? create pneumatic micro circuitry and control for leak testing hermetically sealed parts
+? build a vacuum micro-leak tester variant
+? integrate a shock filling function for testing semi-flexible parts
+? include functions to automatically calculate the test volume and set the test pressure
+? redesign the electronics to SMT to further reduce the size and production costs
+? enhance the user-interface and communications software so that MALT becomes an Internet
+of Things device accessible remotely and by Cloud services
+? ensure regulatory compliance for validation to FDA approval standards, IP rating enclosure
+rating enclosure and ATEX rated for use in hazardous areas</gtr:abstractText><gtr:fund><gtr:end>2017-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2015-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>60046</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720720</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

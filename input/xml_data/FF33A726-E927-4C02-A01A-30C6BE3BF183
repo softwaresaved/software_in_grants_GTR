@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/1FA4F65C-8F5C-4085-83F9-9F00B59F9328"><gtr:id>1FA4F65C-8F5C-4085-83F9-9F00B59F9328</gtr:id><gtr:name>H.Taylor &amp; Son(Brockley)Limited</gtr:name><gtr:address><gtr:line1>19 PREMIER WAY , ABBEY PARK</gtr:line1><gtr:city>ROMSEY</gtr:city><gtr:postCode>SO51 9DQ</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/1FA4F65C-8F5C-4085-83F9-9F00B59F9328" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>1FA4F65C-8F5C-4085-83F9-9F00B59F9328</gtr:id><gtr:name>H.Taylor &amp; Son(Brockley)Limited</gtr:name><gtr:address><gtr:line1>19 PREMIER WAY , ABBEY PARK</gtr:line1><gtr:city>ROMSEY</gtr:city><gtr:postCode>SO51 9DQ</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>63591.0</gtr:offerGrant><gtr:projectCost>141314.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/86B4A978-011F-4544-80CE-D3AFF0EEEA5B"><gtr:id>86B4A978-011F-4544-80CE-D3AFF0EEEA5B</gtr:id><gtr:firstName>Martin</gtr:firstName><gtr:surname>Wadhams</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720043"><gtr:id>FF33A726-E927-4C02-A01A-30C6BE3BF183</gtr:id><gtr:title>RS Sailing RS900 Olympic Skiff Sailboat</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720043</gtr:grantReference><gtr:abstractText>The aim of the project is to develop a new sailboat (model name RS900) targeted at selection
+for a new discipline to be included in the Olympic Games ? Women?s High Performance
+Skiff sailing.
+Olympic sailing takes place within specific disciplines (eg. men?s and women?s single-handed
+dinghies ? men?s and women?s double-handed dinghies) and the models of boats used are
+selected by the International Sailing Federation (ISAF). Once a boat has been selected by
+ISAF, it is then purchased and sailed by all competitors wishing to train for, and compete in,
+that Olympic discipline ? a guaranteed, worldwide market.
+Our company, RS Sailing, has the attributes to develop and distribute a new design boat for
+the new Olympic Women?s High Performance Skiff discipline:
+? We have a proven track record of developing high performance, high quality
+sailboats. These boats have won multiple awards around the world and RS is acknowledged as
+a world leader in the field.
+? We have a proven record of producing these boats in the required volumes and have
+an international distribution network in place. Over 50% of RS boats are exported and this
+percentage is growing.
+? We already work with ISAF on various international sailing projects and enjoy a
+strong relationship.
+ISAF have encouraged us to develop a boat for the new Olympic discipline. An evaluation
+trial will be held during 2012 to select the new model of boat for the 2016 Olympic Games -
+and once selected, boats are normally used for multiple Olympic cycles. We are happy to
+provide reference contacts within ISAF if required.
+This is a unique opportunity for our company to develop a technologically superior, flagship
+product that would gain international recognition and bring trade to the UK for a significant
+time period if used for the Olympic Games. In addition, the resulting raised profile of the RS
+sailboat brand would lead to accelerated sales of existing RS models.</gtr:abstractText><gtr:fund><gtr:end>2012-08-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2011-12-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>63591</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720043</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

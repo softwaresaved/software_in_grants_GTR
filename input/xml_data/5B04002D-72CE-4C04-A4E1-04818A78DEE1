@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/76A2EF29-A5DE-494F-8114-2724231AC63F"><gtr:id>76A2EF29-A5DE-494F-8114-2724231AC63F</gtr:id><gtr:name>Arnia Limited</gtr:name><gtr:address><gtr:line1>30 FERN AVENUE , JESMOND</gtr:line1><gtr:city>NEWCASTLE UPON TYNE</gtr:city><gtr:postCode>NE2 2QT</gtr:postCode><gtr:region>North East</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/76A2EF29-A5DE-494F-8114-2724231AC63F" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>76A2EF29-A5DE-494F-8114-2724231AC63F</gtr:id><gtr:name>Arnia Limited</gtr:name><gtr:address><gtr:line1>30 FERN AVENUE , JESMOND</gtr:line1><gtr:city>NEWCASTLE UPON TYNE</gtr:city><gtr:postCode>NE2 2QT</gtr:postCode><gtr:region>North East</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>90276.0</gtr:offerGrant><gtr:projectCost>150460.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=730004"><gtr:id>5B04002D-72CE-4C04-A4E1-04818A78DEE1</gtr:id><gtr:title>Honey Bee Swarm Alarm</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Legacy RDA Grant for R&amp;D</gtr:grantCategory><gtr:grantReference>730004</gtr:grantReference><gtr:abstractText>The aim of this project to produce a fully automated electronic alarm that informs
+beekeepers that a hive of bees has began making preparations to swarm. The project
+should result in a function prototype.
+Without a swarm alarm, bee keepers need to perform regular and intensive hive
+inspections. Not only do these inspections require a lot of time, they are not always
+performed as regularly and/or intensively as they need to be, as a consequence they
+are not always effective. Swarming bees are not only a nuisance to the public, due to
+the cost of replacement bees and the resulting loss of honey crop, swarms are also
+expensive for the beekeeper. In addition, due to a pest called Varoa, a lost swarm of
+bees will struggle to survive in the wild and can no longer contribute to the country's
+pollinating force.
+Not only will this device help existing beekeepers minimise swarming, it should also
+encourage people to take it up as it drastically simplifies the beekeeping process.
+Furthermore, once the device is widespread there is the potential to provide scientists
+researching the drastic decline of the honey bee with large amounts of valuable data.
+There are currently an estimated 275 thousand bee hives in the UK alone and the cost
+of replacement bees lost in a swarm is &amp;pound;50. There are 2.4 million bee hives in the
+USA and a further 9 million in Europe alone.
+No swarm alarm currently exists; this product would be completely unique and would
+have no competitors in the market. Identification and successful interpretation of
+swarm indicators possible to measure by electronic means represents a significant
+technological advance in itself. This project would be a very good example of British
+innovation.
+The total cost of the project is approximately &amp;pound;140,000, the majority of this will be
+internal as the project team members are expert and will be devoted to this project full
+time. Due to time constraints, the majority of external consultancy work will be
+sought from a local University. The approximate time scale for this project is 18
+months.
+The important milestones are: identifying the physical swarm indicators, developing
+hardware (a circuit board) to measure these indicators, developing firmware (a
+computer program) to intemperate these indicators, producing a working prototype
+and testing the prototype.
+The project will be based in the north east of England. All staff will be employed in
+the north east of England. External consultants will be employed from the north east
+of England. All equipment will be sourced from the north east of England. Although
+experimental work will be conducted in the north east of England, the majority of will
+be conducted in Italy as the climate and native breed of honey bee better reflects the
+mass market at which this device is aimed.</gtr:abstractText><gtr:fund><gtr:end>2011-12-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2010-01-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>90276</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">730004</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/B385366D-0C0D-4974-955E-5DA83947228F"><gtr:id>B385366D-0C0D-4974-955E-5DA83947228F</gtr:id><gtr:name>Sky Medical Technology Limited</gtr:name><gtr:address><gtr:line1>Hawk House - 1st Floor
+Peregrine Business Park
+Gomm Road</gtr:line1><gtr:city>High Wycombe</gtr:city><gtr:postCode>HP13 7DL</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/B385366D-0C0D-4974-955E-5DA83947228F" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>B385366D-0C0D-4974-955E-5DA83947228F</gtr:id><gtr:name>Sky Medical Technology Limited</gtr:name><gtr:address><gtr:line1>Hawk House - 1st Floor
+Peregrine Business Park
+Gomm Road</gtr:line1><gtr:city>High Wycombe</gtr:city><gtr:postCode>HP13 7DL</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>186244.0</gtr:offerGrant><gtr:projectCost>413875.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/7FC7EACB-E748-441E-97AF-C6D345028C3F"><gtr:id>7FC7EACB-E748-441E-97AF-C6D345028C3F</gtr:id><gtr:firstName>Bernard</gtr:firstName><gtr:surname>Ross</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720066"><gtr:id>91ED1856-C220-45A3-8465-ACC26719F1FB</gtr:id><gtr:title>THRIVE: a Development Project to produce a pre-production prototype of a new system to assist in the treatment of osteoporosis by the stimulation of muscle pumps to augment bone blood supply</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720066</gtr:grantReference><gtr:abstractText>The body has muscle pumps in addition to the heart that are vital in the healthy flow of blood
+around the body. These pumps are located in the major muscles of the legs and regular use of
+these muscles is essential for a healthy body. Sky Medical Technology with Queen Mary
+Hospital has researched and developed a novel electro-mechanical stimulation technology that
+activates these muscle pumps when it is not possible for the body to do so voluntarily. This
+increases blood flow in the body and has been shown to have a clinical effect on the
+prevention of deep vein thrombosis (DVT). There are also indications from early work that
+use of this technology has a therapeutic effect on conditions such as urinary and faecal
+incontinence.
+We propose to continue the work conducted in an NWDA funded Grant for Research and
+Development project (see Appendix A) that investigated the feasibility of using a novel This
+project demonstrated that the OnPulse technology has the ability to improve blood perfusion
+in the bone marrow thus preventing the onset of osteoporosis. This was shown to be
+particularly true in the case that the subject was a victim of spinal cord injury (SCI). SCI
+victims are almost certain to suffer the onset of osteoporosis brought on by their
+immobilisation. This causes the victim additional suffering through the significantly
+increased likelihood of serious and potentially fatal fractures to their wrists, vertebrae and
+hips.
+This project will deliver and optimised, pre-production prototype of nerve stimulation
+equipment researched and proven in the previous Grant for R&amp;amp;D project. This project will
+also produce new IP based on the original core technology (developed to prevent DVT). This
+development programme will enable Sky Medical Technology to rapidly develop a highly
+innovative and disruptive technology and offer a second IP offering to its investors.</gtr:abstractText><gtr:fund><gtr:end>2014-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2012-01-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>186244</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720066</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

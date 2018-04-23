@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/C842A34F-18F7-454D-A259-FED802368496"><gtr:id>C842A34F-18F7-454D-A259-FED802368496</gtr:id><gtr:name>University of Leicester</gtr:name><gtr:department>School of Management</gtr:department><gtr:address><gtr:line1>University Road</gtr:line1><gtr:line4>Leicester</gtr:line4><gtr:line5>Leicestershire</gtr:line5><gtr:postCode>LE1 7RH</gtr:postCode><gtr:region>East Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/C842A34F-18F7-454D-A259-FED802368496"><gtr:id>C842A34F-18F7-454D-A259-FED802368496</gtr:id><gtr:name>University of Leicester</gtr:name><gtr:address><gtr:line1>University Road</gtr:line1><gtr:line4>Leicester</gtr:line4><gtr:line5>Leicestershire</gtr:line5><gtr:postCode>LE1 7RH</gtr:postCode><gtr:region>East Midlands</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/ECFE68A4-5CE6-4069-AB00-6CF1A257A8D4"><gtr:id>ECFE68A4-5CE6-4069-AB00-6CF1A257A8D4</gtr:id><gtr:firstName>Stephen</gtr:firstName><gtr:otherNames>Andrew</gtr:otherNames><gtr:surname>Linstead</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/9EA12F0C-A1EB-429F-81AA-504FFFB9C88E"><gtr:id>9EA12F0C-A1EB-429F-81AA-504FFFB9C88E</gtr:id><gtr:firstName>Philip</gtr:firstName><gtr:otherNames>Graham</gtr:otherNames><gtr:surname>Hancock</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/F4EF46CB-5983-4591-8CE8-13B891E62CB9"><gtr:id>F4EF46CB-5983-4591-8CE8-13B891E62CB9</gtr:id><gtr:firstName>Joanna</gtr:firstName><gtr:otherNames>Patricia</gtr:otherNames><gtr:surname>Brewis</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/FA4DF654-D299-454B-8FB2-D868707B6413"><gtr:id>FA4DF654-D299-454B-8FB2-D868707B6413</gtr:id><gtr:firstName>Melissa</gtr:firstName><gtr:surname>Tyler</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=RES-451-26-0352"><gtr:id>73D85204-8881-429C-A880-80DB11871D84</gtr:id><gtr:title>Abjection and Alterity in the Workplace</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>RES-451-26-0352</gtr:grantReference><gtr:abstractText>&lt;p>Abjection and alterity refer to those aspects of organisational life which are deemed, in one way or another, not to 'fit in with' or 'belong to' the supposedly rational and productive workplace.This seminar series explored the status of individuals or groups who one might call the 'Others' of organisation and the kinds of relationships they engender either as subjects of exclusion or attempts at inclusion - ie real life experiences of unequal power and resource allocation, equality and diversity management, and treatment and representation.&lt;/p>
+
+&lt;p>The seminars brought together scholars, practitioners and policy makers with an interest in processes and practices which construct individuals or groups at work as somehow different, and how this attribution of difference defines the nature of the relationship they have with the organisation, with colleagues and with clients. The series incorporated theoretical and empirical academic work and policy/practice-based material. It covered:&lt;/p>
+
+&lt;ul>
+ 
+
+ &lt;li>different perspectives on abjection, alterity and exclusion in contemporary work organisations and labour markets&lt;/li>
+
+ &lt;li>different ways of researching and writing about workplace abjection&lt;/li>
+
+ &lt;li>the representation and the lived experience of workplace abjection&lt;/li>
+
+ &lt;li>the role of management and broader forms of social regulation and legislation in controlling and containing abjection.&lt;/li>
+
+&lt;/ul>
+
+&lt;p>&lt;br />&amp;nbsp;&lt;/p></gtr:abstractText><gtr:fund><gtr:end>2009-11-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/924BE15C-91F2-4AAD-941A-3F338324B6AE"><gtr:id>924BE15C-91F2-4AAD-941A-3F338324B6AE</gtr:id><gtr:name>ESRC</gtr:name></gtr:funder><gtr:start>2007-12-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>13976</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>Seminar 1, University of Leicester, 28.5.08 - Situating abjection and alterity in the workplace: concepts and contexts
+
+
+
+Set out to explore different perspectives on and meanings of abjection and related themes within the context of contemporary work organizations and labour markets. Provided a conceptual framework within which to explore more methodological and thematic concerns in the remaining three seminars, and the changing context of abjection and organization.
+
+
+
+Speakers: Fred Botting, University of Lancaster; Yiannis Gabriel, University of Bath; Patricia MacCormack, Anglia Ruskin University; Alf Rehn, &amp;Aring;bo Akademi University, Finland; Marc Verlot, Equality and Human Rights Commission
+
+
+
+Seminar 2, Loughborough University, 24.9.08 - Methodologies of workplace abjection
+
+
+
+Developed the theoretical and conceptual insights of the first seminar by exploring different ways of thinking, researching, knowing and writing about workplace abjection and alterity. Considered how our knowledge and understanding of abjection might be developed and disseminated, as well as discussing the assumptions at stake in designating particular organizational research topics as abject. Discussed the ethical and political issues faced by academics, practitioners and policy makers when researching abjection and alterity in organizational life.
+
+
+
+Speakers: Dave Holmes, University of Ottawa, Canada; Ruth Hunt, Stonewall; Maggie O'Neill, Loughborough University; Ann Rippin, University of Bristol; Samantha Warren, University of Surrey .
+
+_
+
+Seminar 3, University of Warwick, 21.5.09 - Being, doing and representing workplace abjection
+
+
+
+Built on the conceptual, theoretical and methodological insights of the previous two seminars by exploring both the representation and the lived experience of abjection and alterity. Addressed issues including how particular groups of employees, and others subject to the organizational gaze, experience their own alterity and abjection; how and with what consequences abject status is ascribed to certain groups of employees and organizational clients; and the implications of this categorization for those who research and work with these groups.
+
+
+
+Speakers: Bobby Banerjee, University of Western Sydney, Australia; Steve Lowe, Children's Rights Officers and Advocates; Daniel O'Doherty, University of Bristol; Kathleen Riach, University of Essex; John Troyer, University of Bath.
+
+
+
+Seminar 4, University of York, 23.9.09 - Managing and legislating workplace abjection
+
+
+
+Covering topics as diverse as sex work, terrorism, occupational disability and therapeutic intervention, the social and employment rights of transsexual and transgendered people and the politics of corporate diversity management (mainly regarding race and ethnicity), this final seminar drew together many of the themes discussed in the preceding sessions. Focused on the manifold deficiencies and unintended consequences of existing forms of management of and legislation around workplace abjection and alterity in policy and practice.
+
+
+
+Speakers: H.L. 'Bud' Goodall, Arizona State University, US; Chris Kuiper, Ergotherapie Nederland and University of Rotterdam, the Netherlands; Chris Mullard, MBE, Focus Consultancy; Jo Phoenix, University of Durham; Stephen Whittle, OBE , Press for Change and Manchester Metropolitan University.</gtr:description><gtr:exploitationPathways>See comments above at Findings about the ways in which non-academic stakeholders were involved in presenting at the series and the ways in which the presentations and discussions spoke to those audiences</gtr:exploitationPathways><gtr:id>74F26861-F086-46D5-9EAE-39E9F78451AA</gtr:id><gtr:outcomeId>r-5221786364.188219775c6144</gtr:outcomeId><gtr:sectors><gtr:sector>Communities and Social Services/Policy,Other</gtr:sector></gtr:sectors></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RES">RES-451-26-0352</gtr:identifier><gtr:identifier type="RCUK">RES-451-26-0352</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>5E9AA4EC-49E3-4D6A-B545-79DA07CE39E0</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Management &amp; Business Studies</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>5E9AA4EC-49E3-4D6A-B545-79DA07CE39E0</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Management &amp; Business Studies</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

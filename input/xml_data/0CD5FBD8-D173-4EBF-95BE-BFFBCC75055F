@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations><gtr:collaborator url="http://gtr.ukri.org:80/organisation/BE321AAC-6FF3-4636-9D09-7BB90C4494E3"><gtr:id>BE321AAC-6FF3-4636-9D09-7BB90C4494E3</gtr:id><gtr:name>Atomic Weapons Establishment</gtr:name></gtr:collaborator></gtr:collaborations><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/67B34D05-3A52-4A09-8FF9-F2398D60E246"><gtr:id>67B34D05-3A52-4A09-8FF9-F2398D60E246</gtr:id><gtr:name>University of Surrey</gtr:name><gtr:department>Physics</gtr:department><gtr:address><gtr:line1>Registry</gtr:line1><gtr:line2>Stag Hill</gtr:line2><gtr:line4>Guildford</gtr:line4><gtr:line5>Surrey</gtr:line5><gtr:postCode>GU2 7XH</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/67B34D05-3A52-4A09-8FF9-F2398D60E246"><gtr:id>67B34D05-3A52-4A09-8FF9-F2398D60E246</gtr:id><gtr:name>University of Surrey</gtr:name><gtr:address><gtr:line1>Registry</gtr:line1><gtr:line2>Stag Hill</gtr:line2><gtr:line4>Guildford</gtr:line4><gtr:line5>Surrey</gtr:line5><gtr:postCode>GU2 7XH</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/BE321AAC-6FF3-4636-9D09-7BB90C4494E3"><gtr:id>BE321AAC-6FF3-4636-9D09-7BB90C4494E3</gtr:id><gtr:name>Atomic Weapons Establishment</gtr:name><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/25AFB3F5-0080-4C6B-9118-2DCB9467F450"><gtr:id>25AFB3F5-0080-4C6B-9118-2DCB9467F450</gtr:id><gtr:firstName>Paul</gtr:firstName><gtr:otherNames>Jonathan</gtr:otherNames><gtr:surname>Sellin</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=ST%2FN002431%2F1"><gtr:id>0CD5FBD8-D173-4EBF-95BE-BFFBCC75055F</gtr:id><gtr:title>Nuclear Security Science Network</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>ST/N002431/1</gtr:grantReference><gtr:abstractText>The importance and urgency for this proposed network is illustrated by recent data from the IAEA who maintains a database of incidents and illicit trafficking events of nuclear and radioactive material. From January 1993 to December 2013 the IAEA report 2477 incidents. Their conclusions include that material is available and that globally individuals and groups are prepared to engage in trafficking. Understandably, Nuclear security, in particular against terrorist attack, continues to be high priority to the UK's government. The national risk register of civil emergencies, published by the Cabinet Office says:
+
+&amp;quot;The Government is prioritising efforts to stop terrorists gaining the capabilities to deliver such {chemical, biological, radiological or nuclear} attacks. But if terrorist groups were successful, their potential impact on the UK would be severe and significantly greater than a conventional attack. &amp;quot;
+
+The national counter terrorism strategy CONTEST therefore says:
+
+&amp;quot;...their impact is so high that we judge preparations must be made for them. As in so many other areas of this strategy those preparations must wherever possible be coordinated with our allies overseas. &amp;quot;
+
+Much of those preparations require technological developments in Nuclear Security Science. This subject is multidisciplinary and critically dependent on end-user engagement to be effective. This network will be the mechanism that associates the broad spectrum of disciplines that could possibly contribute, with the end users (UK and international) who can articulate the requirements.
+
+The scope of the network will be focussed on radiation detectors and detection techniques applied to nuclear security applications, which lies within the STFC Global Challenges 'security' theme of the network call. A key objective will be to encourage dialogue and collaboration between academic researcher, primarily but not limited to the STFC community, and stake holders in industry and government agencies. In addition the network will provide a point of focus for the UK community to better position themselves for future bids to major sources of funding both nationally (eg, STFC, other research councils, Innovate UK) and internationally principally through EU and US programmes. 
+
+A broad range of industrial, defence and academic partners are vital to the success of the network. The UK has traditionally had a very strong representation in detector development within the academic community, but this has tended to focus on large-scale national science priorities principally funded through STFC. Therefore this network will provide a strong forum for the research community to engage with end-users in industry and the defence sectors, and to allow these stakeholders to engage the academic community in their application challenges. 
+
+We have already engaged with a broad range of industrial, defence and academic partners, which are vital to the success of the network. Letters of support are attached from Dr Bryan Wells, MoD Head of Science and Technology, Ian Gibson Deputy Director of CBRNE at OCST, and Professor Andrew Randewich AWE Chief Scientist.</gtr:abstractText><gtr:potentialImpactText>Maximising impact is at the heart of the NuSec network, through the use of a range of funded impact activities that lie at the heart of the network's objectives. The broad range of network activities is described in the Case for Support and the benefits to the academic researchers are summarised in the Je-S form. Here we describe the wider impact that the NuSec network will achieve. 
+
+1. The Beneficiaries
+(i) Society - the nuclear security agenda is critical to national safeguarding and to the protection of society. A strong engagement between government agencies, academic and industry will realise a benefit for all of society. 
+(ii) Economy - the possible economic loss to the country from a high impact terrorist activity is potentially catastrophic. This programme directly addresses the government's CONTEST counter-terrorism strategy to protect the nation from this type of very serious incident. 
+(iii) People and Knowledge - through the cross-fertilisation of technical expertise between research disciplines and the integration of the various stakeholder communities, and by providing opportunities to benefit researchers and to develop the UK skills base in nuclear security.
+
+
+2. How the Network Activities will deliver Impact 
+The network will deliver impact directly through its programme of regular and occasional activities. 
+
+Developing Strategic Partnerships: The network's primary objective is to establish a forum for discussion and collaboration between the academic, industrial and defence sectors. This will focus and accelerate the development of a strong research community in the nuclear science area, and will specifically broker interaction and partnership between the academic and MoD/Home Office communities. Our strategic partners each offer a unique input into the programme and will be fully involved with the regular network meetings and technical workshops. Both the network's Management Group (MG) and End User Panel (EUP) are made up of key stakeholders who will monitor the network's progress towards developing strategic partnerships. The independent Steering Board, representing the interests of the stakeholder groups, will ensure the development of partnerships through these various activities. 
+
+Technology Development: The network will receive direct funding from the Home Office to support pilot studies and small proof of concept studies. These will be challenge-led projects that will be focussed on the requirements of these government agency stakeholders. In this way the network will effectively develop technology demonstrators that match the needs of the end user community. 
+
+Dissemination activities: All network outputs will be unclassified, and the majority will be publicly available and openly disseminated, including technical workshop presentations, results from pilot studies, scoping documents and position papers. Dissemination will use a dedicated website to promote the network activities and outputs, and the University's Surrey Research Insight digital open access repository to store and disseminate network outputs and documents. The mid-term and final network conferences will also showcase the network outputs to a wider audience.
+
+Influencing Policy: Outputs from the network will include positioning and policy papers, arising from the collaboration between scientific researchers and Home Office / MoD. Having these two stakeholder communities collaborating within the network will provide a strong route to influence policy in government. The network will support staff secondments between all stakeholders, and this will provide opportunities for enhanced engagement and policy influence with government agencies and other parties.
+
+Supporting Researcher Engagement: The network will provide a series of opportunities for researchers to develop their technical skills and knowledge.
+
+Full details are given in the separate Pathways to Impact Statement</gtr:potentialImpactText><gtr:fund><gtr:end>2019-04-17</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/D7F4F462-0518-4784-908A-D12633C139B3"><gtr:id>D7F4F462-0518-4784-908A-D12633C139B3</gtr:id><gtr:name>STFC</gtr:name></gtr:funder><gtr:start>2016-04-18</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>223259</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs><gtr:artisticAndCreativeProductOutput><gtr:description>Logo to promote the identity of the Nuclear Security Science network.</gtr:description><gtr:id>C63B8D4A-D3C9-4685-96DB-00A89AE83E1D</gtr:id><gtr:impact>Added to all NuSec network Communication materials ( meeting papers, grant application forms, award letters, powerpoint presentations)
+
+Applicants who also receive NuSec funding are required to acknowledge our financial support by including the logo on their presentation materials. #
+
+This helps to raise awareness of the network.</gtr:impact><gtr:outcomeId>58aaefc12fc448.42849337</gtr:outcomeId><gtr:title>NuSec Security logo</gtr:title><gtr:type>Artwork</gtr:type><gtr:url>http://www.nusec.uk</gtr:url><gtr:yearFirstProvided>2016</gtr:yearFirstProvided></gtr:artisticAndCreativeProductOutput></gtr:artisticAndCreativeProductOutputs><gtr:collaborationOutputs><gtr:collaborationOutput><gtr:collaboratingOrganisation>Atomic Weapons Establishment</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Nuclear Security Summer Pilot Projects</gtr:description><gtr:id>C926143F-25F9-41CE-9A93-1851FFF306A2</gtr:id><gtr:impact>Five applicants awarded up to &amp;pound;4,000 each. 
+
+Research projects undertaken in Summer 2016 :-
+ 
+Colloid interaction with Muons, Liverpool John Moores University
+
+Digital SiPMs for Spectroscopic Measurement, University of York
+
+Evidential Reasoning for Radiological Detection, University of Leicester
+
+Passive radiation imaging, University of Manchester
+
+Thallium Bromide sensors, University of Liverpool
+
+Each project produced a Summary report and an A1 poster which they presented at the 12th Sept NuSec network Imaging and Localisation
+technical meeting.
+
+The End User Panel are providing further advice to help two research projects develop further, Evidential Reasoning, University of Leicester and Passive radiation imaging, University of Manchester.</gtr:impact><gtr:outcomeId>58aaed731e5f45.22921680-1</gtr:outcomeId><gtr:partnerContribution>The NuSec network manages and promotes this scheme, using funding provided to the network by AWE.
+
+In 2016, AWE provided &amp;pound;17,598 to NuSec to fund 5 summer research projects.
+
+The Nuclear Security Science network End User Panel (AWE &amp;amp; Stakeholders from government departments and Agencies) develop assessment criteria and select the projects for funding.
+
+The End User panel also provide guidance and support to successful applicants during the research period for example in accessing appropriate information and equipment.</gtr:partnerContribution><gtr:piContribution>The Nuclear Security Science network funds and administers an annual competition for summer pilot projects amongst network members in academia and industry. The scheme is run in partnership with AWE who provide the core project funding. The network takes the lead role in promoting the competition;drafting &amp;amp; distributing application forms and guidance; collating applications for assessment; informing applicants of decisions; issuing contractual paperwork; processing payments and receiving final summary report and poster presentations.</gtr:piContribution><gtr:sector>Private</gtr:sector><gtr:start>2016-01-01</gtr:start></gtr:collaborationOutput></gtr:collaborationOutputs><gtr:disseminationOutputs><gtr:disseminationOutput><gtr:description>NuSec Personal Development Grants</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>National</gtr:geographicReach><gtr:id>E7E8BEA7-AF06-46A8-82AD-17AB6258E384</gtr:id><gtr:impact>The Nuclear Security Network Personal Development Grant award scheme is aimed at strengthening the research and innovation capacity of Nuclear Security Scientists and developing new collaborations between researchers and partner organisations. This could be by attending a Nuclear Security Science related Research Conference, Training Course or an Industrial Placement within or outside of the UK.
+
+Awards of up to &amp;pound;2,000 are available though 50% matched funding is normally required. There is an open application deadline and the applicant is informed of a decision within 6 weeks of submission. 
+
+In early Ferbuary 2016, 4 awards had been made to 4 Phd students at UK Universities to support attendance and collaborations at Nuclear Security Science events in the USA and Italy. Events include:-
+
+Nuclear Waste Management Symposium, Phoenix, Arizona, USA, 5th - 9th March 2017
+
+IEEE Nuclear Science Symposium and Medical Imaging Conference, Atlanta, Georgia, 21st-28th October 2017
+
+ESARDA Nuclear Safeguards and Non Proliferation Course, European Commmission Research Centre, Ispra, April 3rd - 7th 2017.
+
+Students will present papers at events, write essays and collaborate with international and European colleagues on nuclear security science issues.</gtr:impact><gtr:outcomeId>58aaf2a1503b74.91726764</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Postgraduate students</gtr:primaryAudience><gtr:url>http://www.nusec.uk</gtr:url><gtr:year>2017</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Nuclear Security Network Website</gtr:description><gtr:form>Engagement focused website, blog or social media channel</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>C3C0C2DF-21AE-4A39-B26B-5AE6B3985ECD</gtr:id><gtr:impact>The aim of the new NuSec Science network website is to disseminate information about its operation and activities to researchers, practitioners and policy makers working in the Nuclear Security sector. Activities include NuSec Meetings, opportunities and those of other organisations. 
+
+Our website has also been used to promote events and funding opportunities hosted by other academic and publicly funded organisations working in Nuclear security .
+
+Detailed and sensitive Information i.e. Events and Meetings Papers are password protected and can only be accessed by registered NuSec network and meeting group members.
+
+The main impacts fo the website has been to raise the profile &amp;amp; activities of the NuSec network and the provision of cost effective &amp;amp; efficient central information point for those interested in nuclear security detection research, training and funding opportunties. .</gtr:impact><gtr:outcomeId>587ceadf2a2252.86355838</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www.nusec.uk</gtr:url><gtr:year>2016</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Nuclear Security Detection workshop and network launch 16 March 2016</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>National</gtr:geographicReach><gtr:id>DF753C99-4BB9-4C4F-AE91-D3F1C117D3DD</gtr:id><gtr:impact>The STFC Innovations Club jointly with the STFC Nuclear Security Science Network hosted a knowledge exchange and network launch event with Academic, Industrial and Government stakeholders on current and novel applications of Nuclear Security radiation detectors and detection techniques. This event was intended for:
+
+? Industry interested to know more about current knowledge exchange and commercialisation opportunities from UK radiation detection community
+ 
+? All stakeholders and researchers who are interested in participating in the Nuclear Security Sciences network
+ 
+? Industrial and Government researchers looking for academic partners for specific development projects
+ 
+? STFC funded researchers working in radiation detectors developments wanting to get more involved in knowledge exchange and the funding available
+ 
+? Academic researchers from allied fields looking to find partners or develop capability in nuclear detection.
+
+
+Presentations were made by Home Office, University College London. Oxford, Liverpool, AWE, CBRN, STFC and Knowledge Transfer Network. Topics included Nuclear Security Detection challenges; Academic/Industrial Collaboration Case Studies; End User Requirements; UK &amp;amp; EU &amp;amp; STFC Funding Opportunities and Industrial Support. 
+
+The workshop launched the STFC Nuclear Security Science Network, and help to inform its future work programme.</gtr:impact><gtr:outcomeId>5832e37d612db3.55521440</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www.nusec.uk/events/</gtr:url><gtr:year>2016</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Nuclear Security Network  Imaging and Localisation Technical Workshop, London, 12th September 2016</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>National</gtr:geographicReach><gtr:id>9E20C074-6CAB-4D90-B498-9B8B8ECFB55A</gtr:id><gtr:impact>Following on from our successful launch of the Nuclear Security Network on 16 March 2016, this technical workshop focused on current Imaging and Detection Techniques and was open to attendees from Academia, Industry and Government working in Nuclear Security Detection, or with an interest to collaborate in this field. 
+
+This Technical Workshop was aimed at Researchers (academic, industry and government) wishing to deepen their technical knowledge of Nuclear Security Sciences. The technical focus of this event was Nuclear Security Imaging and Localisation techniques.
+
+Presentations we made by Industry and Academics. They included Airport Security Imaging - Rapiscan; Real-time event selection - Imperial College; Real time imaging - Liverpool University and Interrogation techniques - AWE.
+
+The Panels discussion on 3 questions 1. The biggest technical challenge in your recent work? 2. What near-term technology breakthrough would you like to see? 3. Is there a game-changing technology that we should be trying to address ? also generated audience comment and feedback.
+
+Posters presentations over a interactive lunch were made by 5 universities: 
+Colloid interaction with Muons, Liverpool John Moores University
+Digital SiPMs for Spectroscopic Measurement, University of York
+Evidential Reasoning for Radiological Detection, University of Leicester
+Passive radiation imaging, University of Manchester
+Thallium Bromide sensors, University of Liverpool
+This generated discussion amongst individuals on the research and next steps in taking the work forward. 
+
+The event was also used to promote NuSec Network; Industry Opportunities including potential collaborative External Funding bids and the launch of new NuSec Personal Development Grants.</gtr:impact><gtr:outcomeId>5832e79bb1d978.60466502</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www.nusec.uk/events/</gtr:url><gtr:year>2016</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Nuclear Security government stakeholder panel</gtr:description><gtr:form>A formal working group, expert panel or dialogue</gtr:form><gtr:geographicReach>National</gtr:geographicReach><gtr:id>1472A2BC-74F5-4FC8-8A8C-C3815961F0F5</gtr:id><gtr:impact>The NuSec Science network hosts regular meetings of its End User Panel, which is an invited group of leading Nuclear Science Academics, Government Departments (Home Office, Dept of Transport, Dept. of Energy &amp;amp; Climate Change, defra, Dept of health, Dept for Buisness Energy &amp;amp; Industrial strategy, Centre for Protection of National Infrastructure) and Industrial Representatives (NNL, AWE)
+
+Their role is to advise the Network on its proposed activities and events. 
+
+The End User Panel is a group of approximately 10 people covering a range of government departments and government agencies, chaired by AWE.
+
+They meet 3 times per year, and advise the network management group on current government and industry interests and priorities in nuclear security.
+
+They also assess and select the Nuclear Security Summer Research Project.
+
+The Management Group comprises of 11 people largely from leading Universities in the field of nuclear security (Cambridge, Bristol, Manchester, Glasgow, Sheffield, NNL and the MoD). The group meets quarterly and advises and steers network activities and comments on Training Development Grant applications.
+.
+
+The Strategic Advisory Board meets annually and includes representatives from Home Office and Rutherford Appleton Laboratory. They provide an independent oversight and advice to the Management Group on the strategy, operation and delivery of the network.</gtr:impact><gtr:outcomeId>58aae15e1f6a30.83296944</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Policymakers/politicians</gtr:primaryAudience><gtr:url>http://www.nusec.uk</gtr:url><gtr:year>2016</gtr:year></gtr:disseminationOutput></gtr:disseminationOutputs><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">ST/N002431/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>5D762B83-597E-4E91-B2F7-04CBB955175C</gtr:id><gtr:percentage>80</gtr:percentage><gtr:text>Pol. sci. &amp; internat. studies</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>E88ECDEE-D58E-417E-A379-9FBB35647A90</gtr:id><gtr:percentage>20</gtr:percentage><gtr:text>Science and Technology Studies</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>E88ECDEE-D58E-417E-A379-9FBB35647A90</gtr:id><gtr:percentage>20</gtr:percentage><gtr:text>Science and Technology Studies</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>7A153974-B803-439F-95AD-724028C45340</gtr:id><gtr:percentage>80</gtr:percentage><gtr:text>Security Studies</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

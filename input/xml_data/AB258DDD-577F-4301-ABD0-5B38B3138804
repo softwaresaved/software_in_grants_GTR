@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/F08A06FE-AF93-47AA-BD8D-495E8AFACAFF"><gtr:id>F08A06FE-AF93-47AA-BD8D-495E8AFACAFF</gtr:id><gtr:name>Clifson Limited</gtr:name><gtr:address><gtr:line1>80-83 LONG LANE</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>EC1A 9ET</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/F08A06FE-AF93-47AA-BD8D-495E8AFACAFF" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>F08A06FE-AF93-47AA-BD8D-495E8AFACAFF</gtr:id><gtr:name>Clifson Limited</gtr:name><gtr:address><gtr:line1>80-83 LONG LANE</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>EC1A 9ET</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>134374.0</gtr:offerGrant><gtr:projectCost>298610.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720794"><gtr:id>AB258DDD-577F-4301-ABD0-5B38B3138804</gtr:id><gtr:title>ABC (Advanced Breast milk Collection)</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720794</gtr:grantReference><gtr:abstractText>The World Health Organisation (WHO) states babies should exclusively drink breast milk for
+first 6 months and into toddlerhood for best immunological protection. However, while 81%
+of UK mothers initiate breastfeeding, over 30% experience challenges in early stages, and less
+than 25% exclusively breastfeed after 6 weeks.
+Breastfeeding is challenging for working mothers, and low-income women are the least likely
+to breastfeed. 21% of mothers buy breast pumps, but pump use can be difficult to sustain and
+less than 1% of mothers exclusively breastfeed at 6 months. This makes the UK one of the
+lowest breastfeeding nations.
+NHS hospitals seek to support breastfeeding, as increased breastfeeding could save the NHS
+&amp;pound;40m per year from reduced breast cancer and baby illnesses, including 73% decrease of
+sudden infant death syndrome.
+Current breast milk pumps, however, have many drawbacks. Manual pumps are quiet but
+slow and exhausting, as mothers may need to pump for 30 minutes, up to 12 times per day.
+Both hands are recommend, so it is hard to pump both breasts simultaneously.
+Electric pumps (56% of market), require mains or batteries, are poorly portable, noisy and
+often require an uncomfortable forward-leaning position, leaving some mothers feeling ?like a
+cow being milked.?
+The detriments of insufficient breastfeeding, for mothers, babies and the NHS, are
+considerable (BMJ, 2015).
+Clifson has proven the concept of an innovative, portable, non-electric, quiet dual breast
+pump, called ?ABC? (Advanced Breastmilk Collection). ABC uses sophisticated pumping
+mechanisms and valve technology to replicate a baby?s natural feeding pattern, allowing
+mothers to easily and comfortably express milk in any location (work, on the go, etc) through
+a simple rocking motion.
+Feedback from initial trials of ABC, with mothers over a 6 month period, reports 63% would
+continue breastfeeding with ABC, as the rocking motion soothes the baby and pumping is
+easy, comfortable and effectiv</gtr:abstractText><gtr:fund><gtr:end>2017-11-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2016-05-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>134374</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720794</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

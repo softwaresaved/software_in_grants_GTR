@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/717263E6-DC8E-4E50-B4A4-E16C2775472D"><gtr:id>717263E6-DC8E-4E50-B4A4-E16C2775472D</gtr:id><gtr:name>Certain Indexes Limited</gtr:name><gtr:address><gtr:line1>4 BANK COURT , WELDON ROAD</gtr:line1><gtr:city>LOUGHBOROUGH</gtr:city><gtr:postCode>LE11 5RF</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/717263E6-DC8E-4E50-B4A4-E16C2775472D" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>717263E6-DC8E-4E50-B4A4-E16C2775472D</gtr:id><gtr:name>Certain Indexes Limited</gtr:name><gtr:address><gtr:line1>4 BANK COURT , WELDON ROAD</gtr:line1><gtr:city>LOUGHBOROUGH</gtr:city><gtr:postCode>LE11 5RF</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>74962.0</gtr:offerGrant><gtr:projectCost>166582.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/AB3669BC-0E2F-4164-AE01-AD9F0D76C64F"><gtr:id>AB3669BC-0E2F-4164-AE01-AD9F0D76C64F</gtr:id><gtr:firstName>Greg</gtr:firstName><gtr:surname>Prescott</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720795"><gtr:id>D6FB82A6-6A15-4FCD-8BD1-A36EBE50FA2C</gtr:id><gtr:title>Certain Indexes:- Project ADSOR</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720795</gtr:grantReference><gtr:abstractText>This project proposes a novel research apparatus, where none currently exists, to bring both
+automation and multiple arenas to a novel methodology for Spontaneous Object Recognition
+(SOR) by collaboration between a UK university and UK scientific instruments company. The
+apparatus will significantly reduce both the time required and the number of subjects and
+costs. Results will be scored automatically, removing subjective judgement and facilitating
+computer-based analysis.
+Neurological ailments have grown in prevalence, with aging populations inherently
+susceptible. Development of new therapies requires more efficient, lower cost methodologies,
+brought to clinical use in shorter times and with greater economy of research funds.
+Alzheimer?s Disease (AzD) is increasingly prevalent in an aging population, particularly
+afflicting women. Anxiety disorders (AD) include post-traumatic stress disorder (PTSD) and
+obsessive?compulsive disorder (OCD).
+Research of episodic memory (EM) has an emerging role in AzD and AD using SOR for
+investigation of brain function and Phase 0 pre-clinical studies for medicines.
+Scientific experimentation needs to be robust and reproducible, however pharmaceutical
+companies (Pharma) have reduced investment in research for neurological therapies due
+problems of irreproducibility of data in problematic methodologies, impairing the drug
+discovery process.
+SOR has been extensively published in academic research, however the prevailing current
+methodology has several disadvantages:-
+The procedure is slow, manual in operation with one procedure per day, is time consuming
+and costly, with no standardisation of apparatus or procedure, results is also problematic and
+can typically show significant variance, often to the extent of a lack of repeatability.
+The prevailing methodology prevents investigation of some potentially useful novel
+compounds due to their short time of stability.</gtr:abstractText><gtr:fund><gtr:end>2018-04-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2016-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>74962</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720795</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

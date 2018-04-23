@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/DC934AED-9432-4385-AEAF-006EA2369001"><gtr:id>DC934AED-9432-4385-AEAF-006EA2369001</gtr:id><gtr:name>University of Huddersfield</gtr:name><gtr:department>Research and Enterprise</gtr:department><gtr:address><gtr:line1>Queensgate</gtr:line1><gtr:line4>Huddersfield</gtr:line4><gtr:line5>West Yorkshire</gtr:line5><gtr:postCode>HD1 3DH</gtr:postCode><gtr:region>Yorkshire and The Humber</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/DC934AED-9432-4385-AEAF-006EA2369001"><gtr:id>DC934AED-9432-4385-AEAF-006EA2369001</gtr:id><gtr:name>University of Huddersfield</gtr:name><gtr:address><gtr:line1>Queensgate</gtr:line1><gtr:line4>Huddersfield</gtr:line4><gtr:line5>West Yorkshire</gtr:line5><gtr:postCode>HD1 3DH</gtr:postCode><gtr:region>Yorkshire and The Humber</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6D1727F8-71D0-42BB-BDE1-4ED8BA097323"><gtr:id>6D1727F8-71D0-42BB-BDE1-4ED8BA097323</gtr:id><gtr:firstName>Elizabeth</gtr:firstName><gtr:surname>Towns-Andrews</gtr:surname><gtr:roles><gtr:role><gtr:name>TRAINING_GRANT_HOLDER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=EP%2FN50967X%2F1"><gtr:id>2A51313F-00F1-47C5-9FC4-68DF918A6CD3</gtr:id><gtr:title>DTP 2016-2017 University of Huddersfield</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Training Grant</gtr:grantCategory><gtr:grantReference>EP/N50967X/1</gtr:grantReference><gtr:abstractText>The University of Huddersfield (UoH) Doctoral Training Partnership (DTP) award will be allocated to projects in the area of materials research across two schools within the University - Computing &amp;amp; Engineering and Applied Sciences. Materials research is an area of growth and strategic importance for UoH and underpins multiple sectors in the Government's Industry Strategy including aerospace, nuclear, life sciences, oil &amp;amp; gas and construction.
+
+Areas of particular importance for UoH, with alignment to existing Engineering and
+Physical Science Research Council (EPSRC) programmes, include materials research associated with: photonics and metamaterials, catalysis, nuclear fission, graphene and carbon nanotechnology, materials for energy applications, manufacturing technologies and materials engineering. Further details of doctoral research opportunities will be made available online and will be found at:
+http://www.hud.ac.uk/researchdegrees/scholarships/ 
+
+The first DTP cohort will commence in September 2016 and the timetable for decisions and allocation of funding is outlined below. The University of Huddersfield has established a Research Skills Development Programme (RSDP) which is designed to offer opportunities to develop the necessary skills to complete a research degree and to provide the full range of personal, professional
+and career development opportunities in a variety of formats to all research students.
+We enable students with the tools and knowledge to assist them in their personal,
+professional and career development : 
+
+ Explore all the aspects of being a researcher
+ Identify your strengths
+ Prioritise areas for professional development
+ Write a plan, then monitor progress and success
+ Have productive discussions with others, e.g. your supervisor, PI, careers advisor
+or other professional development provider
+ Look for formal and informal development opportunities
+ Prepare for one-to-one progress reviews, appraisals or career development
+conversations with your research manager or mentor.
+
+All research students are invited to attend the Postgraduate Researcher Welcome and Induction event which is designed to help new research students familiarise themselves with life as a postgraduate researcher at the University of Huddersfield, it is also an opportunity to meet with the Pro Vice-Chancellor for Research and Enterprise and the Dean of the Graduate School. Attendance at Induction is compulsory.
+
+Distribution of Funding
+It is proposed that the funding will be to provide between 6 - 12 studentships across two intakes of September 2016 and 2017 with a conversion of one studentship into a CASE award in Year 2 (Sept 2017).
+
+When allocating in Year 2 flexibility will be used if there is a surplus to provide vacation bursaries for outstanding undergraduate students planning to undertake research at the completion of their degree course.
+
+Outline Timetable
+The following is an outline timetable for the processing, advertising and acceptance of EPSRC studentships.
+
+Dec 2015 UoH EPSRC DTP Committee Panel convened to decide upon
+projects to go forward for September 2016 enrolment
+
+Jan 2016 Adverts placed on University website and FindaPhD.com and
+via various other channels
+
+End March 2016 Closing date for applications
+
+April 2016 UoH EPSRC DTP Committee Panel convened to look at
+applications and decide upon individual to invite for interview
+
+May 2016 Interviews and decision
+
+June 2016 Offers sent to successful candidates
+
+September 2016 First Cohort enrols - update Je-S and include in central
+induction RCUK funded studentship awareness session
+
+The above will then be repeated for the September 2017 cohort.
+
+Contact Details
+
+For further information regarding the DTP research opportunities at Huddersfield please contact Prof Liz Towns-Andrews (l.towns-andrews@hud.ac.uk)</gtr:abstractText><gtr:fund><gtr:end>2021-09-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2016-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>553518</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">EP/N50967X/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

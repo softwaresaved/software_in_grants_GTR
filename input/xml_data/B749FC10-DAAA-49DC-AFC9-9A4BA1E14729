@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/85E19D9D-FE82-4DCC-951A-12AEA729C85E"><gtr:id>85E19D9D-FE82-4DCC-951A-12AEA729C85E</gtr:id><gtr:name>Natural Fluid Transport Systems</gtr:name><gtr:address><gtr:line1>Suite 2A
+17A Great Ormond Street</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>WC1N 3RA</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/85E19D9D-FE82-4DCC-951A-12AEA729C85E" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>85E19D9D-FE82-4DCC-951A-12AEA729C85E</gtr:id><gtr:name>Natural Fluid Transport Systems</gtr:name><gtr:address><gtr:line1>Suite 2A
+17A Great Ormond Street</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>WC1N 3RA</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>21919.0</gtr:offerGrant><gtr:projectCost>36533.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/8BF94BD6-A458-463E-9545-88BB23D9AC9D"><gtr:id>8BF94BD6-A458-463E-9545-88BB23D9AC9D</gtr:id><gtr:firstName>Garry</gtr:firstName><gtr:surname>Fish</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700185"><gtr:id>B749FC10-DAAA-49DC-AFC9-9A4BA1E14729</gtr:id><gtr:title>Natural Fluid Transport Systems: A Study into the replacement of Single Mechanical Coolant Pumps for Vehicle Applications with Modular Axial Brushless Electric Coolant Pumps with Highly Innovative Impeller Arrangements</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700185</gtr:grantReference><gtr:abstractText>Single mechanical water pumps have been employed to drive coolant around powertrains for
+cars and many other vehicle cooling systems for over 100 years, remaining largely unchanged
+in that time.
+Modern vehicles with internal combustion, hybrid and electric powertrains have employed
+complex arrays of valves, restrictors and auxiliary pumps alongside changes in pump speed
+and vane design to adapt century old technology to increasing system demands. However, in
+recent years, vehicles have evolved to incorporate multiple sub-systems including turbos,
+electric motors, batteries and power electronics, each constrained to operate within tightly
+defined thermal and legal boundaries. Single mechanical pumps are no longer a viable
+solution for such systems; a step change in technology is required.
+This study aims to prove that a brand new impeller arrangement coupled with a series of
+technical features that we have originated for a pump tailored specifically to present and
+future vehicle needs are: inventive when compared to the prior art; and, can be combined to
+create a commercially feasible pump application. As part of this study, we will research all of
+the relevant market sectors with automotive being our primary market.
+Our research is divided into six major Actions, devised to explore the intellectual property
+landscape, commercial feasibility, and the partners that we intend to work with during the
+course of the project. They are as follows:
+A1: Prior Art Search
+A2: Technology Transfer
+A3: Relationship Development
+A4: New Partners
+A5: Market Research
+A6: Final Report
+Each Action is divided into a series of tailored Work Packages, which will enable us to
+thoroughly investigate each of the research sectors described.
+Our objectives are to deliver: 1) a Final Report which describes combinations of Ideas that our
+research indicates are innovative; and, 2) an analysis of the addressable market and the steps
+that will be undertaken to fund the next stage.</gtr:abstractText><gtr:fund><gtr:end>2013-05-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2013-02-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>21919</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700185</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

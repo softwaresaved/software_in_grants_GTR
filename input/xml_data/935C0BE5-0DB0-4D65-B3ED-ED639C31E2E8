@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/4BBCDE66-5E26-4696-ABFF-3477006F0C34"><gtr:id>4BBCDE66-5E26-4696-ABFF-3477006F0C34</gtr:id><gtr:name>Empiricom Technologies Limited</gtr:name><gtr:address><gtr:line1>LEEDS INNOVATION CENTRE , 103 CLARENDON ROAD</gtr:line1><gtr:city>LEEDS</gtr:city><gtr:postCode>LS2 9DF</gtr:postCode><gtr:region>Yorkshire and The Humber</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/4BBCDE66-5E26-4696-ABFF-3477006F0C34" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>4BBCDE66-5E26-4696-ABFF-3477006F0C34</gtr:id><gtr:name>Empiricom Technologies Limited</gtr:name><gtr:address><gtr:line1>LEEDS INNOVATION CENTRE , 103 CLARENDON ROAD</gtr:line1><gtr:city>LEEDS</gtr:city><gtr:postCode>LS2 9DF</gtr:postCode><gtr:region>Yorkshire and The Humber</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>100000.0</gtr:offerGrant><gtr:projectCost>167417.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/B7089EA8-D164-430E-B784-5D0AB179D88C"><gtr:id>B7089EA8-D164-430E-B784-5D0AB179D88C</gtr:id><gtr:firstName>Rick</gtr:firstName><gtr:surname>Turner</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710619"><gtr:id>935C0BE5-0DB0-4D65-B3ED-ED639C31E2E8</gtr:id><gtr:title>Novel Software Assistant for Automating Knowledge Capture</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710619</gtr:grantReference><gtr:abstractText>Knowledge Base Systems (KBS) are vital for knowledge exchange &amp;amp; learning, proven to
+reduce costs, alleviate workforce shortfalls &amp;amp; stimulate innovation globally. The key
+limitation of KBS is Knowledge Acquisition (KA) - extracting expert knowledge in a
+computable format. Accuracy of KA is highly dependent on interviewer skill &amp;amp; expert ability
+to articulate knowledge, &amp;amp; projects are likely to fail at this stage causing a ?Knowledge
+Acquisition Bottleneck?.
+Empiricom has developed, patented &amp;amp; commercialised a novel KA methodology, SOLAR
+Acquire (SA): free from interviewer dependency, it assists articulation via a structured
+interview process using Boolean (closed) questions to produce a computable output that
+exhaustively documents an individual?s decision-making &amp;amp; encodes their entire expertise on
+any subject. Benefits of SA are recognised by global orgs, however barriers prevent wider mkt
+uptake: lacks scalability, labour intensive requiring ~20 hrs of face-to-face interviews with
+experts at a high cost (&amp;pound;1k/day).
+Based on existing customer demand &amp;amp; extensive mkt research, Empiricom have identified a
+clear business opportunity in the development of a Natural Language Processing KA software
+assistant (NLP KAA), to enable Empiricom?s methodology to be automated thus removing
+barriers preventing wider exploitation in B2B apps where a significant mkt opportunity exists
+(global mkt worth $6.78bn in 2014).
+However, critical functionality of the KA for B2B apps requires further exploration, to
+investigate the feasibility of a NLP KAA with:
+- Full automation of the SA method such that, via an interaction with a machine, an expert in a
+complex subject area could successfully have ?n-dimensional? knowledge captured from them
+- Natural language communication incl. correct translation of pronouns &amp;amp; grammaticallycorrect
+sentential reformulations.
+The project will result in PoC algorithms for the NLP KAA. Further prototyping will follow
+with expected mkt intro 2017</gtr:abstractText><gtr:fund><gtr:end>2016-01-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2015-05-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>100000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710619</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

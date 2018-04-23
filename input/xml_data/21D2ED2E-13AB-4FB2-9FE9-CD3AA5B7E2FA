@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/CF70391E-516C-44D1-A626-2E2E4D935045"><gtr:id>CF70391E-516C-44D1-A626-2E2E4D935045</gtr:id><gtr:name>Power Gems Limited</gtr:name><gtr:address><gtr:line1>UNIT 1 FAIRHILLS TRADE CENTRE FAIRHILLS ROAD , IRLAM</gtr:line1><gtr:city>MANCHESTER</gtr:city><gtr:postCode>M44 6BA</gtr:postCode><gtr:region>North West</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/CF70391E-516C-44D1-A626-2E2E4D935045" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>CF70391E-516C-44D1-A626-2E2E4D935045</gtr:id><gtr:name>Power Gems Limited</gtr:name><gtr:address><gtr:line1>UNIT 1 FAIRHILLS TRADE CENTRE FAIRHILLS ROAD , IRLAM</gtr:line1><gtr:city>MANCHESTER</gtr:city><gtr:postCode>M44 6BA</gtr:postCode><gtr:region>North West</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>101176.0</gtr:offerGrant><gtr:projectCost>224837.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/A9381723-B8E1-4510-9F40-99208AE20A7D"><gtr:id>A9381723-B8E1-4510-9F40-99208AE20A7D</gtr:id><gtr:firstName>Phil</gtr:firstName><gtr:surname>Ellams</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720422"><gtr:id>21D2ED2E-13AB-4FB2-9FE9-CD3AA5B7E2FA</gtr:id><gtr:title>High Efficiency Silicon Carbide Power Supply</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720422</gtr:grantReference><gtr:abstractText>Power Gems are established developers and suppliers of high power lamp ballasts used in
+Entertainment and Event Lighting. Their global reputation for delivering high quality,
+innovative solutions extends to end customers including the major film and TV studios in
+Hollywood.
+Following the successful conclusion of a proof of concept project Power Gems now intend to
+deliver a development of prototype project. This will produce a market prototype
+demonstrating a radical new approach to the design of the switch mode power supplies used
+in driving very high output DC discharge lamps (&amp;gt; 1kW).
+Power Gems has invented a novel design concept which should result in a saving of at least
+40% in both weight and volume over conventional solutions and is also expected to provide
+up to a 30% increase in energy efficiency. The design is very demanding of high power
+switch devices and it is only the recent release of components based on Silicon Carbide
+technology that has enabled the company to consider a practical implementation of the
+concept. Whilst the design makes particular demands of the MOSFET devices it enables
+magnetic components to be used that are a fraction of the size and cost of those currently
+required. Since common applications for high power lighting are either high on gantries or in
+location filming the resulting quantum leap in portability will be of significant commercial
+advantage.
+Powering DC discharge lamps is a very specialist area. Any supply must be capable of
+typically providing, and controlling, a 160 Amp drive current coupled with a 40,000 Volt
+?ignition? pulse to strike the discharge. Unfortunately, as well as offering unique
+characteristics, Silicon Carbide also has some serious design drawbacks and this represents a
+technically very challenging project.
+The eventual deliverable will be a modular prototype design, bridging 3 distinct markets, that
+establishes significant reductions in size, weight and cost over current market products.</gtr:abstractText><gtr:fund><gtr:end>2016-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2014-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>101176</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720422</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/8BD85381-8891-4849-8217-44BE02022D9D"><gtr:id>8BD85381-8891-4849-8217-44BE02022D9D</gtr:id><gtr:name>Astek Innovations Limited</gtr:name><gtr:address><gtr:line1>ASTEK HOUSE, ATLANTIC STREET, , BROADHEATH</gtr:line1><gtr:city>ALTRINCHAM</gtr:city><gtr:postCode>WA14 5DH</gtr:postCode><gtr:region>North West</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/8BD85381-8891-4849-8217-44BE02022D9D" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>8BD85381-8891-4849-8217-44BE02022D9D</gtr:id><gtr:name>Astek Innovations Limited</gtr:name><gtr:address><gtr:line1>ASTEK HOUSE, ATLANTIC STREET, , BROADHEATH</gtr:line1><gtr:city>ALTRINCHAM</gtr:city><gtr:postCode>WA14 5DH</gtr:postCode><gtr:region>North West</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>110000.0</gtr:offerGrant><gtr:projectCost>276245.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/B16E2119-5D33-4E15-B82E-59AE2F4E865F"><gtr:id>B16E2119-5D33-4E15-B82E-59AE2F4E865F</gtr:id><gtr:firstName>Alan</gtr:firstName><gtr:surname>Segal</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720045"><gtr:id>F40A9193-F458-42D2-BB27-5D533D2EFE24</gtr:id><gtr:title>Intraoral dental products with reduced infection risk</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720045</gtr:grantReference><gtr:abstractText>The project aims to reduce cross infection by developing a range of dental products which are
+low enough in cost to allow dentists to destroy them at the end of each patient?s treatment
+session.
+This range includes single-use, disposable versions of ?
+?The usually large and heavy dental safety syringe for administering local anaesthetic from
+cartridges; and
+?a new matrix band containing the flexible stainless steel band for confining filling material
+around the teeth; and
+?A high velocity version of our existing Pro-Tip nozzles for administering compressed air
+and water to clean debris out of cavities.
+By introducing a range of disposable products we hope to make this the norm, so reducing the
+real risk cross infection occurring when dentists place fillings, as well as allowing dentists to
+promote their practice by assuring patients that they are not going to pick up an infection.
+All the products are based around the advantage which a disposable product has, in that it
+does not have to withstand repeated sterilization. Thus whereas a reusable product has to be
+made of metal, a disposable one can be made of low-cost materials such as injection moulded
+plastics. In fact, the research and design work we have done already, has shown that the use of
+plastics allows novel solutions to the problems which these products have to solve, which may
+actually improve performance when compared to a metal product.
+Thus for example, our design for the syringe, although it is low cost, and disposable, has a
+safety sleeve which the dentist can temporarily lock in position to protect the needle between
+injections, but can then permanently lock it when treatment is finished and the syringe needs
+to be disposed of. Our design for the matrix band has a unique arrangement for switching
+between the upper/lower and left/right hand sides of the mouth. Lastly, we think that the can
+improve the air velocity from the new pro-tip by correct design of parts of the plastic nozzle.</gtr:abstractText><gtr:fund><gtr:end>2013-09-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2011-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>110000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720045</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

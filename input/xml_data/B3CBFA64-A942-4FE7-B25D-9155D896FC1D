@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/1C4E4B5C-6BF5-4896-BC1A-39AEC62859C7"><gtr:id>1C4E4B5C-6BF5-4896-BC1A-39AEC62859C7</gtr:id><gtr:name>ImiTec</gtr:name><gtr:address><gtr:line1>Engine Shed
+Station Approach
+Temple Meads</gtr:line1><gtr:city>Bristol</gtr:city><gtr:postCode>BS1 6QH</gtr:postCode><gtr:region>South West</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/1C4E4B5C-6BF5-4896-BC1A-39AEC62859C7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>1C4E4B5C-6BF5-4896-BC1A-39AEC62859C7</gtr:id><gtr:name>ImiTec</gtr:name><gtr:address><gtr:line1>Engine Shed
+Station Approach
+Temple Meads</gtr:line1><gtr:city>Bristol</gtr:city><gtr:postCode>BS1 6QH</gtr:postCode><gtr:region>South West</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>65806.0</gtr:offerGrant><gtr:projectCost>109677.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/8397844C-FF2C-4E7C-B457-E08491180AD1"><gtr:id>8397844C-FF2C-4E7C-B457-E08491180AD1</gtr:id><gtr:firstName>Thomas</gtr:firstName><gtr:surname>Scott</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710571"><gtr:id>B3CBFA64-A942-4FE7-B25D-9155D896FC1D</gtr:id><gtr:title>Autonomous Aerial Radiation Monitoring Systems</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710571</gtr:grantReference><gtr:abstractText>Hazardous nuclear events have the potential to cause huge levels of widespread damage to
+individuals and the environment. Getting close enough to these incidents to accurately assess
+the problem can be extremely dangerous.
+Utilising unmanned aerial systems (UAS) autonomous aerial systems radiation monitoring
+(AARM) devices offer a unique solution for the ability to remotely detect radiation
+contamination specifically targeted at the nuclear industry.
+The systems which we propose to develop will allow individuals to assess radiological
+contamination of buildings, or land, from a remote and safe location. Using UAS the operator
+can gain new and insightful information into the extent and cause of radiation contamination,
+in previously inaccessible areas. The system will be deployed in all aspects of the nuclear
+supply chain: from mining, fuel processing, reactor operations and site decommissioning.
+AARM systems will revolutionise methods for gaining radiological data in the nuclear
+industry. Traditional solutions require either static monitoring points or hand operated survey
+equipment. By using the system, the end user can remove the risk of both exposure of
+personnel to high or unknown radiation environments and working at height. By using UAS
+large volumes of radiological data can be collated in a very short space of time. This data is
+linked to its spatial position, using GPS, and provides understanding into the extent and
+isotopic nature of the contamination.</gtr:abstractText><gtr:fund><gtr:end>2016-04-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2014-11-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>65806</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710571</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

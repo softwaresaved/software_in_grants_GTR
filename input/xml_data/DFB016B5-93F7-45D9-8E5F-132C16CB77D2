@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/DF6C9B56-6005-433F-B2AD-7BC7A56ED8D2"><gtr:id>DF6C9B56-6005-433F-B2AD-7BC7A56ED8D2</gtr:id><gtr:name>Senceive Limited</gtr:name><gtr:address><gtr:line1>Hurlingham Studios
+Ranelagh Gardens</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>SW6 3PA</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/DF6C9B56-6005-433F-B2AD-7BC7A56ED8D2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>DF6C9B56-6005-433F-B2AD-7BC7A56ED8D2</gtr:id><gtr:name>Senceive Limited</gtr:name><gtr:address><gtr:line1>Hurlingham Studios
+Ranelagh Gardens</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>SW6 3PA</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>189100.0</gtr:offerGrant><gtr:projectCost>420426.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720169"><gtr:id>DFB016B5-93F7-45D9-8E5F-132C16CB77D2</gtr:id><gtr:title>RADCOM: RApid Deployment wireless COndition Monitoring platform for critical assets</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720169</gtr:grantReference><gtr:abstractText>Remote Condition Monitoring (RCM) solutions enable owners of rail, utility and industrial
+infrastructure to monitor the state of their assets in an efficient and robust manner, both to
+plan for future investment and most importantly to be informed when problems with often
+ageing and remote assets are likely to occur. Currently at least 95% of the monitoring
+solutions deployed are hard wired and this makes them expensive and often very challenging
+to deploy in remote or difficult to access locations.
+However the adoption of wireless solutions and the visibility of the benefits case for using
+wireless monitoring is growing, and in time expected to account for a significant proportion
+of a global and growing market for multi-application monitoring solutions that is worth
+billions pounds per annum. Wireless is also expected to unlock new opportunities for
+improved asset knowledge and maintenance, provided the monitoring solutions can be shown
+to perform in a robust and reliable manner and thus in line with expectations of markets that
+are most often highly safety and reliability conscious.
+Senceive Ltd a wireless monitoring solutions provider, has had success in early and paid
+deployment trials. These indicated clearly the positive benefits of using wireless and
+identified a range of potential use cases for the technology platform. However they have also
+highlighted a series of limitations that need to be addressed before wide scale adoption will be
+feasible.
+The project for which SMART support is sought will deliver a prototype, near real-time,
+wireless monitoring platform that would be a genuine step change in the provision of credible,
+robust, reliable as well as easy to deploy and low cost RCM solutions that primarily addresses
+the needs of end-users across global geo-technical and structural asset monitoring applications
+in the first instance and which will in time also address needs in the Buildings and Utilities sectors.</gtr:abstractText><gtr:fund><gtr:end>2014-02-28</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2012-09-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>189100</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720169</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/59FB0F4F-16A4-4558-9422-EA33E67277DB"><gtr:id>59FB0F4F-16A4-4558-9422-EA33E67277DB</gtr:id><gtr:name>Elumotion Ltd</gtr:name><gtr:address><gtr:line1>Unit 1
+Wansdyke Business Centre
+Oldfield Lane</gtr:line1><gtr:city>Bath</gtr:city><gtr:postCode>BA2 3LY</gtr:postCode><gtr:region>South West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/59FB0F4F-16A4-4558-9422-EA33E67277DB" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>59FB0F4F-16A4-4558-9422-EA33E67277DB</gtr:id><gtr:name>Elumotion Ltd</gtr:name><gtr:address><gtr:line1>Unit 1
+Wansdyke Business Centre
+Oldfield Lane</gtr:line1><gtr:city>Bath</gtr:city><gtr:postCode>BA2 3LY</gtr:postCode><gtr:region>South West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>55063.0</gtr:offerGrant><gtr:projectCost>96572.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=730063"><gtr:id>5EA31B95-E76B-4EC3-9D89-AE0A205197EF</gtr:id><gtr:title>Sarcomere Inspired Linear Actuator</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Legacy RDA Grant for R&amp;D</gtr:grantCategory><gtr:grantReference>730063</gtr:grantReference><gtr:abstractText>Designing an electrical actuator that can truly match the power/weight ratio needed
+. for an 'active' ankle or knee prosthesis presents significant technical challenges and is
+the driver for this research project. The new actuator must provide a cost-effective,
+highly compact and more powerful unit able to fit within the volume of the absent limb
+sections and must offer significantly improved user 'controllability' over devices
+currently on the market, oelivering performance through a user interface compatible
+with normal human expectation and therefore be more intuitive and easier to control.
+Elumotion's target is that actuator components will be electrically controlled with no
+mechanical engagement. This should permit body generated free-swing of the&amp;middot;
+prosthetic limb, making use, whenever possible, of 'passive dynamics' so enabling
+conservation of portable power supplies and preservation of the wearers natural
+walking gait. Further advantages are anticipated from noise-free operation, robustness
+to contaminant ingress and the potential for long duty cycles due to high efficiencies
+and the absence of wearing surfaces. The new actuator is expected to be attractive as
+a replacement for existing actuators in robotic, industrial, medical, automotive and
+aerospace applications - offering a significantly more controllable and more reliable
+component. In particular being able to control the actuator in a shock absorbing mode
+may be particularly attractive to industrial automation and process control, where
+manufacturing downtime can occur from assemblies that collide and fail as they do not
+possess a shock absorbing feature.</gtr:abstractText><gtr:fund><gtr:end>2011-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2010-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>55063</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">730063</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/BB48C986-F706-4997-B33A-E7BAFB40E287"><gtr:id>BB48C986-F706-4997-B33A-E7BAFB40E287</gtr:id><gtr:name>Methera Global Communications Limited</gtr:name><gtr:address><gtr:line1>71-75 Shelton Street, Covent Garden</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>WC2H 9JQ</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/BB48C986-F706-4997-B33A-E7BAFB40E287" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>BB48C986-F706-4997-B33A-E7BAFB40E287</gtr:id><gtr:name>Methera Global Communications Limited</gtr:name><gtr:address><gtr:line1>71-75 Shelton Street, Covent Garden</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>WC2H 9JQ</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>21000.0</gtr:offerGrant><gtr:projectCost>30000.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/DDE62868-3B9C-4E86-A01B-5394C05E270B"><gtr:id>DDE62868-3B9C-4E86-A01B-5394C05E270B</gtr:id><gtr:firstName>David</gtr:firstName><gtr:surname>GIlmore</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=132646"><gtr:id>9340D429-BA3D-4A36-9AB1-B597CA30664E</gtr:id><gtr:title>Feasibility study to gain Methera market access to India and selected other nations</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Feasibility Studies</gtr:grantCategory><gtr:grantReference>132646</gtr:grantReference><gtr:abstractText>The pressing need for affordable, high speed broadband services to rural areas of un(der)served nations is
+
+underlined by the United Nations, ITU and Commonwealth Telecommunications Organisation. Satellite service
+
+offerings are not yet viable: monthly costs of satellite bandwidth and initial installed cost of user equipment
+
+are too high; outdoor units are much larger than with terrestrial wireless; and total available capacity and
+
+capacity density are too low and inflexible. Terrestrial technologies are also costly and impractical over very
+
+large sparsely populated areas. Methera?s innovative MEO satellite network proposal is specifically designed to
+
+meet this need by offering wholesale communications capacity of up to 1Tbps to nationally authorised
+
+resellers, with an order of magnitude reduction in the 15 year cost of ownership compared with alternatives.
+
+This study will test the feasibility of the market proposition on potential overseas partners including India,
+
+Malaysia and possibly one other Commonwealth nation. This feedback will be key in supporting decision
+
+making and external finance for the overall design and implementation phases of the project</gtr:abstractText><gtr:fund><gtr:end>2017-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2017-01-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>21000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">132646</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

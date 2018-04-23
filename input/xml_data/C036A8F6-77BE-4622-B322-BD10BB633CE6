@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/68D0E3C9-9246-4CFC-B5E9-48584CF82993"><gtr:id>68D0E3C9-9246-4CFC-B5E9-48584CF82993</gtr:id><gtr:name>University of Manchester</gtr:name><gtr:department>Physics and Astronomy</gtr:department><gtr:address><gtr:line1>Oxford Road</gtr:line1><gtr:city>Manchester</gtr:city><gtr:postCode>M13 9PL</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/68D0E3C9-9246-4CFC-B5E9-48584CF82993"><gtr:id>68D0E3C9-9246-4CFC-B5E9-48584CF82993</gtr:id><gtr:name>University of Manchester</gtr:name><gtr:address><gtr:line1>Oxford Road</gtr:line1><gtr:city>Manchester</gtr:city><gtr:postCode>M13 9PL</gtr:postCode><gtr:region>North West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/D54CF1A5-8255-4259-B85F-EED024E087BD"><gtr:id>D54CF1A5-8255-4259-B85F-EED024E087BD</gtr:id><gtr:firstName>Alexander</gtr:firstName><gtr:surname>Oh</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=ST%2FP001769%2F1"><gtr:id>C036A8F6-77BE-4622-B322-BD10BB633CE6</gtr:id><gtr:title>Teaching buy-out to coordinate the data taking activities of the ATLAS experiment</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>ST/P001769/1</gtr:grantReference><gtr:abstractText>To study the physics of elementary particles the conditions which governed the universe at its 
+beginning are reproduced in collider experiments: The Large Hadron Collider (LHC) has been build 
+at CERN, a particle accelerator which probes deeper into the processes of the Big Bang than ever 
+before. In 2008 it started to collide beams of protons, and collected data-sets at 7 and 8 TeV 
+centre-of-mass energy that enabled the discovery of the Higgs particle in 2012, which lead to the 
+attribution of the 2013 Noble price in Physics to Francois Englert and Peter Higgs. The LHC resumed 
+operation in 2015 at nearly twice the collision energy, and first results presented in 
+December 2015 have sparked excitement amongst scientist about the possibility of physics not described 
+by the Standard Model of particle physics.
+
+Ultimately, LHC will need to deliver more collisions to have a decisive answer if the results presented in 
+December 2015 were the first indication of new physics or a statistical fluctuation. LHC is preparing 
+to produce up to 20 times the number of collision in the run-2 period during the next 2 years, and the 
+ATLAS experiment is preparing to take data with the highest possible efficiency.
+
+In October 2015 AO was elected to become the next &amp;quot;Run Coordinator&amp;quot; of the ATLAS experiment by the
+collaboration board, representing the 174 collaborating institutes and about 3000 scientists.
+The prestigious &amp;quot;Run Coordinator&amp;quot; role is a position of high responsibility and visibility, with the 
+mandate to coordinate the operation of the entire ATLAS experiment. It is the mandate of the 
+Run Coordinator to supervise and ensure the continuous and efficient operation of the ATLAS detector.</gtr:abstractText><gtr:potentialImpactText>The ATLAS experiment is ramping up its data taking activities to collect 20 times the data compared to the
+first data taking period with 13 TeV collision energy in 2015. The discovery potential of the ATLAS experiment
+is directly linked to the efficient operation and data taking of the apparatus, which in turn depends on 
+the detector performance, the data quality and collection efficiency, and the coordination with the other experiments 
+and the accelerator operations. The Run Coordinator supervises and ensures the efficient operation of the ATLAS 
+experiment. This includes supervising the day-by-day run planning involving coordination with the LHC machine
+and the Physics program, the organisation of the shift-crew, and first level on-call support, including
+the staffing and training. The run period in the next two years will be a critical phase where the luminosity is expected
+to reach its highest value of up to 1.6e34 s^-1 cm^-2, and the sub-detector systems, the 
+trigger, and the data-acquisition system will be pushed to the technical design limits. 
+
+The support of the Run Coordinator role has a direct impact on the success of ATLAS data-taking in run-2,
+and therefor enables the discovery of possibly new physics as the first results of the 2015 run suggest, 
+and definitely allows to conclude with a firm statement on the observed excesses.
+The general public will benefit from the impact of new discoveries and the exploration of the new energy 
+regime with sufficient statistical precision to confirm or rule out new models and extensions to the standard models.
+The data set will also provided guidance about the future direction of particle physics experiments by providing information
+about the scale where new physics can be expected, and thus facilitate major funding decision into new particle physics experiments.
+
+More generally the ATLAS experiment is not only build at the technological frontier of detector, data acquisition and processing
+technology, but has also attracted interest from the social sciences to study the organisational challenges of a multi-national 
+and very dynamic flat hierarchy. The successful exploitation allows to demonstrate viable concepts, and to spin-off new technologies and concepts into related fields.</gtr:potentialImpactText><gtr:fund><gtr:end>2018-02-28</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/D7F4F462-0518-4784-908A-D12633C139B3"><gtr:id>D7F4F462-0518-4784-908A-D12633C139B3</gtr:id><gtr:name>STFC</gtr:name></gtr:funder><gtr:start>2016-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>7469</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">ST/P001769/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>C2898760-D7E5-4B25-A236-E7869CD74F88</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Particle physics - experiment</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>200B9B9B-68EC-4D70-B889-6BD5F4538080</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Beyond the Standard Model</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

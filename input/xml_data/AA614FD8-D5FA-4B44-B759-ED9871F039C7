@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/185820F9-5456-4338-8B5E-901175875C29"><gtr:id>185820F9-5456-4338-8B5E-901175875C29</gtr:id><gtr:name>Crown Bio Technology Ltd</gtr:name><gtr:address><gtr:line1>PRIONEER HOUSE , 39 STATION ROAD</gtr:line1><gtr:city>LUTTERWORTH</gtr:city><gtr:postCode>LE17 4AP</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/185820F9-5456-4338-8B5E-901175875C29" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>185820F9-5456-4338-8B5E-901175875C29</gtr:id><gtr:name>Crown Bio Technology Ltd</gtr:name><gtr:address><gtr:line1>PRIONEER HOUSE , 39 STATION ROAD</gtr:line1><gtr:city>LUTTERWORTH</gtr:city><gtr:postCode>LE17 4AP</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>59750.0</gtr:offerGrant><gtr:projectCost>99768.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710052"><gtr:id>AA614FD8-D5FA-4B44-B759-ED9871F039C7</gtr:id><gtr:title>Rapid Field Detection of Biological Agents in Soil &amp;amp; Environmental Samples - Crown Bio</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710052</gtr:grantReference><gtr:abstractText>In current times, there is still an ongoing, if not an increasing threat of Biological warfare
+(BW) weapon usage. The proposed Proof of Concept (POC) study involves research on the
+production of a quick portable, simple to use assay system for detection of a range of BW
+pathogens, and is designed specifically to be used in a field environment and to give rapid
+results.
+The assay will be simple to operate for non-scientifically trained personnel and portable
+within a small briefcase size to be used within field environments with no external power
+requirements. The assay technology will be fully self-contained and very rapid, taking only
+approximately 15 minutes to obtain a result.
+This proposal aims to obtain POC using just one BW agent (Bacillus anthracis), but the
+technology platform approach is identical for all other BW bacterial and viral agents.
+Detection matrices include soil and other environmental matrices; this assay is not designed to
+operate with clinical samples. This is an area that other rapid assays for BW agents do not
+address and where it is technically difficult to get molecular-based assays to perform well.
+One application of the assay system is for its use to screen areas where biological weapons
+may have been deployed, to assure safe entry for military personnel.
+Apart from its obvious use by military personnel (MoD), there are a variety of other potential
+uses for a rapid BW detection system. These would comprise general publically accessible
+sites including Govt. buildings, Govt. installations, post-offices, libraries, and many others.
+Crown Bio &amp;amp; the Health Protection Agency (HPA, Porton Down) have formed a Research &amp;amp;
+Development (R&amp;amp;D) collaboration, specifically in the area of diagnostic testing samples for
+hazardous pathogens. Crown Bio?s prior experience with biosensors and their currently
+unique marketed product, the Safe Soil Tester? (SST), in conjunction with the expertise and
+experience of the HPA in handling of such pathogens, make an ideal partnership to develop
+and exploit the market with the eventual developed product(s). The collaboration with the
+leading and foremost UK organisation in the field has presented Crown Bio with a
+tremendous business opportunity.</gtr:abstractText><gtr:fund><gtr:end>2012-09-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2011-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>59750</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710052</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

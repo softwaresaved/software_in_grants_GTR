@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/32E25F67-5507-4626-B987-9A0BB5B1D820"><gtr:id>32E25F67-5507-4626-B987-9A0BB5B1D820</gtr:id><gtr:name>Institute for Research in Schools</gtr:name><gtr:department>Operations</gtr:department><gtr:address><gtr:line1>Langton Lane</gtr:line1><gtr:postCode>CT4 7AS</gtr:postCode><gtr:region>Unknown</gtr:region></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/32E25F67-5507-4626-B987-9A0BB5B1D820"><gtr:id>32E25F67-5507-4626-B987-9A0BB5B1D820</gtr:id><gtr:name>Institute for Research in Schools</gtr:name><gtr:address><gtr:line1>Langton Lane</gtr:line1><gtr:postCode>CT4 7AS</gtr:postCode><gtr:region>Unknown</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/4B904298-40B0-4A69-A7F1-3CB790C10AD5"><gtr:id>4B904298-40B0-4A69-A7F1-3CB790C10AD5</gtr:id><gtr:firstName>Becky</gtr:firstName><gtr:surname>Parker</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/60AA387B-D25F-4CE4-8C34-159E93828DBA"><gtr:id>60AA387B-D25F-4CE4-8C34-159E93828DBA</gtr:id><gtr:firstName>Cristina</gtr:firstName><gtr:surname>Lazzeroni</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/F24A764E-5A96-4B8D-AFC6-3E761E3C6427"><gtr:id>F24A764E-5A96-4B8D-AFC6-3E761E3C6427</gtr:id><gtr:firstName>Stephen</gtr:firstName><gtr:surname>Greenwood</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=ST%2FR001707%2F1"><gtr:id>A33E7A45-BFA9-4B2C-A88B-945635183381</gtr:id><gtr:title>Cosmic Ray UK (CRUK)</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>ST/R001707/1</gtr:grantReference><gtr:abstractText>We want to make data available to schools to allow cosmic ray studies to engage and inspire students to be part of the scientific research community and contribute and then share their work with others. 
+
+This research project falls within the overall aims of the Institute for Research in Schools, IRIS
+
+Nurture the potential and ability of young people to contribute to the scientific community
+
+Increase uptake of post 16 maths, science and technology courses
+
+Increase applications for STEM subjects at university, especially with girls
+
+Enhance teachers' expertise and job satisfaction and so retain teachers and recruit more to the profession
+
+Engage Universities and Industry in sustained interaction with schools
+
+Develop soft skills of communication, creativity, critical thinking, collaboration
+
+Within this HiSPARC project we are aiming to
+
+Give school students access to data from a network of cosmic ray detectors
+
+Support teachers and students in analysing these data sets, giving students experience of genuine research and data analysis which forms a component of the new A level requirements in physics
+
+Give students the opportunities for students from different schools to collaborate together and so experience a scientific collaboration
+
+Give opportunities for students to report and present their findings as a scientific research symposium on HiSPARC
+
+Develop stronger links with the Dutch HiSPARC project to link larger sets of data which could give new science results</gtr:abstractText><gtr:potentialImpactText>IRIS has a network of 344 schools (26th April) which is growing all the time.
+We will include a HiSPARC presentation linking with cosmic ray work of LUCID at the CERN@school symposium which this year is simultaneously at RAL, in Stirling, Scotland and Callington, Cornwall.
+We will include it in our mix of resources we regularly publicize at events such as ASE England, Scotland, Northern Ireland. 
+In our developments with National STEM Learning we hope to have it as an Continuing Professional Development package for teachers which can be run at the Science Learning Partnership hub schools.
+We will develop an online CPD package as we have with CERN@school and TimPix which is popular with teachers and then is placed on our IRIS youtube channel for longer term access.
+The videos to support the project will be available on the IRIS youtube channel.
+
+We run symposia and attend many local and national events including IOP and ASE meetings. We are developing huge networks of schools and teachers where we will publicize this including on social media.</gtr:potentialImpactText><gtr:fund><gtr:end>2019-11-29</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/D7F4F462-0518-4784-908A-D12633C139B3"><gtr:id>D7F4F462-0518-4784-908A-D12633C139B3</gtr:id><gtr:name>STFC</gtr:name></gtr:funder><gtr:start>2017-11-30</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>11500</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">ST/R001707/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/484A9EDC-935D-4792-A407-02C3E08C3E32"><gtr:id>484A9EDC-935D-4792-A407-02C3E08C3E32</gtr:id><gtr:name>Cnr Services International Limited</gtr:name><gtr:address><gtr:line1>6 SPENCER AVENUE , MAPPERLEY</gtr:line1><gtr:city>NOTTINGHAM</gtr:city><gtr:postCode>NG3 5SP</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/484A9EDC-935D-4792-A407-02C3E08C3E32" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>484A9EDC-935D-4792-A407-02C3E08C3E32</gtr:id><gtr:name>Cnr Services International Limited</gtr:name><gtr:address><gtr:line1>6 SPENCER AVENUE , MAPPERLEY</gtr:line1><gtr:city>NOTTINGHAM</gtr:city><gtr:postCode>NG3 5SP</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>100000.0</gtr:offerGrant><gtr:projectCost>172479.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/0F9F0431-B9B7-4EFC-8A7B-628FDF3BF893"><gtr:id>0F9F0431-B9B7-4EFC-8A7B-628FDF3BF893</gtr:id><gtr:firstName>Christopher</gtr:firstName><gtr:surname>Reckless</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710425"><gtr:id>D0C3D225-BDB2-4023-A1D4-B787BA60115C</gtr:id><gtr:title>Automated Transmission Laser Alignment System (ATLAS)</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710425</gtr:grantReference><gtr:abstractText>CNR
+Services International Ltd delivers leading-edge engineering design services to a wide
+range of industry sectors. From concept generation, through design and optimisation, to the
+effective integration into the manufacturing process, CNRs dedicated team of specialist
+engineers, designers and scientists help customers achieve the results they are looking for.
+CNR recently successfully completed a TSB-funded Proof of Market project which showed
+that the Automated Transmission Laser Alignment System (ATLAS) system being proposed
+in this Proof of Concept project would meet a very large need in todays helicopter market.
+ATLAS will automate helicopter transmission shaft alignment. Currently this is done using
+outdated labour intensive manual processes. It is anticipated that ATLAS could be used by a
+single aircraft technician without the need to remove the helicopter transmission shafts.
+Therefore, the impact of an ATLAS system in an already large market with accelerating
+growth is potentially huge with users seeing significant process, operational and financial
+benefits.
+With the detailed market and customer intelligence we gained from our TSB-funded Proof of
+Market project, we estimate the potential sales of our ATLAS system to be approximately
+&amp;pound;100m even before we consider the huge growth expected in the helicopter market over the
+next 20 years.
+We believe that we could establish a sustainable business with annual revenue of
+approximately &amp;pound;10-15m which offers OE sales, R&amp;amp;D to develop on-going upgrades and
+performance enhancements, higher margin spares provision and contracted annual re-
+calibration services. A business of this size would expect to employ about 50 people.
+ROI for this project will be extremely high (x80). If successful, this project will be the
+bedrock for a significant growth of the business, doubling in size in each of the first five years
+from commercial launch. ATLAS is expected to create approx. 50 new jobs for CNR.</gtr:abstractText><gtr:fund><gtr:end>2014-10-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2013-12-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>100000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710425</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

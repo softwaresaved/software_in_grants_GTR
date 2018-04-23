@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/9B7CB9E0-7666-44C0-A67F-D166DA11EAE7"><gtr:id>9B7CB9E0-7666-44C0-A67F-D166DA11EAE7</gtr:id><gtr:name>Sustainable Venture Development Partners Ltd</gtr:name><gtr:address><gtr:line1>29 Shand Street</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>SE1 2ES</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/9B7CB9E0-7666-44C0-A67F-D166DA11EAE7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>9B7CB9E0-7666-44C0-A67F-D166DA11EAE7</gtr:id><gtr:name>Sustainable Venture Development Partners Ltd</gtr:name><gtr:address><gtr:line1>29 Shand Street</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>SE1 2ES</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>23818.0</gtr:offerGrant><gtr:projectCost>40696.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/C6EEAD1A-D237-4B5F-B904-3DD5B30C85B2"><gtr:id>C6EEAD1A-D237-4B5F-B904-3DD5B30C85B2</gtr:id><gtr:firstName>Andrew</gtr:firstName><gtr:surname>Wordsworth</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700224"><gtr:id>4729DF2A-59FF-48D7-AA5E-A2B57290D060</gtr:id><gtr:title>Sustainable Venture Development Partners (Fleet Management System)</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700224</gtr:grantReference><gtr:abstractText>Sustainable Ventures Development Partners (?SVDP?) work with investors, entrepreneurial
+managers, and corporates to originate, build and grow sustainable companies.
+SVDP propose development of a Fleet Management System (?FMS?) which combines
+compact vehicle telematics with a new software tool to provide public sector, corporate and
+outsourced fleet managers with substantially improved control of employee road travel.
+Meeting the United Kingdom?s greenhouse gas emission reduction targets will require
+substantial reductions from the transport sector generally, and corporate and public sector
+fleets specifically. Inefficient management processes, compounded by the increasing cost of
+equipment, fuel and labour, are impacting on business transport costs. This is creating a
+compelling economic imperative for improved control.
+The FMS solution will take advantage of on-going reductions in telematics and wireless
+communication costs to efficiently collect and transmit usage data (including access times,
+driver details, mileage and fuel/electricity consumption) to a centralised system which
+allocates vehicles, controls access, tracks usage and assesses fleet performance against userspecified
+metrics. A user-friendly front-end will allow scheduling of use and real time
+monitoring.
+It is anticipated that successful deployment of such a tool across UK vehicle fleets and car
+pools has the potential to reduce business travel costs by up to &amp;pound;4 billion per year and
+eliminate up to 2.2m tCO2e/annum.
+Successful deployment of the FMS solution requires co-ordination among many different
+stakeholders including hardware vendors, software developers, telematics service providers,
+wireless carriers, automotive OEMs and major fleet users. Before this can be achieved the
+addressable market requires further segmentation and appraisal; the customer proposition
+must be refined and validated; supply chain readiness must be verified; and a system
+development roadmap must be established.</gtr:abstractText><gtr:fund><gtr:end>2013-09-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2013-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>23818</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700224</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

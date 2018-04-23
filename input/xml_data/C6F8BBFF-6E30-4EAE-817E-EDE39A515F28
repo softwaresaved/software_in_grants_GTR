@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/D322CEC4-12EA-4A62-A842-4AC0D8079D43"><gtr:id>D322CEC4-12EA-4A62-A842-4AC0D8079D43</gtr:id><gtr:name>3desk Ltd</gtr:name><gtr:address><gtr:line1>52 AVENUE ROAD</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>N6 5DR</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/D322CEC4-12EA-4A62-A842-4AC0D8079D43" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>D322CEC4-12EA-4A62-A842-4AC0D8079D43</gtr:id><gtr:name>3desk Ltd</gtr:name><gtr:address><gtr:line1>52 AVENUE ROAD</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>N6 5DR</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>96670.0</gtr:offerGrant><gtr:projectCost>161116.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/5F9C439F-6295-4823-9FE4-7316433E0AB2"><gtr:id>5F9C439F-6295-4823-9FE4-7316433E0AB2</gtr:id><gtr:firstName>Tom</gtr:firstName><gtr:surname>Savage</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710710"><gtr:id>C6F8BBFF-6E30-4EAE-817E-EDE39A515F28</gtr:id><gtr:title>PeopleGraph</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710710</gtr:grantReference><gtr:abstractText>3Desk Ltd has discovered that there is no available comprehensive internet search tool for
+people. Some general search engines and specific membership networking and social media
+platforms (e.g. LinkedIn, Facebook) exist, but none work like a ?Google for people?. The
+PeopleGraph Project objectives are to further investigate and prove the techniques necessary
+to build a viable people search engine that operates at the scale, speed and accuracy required
+and to further investigate the market potential.
+The top 300 most used platforms and sites on the web currently contain over 20bn people
+profiles, projected to grow to 50bn within 2 yrs. ~300 additional such platforms identified also
+contain significant data. The search process being developed involves data gathering (profile
+discovery) followed by information normalisation and decoration, resulting in identity
+resolution and matching.
+3Desk?s techniques to process and handle the huge volumes of data required are in initial
+development but many critical issues of speed and accuracy remain to be solved.
+Key challenges in profile discovery are the quality and depth of returned data, crawler
+performance and optimal strategies for regular dataset refresh. Challenges in identity
+matching are improving the speed, accuracy and quality of outputs. Common techniques and
+algorithmic approaches have been largely addressed so further developments will involve
+innovative ground-breaking work in the following:
+Web crawler efficiency, Natural Language Processing (NLP), Graphing and linkage
+resolution on 100 billion nodes with a short, efficient processing time, Single and Relational
+entity matching algorithms, Data indexing, rating and ranking.
+Expected benefits will be the creation of new business models and services in multiple
+sectors, e.g. identity verification, recruitment, improved government data and services,
+criminal investigation, enhanced personalised marketing and market analysis, to name a few.</gtr:abstractText><gtr:fund><gtr:end>2016-04-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2015-05-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>96670</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710710</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

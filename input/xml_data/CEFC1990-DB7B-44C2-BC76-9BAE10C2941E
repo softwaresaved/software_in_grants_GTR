@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/A522CCA8-5A11-4EA7-B91A-71B7783A73D6"><gtr:id>A522CCA8-5A11-4EA7-B91A-71B7783A73D6</gtr:id><gtr:name>Boldmind Ltd</gtr:name><gtr:address><gtr:line1>L39, 1 CANADA SQUARE 1 CANADA SQUARE , L39</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>E14 5AB</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/A522CCA8-5A11-4EA7-B91A-71B7783A73D6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>A522CCA8-5A11-4EA7-B91A-71B7783A73D6</gtr:id><gtr:name>Boldmind Ltd</gtr:name><gtr:address><gtr:line1>L39, 1 CANADA SQUARE 1 CANADA SQUARE , L39</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>E14 5AB</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>249996.0</gtr:offerGrant><gtr:projectCost>557441.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/2DFCF4AA-8274-465C-8035-3567A127DA61"><gtr:id>2DFCF4AA-8274-465C-8035-3567A127DA61</gtr:id><gtr:firstName>Dagmara</gtr:firstName><gtr:surname>Lacka</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720719"><gtr:id>CEFC1990-DB7B-44C2-BC76-9BAE10C2941E</gtr:id><gtr:title>Flow.City - Novel Digital Signage Big Data Solution for High Street Retail</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720719</gtr:grantReference><gtr:abstractText>The UK high street is decline, 1 in 5 shops could close by 2018 , as retail operating cost is
+increasing is at a faster rate than consumer spending (increase of 20% since 2006, compared
+to 12% ) &amp;amp; increasingly customers turn online for shopping. Impact on UK economy: store
+vacancy rates have doubled since 2008 (from 5% to 10%); closures of high street stores have
+tripled (from 371 closures in 2013 to 987 in 2014); &amp;amp; 5000 high street jobs lost in 2014.
+For high street retailers to remain competitive &amp;amp; prevent dominance of online retail (growth
+of ~650% over the past 10 years, from &amp;pound;7.8bn in 2005to &amp;pound;52bn in 2015) the gap between
+operating cost &amp;amp; consumer spending must be closed by improving profit margins. Studies by
+Experian &amp;amp; McKinsey suggest that exploiting tech innovation is key to securing commercial
+gains.
+Existing solutions:
+1. Digital signage (Displays2Go, NV3 Tech). Limitations: no remote operation; inflexible - no
+real-time adjustment of ads; campaigns must be planned ~3 months in advance &amp;amp; thus may be
+irrelevant/outdated upon release; no hyperlocal marketing; &amp;amp; no dynamic pricing or artificial
+intelligence (AI) based scheduling of content.
+2. Retail analytics (Retail Next, Experian &amp;amp; Nomi). Limitations: no marketing suggestions, no
+data sharing &amp;amp; focus is on upselling rather than obtaining new custom.
+Boldmind Ltd seek to address the need for improved digital ad tech via development of
+Flow.City - novel digital signage with supporting big data platform &amp;amp; AI software.
+Advantages over existing tech: big data exploitation generates hyperlocal insight; ad content
+&amp;amp; design can be altered in real-time enabling responsive marketing &amp;amp; dynamic prising based
+on big data.
+The potential impact of Flow.City has been shown in PoC trials which resulted in a 400%
+increase in table bookings for Club Lounge Restaurant &amp;amp; a revenue increase of 22% for itsu.
+This project will advance Flow.City from current unoptimised PoC to beta stage. Market
+launch is expected Q3 2017.</gtr:abstractText><gtr:fund><gtr:end>2017-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2015-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>249996</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720719</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

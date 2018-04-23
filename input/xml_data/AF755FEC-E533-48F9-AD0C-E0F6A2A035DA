@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/325AEB0F-C905-4C5B-B07E-0B774A919234"><gtr:id>325AEB0F-C905-4C5B-B07E-0B774A919234</gtr:id><gtr:name>Mathcyf Cyf</gtr:name><gtr:address><gtr:line1>2 Penrallt Lon Cefn Glyn
+Y Groeslon</gtr:line1><gtr:city>Caernarfon</gtr:city><gtr:postCode>LL54 7UF</gtr:postCode><gtr:region>Wales</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/325AEB0F-C905-4C5B-B07E-0B774A919234" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>325AEB0F-C905-4C5B-B07E-0B774A919234</gtr:id><gtr:name>Mathcyf Cyf</gtr:name><gtr:address><gtr:line1>2 Penrallt Lon Cefn Glyn
+Y Groeslon</gtr:line1><gtr:city>Caernarfon</gtr:city><gtr:postCode>LL54 7UF</gtr:postCode><gtr:region>Wales</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>37169.0</gtr:offerGrant><gtr:projectCost>53098.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=102748"><gtr:id>AF755FEC-E533-48F9-AD0C-E0F6A2A035DA</gtr:id><gtr:title>Computational Simulation Tools and Environment for Optimising the Manufacture of Ultra-precision Surfaces</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Launchpad</gtr:grantCategory><gtr:grantReference>102748</gtr:grantReference><gtr:abstractText>Precision optical lenses and mirrors are used in scientific instruments (e.g. professional astronomical telescopes
+
+and their instrumentation) and high-end consumer goods such as modern optical goods (telescopes and
+
+binoculars), cameras and head-up displays. Use of complex aspheric and freeform optics facilitates the design
+
+of smaller and lighter devices, and it is anticipated that this market will continue grow in the future.
+
+In order to meet the challenging specification for the surface shapes and texture, optics manufacturers use
+
+precision polishing techniques. The aim of this project is to create a set of quantitative simulation tools for use
+
+in improving the processes used in polishing ultra-precision surfaces, with the objectives of increasing the
+
+accuracy of these components and lowering the cost of their manufacture. In addition, further applications of
+
+these process improvement tools are: the polishing of precision surfaces required for low friction aerodynamic
+
+surfaces, such as turbine blades; and biomedical applications such as hip and knee joint implants.</gtr:abstractText><gtr:fund><gtr:end>2018-07-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2017-05-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>37169</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">102748</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

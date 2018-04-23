@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/27E41B4B-AD07-4D59-BECA-D839DFC109C3"><gtr:id>27E41B4B-AD07-4D59-BECA-D839DFC109C3</gtr:id><gtr:name>Phico Therapeutics Limited</gtr:name><gtr:address><gtr:line1>Bertarelli Building Bourn Hall,High Street</gtr:line1><gtr:city>Bourn</gtr:city><gtr:postCode>CB23 2TN</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/27E41B4B-AD07-4D59-BECA-D839DFC109C3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>27E41B4B-AD07-4D59-BECA-D839DFC109C3</gtr:id><gtr:name>Phico Therapeutics Limited</gtr:name><gtr:address><gtr:line1>Bertarelli Building Bourn Hall,High Street</gtr:line1><gtr:city>Bourn</gtr:city><gtr:postCode>CB23 2TN</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>20000.0</gtr:offerGrant><gtr:projectCost>34610.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/55B0066D-A86D-499E-952F-762EFA313517"><gtr:id>55B0066D-A86D-499E-952F-762EFA313517</gtr:id><gtr:firstName>Heather</gtr:firstName><gtr:surname>Fairhead</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700192"><gtr:id>4C8FA379-4B57-4B90-BAFD-F3528C898938</gtr:id><gtr:title>Phico Therapeutics Limited: Analysis of the product opportunities for a novel anti-bacterial platform technology</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700192</gtr:grantReference><gtr:abstractText>Antibiotic resistance is a global healthcare crisis. There are now bacteria which are resistant to
+every marketed antibiotic and these are spreading around the world (HPA, 2011). The World
+Health Organisation?s World Health Day in 2011 ?Antibiotic resistance ? no action today no
+cure tomorrow? shows development of novel antibiotics that can treat resistant bacteria is
+desperately needed.
+Phico Therapeutics has developed a novel antibiotic technology called SASPject, which has
+the potential to treat any bacterial infection including those caused by the most antibiotic
+resistant bacteria. SASPject?s active ingredient, SASP, works in a way that means bacteria
+cannot become immune. The technology also has the unique, characteristic of limiting the
+spread of existing antibiotic resistance. Hence it could address the urgent medical need for
+novel treatments against multi-drug resistant bacteria.
+SASPject technology targets harmful bacteria selectively. For example, Phico has taken its
+first product, targeted against MRSA for nasal use, successfully through a phase I clinical trial
+demonstrating a good safety profile. Phico now plans to develop products for systemic use
+targeted to those multi-drug resistant bacteria responsible for some of the most serious and life
+threatening infections.
+This SMART project will underpin Phico?s strategic development by producing a detailed and
+in depth analysis of the markets for various possible SASPject products. This will allow
+prioritisation of product development and clinical trial design.
+Phico Therapeutics is a young biotechnology company with a novel and powerful
+antibacterial platform technology. Based at Babraham Research Campus, it employs 16 staff,
+including 9 post-doctoral scientists.
+The project outcomes will also support a significant round of investment raising in 2013 to
+enable Phico to take further anti-bacterial products through early clinical trials and ultimately,
+via pharmaceutical partnerships, to market.</gtr:abstractText><gtr:fund><gtr:end>2013-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2012-12-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>20000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700192</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

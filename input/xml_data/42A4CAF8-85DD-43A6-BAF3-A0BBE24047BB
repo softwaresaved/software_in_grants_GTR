@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/9E265647-41E0-43BF-A00C-02F48EFE9FE0"><gtr:id>9E265647-41E0-43BF-A00C-02F48EFE9FE0</gtr:id><gtr:name>Subsea Asset Location Technologies Limited</gtr:name><gtr:address><gtr:line1>19 Portland Marina
+Osprey Quay Hamm Beach Road</gtr:line1><gtr:city>Portland</gtr:city><gtr:postCode>DT5 1DX</gtr:postCode><gtr:region>South West</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/9E265647-41E0-43BF-A00C-02F48EFE9FE0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>9E265647-41E0-43BF-A00C-02F48EFE9FE0</gtr:id><gtr:name>Subsea Asset Location Technologies Limited</gtr:name><gtr:address><gtr:line1>19 Portland Marina
+Osprey Quay Hamm Beach Road</gtr:line1><gtr:city>Portland</gtr:city><gtr:postCode>DT5 1DX</gtr:postCode><gtr:region>South West</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>83108.0</gtr:offerGrant><gtr:projectCost>138514.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/FA03EBDB-C70F-4DCB-A592-520489620B9C"><gtr:id>FA03EBDB-C70F-4DCB-A592-520489620B9C</gtr:id><gtr:firstName>Carl</gtr:firstName><gtr:surname>Tiltman</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710819"><gtr:id>42A4CAF8-85DD-43A6-BAF3-A0BBE24047BB</gtr:id><gtr:title>SonarDock - SonarBell aided AUV Docking</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710819</gtr:grantReference><gtr:abstractText>The potential for Autonomous Underwater Vehicles (AUVs) to perform tasks underwater has
+been recognised by industry across several market sectors, including, military, commercial
+and scientific. Their importance has also been recognised to the future of the UK economy
+and its global technological standing by the UK Government within the Defence Growth
+Partnership and Robotics and Autonomous Systems Special Interest Group (RAS-SIG).
+To benefit from the use of AUVs, several technological challenges must be overcome. One of
+the challenges faced is the recovery of the AUV and more specifically, the autonomous
+docking of an AUV into a docking station positioned on the seabed. Our proposal provides a
+novel AUV docking solution. It is based around the use of passive acoustic reflectors
+(SonarBell devices developed by Subsea Asset Location Technologies (SALT) Ltd.), a
+commercial sonar typical of that fitted to an AUV, and sonar processing algorithms. Within
+this programme of work, this concept will be proven.
+The work will be conducted during 2016 and successful completion will increase the visibility
+and credibility of our concept, helping us to raise further investment for development of a preproduction
+prototype. We expect this further development to take place in 2017 with early
+products available during 2018. To achieve this we will need to partner with an AUV
+specialist during the follow-on development programme.
+We are predicting a significant increase in revenue during the five year period after the
+completion of the pre-production prototype. This is based on a conservative penetration into
+the AUV market.
+This project will generate jobs and revenues for us and in doing so will aid the UK economy
+as well as cement the country?s reputation as a world-leader in AUV technologies.</gtr:abstractText><gtr:fund><gtr:end>2017-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2016-02-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>83108</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710819</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/28AF1E7E-5999-40F8-8672-B6996E32EDF0"><gtr:id>28AF1E7E-5999-40F8-8672-B6996E32EDF0</gtr:id><gtr:name>Ixitech Limited</gtr:name><gtr:address><gtr:line1>15 LONG LANE</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>EC1A 9PN</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/28AF1E7E-5999-40F8-8672-B6996E32EDF0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>28AF1E7E-5999-40F8-8672-B6996E32EDF0</gtr:id><gtr:name>Ixitech Limited</gtr:name><gtr:address><gtr:line1>15 LONG LANE</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>EC1A 9PN</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>77400.0</gtr:offerGrant><gtr:projectCost>147914.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710037"><gtr:id>CC0DB5C2-A83C-416A-93B2-C9CB58741760</gtr:id><gtr:title>Evaluation of PYM50018 in a preclinical model of glaucoma</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710037</gtr:grantReference><gtr:abstractText>Phytopharm is a small pharmaceutical development company (designated as an SME by
+EMA and eligible for R &amp;amp; D relief for Corporation tax under the SME scheme), which
+outsources all studies to expert providers whilst retaining programme management and
+strategic decision-making in house. The Company currently has extremely limited financial
+resources available for new research and development (R&amp;amp;D) activities outside of its core
+development project, a large, multicentre, Phase II proof-of-concept (PoC) and dose ranging
+study of its lead asset Cogane, in patients with early stage Parkinson?s disease (PD).
+Exciting new data from one of the Company?s preclinical programmes has shown that the
+compound PYM50018 is able to reverses glutamate-induced neuronal damage in retinal
+ganglion cells (RGCs) in vitro. These data, coupled with the proven ability of this orally
+active compound to induce neurotrophic factor expression in vivo and the considerable preexisting
+toxicology, safety pharmacology and Phase I clinical data packages supporting this
+compound, has led the Company to explore all means of accelerating the development of
+PYM50018 for the treatment of glaucoma and to move towards commencing a PoC study in
+an appropriate animal model as soon as possible. If such a study is successful, a clinical PoC
+study in patients with glaucoma could be rapidly progressed.
+Demonstrating PoC in a relevant animal model of glaucoma within a 6-9 month timeframe
+would lead to funding opportunities for the Company, either by partnering or via the financial
+markets. This would significantly de-risk Phytopharm?s pipeline and provide an opportunity
+for a revenue stream comprising an upfront payment, development milestones and royalties
+on future sales of a novel therapeutic for the treatment of glaucoma. It is the Company?s
+opinion that positive data in the proposed study would be sufficient for the Company to attract
+the interest of some of the key players in glaucoma e.g., Alcon (Novartis), Allergan, Pfizer,
+Merck, Santen Seiyaku.
+Although the cost of the proposed PoC study in a rat model of glaucoma is modest, the
+Company?s commitment to it?s Parkinson?s disease programme and the uncertainties around
+completion and delivery of the aforementioned clinical study mean that the Company is
+unable to fund this work at the present time. Securing funding from the Technology Strategy
+Board (TSB) would enable this important study to be progressed during the second half of this
+year and we feel, fit well with the Board?s aim of supporting the technical feasibility and
+commercial potential of new healthcare technologies and medicines through specialist testing
+and preclinical research studies.</gtr:abstractText><gtr:fund><gtr:end>2012-06-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2011-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>77400</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710037</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

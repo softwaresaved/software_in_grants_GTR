@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/9A22541F-DA58-481E-8D0C-C4BCF4EA030E"><gtr:id>9A22541F-DA58-481E-8D0C-C4BCF4EA030E</gtr:id><gtr:name>EMBL - European Bioinformatics Institute</gtr:name><gtr:department>Vertebrate Genomics</gtr:department><gtr:address><gtr:line1>Wellcome Trust Genome Campus</gtr:line1><gtr:line2>Hinxton</gtr:line2><gtr:line4>Cambridge</gtr:line4><gtr:line5>Cambridgeshire</gtr:line5><gtr:postCode>CB10 1SD</gtr:postCode><gtr:region>East of England</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/9A22541F-DA58-481E-8D0C-C4BCF4EA030E"><gtr:id>9A22541F-DA58-481E-8D0C-C4BCF4EA030E</gtr:id><gtr:name>EMBL - European Bioinformatics Institute</gtr:name><gtr:address><gtr:line1>Wellcome Trust Genome Campus</gtr:line1><gtr:line2>Hinxton</gtr:line2><gtr:line4>Cambridge</gtr:line4><gtr:line5>Cambridgeshire</gtr:line5><gtr:postCode>CB10 1SD</gtr:postCode><gtr:region>East of England</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/A3773215-6476-4414-9BB0-4AAD931E2A5A"><gtr:id>A3773215-6476-4414-9BB0-4AAD931E2A5A</gtr:id><gtr:firstName>Paul</gtr:firstName><gtr:surname>Flicek</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=BB%2FI025506%2F1"><gtr:id>B07CB8E1-F470-4309-918B-F8384C5D0FA4</gtr:id><gtr:title>Ensembl and enabling genetics and genomics research in farmed animal species</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>BB/I025506/1</gtr:grantReference><gtr:abstractText>The sequence of almost all genes (a draft genome sequence) has been determined for several farmed and companions animals including cattle, pigs, chickens, turkeys, dogs and horses. Draft genome sequences for several other species such as sheep, ducks and salmon will be completed soon. The strings of billions of bases (symbolised as four letters A, C, G, T) that constitute these genome sequences are not immediately useful to biological research scientists. Annotating these draft genome sequences with features such as the coding and regulatory parts of genes, and bases which differ between individuals within a species (genetic variants) greatly enhances the value and utility of the genome sequence. Visualising the genome sequences complete with annotations in an freely accessible manner further improves the value of the information. The web-mounted Ensembl genome browser, databases and associated annotation tools have been shown to be powerful and effective means of annotating the complex genomes of animal species including humans, mice and more recently farmed and companion animals. This project is concerned with improving the quality of genome annotation for farmed and companion animal genomes. International consortia of scientists are using the so-called next generation sequencing technology, not only to sequence the genomes of more economically important species, but also the genomes of multiple individuals for each species of interest and to improve or finish the reference genome sequences for key species. These new sequencing technologies are also being used increasingly in assays, for example, of the extent of gene expression in different cells or under different conditions (transcriptomics) or of the state of the genome (epigenomics). Mapping the sequence read-outs from these assays back to the relevant genome sequence not only provides a genome-wide framework for analysis but also provides further information with which to annotate the genome sequence itself. Thus, there is a recurring need to refresh the genome sequence annotation for important animal species. We will use the Ensembl system to annotate the genome sequences of key farmed and companion animal species. The resulting annotated genome sequences will be made freely available as resources mounted on the World Wide Web. Recently developed features within the Ensembl system enable the analysis and visualisation of genetic variation (i.e. sequence differences) between individuals of the same species. This genetic variation explains the differences in traits such as growth, milk yield and susceptibility to disease. We will populate the Ensembl-animal Variation databases with sequence and genotype data acquired from the animal genetics research community. Visualising these variation data and making them accessible to the scientific community and the animal breeding industry will facilitate research to understand the genetic control of complex traits in animals and genetic improvement of farmed animals. A high quality annotated reference genome sequence is a critical bioinformatics resource for the effective prosecution of contempary research in the biological sciences. The value and utility of such bioinformatics resources are critically dependent upon the currency of the resource. Thus, this project is concerned with delivering high quality up-to-date annotated reference genomes for key farmed and companion animal species to enable research on these economically or socially important animal species.</gtr:abstractText><gtr:technicalSummary>A high quality annotated reference genome sequence is critical to contempary research in the biological sciences. The Ensembl browser and associated annotation tools and database have been shown to be robust and effective means for making genomic information useful to a wide range of users. Draft reference genome sequences have been established for several farmed animal species (chicken, cattle, pig, horse, turkey) and sequencing is well advanced for several others (including sheep, duck, salmon). Annotated assemblies have already been made available through the Ensembl (chicken, cattle, pig, horse) and Pre-Ensembl (duck, turkey, sheep) genome browsers. However, the utility of a bioinformatics resource are critically dependent upon the currency of the resource. Genome sequence assemblies, including the 'finished' human and mouse sequences are subject to continual revision as new data are acquired and errors corrected. This proposal is concerned with maintaining the currency of Ensembl in respect of farmed and companion animal species, including poultry and farmed fish. Whilst first draft genome sequences have been established for several of the species of interest, improved genome assemblies and increased volumes of ancillary data, including RNAseq and ChIPseq data are also being generated for these species. Thus, we will use these growing and improving data to develop up-to-date and enhanced annotation for these species. Not only are the genomes of more farmed animal species but also the genomes of multiple individuals within a species are being sequenced. The recently developed Ensembl variation resources allow these additional data to be captured and visualised for the benefit of scientists engaged in genetics and genomics, and other lines of, research on the target species. We will work with the animal sciences research community to acquire re-sequence data, SNP and CNV genotypes with which to populate the Ensembl-animal variation databases.</gtr:technicalSummary><gtr:potentialImpactText>Who will benefit? The primary beneficiaries from this proposed development and maintenance of Ensembl resources for farmed and companion animals will be researchers in academia and industry in the UK and beyond. The access statistics and citations of Ensembl papers provide evidence of the demand for Ensembl resources from the research community. The world's leading animal breeding and aquaculture breeding companies, of which some of the largest are UK companies, have in-house genetics expertise. Thus, these companies have the expertise to exploit the information captured and disseminated through Ensembl resources. Suppliers of species specific 'omics tools such as expression arrays, SNP chips and proteomics system will benefit from access to annotated genomes sequences which include links to features (e.g. probes) on their products. There are potential indirect benefits to the wider public through the addressing of the food security agenda as discussed below. How will they benefit? The proposed enhanced Ensembl resources, especially the genetic variation resources, will enable research to dissect the genetic control of economically important (and complex) traits in farmed animals including feed efficiency and susceptibility to infectious diseases. In companion animals such as dogs these resources will enable the identification of the determinants of inherited diseases. This enabling of genetics research in farmed animals and fish will facilitate advanced genetic improvement for these species. In the past 40+ years, there have been major productivity gains in dairy cattle, pigs and poultry and there have also been significant reductions in the greenhouse gas emissions and global warming potential per tonne of animal product. These gains have been achieved through genetic improvement alone or in combination with better husbandry, nutrition and disease control. Genetic improvement of farmed animal species is a key means of addressing the food security agenda for the animal agriculture and aquaculture sectors. In companion animals the benefits will be improved tools for selective breeding to minimise inherited diseases and inbreeding and to improve animal welfare. The utility of 'omics technology products such as expression microarrays and SNP chips is greatly enhanced when the features on these products can be linked to a well-annotated genome sequence and other information sources. For example, probe sets for Affymetrix arrays and SNPs on Illumina chips can be linked to annotated genes and genome locations respectively, thus enabling more effective use of these products. Academic and other researchers will benefit from the ability to link the read-out from assay by sequence assays to an annotated genome sequence. Without such a frame of reference such assays are of limited value. The impacts on research will be delivered within the timeframe of the proposed project to enhance Ensembl resources for farmed and companion animals and continue thereafter. Maintaining the currency of the genome assemblies and the associated annotation is critical to ensuring that these impacts continue to be effective. The indirect impacts, for example, on the food security agenda and hence the benefits to the agriculture and aquaculture sectors and the wider public will take longer to be felt. However, the time to impact for genetic tests for susceptibility to inherited or infectious diseases in animals with their positive impacts on animal welfare can be short - 1 to 3 years.</gtr:potentialImpactText><gtr:fund><gtr:end>2015-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/2512EF1C-401B-4222-9869-A770D4C5FAC7"><gtr:id>2512EF1C-401B-4222-9869-A770D4C5FAC7</gtr:id><gtr:name>BBSRC</gtr:name></gtr:funder><gtr:start>2012-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>259620</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs><gtr:disseminationOutput><gtr:description>Livestock Genomics meeting 2014</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>79580B81-D2B0-4DF4-BE36-9F745D5AFB19</gtr:id><gtr:impact>The EBI organises the 'Livestock Genomics' meeting every other year. This is a workshop / conference focusing on Livestock Genomics. During the meeting in 2014, Anja Thorman, Ian Streeter and Daniel Zerbino gave the following talks respectively:
+
+Ensembl-Variation - Ready for variation data from the livestock community
+The Ensembl Epigenomics Pipeline
+What services does the livestock genomics community need?
+
+The workshop enabled members of the community to meet and share ideas for their work. There was a lot of discussion on the future for livestock genomics, including funding opportunities.</gtr:impact><gtr:outcomeId>56c44eb795b874.64476822</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Other audiences</gtr:primaryAudience><gtr:year>2014</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Training workshops in 2014 for researchers to use the data generated</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>055394D9-229A-45FF-9745-4B7D75E5061D</gtr:id><gtr:impact>The Ensembl Outreach team regularly give workshops to Ensembl's users. Here we have captured all workshops in one entry per year, since materials from previous workshops are reused in later workshops.
+
+29 Sept - 2nd October 2014: Animal Genome Informatics, EBI. Workshop on working with NGS data specific to farmed animals.
+Demonstrations of the Ensembl Genome Browser were provided at both the Plant and Animal Genome Conference, San Diego, USA, and at the Plant and Animal Genomes Conference Asia, Singapore.
+Ensembl gave an Ensembl browser demonstration at the Avian Genomics Meeting at Cold Spring Harbour Laboratory (USA), March 2014; 18 people attended.
+Ensembl also gave presentations on the browser, RNA-Seq analysis and regulation analysis at the Animal Genome Informatics, held at EBI in September 2014.
+Ensembl gave a two-day workshop at the Chinese Agricultural University in China in November 2014, as part of the collaboration with a visiting worker.
+
+All of these training workshops and presentations are a valuable way for Ensembl to disseminate its resources for farm animal species to intersted researchers, and to help ensure that researchers are trained to use the data.</gtr:impact><gtr:outcomeId>56c475a3c62986.57341977</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Other audiences</gtr:primaryAudience><gtr:year>2014</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Media interest (cat genome)</gtr:description><gtr:form>A press release, press conference or response to a media enquiry/interview</gtr:form><gtr:geographicReach>National</gtr:geographicReach><gtr:id>DFE8E26E-ED4F-4435-AB16-A2E4C4A45FAD</gtr:id><gtr:impact>Not assessed yet- publication was released on 11/11/2014.</gtr:impact><gtr:outcomeId>5462329852baf9.75186594</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Media (as a channel to the public)</gtr:primaryAudience><gtr:url>http://www.theguardian.com/science/2014/nov/10/wild-cats-tamed-strokes-treats-genetic-analysis</gtr:url><gtr:year>2014</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Poster at PAGXXIII, San Diego, California, 2015</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>14D3894B-C0E4-45FD-B353-FAAB8F910E76</gtr:id><gtr:impact>Thibaut Hourlier gave a poster presentation on 'The Ensembl farm: all you need is livestock' at PAGXXIII. This enabled him to interact with many researchers in the Life Sciences, and disseminate the resources available in Ensembl for researchers working on farm animals.</gtr:impact><gtr:outcomeId>56c44f59af0761.53827552</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Other audiences</gtr:primaryAudience><gtr:year>2015</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Press release by EMBL-EBI on sheep genome</gtr:description><gtr:form>A press release, press conference or response to a media enquiry/interview</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>792DC68E-61D8-4A9D-AE3D-1A844A28C7A7</gtr:id><gtr:impact>Press release detailed the availability of the sheep genome and the importance of this to a wide audience.
+
+Impact of the press release has not been evaluated yet.</gtr:impact><gtr:outcomeId>545b8645e8b4e6.00509290</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Public/other audiences</gtr:primaryAudience><gtr:url>http://www.ebi.ac.uk/about/news/press-releases/sheep-genome</gtr:url><gtr:year>2014</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Training workshops in 2013 for researchers to use the data generated</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>88E754F5-58B4-4137-89CC-DC805F95B25F</gtr:id><gtr:impact>The Ensembl Outreach team regularly give workshops to Ensembl's users. Here we have captured all workshops in one entry per year, since materials from previous workshops are reused in later workshops.
+
+Several training workshops with an emphasis on using the Ensembl Genome Browser for farmed animal genomes have been held:
+13th May 2013 at the University of North Carolina, Chapel Hill, North Carolina, USA
+6th June 2013 at The Genome Analysis Centre, Norwich
+1st July 2013 at Maastricht University, Maastricht, The Netherlands
+22nd and 23rd August 2013 at The Roslin Institute, University of Edinburgh.
+Overduin B, 2013. Genome resources at EBI - Ensembl and Ensembl Genomes. In: Plant and Animal Genome XXI Conference, 12-16 January, 2013, Town &amp;amp; Country Convention Center San Diego, California. Abstract W343.
+Overduin B, 2013. Genome Annotation Resources at the EBI - Ensembl and Ensembl Genomes. In: Plant and Animal Genome Asia 2013, 17-19 March, 2013, Grand Copthorne Waterfront Hotel, Singapore. Abstract W040. 
+Clarke L, Cunningham F, McLaren W, Ritchie G, Gil L, Thorman A, Hunt S, 2013. Using Ensembl to understand variation data. In: Plant and Animal Genome XXI Conference, 12-16 January, 2013, Town &amp;amp; Country Convention Center San Diego, California. Abstract W345.
+
+Additionally, all of the Ensembl's general, multi-species workshops include mention of the farm animal resources. In total, there were exactly 100 Ensembl workshops in 2013 and details of the locations and dates of these training events can be provided on request.
+
+Impacts include increased use of the data by individual users due to improved understanding of Ensembl by workshop participants (this is evidenced by feedback gathered from participants), and incremental improvements to Ensembl and Ensembl courses from participant feedback.</gtr:impact><gtr:outcomeId>545b88abb0b261.24280612</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Other audiences</gtr:primaryAudience><gtr:year>2013</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Training workshops in 2015 for researchers to use the data generated</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>0F8E6E04-A3DE-4FFE-90E5-6EA911183E54</gtr:id><gtr:impact>The Ensembl Outreach team regularly give workshops to Ensembl's users. Here we have captured all workshops in one entry per year, since materials from previous workshops are reused in later workshops.
+
+Ensembl gave a talk, computer demonstration and poster about the resources for vertebrate genomics at PAG 2015, with approximately 120 participants.
+Ensembl gave an Ensembl browser workshop at the Royal Veterinary College in February 2015, focusing mainly on cat and dog genome resources, with approximately 16 participants.
+Ensembl gave a talk and demonstration on the Ensembl browser at the canine and feline genetics conference in Cambridge in June 2015, with approximately 70 participants.
+Ensembl gave an Ensembl browser workshop at the Roslin Institute in July 2015, this was a general browser workshop but the chicken genome was given during examples, there were approximately 16 participants.
+Ensembl gave a talk and presentation on the Ensembl browser at the canine and feline genetics conference in Cambridge in June 2015, with approximately 70 participants.
+Ensembl gave an Ensembl browser workshop at PAGAsia (Singapore) in July 2015, there were approximately 16 participants.
+Ensembl gave an Ensembl browser workshop on salmon and salmon louse at the Sea Lice Centre, Bergen (Norway) in November 2015, there were approximately 27 participants. Zebrafish and mosquito were used as a proxy for the species of interest.
+Ensembl gave an Ensembl browser workshop at the Univeristy of Cambridge in November 2015, this was a general browser workshop but the chicken genome was given during examples, there were approximately 33 participants.</gtr:impact><gtr:outcomeId>56c45dc31f8061.33065643</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Other audiences</gtr:primaryAudience><gtr:year>2015</gtr:year></gtr:disseminationOutput></gtr:disseminationOutputs><gtr:exploitationOutputs/><gtr:furtherFundingOutputs><gtr:furtherFundingOutput><gtr:amountPounds>60174</gtr:amountPounds><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:currCode>GBP</gtr:currCode><gtr:currCountryCode>United Kingdom</gtr:currCountryCode><gtr:currLang>en_GB</gtr:currLang><gtr:description>Brazil Partnering Award</gtr:description><gtr:end>2015-09-02</gtr:end><gtr:fundingOrg>Biotechnology and Biological Sciences Research Council (BBSRC)</gtr:fundingOrg><gtr:fundingRef>BB/K021125/1</gtr:fundingRef><gtr:id>5D643942-C3CA-4BBE-95BD-786288E6C7C5</gtr:id><gtr:outcomeId>54623391050500.40914333</gtr:outcomeId><gtr:sector>Public</gtr:sector><gtr:start>2013-10-01</gtr:start></gtr:furtherFundingOutput></gtr:furtherFundingOutputs><gtr:impactSummaryOutputs><gtr:impactSummaryOutput><gtr:description>Our analyses have contributed to genome papers for pig (Groenen et al. 2012), duck (Huang et al. 2013) and sheep (Jiang et al. 2014). We have promoted the resources that we have generated at a number of relevant conferences; we have also given training directly to users at a number of workshops. For example, in November 2014 we contributed to a workshop in Brazil as part of a Brazil Partnering Award (BB/K021125/1): scientists from both academia and industry were present. Economic impacts will likely emerge after the end of the grant, however our analysis of data access and visits to the Ensembl website show that the data we have made available is highly used: the pig, duck, chicken, sheep, cattle, horse and dog genome pages had 214008, 22524, 259141, 87290, 243001, 76730, and 167397 visits in 2015 respectively. In 2016, these figures remained fairly consistent, with the number of unique page views per species totaling (respectively): 242762, 20885, 225823, 83405, 197907, 56276, 148106.</gtr:description><gtr:firstYearOfImpact>2012</gtr:firstYearOfImpact><gtr:id>75C4CEA5-58E5-4A9B-8161-513272010A66</gtr:id><gtr:impactTypes><gtr:impactType>Economic</gtr:impactType></gtr:impactTypes><gtr:outcomeId>54634790511583.34384413</gtr:outcomeId><gtr:sector>Agriculture, Food and Drink</gtr:sector></gtr:impactSummaryOutput></gtr:impactSummaryOutputs><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>This grant has been used to support the annotation of the reference genome sequences of farmed animal species. 'Annotation' means the identification of gene locations on a stretch of DNA sequence. To date, during the course of this grant we have annotated or re-annotated genes within the DNA sequences of several animal genomes including pig, chicken, duck, and sheep. We have also identified variation in DNA sequences between animals of the same species. We make this information freely available to other researchers via several Ensembl interfaces. During the course of the grant we have also held several workshops to raise awareness of the data we have generated, and to train a range of users on how to effectively use the data for their research.</gtr:description><gtr:exploitationPathways>The sequence information that we have annotated is freely available and can be used by those working both in academia and industry as a foundation for their research. The uptake of the data can be demonstrated by the number of people accessing the Ensembl site; for example, there are in excess of 80,000 page views for the chicken genome for each quarter in 2013. One example of how the information on sequence variation between animals may be used is in livestock breeding.</gtr:exploitationPathways><gtr:id>66FB6E8B-3C45-4FFD-8D93-EF1B6FE9F55B</gtr:id><gtr:outcomeId>54623d863131e1.00311382</gtr:outcomeId><gtr:sectors><gtr:sector>Agriculture, Food and Drink</gtr:sector></gtr:sectors><gtr:url>http://www.ensembl.org</gtr:url></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs><gtr:researchDatabaseAndModelOutput><gtr:description>Ensembl website for chicken Gallus_gallus-4.0 (GCA_000002315.2) released in April 2013 (Ensembl 71). This website comprises full annotation of the chicken reference genome assembly using the Ensembl automatic annotation system. Protein-coding models were generated by aligning vertebrate protein sequences from UniProt to the repeat-masked genome and by using RNA-Seq data for a selection of adult and embryo tissues provided by the Chicken Genome Consortium. The final gene set includes models from both the UniProt alignments and the RNAseq data. It comprises 15508 protein-coding models, 1558 small noncoding RNAs and 42 pseudogenes. 5,139 of the genes were exclusively annotated using the RNA-seq data.
+The Ensembl website for chicken includes pairwise genome alignments with human, mouse, zebrafish, anole lizard, Chinese soft-shell turtle, Xenopus tropicalis, duck, flycatcher, turkey, and zebra finch. 
+
+Users can view the indexed BAM files, tissue-specific gene models and the full set of splice junctions (introns) identified by the RNA-Seq pipeline alongside the chicken gene set, chicken cDNAs and chicken ESTs on the Ensembl genome browser http://www.ensembl.org/Gallus_gallus. We also provide gene orthologues, cross-references to external databases, and variations from dbSNP and the Affymetrix Chicken600K genotyping chip. Data can be downloaded from our FTP site or queried using our VEP, REST API, Perl API or BioMart query system.
+
+The annotated reference genome sequences have been delivered through a series of Ensembl releases. The initial annotation work was funded through the BBSRC (grant BB/I025506/1), with future developments and updates funded by further grants from the BBSRC (BB/I025360/2 and BB/M011615/1) within the relevant periods).
+
+The following updates for chicken have occurred:
+
+Ensembl Release 71 (April 2013)
+The annotation of the latest chicken genome assembly (Galgal4) was from Pre-Ensembl to the full Ensembl site, including a revised Gene Build. For more details see: http://apr2013.archive.ensembl.org/Gallus_gallus/Info/WhatsNew?db=core 
+
+Ensembl Release 74 (December 2013)
+Updates to chromosome z and new alignments to saurian reptiles have been implemented. More details about new features for chicken in release 74 can be found at: http://www.ensembl.org/Gallus_gallus/Info/WhatsNew?db=core 
+
+Ensembl Release 75 (February 2014)
+Cross-references to external databases updated
+
+Ensembl Release 76 (August 2014)
+Updated whole-genome (LASTZ) alignments to the new human assembly
+New dbSNP build 140 was imported
+Added 'QTL chromosome name' and 'QTL region' filters in BioMart
+
+Ensembl Release 77 (October 2014)
+RefSeq's GFF3 annotation added in order to facilitate comparison of gene sets
+New synteny data for Chicken vs Zebrafinch, Chicken vs Opossum
+Updated data from the Animal Quantitative Trait Loci (QTL) Database
+
+Ensembl Release 79 (March 2015)
+Cross-references to external databases updated
+
+Ensembl Release 80 (May 2015)
+OMIA phenotype data update
+AnimalQTL update
+
+Ensembl Release 81 (July 2015)
+AnimalQTL update
+
+Ensembl Release 82 (September 2015)
+dbSNP 144 import for Chicken
+AnimalQTL update for Chicken
+Recompute TBlat pairwise comparisons with LastZ for {M.mus, G.gal, T.nig} vs X.tro and for G.gal vs C.sav Updated ProteinTrees, ncRNATrees and homologies
+
+Ensembl Release 83 (December 2015)
+Chicken dbSNP 145 update
+Other GOA data update for Chicken
+AnimalQTL import for Chicken
+Updated ProteinTrees, ncRNATrees and homologies
+
+Ensembl Release 84 (March 2016)
+Phenotype data update
+
+Ensembl Release 85 (July 2016)
+External database references update
+Phenotype data update
+
+Ensembl Release 86 (October 2016)
+A new genebuild on the new chicken assembly, Gallus_gallus-5.0
+Chicken-specific cDNAs and ESTs were aligned to the chicken genome and are made available through the Ensembl website and the chicken otherfeatures database.
+In addition to the gene annotation for Galgal_5.0, an RNA-Seq database was released where users can view BAM files and transcript models for different tissues.
+A recompute of all LASTZ alignements for chicken
+Updated to dbSNP version 147.
+Phenotype data update
+Syntenies recomputed for the new assembly</gtr:description><gtr:id>0F642EE2-2F52-4B39-985F-0930B8BA11ED</gtr:id><gtr:impact>There were 49902 site visits in 2016, and 225823 unique page views.</gtr:impact><gtr:outcomeId>5463661ddd3267.85219383</gtr:outcomeId><gtr:providedToOthers>true</gtr:providedToOthers><gtr:title>Chicken Ensembl database and releases</gtr:title><gtr:type>Database/Collection of data</gtr:type><gtr:url>http://www.ensembl.org/Gallus_gallus/Info/Index</gtr:url></gtr:researchDatabaseAndModelOutput><gtr:researchDatabaseAndModelOutput><gtr:description>The annotated reference genome sequences have been delivered through a series of Ensembl releases. The initial annotation work was funded through the BBSRC (grant BB/I025506/1), with future developments and updates funded by further grants from the BBSRC (BB/I025360/2 and BB/M011615/1) within the relevant periods).
+
+The following updates for cattle have occurred:
+
+- initial genebuild in July 2005, on assembly Btau_1.0 (release 32)
+- new assembly Btau_2.0 with new genebuild in December 2005 (release 36)
+- new assembly Btau_3.1 with new genebuild in September 2006 (release 44)
+- new assembly Btau_4.0 with new genebuild in January 2008 (release 50)
+- genebuild update in May 2010 (release 58)
+- new assembly UMD3.1 with new genebuild in September 2011 (release 64)
+
+Ensembl Release 74 (December 2013)
+Cattle: new dbSNP (build 138) have been imported. More details about new features for cow in release 74 can be found at: http://www.ensembl.org/Bos_taurus/Info/WhatsNew?db=core 
+
+Ensembl Release 80 (May 2015)
+Cow: variation database updated to dbSNP142
+OMIA phenotype data update
+AnimalQTL update
+Cow: variation database updated to dbSNP143
+OMIA phenotype data update
+AnimalQTL update
+
+Ensembl Release 82 (September 2015)
+Xrefs update
+OMIA data import
+AnimalQTL update
+Updated ProteinTrees, ncRNATrees and homologies
+
+Ensembl Release 83 (December 2015)
+Other GOA data for Cow
+OMIA data for Cow
+AnimalQTL for Cow
+Updated ProteinTrees, ncRNATrees and homologies
+
+Ensembl Release 84 (March 2016)
+Update for dbSNP 146
+
+Ensembl Release 85 (July 2016)
+Phenotype data updated
+
+Ensembl Release 86 (October 2016)
+Update for dbSNP 148
+Phenotype data updated
+Structural variants updated from DGVa</gtr:description><gtr:id>095DABDC-F746-4C3B-87A1-8F5767FE3AF2</gtr:id><gtr:impact>The data are highly accessed by researchers- there were 42464 site visits (and over 250,000 page views) in 2016 alone.</gtr:impact><gtr:outcomeId>54636b0f6537e8.11007346</gtr:outcomeId><gtr:providedToOthers>true</gtr:providedToOthers><gtr:title>Cattle Ensembl database and releases</gtr:title><gtr:type>Database/Collection of data</gtr:type><gtr:url>http://www.ensembl.org/Bos_taurus/Info/Index</gtr:url><gtr:yearFirstProvided>2006</gtr:yearFirstProvided></gtr:researchDatabaseAndModelOutput><gtr:researchDatabaseAndModelOutput><gtr:description>Ensembl website for sheep Oar_v3.1 (GCA_000298735.1) released in December 2013 (Ensembl 74). This website comprises full annotation of the sheep reference genome assembly using the Ensembl automatic annotation system. Protein-coding models were generated by aligning vertebrate protein sequences from UniProt to the repeat-masked genome and by using RNA-Seq data provided by the ISGC. The final gene set includes models from both the UniProt alignments and the RNAseq data. It comprises 20921 protein-coding models, 3985 small noncoding RNAs and 291 pseudogenes.
+The ISGC RNA-Seq data set includes a range of tissue samples shared between a trio: ram, ewe and their lamb. In total, we aligned 800 GB data from 89 tissue samples to the sheep genome assembly. This RNA-Seq data set is larger than for any other species in Ensembl.
+The Ensembl website for sheep also includes pairwise genome alignments with human, cow and pig. Users can view the indexed BAM files, tissue-specific gene models and the full set of splice junctions (introns) identified by the RNA-Seq pipeline alongside the sheep gene set on the Ensembl genome browser http://www.ensembl.org/Ovis_aries. We also provide gene orthologues, cross-references to external databases, and variations from dbSNP and selected genotyping chips. Data can be downloaded from our FTP site or queried using our Perl API or BioMart query system.
+
+The annotated reference genome sequences have been delivered through a series of Ensembl releases. The initial annotation work was funded through the BBSRC (grant BB/I025506/1), with future developments and updates funded by further grants from the BBSRC (BB/I025360/2 and BB/M011615/1) within the relevant periods).
+
+The following updates for sheep have occurred:
+
+Ensembl Release 74 (December 2013)
+Sheep: Annotation of the sheep reference genome sequence was made available through the full Ensembl site. Given the large volumes of RNAseq data it was necessary to use a matrix configuration / menu for displaying these data. More details about the sheep annotation in release 74 can be found at http://www.ensembl.org/Ovis_aries/Info/WhatsNew?db=core#cat-genebuild.
+
+Ensembl Release 76 (August 2014)
+Updated whole-genome (LASTZ) alignments to the new human assembly
+New dbSNP build 140 was imported
+Added &amp;quot;QTL chromosome name&amp;quot; and &amp;quot;QTL region&amp;quot; filters in BioMart
+Imported markers from SheepMap4.7 and CAB Ovine Linkage Map
+
+Ensembl Release 77 (October 2014)
+BAC clone track added
+Cross-references to external databases updated
+
+Ensembl Release 78 (December 2014)
+Updated data from the Animal Quantitative Trait Loci (QTL) Database.
+
+Ensembl Release 79 (March 2015)
+New genotype data from the NextGen Project for Sheep, from 3 populations: Iranian Ovis aries,
+Iranian Ovis orientalis, Moroccan Ovis aries.
+
+Full details about new data and features for Ensembl release 80 can be found at:
+http://www.ensembl.org/info/website/news.html?id=80
+Cow: variation database updated to dbSNP142
+Pig: variation database updated to dbSNP143
+Cow, dog, horse, chicken, turkey, sheep: OMIA phenotype data update
+Cow, horse, chicken, pig: AnimalQTL update
+
+Ensembl Release 81 (July 2015)
+OMIA phenotype data update
+AnimalQTL update
+DGVa update
+
+Ensembl Release 82 (September 2015)
+OMIA data import
+AnimalQTL update
+
+Ensembl Release 83 (December 2015)
+Other GOA data update
+OMIA data import
+AnimalQTL update
+
+Ensembl Release 84 (March 2016)
+Phenotype update
+
+Ensembl Release 85 (July 2016)
+Phenotype update
+
+Ensembl Release 86 (October 2016)
+External database references update</gtr:description><gtr:id>F4FC8391-BAE3-4514-9D55-1B74D2F1AAB4</gtr:id><gtr:impact>The data are highly accessed by researchers- there were 16724 site visits (and over 100,000 page views) in 2016 alone.</gtr:impact><gtr:outcomeId>546367e7160851.58254434</gtr:outcomeId><gtr:providedToOthers>true</gtr:providedToOthers><gtr:title>Sheep Ensembl database and releases</gtr:title><gtr:type>Database/Collection of data</gtr:type><gtr:url>http://www.ensembl.org/Ovis_aries/Info/Index</gtr:url><gtr:yearFirstProvided>2013</gtr:yearFirstProvided></gtr:researchDatabaseAndModelOutput><gtr:researchDatabaseAndModelOutput><gtr:description>The annotated reference genome sequences have been delivered through a series of Ensembl releases. The initial annotation work was funded through the BBSRC (grant BB/I025506/1), with future developments and updates funded by further grants from the BBSRC (BB/I025360/2 and BB/M011615/1) within the relevant periods).
+
+The following updates for duck have occurred:
+
+Ensembl Release 73 (September 2013)
+Duck: Annotation of the duck reference genome sequence was migrated from Pre-Ensembl to the full Ensembl site, including a revised Gene Build. For more details see: http://sep2013.archive.ensembl.org/Anas_platyrhynchos/Info/WhatsNew?db=core 
+
+Ensembl Release 74 (December 2013)
+Created a new 'saurian reptile' multi-species whole-genome alignment that includes duck.
+
+Ensembl Release 76 (August 2014)
+Duck: Cross-references to external databases updated</gtr:description><gtr:id>549EC72F-7350-4277-8E3A-D19EF032C1FE</gtr:id><gtr:impact>The data are highly accessed by researchers- there were 5211 site visits in 2016 alone.</gtr:impact><gtr:outcomeId>54636c476052e8.85491089</gtr:outcomeId><gtr:providedToOthers>true</gtr:providedToOthers><gtr:title>Duck Ensembl database and releases</gtr:title><gtr:type>Database/Collection of data</gtr:type><gtr:url>http://www.ensembl.org/Anas_platyrhynchos/Info/Index</gtr:url><gtr:yearFirstProvided>2012</gtr:yearFirstProvided></gtr:researchDatabaseAndModelOutput><gtr:researchDatabaseAndModelOutput><gtr:description>The annotated reference genome sequences have been delivered through a series of Ensembl releases. The initial annotation work was funded through the BBSRC (grant BB/I025506/1), with future developments and updates funded by further grants from the BBSRC (BB/I025360/2 and BB/M011615/1) within the relevant periods).
+
+The following updates for pig have occurred:
+
+Initial genebuild was in September 2009, on assembly Sscrofa9
+
+Ensembl Release 67 (May 2012)
+Pig: The annotation of the pig genome assembly (Sscrofa10.2) on which the pig genome sequence paper was based was migrated from Pre-Ensembl to the full Ensembl site.
+The annotated reference genome sequences have been delivered through a series of Ensembl releases. The following updates for pig have occurred:
+
+Ensembl Release 69 (October 2012)
+Pig: An Ensembl-Havana gene set was added to the annotation. The VEGA manual annotation which had been generated through a community effort was added. For more details see: http://oct2012.archive.ensembl.org/Sus_scrofa/Info/Index 
+
+Ensembl Release 74 (December 2013)
+Pig: secondary structure of non-coding RNAs are now shown on the gene summary page, using the R2R package. More details about new features for pig in release 74 can be found at: http://www.ensembl.org/Sus_scrofa/Info/WhatsNew?db=core 
+
+Ensembl Release 75 (February 2014)
+DGVa data was updated and new studies imported. Transcript ENSSSCT00000011005 was
+deleted. There remains an overlapping transcript within the same gene that has been manually
+annotated by Havana.
+Merged genes and transcripts can be fetched using 'source' column
+
+Ensembl Release 76 (August 2014)
+Updated whole-genome (LASTZ) alignments to the new human assembly
+New dbSNP build 140 was imported
+SIFT analysis was updated to version 5.1.0
+
+Ensembl Release 77 (October 2014)
+RefSeq's GFF3 annotation added in order to facilitate comparison of gene sets
+Cross-references to external databases updated
+
+Ensembl Release 78 (December 2014)
+Updated data from the Animal Quantitative Trait Loci (QTL) Database
+
+Ensembl Release 80 (May 2015)
+variation database updated to dbSNP143
+AnimalQTL update
+
+Ensembl Release 81 (July 2015)
+AnimalQTL update
+
+Ensembl Release 82 (September 2015)
+AnimalQTL update for Pig
+Updated ProteinTrees, ncRNATrees and homologies
+
+Ensembl Release 83 (December 2015)
+Pig dbSNP 145 update
+External cross-references updated Updated ProteinTrees, ncRNATrees and homologies
+Updated ProteinTrees, ncRNATrees and homologies
+AnimalQTL update
+
+Ensembl Release 84 (March 2016)
+New chips for pig:
+? GeneSeek Genomic Profiler Porcine - HD (Illumina)
+? GeneSeek Genomic Profiler Porcine - LD BeadChip (Illumina)
+? Axiom Porcine Genotyping Array (Affymetrix)
+
+Ensembl Release 85 (July 2016)
+Phenotype update
+
+Ensembl Release 86 (October 2016)
+Phenotype update</gtr:description><gtr:id>4454B4DF-31FF-4060-8074-A53E01F272B0</gtr:id><gtr:impact>The data are highly accessed by researchers- there were 44041 site visits (over 240,000 page views) in 2016 alone.</gtr:impact><gtr:outcomeId>5463671a5edcb8.79080530</gtr:outcomeId><gtr:providedToOthers>true</gtr:providedToOthers><gtr:title>Pig Ensembl database and releases</gtr:title><gtr:type>Database/Collection of data</gtr:type><gtr:url>http://www.ensembl.org/Sus_scrofa/Info/Index</gtr:url><gtr:yearFirstProvided>2009</gtr:yearFirstProvided></gtr:researchDatabaseAndModelOutput></gtr:researchDatabaseAndModelOutputs><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication><gtr:id>25B98A55-1E62-4BF5-8E87-15540D2C3672</gtr:id><gtr:title>The Ensembl gene annotation system.</gtr:title><gtr:parentPublicationTitle>Database : the journal of biological databases and curation</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/82791bf6a9aef72b5f4cd01d4fe2200d"><gtr:id>82791bf6a9aef72b5f4cd01d4fe2200d</gtr:id><gtr:otherNames>Aken BL</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date><gtr:issn>1758-0463</gtr:issn><gtr:outcomeId>58ac6ba6246bf0.04726584</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>58A05B34-6CF9-492C-8A2A-0E55DC6DCDBA</gtr:id><gtr:title>Analyses of pig genomes provide insight into porcine demography and evolution.</gtr:title><gtr:parentPublicationTitle>Nature</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/1f1b55fc015bced32fa79cdcc24f6210"><gtr:id>1f1b55fc015bced32fa79cdcc24f6210</gtr:id><gtr:otherNames>Groenen MA</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2012-01-01</gtr:date><gtr:issn>0028-0836</gtr:issn><gtr:outcomeId>545b842da5ddd2.00674191</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>101ABBAB-3E19-4EF2-9894-2C7AE4212872</gtr:id><gtr:title>Ensembl comparative genomics resources.</gtr:title><gtr:parentPublicationTitle>Database : the journal of biological databases and curation</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/418ad1d861cfe947069119d474d91edf"><gtr:id>418ad1d861cfe947069119d474d91edf</gtr:id><gtr:otherNames>Herrero J</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date><gtr:issn>1758-0463</gtr:issn><gtr:outcomeId>585d71a2809e14.43956446</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>FDA6A66F-03FB-46FD-A61E-961FB79A53B0</gtr:id><gtr:title>Ensembl 2016.</gtr:title><gtr:parentPublicationTitle>Nucleic acids research</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/9674d21dd8ce5ce19546dfd4d89e286d"><gtr:id>9674d21dd8ce5ce19546dfd4d89e286d</gtr:id><gtr:otherNames>Yates A</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date><gtr:issn>0305-1048</gtr:issn><gtr:outcomeId>56c30abf300190.53744354</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>D8CE6372-4AAE-4D6B-8ED7-569C693CA431</gtr:id><gtr:title>Avianbase: a community resource for bird genomics.</gtr:title><gtr:parentPublicationTitle>Genome biology</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/f17488767994d61beb8d487cfb542d47"><gtr:id>f17488767994d61beb8d487cfb542d47</gtr:id><gtr:otherNames>E?ry L</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date><gtr:issn>1474-7596</gtr:issn><gtr:outcomeId>5675e02d70f33</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>28B2BA7B-82A6-4B0A-9673-F93C492139C0</gtr:id><gtr:title>Ensembl 2013.</gtr:title><gtr:parentPublicationTitle>Nucleic acids research</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/edc60aa26bd25ad62b41ba7309ae23c3"><gtr:id>edc60aa26bd25ad62b41ba7309ae23c3</gtr:id><gtr:otherNames>Flicek P</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2013-01-01</gtr:date><gtr:issn>0305-1048</gtr:issn><gtr:outcomeId>54492dea21cd16.88639831</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>6551C0BB-157C-4DB1-B60D-3E4AD61558BF</gtr:id><gtr:title>The duck genome and transcriptome provide insight into an avian influenza virus reservoir species.</gtr:title><gtr:parentPublicationTitle>Nature genetics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/a2c84b8517fcf40edbdb86bb7a02bba1"><gtr:id>a2c84b8517fcf40edbdb86bb7a02bba1</gtr:id><gtr:otherNames>Huang Y</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2013-01-01</gtr:date><gtr:issn>1061-4036</gtr:issn><gtr:outcomeId>545b842dcfec66.82052296</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>C025933F-87ED-4EF0-ABF5-F40793F8E17C</gtr:id><gtr:title>Ensembl core software resources: storage and programmatic access for DNA sequence and genome annotation.</gtr:title><gtr:parentPublicationTitle>Database : the journal of biological databases and curation</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/587857ab37340a32ceab5382fa3c0a5e"><gtr:id>587857ab37340a32ceab5382fa3c0a5e</gtr:id><gtr:otherNames>Ruffier M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:issn>1758-0463</gtr:issn><gtr:outcomeId>58b958f568b805.46497553</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>DF9BEE9D-E1B3-41F0-9391-8A55B548EBB5</gtr:id><gtr:title>ncRNA orthologies in the vertebrate lineage.</gtr:title><gtr:parentPublicationTitle>Database : the journal of biological databases and curation</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/3d81cb2a356826394657f6c86d985eba"><gtr:id>3d81cb2a356826394657f6c86d985eba</gtr:id><gtr:otherNames>Pignatelli M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date><gtr:issn>1758-0463</gtr:issn><gtr:outcomeId>585d7119193de3.72414483</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>6E670E15-ABAB-4C58-89C4-BE3817BF2E87</gtr:id><gtr:title>The pig X and Y Chromosomes: structure, sequence, and evolution.</gtr:title><gtr:parentPublicationTitle>Genome research</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/b1f373054603f5f0574cbeae9e7616bc"><gtr:id>b1f373054603f5f0574cbeae9e7616bc</gtr:id><gtr:otherNames>Skinner BM</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date><gtr:issn>1088-9051</gtr:issn><gtr:outcomeId>585d73cbb2e3e2.41593945</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>4A500F93-1EFD-43BD-B9BC-9D3B009A7FAA</gtr:id><gtr:title>Comparative analysis of the domestic cat genome reveals genetic signatures underlying feline biology and domestication.</gtr:title><gtr:parentPublicationTitle>Proceedings of the National Academy of Sciences of the United States of America</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/3b4bf2d7b47ec1b3d9fe8d48741c3a83"><gtr:id>3b4bf2d7b47ec1b3d9fe8d48741c3a83</gtr:id><gtr:otherNames>Montague MJ</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2014-01-01</gtr:date><gtr:issn>0027-8424</gtr:issn><gtr:outcomeId>546215dfd0c751.87453221</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>8202D8EE-C794-47BC-83AD-C6289EA599F6</gtr:id><gtr:title>Third Report on Chicken Genes and Chromosomes 2015.</gtr:title><gtr:parentPublicationTitle>Cytogenetic and genome research</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/6f54cc452105a5f63ca26d78d14eded1"><gtr:id>6f54cc452105a5f63ca26d78d14eded1</gtr:id><gtr:otherNames>Schmid M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date><gtr:issn>1424-8581</gtr:issn><gtr:outcomeId>56c30abee90803.98303075</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>05A892A2-F55B-448F-89DB-A5577D5FCEA5</gtr:id><gtr:title>TreeFam v9: a new website, more species and orthology-on-the-fly.</gtr:title><gtr:parentPublicationTitle>Nucleic acids research</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/d36c76590665a477aeb46bc220176d2d"><gtr:id>d36c76590665a477aeb46bc220176d2d</gtr:id><gtr:otherNames>Schreiber F</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2014-01-01</gtr:date><gtr:issn>0305-1048</gtr:issn><gtr:outcomeId>54492de9b56a85.04717717</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>82451927-546A-4856-8327-281E488E6377</gtr:id><gtr:title>The sheep genome illuminates biology of the rumen and lipid metabolism.</gtr:title><gtr:parentPublicationTitle>Science (New York, N.Y.)</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/f7d6414b5561959e026a21adb7b56753"><gtr:id>f7d6414b5561959e026a21adb7b56753</gtr:id><gtr:otherNames>Jiang Y</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2014-01-01</gtr:date><gtr:issn>0036-8075</gtr:issn><gtr:outcomeId>54492de97f4af5.17611888</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>87365965-5F84-45C3-A010-95275081867A</gtr:id><gtr:title>Ensembl 2015.</gtr:title><gtr:parentPublicationTitle>Nucleic acids research</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/8b1fe483d46338e5d04acb62b9e1e07c"><gtr:id>8b1fe483d46338e5d04acb62b9e1e07c</gtr:id><gtr:otherNames>Cunningham F</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date><gtr:issn>0305-1048</gtr:issn><gtr:outcomeId>546233dda7dde9.36453367</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>3F3750B4-6F96-42EF-9E5E-C2BBABEF2792</gtr:id><gtr:title>Ensembl 2014.</gtr:title><gtr:parentPublicationTitle>Nucleic acids research</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/edc60aa26bd25ad62b41ba7309ae23c3"><gtr:id>edc60aa26bd25ad62b41ba7309ae23c3</gtr:id><gtr:otherNames>Flicek P</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2014-01-01</gtr:date><gtr:issn>0305-1048</gtr:issn><gtr:outcomeId>54492de9e3f4c9.32714277</gtr:outcomeId></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">BB/I025506/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

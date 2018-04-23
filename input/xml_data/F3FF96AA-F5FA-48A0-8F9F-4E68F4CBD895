@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/391A58B1-2FEA-4636-A181-3CA0364A7B4C"><gtr:id>391A58B1-2FEA-4636-A181-3CA0364A7B4C</gtr:id><gtr:name>Codex Digital Limited</gtr:name><gtr:address><gtr:line1>60 POLAND STREET</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>W1F 7NT</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/391A58B1-2FEA-4636-A181-3CA0364A7B4C" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>391A58B1-2FEA-4636-A181-3CA0364A7B4C</gtr:id><gtr:name>Codex Digital Limited</gtr:name><gtr:address><gtr:line1>60 POLAND STREET</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>W1F 7NT</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>248067.0</gtr:offerGrant><gtr:projectCost>556260.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/3D8345BD-D21B-4443-B6AB-20174789078F"><gtr:id>3D8345BD-D21B-4443-B6AB-20174789078F</gtr:id><gtr:firstName>Caroline</gtr:firstName><gtr:surname>Williams</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720740"><gtr:id>F3FF96AA-F5FA-48A0-8F9F-4E68F4CBD895</gtr:id><gtr:title>Codex IViS</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720740</gtr:grantReference><gtr:abstractText>The twenty-four month [Codex IViS] project will develop a professional camera rig for
+capturing live-action immersive video for the creation of high-quality immersive experiences.
+The system will be lightweight, portable, and designed to produce very high quality media for
+entertainment, documentary and education, commercials and marketing.
+There is a wave of excitement about the potential for immersive video and VR to put the
+viewer ?inside the experience.? Inspired by emerging consumer-level displays (such as the
+Oculus Rift, Google Cardboard, Samsung Gear, Microsoft HoloLens, HTC VIVE and Sony
+Morpheus), film and VFX companies are experimenting with ways of making immersive
+experiences using 360&amp;ordm; stereoscopic video. These developments point to the birth of an
+exciting new mass medium, which creates a need for a professional immersive video camera
+system capable of delivering cinematic quality from a reasonably priced compact system. No
+such system is yet available on the market, making it difficult and labour intensive to capture
+high quality immersive experiences.
+The project will develop a complete immersive video capture system, comprising:
+? A very compact camera head, integrating camera lenses, HD digital video sensors and
+camera electronics into a single unit;
+? A tethered data recording and storage unit, using solid-state drives, with all
+electronics not immediately associated with the camera head;
+? Firmware to control the operation, camera synchronisation, data recording to drives in
+the base rack, monitoring outputs from each sensor, data copying and conversion for stitching
+and postproduction using third-party software tools.
+Codex will market the resulting product to film and TV industry equipment rental companies,
+through its established sales and marketing offices in London and Los Angeles, and its
+network of distributors and resellers worldwide.</gtr:abstractText><gtr:fund><gtr:end>2017-11-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2015-12-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>248067</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720740</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/9FE113A8-3996-4539-BBE2-88E0D3E8C598"><gtr:id>9FE113A8-3996-4539-BBE2-88E0D3E8C598</gtr:id><gtr:name>Evolyst Ltd</gtr:name><gtr:address><gtr:line1>Innovation Centre,Gallows Hill</gtr:line1><gtr:city>Warwick</gtr:city><gtr:postCode>CV34 6UW</gtr:postCode><gtr:region>West Midlands</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/9FE113A8-3996-4539-BBE2-88E0D3E8C598" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>9FE113A8-3996-4539-BBE2-88E0D3E8C598</gtr:id><gtr:name>Evolyst Ltd</gtr:name><gtr:address><gtr:line1>Innovation Centre,Gallows Hill</gtr:line1><gtr:city>Warwick</gtr:city><gtr:postCode>CV34 6UW</gtr:postCode><gtr:region>West Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>41851.0</gtr:offerGrant><gtr:projectCost>41851.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/DEBED9B1-8CEF-4624-A41D-190BCDF444FA"><gtr:id>DEBED9B1-8CEF-4624-A41D-190BCDF444FA</gtr:id><gtr:firstName>Christopher</gtr:firstName><gtr:surname>Golby</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=230020"><gtr:id>9EF9CE96-0B4C-47DB-AB2B-B2570F8DFC3C</gtr:id><gtr:title>Health Heroes: An app to support families in health eating</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Procurement</gtr:grantCategory><gtr:grantReference>230020</gtr:grantReference><gtr:abstractText>The proliferation of health promotion apps along with mobile phones' array of features supporting
+
+health behaviour change offers a new and innovative approach to healthier eating. However, the
+
+majority of apps on the market are not underpinned with behaviour change theory and evidence
+
+which may mean they are unsafe or ineffective.
+
+Health Heroes is the first family healthy eating app to involve extensive research with families using
+
+ground breaking methods drawn from the fields of Health Psychology, User-Centred Design (UCD),
+
+Gamification &amp;amp; Persuasive Technologies. The project represents a collaboration between industry,
+
+public health, academia and local families, with now the opportunity to partner with Jamie Oliver and
+
+expand its reach and impact on families across the nation.
+
+In recognition that portion sizes have increased dramatically over the past decade and the growing
+
+body of evidence highlighting their impact on the obesity epidemic, Health Heroes aims to support
+
+families in managing their portion sizes to achieve a balanced diet.
+
+The app is designed to function as communication tool for the family to work together on changing
+
+their eating habits. It also helps families to manage their dietary habits outside of the home
+
+environment where schools, restaurants, and food outlets can join the challenge to support families in eating the right balance of foods.</gtr:abstractText><gtr:fund><gtr:end>2017-08-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2016-05-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>41851</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">230020</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

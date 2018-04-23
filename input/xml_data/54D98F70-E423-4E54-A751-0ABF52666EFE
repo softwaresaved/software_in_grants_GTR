@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/0489FDAB-1DDE-4433-BACA-E4B79DB8783F"><gtr:id>0489FDAB-1DDE-4433-BACA-E4B79DB8783F</gtr:id><gtr:name>Lujam Security Ltd</gtr:name><gtr:address><gtr:line1>112 BROMLEY ROAD</gtr:line1><gtr:city>COLCHESTER</gtr:city><gtr:postCode>CO4 3JF</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/0489FDAB-1DDE-4433-BACA-E4B79DB8783F" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>0489FDAB-1DDE-4433-BACA-E4B79DB8783F</gtr:id><gtr:name>Lujam Security Ltd</gtr:name><gtr:address><gtr:line1>112 BROMLEY ROAD</gtr:line1><gtr:city>COLCHESTER</gtr:city><gtr:postCode>CO4 3JF</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>250014.0</gtr:offerGrant><gtr:projectCost>555587.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/1F50A6E5-5030-46F2-844F-CDC4BDEFB074"><gtr:id>1F50A6E5-5030-46F2-844F-CDC4BDEFB074</gtr:id><gtr:firstName>Tim</gtr:firstName><gtr:surname>Moran</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720704"><gtr:id>54D98F70-E423-4E54-A751-0ABF52666EFE</gtr:id><gtr:title>NetPicket Cyber Security Solution for SMEs from Lujam Internet Security</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720704</gtr:grantReference><gtr:abstractText>Cyber Security is now a major issue that impacts every country?s social and economic
+standing. Current Cyber Security solutions have largely been the preserve of Government and
+Enterprises with large budgets. SMEs are limited to products that are ineffective in detecting
+the latest generation of banking and data leakage malware. Additionally, most of these are
+targeted at protecting Windows PCs but ignore mobile, tablet and other IoT devices.
+This project will develop a Cyber Security Reporting and Alerting service that prevents
+attacks based on a risk assessment of network traffic.
+Key components:
+- An Intelligence sensor installed onto a client?s network
+- A cloud based analytic engine, proactively examining connections in real time utilising big
+data fraud analytics to assess risk
+- A Graphical user-friendly portal to indicate suspicious or malicious activity for non-technical
+users
+The advantage of this approach is that it ensures reporting of all devices on a network without
+the need to install invasive software agents.
+Initially targeted at SMEs, a working PoC has already been completed. The prototype will
+build on this to create a feature rich reporting and alerting system which blocks devices from
+accessing risky Internet sites. Simultaneously an alert is disseminated identifying the nature
+of the threat.
+The innovation comes from:
+- Proactively spotting suspicious/malicious behaviour via big data analytics based around
+proven fraud prevention methodology.
+- Correlating open and closed intelligence with own bespoke sensors.
+The key benefits of this solution are to:
+- Provide a safer Internet experience for SME businesses by alerting them to any suspicious
+activity on any device, especially protecting against online banking malware, Intellectual
+Property and Personal data leakage.
+- Reduce time of exposure to any new threats via a proactive intelligence approach in real
+time.
+- Deliver regular reporting on all Internet related activity.</gtr:abstractText><gtr:fund><gtr:end>2019-02-28</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2017-09-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>250014</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720704</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

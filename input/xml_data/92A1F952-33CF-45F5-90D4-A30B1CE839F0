@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/FA9C97F9-CEAD-49FD-8105-87AD6907C65D"><gtr:id>FA9C97F9-CEAD-49FD-8105-87AD6907C65D</gtr:id><gtr:name>It Does... Ltd</gtr:name><gtr:address><gtr:line1>THE MILL PURY HILL BUSINESS PARK , ALDERTON ROAD</gtr:line1><gtr:city>TOWCESTER</gtr:city><gtr:postCode>NN12 7LS</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/FA9C97F9-CEAD-49FD-8105-87AD6907C65D" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>FA9C97F9-CEAD-49FD-8105-87AD6907C65D</gtr:id><gtr:name>It Does... Ltd</gtr:name><gtr:address><gtr:line1>THE MILL PURY HILL BUSINESS PARK , ALDERTON ROAD</gtr:line1><gtr:city>TOWCESTER</gtr:city><gtr:postCode>NN12 7LS</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>14400.0</gtr:offerGrant><gtr:projectCost>24000.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/DBDB0DE4-62F1-4109-A20F-C3A0C1569FFF"><gtr:id>DBDB0DE4-62F1-4109-A20F-C3A0C1569FFF</gtr:id><gtr:firstName>Lorraine</gtr:firstName><gtr:surname>Calcott</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700578"><gtr:id>92A1F952-33CF-45F5-90D4-A30B1CE839F0</gtr:id><gtr:title>A novel wearable circadian lighting device</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700578</gtr:grantReference><gtr:abstractText>1928 heralded the discovery by CE Keeler of photoreceptors in the eye that were not rods or
+cones but which controlled our body clocks; but it?s only recently it has become truly
+researched and more thoroughly understood. Leading researchers are discovering other ways
+daylight (circadian light) affects health and well-being of our bodies from birth to old age.
+Many are now researching ways to treat conditions such as heart disease, obesity, cancer and
+our main focus - Dementia.
+Our focus is on delivery of light and how best to administer it to those who need prescription like
+doses to keep body clocks in rhythm. It is our aim to personalise light so that each
+person?s prescription can be changed as they age and as their eyes receive light in a
+diminished way due to ageing of the eye.
+For Dementia patients, as their symptoms develop their sleep/wake cycle can shift out of
+phase. Lack of sleep negatively affects anyone of any age so for those already suffering
+dementia it can be disorientating and frightening. Drugs are often used to keep patients calm
+and to help them sleep, at a cost of up to &amp;pound;300 per person per month. However this can throw
+patients even further out of sync with natural rhythms and exasperate symptoms in a vicious
+cycle.
+Our aim is develop a wearable device used by people in early Dementia stages to improve
+quality of life by enhancing natural circadian body rhythms; potentially enabling people to
+spend longer at home before professional care is required. By elongating time spent before
+care home support is required can save upwards of &amp;pound;500 per week per patient plus the cost of
+drugs required.
+This market assessment study seeks to identify an optimal market entry point for our circadian
+lighting device by consulting stakeholders and key influencers in dementia care industry (care
+homes, carers, and dementia charities, social and medical care opinion leaders) directly to
+assess their willingness to adopt a new approach.</gtr:abstractText><gtr:fund><gtr:end>2016-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2015-08-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>14400</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700578</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

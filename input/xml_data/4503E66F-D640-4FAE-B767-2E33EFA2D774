@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/E90772EE-A8EF-49EC-8C8D-ED7BC218FE78"><gtr:id>E90772EE-A8EF-49EC-8C8D-ED7BC218FE78</gtr:id><gtr:name>Alterix Limited</gtr:name><gtr:address><gtr:line1>77A SHELFORD ROAD</gtr:line1><gtr:city>CAMBRIDGE</gtr:city><gtr:postCode>CB2 9NB</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/E90772EE-A8EF-49EC-8C8D-ED7BC218FE78" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>E90772EE-A8EF-49EC-8C8D-ED7BC218FE78</gtr:id><gtr:name>Alterix Limited</gtr:name><gtr:address><gtr:line1>77A SHELFORD ROAD</gtr:line1><gtr:city>CAMBRIDGE</gtr:city><gtr:postCode>CB2 9NB</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>21000.0</gtr:offerGrant><gtr:projectCost>30000.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/321DEA26-CBE4-43ED-BCC2-0A5FFA4C00B7"><gtr:id>321DEA26-CBE4-43ED-BCC2-0A5FFA4C00B7</gtr:id><gtr:firstName>Victor</gtr:firstName><gtr:surname>Zhitomirsky</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=132596"><gtr:id>4503E66F-D640-4FAE-B767-2E33EFA2D774</gtr:id><gtr:title>Digital ink for large diagonal size monitors</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Feasibility Studies</gtr:grantCategory><gtr:grantReference>132596</gtr:grantReference><gtr:abstractText>Alterix Ltd has developed low-cost electronics capable of achieving a hundred-fold increase in measurement
+
+speed compared to the common touch interfaces used in tablet PCs. Our solution scales easily to large sensors
+
+with diagonals up to 85? and is compatible with the flat-panel TVs with which the future of interactive displays
+
+lies. We have developed multi-touch technology capable of consistently and completely rejecting the palm of
+
+the user in order to achieve a comfortable user experience for the creators of content ? who often need to use
+
+virtual keyboard or stylus input for digital inking. This project will provide an opportunity to test the feasibility
+
+of a novel approach for utilising the Bluetooth active stylus developed for Apple devices on Windows 10
+
+computers with large scale interactive multi-touch monitors. The proposed upgrade of our touch electronics
+
+will allow us to extend the capabilities of an ordinary multi-touch panel towards those of a fully functional
+
+digitiser with support for digital ink capabilities introduced in the most recent Anniversary Update to Windows
+
+10.</gtr:abstractText><gtr:fund><gtr:end>2017-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2016-12-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>21000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">132596</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

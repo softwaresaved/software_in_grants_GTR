@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/CC9CA595-B030-4A5D-B88C-8C167992150E"><gtr:id>CC9CA595-B030-4A5D-B88C-8C167992150E</gtr:id><gtr:name>Silvatronics Limited</gtr:name><gtr:address><gtr:line1>123 Ridgehill Avenue</gtr:line1><gtr:city>Sheffield</gtr:city><gtr:postCode>S12 2GN</gtr:postCode><gtr:region>Yorkshire and The Humber</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/CC9CA595-B030-4A5D-B88C-8C167992150E" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>CC9CA595-B030-4A5D-B88C-8C167992150E</gtr:id><gtr:name>Silvatronics Limited</gtr:name><gtr:address><gtr:line1>123 Ridgehill Avenue</gtr:line1><gtr:city>Sheffield</gtr:city><gtr:postCode>S12 2GN</gtr:postCode><gtr:region>Yorkshire and The Humber</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>19574.0</gtr:offerGrant><gtr:projectCost>32624.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/8C513A9B-3E20-4F7A-8673-E31C1B544930"><gtr:id>8C513A9B-3E20-4F7A-8673-E31C1B544930</gtr:id><gtr:firstName>Silvanos</gtr:firstName><gtr:surname>Tinarwo</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700145"><gtr:id>FD02AE5A-F5D9-40D1-A1BC-F64D771548E2</gtr:id><gtr:title>Energy Source Isolator (ESI) 2</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700145</gtr:grantReference><gtr:abstractText>The Energy Source Isolator (ESI) concept is entirely new. Like smoke/carbon monoxide
+alarms, its intention is prevention of life-threatening incidents rather than reacting to them, as
+fire extinguishers and sprinkler systems do. Unlike alarms, which are passive and rely on
+human corrective actions for effectiveness, the ESI is active in cutting off the electricity or gas
+automatically.
+A working model of the ESI has been installed in the inventor?s home and a demonstration of
+the way it works can be viewed using the following link.
+http://www.silvatronicsltd.co.uk/products/residential
+Having patented the ESI and received favourable testimonies from local fire/home safety
+bodies for its installation in all types of dwellings, the inventor seeks proof of market before
+investing in the development of ESI system prototypes for trial by interested businesses. Both
+quantitative and qualitative market assessments will focus on, firstly, the business-to-business
+(B2B) sales potential and, secondly, on the business-to-customer (B2C) sales potential as
+follows:
+? Qualitative interviews with decision-makers in insurance companies, local authority
+care providers, home security businesses, caravan site and marina businesses Assess the
+potential market for this type of product.
+? Quantitative market assessments with owners of buy-to-let homes, people with
+socially vulnerable relatives/friends living independently and householders in general ? the
+latter group to assess the extra value to the customer of an additional ESI facility
+? From the collation and evaluation of the acquired data, the value of insurance
+premium (where ESI is installed) will be determined and the relative profitability and speed to
+achieve profitability in the different markets will be presented
+? Assessments of the costs, timescales and funding requirements to take the ESI project
+to full commercialisation with the selected interest groups</gtr:abstractText><gtr:fund><gtr:end>2012-11-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2012-09-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>19574</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700145</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

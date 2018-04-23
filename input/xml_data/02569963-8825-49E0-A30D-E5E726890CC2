@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/EC177B1F-35EE-4B74-981D-E8382EE3D18C"><gtr:id>EC177B1F-35EE-4B74-981D-E8382EE3D18C</gtr:id><gtr:name>London School of Economics &amp; Pol Sci</gtr:name><gtr:department>Centre for Economic Performance</gtr:department><gtr:address><gtr:line1>Houghton Street</gtr:line1><gtr:line2>Aldwych</gtr:line2><gtr:line4>London</gtr:line4><gtr:postCode>WC2A 2AE</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/EC177B1F-35EE-4B74-981D-E8382EE3D18C"><gtr:id>EC177B1F-35EE-4B74-981D-E8382EE3D18C</gtr:id><gtr:name>London School of Economics &amp; Pol Sci</gtr:name><gtr:address><gtr:line1>Houghton Street</gtr:line1><gtr:line2>Aldwych</gtr:line2><gtr:line4>London</gtr:line4><gtr:postCode>WC2A 2AE</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/9571AD7F-680A-45E6-A004-7471427EC9C2"><gtr:id>9571AD7F-680A-45E6-A004-7471427EC9C2</gtr:id><gtr:name>Dept for Business, Innovation and Skills</gtr:name><gtr:address><gtr:line1>1 Victoria Street</gtr:line1><gtr:line4>London</gtr:line4><gtr:postCode>SW1H 0ET</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>CO_FUNDER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/C28FFEA8-F35F-4404-9EDD-E736BEEF12C7"><gtr:id>C28FFEA8-F35F-4404-9EDD-E736BEEF12C7</gtr:id><gtr:name>English Heritage</gtr:name><gtr:address><gtr:line1>4th Floor</gtr:line1><gtr:line2>Cannon Bridge House</gtr:line2><gtr:line3>25 Dowgate Hill</gtr:line3><gtr:postCode>EC4R 2YA</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>CO_FUNDER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/C5D24BA4-C1E0-42D5-B873-AA1C85124423"><gtr:id>C5D24BA4-C1E0-42D5-B873-AA1C85124423</gtr:id><gtr:name>The Heritage Lottery Fund</gtr:name><gtr:address><gtr:line1>7 Holbein Place</gtr:line1><gtr:line4>London</gtr:line4><gtr:line5>SW1W 8NR</gtr:line5><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>CO_FUNDER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/B57B200F-C977-4699-A6F5-DACA88A9FDAF"><gtr:id>B57B200F-C977-4699-A6F5-DACA88A9FDAF</gtr:id><gtr:name>Arts Council England</gtr:name><gtr:address><gtr:line1>21 Bloomsbury Street</gtr:line1><gtr:postCode>WC1B 3HF</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>CO_FUNDER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/1291772D-DFCE-493A-AEE7-24F7EEAFE0E9"><gtr:id>1291772D-DFCE-493A-AEE7-24F7EEAFE0E9</gtr:id><gtr:name>AHRC</gtr:name><gtr:address><gtr:line1>Polaris House</gtr:line1><gtr:line2>North Star Avenue</gtr:line2><gtr:line4>Swindon</gtr:line4><gtr:postCode>SN2 1FL</gtr:postCode><gtr:region>South West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>CO_FUNDER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/B068FFB4-55FC-4B69-A3ED-194902BD9FA4"><gtr:id>B068FFB4-55FC-4B69-A3ED-194902BD9FA4</gtr:id><gtr:name>Department for Communities and Local Gov</gtr:name><gtr:address><gtr:line1>2 Marsham Street</gtr:line1><gtr:postCode>SW1P 4DF</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>CO_FUNDER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/C837E001-FBB3-4C67-A1F4-972AD62AEAE9"><gtr:id>C837E001-FBB3-4C67-A1F4-972AD62AEAE9</gtr:id><gtr:name>Food Standards Agency</gtr:name><gtr:address><gtr:line1>Aviation House</gtr:line1><gtr:line2>125 Kingsway</gtr:line2><gtr:line4>London</gtr:line4><gtr:postCode>WC2B 6NH</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>CO_FUNDER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/ABA68157-E69C-4B73-922D-0656987DF191"><gtr:id>ABA68157-E69C-4B73-922D-0656987DF191</gtr:id><gtr:name>Department for Work and Pensions</gtr:name><gtr:address><gtr:line1>Caxton House</gtr:line1><gtr:line2>Tothill Street</gtr:line2><gtr:line4>London</gtr:line4><gtr:postCode>SW1H 9NA</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>CO_FUNDER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/6D205EAE-593D-42CF-814D-F9D3770AF690"><gtr:id>6D205EAE-593D-42CF-814D-F9D3770AF690</gtr:id><gtr:name>Sport England</gtr:name><gtr:address><gtr:line1>16 Upper Woburn Place</gtr:line1><gtr:postCode>WC1H 0QP</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>CO_FUNDER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/C8DB6585-402D-45C8-8760-6194CCD64FCF"><gtr:id>C8DB6585-402D-45C8-8760-6194CCD64FCF</gtr:id><gtr:name>Department for Culture Media and Sport</gtr:name><gtr:address><gtr:line1>2-4 Cockspur Street</gtr:line1><gtr:postCode>SW1Y 5DH</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>CO_FUNDER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9"><gtr:id>3EAE04CA-9D62-4483-B9C4-F91AD9F4C5A9</gtr:id><gtr:name>University of Oxford</gtr:name><gtr:address><gtr:line1>University Chest</gtr:line1><gtr:line2>Wellington Square</gtr:line2><gtr:line4>Oxford</gtr:line4><gtr:postCode>OX1 2JD</gtr:postCode><gtr:region>South East</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/91EF7F54-1ED6-47C9-901F-74515666736C"><gtr:id>91EF7F54-1ED6-47C9-901F-74515666736C</gtr:id><gtr:name>Action for Happiness</gtr:name><gtr:address><gtr:line1>18 Victoria Park Square</gtr:line1><gtr:line2>Bethnal Green</gtr:line2><gtr:postCode>E2 9PF</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/80129758-5C78-499C-98D8-D4C7AA2D3E0F"><gtr:id>80129758-5C78-499C-98D8-D4C7AA2D3E0F</gtr:id><gtr:name>How To Thrive</gtr:name><gtr:address><gtr:line1>Farnham House SFAR 102</gtr:line1><gtr:line2>Six Hills Way</gtr:line2><gtr:postCode>SG1 2ST</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/31BBD26F-B1A4-4B30-870B-2E0335A59B41"><gtr:id>31BBD26F-B1A4-4B30-870B-2E0335A59B41</gtr:id><gtr:firstName>Emla</gtr:firstName><gtr:otherNames>Olivia</gtr:otherNames><gtr:surname>Fitzsimons</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/7E982E11-60CA-4112-BDFC-BE6526A6FDC0"><gtr:id>7E982E11-60CA-4112-BDFC-BE6526A6FDC0</gtr:id><gtr:firstName>Jose-Luis</gtr:firstName><gtr:surname>Fernandez</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/BAAFF80A-C0AA-4520-8E44-B8DD6F7D42FE"><gtr:id>BAAFF80A-C0AA-4520-8E44-B8DD6F7D42FE</gtr:id><gtr:firstName>Conal Hugh Leonard</gtr:firstName><gtr:surname>Smith</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/716B0F34-22A0-4689-8FB1-86CA89CD930A"><gtr:id>716B0F34-22A0-4689-8FB1-86CA89CD930A</gtr:id><gtr:firstName>Alissa</gtr:firstName><gtr:otherNames>Tamar</gtr:otherNames><gtr:surname>Goodman</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/D54F5DD8-7FD6-4277-87D0-BD6751265AB2"><gtr:id>D54F5DD8-7FD6-4277-87D0-BD6751265AB2</gtr:id><gtr:firstName>Jan-Emmanuel</gtr:firstName><gtr:surname>De Neve</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/EC9B5F45-0639-41B6-B423-F7810C31A992"><gtr:id>EC9B5F45-0639-41B6-B423-F7810C31A992</gtr:id><gtr:firstName>Carrie</gtr:firstName><gtr:surname>Exton</gtr:surname><gtr:orcidId>0000-0002-9532-4475</gtr:orcidId><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/868DE9BF-F7D8-41C1-8EB4-60E3E9E454E2"><gtr:id>868DE9BF-F7D8-41C1-8EB4-60E3E9E454E2</gtr:id><gtr:firstName>Peter</gtr:firstName><gtr:otherNames>Richard</gtr:otherNames><gtr:surname>Layard</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/A03F35A5-17CB-4585-A938-BE7B9E93AFAD"><gtr:id>A03F35A5-17CB-4585-A938-BE7B9E93AFAD</gtr:id><gtr:firstName>Martin</gtr:firstName><gtr:otherNames>Richard</gtr:otherNames><gtr:surname>Knapp</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=ES%2FN003683%2F1"><gtr:id>02569963-8825-49E0-A30D-E5E726890CC2</gtr:id><gtr:title>What Works Centre for Wellbeing - Cross-cutting strand</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>ES/N003683/1</gtr:grantReference><gtr:abstractText>Our aim is to enable policy-makers at all levels to target their decisions at improving the subjective wellbeing of their client group. The decision-makers we have in mind include those in central and local government, the NHS, schools, third sector organisations and private businesses. We shall do this partly through face-to-face interaction and partly through written analysis of evidence and new methods of policy evaluation.
+
+Initial consultation
+
+During the development phase, our first step will be a large, open event in October to which users are invited as well as members of other WWCW strands. We shall invite participants to say what they would hope for from us and we in turn will outline our proposed approach for comment. This 2-way flow will continue throughout the programme, on our website and face to face, with policy-makers raising important research issues and researchers responding. 
+
+Interaction with users
+
+We propose five types of face-to-face interaction, all video recorded and made available online. The first is a series of one-day courses for users in different parts of Britain, covering all the main issues. The second is a weekly seminar in which (at alternate sessions) users are invited to present their problems and receive advice and support on their analyses. Third, we shall run four half-day workshops on the analysis and evaluation of longitudinal data and, fourth, three one-day courses on economic evaluation. Finally there will be a major 2-day conference co-organised with the OECD, at which we will present our manual on &amp;quot;wellbeing for policy-makers&amp;quot; - see below.
+
+Synthesis of evidence and methods of evaluation
+
+For policy-makers to aim at subjective wellbeing they need, first, an organised body of knowledge which tells them in a user-friendly way how different factors affect wellbeing. All effects have to be measured in a common currency which measures subjective wellbeing. At present such evidence using a common currency is scarce, but Britain is rich in cohort data which make it possible to look at the effect of all factors simultaneously using a common currency. We shall exploit these data, as well as synthesizing all the existing evidence. 
+
+Second policy-makers need a framework for analysing their own policy options, by using the above evidence plus the results of experiments, in order to identify their most cost-effective options. We shall therefore develop a new, alternative Green Book to that now used in the Treasury (where money is the measure of benefit) and we are discussing this with the Treasury. To illustrate the power of this approach we shall then apply it to new or ongoing experimental interventions in schools, home-visiting, adult personal development, the provision of NHS psychological therapy, and the prevention of loneliness in old age.
+
+All this work will be put together in the manual on &amp;quot;wellbeing for policy-makers&amp;quot; which we shall present at the conference co-organised with the OECD, as our contribution to the work of the OECD Consortium of model-builders of wellbeing, for which we have been selected as the British component.
+
+We believe passionately that a shift in the focus of decision-making is possible and that new evidence and frameworks of analysis exist which make this possible. The cross-cutting strand can provide invaluable leadership in this change, by providing an outstanding manual on evidence and decision analysis and by ongoing two-way interaction between researchers and decision-makers. This will surely lead to higher levels of wellbeing throughout our society.
+
+More details are given in the Case for Support.</gtr:abstractText><gtr:potentialImpactText>1. The beneficiaries we aim to interact with are
+public sector organisations (central, local and NHS)
+schools
+third sector organisations
+businesses
+general public
+other academics, whom we can tempt to work on wellbeing, and
+other strands of the WWCW.
+
+2. To build links and contacts at the concept and development phase, we shall hold a 1-day open event at LSE, at which we shall invite views as to what users need, and propose our own plans for meeting their needs (for open discussion). This two-way knowledge-exchange dialogue will continue throughout the project via our programme blog and website.
+
+3. We shall then attempt to interact with users mainly face to face (or via videos) through
+
+- 5 one-day courses in different locations.
+- A weekly seminar at LSE where users will be invited (at alternate sessions) to present their problems and analyses and have feedback - with the aim of co-producing new knowledge.
+- Four half-day workshops on cohort analysis.
+- Three one-day courses on economic evaluation.
+- A major international conference in London co-hosted with the OECD.
+
+4. We shall also produce a user-friendly manual on the state of knowledge, providing ready access for decision-makers. We shall also undertake evaluation of a range of wellbeing-relevant interventions, using the new methodology that we propose for cost-effectiveness analysis.
+
+Further detail is contained in the Case for Support and in Pathways to Impact.</gtr:potentialImpactText><gtr:fund><gtr:end>2018-09-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/924BE15C-91F2-4AAD-941A-3F338324B6AE"><gtr:id>924BE15C-91F2-4AAD-941A-3F338324B6AE</gtr:id><gtr:name>ESRC</gtr:name></gtr:funder><gtr:start>2015-06-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>793792</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs><gtr:disseminationOutput><gtr:description>CEP Wellbeing Programme on the Enjoyment of Life Seminar Series 2015</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>Regional</gtr:geographicReach><gtr:id>65EAD774-32BE-419F-9C6E-D9796B30283A</gtr:id><gtr:impact>Thursday 03 December 2015 13:00 - 14:15 
+Understanding wellbeing at work with a behavioural and adaptive approach to job design
+Kevin Daniels (UEA) 
+
+Thursday 26 November 2015 13:00 - 14:15 
+Teacher Quality, Test Scores and Non-Cognitive Skills: Evidence from Primary School Teachers in UK
+Sarah Fleche (CEP) 
+
+Thursday 05 November 2015 13:00 - 14:15 
+Boss competence and worker wellbeing
+Amanda Goodall (Cass Business School) 
+
+Thursday 08 October 2015 13:00 - 14:15 
+Top incomes and human wellbeing around the world
+Nattavudh (Nick) Powdthavee (CEP) 
+
+Thursday 02 July 2015 13:00 - 14:15 
+The Impact of Childhood Economic Circumstances on Psychological Resilience: Evidence from Latent Class Modelling of Panel Data
+David Johnston (Monash) 
+
+Thursday 25 June 2015 13:00 - 14:15 
+What can genetics tell us about the environmental causes of wellbeing?
+Claire Haworth (Bristol) 
+
+Thursday 18 June 2015 13:00 - 14:15 
+Same Exposure but Different Response: The Importance of Considering Individual Differences in Environmental Sensitivity
+Michael Pluess (QMUL)</gtr:impact><gtr:outcomeId>56c5db8d378357.65410682</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://cep.lse.ac.uk/_new/events/seminar_past.asp?ID=68</gtr:url><gtr:year>2015</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>CEP Wellbeing Programme on the Enjoyment of Life Seminar Series 2016</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>Regional</gtr:geographicReach><gtr:id>30A2AAD3-4DC8-4AAB-9AC2-759EB632EE50</gtr:id><gtr:impact>Thursday 28 January 2016 13:00 - 14:15 
+Home Sweet Home: (Mis-)Beliefs About the Extent to Which Home Ownership Makes People Happy
+Alois Stutzer (University of Basel) 
+
+Thursday 11 February 2016 13:00 - 14:15 
+Employee satisfaction, labor market flexibility, and stock returns around the world
+Alex Edmans (London Business School) 
+
+Thursday 18 February 2016 13:00 - 14:15 
+Would You Choose to be Happy? Tradeoffs between Happiness and the Other Dimensions of Life in a Large Population Survey
+George Kavetsos (QMUL and CEP) 
+
+Thursday 3 March 2016 13:00 - 14.15
+The role of mental health, physical health and social activity in determining life-satisfaction in later life
+Andrew Steptoe (Psycho-biology Group, Department of Epidemiology and Public Health, UCL) 
+
+Thursday 10 March 2016 13:00 - 14:15 
+Determinants of wellbeing at older ages - from the MRC National Survey of Health and Development
+Mai Stafford (UCL)</gtr:impact><gtr:outcomeId>56c5dabd232bd3.12399863</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://cep.lse.ac.uk/_new/events/seminar.asp?ID=68</gtr:url><gtr:year>2016</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Workshop on Wellbeing over the life course: Learning from the British cohort studies</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>F7B9B055-A7A8-4B12-8FA7-C897AA45A4DA</gtr:id><gtr:impact>Wellbeing research based on longitudinal data is able to provide invaluable insights into how we, as a society, can work together to improve our quality of life. This workshop aims to explore ways in which this data can be used more to inform wellbeing research in the wider community.
+
+About the workshop
+In partnership with the What Works Centre for Wellbeing, the Centre for Longitudinal Studies (CLS) is hosting a one-day workshop exploring the ways in which data sourced from longitudinal birth cohort studies can be used to inform wellbeing research. In addition to discovering what datasets and measures are currently available, delegates will find out about the latest research, and gain a first-hand insight into how use these datasets during a live methods and data demonstration.
+
+This workshop is open to all those interested in using cohort data to analyse wellbeing, in particular we welcome policymakers, third sector representatives and academics wanting to undertake well-being research using cohort studies. The workshop will be aimed primarily at new data users, but experienced users are also welcome.
+
+Provisional programme
+Chair: Heather Joshi
+
+9:45 - 10:00 Registration and refreshments
+
+10:00 - 10:45 Introduction Alissa Goodman, CLS &amp;amp; Martina Narayanan, CLS
+
+10:45 - 11:10 Tea/coffee
+
+11:10 - 13:00 What's new in wellbeing research using cohort studies?
+- What factors predict child and adult wellbeing? Praveetha Patalay, CLS &amp;amp; University of Liverpool
+- What makes a successful life? Nick Powdthavee, University of Warwick
+- Childhood socio-economic position and adult mental wellbeing. Mai Stafford, UCL Institute of Epidemiology &amp;amp; Health/Natasha Wood, MRC Unit for Lifelong Health and Ageing at UCL
+- Effect of childhood bereavement on wellbeing. Alison Penny, National Children's Bureau
+
+13:00 - 14:00 Lunch 
+
+14:00 - 15:00 Option A. Methods and Data workshop with George Ploubidis and Benedetta Pongiglione. (Room TW2 4.02, LSE)
+Learn how to use cohort data during a live demonstration in the computer lab.
+
+14:00 - 15:30 Option B. Research Q&amp;amp;A with Heather Joshi, Alissa Goodman and Praveetha Patalay. (Room 2.04, 32 Lincoln's Inn Fields, LSE)
+Come and ask the experts for advice regarding your research ideas.</gtr:impact><gtr:outcomeId>58b84cb7ef83e9.71306866</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www.closer.ac.uk/event/wellbeing-british-cohort-studies/</gtr:url><gtr:year>2016</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>The Origins of Happiness Blog, December 2016</gtr:description><gtr:form>Engagement focused website, blog or social media channel</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>08085FDC-0E7D-41F0-841B-0FFA64503238</gtr:id><gtr:impact>Blog about the LSE OECD December Conference. Picked up by international news media (see press round up)
+Understanding the key determinants of people's life satisfaction will suggest policies for how best to reduce misery and promote wellbeing. This column discusses evidence from survey data on Australia, Britain, Germany, and the US which indicate that the things that matter most are people's social relationships and their mental and physical health; and that the best predictor of an adult's life satisfaction is their emotional health as a child. The authors call for a new focus for public policy: not 'wealth creation' but 'wellbeing creation'.</gtr:impact><gtr:outcomeId>58c9282f6a06e0.29985169</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Media (as a channel to the public)</gtr:primaryAudience><gtr:url>http://voxeu.org/article/origins-happiness</gtr:url><gtr:year>2016</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>LSE OECD International Conference (LSE, December 2016)</gtr:description><gtr:form>A formal working group, expert panel or dialogue</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>66A6F6C3-D4FA-43F3-859B-4656743F7177</gtr:id><gtr:impact>Subjective well-being over the life course: Evidence and policy implications. Organised by OECD, CEPREMAP, What Works Centre for Wellbeing , and CEP
+(Monday 12 - Tuesday13 December 2016)
+
+The conference on 12-13 December 2016 presented the latest findings of research on the determinants of subjective well-being over the life course and included leading international policy-makers and policy-analysts reflecting on the evidence and how to use it in the real world. The meeting included international speakers from the OECD, USA, France, Germany, Sweden, Australia, New Zealand and Canada, with high-level panellists from the UK government and German Chancellery. And keynote addresses by Lord Gus O'Donnell, Prof Jeffrey Sachs, Mari Kiviniemi, OECD Deputy Secretary General and Prof Alan Krueger.
+
+Over 250 participants took part and the conference received wide public attention. Our findings featured on the BBC Today programme, and Sky News, 12 local and regional radio stations, as well as in the Financial Times, The Daily Telegraph, and the Guardian. Most significant of all it was for eight hours one of the four headline items on the BBC News website. It was also picked up by media outlets worldwide. This media campaign was supported by a readable blog piece on VoxEu.
+
+The Conference proceedings and videos are now available online http://cep.lse.ac.uk/_new/events/event.asp?id=275</gtr:impact><gtr:outcomeId>58b849a934a913.81791330</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Policymakers/politicians</gtr:primaryAudience><gtr:url>http://cep.lse.ac.uk/_new/events/event.asp?id=275</gtr:url><gtr:year>2016</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Meeting with Department of Health, Health Improvement Analytical team (June 2015)</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:geographicReach>National</gtr:geographicReach><gtr:id>07BB0AB2-600A-41C3-B753-A80D7BBEA17A</gtr:id><gtr:impact>Dept of Health, Health Improvement Analytical team
+Mike Batley
+Penny Withers
+Robert Unsworth
+What Works Centre for Wellbeing 
+Nancy Hey, Director
+Dawn Snape, Head of analysis and evidence
+Richard Layard and Jan De Neve from the Cross Cutting Evidence programme</gtr:impact><gtr:outcomeId>56d9b152094f94.09111962</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Policymakers/politicians</gtr:primaryAudience><gtr:year>2015</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Presentation at the World Government Summit, Dubai, 11-12 February 2017</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>E749C39A-5724-4D62-972A-AD139C1D13B9</gtr:id><gtr:impact>We have been invited to shape a World Happiness Council, sponsored by the United Arab Emirates government, in conjunction with the OECD. The aim will be to provide evidence and policy advice to governments regarding the best practices to promote happiness and wellbeing. It will bring several governments together to look at best practice through thematic working groups, backed by an expert advisory council on which the WHR co-editors (Jeff Sachs, John Helliwell and Richard Layard). Themes will include: Policy-evaluation; Health; Cities; Work; Education and Personal happiness.
+The work of the Global Council will be complementary to the international rankings and scientific studies provided by the World Happiness Report.</gtr:impact><gtr:outcomeId>58c7e9c548d9d3.10239726</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Policymakers/politicians</gtr:primaryAudience><gtr:url>https://worldgovernmentsummit.org/</gtr:url><gtr:year>2017</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>LSE CEP Wellbeing Seminar Series 2016-2017</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:geographicReach>National</gtr:geographicReach><gtr:id>9AD906CB-DCE7-4A17-BFE9-13F7189A2E34</gtr:id><gtr:impact>Thursday 09 March 2017 13:00 - 14:15 
+Human Well-being and In-Work Benefits: A Randomized Controlled Trial
+Andrew Oswald (IZA and University of Warwick) 
+
+Thursday 02 March 2017 13:00 - 14:15 
+Trust and Wellbeing
+John Helliwell (UBC &amp;amp; NBER ) 
+
+Thursday 23 February 2017 13:00 - 14:15 
+Medical Marijuana Laws and Mental Health in the US
+Alois Stutzer (University of Basel) 
+
+
+Thursday 16 February 2017 13:00 - 14:15 
+The Narrative Trap
+Paul Dolan (LSE) 
+
+Thursday 09 February 2017 13:00 - 14:15 
+Diversity and Neighbourhood Satisfaction
+Alan Manning (CEP) 
+
+
+Thursday 01 December 2016 13:00 - 14:15 
+The effect of green spaces on wellbeing
+Christian Krekel (CEP) 
+
+
+Thursday 13 October 2016 13:00 - 14:15 
+Converting the life satisfaction question into QALYs. Do people trade life satisfaction for additional years of life?
+Tessa Peasgood (University of Sheffield) 
+
+
+Thursday 22 September 2016 13:00 - 14:15 
+Faster, Higher, Stronger... and Happier? The 'Photo-Finish' Effect and Other Determinants of Athlete Emotions
+Laura Kudrna (LSE) 
+
+
+Thursday 08 September 2016 13:00 - 14:15 
+Determinants of resilience in adult mental health
+Paul Frijters (University of Queensland) 
+
+
+Thursday 09 June 2016 13:00 - 14:15 
+How childhood affects crime
+Steve Machin (CEP, London School of Economics and University College London) 
+
+
+Thursday 26 May 2016 13:00 - 14:15 
+
+Costs and benefits of early intervention
+Leon Feinstein (Early Intervention Foundation) , joint with Kirsten Asmussen and Haroon Chowdry (EIF) 
+
+
+Thursday 19 May 2016 13:00 - 14:15 
+A computational and neural model of momentary happiness
+Robb Rutledge (UCL) 
+
+
+Thursday 12 May 2016 13:00 - 14:15 
+Work-time duration and subjective wellbeing. Evidence from a French reform, and Unemployment benefits and job satisfaction: Evidence from Germany
+Anthony Lepinteur (PSE, CEP) , joint with Alexandre Georgieff (PSE, CEP) 
+
+
+Thursday 05 May 2016 13:00 - 14:15 
+Wellbeing in policy: approaches and challenges
+Ewen McKinnon (Cabinet Office) 
+
+Thursday 28 April 2016 13:00 - 14:15 
+Do people seek to maximize their subjective wellbeing - and fail?
+Hannes Schwandt (Zurich) 
+
+Thursday 10 March 2016 13:00 - 14:15 
+Determinants of wellbeing at older ages - from the MRC National Survey of Health and Development
+Mai Stafford (UCL) 
+
+
+Thursday 03 March 2016 13:00 - 14:15 
+The role of mental health, physical health and social activity in determining life-satisfaction in later life
+Andrew Steptoe (Psycho-biology Group, Department of Epidemiology and Public Health, UCL) 
+
+
+Thursday 18 February 2016 13:00 - 14:15 
+Would You Choose to be Happy? Tradeoffs between Happiness and the Other Dimensions of Life in a Large Population Survey
+George Kavetsos (QMUL and CEP) 
+
+
+Thursday 11 February 2016 13:00 - 14:15 
+Employee satisfaction, labor market flexibility, and stock returns around the world
+Alex Edmans (London Business School) 
+
+Thursday 28 January 2016 13:00 - 14:15 
+Home Sweet Home: (Mis-)Beliefs About the Extent to Which Home Ownership Makes People Happy
+Alois Stutzer (University of Basel)</gtr:impact><gtr:outcomeId>58c7eef9b33cd6.77581755</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Postgraduate students</gtr:primaryAudience><gtr:url>http://cep.lse.ac.uk/_new/events/seminar_past.asp?ID=68</gtr:url><gtr:year>2016,2017</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Speaker: HMT/GES Seminar on Wellbeing (October 2015)</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:geographicReach>National</gtr:geographicReach><gtr:id>FF5DE1EE-1EF1-44D7-ABC9-B453585ECA53</gtr:id><gtr:impact>Well-being Economics - from Theory to Practice
+A GES/R Event in collaboration with the Social Impacts Task Force &amp;amp; What Works Centre for Well-being
+23rd October 2015 10:00 to 12:00 - HMT Auditorium
+
+Background
+The Prime Minister launched the Measuring National Well-being Programme in 2010. The clear aspiration at launch was to go beyond measurement and for the new statistics to be a means to an end for government in taking 'practical steps' to ensure our decisions are very much focussed on quality of life. Most recently the Prime Minister, at the first cabinet meeting of the new government, challenged ministers to ensure &amp;quot;every decision we take, every policy we pursue, every programme we start&amp;quot; gives everyone the best chance of &amp;quot;living a fulfilling and good life&amp;quot;. But practically how do we build the wealth of research on well-being into our decision making? What are the tools we need and where are the evidence gaps?
+Last year the government established an independent What Works Centre to answer these questions - bringing together the best academic minds and think tanks for a three year programme. Come along to this event to learn more about the progress that is being made and to have your say on the work of the centre so that it delivers the economic and social research tools that can help you in your day job.
+Agenda:
+Introduction (Amanda Rowlatt - Chair)
+Session 1 - What Works for Well-being?
+? Why Well-being? (Lord O'Donnell)
+? What Works Centre for Well-being - How can it help the GES/R? (Dr Paul Litchfield)
+Panel Questions &amp;amp; Answers
+Session 2 - What Works Centre Evidence Programmes
+? Cross-Cutting Evidence - Tools, Training and Guidance (Prof Richard Layard and Dr Jan-Emmanuel De Neve)
+? Work, Adult Learning and Well-being (Professor Kevin Daniels)
+? Sport, Culture and Well-being (Professor Paul Dolan) 
+? Community Well-being (Saamah Abdallah)
+Panel Questions &amp;amp; Answers
+Final Discussion - What would you like to see? How can the centre help you?
+Video - Well-being Public Dialogues (Hopkins Van Mil)</gtr:impact><gtr:outcomeId>56d6da74f05899.13051172</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Policymakers/politicians</gtr:primaryAudience><gtr:year>2015</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Half-day Workshop on Wellbeing over the Lifecourse (LSE, February 2016)</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>National</gtr:geographicReach><gtr:id>1FDABA70-8AF5-45B0-BBC9-71B1270CF412</gtr:id><gtr:impact>Workshop on Wellbeing over the Life-Course
+Organised by the OECD, the Centre for Economic Performance of the London School of Economics and CEPREMAP Well-Being Observatory
+1.00-5.30pm, 25 February 2016
+
+Introduction
+Richard Layard (CEP)
+The determinants of childhood wellbeing 
+Nick Powdthavee (CEP)
+The determinants of adult wellbeing
+Andrew Clark (CEP/PSE)
+
+5.30pm Ends
+
+* * *</gtr:impact><gtr:outcomeId>56e03117f09af4.67893011</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:year>2016</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Press Coverage of LSE OECD Conference on Wellbeing over the Life Course</gtr:description><gtr:form>A magazine, newsletter or online publication</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>7EDE000D-327A-438B-8485-FE64A10CEED2</gtr:id><gtr:impact>Monday 12 December
+Guardian
+Happiness depends on health and friends, not money, says new study
+Landmark research says tackling mental health issues more effective than reducing poverty for increasing happiness rates. Extra spending on reducing mental illness would be self-financing, the researchers added, because it would be recovered by the government through higher employment and increased tax receipts together with a reduction in NHS costs from fewer GP visits and hospital A&amp;amp;E admissions.</gtr:impact><gtr:outcomeId>58c7e7cb2b8fd7.77222804</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Media (as a channel to the public)</gtr:primaryAudience><gtr:url>http://cep.lse.ac.uk/_new/news/programme.asp?resprog=9</gtr:url><gtr:year>2016</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Invited speaker: UK Government Social Impact Task Force (Multiple meetings)</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:geographicReach>National</gtr:geographicReach><gtr:id>3EB063AE-0587-4916-A509-06E163C0421D</gtr:id><gtr:impact>UK Government Social Impact Task Force (Multiple meetings), Cabinet Office</gtr:impact><gtr:outcomeId>56d6e350f1c6f7.85262109</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Policymakers/politicians</gtr:primaryAudience><gtr:year>2015</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Meeting with Stakeholders (Cost-effectiveness Analysis)</gtr:description><gtr:form>A formal working group, expert panel or dialogue</gtr:form><gtr:geographicReach>National</gtr:geographicReach><gtr:id>7C20898B-2B3A-4285-B8AC-D8A411C78450</gtr:id><gtr:impact>Meeting with Gus O'Donnell, Richard Layard, Martin Knapp and Joseph Lowe (HM Treasury) on 13 January 2016, together with What Works Centre for Wellbeing Strand Representatives to discuss methods of analysing the cost-effectiveness of wellbeing interventions.</gtr:impact><gtr:outcomeId>56cd928e76c144.19115672</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Policymakers/politicians</gtr:primaryAudience><gtr:year>2016</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Online article: Linking work and health: the What Works Centre for Wellbeing (Personnel Today, 23 December 2015)</gtr:description><gtr:form>Engagement focused website, blog or social media channel</gtr:form><gtr:geographicReach>National</gtr:geographicReach><gtr:id>ADF5AFC8-00FA-43C0-8AB3-A3172F4E7F3B</gtr:id><gtr:impact>&amp;quot;Cross-cutting capabilities: This project is being led by Professor Lord Richard Layard of the London School of Economics and will assess and develop methods of understanding how policy and practice can affect wellbeing. It will look at the effect of different factors on wellbeing, analyse the impact of wellbeing on other outcomes and develop a framework for cost effectiveness analysis with wellbeing as the measure of benefit. It will also carry out a &amp;quot;life course&amp;quot; analysis, looking at how important early life is to wellbeing in later years. &amp;quot;</gtr:impact><gtr:outcomeId>56d714593bee22.45377287</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Media (as a channel to the public)</gtr:primaryAudience><gtr:url>http://www.personneltoday.com/hr/linking-work-health-works-centre-wellbeing/</gtr:url><gtr:year>2015</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>What Works Centre for Wellbeing Mini-Conference led by Cross-Cutting Strand (Wellcome, December 2015)</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>National</gtr:geographicReach><gtr:id>7125FEA2-E148-449A-8E16-EB6FA964DE4A</gtr:id><gtr:impact>Topics covered included:
+Common currency and its uses (Layard and De Neve)
+Exchange rates between currencies (A. Clark)
+Cost-effectiveness evaluation (Knapp)
+Determinants of wellbeing: overview (Powdthavee) 
+A meeting to inform the work of the What Works Centre for Wellbeing and beyond, attended by members of the Centre and policy-makers.</gtr:impact><gtr:outcomeId>56c740f114f0e0.32905048</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:year>2015</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Participation in 3rd International German Forum, hosted by Federal Chancellor Dr. Angela Merkel, Federal Chancellery, 21-22 February 2017</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>84D8DD75-BB63-40E9-8EBF-5458535718F2</gtr:id><gtr:impact>Entitled &amp;quot;What matters to people - global health and innovation&amp;quot;
+Chancellor Angela Merkel and international experts have discussed ways of improving global health. This is a matter of major importance, she said, and thus one of the priorities of Germany's G20 Presidency.</gtr:impact><gtr:outcomeId>58c7ee4e4ccbe7.21166120</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Policymakers/politicians</gtr:primaryAudience><gtr:url>https://www.bundesregierung.de/Webs/Breg/DE/Mediathek/Einstieg/mediathek_einstieg_livestream_node.html;jsessionid=0B425A78EBFEAD34C4208C804043AE6F.s1t1?id=2120396&amp;cat=livestream</gtr:url><gtr:year>2017</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Meeting with Scottish Government Statistician (February 2016)</gtr:description><gtr:form>A formal working group, expert panel or dialogue</gtr:form><gtr:geographicReach>National</gtr:geographicReach><gtr:id>FA38C080-DAD3-4226-BB82-85640C7C5436</gtr:id><gtr:impact>Issues discussed:
+National Performance Framework - views on 
+ - experience of engaging people and getting concepts across to the public
+- the merits of performance dashboards vrs aggregating to few composite measures, or having few headline measures.
+- raising its profile internationally.
+
+Academic links and developments. What is going on measuring wellbeing.
+
+Roger Halliday, Chief Statistician &amp;amp; Head of Performance, Scottish Government</gtr:impact><gtr:outcomeId>56ceda5d5fb2f7.12663239</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:year>2016</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Conference: Mental Health and Contested Boundaries, Cumberland Lodge (February 2016)</gtr:description><gtr:form>A talk or presentation</gtr:form><gtr:geographicReach>National</gtr:geographicReach><gtr:id>04F05024-C80D-4E4B-A2B0-B70E25AA2220</gtr:id><gtr:impact>Monday, 1 February 2016 - 9:30am to Tuesday, 2 February 2016 - 4:30pm
+The role of well-being in public mental health is a subject that is being discussed widely in academic, policy and clinical circles, but there is concern that these discussions have become more of a mantra within policy making rather than an evidence-based reality.
+
+The overall objective of the conference will be to provide a safe forum for researchers, practitioners, service users, NHS representatives, charities, students and funders to exchange views and talk constructively about the contested boundaries of well-being in public mental health and discuss options for improving the situation going forward.
+
+The key questions that will be addressed during the panel sessions are: 
+
+? What is the relationship between 'mental health' and 'well-being'? 
+
+? What is &amp;quot;wellbeing&amp;quot;?
+
+? What evidence is there on promoting resilience in mental health? 
+
+? What is our approach to the use of evidence in mental health policy?
+
+? What is the role of psychiatry in public mental health?
+
+? How are mental health variations of importance measured and experienced?
+
+? Taking things forward and working together - the future of public mental health
+
+Speakers
+
+Professor Tim Croudace, Chair in Applied Health Research, University of Dundee
+
+Professor Dame Sally Davies, Chief Medical Officer for England
+
+Professor Richard Layard, LSE
+
+Dr Jeanelle de Gruchy, Vice President, ADPH
+
+Paul Farmer, CEO, MIND
+
+Dr Simon Howard, Public Health Speciality Registrar
+
+Professor Willem Kuyken, Clinical Psychology and Director, Oxford Mindfulness Centre, University of Oxford
+
+Sally McManus, Co-Head of Health Policy Research, NatCen
+
+Dr Kai Ruggeri, Director of the Policy Research Group, Department of Psychology, University of Cambridge
+
+Heema Shukla, Public Health Consultant
+
+Dr Geraldine Strathdee, National Clinical Director for Mental Health, NHS England
+
+Professor Graham Thornicroft, Professor of Community Psychiatry, Institute of Psychiatry, KCL
+
+Dr Karen Turner, Director of Mental Health, NHS England</gtr:impact><gtr:outcomeId>56d6c6d9b21c22.51005728</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:url>http://www.cumberlandlodge.ac.uk/whats-on/mental-health-and-well-being-contested-boundaries</gtr:url><gtr:year>2016</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Origins of Happiness, Centrepiece article, Spring 2017</gtr:description><gtr:form>A magazine, newsletter or online publication</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>CF5079ED-305B-4EC1-A418-D1827626EEFD</gtr:id><gtr:impact>Understanding the key determinants of people's life satisfaction makes it possible to suggest policies for how best to reduce misery and promote wellbeing. A forthcoming book
+by Richard Layard and colleagues discusses evidence on the origins of happiness in survey data from Australia, Germany, the UK and the United States. 
+
+Centrepiece article, Spring 2017 (The magazine of Center for Economic Performance)</gtr:impact><gtr:outcomeId>58c92c74a56491.08301479</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Media (as a channel to the public)</gtr:primaryAudience><gtr:url>http://cep.lse.ac.uk/pubs/download/cp497.pdf</gtr:url><gtr:year>2017</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>One-day Workshop on Wellbeing over the Lifecourse (LSE, July 2016)</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>4497745A-F50B-41E7-A8FC-D7C9A1FDE8E2</gtr:id><gtr:impact>Organised by the OECD, the LSE Centre for Economic Performance and CEPREMAP Well-Being Observatory, with the What Works Centre for Wellbeing
+
+The Wellbeing Group in the Centre for Economic Performance is writing a comprehensive analysis of wellbeing over the life-course. The aim is to do this in a way that can really help policy-makers, together with a new form of CBA. We will present a very first draft of the book in a one-day conference on Friday 29 July 2016, followed by a reception.
+
+Professors Andrew Clark, Nick Powdthavee and Andrew Steptoe will present further findings for our report &amp;quot;Paths to Wellbeing&amp;quot;, aimed at building an overall model of wellbeing over the life-course. There will also be a session on a wellbeing approach to public policy with Lord Gus O'Donnell, and Professors Richard Layard and Tim Besley.</gtr:impact><gtr:outcomeId>58b84876443519.72068089</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Postgraduate students</gtr:primaryAudience><gtr:url>http://cep.lse.ac.uk/conference_papers/29_07_2016/2016_07_29_OECD.pdf</gtr:url><gtr:year>2016</gtr:year></gtr:disseminationOutput><gtr:disseminationOutput><gtr:description>Participation in workshop to inform the research agenda on improving cross-sector comparisons using QALYs and other measures (MRC, July 2015)</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>National</gtr:geographicReach><gtr:id>9BAFF028-871B-4D6E-B124-B4BC59B2D2A9</gtr:id><gtr:impact>Introduction
+From its inception in 1999 NICE's decision making has used the health-related quality of life adjusted life year (QALY) which captures both the length and aspects of quality of life (QOL) that are related to health. Historically the EQ5D questionnaire has been NICE's preferred method to calculate the QALY because it was the only one to have a UK value set (tariff) enabling it to be used in cost-utility analysis.
+Whilst there are inherent limitations in all available measures, the role of the QALY and the EQ5D in national access decisions has focussed scrutiny. The challenges have included a lack of sensitivity and that not all the outcomes that are important are captured, particularly for public health and social care interventions. An intervention may be financed by one sector and have additional benefits in others which are not captured and there is no consistency in decision-making. Therefore methodological development is required.
+To inform the future research agenda addressing cross-sector decision making, a meeting was held at the MRC on 14th July 2015 attended by representatives of various academic institutions, patient organisations, NICE, the Department of Health, NIHR, health charities, What Works in Wellbeing, the Cabinet office and the Medical Research Council. There were presentations on the MRC research grant process, NICE's approach to science policy development and current difficulties faced by NICE. An overview of the current methods available for cross sector benefit measurement commissioned by the MRC was presented and a summary given from the social care perspective. The presentations were followed by discussion.
+During the meeting, there were a number of emerging themes that can be categorised into three overlapping topics:
+1. Foundational questions of valuation and decision-making - the underlying value judgements that need to be made to construct and utilise a benefit measure suitable for decision- making.
+2. Methods of benefit measurement - the type of benefits NICE should prioritise over others given its remit and the broad methodological approaches available to measure these benefits.
+3. The appropriate decision rule / reference case - how the benefit measure(s) should be applied in decision-making.</gtr:impact><gtr:outcomeId>56d6f0720fb7a1.70349604</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Professional Practitioners</gtr:primaryAudience><gtr:year>2015</gtr:year></gtr:disseminationOutput></gtr:disseminationOutputs><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs><gtr:impactSummaryOutput><gtr:description>Raising awareness of importance of public policy and in society as a whole</gtr:description><gtr:firstYearOfImpact>2005</gtr:firstYearOfImpact><gtr:id>633CB08D-3B5E-4152-9CE8-9CA9D96BEB58</gtr:id><gtr:impactTypes><gtr:impactType>Cultural,Societal,Economic,Policy &amp; public services</gtr:impactType></gtr:impactTypes><gtr:outcomeId>56d95ff64f59c8.46866722</gtr:outcomeId><gtr:sector>Education,Healthcare</gtr:sector></gtr:impactSummaryOutput></gtr:impactSummaryOutputs><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>ORIGINS OF HAPPINESS: The latest evidence on what promotes wellbeing and reduces misery
+
+Most human misery is due not to economic factors but to failed relationships and physical and mental illness. Eliminating depression and anxiety would reduce misery by 20% while eliminating poverty would reduce it by 5%. And on top of that, reducing mental illness would involve no net cost to the public purse.
+
+Among the findings on the key determinants of people's life satisfaction:
+
+? Income inequality explains only 1% of the variation in happiness in the community, while mental health differences explain over 4%. Education has a very small effect on life satisfaction, compared with, for example, having a partner.
+
+? When people evaluate their income or education, they generally measure it against the locally prevailing norm. As a result overall increases in income or education have little effect on the overall happiness of the population: if my relative income rises, someone else's must fall, and the average is unchanged. This helps to explain why in Britain, Germany the United States, and Australia, average happiness has failed to rise since records began, despite massive increases in living standards.
+
+? The strongest factor predicting a happy adult life is not children's qualifications but their emotional health. There is also powerful evidence that schools have a big impact on children's emotional health, and which school a child goes to will affect their emotional wellbeing as much as it affects their exam performance.</gtr:description><gtr:exploitationPathways>Re-prioritisation of policies</gtr:exploitationPathways><gtr:id>0D40CA26-0124-4FED-8051-16EF309C5F2A</gtr:id><gtr:outcomeId>56d95fc16f4721.30216888</gtr:outcomeId><gtr:sectors><gtr:sector>Education,Healthcare,Government, Democracy and Justice</gtr:sector></gtr:sectors></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication><gtr:id>AF07354A-0C9F-4CAA-A371-D87AAF176542</gtr:id><gtr:title>Happy People Have Children: Choice and Self-Selection into Parenthood.</gtr:title><gtr:parentPublicationTitle>European journal of population = Revue europeenne de demographie</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/6c5a018450a00973bec244a99b7033ed"><gtr:id>6c5a018450a00973bec244a99b7033ed</gtr:id><gtr:otherNames>Cetre S</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date><gtr:issn>0168-6577</gtr:issn><gtr:outcomeId>58b8459ddb1715.94808996</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>6698FB46-1C53-4140-B94D-6888215624DA</gtr:id><gtr:title>World Happiness Report 2017</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/ce288ba79f749bda786cd05597d8fdbb"><gtr:id>ce288ba79f749bda786cd05597d8fdbb</gtr:id><gtr:otherNames>Layard, R</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>58c7eaefb4e7d6.49568050</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>152D03CB-BE6A-48A2-BCF4-C0AA80580866</gtr:id><gtr:title>The Origins of Happiness: The Science of Well-Being over the Life Course</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/46ff1756e4b3af3aa6c221c1094ea42f"><gtr:id>46ff1756e4b3af3aa6c221c1094ea42f</gtr:id><gtr:otherNames>Clark Andrew E.</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2018-01-01</gtr:date><gtr:isbn>0691177899</gtr:isbn><gtr:outcomeId>5a9fd58700c436.44449158</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>D9BC5148-6B8A-42C6-9C21-90B96520D25F</gtr:id><gtr:title>Do More of Those in Misery Suffer from Poverty, Unemployment or Mental Illness?</gtr:title><gtr:parentPublicationTitle>Kyklos (Online)</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/9785b1ce0b595e7afc32455c31a00e65"><gtr:id>9785b1ce0b595e7afc32455c31a00e65</gtr:id><gtr:otherNames>Fl?che S</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:issn>0023-5962</gtr:issn><gtr:outcomeId>58b8466b9eea23.98928766</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>CBDE2C5A-9737-4221-BD99-1611F61CB577</gtr:id><gtr:title>(forthcoming). The Origins of Happiness: The Science of Wellbeing over the Life Course: Princeton University Press.</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/bf9bf8420e9ebcbd8fc2c4e0f6aa7b43"><gtr:id>bf9bf8420e9ebcbd8fc2c4e0f6aa7b43</gtr:id><gtr:otherNames>Clark, A. E.</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>58b841ea0dfd68.02766618</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>124D71C8-FE86-4453-A9DF-E8A947943A91</gtr:id><gtr:title>LSE CEP Discussion Paper Series - Wellbeing Programme</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e2b8b8e2b0d2b1ec6ab0ec44df34c659"><gtr:id>e2b8b8e2b0d2b1ec6ab0ec44df34c659</gtr:id><gtr:otherNames>Layard R</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date><gtr:outcomeId>58c7efeea209f0.42964455</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>4F6A79A2-6298-48F7-B924-647619764EBF</gtr:id><gtr:title>Family Income and Material Deprivation: Do They Matter for Sleep Quality and Quantity in Early Life? Evidence From a Longitudinal Study.</gtr:title><gtr:parentPublicationTitle>Sleep</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e857cb1d144cc775b0dac67903d4c526"><gtr:id>e857cb1d144cc775b0dac67903d4c526</gtr:id><gtr:otherNames>Barazzetta M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:issn>0161-8105</gtr:issn><gtr:outcomeId>5a9fdb510ecc38.90237943</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>48CB252E-AC44-4951-B544-72F86FF74E18</gtr:id><gtr:title>Wellbeing measurement and cost-effectiveness analysis</gtr:title><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/e5288855d6964c59c237688d4d40a3ae"><gtr:id>e5288855d6964c59c237688d4d40a3ae</gtr:id><gtr:otherNames>Layard</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date><gtr:outcomeId>58b84ac321f383.98403369</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>14E604F7-8D8F-44D9-ADB5-1170677D76B0</gtr:id><gtr:title>Can having internal locus of control insure against negative shocks? Psychological evidence from panel data</gtr:title><gtr:parentPublicationTitle>Journal of Economic Behavior and Organization</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/9133293ddf38214ada614606c7136b56"><gtr:id>9133293ddf38214ada614606c7136b56</gtr:id><gtr:otherNames>Powdthavee N</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2017-01-01</gtr:date><gtr:outcomeId>58b844618df6e7.95093410</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>8FDCA66E-5454-4E77-AA0C-42D99539C86E</gtr:id><gtr:title>Share capitalism and worker wellbeing.</gtr:title><gtr:parentPublicationTitle>Labour economics</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/2388a6ac74e3c0c4a1d3310d14a738cd"><gtr:id>2388a6ac74e3c0c4a1d3310d14a738cd</gtr:id><gtr:otherNames>Bryson A</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2016-01-01</gtr:date><gtr:issn>0927-5371</gtr:issn><gtr:outcomeId>58b8459da0cb46.75635458</gtr:outcomeId></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">ES/N003683/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>48D25546-6ADF-479A-8877-478CCDB1DC1F</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Animal Science</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>7D5D2DB2-0A64-42AF-A644-5F541B832A29</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Economics</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>7D5D2DB2-0A64-42AF-A644-5F541B832A29</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Economics</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>5858EC49-4786-4440-8352-1AB0B6DC5F23</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Psychology</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

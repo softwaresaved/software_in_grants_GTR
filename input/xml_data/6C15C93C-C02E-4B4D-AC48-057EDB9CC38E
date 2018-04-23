@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/B2F6103D-47D2-486A-8F7C-C62362BAACD9"><gtr:id>B2F6103D-47D2-486A-8F7C-C62362BAACD9</gtr:id><gtr:name>The Natural History Museum</gtr:name><gtr:department>Life Sciences</gtr:department><gtr:address><gtr:line1>Cromwell Road</gtr:line1><gtr:line4>London</gtr:line4><gtr:postCode>SW7 5BD</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/B2F6103D-47D2-486A-8F7C-C62362BAACD9"><gtr:id>B2F6103D-47D2-486A-8F7C-C62362BAACD9</gtr:id><gtr:name>The Natural History Museum</gtr:name><gtr:address><gtr:line1>Cromwell Road</gtr:line1><gtr:line4>London</gtr:line4><gtr:postCode>SW7 5BD</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/2425EDAD-D78D-4DDE-BD79-D705E331A524"><gtr:id>2425EDAD-D78D-4DDE-BD79-D705E331A524</gtr:id><gtr:name>George Washington University</gtr:name><gtr:address><gtr:line1>George Washington University</gtr:line1><gtr:line2>2121 Eye Street</gtr:line2><gtr:line3>NW Washington</gtr:line3><gtr:region>Outside UK</gtr:region><gtr:country>United States</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/32023341-A418-43BC-93C2-2F0064FCA3BF"><gtr:id>32023341-A418-43BC-93C2-2F0064FCA3BF</gtr:id><gtr:firstName>Paul</gtr:firstName><gtr:surname>Eggleton</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=NE%2FR012342%2F1"><gtr:id>6C15C93C-C02E-4B4D-AC48-057EDB9CC38E</gtr:id><gtr:title>NSFDEB-NERC:Tropical deadwood carbon fluxes: Improving carbon models by incorporating termites and microbes</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>NE/R012342/1</gtr:grantReference><gtr:abstractText>Objectives of this project are to measure rates of tropical deadwood (coarse woody debris;
+CWD) turnover and identify mechanisms that determine fates of CWD carbon (C) under current
+and future climates. Woody plants are the largest aboveground terrestrial biotic C store,
+and CWD biomass is likely substantial but poorly estimated. Much of our knowledge of turnover
+comes from temperate systems, where CWD is thought to be slow cycling. Less is known about
+tropical CWD pools and turnover, despite large living tree biomass. Due to differences in
+climate (warmer temperatures and sometimes greater precipitation), wood construction, and
+loss pathways (increasing role of termites), it is likely that CWD is dynamic in tropical
+systems. This project combines field, molecular, and modeling approaches in tropical Australia,
+where termites and fungi are key agents of wood turnover. A continuous belt of forest from
+rainforest to savanna with existing long-term data and infrastructure makes it an ideal location.
+Three questions will be addressed: Q1. What controls rates of CWD C turnover? Turnover rates
+will be determined by termite and fungal activity, which are dependent on climate and wood
+construction. Warmer and wetter conditions should increase turnover, but termites should increase
+turnover relatively more in dry conditions as they have water conservation strategies. Dense
+highly lignified wood should decay more slowly. Q2. What controls fates of C from CWD? C fates
+(CO2, CH4, organic residues) will depend on stage of decay and functional composition of termite
+and microbial communities. Later stages of decay, increased methanogens, decreased methanotrophs
+and changes in termite species should result in greater CH4:CO2. Greater organic residue formation
+will occur when C loss is via termites. Q3. How do mechanisms of wood turnover scale up to
+affect ecosystem-level C fluxes under climate change? Climate warming in Northern Australia
+will increase turnover rates and alter C fates of wood. To date, CWD is poorly parameterized
+in Earth system models (e.g., CWD decays only via physical fragmentation). Field data from
+Q1 and Q2 will be used to drive new predictive models of wood turnover and greenhouse gas
+(GHG) production under climate change. To test Q1 and determine relative saprobic microbe
+and termite decay rates in response to precipitation variation, blocks of a novel substrate
+(Pinus radiata) known to attract termites will be placed at 6 sites (Rainfall gradient experiment).
+Blocks will be enclosed in fine-mesh with or without holes manipulating termite access; blocks
+will be harvested at end of wet and dry seasons for 4 years. To determine influence of wood
+construction on decay, replicate logs of 10 species/site similarly enclosed will be placed
+at rainforest and savannah sites (Common garden experiment). Logs will be harvested at end
+of 2 wet and 2 dry seasons. For logs/blocks, initial and final mass, density and chemistry
+will be measured. Local weather stations will provide climate data. To test Q2, wood subsamples
+and termites in wood will be collected to determine termite community, microbial community
+and functional gene composition, and organic residue formation. CO2 and CH4 will be measured
+for harvested logs/blocks. As some termites live in mounds, experimental mounds (Termite mesocosm
+experiment) will be established and mound diel CO2 and CH4 fluxes will be measured monthly
+for 1 yr. To test Q3, field data will be incorporated into woodCLM, an ecosystem model derived
+from the Community Land Model. Results from the modified and original models will be compared.
+Using woodCLM, wood dynamics and GHG emissions will be simulated under future climate scenarios</gtr:abstractText><gtr:potentialImpactText>The impacts of this proposal are in three areas: education and training, contributions
+to the field and contributions to the broader public. The project capitalizes on a US NSF/DEB - UK
+NERC Lead Agency Opportunity, which would facilitate international collaborations and sharing of
+expertise between US (GWU and UCI) and UK (NHM) institutions. Funding through this opportunity
+would have repercussions in all three Broader Impact areas.</gtr:potentialImpactText><gtr:fund><gtr:end>2022-10-08</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/8A03ED41-E67D-4F4A-B5DD-AAFB272B6471"><gtr:id>8A03ED41-E67D-4F4A-B5DD-AAFB272B6471</gtr:id><gtr:name>NERC</gtr:name></gtr:funder><gtr:start>2017-10-09</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>240951</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">NE/R012342/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>EE4457DB-92A3-44EA-8D5F-77013CC107E0</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Climate &amp; Climate Change</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>EE4457DB-92A3-44EA-8D5F-77013CC107E0</gtr:id><gtr:percentage>100</gtr:percentage><gtr:text>Climate &amp; Climate Change</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

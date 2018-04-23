@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/0D34D81A-A62C-4B11-8A90-ACB670C0AE91"><gtr:id>0D34D81A-A62C-4B11-8A90-ACB670C0AE91</gtr:id><gtr:name>Institute of Education</gtr:name><gtr:department>Lifelong and Comparative Education</gtr:department><gtr:address><gtr:line1>University of London</gtr:line1><gtr:line2>20 Bedford Way</gtr:line2><gtr:line4>London</gtr:line4><gtr:postCode>WC1H 0AL</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/0D34D81A-A62C-4B11-8A90-ACB670C0AE91"><gtr:id>0D34D81A-A62C-4B11-8A90-ACB670C0AE91</gtr:id><gtr:name>Institute of Education</gtr:name><gtr:address><gtr:line1>University of London</gtr:line1><gtr:line2>20 Bedford Way</gtr:line2><gtr:line4>London</gtr:line4><gtr:postCode>WC1H 0AL</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/E30B7145-0051-47F4-B2D6-C93EE14B8568"><gtr:id>E30B7145-0051-47F4-B2D6-C93EE14B8568</gtr:id><gtr:name>University of Oslo</gtr:name><gtr:address><gtr:line1>Boks 1072 Blindern</gtr:line1><gtr:line4>Oslo</gtr:line4><gtr:line5>NO 0316</gtr:line5><gtr:region>Outside UK</gtr:region><gtr:country>Norway</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/BB12A8E2-9FD6-47D7-ACD3-CDD2D2C5A1BB"><gtr:id>BB12A8E2-9FD6-47D7-ACD3-CDD2D2C5A1BB</gtr:id><gtr:name>Aalborg University</gtr:name><gtr:address><gtr:line1>Fredrik Bajers Vej 5</gtr:line1><gtr:line2>PO Box 159</gtr:line2><gtr:region>Outside UK</gtr:region><gtr:country>Denmark</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PROJECT_PARTNER</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/CBA6EF6B-2CA5-42AB-8255-A283A8DD719E"><gtr:id>CBA6EF6B-2CA5-42AB-8255-A283A8DD719E</gtr:id><gtr:firstName>Simone</gtr:firstName><gtr:surname>Strambach</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/5AEE42BA-94CA-425C-9335-7F639D59D7E6"><gtr:id>5AEE42BA-94CA-425C-9335-7F639D59D7E6</gtr:id><gtr:firstName>David</gtr:firstName><gtr:otherNames>John</gtr:otherNames><gtr:surname>Guile</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole><gtr:personRole url="http://gtr.ukri.org:80/person/45095098-DDF9-4EB1-9698-736C31324A83"><gtr:id>45095098-DDF9-4EB1-9698-736C31324A83</gtr:id><gtr:firstName>Laura</gtr:firstName><gtr:surname>James</gtr:surname><gtr:roles><gtr:role><gtr:name>CO_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=ES%2FJ019488%2F1"><gtr:id>4FAAEA39-C613-4CED-B59C-E20114FD9ECB</gtr:id><gtr:title>Knowledge dynamics, Innovation and Learning Network</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>ES/J019488/1</gtr:grantReference><gtr:abstractText>&lt;p>This project aims to generate new interdisciplinary insights into processes of innovation and economic growth by exploring the ways in which individual and collective learning is integrated in different production-consumption networks, and how learning and innovation take place across geographical, organisational, and occupational/professional boundaries. It will do this by consolidating and extending the work of two existing networks that are currently working on these issues from the following disciplinary perspectives:&lt;/p>
+
+&lt;ul>
+ 
+
+ &lt;li>economic geography/regional studies&lt;/li>
+
+ &lt;li>workplace/organisational learning. &lt;/li>
+
+&lt;/ul>
+
+&lt;p>The members of the network are:&lt;/p>
+
+&lt;p>&lt;br />&lt;strong>Workplace/organisational learning&lt;/strong> :&lt;/p>
+
+&lt;ul>
+ 
+
+ &lt;li>Professor David Guile (PI) and Professor Lorna Unwin, both Institute of Education, University of London&lt;/li>
+
+ &lt;li>Professor Bente Elkjaer, Aarhus University&lt;/li>
+
+ &lt;li>University of Professor Sylvia Gherardi, University of Trento&lt;/li>
+
+ &lt;li>Professor Monika Nerland, University of Oslo.&lt;/li>
+
+&lt;/ul>
+
+&lt;p>&lt;strong>Economic Geography/regional studies&lt;/strong>:&lt;/p>
+
+&lt;ul>
+ 
+
+ &lt;li>Prof Henrik Halkier, Aalborg University, Denmark (Co-I)&lt;/li>
+
+ &lt;li>Prof Simone Strambach, Marburg University (C-OI)&lt;/li>
+
+ &lt;li>Prof Markku Sotarauta, School of Management, Tampere University, Finland&lt;/li>
+
+ &lt;li>Dr Laura James, University of Stockholm.&lt;/li>
+
+&lt;/ul>
+
+&lt;p>This project will enable the elaboration and expansion of this nascent interdisciplinary collaboration and will result in new research proposals that will inform innovation and skills policies to support sustainable economic recovery in the UK and other European countries. &lt;/p></gtr:abstractText><gtr:potentialImpactText>Who are the beneficiaries (in the UK and partnering countries)? 
+
+1. Supra-national users concerned with regional development and innovation/skills, such as the European Association of Regional Development Agencies (EURADA), OECD, ILO and European Training Foundation.
+2. National level policy makers including senior civil servants, policy analysts and professionals in the departments for Business, Innovation and Skills (BIS), Communities and Local Government (CLG), and other public agencies including the Technology Strategy Board, Skills Funding Agency, and UK Commission for Employment and Skills. In Demark these groups include the Danish Enterprise and Construction Agency, and Danish Ministry of of Economic and Business Affairs. 
+3. Regional and local policy makers including regional development agencies (in partnering countries), Local Economic Partnerships (LEPs) and local authorities. 
+4. Employer representative organisations including the Sector Skills Councils, the Confederation of British Industry (CBI), and the Federation of Small Businesses (FSB), and their equivalents in the partnering countries. 
+
+How will they benefit?
+
+1. Policy actors at all levels who are involved in economic development, innovation and skills will benefit from new interdisciplinary work that clarifies the processes by which learning and innovation takes place in multi-locational and cross-sectoral networks. The identification of the practices, tools, institutions and actors that support effective and innovative inter-firm learning will eventually contribute to the formulation of more effective policies to support innovation and economic growth in the UK and Europe.
+2. Employer representatives and private sector firms will benefit from a better understanding of the conditions and activities that facilitate innovation processes involving partners in different organisations/locations and professional/technical groups. The effective engagement of these users therefore has the potential to support wealth creation and economic growth, as well as contributing to the skills development of businesses in a variety of sectors. 
+
+In the UK we will draw on the existing profile of, and expertise within, the ESRC-funded LLAKES Centre to engage policymakers at all levels to achieve impact in terms of contribution to agenda setting and knowledge exchange during the initial period of funding, with a clear strategy of sustained engagment to make an impact on the formulation of policy in the medium to long term. The LLAKES Advisory Board gives access to representatives of the user groups identified above, and we will also use the Centre's well-established channels of communication and large stakeholder database to engage potential beneficiaries through public seminars and events that target a mixed group of users. We will also ensure the wide dissemination of research summaries and briefing papers through our extensive network of policymakers, public sector organisations and private sector representatives in relevant areas. The lead international collaborator will lead on engagment and dissemination in partnering countries, drawing on his extensive experience and taking advantage of existing partnership agreements and joint working with regional, national and European level policy-makers, practitioners and private sector firms. 
+
+A particularly important activity will be consultation and discussion with potential beneficiaries regarding the scope and objectives of the new research proposals that will result from the network. UK-based users from our main user groups will be invited to participate in the third workshop in order to ensure their input into the design of new projects and ensure that appropriate engagement strategies and user-friendly outputs are built in to our future work.</gtr:potentialImpactText><gtr:fund><gtr:end>2015-04-20</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/924BE15C-91F2-4AAD-941A-3F338324B6AE"><gtr:id>924BE15C-91F2-4AAD-941A-3F338324B6AE</gtr:id><gtr:name>ESRC</gtr:name></gtr:funder><gtr:start>2013-01-21</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>24869</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">ES/J019488/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>B57EEFB7-602E-4F5D-92E4-A0C265266249</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Demography &amp; human geography</gtr:text></gtr:researchSubject><gtr:researchSubject><gtr:id>64564C94-AC7F-4056-903D-0AED107A359E</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Education</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>64564C94-AC7F-4056-903D-0AED107A359E</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Education</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>3A4CB57C-9B22-41A2-AB15-127503299365</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Human Geography</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

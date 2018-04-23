@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/5CE962E9-AD4F-4EE1-AA7C-35132561BFE3"><gtr:id>5CE962E9-AD4F-4EE1-AA7C-35132561BFE3</gtr:id><gtr:name>Cde Global Limited</gtr:name><gtr:address><gtr:line1>Ballyreagh Industrial Estate,Sandholes Road</gtr:line1><gtr:city>Cookstown</gtr:city><gtr:postCode>BT80 9DG</gtr:postCode><gtr:region>Northern Ireland</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/5CE962E9-AD4F-4EE1-AA7C-35132561BFE3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>5CE962E9-AD4F-4EE1-AA7C-35132561BFE3</gtr:id><gtr:name>Cde Global Limited</gtr:name><gtr:address><gtr:line1>Ballyreagh Industrial Estate,Sandholes Road</gtr:line1><gtr:city>Cookstown</gtr:city><gtr:postCode>BT80 9DG</gtr:postCode><gtr:region>Northern Ireland</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>96066.0</gtr:offerGrant><gtr:projectCost>160111.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/4C77399B-28A7-4B87-A3CB-F4277F901384"><gtr:id>4C77399B-28A7-4B87-A3CB-F4277F901384</gtr:id><gtr:firstName>Kevin</gtr:firstName><gtr:surname>Vallelly</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710367"><gtr:id>47F74B2C-DB18-4DB2-9997-AFF496576133</gtr:id><gtr:title>Class CFCU</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710367</gtr:grantReference><gtr:abstractText>The application is presented by CDE Global; a leading developer and manufacturer of
+systems for the production and processing of sand, aggregates and building waste. The key
+USP for CDE is the application of aqueous washing processes for the production of value
+added materials for the construction and other associated industrial processes. The aim for
+CDE is the extension of knowledge, performance and system design for their aqueous
+processes to retain their industry leading ethos. The focus of this particular application is the
+extension in performance for a sand classification method called COUNTER FLOW
+CLASSIFICATION SYSTEM, explicitly CDE wish to extend the performance envelope of
+this classification process to ensure that finer sands (grain size of less than 0.5 mm diameter)
+can be produced while maintaining commercially viable system efficiency levels.
+To date CDE have employed an empirical methods for the development of our sand
+classification systems, we now wish to develop a more theoretical understanding of the
+process. This will enable us to develop higher performance and high (industrial capacity)
+systems.
+The commercial motivation for this application is the increasing demand for sands that have a
+tight size tolerance. This increased tolerance demand is driven by processes and markets that
+demand high specification sands, our target market is the production of sand processing
+machines for sand producers that will then exploit the sands in market such as glass sand,
+foundries, filtration, leisure sector and high performance sands for exploitation of oil and gas
+reserves (frac sands).
+This application will focus on the development of a 1/10 scale experimental test system sand
+classification system that is developed in parallel with an experimental programme and
+multiphase computational fluid dynamics module. Our aim is to develop a more far more
+fundamental knowledge for the design and expected performance to drive future product
+development.</gtr:abstractText><gtr:fund><gtr:end>2015-12-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2013-11-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>96066</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710367</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

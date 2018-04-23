@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/4BA52324-CA0F-4A3F-B1EA-C4DBC34BA78F"><gtr:id>4BA52324-CA0F-4A3F-B1EA-C4DBC34BA78F</gtr:id><gtr:name>Seeper Ltd</gtr:name><gtr:address><gtr:line1>29 Waterson Street</gtr:line1><gtr:postCode>E2 8HT</gtr:postCode><gtr:region>Unknown</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/4BA52324-CA0F-4A3F-B1EA-C4DBC34BA78F" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>4BA52324-CA0F-4A3F-B1EA-C4DBC34BA78F</gtr:id><gtr:name>Seeper Ltd</gtr:name><gtr:address><gtr:line1>29 Waterson Street</gtr:line1><gtr:postCode>E2 8HT</gtr:postCode><gtr:region>Unknown</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>100000.0</gtr:offerGrant><gtr:projectCost>191370.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/E97B9A3D-0206-4906-B6D8-0D78C0065113"><gtr:id>E97B9A3D-0206-4906-B6D8-0D78C0065113</gtr:id><gtr:firstName>Ed</gtr:firstName><gtr:surname>Daly</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710825"><gtr:id>74F1C7F7-5B7A-42E5-8D48-18CCDB051409</gtr:id><gtr:title>Seeper INNERLIGHT</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710825</gtr:grantReference><gtr:abstractText>Digital displays are ubiquitous in everyday applications including home entertainment, mobile
+devices, advertising displays &amp;amp; vehicle navigation systems. Their use is, however, almost
+entirely limited to flat, rectangular shapes.
+Current state of the art display technologies (LCD &amp;amp; LED) cannot be used on irregular shapes
+(e.g. shapes based on a Coca-Cola bottle, a plane, a human figure). As such, many potential
+commercial &amp;amp; creative applications in, for example advertising, theme parks and education
+are not currently achievable.
+3D projection mapping can be used to overcome this to some degree. 3D projection mapping
+is the technique of projecting video or computer-generated visual content onto irregular
+surfaces such as building facades. Seeper were leading pioneers of 3D projection mapping and
+have completed many high-profile projects for clients such as Google, the BBC, MTV,
+Microsoft, &amp;amp; Nike. We also develop enabling technology (seeserver.com) to enable other
+companies to undertake similar projects.
+3D projection mapping can be used to economically create extremely compelling experiences
+but it too has major drawbacks. It is very difficult to project content onto highly irregular or
+moving objects when light will often hit the target surface at angles which distorts content
+beyond acceptable levels. There must be a clear projection field (e.g. no people getting in
+between the projector and the surface onto which it is projecting) - so objects cannot move far
+from the fixed projector. Finally, projections are only visible when it is dark.
+This R&amp;amp;D project aims to investigate the technical feasibility and commercial potential for a
+proof of concept of a new technology that can overcome these challenges. This will require
+novel software capable of rendering video content on the fly combined with the use of
+miniaturised projection equipment and dynamically controlled optics to project onto internal
+surfaces from within semi-transparent objects.</gtr:abstractText><gtr:fund><gtr:end>2017-01-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2016-02-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>100000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710825</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

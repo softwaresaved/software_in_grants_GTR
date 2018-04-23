@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/E633C70F-FF27-45FB-9B28-BE23875194E1"><gtr:id>E633C70F-FF27-45FB-9B28-BE23875194E1</gtr:id><gtr:name>Axtan Limited</gtr:name><gtr:address><gtr:line1>WOODPECKERS HOUSE , 13 WOODLANDS CLOSE</gtr:line1><gtr:city>ASCOT</gtr:city><gtr:region>South East</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/E633C70F-FF27-45FB-9B28-BE23875194E1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>E633C70F-FF27-45FB-9B28-BE23875194E1</gtr:id><gtr:name>Axtan Limited</gtr:name><gtr:address><gtr:line1>WOODPECKERS HOUSE , 13 WOODLANDS CLOSE</gtr:line1><gtr:city>ASCOT</gtr:city><gtr:region>South East</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>24940.0</gtr:offerGrant><gtr:projectCost>41575.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/6BAA32D3-0592-4662-8707-B8FF49287B99"><gtr:id>6BAA32D3-0592-4662-8707-B8FF49287B99</gtr:id><gtr:firstName>Unknown</gtr:firstName><gtr:otherNames>Unknown</gtr:otherNames><gtr:surname>Unknown</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=700003"><gtr:id>3750F280-03A5-450B-84F9-8C29BDDADC58</gtr:id><gtr:title>SIP NTP - A ground breaking innovation in quality availability and security of Voice transmission using Internet Protocol over low cost public broadband networks to enable SMEs to realise fully the benefits of IP telephony at affordable costs</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Market</gtr:grantCategory><gtr:grantReference>700003</gtr:grantReference><gtr:abstractText>Axtan proposes to develop a low cost Network Termination Point (NTP) that will facilitate
+high quality and highly resilient transmission of voice over low cost public broadband
+networks using VoIP. This unit will accommodate two diversely provided broadband links
+(initially ADSL) and will communicate with central servers to detect any degradation in
+quality or availability of the primary link and switch call signalling to the alternative path in
+real time. Media will be continuously transmitted over both low cost links to provide a
+statistically significant increase in audio quality. The technology provides an integrated
+system which delivers the solution and provides a level of service quality,availability, and
+resilience previously unavailable to IP telephony users at a cost affordable to SMEs. Uniquely
+it will provide an enhanced level of security against attacks on an SMEs voice system, such as
+denial of service attacks, as an inherent feature. Costs of these services will be significantly
+lower to Telecommunications Service Providers than traditional services such as ISDN. This
+combined with the superiority of the offering will open up the use of new business efficiency
+applications to SMEs which will increase their competitiveness and lower operational costs.
+This new technology advance will also support new applications in the remote monitoring,
+access control and video monitoring sectors.
+In summary it will benefit SMEs by:
+Reducing the costs of strategic voice communications
+Enhancing its quality, reliability and security
+Enable/encourage the adoption of business efficiency using convergerged voice &amp;amp; data
+applications.
+Enable secure home/remote working
+It will benefit Telecommunications Service providers by:
+Allowing them to manage their networks to the end user premises
+Improved network quality, resilience and security
+Fewer end user complaints
+Lower costs of customer service
+Improved ability to market Service Standards
+New revenue opportunities</gtr:abstractText><gtr:fund><gtr:end>2012-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2011-09-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>24940</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">700003</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/6B536161-136B-4B5A-8150-AFC19AD40EEB"><gtr:id>6B536161-136B-4B5A-8150-AFC19AD40EEB</gtr:id><gtr:name>Smart Component Technologies Limited</gtr:name><gtr:address><gtr:line1>3m Buckley Innovation Centre
+Firth Street</gtr:line1><gtr:city>Huddersfield</gtr:city><gtr:postCode>HD1 3BD</gtr:postCode><gtr:region>Yorkshire and The Humber</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/6B536161-136B-4B5A-8150-AFC19AD40EEB" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>6B536161-136B-4B5A-8150-AFC19AD40EEB</gtr:id><gtr:name>Smart Component Technologies Limited</gtr:name><gtr:address><gtr:line1>3m Buckley Innovation Centre
+Firth Street</gtr:line1><gtr:city>Huddersfield</gtr:city><gtr:postCode>HD1 3BD</gtr:postCode><gtr:region>Yorkshire and The Humber</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>99632.0</gtr:offerGrant><gtr:projectCost>166054.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/02336C30-B142-44A5-AF35-58A34585F690"><gtr:id>02336C30-B142-44A5-AF35-58A34585F690</gtr:id><gtr:firstName>John</gtr:firstName><gtr:surname>Evans</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710809"><gtr:id>30DFD7A6-E21F-412F-A476-4766DA59DAE2</gtr:id><gtr:title>Smart Component Technologies: Smart Washer Augmentation</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710809</gtr:grantReference><gtr:abstractText>A switch moves trains between tracks; components include switch rails, stretcher bars (SBs)
+&amp;amp; a switch motor. SBs keep the rails a set distance apart &amp;amp; ensure both rails move together.
+Switch integrity is vital; on the UK?s busiest lines &amp;gt;100 trains will pass over a switch each
+day (Ref A). Switch failure is the 3rd biggest cause of UK derailments (Ref B). Missing/faulty
+bolts were the cause of both Potters Bar &amp;amp; Grayrigg incidents.
+In conjunction with Network Rail, Smart Component Technologies Ltd developed a ?Smart
+Washer? (SW) to measure the clamp-force of switch fasteners during real-time installation &amp;amp;
+routine maintenance. Trials at London Underground confirm the SW?s ability to detect
+loose/missing bolts by reporting changes in clamp-force. The SW is also capable of providing
+remote periodic data &amp;amp; alerts should the clamp-force deteriorate. It also safeguards against
+human error during manual inspection.
+During London Underground trials it was requested that capacity to measure the dynamics of
+moving components by the SW was added. Thus, SCT propose a &amp;pound;166,054 Proof of Concept
+project to evaluate the potential to extend the use of a dynamic SW to address a range of
+issues including the remote condition monitoring of the entire switch asset but also track bed
+stability including voids &amp;amp; track geometry/inclination. With the upgraded SW (?SW3?)
+attached to switch components, it will sample the dynamic response of the movement of the
+switch, in three dimensions, enabling a trace of ?normal? switch movement to be gained. Via
+the remote condition monitoring &amp;amp; cloud data storage facility, SW3 informs users of the
+integrity of the switch. As SW3 permits trend analysis, it improves predictive maintenance
+capability &amp;amp; safety of rail networks, leading to cost savings, &amp;amp; meeting Network Rail?s goal
+for innovation in cost-effective monitoring.
+As a platform technology, SW3 has use in other wider applications such as escalator
+maintenance, &amp;amp; on pipework valves.</gtr:abstractText><gtr:fund><gtr:end>2017-11-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2016-03-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>99632</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710809</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

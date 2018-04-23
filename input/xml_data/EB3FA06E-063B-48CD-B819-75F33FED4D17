@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/62362478-C85C-4CF9-98EA-18CCECC9B30E"><gtr:id>62362478-C85C-4CF9-98EA-18CCECC9B30E</gtr:id><gtr:name>Optrical Limited</gtr:name><gtr:address><gtr:line1>17, Kingsmill Road</gtr:line1><gtr:city>Basingstoke</gtr:city><gtr:postCode>RG21 3JJ</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/62362478-C85C-4CF9-98EA-18CCECC9B30E" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>62362478-C85C-4CF9-98EA-18CCECC9B30E</gtr:id><gtr:name>Optrical Limited</gtr:name><gtr:address><gtr:line1>17, Kingsmill Road</gtr:line1><gtr:city>Basingstoke</gtr:city><gtr:postCode>RG21 3JJ</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>58565.0</gtr:offerGrant><gtr:projectCost>83664.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/3B000DE8-BFB0-460D-9CA6-FD706FF1A8DB"><gtr:id>3B000DE8-BFB0-460D-9CA6-FD706FF1A8DB</gtr:id><gtr:firstName>Navin</gtr:firstName><gtr:surname>Suyal</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=132927"><gtr:id>EB3FA06E-063B-48CD-B819-75F33FED4D17</gtr:id><gtr:title>Creating efficient lighting using micro-optics</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Feasibility Studies</gtr:grantCategory><gtr:grantReference>132927</gtr:grantReference><gtr:abstractText>The 1st generation of LED lights consist of the functional replacement of traditional technologies with LEDs,
+
+with little emphasis on the efficiency or the aesthetics. Optrical Limited is challenging this status quo by
+
+developing custom, low-cost, micro-optic ?light management? solutions to tailor the illumination profile of LED
+
+panels and tube lights by placing light where it is needed, and enhancing the brightness of the luminaire by
+
+doing so. This approach can also be used to reduce the number of LEDs and the power consumption of the
+
+fixture for its life. A 25% improvement in brightness translates to not having to build 3 to 4 fewer power plants
+
+of 500 MW capacity in UK alone!
+
+Significant long term business opportunity for us would be in manufacturing and direct sales of such innovative
+
+products to OEMs, subcontract manufacturers and parts suppliers, potentially generating huge economic
+
+benefits.</gtr:abstractText><gtr:fund><gtr:end>2018-07-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2017-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>58565</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">132927</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

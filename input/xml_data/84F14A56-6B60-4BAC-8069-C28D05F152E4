@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/3063027C-2C5A-4D94-AEFE-747532CE864B"><gtr:id>3063027C-2C5A-4D94-AEFE-747532CE864B</gtr:id><gtr:name>Saccade Diagnostics Limited</gtr:name><gtr:address><gtr:line1>5TH FLOOR QUARTERMILE TWO 
+LISTER SQUARE</gtr:line1><gtr:city>EDINBURGH</gtr:city><gtr:postCode>EH3 9GL</gtr:postCode><gtr:region>Scotland</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/3063027C-2C5A-4D94-AEFE-747532CE864B" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>3063027C-2C5A-4D94-AEFE-747532CE864B</gtr:id><gtr:name>Saccade Diagnostics Limited</gtr:name><gtr:address><gtr:line1>5TH FLOOR QUARTERMILE TWO 
+LISTER SQUARE</gtr:line1><gtr:city>EDINBURGH</gtr:city><gtr:postCode>EH3 9GL</gtr:postCode><gtr:region>Scotland</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>21000.0</gtr:offerGrant><gtr:projectCost>30000.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/8B15551F-4862-43B3-B6CE-17CFDE348E68"><gtr:id>8B15551F-4862-43B3-B6CE-17CFDE348E68</gtr:id><gtr:firstName>Madhu</gtr:firstName><gtr:surname>Nair</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=132600"><gtr:id>84F14A56-6B60-4BAC-8069-C28D05F152E4</gtr:id><gtr:title>Global Cooperation Feasibility Studies</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Feasibility Studies</gtr:grantCategory><gtr:grantReference>132600</gtr:grantReference><gtr:abstractText>1 in 5 of us experience mental health problems during our lifetime but more than 50% of patients don?t receive
+
+adequate care when assessed using current methods - leading to risk of further deterioration in well-being,
+
+reduction in quality of life, loss of income, family breakdown, and self-harming. SaccScan is a novel point-of-
+
+care (PoC) software diagnostic system which has been demonstrated to detect schizophrenia with better than
+
+95% accuracy and has been extended with the same precision to bipolar disorder and major depression
+
+illnesses. The software diagnostic tool successfully utilises eye-movement abnormalities as clinical diagnostic
+
+biomarkers for serious mental illnesses. The test can be performed within 30 minutes and results produced
+
+over the internet at near real-time speed. The purpose of this study is to explore international partnerships for
+
+bringing a minimum viable version of the test to market and address the global challenge of improving
+
+treatment outcomes through personalising medicine in mental health care.</gtr:abstractText><gtr:fund><gtr:end>2017-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2016-12-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>21000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">132600</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

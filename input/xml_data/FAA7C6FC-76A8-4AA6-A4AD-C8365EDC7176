@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations><gtr:collaborator url="http://gtr.ukri.org:80/organisation/0D0EA843-EF66-481D-8BAF-3DA9F5B205BC"><gtr:id>0D0EA843-EF66-481D-8BAF-3DA9F5B205BC</gtr:id><gtr:name>UMIST / CROMTEC</gtr:name><gtr:address><gtr:line1>Manchester School of Management</gtr:line1><gtr:line2>PO Box 88</gtr:line2><gtr:postCode>M60 1QT</gtr:postCode><gtr:region>North West</gtr:region></gtr:address></gtr:collaborator></gtr:collaborations><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/4A348A76-B2D0-4DDD-804A-CE735A6D3798"><gtr:id>4A348A76-B2D0-4DDD-804A-CE735A6D3798</gtr:id><gtr:name>University of Bristol</gtr:name><gtr:department>Chemistry</gtr:department><gtr:address><gtr:line1>Senate House</gtr:line1><gtr:line4>Bristol</gtr:line4><gtr:line5>Avon</gtr:line5><gtr:postCode>BS8 1TH</gtr:postCode><gtr:region>South West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/4A348A76-B2D0-4DDD-804A-CE735A6D3798"><gtr:id>4A348A76-B2D0-4DDD-804A-CE735A6D3798</gtr:id><gtr:name>University of Bristol</gtr:name><gtr:address><gtr:line1>Senate House</gtr:line1><gtr:line4>Bristol</gtr:line4><gtr:line5>Avon</gtr:line5><gtr:postCode>BS8 1TH</gtr:postCode><gtr:region>South West</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role></gtr:roles></gtr:organisationRole><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/0D0EA843-EF66-481D-8BAF-3DA9F5B205BC"><gtr:id>0D0EA843-EF66-481D-8BAF-3DA9F5B205BC</gtr:id><gtr:name>UMIST / CROMTEC</gtr:name><gtr:address><gtr:line1>Manchester School of Management</gtr:line1><gtr:line2>PO Box 88</gtr:line2><gtr:postCode>M60 1QT</gtr:postCode><gtr:region>North West</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/0C4EB422-33C2-4D05-9ADD-ED03C1AFA1EC"><gtr:id>0C4EB422-33C2-4D05-9ADD-ED03C1AFA1EC</gtr:id><gtr:firstName>Anthony Guy</gtr:firstName><gtr:surname>Orpen</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=EP%2FI501142%2F1"><gtr:id>FAA7C6FC-76A8-4AA6-A4AD-C8365EDC7176</gtr:id><gtr:title>Pathways to Impact Award : University of Bristol</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>EP/I501142/1</gtr:grantReference><gtr:abstractText>Abstracts are not currently available in GtR for all funded research. This is normally because the abstract was not required at the time of proposal submission, but may be because it included sensitive information such as personal details.</gtr:abstractText><gtr:fund><gtr:end>2011-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/798CB33D-C79E-4578-83F2-72606407192C"><gtr:id>798CB33D-C79E-4578-83F2-72606407192C</gtr:id><gtr:name>EPSRC</gtr:name></gtr:funder><gtr:start>2010-08-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>132279</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs><gtr:collaborationOutput><gtr:collaboratingOrganisation>UMIST / CROMTEC</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>UMS</gtr:description><gtr:id>93A1CAB6-67AA-42B3-AF51-B6BC76ADC817</gtr:id><gtr:impact>From an Impact Study submitted as part of REF 2014, on channel temperature measurements the
+tool developed enables, the company UMS stated &amp;quot;As a result of these channel temperature 
+measurements we were able to freeze and qualify our GaN technology, in addition support the further 
+development of our current commercial GaAs products, also providing customers with device 
+implementation critical technology information&amp;quot;, ie UMS was able to implement defined new 
+production processes ('freeze') that are now used for providing commercial GaN devices and circuits, 
+which meet the needed reliability criteria, and to support customer needs.</gtr:impact><gtr:outcomeId>56962cd9053b16.62820982-1</gtr:outcomeId><gtr:partnerContribution>From an Impact Study submitted as part of REF 2014, on channel temperature measurements the
+tool developed enables, the company UMS stated &amp;quot;As a result of these channel temperature 
+measurements we were able to freeze and qualify our GaN technology, in addition support the further 
+development of our current commercial GaAs products, also providing customers with device 
+implementation critical technology information&amp;quot;, ie UMS was able to implement defined new 
+production processes ('freeze') that are now used for providing commercial GaN devices and circuits, 
+which meet the needed reliability criteria, and to support customer needs.</gtr:partnerContribution><gtr:piContribution>From an Impact Study submitted as part of REF 2014, on channel temperature measurements the
+tool developed enables, the company UMS stated &amp;quot;As a result of these channel temperature 
+measurements we were able to freeze and qualify our GaN technology, in addition support the further 
+development of our current commercial GaAs products, also providing customers with device 
+implementation critical technology information&amp;quot;, ie UMS was able to implement defined new 
+production processes ('freeze') that are now used for providing commercial GaN devices and circuits, 
+which meet the needed reliability criteria, and to support customer needs.</gtr:piContribution><gtr:sector>Academic/University</gtr:sector><gtr:start>2011-01-01</gtr:start></gtr:collaborationOutput></gtr:collaborationOutputs><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs><gtr:furtherFundingOutput><gtr:amountPounds>210000</gtr:amountPounds><gtr:country>United States of America</gtr:country><gtr:currCode>USD</gtr:currCode><gtr:currCountryCode>Ecuador</gtr:currCountryCode><gtr:currLang>es_EC</gtr:currLang><gtr:description>US Defense Advanced Project Research Agency (DARPA)</gtr:description><gtr:end>2016-11-02</gtr:end><gtr:fundingOrg>Defense Advanced Research Projects Agency (DARPA)</gtr:fundingOrg><gtr:id>E61D8FD6-6FE8-4D54-B1F1-732A05427F39</gtr:id><gtr:outcomeId>56962d7a905e79.47112258</gtr:outcomeId><gtr:sector>Public</gtr:sector><gtr:start>2015-12-01</gtr:start></gtr:furtherFundingOutput><gtr:furtherFundingOutput><gtr:amountPounds>429592</gtr:amountPounds><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:currCode>GBP</gtr:currCode><gtr:currCountryCode>United Kingdom</gtr:currCountryCode><gtr:currLang>en_GB</gtr:currLang><gtr:description>standard grant</gtr:description><gtr:end>2014-09-02</gtr:end><gtr:fundingOrg>Engineering and Physical Sciences Research Council (EPSRC)</gtr:fundingOrg><gtr:fundingRef>EP/I035501/1</gtr:fundingRef><gtr:id>DFAA5A2B-A57B-4CAF-BA3C-D5839D155708</gtr:id><gtr:outcomeId>56962b581d7a08.69144543</gtr:outcomeId><gtr:sector>Academic/University</gtr:sector><gtr:start>2011-10-01</gtr:start></gtr:furtherFundingOutput><gtr:furtherFundingOutput><gtr:amountPounds>320000</gtr:amountPounds><gtr:country>European Union (EU)</gtr:country><gtr:currCode>EUR</gtr:currCode><gtr:currCountryCode>Austria</gtr:currCountryCode><gtr:currLang>de_AT</gtr:currLang><gtr:description>ENIAC Joint Undertaking</gtr:description><gtr:end>2016-09-02</gtr:end><gtr:fundingOrg>ENIAC</gtr:fundingOrg><gtr:id>447AEFFD-3E2F-42F4-8F2C-8DCFB85B1400</gtr:id><gtr:outcomeId>56963f4d9d8ba7.22349898</gtr:outcomeId><gtr:sector>Public</gtr:sector><gtr:start>2013-10-01</gtr:start></gtr:furtherFundingOutput><gtr:furtherFundingOutput><gtr:amountPounds>420000</gtr:amountPounds><gtr:country>United States of America</gtr:country><gtr:currCode>USD</gtr:currCode><gtr:currCountryCode>Ecuador</gtr:currCountryCode><gtr:currLang>es_EC</gtr:currLang><gtr:description>Continuing Grant</gtr:description><gtr:end>2014-08-02</gtr:end><gtr:fundingOrg>National Science Foundation (NSF)</gtr:fundingOrg><gtr:fundingRef>#1108450</gtr:fundingRef><gtr:id>A8C2E0CF-3261-4EDB-BA99-4ED7F3553598</gtr:id><gtr:outcomeId>56962b09d901c8.05628345</gtr:outcomeId><gtr:sector>Public</gtr:sector><gtr:start>2011-09-01</gtr:start></gtr:furtherFundingOutput><gtr:furtherFundingOutput><gtr:amountPounds>75000</gtr:amountPounds><gtr:country>France, French Republic</gtr:country><gtr:currCode>EUR</gtr:currCode><gtr:currCountryCode>Austria</gtr:currCountryCode><gtr:currLang>de_AT</gtr:currLang><gtr:description>France DGA &amp;amp; UK MoD</gtr:description><gtr:end>2015-06-02</gtr:end><gtr:fundingOrg>General Directorate for Armament (Direction g?n?rale de l?armement)</gtr:fundingOrg><gtr:id>541E7EB7-C1D7-41BB-907D-AFD9907A6AB2</gtr:id><gtr:outcomeId>56962e0e1f12a4.48382287</gtr:outcomeId><gtr:sector>Public</gtr:sector><gtr:start>2014-01-01</gtr:start></gtr:furtherFundingOutput><gtr:furtherFundingOutput><gtr:amountPounds>100000</gtr:amountPounds><gtr:country>United States of America</gtr:country><gtr:currCode>USD</gtr:currCode><gtr:currCountryCode>Ecuador</gtr:currCountryCode><gtr:currLang>es_EC</gtr:currLang><gtr:description>US Office of Naval Research Global</gtr:description><gtr:end>2014-06-02</gtr:end><gtr:fundingOrg>US Office of Naval Research Global</gtr:fundingOrg><gtr:id>2DEA1757-7AE6-486D-B1AD-3D7F272C3B50</gtr:id><gtr:outcomeId>56963f8899a900.40706282</gtr:outcomeId><gtr:sector>Public</gtr:sector><gtr:start>2013-07-01</gtr:start></gtr:furtherFundingOutput><gtr:furtherFundingOutput><gtr:amountPounds>393218</gtr:amountPounds><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:currCode>GBP</gtr:currCode><gtr:currCountryCode>United Kingdom</gtr:currCountryCode><gtr:currLang>en_GB</gtr:currLang><gtr:description>standard grant</gtr:description><gtr:end>2016-07-02</gtr:end><gtr:fundingOrg>Engineering and Physical Sciences Research Council (EPSRC)</gtr:fundingOrg><gtr:fundingRef>EP/K024345/1</gtr:fundingRef><gtr:id>E8DC819F-8097-45F4-A97E-E2D3DB573A24</gtr:id><gtr:outcomeId>56964000c47899.74495923</gtr:outcomeId><gtr:sector>Academic/University</gtr:sector><gtr:start>2013-07-01</gtr:start></gtr:furtherFundingOutput></gtr:furtherFundingOutputs><gtr:impactSummaryOutputs><gtr:impactSummaryOutput><gtr:description>Summary of the projects funded and their immediate outcomes for academic and external partners.
+
+1) Development of automated control and analysis tool for DC and time-resolved Raman Thermography, Martin Kuball, Physics, 
+
+The software tool can be licensed and distributed with Renishaw Raman system by Renishaw plc, or separately licensed. Furthermore Raman Thermography can be performed on commercial devices at the University of Bristol as a service to industry, improving turn-
+
+around time for industrial collaborations.
+
+
+
+2) Industrial Development of the Dynamic Substructuring Method and the Adaptive MCS Controller, David Stoten, Mechanical Engineering, 
+
+The MCS algorithm was developed to continuously adapt to environmental changes over extensive run-times, and was tested with Instron Ltd and Hitachi Plant Technologies. New collaborative projects are underway with the Takenaka and DPRI corporations, and with a number of Japanese universities.
+
+
+
+3) NMR-Derived 3D-Molecular Structure Elucidation Software - Secondment of a High Level Programmer from MestreLabs to the University of Bristol, Craig Butts, Chemistry, 
+
+The award supported the secondment of a high-level software programmer (Santiago Ponte) to Bristol from MestreLabs SL (a Spanish scientific software company) in order to expedite the generation of a commercial software package. The initial module was improved and demonstrated at an international conference. 
+
+
+
+4) An integrated quantum communication prototype, Jeremy O'Brien, Physics, 
+
+A prototype was built and tested based and a patent has been filed with Nokia. The team successfully applied for an ERC Proof of Concept award to develop the prototype further
+
+
+
+5) Assessment of visual performance: the development of a commercial arm of the Bristol Vision Institute, Tom Troscianko, Experimental Psychology, 
+
+Meetings were held with three potential commercial partners which demonstrated significant interest in measuring the visibility of signs and signals. Subsequently the camera calibration and software analysis procedures were improved and simplified.
+
+
+
+6) Solar cells based on InGaN nanorods, David Cherns, Physics, 
+
+The properties of these nanorods were shown to be suitable for further investigation and development as a solar cell material. This successful proof of principle opens the way to further research funded by grants and industry. An NSF/EPSRC grant has been secured with Nottingham University, Arizona State University and the National Renewable Energy Laboratory (USA): EP/I035501/1. A patent application has been filed, GB1020843.7.
+
+Beneficiaries: Various industrial companies
+
+Contribution Method: See Key Findings section</gtr:description><gtr:id>12676EC6-BF93-4338-AC91-B113009A1C92</gtr:id><gtr:impactTypes><gtr:impactType>Cultural</gtr:impactType></gtr:impactTypes><gtr:outcomeId>m-1582007307.1699657de25fdde</gtr:outcomeId><gtr:sector>Aerospace/ Defence and Marine,Construction,Digital/Communication/Information Technologies (including Software),Electronics,Energy,Manufacturing/ including Industrial Biotechology,Transport</gtr:sector></gtr:impactSummaryOutput></gtr:impactSummaryOutputs><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>The University of Bristol allocated this grant to impact-generating projects through a competitive process. Applicants could bid for Pathfinder Awards of ~&amp;pound;10,000 or Project Awards of &amp;pound;20,000 - 40,000 where the next significant actions were clear. A standard application form was supplied to applicants. An internal review panel made 6 awards, using an additional &amp;pound;21,566 from the University's own funds. The six projects are listed below
+
+
+
+1) Development of automated control and analysis tool for DC and time-resolved Raman Thermography, Martin Kuball, Physics, Project Award
+
+The funding produced an automated instrument control and data analysis software package &amp;quot;Micro-Raman Device Thermography Tool&amp;quot; which opens the opportunity for non-highly trained operators to perform the Raman Thermography measurements on commercial industrial devices, in industry research and development laboratories, and process monitoring.
+
+
+
+2) Industrial Development of the Dynamic Substructuring Method and the Adaptive MCS Controller, David Stoten, Mechanical Engineering, Project Award
+
+The MCS algorithm was developed to continuously adapt to environmental changes over extensive run-times, and was tested with Instron Ltd. Further testing took place in Japan with Hitachi Plant Technologies and three Japanese universities.
+
+
+
+3) NMR-Derived 3D-Molecular Structure Elucidation Software - Secondment of a High Level Programmer from MestreLabs to the University of Bristol, Craig Butts, Chemistry, Project Award
+
+The award supported the secondment of a high-level software programmer (Santiago Ponte) to Bristol from MestreLabs SL (a Spanish scientific software company) in order to expedite the generation of a commercial software package. The initial module was improved and demonstrated at an international conference. The Bristol PI and CoI also visited MestreLabs and identified a new field of shared interest which will be developed through other funding. 
+
+
+
+4) An integrated quantum communication prototype, Jeremy O'Brien, Physics, Project Award
+
+A prototype was built and tested based upon the applicant and co-workers' development of integrated quantum photonics and new photonic measurement schemes at the Centre for Quantum Photonics.
+
+
+
+5) Assessment of visual performance: the development of a commercial arm of the Bristol Vision Institute, Tom Troscianko, Experimental Psychology, Pathfinder Award
+
+Initial meetings were held with three potential commercial partners which demonstrated significant interest in measuring the visibility of signs and signals. Subsequently the camera calibration and software analysis procedures were improved and simplified, and the system demonstrated again.
+
+
+
+6) Solar cells based on InGaN nanorods, David Cherns, Physics, Pathfinder Award
+
+The electrical properties and cathodoluminescence of these nanorods was shown to be suitable for further investigation and development as a solar cell material.</gtr:description><gtr:exploitationPathways>1) The information on operating temperatures available through this technique is essential for accelerated lifetime testing of electronic and opto_electronic components, where lifetimes of many years of are often required and need to be demonstrated / certified, in particular for use in safety critical and security applications (space, aeronautics, military).
+
+
+
+2) The dynamic substructuring method allows the dynamic responses of large, complex systems (eg. civil engineering structures, automotive systems, aerospace systems, railway systems and utilities) to be investigated in the laboratory by having their key components tested in physical form, with all other components simulated numerically. This PIA project adapted the laboratory set-up and MCS controller software to show its direct relevance to dynamic systems important for Hitachi and Instron.
+
+
+
+3) The new structure elucidation algorithms enhance the information that scientists can obtain from NMR experiments. MestreLabs provide software to this international and largely academic market. New software capabilities directly increase their sales and customer loyalty.
+
+
+
+4) The prototype paves the way for integrated quantum devices for advanced computation and secure communication
+
+
+
+5) Assessment of visual performance: the development of a commercial arm of the Bristol Vision Institute, Tom Troscianko, Experimental Psychology,
+
+
+
+6) These materials have potential for use in high efficiency multi-junction solar cells where the nanostructured forms of InGaN avoid problems of lattice mismatch and material quality. 1)The software tool can be licensed and distributed with Renishaw Raman system by Renishaw plc, or separately licensed. Furthermore Raman Thermography can be performed on commercial devices at the University of Bristol as a service to industry, improving turn-
+
+around time for industrial collaborations.
+
+
+
+2) Further testing of the MCS code with Hitachi and Instron Ltd through additional secondment and exchange of staff. Since the PIA award further collaborative projects are underway with the Takenaka and DPRI corporations, and with a number of Japanese universities.
+
+
+
+3) The original research which led to licensable technology was not targeting such an outcome. The technology developed for licensing was a fortuitous outcome of the original research. This funding enabled a significant period of collaborative work with industry, through an inward international secondment, enabling MestreLabs to take the technology to market.
+
+
+
+4) A patent has been filed with Nokia and the team successfully applied for an ERC Proof of Concept award to develop the prototype further: http://ec.europa.eu/unitedkingdom/press/press_releases/2011/pr1181_en.htm
+
+
+
+5) Demonstration of the enhanced set-up and software to potential commercial partners.
+
+
+
+6) This successful proof of principle opens the way to further research funded by grants and industry. A three year EPSRC grant has been secured with Nottingham University, Arizona State University and the National Renewable Energy Laboratory (USA): EP/I035501/1.
+
+A patent application has been filed, GB1020843.7</gtr:exploitationPathways><gtr:id>B2355C3D-0863-4106-834C-8E5C60CFAFB4</gtr:id><gtr:outcomeId>r-2912895989.52317377464b70</gtr:outcomeId><gtr:sectors><gtr:sector>Chemicals,Construction,Digital/Communication/Information Technologies (including Software),Electronics,Energy,Transport</gtr:sector></gtr:sectors></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">EP/I501142/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

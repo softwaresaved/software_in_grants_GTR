@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/EDCE9FAE-2C66-4FAF-AB37-17E288DEFCBD"><gtr:id>EDCE9FAE-2C66-4FAF-AB37-17E288DEFCBD</gtr:id><gtr:name>Sustainable Marine Energy Limited</gtr:name><gtr:address><gtr:line1>50 Fishers Lane
+Orwell</gtr:line1><gtr:city>Royston</gtr:city><gtr:postCode>SG8 5QX</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/EDCE9FAE-2C66-4FAF-AB37-17E288DEFCBD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>EDCE9FAE-2C66-4FAF-AB37-17E288DEFCBD</gtr:id><gtr:name>Sustainable Marine Energy Limited</gtr:name><gtr:address><gtr:line1>50 Fishers Lane
+Orwell</gtr:line1><gtr:city>Royston</gtr:city><gtr:postCode>SG8 5QX</gtr:postCode><gtr:region>South East</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>155926.0</gtr:offerGrant><gtr:projectCost>222751.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/76BD5768-4CA8-42F8-86D7-9DC8157BB2A6"><gtr:id>76BD5768-4CA8-42F8-86D7-9DC8157BB2A6</gtr:id><gtr:firstName>John</gtr:firstName><gtr:surname>McGlynn</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=132475"><gtr:id>B685642A-A471-43F5-805F-DD7EDE6AA3E9</gtr:id><gtr:title>PLAT-I Feasibility &amp;amp; Validation - Floating Inshore Tidal &amp;amp; River Energy Platform</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Feasibility Studies</gtr:grantCategory><gtr:grantReference>132475</gtr:grantReference><gtr:abstractText>Sustainable Marine Energy Limited (SME) is seeking funding from the Innovate UK Energy Catalyst - Early Stage
+
+- to carry out detailed design and test tank validation of a novel floating platform for the capture of renewable
+
+energy from tidal and river currents. The primary project output will be a complete validated design of the
+
+PLAT-I (I:Inshore) platform ready for first full scale production. The first units will be demonstrated in 2 pilot
+
+deployments in late 2017 - one in Orkney and another in Singapore - with plans for subsequent array
+
+expansion. The PLAT-I platform will be integrated with other innovative system elements - mooring system,
+
+rock-bolt subsea anchoring and next generation in-stream turbine from Schottel Hydro - to form a complete
+
+commercial product offering. The PLAT-I system exhibits the potential for a transformative impact in UK and
+
+internationally as it will be specifically designed for deployment in less energetic, lower flow deployment
+
+locations that have hereto not been considered to be viable in terms of strength of onsite tidal or river flow
+
+resource.</gtr:abstractText><gtr:fund><gtr:end>2017-08-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2016-12-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>155926</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">132475</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

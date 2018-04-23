@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/F41DD58B-4442-4291-A55E-C2FA27A4903D"><gtr:id>F41DD58B-4442-4291-A55E-C2FA27A4903D</gtr:id><gtr:name>Cambridge Intellectual Property Limited</gtr:name><gtr:address><gtr:line1>SUITE 7, UNIT16A OAKHAM ENTERPRISE PARK , ASHWELL ROAD</gtr:line1><gtr:city>OAKHAM</gtr:city><gtr:postCode>LE15 7TU</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/F41DD58B-4442-4291-A55E-C2FA27A4903D" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>F41DD58B-4442-4291-A55E-C2FA27A4903D</gtr:id><gtr:name>Cambridge Intellectual Property Limited</gtr:name><gtr:address><gtr:line1>SUITE 7, UNIT16A OAKHAM ENTERPRISE PARK , ASHWELL ROAD</gtr:line1><gtr:city>OAKHAM</gtr:city><gtr:postCode>LE15 7TU</gtr:postCode><gtr:region>East Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>99000.0</gtr:offerGrant><gtr:projectCost>169877.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/2B0DF731-725A-45B7-AFD0-A6EE1931B25D"><gtr:id>2B0DF731-725A-45B7-AFD0-A6EE1931B25D</gtr:id><gtr:firstName>ILIAN</gtr:firstName><gtr:surname>ILIEV</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710020"><gtr:id>556D3168-6D26-43A2-8EC5-1093897F7018</gtr:id><gtr:title>CambridgeIP - Collaborative Patent Landscaping and Technology Intelligence Platform</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710020</gtr:grantReference><gtr:abstractText>Global corporations? innovation strategies and business models increasingly focus on Open
+Innovation, cross-licensing, collaborations and technology standards. SMEs and business
+incubators/accelerators increasingly expect more from ?traditional? services like patent
+searching and IP due diligence, in terms of how these are accessed, priced and integrated with
+the broader business needs of companies. Yet the way technology intelligence is accessed is
+inherited from a different era in technology and IP management. Currently, such information
+is accessed through commissioned studies to in-house or external patent search and market
+research companies. As a result critical business intelligence is provided haphazardly,
+frequently incomplete and delivered as a data dump. Sophisticated patent landscaping is
+available only to the premium end of the market. Even where such patent landscaping is
+performed, the analytical outputs are not diffused to all stakeholders and ?sit on a shelf. The
+development of such patent landscape involves only a small part of the relevant stakeholders,
+and consequently large parts of the knowledge of an organisation or community are not
+accessed. As a result significant duplication exists in the system, learning economies within
+and between organisations and networks are missed, and innovation and technology diffusion
+is slowed down. Whole sections of industry participants in developed and emerging markets
+cannot access sophisticated patent and technology intelligence, and whole areas of non-patent
+data are not accessed due to resource constraints. This leaves corporate players and SMEs
+alike exposed to novelty invalidation claims, while opportunities for collaboration and
+technology transfer are missed. The increased availability of electronic patent and non-patent
+data in a wider number of languages, and rising importance of patenting locations such as
+China, Russia and Brazil also sees an increased complexity of information and unmet needs
+that cannot be resolved under current business practices.
+Other industries such as brand monitoring, social networking, homeland security and
+intelligence, and software developer platforms have been able to leverage novel ?social
+production? and network engagement tools effectively, and consequently these industries have
+experienced a transformation. We propose to combine our existing position and knowledge of
+the technology intelligence industry, key client relationships, and existing technology
+platforms (RedEyeTM and Boliven.com) to leverage innovations in other industries around
+online social engagement and production to develop a transformative offering for the
+technology intelligence industry.</gtr:abstractText><gtr:fund><gtr:end>2013-03-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2011-10-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>99000</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710020</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

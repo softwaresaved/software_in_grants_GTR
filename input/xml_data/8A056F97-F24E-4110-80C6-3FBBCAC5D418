@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/A296E058-F87D-4ADB-BAAC-6AF906016974"><gtr:id>A296E058-F87D-4ADB-BAAC-6AF906016974</gtr:id><gtr:name>Automata Technologies Limited</gtr:name><gtr:address><gtr:line1>9TH FLOOR , 107 CHEAPSIDE</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>EC2V 6DN</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/A296E058-F87D-4ADB-BAAC-6AF906016974" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>A296E058-F87D-4ADB-BAAC-6AF906016974</gtr:id><gtr:name>Automata Technologies Limited</gtr:name><gtr:address><gtr:line1>9TH FLOOR , 107 CHEAPSIDE</gtr:line1><gtr:city>LONDON</gtr:city><gtr:postCode>EC2V 6DN</gtr:postCode><gtr:region>London</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>240402.0</gtr:offerGrant><gtr:projectCost>534228.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/28A00CB2-A0E0-45BA-9559-9E6B32BB475C"><gtr:id>28A00CB2-A0E0-45BA-9559-9E6B32BB475C</gtr:id><gtr:firstName>Suryansh</gtr:firstName><gtr:surname>Chandra</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=720797"><gtr:id>8A056F97-F24E-4110-80C6-3FBBCAC5D418</gtr:id><gtr:title>Eva ? Development of the first low cost, light weight, plug and play tabletop robotic arm</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Development of Prototype</gtr:grantCategory><gtr:grantReference>720797</gtr:grantReference><gtr:abstractText>It has been four decades since industrial robots first began to transform assembly lines in
+Europe, Japan, and the U.S. Yet despite the advent of automation and advances in robotic,
+90% of all manufacturing task that could be automated are still done manually (BCG; 2015 -
+The Robotics Revolution)
+The reasons for this are simple: economics and capabilities. Even today it is still less
+expensive to use manual labour than it is to own, operate, and maintain a robotics system,
+given the tasks that robots can perform. This leads to lower productivity, lower efficiency and
+lower wages.
+We will address this with the development of Eva - a lightweight, low cost, collaborative
+robotic arm and innovative ?teach-by-example? programming software. Made of high- strength
+plastic and controlled by an easy to use app, Eva will be 400% lighter (3.5kg) than other small
+robotic arms and 500% cheaper, making is possible to automate lower value manufacturing
+and lab tasks not currently possible. Our ?teach by example? software will make tasking,
+training and redeployment, simple and done in under 3 hours with no training required.
+We have proved the concept in the lab with a 3D printed arm however significant design and
+development work is required to create a pre-production prototype capable of prolonged
+industrial use. This includes improving the robustness of the polymer skeleton and mechanics,
+designing a new onboard electronics control system, improving the software, developing new
+arm attachments and extensive technical validation of the prototype made through soft-tooling
+prior to mass-production.
+All current robotic arm solution are metallic, expensive, and heavy and designed for precision
+industrial use not required for several tasks. As a light weight, low cost solution, Eva has the
+potential to revolutionise the robotics industry - enabling the automation of menial, labour
+intensive, low costs tasks ? potentially saving &amp;pound;16,653pa in human labour costs per
+installation.</gtr:abstractText><gtr:fund><gtr:end>2017-09-30</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2016-04-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>240402</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">720797</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

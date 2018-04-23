@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/2B1C15E9-E2C5-43DF-A887-DE12C899C564"><gtr:id>2B1C15E9-E2C5-43DF-A887-DE12C899C564</gtr:id><gtr:name>Fusion Innovations Limited</gtr:name><gtr:address><gtr:line1>BIZZINN BIRMINGHAM RESEARCH PARK , VINCENT DRIVE</gtr:line1><gtr:city>BIRMINGHAM</gtr:city><gtr:postCode>B15 2SQ</gtr:postCode><gtr:region>West Midlands</gtr:region></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/2B1C15E9-E2C5-43DF-A887-DE12C899C564" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>2B1C15E9-E2C5-43DF-A887-DE12C899C564</gtr:id><gtr:name>Fusion Innovations Limited</gtr:name><gtr:address><gtr:line1>BIZZINN BIRMINGHAM RESEARCH PARK , VINCENT DRIVE</gtr:line1><gtr:city>BIRMINGHAM</gtr:city><gtr:postCode>B15 2SQ</gtr:postCode><gtr:region>West Midlands</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>88889.0</gtr:offerGrant><gtr:projectCost>148148.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/049916E7-71B7-4F17-A8AA-5CF062DC6F31"><gtr:id>049916E7-71B7-4F17-A8AA-5CF062DC6F31</gtr:id><gtr:firstName>Zoe</gtr:firstName><gtr:surname>Hall</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=710290"><gtr:id>8303A780-6651-4753-97FC-52C163D09AC1</gtr:id><gtr:title>TOGEN - A Rolling Motion Energy Capture Device for Tyre Pressure Maintenance presented by FUSION INNOVATIONS LTD</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>GRD Proof of Concept</gtr:grantCategory><gtr:grantReference>710290</gtr:grantReference><gtr:abstractText>The project is an opportunity to complete a proof of concept on a highly innovative patent
+pending TOGEN tyre pressure monitoring and maintenance device. The device is unique in
+that it has found a way of harvesting the large amounts of energy (up to 100G) that can be
+produced in rolling motion and turns it into air flow and electricity. TOGEN is a spin off
+product from our highly successful ECORR TSB IDP6 feasibility study for disruptive
+technologies in low carbon vehicles with the University of Birmingham.
+TOGEN is a mechanically simple yet electronically complex device that sits within the tyre
+and is connected to the valve like todays TPMS products.
+The TPMS market we are expecting TOGEN to have a major competitive advantage over is
+being driven by legislative change that should see TPMS systems be fitted on every road tyre
+in the world by 2020. Legislation is already forcing automotive OEM?s to fit TPMS on new
+models throughout Europe and the USA. This is expected to then be applicable to all new
+vehicles by 2014. The Global tyre market is also expected to reach 1.72bn units by 2015.
+Following the same successful formula of our ECORR feasibility project this projects
+objective over 12 months are to:
+? Produce 10 work packages working concurrently to produce a risk averse development
+strategy.
+? Work with the University of Birmingham and Potenza Technology for simulation, control
+and physical testing to build a technical proof of concept.
+? Develop the algorithms required to control the harvesting.
+? Prove a cost effective and manufacturing solution is possible.
+? Prove the design can operate effectively without having an impact on vehicle NVH.
+? Prove the product can be reliable when operating in its hostile environment.
+? Develop a strategy and plan for development up to licensing.
+? Take the POC results and develop a partnership with UK OEM and TPMS manufacturers.
+? Take the business case forward and bring in external investors.</gtr:abstractText><gtr:fund><gtr:end>2014-05-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2013-03-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>88889</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">710290</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

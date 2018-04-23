@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations><gtr:collaborator url="http://gtr.ukri.org:80/organisation/DDD14154-81FB-417E-81AA-AAEA066ECA04"><gtr:id>DDD14154-81FB-417E-81AA-AAEA066ECA04</gtr:id><gtr:name>The Wellcome Trust  Sanger Institute</gtr:name><gtr:address><gtr:line1>Wellcome Trust Genome Campus</gtr:line1><gtr:line2>Hinxton</gtr:line2><gtr:postCode>CB10 1SA</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address></gtr:collaborator></gtr:collaborations><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/DDD14154-81FB-417E-81AA-AAEA066ECA04"><gtr:id>DDD14154-81FB-417E-81AA-AAEA066ECA04</gtr:id><gtr:name>The Wellcome Trust  Sanger Institute</gtr:name><gtr:department>Informatics</gtr:department><gtr:address><gtr:line1>Wellcome Trust Genome Campus</gtr:line1><gtr:line2>Hinxton</gtr:line2><gtr:postCode>CB10 1SA</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:typeInd>RO</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/DDD14154-81FB-417E-81AA-AAEA066ECA04"><gtr:id>DDD14154-81FB-417E-81AA-AAEA066ECA04</gtr:id><gtr:name>The Wellcome Trust  Sanger Institute</gtr:name><gtr:address><gtr:line1>Wellcome Trust Genome Campus</gtr:line1><gtr:line2>Hinxton</gtr:line2><gtr:postCode>CB10 1SA</gtr:postCode><gtr:region>East of England</gtr:region></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_RO</gtr:name></gtr:role><gtr:role><gtr:name>COLLABORATOR</gtr:name></gtr:role></gtr:roles></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/A170197A-7ED0-4824-8F20-ABA7105D6D80"><gtr:id>A170197A-7ED0-4824-8F20-ABA7105D6D80</gtr:id><gtr:firstName>Tim</gtr:firstName><gtr:surname>Hubbard</gtr:surname><gtr:roles><gtr:role><gtr:name>PRINCIPAL_INVESTIGATOR</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=BB%2FK015427%2F1"><gtr:id>AF8CB11D-C646-4A7C-B641-B124DA52DB86</gtr:id><gtr:title>A lightweight genome browser for data integration, exploration and interactive figures</gtr:title><gtr:status>Closed</gtr:status><gtr:grantCategory>Research Grant</gtr:grantCategory><gtr:grantReference>BB/K015427/1</gtr:grantReference><gtr:abstractText>Genome browsers are important tools for visualising, interpreting, and
+understanding the wealth of information now available about genome
+structure, its functions, and the variations that occur between
+individuals. In research environments, they are frequently used for
+visually checking the quality of new data, looking for patterns and
+correlations, and inspecting the results of analysis tools. Browsers
+are also important for education, and -- especially with the arrival of
+direct-to-consumer genetic testing -- may also be of interest to the
+general public.
+
+Historically, the most commonly-used genome browsers have been relatively
+static web applications, displaying a portion of the genome as a single
+image which must be reloaded to move or zoom the view, leaving major
+barriers to interactivity. The alternative is heavy-client desktop
+software which is more interactive but requires installation. Dalliance
+takes advantage of newer features of web browsers to build a fully
+interactive genome browsing tool as a web application.
+
+Because Dalliance does all the data integration and drawing work in code
+that runs within the end users' web browsers, it is relatively
+straightforward to add an instance to a new web page without any
+server-side work. The Dalliance instance can potentially be just one of
+many elements on a complex web page. This leads to the possibility of
+creating many kinds of applications which combine spatial views of
+genomic data with other information. We are already seeing a number of
+cases where academic and industrial researchers have used Dalliance as a
+browser component of their website, including the interpretation of DTC
+genetic tests (see letters of support). You can even think of Dalliance
+as allowing the creation of interactive figures, which can accompany
+database records, analysis results, or publications.
+
+We propose a program of further development work, rewriting the main
+rendering code to improve performance, and splitting the user interface
+into components. This means embedders have the flexibility to offer
+either a simplified interface (e.g. more appropriate to an interactive
+figure), a fully-featured interface with a complete set of navigation
+controls tools to control the integration of additional datasets, or
+anything in between.
+
+We will add support for additional genomic data formats -- notably,
+better support for genetic variation data. We will also update the
+metadata model, and support additional metadata sources such as the
+&amp;quot;track hub&amp;quot; structures used by the UCSC browser. This will enable easy
+integration of existing data from the ENCODE project, and offer a simple
+route for sharing biological datasets with enough metadata to allow
+display in a genome browser with descriptions and track selection user
+interfaces.
+
+Finally, we plan to organise a federated data workshop to interact with
+developers and encourage the development of federated solutions for sharing
+biological data. This will be modelled on the popular DAS workshop that
+has been organised at Hinxton in the past, but with a broader aim of
+supporting and encouraging data integration in a variety of formats,
+notably the modern style of indexed binary data and trackhub-style
+metadata which allows discoverable data to be published with extremely
+low requirements for server hardware or administration.</gtr:abstractText><gtr:technicalSummary>In the course of this project, we plan to develop the existing
+Dalliance genome-browser code base and documentation. Our objectives
+are to:
+
+1. Maximise the value of genomic data by encouraging visualisation,
+exploration, and understanding. To this aim, we will provide tools
+which allow these data to be seen in context.
+
+2. Facilitate genome exploration by making it easy to embed genome 
+browser components in web pages, scientific papers, database front
+ends, and web interfaces for analysis tools.
+
+3. Make it easier to customise the browser to fit the styling of
+its enclosing application, and to interact seamlessly with the
+enclosing application's user interface, increasing the breadth
+of ways in which users can interact with these data, and promoting
+experimentation in the user interface space.
+
+4. Make it easier to discover and integrate new biological data
+sets using established technologies for metadata publication and
+sharing, encouraging the combination of data in new ways.
+
+5. Support all the important formats that are being used to share
+such data. We have a particular focus on compact and efficient
+formats which make access to large datasets practical, and make
+access to genomic data more feasible to those with limited network
+bandwidth.
+
+6. Maximise the performance of the browser, especially when accessing
+large datasets, to facilitate interactivity and data exploration.</gtr:technicalSummary><gtr:potentialImpactText>Genome browsers are vital tools for both academic and commercial
+exploitation of genomic data. The ability to visualise experimental
+biological datasets against existing genome annotation is a fundamental
+requirement for interpretation and analysis. The proposed development
+work will generate software that will lower the barriers to the creation
+of custom visualisation tools and analysis. The open availability of the
+software code will ensure its use is maximised.
+
+Since genome sequence based assays have become pervasive in biological
+research, this work has the potential to assist a large fraction of
+individuals who carry out biological research. This includes those
+working in the pharmaceutical industry where such analysis is important
+when using model organisms of human in drug development and in the
+analysis of genomic differences between human individuals as part of
+efforts to interpret gene disease relationships. It will directly
+benefit researchers developing tools that need to include a
+visualisation of data against genome coordinates by greatly simplifying
+the task of including that component. It will also enable a much wider
+researchers who are not specialist bioinformatics developers to
+construct web pages presenting their data in the form of interactive
+figures containing a fully functioning genome browser.
+
+As genomics become more widely adopted in medicine there will be new
+visualisation requirements for healthcare systems. Already
+direct-to-consumer genetic test companies provide browsers as part of
+their service. Both NHS and commercial groups developing analysis and
+decision support systems for doctors and patients that incorporate
+genomic data will similarly benefit through a simplified development
+path.
+
+Visualisation of biological information on a genome coordinate system
+has become such a fundamental principle of biology that it will become
+an important concept to teach in schools and as well as undergraduate
+classes. Simplified representations may also make good interactive
+displays for museum presentations about biology or health. Dalliance
+will bring the construction of genome browser interactive displays
+within reach of these groups by simplifying it to the level of creation
+of a stand alone web page.
+
+All these groups will benefit from the availability of Dalliance through
+the popular Github platform, making it easy for third-party developers
+to follow development, stay up to date, and -- if they wish -- submit
+their own changes for integration back into the main branch of
+development. Dalliance is released under a BSD-style license which means
+that it can be freely embedded into other systems, regardless of the
+licensing model of the enclosing application. Because Dalliance is an
+open source project, individual components can be used in other
+contexts. This will benefit all these groups by encouraging
+collaboration and code-sharing.
+
+To maximise the impact of this project, it is vital to engage developers
+from all sectors that might benefit from including genomics support in
+their applications. As well as engaging users through journal,
+conference, and web presence with extensive documentation, we plan to
+organise a federated data workshop to interact with developers and
+encourage the development of federated solutions for biological data. We
+see this workshop as a valuable opportunity to meet existing embedders,
+discuss new projects, and strengthen the community that is growing up
+around these technologies.</gtr:potentialImpactText><gtr:fund><gtr:end>2014-10-07</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/2512EF1C-401B-4222-9869-A770D4C5FAC7"><gtr:id>2512EF1C-401B-4222-9869-A770D4C5FAC7</gtr:id><gtr:name>BBSRC</gtr:name></gtr:funder><gtr:start>2013-04-08</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>84999</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs><gtr:collaborationOutput><gtr:collaboratingOrganisation>The Wellcome Trust Sanger Institute</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Custom display for GENCODE</gtr:description><gtr:id>405AD636-EF9E-4050-BA8C-635F09C2EAC9</gtr:id><gtr:impact>Pages on GENCODE Web site, plus a track hub of historical GENCODE data</gtr:impact><gtr:outcomeId>5463744867e212.92468215-1</gtr:outcomeId><gtr:partnerContribution>Running the website</gtr:partnerContribution><gtr:piContribution>Conversion scripts to convert GENCODE data into Biodalliance-compatible formats</gtr:piContribution><gtr:sector>Charity/Non Profit</gtr:sector><gtr:start>2013-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>The Wellcome Trust Sanger Institute</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Custom display for UK10K</gtr:description><gtr:id>0A4475A9-9C70-4040-A793-D166E5D7667F</gtr:id><gtr:impact>Website (http://www.uk10k.org/dalliance.html) linked to publication of UK10K flagship paper.
+Paper in preparation</gtr:impact><gtr:outcomeId>54638946a36888.71478451-1</gtr:outcomeId><gtr:partnerContribution>Discussion about how to display association data. Bug reports and suggestions. Building the final datasets and website</gtr:partnerContribution><gtr:piContribution>Extensions to Biodalliance code for better display and navigation of genetic association data.
+Advice about integration into the website.</gtr:piContribution><gtr:sector>Charity/Non Profit</gtr:sector><gtr:start>2013-01-01</gtr:start></gtr:collaborationOutput><gtr:collaborationOutput><gtr:collaboratingOrganisation>The Wellcome Trust Sanger Institute</gtr:collaboratingOrganisation><gtr:country>United Kingdom of Great Britain &amp; Northern Ireland (UK)</gtr:country><gtr:description>Custom display for Mouse Genomes Project</gtr:description><gtr:id>1923792E-8C95-429A-B936-BEF44C602FC3</gtr:id><gtr:impact>Web-site</gtr:impact><gtr:outcomeId>546377610b7424.22015381-1</gtr:outcomeId><gtr:partnerContribution>Discussions of BAM file display</gtr:partnerContribution><gtr:piContribution>Advice on display. Biodalliance plugin to help generate their preferred display on read-pair information from BAM files</gtr:piContribution><gtr:sector>Charity/Non Profit</gtr:sector><gtr:start>2014-01-01</gtr:start></gtr:collaborationOutput></gtr:collaborationOutputs><gtr:disseminationOutputs><gtr:disseminationOutput><gtr:description>TraIT hackathon</gtr:description><gtr:form>Participation in an activity, workshop or similar</gtr:form><gtr:geographicReach>International</gtr:geographicReach><gtr:id>B99BCBB0-3750-45D1-A702-64D36BEEE17B</gtr:id><gtr:impact>Discussions about how best to load different data types (future of DAS, binary files, etc.). 
+Fixed bugs. 
+Documented how to embed Biodalliance rather better.
+
+Bugs fixed.
+Documented how to embed Biodalliance rather better.</gtr:impact><gtr:outcomeId>54638c1946e510.13627595</gtr:outcomeId><gtr:partOfOfficialScheme>false</gtr:partOfOfficialScheme><gtr:primaryAudience>Other academic audiences (collaborators, peers etc.)</gtr:primaryAudience><gtr:url>https://wiki.ctmmtrait.nl/display/WP4/TraIT+Hackathon</gtr:url><gtr:year>2014</gtr:year></gtr:disseminationOutput></gtr:disseminationOutputs><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs><gtr:impactSummaryOutput><gtr:description>The Dalliance browser continues to be widely used by groups wanting to view genome data, both through existing portals that have adopted it and as a freely available stand alone piece of software that can easily be deployed. The main author has moved to an SME in the precision medicine space and is reusing components as part of their visualisation tool kits.</gtr:description><gtr:id>3A80D3AD-5CF8-4B4D-A217-D05D3D325E36</gtr:id><gtr:impactTypes><gtr:impactType>Economic</gtr:impactType></gtr:impactTypes><gtr:outcomeId>56e156bd02b289.46216425</gtr:outcomeId><gtr:sector>Pharmaceuticals and Medical Biotechnology</gtr:sector></gtr:impactSummaryOutput></gtr:impactSummaryOutputs><gtr:intellectualPropertyOutputs/><gtr:keyFindingsOutput><gtr:description>We have investigated rendering strategies for genomic data visualisation in a web environment and developed a new renderer based on the HTML5 canvas system. Our renderer, integrated into the Biodalliance genome browser, supports the whole of the DAS styling model (as implemented by, e.g. Ensembl), plus extensions motivated by discussion with users and collaborators working on genetic association studies and high-throughput sequencing results
+
+We have added support in Biodalliance for new formats such as BED and VCF (important for study of genetic variation) and substantially improved visualisation of BAM files produced by high-throughput sequencing experiments.
+
+We have worked on approaches for discovering and viewing large sets of genomic data, including complete support for UCSC-compatible &amp;quot;track hubs&amp;quot;.
+
+We have developed, extended, and documented APIs for other tools to interact with the Biodalliance genome-browser component, and to allow plugins for supporting new data types.
+
+We have improved support for password-protected access to secure datasets.</gtr:description><gtr:exploitationPathways>We have developed and documented an open source genome browser component which can be freely and straightforwardly used as part of a larger tool for, e.g., genome annotation or variant calling assessment, or which can be built into a web site for the presentation of research findings (e.g. GENCODE, UK10K). 
+
+Since 2016 report there have been no new formal releases, however there is active code development by the community that has developed around BioDalliance taking place within the GitHub code repository https://github.com/dasmoth/dalliance.</gtr:exploitationPathways><gtr:id>5AA54DC2-3537-4565-9CA4-EF182A0F5317</gtr:id><gtr:outcomeId>5464c39245f299.52965274</gtr:outcomeId><gtr:sectors><gtr:sector>Agriculture, Food and Drink,Healthcare,Manufacturing, including Industrial Biotechology,Pharmaceuticals and Medical Biotechnology</gtr:sector></gtr:sectors><gtr:url>http://www.biodalliance.org/</gtr:url></gtr:keyFindingsOutput><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs><gtr:softwareAndTechnicalProductOutput><gtr:description>Biodalliance is a fast, interactive, genome visualization tool that's easy to embed in web pages and applications. It supports integration of data from a wide variety of sources, and can load data directly from popular genomics file formats including bigWig, BAM, and VCF. This means you can build a fully-featured genome browser, such as the example on this page, using only a standard web server and a directory full of files - no databases or server-side support code are needed.
+New version released 3 Feb 2015</gtr:description><gtr:id>1F8CA343-18DA-4C17-B93B-8CB9D07B1BE7</gtr:id><gtr:impact>BAM rendering improvements (thanks to Yifei Men)
+Improved guideline when viewing base-pair resolution data (thanks to Daniel Rice)
+BAM index-index support (thanks to Dan Vanderkam)
+Amino acid translations of genes (thanks to Yifei Men)
+Added support for exporting bitmap (PNG) images.
+BAM and navigation bug fixes.
+Better placement of feature labels</gtr:impact><gtr:outcomeId>56e0469ca831a9.07813605</gtr:outcomeId><gtr:title>Biodalliance Version 0.13.0</gtr:title><gtr:type>Webtool/Application</gtr:type><gtr:url>http://www.biodalliance.org</gtr:url><gtr:yearFirstProvided>2015</gtr:yearFirstProvided></gtr:softwareAndTechnicalProductOutput><gtr:softwareAndTechnicalProductOutput><gtr:description>Biodalliance is a fast, interactive, genome visualization tool that's easy to embed in web pages and applications. It supports integration of data from a wide variety of sources, and can load data directly from popular genomics file formats including bigWig, BAM, and VCF. This means you can build a fully-featured genome browser, such as the example on this page, using only a standard web server and a directory full of files - no databases or server-side support code are needed.
+New version released 8 May 2014</gtr:description><gtr:id>07197B7B-1F2F-435F-8718-C75CF6ECA467</gtr:id><gtr:impact>Support for &amp;quot;textual&amp;quot; file formats: BED, WIG, and VCF.
+Allow the main &amp;quot;tracks&amp;quot; panel to scroll independently of the rest of the user interface.
+Allow tracks to be pinned to the top of the display.
+Allow more than one local file to be added in a single operation.
+An option to export the current Dalliance browser configuration.
+Optional use of web-workers (helpers which can concurrently fetch and process data) for better responsiveness when viewing large amounts of data.
+Performance improvements, especially when accessing BAM files.
+Support for a &amp;quot;bigChain&amp;quot; format (.chain files encoded as bigBeds) which can be used as an alignment source for coordinate mapping.
+New build system, based on NPM, Gulp.js, and Browserify.</gtr:impact><gtr:outcomeId>54638f4aea1fe7.86159261</gtr:outcomeId><gtr:title>Biodalliance Version 0.12.0</gtr:title><gtr:type>Webtool/Application</gtr:type><gtr:url>http://www.biodalliance.org/index.html</gtr:url><gtr:yearFirstProvided>2014</gtr:yearFirstProvided></gtr:softwareAndTechnicalProductOutput><gtr:softwareAndTechnicalProductOutput><gtr:description>Biodalliance is a fast, interactive, genome visualization tool that's easy to embed in web pages and applications. It supports integration of data from a wide variety of sources, and can load data directly from popular genomics file formats including bigWig, BAM, and VCF. This means you can build a fully-featured genome browser, such as the example on this page, using only a standard web server and a directory full of files - no databases or server-side support code are needed.
+New version released 10th September 2013</gtr:description><gtr:id>E66CE850-A58C-42F8-A707-14257749638E</gtr:id><gtr:impact>Many user-interface cleanups and improvements.
+New in-browser help system.
+Thresholding and leaping for quantitative tracks (currently bigwig only).
+Improved SVG export.
+New backends: JBrowse-style and Ensembl REST interfaces
+Improved interface between the browser and backends.
+Scatter plot views (POINTS glyph in stylesheets).
+Preliminary support for UCSC-style track hubs.
+Feature-info plugins.</gtr:impact><gtr:outcomeId>54638e8c10ee25.75752764</gtr:outcomeId><gtr:title>Biodalliance Version 0.9.0</gtr:title><gtr:type>Webtool/Application</gtr:type><gtr:url>http://www.biodalliance.org/notes.html</gtr:url><gtr:yearFirstProvided>2013</gtr:yearFirstProvided></gtr:softwareAndTechnicalProductOutput><gtr:softwareAndTechnicalProductOutput><gtr:description>Biodalliance is a fast, interactive, genome visualization tool that's easy to embed in web pages and applications. It supports integration of data from a wide variety of sources, and can load data directly from popular genomics file formats including bigWig, BAM, and VCF. This means you can build a fully-featured genome browser, such as the example on this page, using only a standard web server and a directory full of files - no databases or server-side support code are needed.
+New version released 15th October 2013</gtr:description><gtr:id>33ACA7E6-5954-4D6B-AB08-D9ADBEF6C19E</gtr:id><gtr:impact>User-interface elements which were previously presented as large pop-up elements (e.g. the track selector) have now been moved to a sidebar
+Many clean-ups to the track-selector, and a new matrix view for use with track-hubs.
+Completed support for the track-hub metadata model.
+Added a user-interface for manually connecting to a track-hub.
+Progress indicators on tracks which are actively loading data.
+Improved support for scatter-plot tracks.</gtr:impact><gtr:outcomeId>54638ed284d173.56949030</gtr:outcomeId><gtr:title>Biodalliance Version 0.10.0</gtr:title><gtr:type>Webtool/Application</gtr:type><gtr:url>http://www.biodalliance.org/notes.html</gtr:url><gtr:yearFirstProvided>2013</gtr:yearFirstProvided></gtr:softwareAndTechnicalProductOutput><gtr:softwareAndTechnicalProductOutput><gtr:description>Biodalliance is a fast, interactive, genome visualization tool that's easy to embed in web pages and applications. It supports integration of data from a wide variety of sources, and can load data directly from popular genomics file formats including bigWig, BAM, and VCF. This means you can build a fully-featured genome browser, such as the example on this page, using only a standard web server and a directory full of files - no databases or server-side support code are needed.
+New version released on 11th July 2013.</gtr:description><gtr:id>667F59EF-6A46-4D4B-8ABF-43AAC880A4D2</gtr:id><gtr:impact>First release using new Canvas-based renderer.
+Substantial re-write of user interface code.
+Event-based interface for writing alternative user interfaces.</gtr:impact><gtr:outcomeId>54638e3ba9d3b1.01378728</gtr:outcomeId><gtr:title>Biodalliance Version 0.8.0</gtr:title><gtr:type>Webtool/Application</gtr:type><gtr:url>http://www.biodalliance.org/notes.html</gtr:url><gtr:yearFirstProvided>2013</gtr:yearFirstProvided></gtr:softwareAndTechnicalProductOutput><gtr:softwareAndTechnicalProductOutput><gtr:description>Biodalliance is a fast, interactive, genome visualization tool that's easy to embed in web pages and applications. It supports integration of data from a wide variety of sources, and can load data directly from popular genomics file formats including bigWig, BAM, and VCF. This means you can build a fully-featured genome browser, such as the example on this page, using only a standard web server and a directory full of files - no databases or server-side support code are needed.
+New version released 2 February 2014</gtr:description><gtr:id>E0538CFE-B19E-45F5-9188-025E81709F15</gtr:id><gtr:impact>New track configuration tool.
+Buttons for jumping to next feature.
+Improved support for password-protected tracks and track-hubs.
+Support for VCF files (with Tabix indices).
+Support for indexed bigbeds and Trix indices.
+Much improved support for read-level display of data from BAM files.
+Support for high-DPI (e.g. Retina) displays.
+Numberous bug-fixes and performance improvements.</gtr:impact><gtr:outcomeId>54638f0699f2e5.80543514</gtr:outcomeId><gtr:title>Biodalliance Version 0.11.0</gtr:title><gtr:type>Webtool/Application</gtr:type><gtr:url>http://www.biodalliance.org/notes.html</gtr:url><gtr:yearFirstProvided>2014</gtr:yearFirstProvided></gtr:softwareAndTechnicalProductOutput></gtr:softwareAndTechnicalProductOutputs><gtr:spinOutOutputs/></gtr:output><gtr:publications><gtr:publication><gtr:id>3CB7EFB6-8859-4FC1-9DE3-2C685E363440</gtr:id><gtr:title>The UK10K project identifies rare variants in health and disease.</gtr:title><gtr:parentPublicationTitle>Nature</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/0de52d61bcdd816885d202f38d31b1db"><gtr:id>0de52d61bcdd816885d202f38d31b1db</gtr:id><gtr:otherNames>UK10K Consortium</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date><gtr:issn>0028-0836</gtr:issn><gtr:outcomeId>56e15c71abb0c1.77238856</gtr:outcomeId></gtr:publication><gtr:publication><gtr:id>555EAAC1-BBD4-4960-9FAF-707A98E04C44</gtr:id><gtr:title>An interactive genome browser of association results from the UK10K cohorts project.</gtr:title><gtr:parentPublicationTitle>Bioinformatics (Oxford, England)</gtr:parentPublicationTitle><gtr:authors><gtr:author url="http://gtr.ukri.org:80/person/d2a2afcddba5efbf45fdf50043b75327"><gtr:id>d2a2afcddba5efbf45fdf50043b75327</gtr:id><gtr:otherNames>Geihs M</gtr:otherNames></gtr:author></gtr:authors><gtr:date>2015-01-01</gtr:date><gtr:issn>1367-4803</gtr:issn><gtr:outcomeId>56e15c71cd0753.49086337</gtr:outcomeId></gtr:publication></gtr:publications><gtr:identifiers><gtr:identifier type="RCUK">BB/K015427/1</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects><gtr:researchSubject><gtr:id>FB535BD0-E265-4C0A-8532-32DCB83A3951</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Tools, technologies &amp; methods</gtr:text></gtr:researchSubject></gtr:researchSubjects><gtr:researchTopics><gtr:researchTopic><gtr:id>1F190F7B-B800-40B2-B250-62AD4842598F</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>Bioinformatics</gtr:text></gtr:researchTopic><gtr:researchTopic><gtr:id>FA4A8455-3074-48A4-B0CD-5B85D94B79F5</gtr:id><gtr:percentage>0</gtr:percentage><gtr:text>eScience</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>

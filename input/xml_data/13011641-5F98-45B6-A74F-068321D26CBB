@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:projectOverview xmlns:gtr="http://gtr.ukri.org/api"><gtr:projectComposition><gtr:collaborations/><gtr:leadResearchOrganisation url="http://gtr.ukri.org:80/organisation/2F578B8B-DAAF-43C8-8FA2-18EE526A7256"><gtr:id>2F578B8B-DAAF-43C8-8FA2-18EE526A7256</gtr:id><gtr:name>Powervault Ltd</gtr:name><gtr:address><gtr:line1>14 Marshalsea Rd</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>SE1 1HL</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:typeInd>P</gtr:typeInd></gtr:leadResearchOrganisation><gtr:organisationRoles><gtr:organisationRole url="http://gtr.ukri.org:80/organisation/2F578B8B-DAAF-43C8-8FA2-18EE526A7256" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="gtr:organisationParticipantRole"><gtr:id>2F578B8B-DAAF-43C8-8FA2-18EE526A7256</gtr:id><gtr:name>Powervault Ltd</gtr:name><gtr:address><gtr:line1>14 Marshalsea Rd</gtr:line1><gtr:city>London</gtr:city><gtr:postCode>SE1 1HL</gtr:postCode><gtr:region>London</gtr:region><gtr:country>United Kingdom</gtr:country></gtr:address><gtr:roles><gtr:role><gtr:name>LEAD_PARTICIPANT</gtr:name></gtr:role><gtr:role><gtr:name>PARTICIPANT</gtr:name></gtr:role></gtr:roles><gtr:offerGrant>86709.0</gtr:offerGrant><gtr:projectCost>123869.0</gtr:projectCost></gtr:organisationRole></gtr:organisationRoles><gtr:personRoles><gtr:personRole url="http://gtr.ukri.org:80/person/17F7D764-6A2B-4946-9B56-B753BFC7A3C1"><gtr:id>17F7D764-6A2B-4946-9B56-B753BFC7A3C1</gtr:id><gtr:firstName>Anna</gtr:firstName><gtr:surname>Mitchell</gtr:surname><gtr:roles><gtr:role><gtr:name>PROJECT_MANAGER</gtr:name></gtr:role></gtr:roles></gtr:personRole></gtr:personRoles><gtr:project url="http://gtr.ukri.org:80/projects?ref=132463"><gtr:id>13011641-5F98-45B6-A74F-068321D26CBB</gtr:id><gtr:title>SmartSTOR</gtr:title><gtr:status>Active</gtr:status><gtr:grantCategory>Feasibility Studies</gtr:grantCategory><gtr:grantReference>132463</gtr:grantReference><gtr:abstractText>The UK has committed itself to the universal roll out of smart meters - 53million for all homes and small
+
+businesses with 3.6million installed so far. An enabler for half hourly billing, smart meters are seen as a
+
+precursor to smart tariffs - British Gas launching their Free Time tariff this year, exclusively targeting smart
+
+meter customers. Designed to better align end user electricity costs with the marginal cost of procurement,
+
+time-variable pricing, be it time of use tariffs, or critical pricing (e.g. France's Tempo Bleu), is driven by the
+
+increasing presence of variable renewable generation, e.g. wind, on our energy system. However, relying on
+
+consumer behaviour change alone to respond to these price signals would fail to achieve the full potential
+
+benefits for the network, and likely entail higher energy bills for consumers. To enable customers to adjust
+
+their consumption to realise savings and avoid expensive peak periods, without compromising their lifestyles,
+
+requires access to load flexibility, which is intelligently controlled, can achieved optimised outcomes for all
+
+stakeholder. The SmartSTOR project will look to investigate the techno-economic opportunity available.</gtr:abstractText><gtr:fund><gtr:end>2017-10-31</gtr:end><gtr:funder url="http://gtr.ukri.org:80/organisation/E18E2F0F-AC7D-4E02-9559-669F7C8FEC74"><gtr:id>E18E2F0F-AC7D-4E02-9559-669F7C8FEC74</gtr:id><gtr:name>Innovate UK</gtr:name></gtr:funder><gtr:start>2017-02-01</gtr:start><gtr:type>INCOME_ACTUAL</gtr:type><gtr:valuePounds>86709</gtr:valuePounds></gtr:fund><gtr:output><gtr:artisticAndCreativeProductOutputs/><gtr:collaborationOutputs/><gtr:disseminationOutputs/><gtr:exploitationOutputs/><gtr:furtherFundingOutputs/><gtr:impactSummaryOutputs/><gtr:intellectualPropertyOutputs/><gtr:otherResearchOutputs/><gtr:policyInfluenceOutputs/><gtr:productOutputs/><gtr:researchDatabaseAndModelOutputs/><gtr:researchMaterialOutputs/><gtr:softwareAndTechnicalProductOutputs/><gtr:spinOutOutputs/></gtr:output><gtr:publications/><gtr:identifiers><gtr:identifier type="RCUK">132463</gtr:identifier></gtr:identifiers><gtr:healthCategories/><gtr:researchActivities/><gtr:researchSubjects/><gtr:researchTopics><gtr:researchTopic><gtr:id>D05BC2E0-0345-4A3F-8C3F-775BC42A0819</gtr:id><gtr:text>Unclassified</gtr:text></gtr:researchTopic></gtr:researchTopics><gtr:rcukProgrammes/></gtr:project></gtr:projectComposition></gtr:projectOverview>
