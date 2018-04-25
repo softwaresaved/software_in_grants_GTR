@@ -86,6 +86,6 @@ Combine summary and abstract data and run the analyses:
 If you just want to run the second step without having run the first step, first extract the ```gtr_data_titles_and_abs-all.csv``` from its pregenerated tarfile
 within the ```intermediate``` subdirectory, e.g.:
 
-    * ```cd intermediate```
-    * ```tar -xzf gtr_data_titles_and_abs-all.tar.gz```
-    * ```cd ..```
+* ```cd intermediate```
+* ```tar -xzf gtr_data_titles_and_abs-all.tar.gz```
+* ```cd ..```
