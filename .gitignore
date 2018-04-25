@@ -6,5 +6,5 @@ log/*.log
 
 # These are too large for GitHub
 intermediate/gtr_data_titles_and_abs*.csv
-output/*/final_df.csv
-output/*/only_grants_related_to_software.csv
+output/*/*/final_df.csv
+output/*/*/only_grants_related_to_software.csv

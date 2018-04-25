@@ -13,8 +13,8 @@ from xml.etree import cElementTree as et
 import pandas as pd
 from pandas import ExcelWriter
 
-from config import (INPUTOUTPUT_PROCESSFILES, COM_INPUTDIR, COM_INPUTXMLDIR,
-                    COM_XMLNAMESPACE, COM_OUTPUTDIR, COM_LOGFILE)
+from config import (COM_INPUTDIR, COM_INPUTFILE, COM_INPUTXMLDIR,
+                    COM_XMLNAMESPACE, COM_OUTPUTDIR, COM_OUTPUTFILE, COM_LOGFILE)
 
 
 # Set up logging
@@ -144,19 +144,22 @@ def main():
 
     # Cycle through each input GtR summary CSV file and add in abstracts
     # for each project, extracting from the XML project data
-    for input_dataset, output_dataset in INPUTOUTPUT_PROCESSFILES:
-        logger.info('Importing data ' + input_dataset + '...')
+    logger.info('Importing data ' + COM_INPUTFILE + '...')
 
-        # Import and clean our input dataset
-        input_filepath = os.path.join(COM_INPUTDIR, input_dataset)
-        df = import_csv_to_df(input_filepath)
-        df = clean_input_data(df)
+    # Import and clean our input dataset
+    input_filepath = os.path.join(COM_INPUTDIR, COM_INPUTFILE)
+    df = import_csv_to_df(input_filepath)
+    df = clean_input_data(df)
 
-        df = combine_gtr_abstracts(df)
-        df = remove_null_entries(df)
+    # For each project row in the input dataset, add in corresponding
+    # abstract extracted from its XML project metadata, then remove
+    # any entries with no title or abstract
+    df = combine_gtr_abstracts(df)
+    df = remove_null_entries(df)
 
-        output_filepath = os.path.join(COM_OUTPUTDIR, output_dataset)
-        export_to_csv(df, output_filepath)
+    # Save our output dataset with abstracts inserted
+    output_filepath = os.path.join(COM_OUTPUTDIR, COM_OUTPUTFILE)
+    export_to_csv(df, output_filepath)
 
     # Display script run time and exit
     execution_time = (time.time() - start_time)/60

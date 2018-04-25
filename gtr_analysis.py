@@ -12,8 +12,9 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-from config import (INPUTOUTPUT_PROCESSFILES, COM_OUTPUTDIR, ANA_SEARCHFIELDS,
-                    ANA_BACKGROUNDOUTPUTDIR, ANA_OUTPUTDIR, ANA_SUBSETYEARS, ANA_LOGFILE)
+from config import (COM_OUTPUTDIR, COM_OUTPUTFILE, ANA_ANALYSES, ANA_SEARCHFIELDS,
+                    ANA_BACKGROUNDOUTPUTDIR, ANA_OUTPUTDIR, ANA_OUTPUTPNGSUBDIR, ANA_OUTPUTCSVSUBDIR,
+                    ANA_SUBSETYEARS, ANA_LOGFILE)
 
 from search_terms import SEARCH_TERM_LIST
 
@@ -31,22 +32,23 @@ logger.addHandler(handler)
 
 
 def import_csv_to_df(filepath):
-    """
-    Imports a csv file into a Pandas dataframe
-    :params: an xls file and a sheetname from that file
-    :return: a df
+    """Imports a csv file into a Pandas dataframe.
+
+       :params: an xls file and a sheetname from that file
+       :return: a df
     """
 
     return pd.read_csv(filepath)
 
 
 def export_to_csv(df, filepath, index_write, compress=False):
-    """
-    Exports a df to a csv file, optionally compressing it as a .tar.gz file
-    :params: a df and a path in which to save it
-    :return: nothing, saves a csv
+    """Exports a df to a csv file, with an optional compressed copy.
+
+       :params: a df and a path in which to save it
+       :return: nothing, saves a csv and optionally a .tar.gz copy
     """
 
+    filepath = os.path.join(ANA_OUTPUTCSVSUBDIR, filepath)
     df.to_csv(filepath + '.csv', index=True)
 
     if compress:
@@ -66,10 +68,11 @@ def convert_to_date(df):
 
 
 def clean_input_data(df):
-    """
-    Couple of things we can do to make things cleaner. Drop all pre-2000 data (which 
-    is of dubious quality) and remove records where the end date is earlier than the
-    start date. If they can't get the date right... what else is wrong with the data?
+    """Clean grants input dataframe.
+
+       Couple of things we can do to make things cleaner. Drop all pre-2000 data (which 
+       is of dubious quality) and remove records where the end date is earlier than the
+       start date. If they can't get the date right... what else is wrong with the data?
     """
 
     before = len(df)
@@ -89,6 +92,7 @@ def clean_input_data(df):
 
 
 def save_bar_chart(df, x_col, y_col, file, percentage):
+    """Generate a bar chart from the dataframe via Matplotlib."""
     # Must clear the plot first, or labels from previous plots are included
     plt.clf()
 
@@ -102,14 +106,16 @@ def save_bar_chart(df, x_col, y_col, file, percentage):
 
     fig = ax.get_figure()
     fig.tight_layout()
-    fig.savefig(file + '.png')
+
+    filepath = os.path.join(ANA_OUTPUTPNGSUBDIR, file)
+    fig.savefig(filepath + '.png')
 
 
 def get_years(df):
-    """
-    Want the unique years in the dataframe. Output this as a dict of lists
-    for the unique years in the start dates, the unique years in the end dates and the
-    unique years in both
+    """Extract the unique years within the dataset.
+
+       Output this as a dict of lists for the unique years in the start dates,
+       the unique years in the end dates and the unique years in both
     """
     # Get lists of the years in the data
     # The 'set' gets the unique values, and this is then converted back to a list
@@ -138,9 +144,7 @@ def get_years(df):
 
 
 def get_funders(df):
-    """
-    Return a list of the unique funders found in the data
-    """
+    """Return a list of the unique funders found in the data."""
 
     funders_in_data = df['fundingorgname'].unique()
     funders_in_data.sort()
@@ -156,10 +160,10 @@ def get_funders(df):
 
 
 def get_total_grants(df, years_in_data):
-    """
-    Need to know how many grants started in each year. This will be used to calculate
-    percentages later on. Collecting count of grants over all years too, because it looks
-    like it might be important...
+    """Calculate grants started in each year in the data.
+
+       Used to calculate percentages later on. Collecting count of grants
+       over all years too, because it looks like it might be important...
     """
     # How many grants are there in total (i.e. over all years)
     total_records = len(df)
@@ -178,17 +182,17 @@ def get_total_grants(df, years_in_data):
         number_of_grants_started_df.loc[current_year, 'how many grants started in year'] = number_started
 
     # Write out to a file for future reference
-    background_filepath = os.path.join(ANA_BACKGROUNDOUTPUTDIR, 'all_grants_count')
-    export_to_csv(number_of_grants_started_df, background_filepath, index_write=True)
+    #background_filepath = os.path.join(ANA_BACKGROUNDOUTPUTDIR, 'all_grants_count')
+    export_to_csv(number_of_grants_started_df, 'all_grants_count', index_write=True)
 
     return num_of_grants_started
 
 
 def find_keywords(df, keyword_list, where_to_search):
-    """
-    Finds a keyword in a dataframe
-    :params: a dataframe and a column in which to search
-    :refturn: a dataframe containing only the rows in which the term was found
+    """Finds a keyword in a dataframe.
+
+       :params: a dataframe and a column in which to search
+       :return: a dataframe containing only the rows in which the term was found
     """
     # Initialise
     all_columns = []
@@ -215,10 +219,9 @@ def find_keywords(df, keyword_list, where_to_search):
 
 
 def get_annual_spend(df, years_in_data):
-    """
-    Calculates how many years the grant spans and the amount of funding that is made each year
+    """Calculates yearly duration for each grant and the amount of funding that is made each year.
 
-    NOTE: this assumes that the spend happens uniformly over the years, e.g. a project running from
+       NOTE: this assumes that the spend happens uniformly over the years, e.g. a project running from
           December 2015 to February 2017 spans three years (2015, 2016 & 2017) so the program will assume
           that 33 percent of the total award will be spent in each of those years. This assumption really
           simplifies the code without losing too much detail.
@@ -239,10 +242,11 @@ def get_annual_spend(df, years_in_data):
     return df
 
 
-def get_summary_data(df, where_to_search, keyword_list, years_in_data, num_of_grants_started, funders_in_data):
-    """
-    Separate the df into years, and then count how many times each of the words
-    are found in each part of the research grant
+def output_summary_data(df, where_to_search, keyword_list, years_in_data, num_of_grants_started, funders_in_data):
+    """Save a summary of the keyword search results by year.
+
+       Separate the df into years, and then count how many times each of the words
+       are found in each part of the research grant
     """
 
     # Get the start years from the dict of lists
@@ -279,9 +283,10 @@ def get_summary_data(df, where_to_search, keyword_list, years_in_data, num_of_gr
 
 
 def save_only_software_grants(df, where_to_search):
-    """
-    Want a df that contains only grants that are related to software, i.e. that
-    have a keyword found in the title of abstract.
+    """Extract only those entries that are related to software.
+
+       Return a df that contains only grants that are related to software, i.e. that
+       have a keyword found in the title of abstract.
     """
     # Create a list that contains the names of the summary cols
     # typically "abstract_all_terms" and "title_all_terms"
@@ -300,6 +305,7 @@ def save_only_software_grants(df, where_to_search):
 
 
 def software_grants_by_funder(df, df_only_found, years_in_data, num_of_grants_started, funders_in_data):
+    """Save a summary of software grants by funder."""
 
     start_years = years_in_data['start_years']
 
@@ -339,6 +345,8 @@ def software_grants_by_funder(df, df_only_found, years_in_data, num_of_grants_st
 
 
 def get_software_grants_cost_by_funder(df_only_found, df, years_in_data, num_of_grants_started, funders_in_data):
+    """Save a summary of software grant costs by funder, for each year we want."""
+
     # Get all years contained in data
     all_years = years_in_data['all_years']
 
@@ -388,6 +396,7 @@ def get_software_grants_cost_by_funder(df_only_found, df, years_in_data, num_of_
 
 
 def average_annual_spend_on_software(df_cost, years_in_data, funders_in_data):
+    """Output a summary of the average annual software spend (as % of funding), across all funders."""
 
     # Get average figures only for the years we're interested in
     df_cost_sub = df_cost.loc[ANA_SUBSETYEARS]
@@ -427,6 +436,7 @@ def average_annual_spend_on_software(df_cost, years_in_data, funders_in_data):
 
 
 def search_term_popularity(df_only_found, keyword_list, funders_in_data):
+    """Output search term popularity across each funder in the data."""
 
     # Our results dataframe for keyword counts per funder
     df_term_pop = pd.DataFrame()
@@ -461,26 +471,18 @@ def search_term_popularity(df_only_found, keyword_list, funders_in_data):
     logger.info('Calculated search term popularity across search results.')
 
 
-def process_dataset(dataset_filename, where_to_search):
+def process_dataset(df, desc, where_to_search):
     # If the output directory for this dataset doesn't exist, create it
-    dir_path = os.path.join(ANA_OUTPUTDIR, dataset_filename)
+    dir_path = os.path.join(ANA_OUTPUTDIR, 'results-' + desc)
     if not os.path.exists(dir_path):
         os.makedirs(dir_path)
         os.makedirs(os.path.join(dir_path, ANA_BACKGROUNDOUTPUTDIR))
+        os.makedirs(os.path.join(dir_path, ANA_OUTPUTCSVSUBDIR))
+        os.makedirs(os.path.join(dir_path, ANA_OUTPUTPNGSUBDIR))
 
     # Change to the directory in which all CSV and PNG results
     # will be created
     os.chdir(dir_path)
-
-    # Get GTR summary data from our combination process output directory
-    df = import_csv_to_df('../../' + COM_OUTPUTDIR + '/' + dataset_filename)
-    logger.info('Imported df includes ' + str(len(df)) + ' records')
-
-    # Make the dates, er... well... dates
-    df = convert_to_date(df)
-
-    # Clean GtR summary data
-    df = clean_input_data(df)
 
     # Get a dict of lists in which the years represented in the data are stored
     years_in_data = get_years(df)
@@ -498,7 +500,7 @@ def process_dataset(dataset_filename, where_to_search):
     find_keywords(df, SEARCH_TERM_LIST, where_to_search)
 
     # Produce summaries of what was found, where and when
-    get_summary_data(df, where_to_search, SEARCH_TERM_LIST, years_in_data, num_of_grants_started, funders_in_data)
+    output_summary_data(df, where_to_search, SEARCH_TERM_LIST, years_in_data, num_of_grants_started, funders_in_data)
 
     # Produce a df of the details of only grants related to software and save this to csv
     df_only_found = save_only_software_grants(df, where_to_search)
@@ -523,12 +525,30 @@ def process_dataset(dataset_filename, where_to_search):
 
 
 def main():
+    # Get GTR summary data from our combination process output directory
+    input_filepath = os.path.join(COM_OUTPUTDIR, COM_OUTPUTFILE)
+    df = import_csv_to_df(input_filepath)
+    logger.info('Imported df includes ' + str(len(df)) + ' records')
+
+    # Make the dates, er... well... dates
+    df = convert_to_date(df)
+
+    # Clean GtR summary data
+    df = clean_input_data(df)
+
     # Loop through each of the input files we wish to process, and run
     # the analysis on each. CSV and PNG results are stored in subdirectories
     # of ANA_OUTPUTDIR, one subdirectory for each analysis
-    for _, input_dataset in INPUTOUTPUT_PROCESSFILES:
-        logger.info('------ Processing run: ' + input_dataset + ' ------')
-        process_dataset(input_dataset, ANA_SEARCHFIELDS)
+    for desc, projectcategory_match in ANA_ANALYSES:
+        logger.info('------ Processing analysis: ' + desc + ' ------')
+        subset_df = df.loc[df['projectcategory'].str.contains(projectcategory_match, regex=True)]
+
+        # Suppress irrelevant SettingWithCopyWarning, since we
+        # _want_ to conduct operations on the copied dataframe
+        # and not the original
+        subset_df.is_copy = False
+
+        process_dataset(subset_df, desc, ANA_SEARCHFIELDS)
 
 
 if __name__ == '__main__':
