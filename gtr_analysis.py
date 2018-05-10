@@ -2,6 +2,7 @@
 # encoding: utf-8
 
 import os
+import sys
 import math
 import string
 import time
@@ -103,6 +104,23 @@ def save_bar_chart(df, x_col, y_col, file, percentage):
     # If wanting to display percentage on y axis, set limits accordingly
     if percentage:
         plt.ylim([0, 100])
+
+    fig = ax.get_figure()
+    fig.tight_layout()
+
+    filepath = os.path.join(ANA_OUTPUTPNGSUBDIR, file)
+    fig.savefig(filepath + '.png')
+
+
+def save_histogram_chart(df, my_bins, x_col, y_col, file):
+    """Generate a histogram chart from the dataframe via Matplotlib."""
+    # Must clear the plot first, or labels from previous plots are included
+    plt.clf()
+
+    ax = df.plot(kind='hist', bins=my_bins, xticks=my_bins, logy=True, rot=45, rwidth=0.9, legend=False)
+    ax.set_xlabel(x_col)
+    ax.set_ylabel(y_col)
+    plt.ticklabel_format(axis='x', style='plain')
 
     fig = ax.get_figure()
     fig.tight_layout()
@@ -471,6 +489,13 @@ def search_term_popularity(df_only_found, keyword_list, funders_in_data):
     logger.info('Calculated search term popularity across search results.')
 
 
+def generate_histogram_projects_by_award(df_only_found):
+
+    my_bins=[0, 1000000, 2000000, 3000000, 4000000, 5000000, 6000000, 7000000, 8000000, 9000000, 10000000]
+    save_histogram_chart(df_only_found['awardpounds'], my_bins, 'Project Award (£)',
+                         'Number of software-related projects (log)', 'projects_by_award')
+
+
 def process_dataset(df, desc, where_to_search):
     # If the output directory for this dataset doesn't exist, create it
     dir_path = os.path.join(ANA_OUTPUTDIR, 'results-' + desc)
@@ -516,6 +541,9 @@ def process_dataset(df, desc, where_to_search):
 
     # Find average costs of software-related grants by year, per funder
     average_annual_spend_on_software(df_cost, years_in_data, funders_in_data)
+
+    # Generate a histogram of projects by cost
+    generate_histogram_projects_by_award(df_only_found)
 
     # Output entire processing dataframe
     export_to_csv(df, 'final_df', index_write=False, compress=True)
