@@ -35,6 +35,7 @@ In this study, I'll investigate the successful grant applications provided by [G
     * ```software_spend_all_percent``` & ```software_spend_percent_<funder>```: summary of software spending as a percentage of funding for each year, for all funders and each funder individually
     * ```software_spend_all_average_amount```: summary of average software spending per year for each funder
     * ```software_spend_all_average_percent```: summary of average software spending per year for each funder, as a percentage of total funder's funding
+    * ```projects_by_award```: histogram summary of number of projects by award
 * Background data about all grants - not just those related to software - are stored in the ```output/background_data``` directory
     * ```all_years_in_data```: a list spaning all years in the data from the start year of the earliest start date to the end year of the latest end date
     * ```end_years_in_data```: a list of all the years in which a grant ends
