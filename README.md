@@ -49,6 +49,9 @@ In this study, I'll investigate the successful grant applications provided by [G
 Get the files and data:
 
 1. [Clone the git repository](https://github.com/softwaresaved/software_in_grants_GTR)
+1. Clone the policy_common_data submodule to import the software-related search terms to search for
+   * ```cd software_in_grants_GTR```
+   * ```git submodule update --init --recursive```
 
 Install the script prerequisites:
 
