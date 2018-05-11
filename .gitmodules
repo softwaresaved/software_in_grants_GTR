@@ -1,0 +1,4 @@
+[submodule "lib/policy_common_data"]
+	path = lib/policy_common_data
+	url = https://github.com/softwaresaved/policy_common_data.git
+	branch = master

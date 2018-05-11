@@ -17,8 +17,10 @@ from config import (COM_OUTPUTDIR, COM_OUTPUTFILE, ANA_ANALYSES, ANA_SEARCHFIELD
                     ANA_BACKGROUNDOUTPUTDIR, ANA_OUTPUTDIR, ANA_OUTPUTPNGSUBDIR, ANA_OUTPUTCSVSUBDIR,
                     ANA_SUBSETYEARS, ANA_LOGFILE)
 
-from search_terms import SEARCH_TERM_LIST
 
+# Add search terms from policy_common_data submodule repo
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), "lib", "policy_common_data"))
+from commondata.softwaresearchterms import SoftwareSearchTerms
 
 # Set up logging
 logging.basicConfig(level=logging.DEBUG)
@@ -496,7 +498,7 @@ def generate_histogram_projects_by_award(df_only_found):
                          'Number of software-related projects (log)', 'projects_by_award')
 
 
-def process_dataset(df, desc, where_to_search):
+def process_dataset(df, desc, where_to_search, search_terms):
     # If the output directory for this dataset doesn't exist, create it
     dir_path = os.path.join(ANA_OUTPUTDIR, 'results-' + desc)
     if not os.path.exists(dir_path):
@@ -522,16 +524,16 @@ def process_dataset(df, desc, where_to_search):
 
     # Add new columns showing where each of the keywords was
     # found in the grant
-    find_keywords(df, SEARCH_TERM_LIST, where_to_search)
+    find_keywords(df, search_terms, where_to_search)
 
     # Produce summaries of what was found, where and when
-    output_summary_data(df, where_to_search, SEARCH_TERM_LIST, years_in_data, num_of_grants_started, funders_in_data)
+    output_summary_data(df, where_to_search, search_terms, years_in_data, num_of_grants_started, funders_in_data)
 
     # Produce a df of the details of only grants related to software and save this to csv
     df_only_found = save_only_software_grants(df, where_to_search)
 
     # Find relative popularity of the search terms
-    search_term_popularity(df_only_found, SEARCH_TERM_LIST, funders_in_data)
+    search_term_popularity(df_only_found, search_terms, funders_in_data)
 
     # Split the data by funder
     software_grants_by_funder(df, df_only_found, years_in_data, num_of_grants_started, funders_in_data)
@@ -558,6 +560,9 @@ def main():
     df = import_csv_to_df(input_filepath)
     logger.info('Imported df includes ' + str(len(df)) + ' records')
 
+    # Get our search terms from policy_common_data
+    search_terms = SoftwareSearchTerms().data
+
     # Make the dates, er... well... dates
     df = convert_to_date(df)
 
@@ -576,7 +581,7 @@ def main():
         # and not the original
         subset_df.is_copy = False
 
-        process_dataset(subset_df, desc, ANA_SEARCHFIELDS)
+        process_dataset(subset_df, desc, ANA_SEARCHFIELDS, search_terms)
 
 
 if __name__ == '__main__':

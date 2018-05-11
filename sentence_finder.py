@@ -1,16 +1,19 @@
 #!/usr/bin/env python
 # encoding: utf-8
 
+import os
+import sys
 import pandas as pd
 import numpy as np
 import string
 import re
 
-from search_terms import SEARCH_TERM_LIST
+# Add search terms from policy_common_data submodule repo
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), "lib", "policy_common_data"))
+from commondata.softwaresearchterms import SoftwareSearchTerms
 
 # Other global variables
-DATAFILENAME = "./output/final_df.csv"
-RESULT_STORE = "./output/"
+DATAFILENAME = "./output/results-all/csv/final_df.csv"
 
 
 def import_csv_to_df(filename):
@@ -107,10 +110,13 @@ def main():
     # because it's too uncoupled from the actual case study content
     possible_search_places = ['title', 'abstract']
 
+    # Get our search terms from policy_common_data
+    search_terms = SoftwareSearchTerms().data
+
     # Import case study data
     df = import_csv_to_df(DATAFILENAME)
 
-    term_of_focus = term_of_interest(SEARCH_TERM_LIST)
+    term_of_focus = term_of_interest(search_terms)
 
     find_terms_and_context(df, term_of_focus, possible_search_places)
 
